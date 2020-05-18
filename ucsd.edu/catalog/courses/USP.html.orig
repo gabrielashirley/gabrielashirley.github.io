@@ -1,0 +1,345 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Urban Studies and Planning Courses</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopMargin">Urban Studies and Planning</h1>
+<p><span class="courseFacLink">[ <a href="../curric/USP.html">program</a> | <a href="../courses/USP.html"> </a> <a href="../faculty/USP.html">faculty</a> ]</span></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/Course Name and Disclaimer.lbi" -->
+<h2>Courses</h2>
+<p class="course-disclaimer"><em>For course descriptions not found in the </em>UC
+  San Diego General Catalog 2019&#8211;20<em>, please contact the department
+  for more information.</em></p><!-- #EndLibraryItem --><h2 class="course-subhead-1">Lower Division</h2>
+				<p class="anchor-parent"><a class="anchor" id="usp1" name="usp1" /></a></p><p class="course-name">USP 1. History of US Urban Communities (4)</p>
+				<p class="course-descriptions">This course charts the development of urban communities across the United States both temporally and geographically. It examines the patterns of cleavage, conflict, convergence of interest, and consensus that have structured urban life. Social, cultural, and economic forces will be analyzed for the roles they have played in shaping the diverse communities of America&#8217;s cities. </p>
+				<p class="anchor-parent"><a class="anchor" id="usp2" name="usp2" /></a></p><p class="course-name">USP 2. Urban World System (4)</p>
+				<p class="course-descriptions">Examines cities and the environment in a global context. Emphasizes how the world&#8217;s economy and the earth&#8217;s ecology are increasingly interdependent. Focuses on biophysical and ethicosocial concerns rooted in the contemporary division of labor among cities, Third World industrialization, and the post-industrial transformation of US cities. </p>
+				<p class="anchor-parent"><a class="anchor" id="usp3" name="usp3" /></a></p><p class="course-name">USP 3. The City and Social Theory (4)</p>
+				<p class="course-descriptions">An introduction to the sociological study of cities, focusing on urban society in the United States. Students in the course will examine theoretical approaches to the study of urban life; social stratification in the city; urban social and cultural systems–ethnic communities, suburbia, family life in the city, religion, art, and leisure.		</p>
+				<p class="anchor-parent"><a class="anchor" id="usp4" name="usp4" /></a></p><p class="course-name">USP 4. Introduction to Geographic Information Systems (4)</p>
+				<p class="course-descriptions">This course provides an entry-level introduction to Geographic Information Systems (GIS) and using GIS to make decisions: acquiring data and organizing data in useful formats, demographic mapping, and geocoding.</p>
+<p class="anchor-parent"><a class="anchor" id="usp5" name="usp5" /></a></p><p class="course-name">USP 5. Introduction to the Real Estate and Development Process (4)</p>
+				<p class="course-descriptions">This course introduces students to the terminology, concepts, and basic practices of real estate finance and development. It surveys real estate law, appraisal, marketing, brokerage, management, finance, investment analysis, and taxation.</p>
+		<p class="anchor-parent"><a class="anchor" id="usp15" name="usp15" /></a></p><p class="course-name">USP 15. Applied Urban Economics for Planning and Development (4)</p>
+				<p class="course-descriptions">This course explores how economics contributes to understanding and solving urban problems using a &ldquo;learn by doing&rdquo; approach. Economic analysis will be applied to important issues that planners and developers must deal with, such as land markets, housing, and zoning.
+        </p>
+				<p class="anchor-parent"><a class="anchor" id="usp25" name="usp25" /></a></p><p class="course-name">USP 25. Real Estate and Development Principles and Analysis (4)</p>
+				<p class="course-descriptions">This course will analyze the concepts related to the planning, development, leasing, valuation, and financing of real estate. There will be special emphasis on critical thinking and analytical decision-making by solving real estate problems primarily using Excel and Argus.</p>
+<p class="anchor-parent"><a class="anchor" id="usp50" name="usp50" /></a></p><p class="course-name">USP 50. Real Estate and Development Colloquium (2)</p>
+				<p class="course-descriptions">In this course, students will attend weekly seminars presented by leading researchers and practitioners in the field of real estate and development. Students will learn about best practices and innovative case studies from the field. Recommended for students interested in the real estate and development minor or major.</p>
+
+<h2 class="course-subhead-1">Upper Division </h2>
+				<p class="anchor-parent"><a class="anchor" id="usp100" name="usp100" /></a></p><p class="course-name">USP 100. Introduction to Urban Planning (4)</p>
+				<p class="course-descriptions">This course is designed to provide an introduction to the fundamentals of urban planning. It surveys important topics in urban planning, including economic development, urban design, transportation, environmental planning, housing, and the history of urban planning. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="usp101" name="usp101" /></a></p><p class="course-name">USP 101. Introduction to Policy Analysis (4)</p>
+				<p class="course-descriptions">(Same as POLI 160AA.) This course will explore the process by which the preferences of individuals are converted into public policy. Also included will be an examination of the complexity of policy problems, methods for designing better policies, and a review of tools used by analysts and policy makers. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="usp102" name="usp102" /></a></p><p class="course-name">USP 102. Urban Economics (4)</p>
+				<p class="course-descriptions">(Same as ECON 135.) Economic analysis of why and where cities develop, patterns of land use in cities, why cities sub-urbanize, and the pattern of urban commuting. The course also examines problems of urban congestion, air pollution, zoning, poverty, and crime, and discusses public policies to deal with them. Credit not allowed for both ECON 135 and USP 102.  <strong class="italic">Prerequisites: </strong>ECON 2 or 100A and MATH 10A or 20A. </p>
+				<p class="anchor-parent"><a class="anchor" id="usp104" name="usp104" /></a></p><p class="course-name">USP 104. Ethnic Diversity and the City (4)</p>
+				<p class="course-descriptions">(Same as ETHN 105.) This course will examine the city as a crucible of ethnic identity exploring both the racial and ethnic dimensions of urban life in the United States from the Civil War to the present. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="usp105" name="usp105" /></a></p><p class="course-name">USP 105. Urban Sociology (4)</p>
+				<p class="course-descriptions">(Same as SOCI 153.) Introduces students
+				  to the major approaches in the sociological study of cities and to what
+	    a sociological analysis can add to our understanding of urban processes. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="usp106" name="usp106" /></a></p><p class="course-name">USP 106. The History of Race and Ethnicity in American Cities (4)</p>
+				<p class="course-descriptions">(Same as HIUS 129.) This class examines the history of racial and ethnic groups in American cities. It looks at major forces of change such as immigration to cities, political empowerment, and social movements, as well as urban policies such as housing segregation. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+		<p class="anchor-parent"><a class="anchor" id="usp107" name="usp107" /></a></p><p class="course-name">USP 107. Urban Politics (4)</p>
+				<p class="course-descriptions">(Same as POLI 102E.) This survey course focuses upon the following six topics: the evolution of urban politics since the mid-nineteenth century; the urban fiscal crisis; federal/urban relationships; the “new” politics; urban power structure and leadership; and selected contemporary policy issues such as downtown redevelopment, poverty, and race. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="usp109" name="usp109" /></a></p><p class="course-name">USP 109. California Government and Politics (4)</p>
+				<p class="course-descriptions">(Same as POLI 103A.) This survey course explores six topics: 1) the state&#8217;s political history; 2) campaigning, the mass media, and elections; 3) actors and institutions in the making of state policy; 4) local government; 5) contemporary policy issues; e.g., Proposition 13, school desegregation, crime, housing and land use, transportation, water; 6) California&#8217;s role in national politics. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="usp110" name="usp110" /></a></p><p class="course-name">USP 110. Advanced Topics in Urban Politics (4)</p>
+				<p class="course-descriptions">(Same as POLI 102J.) Building upon the introductory urban politics course, the advanced topics course explores issues such as community power, minority empowerment, and the politics of growth. A research paper is required. Students may not receive credit for both POLI 102J and USP 110.  <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="usp113" name="usp113" /></a></p><p class="course-name">USP 113. Politics and Policymaking in Los Angeles (4)</p>
+				<p class="course-descriptions">(Same as POLI 103B.) This course examines politics and policymaking in the five-county Los Angeles region. It explores the historical development of the city, suburbs, and region; politics, power, and governance; and major policy challenges facing the city and metropolitan area. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+		<p class="anchor-parent"><a class="anchor" id="usp114" name="usp114" /></a></p><p class="course-name">USP 114. Communication and Social Institutions: Science Communication (4)</p>
+		<p class="course-descriptions">(Same as COMM 114T.) Examine science communication as a profession and unique form of storytelling. Identify who does science communication; how, why, and with what impacts. Highlight science communication&rsquo;s role in democracy, power, public reason, technological trajectories, the sustainability transition, and shifting university-community relations. <strong><em>Prerequisites: </em></strong>COMM 10 or USP 2.</p>
+<p class="anchor-parent"><a class="anchor" id="usp115" name="usp115" /></a></p><p class="course-name">USP 115. Politics and Policymaking in San Diego (4)</p>
+				<p class="course-descriptions">(Same as POLI 103C.) This course examines how major policy decisions are made in San Diego. In analyses the region&#8217;s power structure (including the roles of nongovernmental organizations and the media), governance systems and reform efforts, and the politics of major infrastructure projects. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="usp116" name="usp116" /></a></p><p class="course-name">USP 116. California
+		  Local Government: Finance and Administration (4)</p>
+				<p class="course-descriptions">(Same as POLI 103D.) This course surveys public finance and administration. It focuses upon California local governments—cities, counties, and special districts—and also examines state and federal relationships. Topics explored include revenue, expenditure, indebtedness, policy responsibilities, and administrative organization and processes. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="usp120" name="usp120" /></a></p><p class="course-name">USP 120. Urban Planning, Infrastructure, and Real Estate (4)</p>
+                <p class="course-descriptions">This course will explore
+                    the interrelationships of urban planning, public infrastructure,
+                    and real estate development. These
+                  three issues are critical to an examination of the major challenges
+                  facing California’s and America’s major metropolitan centers.<strong class="italic"> Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="usp121" name="usp121" /></a></p><p class="course-name">USP 121. Real Estate Law and Regulation (4)</p>
+				<p class="course-descriptions">Examination of regulation of real estate development, as it affects landowners, developers and others private sector actors. Includes underlying public policies, establishment and enforcement of laws and regulations, application of regulations to individual projects, and political considerations in implementing regulations. <strong class="italic">Prerequisites: </strong>upper-division standing or consent of instructor.</p>
+                <p> <a name="usp122" id="usp122"></a></p></p>
+                <p class="course-name">USP 122.&nbsp;Redevelopment
+                    Planning, Policymaking, and Law (4)</p>
+                <p class="course-descriptions">This course examines key elements of land use, planning, and
+                  law as related to urban redevelopment. It focuses on San Diego
+                  case studies, including the Petco Park/East Village redevelopment
+                  project and the Naval Training Center (NTC) Redevelopment Area
+                  (Liberty Station). <span class="italic"><strong>Prerequisites:</strong></span> upper-division
+                  standing or consent of instructor.</p>
+                <p class="anchor-parent"><a class="anchor" id="usp123" name="usp123" /></a></p><p class="course-name">USP 123. Law, Planning, and Public Policy (4)</p>
+        <p class="course-descriptions">Examination of the intersection of law and policy, in the form of processes and institutions, as they affect decision-making and program implementation in urban planning and design. Opportunities and constraints in making law and policy. Application to specific case examples. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+        <p class="anchor-parent"><a class="anchor" id="usp124" name="usp124" /></a></p><p class="course-name">USP 124. Land Use Planning (4)</p>
+				<p class="course-descriptions">Introduction to land use planning in the United States: zoning and subdivision, regulation, growth management, farmland preservation, environmental protection, and comprehensive planning. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="usp125" name="usp125" /></a></p><p class="course-name">USP 125. The Design of Social Research (4) </p>
+				<p class="course-descriptions">Research methods are tools for improving knowledge. Beginning with a research question, students will learn to select appropriate methods for sampling, collecting, and analyzing data to improve their research activities and research results. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="usp126" name="usp126" /></a></p><p class="course-name">USP 126. Comparative Land Use and Resource Management (4) </p>
+				<p>This course evaluates alternative land use, regulatory, and land transfer approaches to the US regime. Considered are overseas reform models for comprehensive land use and resource management and their effects on environmental justice, resource sustainability, and management efficiency and innovation. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="usp129" name="usp129" /></a></p><p class="course-name">USP 129. Research Methods:
+		  Studying Racial and Ethnic Communities (4)</p>
+				<p class="course-descriptions">(Same as ETHN 190.) The course offers students the basic research methods with which to study ethnic and racial communities. The various topics to be explored include human and physical geography, transportation, employment, economic structure, cultural values, housing, health, education, and intergroup relations. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="usp130" name="usp130" /></a></p>
+				<p class="course-name">USP 130. Fieldwork in Racial and Ethnic Communities (4)</p>
+				<p class="course-descriptions">(Same as ETHN 107.) This is a research course examining social, economic, and political issues in ethnic and racial communities through fieldwork. Topics are examined through a variety of research methods which may include interviews and archival, library, and historical research. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="usp131" name="usp131" /></a></p><p class="course-name">USP 131. Culture, Tourism, and the Urban Economy: Case Studies of Craft Breweries</p>
+				<p class="course-descriptions">Craft breweries are emerging as a significant part of the economy in US cities. This course examines the rise and impact of craft breweries in city life with a focus on tourism, urban culture, local job growth, and urban revitalization. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+<p class="anchor-parent"><a class="anchor" id="usp132" name="usp132" /></a></p><p class="course-name">USP 132. African Americans, Religion, and the City (4)</p>
+				<p class="course-descriptions">(Same as ETHN 188.) This course details the history of African American migration to urban areas after World War I and World War II and explores the role of religion in their lives as well as the impact that their religious experiences had upon the cities in which they lived. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="usp133" name="usp133" /></a></p><p class="course-name">USP 133. Social Inequality and Public Policy (4)</p>
+				<p class="course-descriptions">(Same as SOCI 152.) Primary focus on understanding
+				  and analyzing poverty and public policy. Analysis of how current debates
+				  and public policy initiatives mesh with alternative social scientific explanations
+			    of poverty. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="usp134" name="usp134" /></a></p><p class="course-name">USP 134. Community Youth Development (4)</p>
+				<p class="course-descriptions">This course examines the integration of youth development and community development in theory and practice as a strategy for addressing adultism. Analyze cases through a cultural lens where local, national, and international youth movements have helped make community development more responsive, inclusive, and culturally sensitive. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+<p class="anchor-parent"><a class="anchor" id="usp135" name="usp135" /></a></p><p class="course-name">USP 135. Asian and
+		  Latina Immigrant Workers in the Global Economy (4)</p>
+				<p class="course-descriptions">(Same as ETHN 129.) This course will explore the social, political, and economic implications of global economic restructuring, immigration policies, and welfare reform on Asian and Latina immigrant women in the United States. We will critically examine these larger social forces from the perspectives of Latina and Asian immigrant women workers, incorporating theories of race, class, and gender to provide a careful reading of the experiences of immigrant women on the global assembly line. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="usp136" name="usp136" /></a></p><p class="course-name">USP 136. Collaborative Community Leadership (4)</p>
+		<p class="course-descriptions">Provides an overview of collaborative leadership and considers consensus organizing as both a tactical and strategic approach to effective community building and development. Examines how various communities have approached collaborative leadership, consensus organizing, and community building. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="usp137" name="usp137" /></a></p><p class="course-name">USP 137. Housing and
+		  Community Development Policy and Practice (4)</p>
+				<p class="course-descriptions">History, theory, and practice of US housing and community development. Public, private, and nonprofit sectors shape and implement planning and policy decisions at the federal, state, local and neighborhood levels. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="usp138" name="usp138" /></a></p><p class="course-name">USP 138. Urban Economic Development (4)</p>
+		<p class="course-descriptions">This course focuses on strategies that policy makers and planners use in their efforts to foster healthy economies. Topics include theories of urban economic development, analytical techniques for describing urban economies, and the politics and planning of economic development. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+                <p class="anchor-parent"><a class="anchor" id="usp139" name="usp139" /></a></p><p class="course-name">USP 139. Urban Design and Economic Development (4)</p>
+                <p class="course-descriptions">This course explores emerging trends in urban design and economic development and their interrelationship. The course focuses on selected community projects and also considers urban governance structures. Various research methods will be applied to urban problems. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+                <p class="anchor-parent"><a class="anchor" id="usp140" name="usp140" /></a></p><p class="course-name">USP 140. Healthy Placemaking (4)</p>
+                <p class="course-descriptions">This course introduces students to the concept and practice of &ldquo;placemaking&rdquo;—a collaborative process for creating public spaces that are vibrant, equitable, inclusive, and salutogenic. Students will gain an understanding of healthy placemaking as a strategy for building a more just and sustainable society.<strong> <em>Prerequisites:</em></strong> upper-division standing.</p>
+<p class="anchor-parent"><a class="anchor" id="usp141a" name="usp141a" /></a></p><p class="course-name">USP 141A. Life Course Scholars Research and Core Fundamentals</p>
+                <p>This course introduces students to major concepts, demographic trends, and the diversity of the aging experience. Through site visits, community-based research, and interactions with elders, students will understand the social and structural determinants of health and well-being across the life course.<strong class="italic"> Prerequisites:</strong> upper-division standing and department approval. </p>
+                <p class="anchor-parent"><a class="anchor" id="usp141b" name="usp141b" /></a></p><p class="course-name">USP 141B. Life Course Scholars Capstone Project</p>
+                <p>In this course, students deepen and apply their knowledge of policy, research, practice, and diverse perspectives on aging. Students participate in collaborative learning and research with local elders, and develop and implement a capstone &quot;healthy aging project&quot; in the community.<strong class="italic"> Prerequisites:</strong> successful completion of USP 141A.</p>
+<p class="anchor-parent"><a class="anchor" id="usp143" name="usp143" /></a></p>
+                <p class="course-name">USP 143. The US Health-Care System (4)</p>
+				<p class="course-descriptions">This course will provide an overview of the organization of health care within the context of the community with emphasis on the political, social, and cultural influences. It is concerned with the structure, objectives, and trends of major health and health-related programs in the United States to include sponsorship, financing, training and utilization of health personnel. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. (Offered winter quarter.) </p>
+				<p class="anchor-parent"><a class="anchor" id="usp144" name="usp144" /></a></p><p class="course-name">USP 144. Environmental and Preventive Health Issues (4)</p>
+				<p class="course-descriptions">This course will analyze needs of populations, highlighting current major public health problems such as chronic and communicable diseases, environmental hazards of diseases, psychiatric problems and additional diseases, new social mores affecting health maintenance, consumer health awareness and health practices, special needs of economically and socially disadvantaged populations. The focus is on selected areas of public and environmental health, namely: epidemiology, preventive services in family health, communicable and chronic disease control, and occupational health. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. (Offered fall quarter.) </p>
+				<p class="anchor-parent"><a class="anchor" id="usp145" name="usp145" /></a></p><p class="course-name">USP 145. Aging—Social and Health Policy Issues (4)</p>
+				<p class="course-descriptions">This course will provide a brief introduction to the nature and problems of aging, with emphasis on socioeconomic and health status; determinants of priorities of social and health policies will be examined through analysis of the structure and organization of selected programs for the elderly. Field visits will constitute part of the course. <strong class="italic">Prerequisites:</strong> upper-division
+			    standing.  </p>
+				<p class="anchor-parent"><a class="anchor" id="usp146" name="usp146" /></a></p><p class="course-name">USP 146. Research Methods for Built Environment and Active Living (4)</p>
+				<p class="course-descriptions">This course examines urban design’s effects on physical activity. In field experience settings, students will learn about survey, accelerometer, observation, and GIS methods. Quality control, use of protocols, relevance to all ages, and international applications will also be emphasized.<strong class="italic"> Prerequisites:</strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="usp147" name="usp147" /></a></p>
+				<p class="course-name">USP 147. Case Studies
+		  in Health-Care Programs/Poor and Underserved Population (4)</p>
+				<p class="course-descriptions">The purpose of this course is to identify the special health needs of low income and underserved populations and to review their status of care, factors influencing the incidence of disease and health problems, and political and legislative measures related to access and the provision of care. Selected current programs and policies that address the health-care needs of selected underserved populations such as working poor, inner city populations, recent immigrants, and persons with severe disabling mental illnesses will be studied. Offered in alternate years. <strong class="italic">Prerequisites:</strong> upper-division
+			    standing or consent of instructor. (Offered spring quarter.)</p>
+				<p class="anchor-parent"><a class="anchor" id="usp149" name="usp149" /></a></p><p class="course-name">USP 149. Madness and Urbanization (4)</p>
+		<p class="course-descriptions">This course will provide a historical and theoretical orientation for contemporary studies of the experience of mental illness and mental health-care policy in the American city, with critical attention to racial and ethnic disparities in diagnosis, treatment, and outcomes. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+		<p class="anchor-parent"><a class="anchor" id="usp150" name="usp150" /></a></p><p class="course-name">USP 150. Real Estate and Development Law and Regulation (4)</p>
+		<p class="course-descriptions">This course reviews the legal issues, processes, and institutions involved in real estate. Topics include principles of real property law, legislative and judicial institutions, land use and environmental regulation, financial instruments, property transactions, and forms of investment and development entities. <strong class="italic">Prerequisites</strong>: upper-division standing.</p>
+		<p class="anchor-parent"><a class="anchor" id="usp151" name="usp151" /></a></p><p class="course-name">USP 151. Real Estate Planning and Development (4)</p>
+		<p class="course-descriptions">This course covers the methods and procedures utilized in development from inception to completion. Topics include initial planning, project feasibility and decision-making, partnerships, financing, design, entitlement and approvals, site acquisition, construction management, project completion, leasing, and asset management. <strong class="italic">Prerequisites</strong>: upper-division standing.</p>
+		<p class="anchor-parent"><a class="anchor" id="usp152" name="usp152" /></a></p><p class="course-name">USP 152. Real Estate Development Finance and Investment (4)</p>
+		<p class="course-descriptions">This course investigates the institutions, instruments, and structures by which investment in real estate is financed. It reviews capital markets, the sources and uses of real estate funds, and the role of government in real estate finance. <strong class="italic">Prerequisites</strong>: upper-division standing. </p>
+		<p class="anchor-parent"><a class="anchor" id="usp153" name="usp153" /></a></p><p class="course-name">USP 153. Real Estate and Development Market Analysis (4)</p>
+		<p class="course-descriptions">This course examines the analysis of demand for real estate products and site-specific real estate development projects. Consideration is given to relevant factors such as economic change, social attitudes, and changing laws. <strong class="italic">Prerequisites</strong>: upper-division standing. </p>
+<p class="anchor-parent"><a class="anchor" id="usp154" name="usp154" /></a></p><p class="course-name">USP 154. Global Justice in Theory and Action (4)</p>
+				<p class="course-descriptions">(Same as POLI 111B.) Discuss the idea of justice from multiple perspectives: theory, philosophy, institutions, markets, social mobilization, politics, and environment. Examine the assets and capabilities of diverse justice-seeking organizations and movements aimed at improving quality of life and place locally, regionally, and globally. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="usp155" name="usp155" /></a></p><p class="course-name">USP 155. Real Estate Development in Global and Comparative Perspective (4) </p>
+				<p class="course-descriptions">This course compares real estate markets in Asia, Europe, the Middle East, and Latin America. It explores the factors that affect these regions&rsquo; real estate economies including finance in city systems, emerging markets, development trends, demographic shifts, and urban planning. <strong class="italic">Prerequisites</strong>: upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="usp159a" name="usp159a" /></a></p><p class="course-name">USP 159A. NAIOP Real Estate University Challenge I (4)</p>
+				<p class="course-descriptions">In this course, students will work together in teams to complete a development proposal for a real world location provided by the San Diego chapter of the Commercial Real Estate Development Association (NAIOP). Students will meet with industry professionals to evaluate the most feasible, highest, and best use of space on the site provided. May be taken for credit up to two times. <strong><em>Prerequisites:</em></strong>upper-division standing and department approval.</p>
+				<p class="anchor-parent"><a class="anchor" id="usp159b" name="usp159b" /></a></p><p class="course-name">USP 159B. NAIOP Real Estate University Challenge II (2)</p>
+				<p class="course-descriptions">In this course, students will work together in teams to complete a development proposal for a real world location provided by the San Diego chapter of the Commercial Real Estate Development Association (NAIOP). Students will meet with industry professionals to evaluate the most feasible, highest, and best use of space on the site provided. May be taken for credit up to two times. <strong><em>Prerequisites: </em></strong>USP 159A and upper-division standing.</p>
+<p class="anchor-parent"><a class="anchor" id="usp160" name="usp160" /></a></p><p class="course-name">USP 160. Research Methods: Analyzing Crime (4)<br>
+    </p>
+				<p class="course-descriptions">This course will cover the methods and context for analyzing crime at national, state, regional, and micro-place levels. Methods will be both qualitative and quantitative as well as include primary and secondary data analysis. <strong><em>Prerequisites:</em></strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="usp161" name="usp161" /></a></p><p class="course-name">USP 161. Environmental Design and Crime Prevention (4)</p>
+				<p class="course-descriptions">This course is an introduction to theories and concepts relating to the built and natural environment and crime prevention. Perspectives from planners and criminologists will be discussed, and a real-world project will be used to integrate theory into practice. <strong><em>Prerequisites:</em></strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="usp167" name="usp167" /></a></p><p class="course-name">USP 167. History of New York City (4)</p>
+				<p class="course-descriptions">(Same as HIUS 123.) New York City breathes history. Whether it is in the music, the literature, or the architecture, the city informs our most basic conceptions of American identity. This course examines the evolution of Gotham from the colonial era to today. <em><strong>Prerequisites:</strong></em> upper-division standing or consent of instructor.</p>
+<p class="anchor-parent"><a class="anchor" id="usp168" name="usp168" /></a></p><p class="course-name">USP 168. History of Los Angeles (4)</p>
+        <p class="course-descriptions">(Same as HIUS 117.) This course examines the history of Los Angeles from the early nineteenth century to the present. Particular issues to be addressed include urbanization, ethnicity, politics, technological change, and cultural diversification.<strong class="italic"> Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+        <p class="anchor-parent"><a class="anchor" id="usp169" name="usp169" /></a></p><p class="course-name">USP 169. Introduction to Green Building (4)</p>
+        <p class="course-descriptions">Introduction to green building including the Leadership in Energy and Environmental Design (LEED) rating system which explores sustainable strategies in the built environment including site, energy, water, materials, waste, and health. Develops a general understanding of concepts and prepares students for the LEED GA exam. <strong><em>Prerequisites:</em></strong> USP 124 and upper-division standing.</p>
+<p class="anchor-parent"><a class="anchor" id="usp170" name="usp170" /></a></p>
+                <p class="course-name">USP 170. Sustainable Planning (4)</p>
+				<p class="course-descriptions">This course will explore the different factors and processes that shape a sustainable city. Contemporary green planning techniques and values will be evaluated. The course will also discuss planning, designing, and implementation of sustainable facilities that will reduce sprawl. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="usp171" name="usp171" /></a></p><p class="course-name">USP 171. Sustainable Development (4)</p>
+				<p class="course-descriptions">Sustainable development is a concept invoked by an increasingly wide range of scholars, activists, and organizations dedicated to promoting environmentally sound approaches to economic development. This course critically examines the diverse, often contradictory, interests in sustainability. It provides a transdisciplinary overview of emergent theories and practices. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="usp172" name="usp172" /></a></p><p class="course-name">USP 172. Graphics, Visual Communication, and Urban Information</p>
+				<p class="course-descriptions">This course examines the use of graphic techniques and tools to explain research, data analysis, and convey ideas with a focus on the built environment. Visual communication for planners/designers using traditional graphic media, electronic media, and visualization are explored. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+<p class="anchor-parent"><a class="anchor" id="usp173" name="usp173" /></a></p><p class="course-name">USP 173. History of Urban Planning and Design (4)</p>
+				<p class="course-descriptions">The analysis of the evolution of city designs over time; study of the forces that influence the form and content of a city: why cities change; comparison of urban planning and architecture in Europe and the United States. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="usp174" name="usp174" /></a></p><p class="course-name">USP 174. Regional Governance
+		  and Planning Reconsidered (4)</p>
+				<p class="course-descriptions">Regional planning and local governance in California, focusing on San Diego. Current system, the state/local relationship, and the incentives and disincentives for restructuring regional and local governance and planning. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="usp175" name="usp175" /></a></p><p class="course-name">USP 175. Site Analysis: Opportunities and Constraints (4)</p>
+				<p class="course-descriptions">Introduction to the theory and practice of context-sensitive site analysis, including site selection and programming, site inventory and analysis, and conceptual design. Demonstrates uses of GIS-based sketch planning tools for suitability analysis and project visualization in real world settings.<strong class="italic"> Prerequisites:</strong> upper-division standing.</p>
+					<p class="anchor-parent"><a class="anchor" id="usp176" name="usp176" /></a></p><p class="course-name">USP 176. Binational Regional Governance (4)</p>
+		<p class="course-descriptions">This course explores governance and planning challenges in the California/Baja California binational region. What are the roles of federal, state, and local governments in addressing issues of transportation, land use, water/wastewater management, and safety and security? <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="usp177a" name="usp177a" /></a></p>
+				<p class="course-name">USP 177A. Urban Design Practicum (4)</p>
+				<p class="course-descriptions">This course is designed to introduce the student to the theory and practice of urban design, the form of the built environment, and how it is created. There is an emphasis on the development within a larger urban context. Renumbered from USP 177. Students may not receive credit for USP 177A and USP 177. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="usp177b" name="usp177b" /></a></p><p class="course-name">USP 177B. Advanced Urban Design (4)</p>
+				<p class="course-descriptions">Settlement patterns, design of streets and open space, buildings, and civic space are the setting for public life. This course explores how we design and inhabit cities that are increasingly more populated and dense. Advanced design research, drawing skills required. <strong><em>Prerequisites:</em></strong> USP 177, USP 177A, or USP 179.</p>
+<p class="anchor-parent"><a class="anchor" id="usp179" name="usp179" /></a></p><p class="course-name">USP 179. Urban Design, Theory, and Practice (4)</p>
+				<p class="course-descriptions">Roles of the urban designer, preparing schematic proposals and performance statements, identifying opportunities for and constraints on designers. Each student will prepare a practical exercise in urban design using various urban design methods. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="usp180" name="usp180" /></a></p>
+				<p class="course-name">USP 180. Transportation Planning (4)</p>
+		<p class="course-descriptions">Introduction to the history and current state of urban transportation planning, including the relationship between transportation and urban form; role of automotive, mass transit, and alternative modes; methods for transportation systems analysis; decision-making, regulatory, and financing mechanisms; and public attitudes. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+		<p class="anchor-parent"><a class="anchor" id="usp181" name="usp181" /></a></p><p class="course-name">USP 181. Public Transportation (4)</p>
+		<p class="course-descriptions">Livable cities rely on balanced transportation systems that can mitigate the negative impacts of car-oriented environment and society. This course will explore the role of public transit in creating a balanced transportation system. A variety of public transportation systems will be analyzed. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+		<p class="anchor-parent"><a class="anchor" id="usp183" name="usp183" /></a></p><p class="course-name">USP 183. The Geography of American Opportunity (4)</p>
+		<p class="course-descriptions">(Same as SOCI 183.) How does where you grow up affect where you end up? This course explores &ldquo;who gets what where and why,&rdquo; by examining spatial inequalities in life chances across regions, rural and urban communities, and divergent local economies in the U.S. We will &ldquo;place&rdquo; places within their economic, socio-cultural, and historical contexts. Readings and exercises will uncover spatial variation in inequalities by race/ethnicity, immigrant status, gender, class, and LGBTQIA status that national averages obscure. Students may not receive credit for SOCI 183 and USP 183. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+		<p class="anchor-parent"><a class="anchor" id="usp185a" name="usp185a" /></a></p><p class="course-name">USP 185A. Real Estate Finance and Development Studio I (4)</p>
+		<p class="course-descriptions">This course introduces students to the challenges of developing and financing real property. Students work in teams to prepare a proposal for a complete site-specific project that incorporates real estate finance, development, and design.<strong class="italic"> Prerequisites:</strong>&nbsp;upper-division standing.</p>
+		<p class="anchor-parent"><a class="anchor" id="usp185b" name="usp185b" /></a></p><p class="course-name">USP 185B. Real Estate Finance and Development Studio II (4)</p>
+		<p class="course-descriptions">An intensive studio-based experience that culminates in a completed group project that analyzes, evaluates, and presents a site-specific real estate finance and development proposal. The final project includes market analysis, pro forma financial analysis, site analysis, and site design.<strong class="italic"> Prerequisites:</strong>&nbsp;USP 185A.</p>
+<p class="anchor-parent"><a class="anchor" id="usp186" name="usp186" /></a></p><p class="course-name">USP 186. Senior Sequence Research Proposal (6)</p>
+				<p class="course-descriptions">Introduces students to the theory and practice of social research including the challenges of writing a scholarly proposal. Students are required to complete one hundred hours of an internship experience while critically examining the relations between social science and society. <strong class="italic">Prerequisites:</strong> upper-division standing, USP major. </p>
+				<p class="anchor-parent"><a class="anchor" id="usp187" name="usp187" /></a></p><p class="course-name">USP 187. Senior Sequence Research Project (6)</p>
+				<p class="course-descriptions">An intensive research, internship, and writing experience that culminates in an original senior research project. Students learn about the theoretical, ethical, and technical challenges of scholarly research and publication. <strong class="italic">Prerequisites:</strong> USP 186. </p>
+				<p class="anchor-parent"><a class="anchor" id="usp188" name="usp188" /></a></p><p class="course-name">USP 188. Field Research in Migrant Communities—Practicum</p>
+				<p class="course-descriptions">(Same as SOCI 188) Mexican Migration Field Research Program: Students work closely with faculty to conduct direct on-the-ground field research in a migrant community. Students work as teams, conducting either surveys, interviews, or ethnographic observations. Students are expected to produce an outline of a research paper based on the results from fieldwork. Conversational fluency in Spanish is recommended. Students will not receive credit for both SOCI 188 and USP 188. <strong><em>Prerequisites:</em></strong> SOCI 133.</p>
+<p class="anchor-parent"><a class="anchor" id="usp189" name="usp189" /></a></p><p class="course-name">USP 189. Special Topics in Urban Planning (4)</p>
+				<p class="course-descriptions">An undergraduate course designed to cover various aspects of Urban Planning. May be taken for credit up to two times. <span class="italic"><strong>Prerequisites:</strong> </span>upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="usp190" name="usp190" /></a></p><p class="course-name">USP 190. Senior Honors Seminar (4)</p>
+				<p class="course-descriptions">Each student enrolled will be required to write an honors essay, a substantial research paper on a current urban policy issue, under the supervision of a member of the faculty. Most often the essay will be based on their previous fieldwork courses and internship. This essay and other written exercises, as well as class participation, will be the basis of the final grade for the course. The seminar will rotate from year to year among the faculty in urban studies and planning. <strong class="italic">Prerequisites:</strong> USP 186, USP 187, major GPA 3.5, and permission of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="usp191" name="usp191" /></a></p><p class="course-name">USP 191. GIS for Urban and Community Planning (4)</p>
+				<p class="course-descriptions">Introduction to Geographic Information Systems and using GIS to make decisions: acquiring data and organizing data in useful formats, demographic mapping, geocoding. Selected exercises examine crime data, political campaigns, banking and environmental planning, patterns of bank lending and finance. <strong class="italic">Prerequisites:</strong> upper-division standing, USP major. </p>
+				<p class="anchor-parent"><a class="anchor" id="usp193" name="usp193" /></a></p><p class="course-name">USP 193. San Diego Community Research (4)</p>
+				<p class="course-descriptions">Using the San Diego region as a case study, students will be introduced to the process of collecting, evaluating, and presenting urban and regional data using a variety of methods, including aggregate data analysis, historical research, and ethnography. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="usp194" name="usp194" /></a></p>
+				<p class="course-name">USP 194. Research Seminar in Washington, DC (4)</p>
+				<p class="course-descriptions">(Same as COGS 194, COMM 194, HITO 193, POLI 194, SOCI 194, SIO 194.)  Course attached to six-unit internship taken by students participating in the UCDC Program. Involves weekly seminar meetings with faculty and teaching assistant and a substantial research paper. <strong class="italic">Prerequisites:</strong> department approval and participating in UCDC Program. </p>
+				<p class="anchor-parent"><a class="anchor" id="usp195" name="usp195" /></a></p>
+				<p class="course-name">USP 195. Teaching Apprentice—Undergraduate (2–4)</p>
+				<p class="course-descriptions">Introduction to teaching activities associated with course. Responsibilities include preparing reading materials assigned by the instructor, attending course lectures, meeting at least one hour per week with the instructor, assisting instructor in grading, and preparing a summary report to the instructor. May be taken for credit up to three times for a maximum of eight units. <strong class="italic">Prerequisites:</strong> consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="usp198" name="usp198" /></a></p><p class="course-name">USP 198. Directed Group Study (2–4)</p>
+				<p class="course-descriptions">Directed group study on a topic or in a field not included in the regular departmental curriculum by special arrangement with a faculty member. <strong class="italic">Prerequisites:</strong> upper-division standing and consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="usp199" name="usp199" /></a></p><p class="course-name">USP 199. Independent Study (2–4)</p>
+		<p class="course-descriptions">Reading and research programs and field-study projects to be arranged between student and instructor, depending on the student&#8217;s needs and the instructor&#8217;s advice in terms of these needs. <strong class="italic">Prerequisites:</strong> upper-division standing and consent of instructor. </p>
+<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

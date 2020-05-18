@@ -1,0 +1,517 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Philosophy</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Philosophy</h1>
+<p class="sectionNav">[ <a href="#interdisc">interdisciplinary degree programs</a><span class="alphabreak"> <span class="courseFacLink">| <a href="../curric/PHIL-ug.html">undergraduate
+        program</a> | <a href="../curric/PHIL-gr.html"> </a> <a href="../courses/PHIL.html">courses</a> | <a href="../faculty/PHIL.html">faculty</a> ]</span></span></p>
+<p class="program-contact-info">7002 Humanities and Social Sciences Building<br />
+  Muir College <br />
+<a href="http://philosophy.ucsd.edu" target="_blank">http://philosophy.ucsd.edu</a> </p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+		<!-- #EndLibraryItem --><p class="anchor-parent"><a class="anchor" id="grad"></a></p><h2 class="program-overview-subhead-1">Graduate Program Requirements</h2>
+<p>The department offers programs leading to the MA and PhD. It is the intention
+  of the graduate program to enable the student to obtain an understanding of
+  diverse traditions and to develop as a philosopher in his or her own right.
+  To this end, the department offers courses and seminars in the history of philosophy
+  and in traditional and contemporary philosophical issues, from a variety of
+  perspectives.</p>
+<h2 class="program-overview-subhead-1">Doctoral Degree Program </h2>
+		<h3 class="program-overview-subhead-2">Course Work </h3>
+				<p>Over the first two years, students will normally take at least three courses
+				  per quarter, of which at least two are philosophy seminars (numbered 200–285).
+				  The balance may be made up from additional graduate courses in philosophy,
+				  up to two independent studies in philosophy, upper-division courses in
+				  philosophy (those numbered 100–199), approved upper-division or graduate courses in related departments, and, if the student is a teaching assistant, PHIL 500 (Apprentice Teaching). In any case, before advancing to candidacy, students must have completed fourteen graduate seminars, twelve of which are graduate philosophy seminars. These philosophy seminars must each be completed with a grade of B+ or better.</p>
+				<div>
+				  <div> </div>
+	    </div>
+<h3 class="program-overview-subhead-2">Proseminar </h3>
+				<p>In fall quarter of their first year of residence, graduate students will
+				  take a proseminar designed to introduce them to philosophical methods and
+				  improve their skills at writing and analysis. Enrollment in the proseminar
+				  is limited to first-year students. The proseminar may be team-taught. The
+				  topics to be covered will address some central area or areas of philosophy
+				  and will vary from year to year. The proseminar is a regular four-unit
+			    seminar.</p>
+<h3 class="program-overview-subhead-2">Core Courses </h3>
+				<p>In the following areas, the department shall offer “core” or advanced introductory
+				  seminars: philosophy of mind, philosophy of language, philosophy of science,
+				  the history of philosophy, epistemology, metaphysics, ethics and political
+				  philosophy. The department shall offer at least three of these courses
+				  in each academic year. Students must take two of these core courses by
+				  the end of their second year of residence. Courses taken to satisfy this
+			    requirement may be applied toward the distribution requirement.                </p>
+				<p>Core courses are not necessarily distinguished by the numbers
+                  under which they are offered, but by their content. A core
+                  course provides a point of entry into a field that is suitable
+                  for graduate students with no prior work in this area of philosophy
+                  as well as students with some background knowledge. A core
+                  course may be a general survey of a field, or alternatively
+                  may take up some central, relatively nonspecialized topic.
+                  (Though core courses are intended to provide students with
+                  an entry point into particular philosophical topics, students
+                  are welcome to supplement the graduate core courses with upper-division
+                  undergraduate philosophy courses—those numbered 100–199—which are often organized as surveys.) A core course may offer
+                  students the option of writing shorter papers rather than one
+                  long seminar paper; in some cases, a final examination may be
+                  offered. The decision whether to count a course as core will
+                  be made by the instructor in consultation with the graduate
+                  adviser.</p>
+		<p class="anchor-parent"><a class="anchor" id="distribution"></a></p><h3 class="program-overview-subhead-2">Distribution Requirements </h3>
+				<p>Before advancing to candidacy students must have completed, with a grade of B+ or better, nine graduate
+				  seminars in philosophy (in addition to the proseminar) distributed
+				  across the subfields of philosophy listed below. Students must
+				  take three seminars in the history of philosophy (including
+				  one in ancient philosophy and one in modern philosophy), two
+				  seminars in two other areas, and at least one seminar in every area: </p>
+		<div>
+				  <div> </div>
+	    </div>
+<ol>
+	  <li>History of Philosophy </li>
+	  <li>Philosophy of Science      
+	  <li>Philosophy of Mind and Philosophy of Language      
+	  <li>Ethics and Political
+      Philosophy      
+	  <li>Metaphysics and Epistemology
+      </ol>
+		<p>Courses used to satisfy a requirement in one category cannot be used to
+		  satisfy a requirement in another category. The determination as to what category
+		  or categories a particular seminar taught in a given quarter may count toward
+		  is normally made by the seminar instructor.        </p>
+		<h3 class="program-overview-subhead-2">Logic Requirement </h3>
+		<p>In their first year of residence, all graduate students must demonstrate
+          proficiency in basic formal logic (the predicate calculus, up to and
+          including functions, relations, and identity) either by passing an
+          examination in this material (normally offered each fall and often
+          in spring) or by taking PHIL 120 (Symbolic Logic) during their
+          first year of study and achieving a grade of B+ or better. By the end
+          of their second year of residence, all students must pass an advanced
+          logic course (PHIL122, 123, 126, 222, or another logic class
+          approved by the graduate adviser) with a grade of B+ or better.        </p>
+		<h3 class="program-overview-subhead-2">Third-Year Qualifying Paper  Requirement </h3>
+		<p>By the end of the spring quarter of their third year in the program, each student must submit for approval a substantial research essay of about 7,500–9,000 words to their third-year committee. The third-year committee will assess the merits of the essay and determine whether it meets the required standards of quality and sophistication. Approved essays will demonstrate that, in the eyes of the committee, the student has acquired the skills necessary to produce a substantial, original, valuable, and polished piece of philosophical scholarship. It is intended that the student will complete this requirement during their third year of residence in close consultation with all members of the third-year committee. (A formal petition must be made for any extension beyond the third year.) The student must satisfy this requirement before advancing to candidacy. </p>
+<h3 class="program-overview-subhead-2">Research Skills Requirement </h3>
+		<p>Before advancing to candidacy, students will normally be required
+          to demonstrate competence in a skill outside philosophy but relevant
+          to his or her dissertation research.        </p>
+		<p>Which skill is appropriate will be decided by the student in consultation
+          with his or her first- or second-year advisers and the graduate adviser.
+          Examples of ways in which students may satisfy the skills requirement
+          include demonstrating competence in a foreign language relevant to
+          their research (e.g., Classical Greek, Latin, French, or German, for
+          students working in the history of philosophy); passing three upper-division
+          undergraduate or graduate-level courses in biology, physics, mathematics,
+          or linguistics (for students working in the philosophy of biology,
+          physics, mathematics, or language); passing three upper-division undergraduate
+          or graduate-level courses in political science, economics or sociology
+          (for students working in political philosophy or ethics). </p>
+		<p>Specific decisions about the satisfaction of this requirement will
+          be made on a case-by-case basis by the graduate adviser and the student’s
+          advisers and will be made on grounds of the intellectual relevance
+          of the proposed research skill and the needs of the student.</p>
+        <div>
+          <div> </div>
+          <div> </div>
+        </div>
+        <h3 class="program-overview-subhead-2">Independent Study Courses </h3>
+				<p><span class="course-list-overview">PHIL 290 (Directed
+				    Independent Study)</span> is appropriate for a graduate student still in the process
+				  of fulfilling course requirements for the degree. However,
+				  this course will not normally be approved for students in the first year
+				  of the program and will not normally count toward the satisfaction of
+				  distribution requirements. </p>
+<p><span class="course-list-overview">PHIL 295 (Research Topics)</span> is an appropriate course for a student in the process of working toward a
+  dissertation prospectus. </p>
+				<p><span class="course-list-overview">PHIL 299 (Thesis Research)</span> is appropriate for a student working on his or her dissertation. </p>
+        <h3 class="program-overview-subhead-2">Teaching Requirements </h3>
+                <p>Participation in undergraduate teaching is one of the requirements for a PhD in philosophy. Students are required to serve as a teaching assistant for (at a minimum) the equivalent of one-quarter time (ten hours per week) for three academic quarters. The duties of a teaching assistant normally entail grading papers and examinations, conducting discussion sections, and related activities, including attendance at lectures in the course for which he or she is assisting. </p>
+<h3 class="program-overview-subhead-2">Dissertation Prospectus and Oral Candidacy Exam</h3>
+				<p>Sometime after completing the distribution requirements, the student must
+				  submit a dissertation prospectus to his or her doctoral committee. The
+				  committee will then orally examine the student on the intended subject
+				  and plan of research. The examination will seek to establish that the thesis
+				  proposed is a satisfactory subject of research and that the student has
+				  the preparation and the abilities necessary to complete that research.
+				  This oral qualifying exam must be passed before the end of the fourth year
+				  of study (twelfth quarter of residence). Students who are passed and have
+			    met the other requirements will be advanced to candidacy for the PhD.</p>
+		<h3 class="program-overview-subhead-2">Doctoral Dissertation </h3>
+				<p>Under the supervision of a doctoral committee, each candidate will write
+				  a dissertation demonstrating a capacity to engage in original and independent
+				  research. The candidate will defend the thesis in an oral examination by
+			    the doctoral committee. </p>
+        <h3 class="program-overview-subhead-2">Academic Advising </h3>
+        <h4>First- and Second-Year Academic Advising </h4>
+        <p>After consultation with the graduate adviser, each entering
+                  student will be assigned a faculty adviser. Students are encouraged
+                  to meet with their faculty advisers once a quarter during their
+                  first two years to plan their course of study and review their
+                  progress in the program. Students may change their faculty
+                  adviser after one has been assigned. Advising duties will shift
+                  to the third-year committee in the student’s third year of
+                  study, and then to the dissertation committee once the student
+                  begins the dissertation.                </p>
+        <h4>Third-Year Academic Advising </h4>
+        <p>At the end of the student’s second year of study, the department
+                  will appoint a three-member faculty committee for that student.
+                  The composition of the committee will reflect the student’s
+                  preferences and the area of philosophy in which the student
+                  is inclined to do dissertation work. One of the members of
+                  the committee will be designated as the committee chair and
+                  will serve as the student’s main adviser. The committee will
+                  meet, at a minimum, once in the spring of the student’s second
+                  year of study, once in the fall of the student’s third year,
+                  and once in the spring of the student’s third year. The responsibilities
+                  of the committee include advising the student in developing
+                  a sound dissertation project, the acquisition of professional
+                  skills (possibly through the departmental professional skills
+                  workshop), and advancing to candidacy in a timely manner. The
+                  members of this third-year committee may but need not be members
+                  of the student’s dissertation committee.                </p>
+        <h4>Professional Skills Workshop </h4>
+        <p>The department will offer each year a noncredit workshop on
+                  professional skills. Topics covered may include publication
+                  strategies, the mechanics of the job market, and how to write
+                  a cv. This workshop is open to any student in the department,
+                  and all students are encouraged to attend at least once before
+                  going on the job market.                </p>
+        <h4>Academic Advising after Candidacy </h4>
+        <p>After advancing to candidacy, the student will select a dissertation
+                  committee that will advise him or her throughout the writing
+                  of the dissertation, supply feedback on the material of the
+                  dissertation, and conduct the oral dissertation defense. The
+                  standard committee consists of five faculty members. Three
+                  of these faculty members will be from the Department of Philosophy,
+                  and one of these (who must be tenured) will be designated as
+                  the principal director of the student’s dissertation. In addition
+                  to the three philosophy faculty, the dissertation committee
+                  must include at least two faculty from outside the Department
+                  of Philosophy, at least one of whom must be a tenured UC San
+          Diego faculty member.                </p>
+        <h3 class="program-overview-subhead-2">PhD in Philosophy with a Specialization in Interdisciplinary Environmental Research </h3>
+        <p>A graduate specialization in Interdisciplinary Environmental Research (PIER) is available for select doctoral students in philosophy. PIER students seek solutions to today’s environmental challenges. <strong> </strong></p>
+        <p>The PhD specialization is designed to allow students to obtain standard training in their chosen field and an opportunity to interact with peers in different disciplines throughout the duration of their doctoral projects. Such communication across disciplines is key to fostering a capacity for interdisciplinary &ldquo;language&rdquo; skills and conceptual flexibility.</p>
+        <h4>Specialization Requirements<br>
+        </h4>
+        <ul type="disc">
+          <li>Complete      all course work, dissertation, and other requirements of the philosophy PhD<strong>  </strong></li>
+          <li>Sixteen-unit      interdisciplinary boot camp (summer, SIO 295S-295LS)</li>
+          <li>Eight units      from a secondary field (outside the home department) </li>
+          <li>Six units (three      quarters) Interdisciplinary Environmental Research Forum (SIO 296)</li>
+          <li>At least      one chapter of the dissertation will be broadly related to environmental      research and will be interdisciplinary in nature. </li>
+        </ul>
+        <h4>
+        Application Requirements</h4>
+        <p><em></strong>We advise students to begin PIER in their third year upon completion of core philosophy course requirements.</em></p>
+        <p></em>The following items should be combined into a single PDF document and submitted to <a href="mailto:cmbc@ucsd.edu" target="_blank">cmbc@ucsd.edu</a>.</p>
+        <ul type="disc">
+          <li>Student’s      CV</li>
+          <li>Half-page      abstract of proposed thesis work </li>
+          <li>Up to one-page      statement of student’s interest in interdisciplinary environmental      research including career goals. </li>
+          <li>Nomination      letter from adviser acknowledging student’s academic ability and      interdisciplinary environmental interest. The letter must include a      commitment for summer stipend support.<br>
+          </li>
+        </ul>
+        <h4>Admission to the Specialization </h4>
+        <p>Students are admitted into the philosophy doctoral program. Admission to PIER is a competitive process with six to eight students granted admission each year from across ten participating UC San Diego departments. Selected applicants will have the opportunity to enroll in the specialization. </p>
+        <h4>PIER Fellowships</h4>
+        <p>When funding is available, all applicants will be considered for one year of PIER Fellowship support.</p>
+        <div>
+          <div> </div>
+        </div>
+        <h3 class="program-overview-subhead-2">Master’s Degree </h3>
+        <p>The UC San Diego Department of Philosophy does not admit students
+                  with the intention of completing their studies at the master’s
+                  level. Nonetheless, PhD students in the department sometimes
+                  elect to receive the master’s degree in the course of their
+                  academic progress.                </p>
+        <p>To qualify for a master’s degree in philosophy, a student
+                  must pass eight of the distribution requirement seminars as
+                  described above, under the subheading “<a href="#distribution">Distribution
+                  Requirements</a>.”
+          No more than four seminars from any one of the five areas may
+                  count toward the master’s degree. The student must also complete
+                  a master’s research paper under the direction of a faculty
+                  member of his or her choice, and have it approved by two members
+                  of the department faculty.</p>
+<p class="anchor-parent"><a class="anchor" id="interdisc"></a></p><h2 class="program-overview-subhead-1">Interdisciplinary Degree Programs</h2>
+				<p>The philosophy department at UC San Diego participates in three interdisciplinary
+				  programs, the requirements for which are outlined below. </p>
+				<h3 class="program-overview-subhead-2">Interdisciplinary Degree Program in Cognitive Science </h3>
+				<p>The Interdisciplinary PhD Program in Cognitive Science includes faculty
+				  from a number of UC San Diego departments including the Departments
+				  of Anthropology, Biology and Neurobiology, Cognitive Science,
+				  Communication, Computer Science and Engineering, Linguistics, Music, Neurosciences,
+				  Philosophy, Psychiatry, Psychology, and Sociology. This group includes
+				  many outstanding figures in contemporary cognitive science.                </p>
+				<p>Students wishing to pursue a PhD in philosophy and cognitive
+                  science register in the philosophy program in the normal fashion
+                  but pursue a significant portion of their studies with faculty
+                  in the several departments participating in the interdisciplinary
+                  program. Students may apply for admission to the interdisciplinary
+                  program at the same time that they apply to the Department
+                  of Philosophy, or at some point after entering UC San Diego. (All students
+                  wishing to transfer into any interdisciplinary program must
+        do so prior to the end of the fifth quarter of residency.)</p>
+				<p> Students in philosophy/cognitive science are required to complete all
+				  of the requirements for the PhD in philosophy with the following
+				  five amendments: </p>
+				<ol>
+				  <li>The student must take six quarters of COGS 200.</li>
+				  <li>The student must take the equivalent of one year’s course work (usually
+				    six courses) in one or more of the other departments affiliated with
+				    the Department of Cognitive Science. (It should be noted that a philosophy
+				    graduate student who completes this requirement is deemed thereby to
+				    have satisfied the philosophy special skills requirement by gaining an
+				    approved special competency.)</li>
+				  <li>The distribution requirement is amended as follows: Before advancing
+				    to candidacy a philosophy/cognitive science student must
+				    have completed nine graduate seminars in philosophy distributed
+				    across the areas of (A) philosophy of science, (B) philosophy
+				    of mind and philosophy of language, (C) ethics and political
+				    philosophy, (D) epistemology and metaphysics, and (E) history
+				    of philosophy. The student must take at least one seminar from each of
+				    these five areas and at least two seminars from any four of these areas.</li>
+				  <li>The course work requirement is amended as follows: Over the first two
+				    years, a philosophy/cognitive science student will normally take at least three
+				    courses/seminars per quarter. Besides graduate seminars in philosophy
+				    and cognitive science, these may include up to two independent studies
+				    in philosophy, upper-division courses in philosophy (those numbered 100–199),
+				    approved upper-division or graduate courses in cognitive science and
+				    affiliated departments, and, if the student is a teaching assistant,
+				    PHIL 500 (Apprentice Teaching). (It should be noted that philosophy/cognitive
+				    students who complete all the other requirements for cognitive studies
+				    and who complete the amended distribution requirement above are thereby
+				    deemed to have completed the fourteen graduate seminars required of students
+			      prior to their advancing to candidacy.)</li>
+				  <li>A plan detailing the course of study must be approved by the Cognitive
+				    Science Program Committee. The dissertation should be interdisciplinary,
+				    reflecting the two areas of specialization.
+				    <div>
+				      <div></div>
+				    </div>
+				  </li>
+		</ol>
+		<h3 class="program-overview-subhead-2">Interdisciplinary Program in Science Studies</h3>
+				<p>The Science Studies Program at UC San Diego is committed to interdisciplinary
+				  investigations. Understanding, interpreting, and explaining the scientific
+				  enterprise demands a systematic integration of the perspectives developed
+				  within the communication of science, history of science, sociology of science,
+				  and philosophy of science. The program offers students an opportunity to
+				  work toward such integration, while receiving a thorough training at the
+				  professional level in one of the component disciplines (communications,
+			    history, sociology, philosophy).                </p>
+				<p>Students enrolled in the program choose one of the component
+                  disciplines for their major field of specialist studies (for
+                  students enrolled in the Department of Philosophy, this major
+                  field is, of course, philosophy), and are required to complete
+				  minor field requirements in the others. The core of the program,
+				  however, is a yearlong seminar in science studies, led by
+				  faculty from all participating departments.</p>
+<p>Students may apply for admission to the interdisciplinary
+                  program at the same time that they apply to the Department
+                  of Philosophy, or at some point after entering UC San Diego. (All students
+                  wishing to transfer into any interdisciplinary program must
+        do so prior to the end of the fifth quarter of residency.)</p>
+<p>Students in philosophy/science studies are required to complete all of the
+  requirements for the PhD in philosophy with the following seven amendments:</p>
+<ol>
+	  <li>The student must attend the Science Studies Colloquium series for his
+	    or her entire first and second years. He or she will receive course credit
+	    (PHIL 209C) in any two quarters of his or her choice (once in the first
+	    year and once in the second year, with exceptions to be considered by the
+	    director of science studies). This course is taken for an S/U grade option
+	    only.</li>
+      <li>Before defending his or her prospectus, the student must take Introduction
+        to Science Studies I (PHIL 209A), Introduction to Science Studies II (PHIL 209D),
+        and two iterations (with changed content) of the Core Seminar in Science
+        Studies (PHIL 209B). (These courses are required in addition to the proseminar
+        in philosophy, which is required of all PhD students in philosophy.)</li>
+<li>The student must, prior to defending his or her prospectus, take two additional
+  science studies courses outside philosophy drawn from a list of approved courses
+  available each year from the Science Studies Program office. (One course in
+  one of the sciences may be substituted for one of these courses as part of
+  an approved program of study.)</li>
+<li>The distribution requirement is amended as follows: Before advancing to candidacy,
+  a philosophy/science studies student must have completed nine seminars in philosophy distributed
+  across the areas of (A) philosophy of science, (B) philosophy of mind and philosophy
+  of language, (C) ethics and political philosophy, (D) metaphysics and epistemology,
+  and (E) history of philosophy. Students must take at least one seminar from
+  each of these five areas and at least two seminars from any four of these areas.</li>
+<li>The course work requirement is amended as follows: Over the first two years,
+  a philosophy/science studies student will normally take at least three courses/seminars
+  per quarter. Besides graduate seminars in philosophy and science studies, these
+  may include up to two independent studies in philosophy, upper-division courses
+  in philosophy (those numbered 100–199), approved upper-division or graduate
+  courses in science studies and affiliated departments, and, if the student
+  is a teaching assistant, PHIL 500 (Apprentice Teaching). (It should be
+  noted that philosophy/science studies students who complete all the other requirements
+  for science studies and who complete the amended distribution requirements
+  for philosophy are thereby deemed to have completed the fourteen graduate seminars
+  required of students prior to their advancing to candidacy.)</li>
+<li>The student’s program of study must be approved by the Department of Philosophy
+  faculty adviser for science studies.</li>
+<li>At least two internal members and at least one external member of the student’s
+  dissertation committee should be faculty of the Science Studies Program. Exceptions
+  to this policy require permission from the director of the Science Studies
+  Program.</li>
+</ol>
+<div></div>
+<h3 class="program-overview-subhead-2">Dual Degree Program with University of San Diego Law School </h3>
+<p>Students pursuing the PhD in philosophy at UC San Diego can also pursue a degree
+  at the University of San Diego (USD) School of Law, either the JD (normally
+  a three-year degree) or the MSLS (a one-year master’s degree). Students
+  must be admitted independently to the two programs and must complete the requirements
+  for both programs. Once admitted to both programs, the expectation is that
+  students would first complete their first two years of PhD course work and
+  any associated qualifying exams at UC San Diego. They can then take a leave from the
+  UC San Diego program, freezing their clock here, to complete the appropriate course
+  work at USD. For their MSLS degree, this will require a one-year leave,
+  while for their JD degree this will require two years leave. While on leave,
+  students would not be eligible for financial aid from UC San Diego. Students would
+  then return to UC San Diego to complete their PhD, drawing on their combined training
+  here and at USD in their thesis research, and getting advice on their research
+  from faculty at both universities. Each program will make specific arrangements
+  to grant some course credit toward their degrees for courses taken at the other
+  university. The expectation is that students will pursue dual degrees serially,
+  rather than concurrently, and that the UC San Diego clock will stop while students
+  are enrolled at USD. Consequently, in the normal course of events the UC San Diego
+  Department of Philosophy sees no special need for extending time limits on
+  advancing to candidacy, years of support, or time toward the degree. However,
+  exceptional cases can be handled by petition.</p>
+<h3 class="program-overview-subhead-2">PhD Time Limit Policies </h3>
+				<p>Students must be advanced to candidacy by the end of four years. The department’s
+				  normative time to graduation is six years. Total university support cannot
+			    exceed seven years. Total registered time at UC San Diego cannot exceed eight years.</p>
+        <h3 class="program-overview-subhead-2">Application Request </h3>
+                <p>For information regarding the graduate program call (858)
+                  534-6809 or write to</p>
+                <p>University of California San Diego <br />
+                  Graduate Adviser, Philosophy<br />
+                  9500 Gilman Dr. # 0119<br />
+                  La Jolla, CA 92093-0119<br>
+                  Email address: <a href="mailto:rburrola@ucsd.edu" target="_blank">rburrola@ucsd.edu</a></p>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

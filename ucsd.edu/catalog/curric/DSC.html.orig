@@ -1,0 +1,223 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" --> 
+<title>Data Science</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+		<h1>Data Science </h1>
+		<p class="sectionNav"><span class="courseFacLink">[ <a href="../faculty/DSC.html">faculty</a> | <a href="../courses/DSC.html">courses</a> ]</span></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h2>Program Focus</h2>
+          <p>Data science is concerned with drawing useful and valid conclusions from data. Data scientists develop mathematical models, computational methods, and tools for exploring, analyzing, and making predictions from data. They ask appropriate questions about data and interpret the predictions based on their expertise of the subject domain.</p>
+        <p>The primary goal for the data science major is to train a generation of students who are equally versed in predictive modeling, data analysis, and computational techniques. To this end, in addition to learning about data science models and methods, students will acquire expertise in a particular subject domain. The major also educates students about the societal impact of data science so that they can make responsible decisions as data science practitioners. </p>
+          <h2>Majors in Data Science</h2>
+          <p>The major consists of 116 units with fifty-six units from lower-division courses and sixty units from upper-division courses. The lower-division curriculum includes calculus and linear algebra courses for sixteen units, data science courses for twenty-eight units, and subject domain courses for twelve units. The program includes twenty units of elective courses that will enable students to embark upon an in-depth exploration of one or more areas in which data science can profitably be applied. Alternatively, students can choose to explore the mathematical, statistical, and computational foundations of data science in even greater depth.          </p>
+          <p>All majors will be required to undertake a senior project that will give them an opportunity to creatively synthesize much of what they have learned in the data science courses for addressing problems in chosen domains. </p>
+          <h3>Lower Division</h3>
+          <p>Students are expected to complete the following fifty-six units by the end of their sophomore year. All courses must be taken for a letter grade and passed with a minimum grade of C–. </p>
+          <ul>
+            <li><em>Data      Science: </em>COGS 9, DSC 10, DSC 20, DSC 30, DSC 40A-B, DSC 80 (twenty-eight      units)</li>
+            <li><em>Mathematics: </em>MATH 18 or MATH 31AH, MATH 20A-B-C <em>or</em> MATH 31BH (sixteen units)</li>
+            <li><em>Subject      Domain Courses: </em>Students must choose one of the following three-course      sequences (twelve units)</li>
+            <ul type="circle">
+              <li><em>Biological       Sciences:</em> BILD 1, BILD 2, and BILD 3 </li>
+              <li><em>Chemistry:</em> CHEM 6A-B-C <em>or</em> CHEM 6AH-BH-CH</li>
+        
+          <li><em>Physics:</em> PHYS 2A-B-C
+          </li>
+			  </ul></ul>
+          <h3>Upper Division</h3>
+          <p>Students must complete sixty upper-division units. All courses must be taken for a letter grade unless offered Pass/Not Pass only. A minimum grade of C– is required. </p>
+          <ol>
+            <li><span dir="LTR"> </span>Core Courses (thirty-two units): MATH 183 or MATH 181A, MATH 189, DSC 100, DSC 102, DSC 106, CSE 150A, CSE 151A, CSE 158  </li>
+            <li><span dir="LTR"> </span>Senior Project (eight units): DSC 180A-B </li>
+            <li><span dir="LTR"> </span>Electives (twenty units)</li>
+            <ul>
+              <li><span dir="LTR"> </span>Any upper-division data science course not used to fulfill other requirements with the exception of DSC 197, 198, and 199.</li>
+            <li>Any       of the following: COGS 108, 118C-D, 120 (cross-listed with CSE 170), 121, 133, 180,       184, and 189; CSE 106, 127, 152, 156, 166, and 170 (cross-listed with       COGS 120); ECE 153, 156, and 174; MATH 173A-B, 180A-B-C, and 181A-B-C-D-E-F.</li>
+         
+            </ul>
+            <ul>
+              
+              <li>Students       may petition to satisfy up to eight elective units using upper-division       courses not on the list below but in their subject domain. </li>
+              
+            </ul>
+            <ul>
+              <li><span dir="LTR"> </span>Students will be expected to fulfill all prerequisites for all courses, which may entail additional course work beyond the data science major requirements.</li>
+              <li>A maximum of twelve units of courses offered Pass/Not Pass only may be taken. </li>
+            </ul>
+          </ol>
+          <h2>Minor in Data Science </h2>
+          <p>This minor is intended for students whose primary area of interest lies outside data science, but who are interested in acquiring competence in methods of data analysis. It requires completion of fifty-six units. Courses must be taken for a letter grade with a minimum passing grade of C–. Please be advised that DSC 40A and DSC 40B serve as prerequisites for required courses. DSC 40A-B can be taken for P/NP by data science minors.</p>
+          <h3>Lower Division <em>(thirty-six units)</em></h3>
+          <ul type="disc">
+            <li>COGS 9. Introduction to Data Science (4)<strong></strong></li>
+            <li>DSC      10. Principles of Data Science (4)</li>
+              <li>DSC      20. Programming and Basic Data Structures for Data Science (4)</li>
+              <li>DSC      30. Data Structures and Algorithms      of Data Science (4)</li>
+              <li>DSC      80. The Practice and Application of      Data Science (4)</li>
+              <li>MATH      18. Linear Algebra (4) or MATH 31AH. Honors Linear Algebra (4)</li>
+              <li>MATH      20A. Calculus for Science and Engineering (4)</li>
+              <li>MATH      20B. Calculus for Science and Engineering (4)</li>
+              <li>MATH      20C. Calculus and Analytical Geometry for Science and Engineering (4) or      MATH 31BH. Honors Multivariable Calculus (4)</li>
+          </ul>
+        
+          <h3>Upper Division <em>(twenty units)</em></h3>
+          <ul type="disc">
+            <li>MATH      183 or MATH 181A (4)</li>
+            <li>MATH      189. Exploratory Data Analysis and Inference (4)</li>
+            <li>CSE      158 or COGS 118A or COGS 118B</li>
+            <li>DSC      106. Introduction to Data Visualization (4) or COGS 108. Data Science in      Practice (4)</li>
+            <li>Upper-division      DSC course (4)</li>
+        </ul>
+         
+              <h2>Policies and Procedures for Data Science (DSC) Undergraduate Students</h2>
+        <h3>Data Science Undergraduate Admissions</h3>
+              <p>Because of the large number of students interested in data science and the limited resources available to accommodate this demand, the university has declared the data science major &ldquo;capped.&rdquo; This allows the Data Science Undergraduate Program to continue to offer the highest quality academic program to our students and avoid delays in time to degree due to lack of capacity in our courses.</p>
+              <p>Admission directly into DSC is limited for freshmen effective fall 2018. Students will be selected by the UC San Diego Office of Undergraduate Admissions based on the students&rsquo; holistic review scores and availability of slots in the Data Science Undergraduate Program.</p>
+              <p>Transfer applications will not be accepted until the fall 2019 application period for admission into the fall 2020 term. The first cohort of transfer students entering UC San Diego as data science majors is expected for fall 2020. Generally, we do not advise transfer students who have matriculated as a different major to attempt to switch into the data science major through the capped major application process. This is due to the additional screening process that would add to transfer students&rsquo; time to graduation, without a guarantee of acceptance into the major.</p>
+<h3>Continuing Students</h3>
+              <p>UC San Diego students who would like to change from another major into the Data Science Undergraduate Program may apply to the major via the capped major application. Applications will be accepted twice per year and must be submitted on or before the deadline. Please see the department website at <a href="http://dsc.ucsd.edu" target="_blank">http://dsc.ucsd.edu</a> for details.</p>
+              <h4>Eligibility requirements:</h4>
+              <ol start="1" type="1">
+                <li>Successful      completion of twenty-four units (for letter grade) at UC San Diego (to      ensure that students are making progress toward their degree).</li>
+                <li>Successful      completion of the screening courses for a letter grade: MATH 20C, MATH 18,      and DSC 10.</li>
+                <ul>
+                  <li>Courses       must be completed and/or in progress at the time of the capped major application       to be eligible.</li>
+                  <li>Students       who pursue the honors version of MATH 18 and MATH 20C will also be       eligible for the capped major application.</li>
+                </ul>
+                <li>Students      must apply by the end of their sixth academic quarter at UC San Diego.</li>
+        </ol>
+           
+            
+              <h4>Selection process:</h4>
+              <ol>
+                <ol>
+                  <li><span dir="LTR"> </span>Students will be ranked based on their GPA in the screening courses: MATH 20C, MATH 18, and DSC 10. Grades from transfer credit will be used in calculating the GPA for the screening courses.</li>
+                  <li><span dir="LTR"> </span>Students with the same GPA in the screening courses will be ordered by their overall GPA.</li>
+                  <li><span dir="LTR"> </span>Students will be admitted according to their ranking based on the number of available seats. If there are more students at a given rank than the available seats, random selection will be made from among the students at that rank to fill the remaining seats.</li>
+                </ol>
+        </ol>
+            </li>
+          </ul>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

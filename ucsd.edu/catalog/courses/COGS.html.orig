@@ -1,0 +1,447 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Cognitive Science Courses</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopMargin">Cognitive Science </h1>
+<p><span class="courseFacLink">[ <a href="../curric/COGS-ug.html">undergraduate
+      program</a> | <a href="../curric/COGS-gr.html">graduate program</a> | <a href="../faculty/COGS.html">faculty</a> ]</span></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/Course Name and Disclaimer.lbi" -->
+<h2>Courses</h2>
+<p class="course-disclaimer"><em>For course descriptions not found in the </em>UC
+  San Diego General Catalog 2019&#8211;20<em>, please contact the department
+  for more information.</em></p><!-- #EndLibraryItem --><h2 class="course-subhead-1">Lower Division </h2>
+<p class="anchor-parent"><a class="anchor" id="cogs1" name="cogs1" /></a></p><p class="course-name">COGS 1. Introduction to Cognitive Science (4)</p>
+				<p class="course-descriptions">A team-taught course highlighting development of the field and the broad range of topics covered in the major. Example topics include addiction, analogy, animal cognition, human-computer interaction, language, neuroimaging, neural networks, reasoning, robots, and real-world applications. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs2" name="cogs2" /></a></p>
+		<p class="course-name">COGS 2. Cognitive Neuroeconomics (4)</p>
+				<p class="course-descriptions">This course is an introduction to the neuroscience behind the principles of economic decision-making. The topics in this course are aimed at exploring the underlying cognitive and neural mechanisms that drive the decisions behind traditional economic models. </p>
+<p class="anchor-parent"><a class="anchor" id="cogs3" name="cogs3" /></a></p><p class="course-name">COGS 3. Introduction to Computing (4)</p>
+				<p>Covers the fundamental concepts that underlie all programming languages and provides an introduction to the essential information about algorithms and data structures. Students design and implement web applications using HTML5, CSS3, JavaScript, and Photoshop. No previous programming experience is required. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs8" name="cogs8" /></a></p><p class="course-name">COGS 8. Hands-on Computing (4)</p>
+				<p class="course-descriptions">Introductory-level course that will give students insight into the fundamental concepts of algorithmic thinking and design. The course will provide the students with first-person, hands-on experience programming a web crawler and simple physical robots. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs9" name="cogs9" /></a></p><p class="course-name">COGS 9. Introduction to Data Science (4)</p>
+				<p class="course-descriptions">Concepts of data and its role in science will be introduced, as well as the ideas behind data-mining, text-mining, machine learning, and graph theory, and how scientists and companies are leveraging those methods to uncover new insights into human cognition.</p>
+				<p class="anchor-parent"><a class="anchor" id="cogs10" name="cogs10" /></a></p><p class="course-name">COGS 10. Cognitive Consequences of Technology (4)</p>
+				<p class="course-descriptions">This course examines the interrelationships of cognition and technology from the perspective of cognitive science. We address questions of importance for our increasingly technological society: How does technology shape our minds? How should what we know about our minds shape technology?</p>
+				<p class="anchor-parent"><a class="anchor" id="cogs11" name="cogs11" /></a></p><p class="course-name">COGS 11. Minds and Brains (4)</p>
+				<p class="course-descriptions">How damaged and normal brains influence the way humans solve problems, remember or forget, pay attention to things; how they affect our emotions, and the way we use language in daily life. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs12" name="cogs12" /></a></p><p class="course-name">COGS 12. Language, Culture, and Cognition (4)</p>
+		<p class="course-descriptions">Do people who speak different languages think differently? Does learning new languages change the way you think? Are some thoughts unthinkable without language? Course will bring together ideas and findings from psychology, linguistics, anthropology, neuroscience, and philosophy.</p>
+		<p class="anchor-parent"><a class="anchor" id="cogs13" name="cogs13" /></a></p><p class="course-name">COGS 13. Field Methods: Studying Cognition in the Wild (4)</p>
+		<p class="course-descriptions">This course introduces students to multiple methods to investigate cognition and behavior in natural settings. Students will learn about ethnography, videography (video data collection, coding, and analysis), surveys design and conducting interviews, and how to move from observations to modeling.</p>
+		<p class="anchor-parent"><a class="anchor" id="cogs14a" name="cogs14a" /></a></p>
+		<p class="course-name">COGS 14A. Introduction to Research Methods (4)</p>
+				<p class="course-descriptions">Introduction to the scientific method. Methods of knowledge acquisition, research questions, hypotheses, operational definitions, variables, control. Observation, levels of measurement, reliability, validity. Experimentation and design: between-groups, within-subjects, quasi-experimental, factorial, single-subject. Correlational and observational studies. Ethics in research.</p>
+				<p class="anchor-parent"><a class="anchor" id="cogs14b" name="cogs14b" /></a></p><p class="course-name">COGS 14B. Introduction to Statistical Analysis (4)</p>
+				<p class="course-descriptions">Introduction to descriptive and inferential statistics. Tables, graphs, measures of central tendency and variability. Distributions, Z-scores, correlation, regression. Probability, sampling, logic of inferential statistics, hypothesis testing, decision theory. T-test, one and two-way Anova, nonparametric tests (Chi-square). <strong class="italic">Prerequisites:</strong> COGS 14A.</p>
+				<p class="anchor-parent"><a class="anchor" id="cogs15" name="cogs15" /></a></p><p class="course-name">COGS 15. What the *#!?: An Uncensored Introduction to Language (4)</p>
+		<p class="course-descriptions">This course uses the study of swearing to introduce topics in language: how children learn it, why it changes over time, and how people pronounce and understand it. Students who believe they could be offended by the study of swearing and other taboo language might not find this course appropriate for them.</p>
+		<p class="anchor-parent"><a class="anchor" id="cogs17" name="cogs17" /></a></p><p class="course-name">COGS 17. Neurobiology of Cognition (4)</p>
+		<p class="course-descriptions">Introduction to the organization and functions of the nervous system. Topics include molecular, cellular, developmental, systems, and behavioral neurobiology. Specifically, structure and function of neurons, peripheral and central nervous systems, sensory, motor, and control systems, learning and memory mechanisms. (Students may not receive credit for both BILD12 and COGS 17. This course fulfills general-education requirements for Marshall and Roosevelt Colleges as well as Warren by petition.) </p>
+		<p class="anchor-parent"><a class="anchor" id="cogs18" name="cogs18" /></a></p><p class="course-name">COGS 18. Introduction to Python  (4)</p>
+		<p>This class will teach fundamental Python programming skills and practices, including the &ldquo;Zen of Python.&rdquo; Students will focus on scientific computing and learn to write functions and tests, as well as how to debug code using the Jupyter Notebook programming environment. Students with limited computing experience may take COGS 3 for preparation.</p>
+		<p class="anchor-parent"><a class="anchor" id="cogs20" name="cogs20" /></a></p><p class="course-name">COGS 20. Exploring the Musical Mind (4)</p>
+		<p class="course-descriptions">(Cross-listed with MUS 20.) How do we transform complex sounds into comprehensible and meaningful music? What physiological, neurological, cognitive, and cultural systems are involved? Why do we make music in such diverse ways around the globe? Does music have evolutionary or ecological significance? What is the relationship between music, motion, and emotions? This course explores contemporary understandings of how we hear and how we become musical and invites students to listen to new music in new ways. Students may not receive credit for both COGS 20 and MUS 20.</p>
+        
+<p class="anchor-parent"><a class="anchor" id="cogs87" name="cogs87" /></a></p><p class="course-name">COGS 87. Freshman Seminar (1)</p>
+				<p class="course-descriptions">The Freshman Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman Seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering freshmen. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs90" name="cogs90" /></a></p><p class="course-name">COGS 90. Undergraduate Seminar (1)</p>
+				<p class="course-descriptions">Special topics in cognitive science are discussed. P/NP grades only. (May be repeated when topics vary.)</p>
+<p class="anchor-parent"><a class="anchor" id="cogs91" name="cogs91" /></a></p><p class="course-name">COGS 91. SCANS Presents (1)</p>
+				<p class="course-descriptions">The department faculty and the Students for Cognitive and Neurosciences (SCANS) offer this seminar exploring issues in cognitive science. It includes informal faculty research presentations, investigations of topics not covered in the curriculum, and discussions on graduate school and careers. (May be repeated when topics vary.) </p>
+				<a name="cogs92" id="cogs92"></a></p>
+				<p class="course-name">COGS 92. Resiliency in the Face of Adversity (2)</p>
+				<p class="course-descriptions">Psychological resiliency will be addressed both scientifically and pragmatically. Students will explore the way cognitive and behavioral factors contribute to one’s ability to cope with the stresses of life and emerge from them stronger than before. P/NP only. </p>
+<p class="anchor-parent"><a class="anchor" id="cogs99" name="cogs99" /></a></p><p class="course-name">COGS 99. Independent Study (2 or 4)</p>
+				<p class="course-descriptions">Independent literature or laboratory research by arrangement with and under direction of a Department of Cognitive Science faculty member. <strong class="italic">Prerequisites:</strong> lower-division standing, completion of thirty units of UC San Diego undergraduate study, a minimum UC San Diego GPA of 3.0, and a completed and approved Special Studies form.				</p>
+				<h2 class="course-subhead-1">Upper Division </h2>
+				<p class="anchor-parent"><a class="anchor" id="cogs100" name="cogs100" /></a></p><p class="course-name">COGS 100. Cyborgs Now and in the Future (4)</p>
+				<p class="course-descriptions">Covers the theories of situated, distributed, enactive, and embodied cognition. Explains how cyborgs are a natural consequence of our current understanding of embodied minds embedded in culturally shaped niches; how mental systems can be distributed over other people and things. <strong class="italic">Prerequisites: </strong>COGS 1 or COGS 10.</p>
+             
+<p class="anchor-parent"><a class="anchor" id="cogs101a" name="cogs101a" /></a></p><p class="course-name">COGS 101A. Sensation and Perception (4)</p>
+				<p class="course-descriptions">An introduction to the experimental study of cognition with a focus on sensation and perception. <strong class="italic">Prerequisites:</strong> COGS 1. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs101b" name="cogs101b" /></a></p><p class="course-name">COGS 101B. Learning, Memory, and Attention (4)</p>
+				<p class="course-descriptions">A survey of the experimental study of learning, memory, and attention. Topics include conditioning, automaticity, divided attention, memory systems, and the nature of mental representation. <strong class="italic">Prerequisites:</strong> COGS 1. Recommended: COGS 101A. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs101c" name="cogs101c" /></a></p><p class="course-name">COGS 101C. Language (4)</p>
+				<p class="course-descriptions">An introduction to structure of natural language, and to the cognitive processes that underline its acquisition, comprehension, and production. This course covers findings from linguistics, computer science, psychology, and cognitive neuroscience to provide an integrated perspective on human language abilities. <span class="italic"><strong>Prerequisites<strong>:</strong></strong></span> COGS 1 and 14A. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs102a" name="cogs102a" /></a></p><p class="course-name">COGS 102A. Cognitive Perspectives  (4)</p>
+				<p class="course-descriptions">Explores current theoretical frameworks of high-level human cognition that emphasize how we interact with the material, social, and cultural world. Themes include the philosophy and history of cognitive science, the role of artifacts, and how cognition extends beyond the individual. <strong class="italic">Prerequisites:</strong> COGS 1 and COGS 10. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs102b" name="cogs102b" /></a></p><p class="course-name">COGS 102B. Cognitive Ethnography (4)</p>
+				<p class="course-descriptions">Examines memory, reasoning, language, culture, planning, and interaction directly in everyday, real-world settings. Focuses on ethnographic methods, their history, and their application. The course work includes projects in which students make observations of real-world activity and analyze their cognitive significance. <strong><em>Prerequisites:</em></strong> COGS 102A.</p>
+				<p class="anchor-parent"><a class="anchor" id="cogs102c" name="cogs102c" /></a></p><p class="course-name">COGS 102C. Cognitive Design Studio (6)</p>
+				<p class="course-descriptions">This project-based course focuses on learning and applying the process of human-centered cognitive design. Students work in teams to design and evaluate a prototype application or redesign an existing system. Emphasizes contextual inquiry, user research, ideation, iterative design, and evaluation. <strong><em>Prerequisites:</em></strong> COGS 102B. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs107a" name="cogs107a" /></a></p><p class="course-name">COGS 107A. Neuroanatomy and Physiology (4)</p>
+				<p class="course-descriptions">This first course in the sequence focuses on principles of brain organization, from neurons to circuits to functional networks. It explores developmental plasticity, neuronal connectivity, cellular communication, complex signaling, and how these various dimensions form functional brain systems. <strong class="italic">Prerequisites:</strong> COGS 1 or COGS 17. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs107b" name="cogs107b" /></a></p><p class="course-name">COGS 107B. Systems Neuroscience (4)</p>
+				<p class="course-descriptions">This course focuses on the electrical dynamics of neurons and how their patterns relate to perception, thought, and action. Neural activity patterns underlying vision, touch, audition, proprioception, and head orientation are examined in detail. Also examined are motor control, sleep/wake state production, action planning, learning, memory, attention, spatial cognition and function of the cerebellum, basal ganglia, and hippocampus. <strong class="italic">Prerequisites:</strong> COGS 107A. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs107c" name="cogs107c" /></a></p><p class="course-name">COGS 107C. Cognitive Neuroscience (4)</p>
+				<p class="course-descriptions">This course reviews research investigating the neural bases for human mental processes, including processing of affective, social, linguistic, and visuospatial information, as well as memory, attention, and executive functions. Also discussed are brain development and brain aging, and the nature of intelligence and creativity. <strong class="italic">Prerequisites:</strong> COGS 107B and its prerequisites. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs108" name="cogs108" /></a></p><p class="course-name">COGS 108. Data Science in Practice (4)</p>
+		<p class="course-descriptions">Data science is multidisciplinary, covering computer science, statistics, cognitive science and psychology, data visualization, artificial intelligence and machine learning, among others. This course teaches critical skills needed to pursue a data science career using hands-on programming and experimental challenges. <strong class="italic">Prerequisites:</strong> CSE 11 or CSE 8A or COGS 18 or DSC 10 or MAE 8.</p>
+		<p class="anchor-parent"><a class="anchor" id="cogs109" name="cogs109" /></a></p><p class="course-name">COGS 109. Modeling and Data Analysis (4)</p>
+				<p class="course-descriptions">Exposure to the basic computational methods useful throughout cognitive science. Computing basic statistics, modeling learning individuals, evolving populations, communicating agents, and corpus-based linguistics will be considered. <strong class="italic">Prerequisites: </strong>COGS 14B, MATH 18 or MATH 31AH, and COGS 18 or CSE 7 or CSE 8A or CSE 11. </p>
+				<div>
+				  <div> </div>
+	    </div>
+<div></div>
+<div>
+    <div> </div>
+    </div>
+<a name="cogs110" id="cogs110"></a></p><p class="course-name">COGS 110. The Developing Mind (4)</p>
+                <p class="course-descriptions">(Cross-listed with HDS 121.)
+                    This course examines changes in thinking and perceiving the
+                    physical and social world from birth through childhood. Evidence
+                    of significant changes in encoding information, forming mental
+                    representations, and solving problems is culled from psychological
+                    research, cross-cultural studies, and cognitive science. Cross-listed course. HDS 121 has been renumbered from HDP 121. Students may receive credit for one of the following: COGS 110, HDS 121, or HDP 121. <strong><em>Prerequisites:</em></strong> COGS 1 or HDP 1 or HDS 1.</p>
+                <p class="anchor-parent"><a class="anchor" id="cogs115" name="cogs115" /></a></p><p class="course-name">COGS 115. Neurological Development and Cognitive Change (4)</p>
+				<p class="course-descriptions">This course provides an overview of neurological
+				  development and explores the relations between physiological
+				  change and the experience for the child from the prenatal period
+				  through adolescence. <strong class="italic">Prerequisites:</strong> BILD 10 or BILD 12 or COGS 107A or COGS 107B or COGS 17 or HDP 110. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs118a" name="cogs118a" /></a></p><p class="course-name">COGS 118A. Supervised Machine Learning Algorithms  (4)</p>
+				<p class="course-descriptions">This course introduces the mathematical formulations and algorithmic implementations of the core supervised machine learning methods. Topics in 118A include regression, nearest neighborhood, decision tree, support vector machine, and ensemble classifiers. COGS 118A-B may be taken in either order.  <strong class="italic">Prerequisites: </strong>COGS 18 or CSE 8B or CSE 11 and MATH 18 or MATH 31AH and MATH 20E and MATH 180A and COGS 108 or COGS 109 or COGS 118B or CSE 150 or CSE 151 or CSE 158 or ECE 174 or ECE 175A or consent of instructor. </p>
+<p class="anchor-parent"><a class="anchor" id="cogs118b" name="cogs118b" /></a></p><p class="course-name">COGS 118B. Introduction to Machine Learning II  (4)</p>
+				<p class="course-descriptions">This course, with COGS 118A, forms a rigorous introduction to machine learning. Topics in 118B include maximum likelihood estimation, Bayesian parameter estimation, clustering, principal component analysis, and some application areas. COGS 118A-B may be taken in either order. <strong class="italic">Prerequisites: </strong>CSE 8B or CSE 11 and MATH 18 or MATH 31AH and MATH 20E and MATH 180A or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs118c" name="cogs118c" /></a></p><p class="course-name">COGS 118C. Neural Signal Processing (4)</p>
+				<p class="course-descriptions">This course will cover theoretical foundations and practical applications of signal processing to neural data. Topics include EEG/field potential methods (filtering, Fourier (spectral) analysis, coherence) and spike train analysis (reverse correlation, spike sorting, multielectrode recordings). Some applications to neural imaging (optical microscopy, fMRI) data will also be discussed. <strong class="italic">Prerequisites: </strong>MATH 18 or MATH 31AH, COGS 14B or PSYC 60, and COGS 108 or COGS 109. </p>
+				
+<p class="anchor-parent"><a class="anchor" id="cogs118d" name="cogs118d" /></a></p><p class="course-name">COGS 118D. Mathematical Statistics for Behavioral Data Analysis (4)</p>
+				<p class="course-descriptions">Statistical methods for analyzing behavioral data. A mathematically sophisticated course covering both classical and Bayesian statistical methods for estimation, hypothesis testing, regression, and model comparison. Emphasis on both mathematical understanding of statistical methods as well as common applications. <strong class="italic">Prerequisites: </strong>MATH 18 or MATH 31AH and MATH 180A or consent of instructor.</p>
+             
+<p class="anchor-parent"><a class="anchor" id="cogs119" name="cogs119" /></a></p><p class="course-name">COGS 119. Programming for Experimental Research (4)</p>
+		<p class="course-descriptions">This course will help students in the behavioral sciences (cognitive science, psychology, linguistics, neuroscience, and related fields) learn how to program experiments and analyze and present data. <strong class="italic">Prerequisites: </strong>COGS 14B and MATH 18 or MATH 31AH  and MAE 8.</p>
+				<p class="anchor-parent"><a class="anchor" id="cogs120" name="cogs120" /></a></p>
+				<p class="course-name">COGS 120. Interaction Design  (5)</p>
+				<p class="course-descriptions">(Cross-listed with CSE 170.) Introduces fundamental methods and principles for designing, implementing, and evaluating user interfaces. Topics: user-centered design, rapid prototyping, experimentation, direct manipulation, cognitive principles, visual design, social software, software tools. Learn by doing: work with a team on a quarter-long design project. Recommended preparation: basic familiarity with HTML. Students may not receive credit for both COGS 120 and CSE 170. <strong class="italic">Prerequisites:</strong> CSE 11 or CSE 8B or DSC 30 and COGS 1 or COGS 187A or DSGN 1.</p>
+<p class="anchor-parent"><a class="anchor" id="cogs121" name="cogs121" /></a></p><p class="course-name">COGS 121. Human Computer Interaction Programming Studio (4)</p>
+				<p class="course-descriptions">This course covers fundamentals of user interface design and implementation of web-based systems. A major component is completion of a substantial programming project in which students work together in small teams. <strong class="italic">Prerequisites:</strong> COGS 120 and CSE 8B or CSE 11 or DSC 30.</p>
+				<p class="anchor-parent"><a class="anchor" id="cogs122" name="cogs122" /></a></p>
+				<p class="course-name">COGS 122. Startup Studio (4)</p>
+		<p class="course-descriptions">Explores tools and processes for innovating novel business concepts to solve problems involving the interaction between humans and technology. Students will work with an interdisciplinary team to understand unmet user needs and to create a value proposition that balances technical feasibility, financial viability, and desirability. <strong class="italic">Prerequisites: </strong>DSGN 100 or COGS 187B or COGS 187A or COGS 120 or CSE 170.</p>
+				<p class="anchor-parent"><a class="anchor" id="cogs123" name="cogs123" /></a></p><p class="course-name">COGS 123. Social Computing (4)</p>
+				<p class="course-descriptions">This course explores the intersection of social behavior and computational systems. Students will examine a range of organizational, technical, and business challenges related to social computing, and learn how to use tools to analyze, design, and build online communities. <strong class="italic">Prerequisites:</strong> COGS 102C or COGS 120 or COGS 187A or COGS 187B or DSGN 1. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs124" name="cogs124" /></a></p><p class="course-name">COGS 124. HCI Technical Systems Research (4)</p>
+				<p class="course-descriptions">In this advanced project-based course, we study the state-of-the-art in research on technical systems for human-computer interaction (HCI). Students will deconstruct the systems described in top-tier HCI papers and work in teams to create novel technical systems of their own. <strong class="italic">Prerequisites: </strong>COGS 120 and COGS 121.</p>
+				<p class="anchor-parent"><a class="anchor" id="cogs125" name="cogs125" /></a></p><p class="course-name">COGS 125. Advanced Interaction Design (4)</p>
+				<p class="course-descriptions">This is a studio class for students who are passionate about diving deep into interaction design and honing their design skills. Introduces social computing, input and interaction techniques, and information design. Students will regularly present work in a studio format. <strong class="italic">Prerequisites: </strong>CSE 11 or 8B and COGS 120 or CSE 170.</p>
+		<p class="anchor-parent"><a class="anchor" id="cogs126" name="cogs126" /></a></p><p class="course-name">COGS 126. Human-Computer Interaction (4)</p>
+        <p class="course-descriptions">This course surveys the field of human-computer interaction and the ideas and technologies that have shaped its development. <strong><em>Prerequisites: </em></strong>COGS 120 or COGS 121 or CSE 170.</p>
+        <p class="anchor-parent"><a class="anchor" id="cogs127" name="cogs127" /></a></p><p class="course-name">COGS 127. Designing Human-Data Interactions (4)</p>
+        <p class="course-descriptions">Introduces human-data interaction design, combining concepts from human-computer interaction (HCI) and data science. Topics: user-centered design, prototyping, exploratory data analysis, interactive data visualization, data storytelling. Work in teams on a quarter-long project. <strong><em>Prerequisites</em></strong><em><strong>:</strong></em> CSE 11 or CSE 8B or DSC 30 and COGS 1 or COGS 187A or DSGN 1.</p>
+<p class="anchor-parent"><a class="anchor" id="cogs143" name="cogs143" /></a></p><p class="course-name">COGS 143. Animal Cognition (4)</p>
+				<p class="course-descriptions">Examines the contrasts and parallels between primates and cetaceans in sensorimotor constraints, neuroanatomy, field behavior, and cognition in the lab, with a focus on the demands of competition and cooperation that helped shape the evolution of social cognition. Students may not receive credit for COGS 143 and COGS 143GS. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs144" name="cogs144" /></a></p><p class="course-name">COGS 144. Social Cognition: A Developmental and Evolutionary Perspective (4)</p>
+				<p class="course-descriptions">This course presents the building blocks of social cognition from a developmental and evolutionary perspective and focuses on how and when children develop these abilities and how humans compare to other species such as great apes, birds, and dogs. <strong class="italic">Prerequisites:</strong> COGS 14A-B.</p>
+				<p class="anchor-parent"><a class="anchor" id="cogs151" name="cogs151" /></a></p><p class="course-name">COGS 151. Analogy and Conceptual Systems (4)</p>
+				<p class="course-descriptions">Human thought and meaning are deeply tied to the capacity for mapping conceptual domains onto each other, inducing common schemas and performing mental simulation. This course examines major aspects of this cognitive activity including metaphor, conceptual blending, and embodied cognition. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="cogs152" name="cogs152" /></a></p><p class="course-name">COGS 152. Cognitive Foundations of Mathematics (4)</p>
+				<p class="course-descriptions">How the human mind/brain creates mathematics: embodiment, innovation, and creativity. The emergence and power of abstract concepts, such as infinity, infinitesimals, imaginary numbers, or zero. Cognitive approaches that connect mathematics to human thought in general. <strong class="italic">Prerequisites:</strong> COGS 1 or PHIL 1 or PSYC 1 or EDS (20 or 30 or 31); upper-division standing. </p>
+				<a name="cogs153" id="cogs153"></a></p><p class="course-name">COGS 153. Language Comprehension (4)<br />
+			    </p>
+				<p class="course-descriptions">The processes and representations involved in understanding language—processing words, syntax, semantics, and discourse—are examined in light of evidence from both psychological experiments and computer simulations. <span class="italic"><strong>Prerequisites:</strong> </span>upper-division standing.</p>
+<p class="anchor-parent"><a class="anchor" id="cogs154" name="cogs154" /></a></p><p class="course-name">COGS 154. Communication Disorders in Children and Adults (4)</p>
+				<p class="course-descriptions">Neural bases of language use in normal adults, and neural bases of language and communication development in normal children. Evidence on the language and communication deficits in adults (especially aphasia and dementia) and children (specific language impairment, focal brain injury, retardation, and autism). <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs155" name="cogs155" /></a></p><p class="course-name">COGS 155. Gesture and Cognition (4)</p>
+				<p class="course-descriptions">Spontaneous gestures and their relationship
+				  to speech, cognition, brain, and culture. The course covers, among others,
+				  gesture and language development, gesture and conceptual systems, speech-gesture
+				  coproduction and its brain bases, evolution of language, and gestural
+				  behavior in special populations. <strong class="italic">Prerequisites:</strong> upper-division
+				  standing.</p>
+				<a name="cogs156" id="cogs156"></a></p><p class="course-name">COGS 156. Language Development (4)</p>
+                <p class="course-descriptions">A comprehensive survey of theory, method and research findings
+                  on language development in children ranging from the earliest
+                  stages of speech perception and communication at birth to refinements
+                  in narrative discourse and conventional fluency through middle
+                  childhood and adolescence. <span class="italic"><b>Prerequisites:</b></span> upper-division standing
+                  and background in development psychology and/or linguistics
+                  is recommended.</p>
+                <a name="cogs157" id="cogs157"></a></p><p class="course-name">COGS 157. Music and the Mind (4)</p>
+                <p class="course-descriptions">Explores how humans (and other species) process music, including pitch, meter, emotion, motor aspects, links to language, brain activity. Students should have experience reading musical notation. <strong class="italic">Prerequisites:</strong> COGS 101A or COGS 101B or COGS 101C.</p>
+<p class="anchor-parent"><a class="anchor" id="cogs160" name="cogs160" /></a></p>
+                <p class="course-name">COGS 160. Upper-Division Seminar on Special Topics (4)</p>
+				<p class="course-descriptions">Special topics in cognitive science are discussed. (May be repeated when topics vary.) <strong class="italic">Prerequisites:</strong> department approval. </p>
+				<a name="cogs163" id="cogs163"></a></p><p class="course-name">COGS 163. Metabolic Disorders of the Brain (4)</p>
+				<p class="course-descriptions">Research is showing that cellular metabolic processes are mediating normal and abnormal brain function. For example, neurocognitive disorders often co-occur with metabolic disturbances, such as insulin resistance, diabetes, and obesity. An understanding of these mechanisms will provide insight to new treatments for cognitive and neurological disorders. The course will cover topics on the role of abnormal cellular structure, genetic, epigenetic and pathogenic influences on synaptic signaling.<strong class="italic"> Prerequisites:</strong> upper-division standing.</p>
+				<a name="cogs164" id="cogs164"></a></p><p class="course-name">COGS 164. Neurobiology of Motivation (4)</p>
+		<p class="course-descriptions">This course will address principles of motivation, valuation, and reward, spanning a large territory of topics, from rules of synaptic learning to classroom learning. Recommended preparation: courses in basic biology, physiology, COGS 107A or 107B or 107C, or courses in education. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<a name="cogs169" id="cogs169"></a></p><p class="course-name">COGS 169. Genetic Information for Behavior: From Single Cells to Mammals (4)</p>
+				<p class="course-descriptions">Behavior draws on a wide range of genes acting as a complex source of information. Model organisms—bacteria, Paramecium, C. elegans, Drosophila, and mice—have provided insight into how genes influence both innate and learned behaviors. <strong class="italic">Prerequisites: </strong>COGS 1 and 107A or permission of instructor.</p>
+				<a name="cogs170" id="cogs170"></a></p><p class="course-name">COGS 170. Brain Waves Across Scales (4)</p>
+				<p class="course-descriptions">This course will provide an interactive and hands-on introduction to rhythms and large-scale electrical potentials of the brain. Topics will include the resonance properties of neurons, rhythmic interactions between neurons, the coordination of activity across large populations of neurons that is measurable in the local field potential (LFP) and electroencephalogram (EEG), the advantages of temporally coordinated neural activity, and relevant insights about the brain and cognitive disorders.<em> <strong>Prerequisites:</strong></em><strong> </strong>COGS 17 or BILD 12.</p>
+<a name="cogs171" id="cogs171"></a></p><p class="course-name">COGS 171. Mirror Neuron System (4)</p>
+				<p class="course-descriptions">This class will examine the neuroanatomy, physiology, and functional correlates of the human mirror neuron system and its putative role in social cognition, e.g., action understanding, empathy, and theory of mind. We will examine the developmental, neuroimaging, electrophysiological, as well as clinical evidence, for and against this hypothesis.<strong class="italic"> Prerequisites:</strong> upper-division standing.</p>
+		<p class="anchor-parent"><a class="anchor" id="cogs172" name="cogs172" /></a></p><p class="course-name">COGS 172. Brain Disorders and Cognition (4)</p>
+				<p class="course-descriptions">A review of the patterns of impaired and intact cognitive abilities present in brain-damaged patients in terms of damage to one or more components of a model of normal cognitive functioning. <strong class="italic">Prerequisites:</strong> COGS 107A. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs174" name="cogs174" /></a></p>
+				<p class="course-name">COGS 174. Drugs: Brain, Mind, and Culture (4)</p>
+				<p class="course-descriptions">This course explores how drugs interact with the brain/mind and culture. It covers evolutionary and historical perspectives, brain chemistry, pharmacology, expectancies and placebo effects, and models of addiction. It also provides a biopsychosocial survey of commonly used and abused substances. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="cogs175" name="cogs175" /></a></p><p class="course-name">COGS 175. The Neuropsychological Basis of Alternate States of Consciousness (4)</p>
+				<p class="course-descriptions">This course will review the literature that correlates brain rhythms in the human EEG with aspects of cognition, behavioral states, neuropsycho-pharmacology, and psychopathology in order to understand the psychological and neurophysiological underpinnings of these experiences. <strong class="italic">Prerequisites:</strong> COGS 101A or COGS 107A. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs176" name="cogs176" /></a></p><p class="course-name">COGS 176. From Sleep to Attention (4)</p>
+				<p class="course-descriptions">This course will combine an examination of the neural character of quiet and active sleep states and their potential functions with an examination of the different mechanisms by which the brain mediates attention to specific features of the world. <strong class="italic">Prerequisites:</strong> COGS 107A.</p>
+				<p class="anchor-parent"><a class="anchor" id="cogs177" name="cogs177" /></a></p><p class="course-name">COGS 177. Space and Time in the Brain (4)</p>
+				<p class="course-descriptions">The course examines features of neural dynamics that map spatial and temporal relationships. Lectures will cover interval timing, mapping of item-to-observer position, mapping of observer-to-world position, and the conjunction of spatial and temporal coding in hippocampus. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="cogs178" name="cogs178" /></a></p><p class="course-name">COGS 178. Genes, Brains, and Behavior (4)</p>
+				<p class="course-descriptions">Evidence for genetic mediation of behavioral and neural differences, mechanisms that may mediate these effects, and the roles of the environment and experience are discussed. <strong class="italic">Prerequisites:</strong> COGS 107A-B or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="cogs179" name="cogs179" /></a></p><p class="course-name">COGS 179. Electrophysiology of Cognition (4)</p>
+				<p class="course-descriptions">Survey the theory and practice of using electrical
+				  recordings (event-related brain potentials) to study cognition and behavior
+				  including attention, language, mental chronometry, memory, and plasticity. <strong class="italic">Prerequisites:</strong> COGS 107A or COGS 17.</p>
+				<p class="anchor-parent"><a class="anchor" id="cogs180" name="cogs180" /></a></p><p class="course-name">COGS 180. Decision Making in the Brain  (4)</p>
+        <p class="course-descriptions">This course covers recent advances in the understanding of neural mechanisms and computational principles underlying the brain’s ability to make decisions. The role of various factors, as well as their neural encoding, will be considered, e.g., observation noise, reward, risk, internal uncertainty, emotional state, external incentives. <strong class="italic">Prerequisites: </strong>BILD 12 or COGS 107B or PSYC 106 and MATH 31AH or MATH 18 and MATH 20B and COGS 108 or COGS 109 or COGS 18 or CSE 8A or CSE 11. </p>
+        <p class="anchor-parent"><a class="anchor" id="cogs181" name="cogs181" /></a></p><p class="course-name">COGS 181. Neural Networks and Deep Learning (4)</p>
+        <p class="course-descriptions">This course will cover the basics about neural networks, as well as recent developments in deep learning including deep belief nets, convolutional neural networks, recurrent neural networks, long-short term memory, and reinforcement learning. We will study details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification. <strong class="italic">Prerequisites: </strong>COGS 18 or CSE 11 or CSE 8B and MATH 18 or MATH 31AH and MATH 20E and MATH 180A and COGS 118A or COGS 118B or CSE 150 or CSE 151 or CSE 158 or ECE 174 or ECE 175A. </p>
+        
+<p class="anchor-parent"><a class="anchor" id="cogs184" name="cogs184" /></a></p><p class="course-name">COGS 184. Modeling the Evolution of Cognition (4)</p>
+		<p class="course-descriptions">This interdisciplinary course integrates data on evolutionary theory, hominid prehistory, primate behavior, comparative neuroanatomy, cognitive development, and collaboration. After lectures, readings, and discussion of the literature, students generate a detailed timeline of five million years of human cognitive evolution. Students may not receive credit for COGS 184 and COGS 184GS. <strong><em>Prerequisites:</em></strong> COGS 17 or COGS 107A or COGS 107B or COGS 107C or BILD 12.</p>
+				<p class="anchor-parent"><a class="anchor" id="cogs185" name="cogs185" /></a></p><p class="course-name">COGS 185. Advanced Machine Learning Methods (4)</p>
+				<p class="course-descriptions">This course is an advanced seminar and project course that follows the introduction to machine learning courses. Advanced and new machine learning methods will be discussed and used. <strong class="italic">Prerequisites:</strong> COGS 118B or COGS 118A.</p>
+				<p class="anchor-parent"><a class="anchor" id="cogs187a" name="cogs187a" /></a></p>
+				<p class="course-name">COGS 187A. Usability and Information Architecture  (4)</p>
+				<p class="course-descriptions">Examines the cognitive basis of successful web and multimedia design. Topics: information architecture, navigation, usability, graphic layout, transaction design, and how to understand user interaction. <strong class="italic">Prerequisites:</strong> COGS 18 or CSE 11 or CSE 8A and COGS 10 or DSGN 1. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs187b" name="cogs187b" /></a></p>
+				<p class="course-name">COGS 187B. Practicum in Professional Web Design  (4)</p>
+				<p class="course-descriptions">This course follows up on the basics of multimedia design taught in COGS 187A. Students will probe more deeply into selective topics, such as animation, navigation, graphical display of information, and narrative coherence.  <strong class="italic">Prerequisites:</strong> COGS 187A or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs188" name="cogs188" /></a></p><p class="course-name">COGS 188. Artificial Intelligence Algorithms  (4)  </p>
+		<p class="course-descriptions">This class will cover a broad spectrum of machine learning algorithms. It builds on students&rsquo; previous exposure to machine learning. It covers new artificial intelligence algorithms ranging from topic models as used in the text data analysis to genetic algorithms. <strong class="italic">Prerequisites:</strong> COGS 109 or COGS 118A or COGS 118B. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs189" name="cogs189" /></a></p><p class="course-name">COGS 189. Brain Computer Interfaces (4)</p>
+		<p class="course-descriptions">This course will discuss signal processing, pattern recognition algorithms, and human-computer interaction issues in EEG-based brain-computer interfaces. Other types of brain-computer interfaces will also be discussed. <strong class="italic">Prerequisites: </strong>COGS 108 or COGS 109 or COGS 118A or COGS 118B.</p>
+				<p class="anchor-parent"><a class="anchor" id="cogs190a" name="cogs190a" /></a></p><p class="course-name">COGS 190A. Pre-Honors Project in Cognitive Science (4)</p>
+				<p class="course-descriptions">This course prepares students for the Cognitive
+				  Science Honors Program. The aim is to refine the research project and to
+				  teach students what a successfully written proposal entails. Students may
+				  be admitted to the Honors Program contingent upon completion and progress
+				  in the course. See “<a href="../curric/COGS-ug.html#honors" target="_blank">Cognitive
+				  Science Honors Program</a>” section for more
+				  information. Course should be taken for a letter grade. <strong class="italic">Prerequisites:</strong> upper-division
+			    standing; instructor and department approval. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs190b" name="cogs190b" /></a></p><p class="course-name">COGS 190B. Honors Studies in Cognitive Science (4)</p>
+				<p class="course-descriptions">This course will allow cognitive science honors
+				  students to explore advanced issues in the field of cognitive science research.
+				  It will also provide the opportunity to develop a thesis on the topic of
+				  their choice and begin work under faculty supervision. See “<a href="../curric/COGS-ug.html#honors" target="_blank">Cognitive
+				  Science Honors Program</a>” section for more
+				  information. <strong class="italic">Prerequisites:</strong> COGS 190A and formal admittance to the Cognitive Science Honors Program;
+			    department stamp. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs190c" name="cogs190c" /></a></p><p class="course-name">COGS 190C. Honors Thesis in Cognitive Science (4)</p>
+				<p class="course-descriptions">This course will provide honors candidates
+				  an opportunity to complete the research on and preparation
+				  of an honors thesis under close faculty supervision. Oral presentation
+				  of student&#8217;s
+				  thesis is required to receive honors; additionally, student
+				  must receive grade of A– or better in 190B and 190C to receive honors. See “<a href="../curric/COGS-ug.html#honors" target="_blank">Cognitive
+				  Science Honors Program</a>” section for more
+				  information. <strong class="italic">Prerequisites:</strong> COGS 190B with grade of A– or better and formal admittance
+			    to the Cognitive Science Honors Program.</p>
+				<p class="anchor-parent"><a class="anchor" id="cogs190d" name="cogs190d" /></a></p><p class="course-name">COGS 190D. Preparation for Thesis Presentation (1)</p>
+				<p class="course-descriptions">This course is affiliated with the honors program (190A-B-C) and is required of honors students during spring quarter. Its aim is to prepare students to present research results to an audience. Emphasis will be on the oral presentation (organization, wording, graphics), but there will also be some discussion about written research reports. Seminar style format with occasional short lectures wherein students will practice oral presentations and provide constructive criticism to each other. <strong class="italic">Prerequisites:</strong> must be concurrently enrolled in 190B or 190C. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs195" name="cogs195" /></a></p><p class="course-name">COGS 195. Instructional Apprenticeship in Cognitive Science (4)</p>
+				<p class="course-descriptions">Students, under the direction of the instructor, lead laboratory or discussion sections, attend lectures, and meet regularly with the instructor to help prepare course materials and grade papers and exams. Applications must be submitted to and approved by the department. P/NP grades only. May be taken for credit three times. <strong class="italic">Prerequisites:</strong> upper-division standing; 3.0 GPA; instructor and department approval.</p>
+				<p class="anchor-parent"><a class="anchor" id="cogs197" name="cogs197" /></a></p><p class="course-name">COGS 197. Cognitive Science Internship (2 or 4)</p>
+				<p class="course-descriptions">The student will undertake a program of practical research in a supervised work environment. Topics to be researched may vary, but in each case the course will provide skills for carrying out these studies. P/NP grades only. May be taken for credit up to three times. <strong><em>Prerequisites: </em></strong>upper-division standing; 2.5 GPA; department approval.</p>
+<p class="anchor-parent"><a class="anchor" id="cogs198" name="cogs198" /></a></p>
+				<p class="course-name">COGS 198. Directed Group Study (2 or 4)</p>
+				<p class="course-descriptions">This independent study course is for small groups of advanced students who wish to complete a one-quarter reading or research project under the mentorship of a faculty member. Students should contact faculty whose research interests them to discuss possible projects. P/NP grades only. May be taken for credit three times. <strong class="italic">Prerequisites:</strong> upper-division standing; 2.5 GPA; consent of instructor and department approval. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs199" name="cogs199" /></a></p><p class="course-name">COGS 199. Special Project (2 or 4)</p>
+				<p class="course-descriptions">This independent study course is for individual, advanced students who wish to complete a one-quarter reading or research project under the mentorship of a faculty member. Students should contact faculty whose research interests them to discuss possible projects. P/NP grades only. May be taken for credit three times.  <strong class="italic">Prerequisites:</strong> upper-division standing; 2.5 GPA; consent of instructor and department approval. </p>
+				<h2 class="course-subhead-1">Graduate </h2>
+				<p class="anchor-parent"><a class="anchor" id="cogs200" name="cogs200" /></a></p><p class="course-name">COGS 200. Cognitive Science Seminar (4)</p>
+				<p class="course-descriptions">This seminar emphasizes the conceptual basis of cognitive science, including representation, processing mechanisms, language, and the role of interaction among individuals, culture, and the environment. Current developments in each field are considered as they relate to issues in cognitive science. (May be repeated for credit.) </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs201" name="cogs201" /></a></p><p class="course-name">COGS 201. Neural Dynamics of Cognition  (4)</p>
+				<p>Examination of the neurophysiological and neuroanatomical basis for perception, cognition, and learning. Lectures will focus on the dynamics of neural activity in cortical and subcortical structures as they relate to sensory processing, motor control, attention, arousal state, and memory.</p>
+<p class="anchor-parent"><a class="anchor" id="cogs202" name="cogs202" /></a></p><p class="course-name">COGS 202. Cognitive Science Foundations: Computational Modeling of Cognition (4)</p>
+				<p class="course-descriptions">This course surveys the development of symbolic and connectionist models of cognition. Selected readings from the late 1940s to the present are covered. Topics include Turing machines, information theory, computational complexity, search, learning, symbolic artificial intelligence, and neural networks. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs203" name="cogs203" /></a></p><p class="course-name">COGS 203. Cognitive Science Foundations: Theories and Methods in the Study of Cognitive Phenomena (4)</p>
+				<p class="course-descriptions">Surveys a variety of theoretical and methodological approaches to the study of human cognition. Topics include language structure, language processing, concepts and categories, knowledge representation, analogy and metaphor, reasoning, planning and action, problem solving, learning and expertise, and emotion. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs205" name="cogs205" /></a></p><p class="course-name">COGS 205. Introduction to Thesis Research (4)</p>
+				<p class="course-descriptions">This course is taken to focus the students&#8217; development of a thesis topic and research proposal. Students prepare an outline of thesis proposal and make an oral public presentation of the proposed topic prior to the end of the third year. S/U only. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs210a" name="cogs210a" /></a></p><p class="anchor-parent"><a class="anchor" id="cogs210b" name="cogs210b" /></a></p><p class="anchor-parent"><a class="anchor" id="cogs210c" name="cogs210c" /></a></p><p class="course-name">COGS 210A-B-C. Introduction to Research (4-4-4)</p>
+				<p class="course-descriptions">This sequence is an intensive research project. Students under faculty mentorship perform a thorough analysis of the problem and the literature, carry out original studies, and prepare oral and written presentations. Students should aim for a report of publishable quality. Letter grade required. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs211a" name="cogs211a" /></a></p><p class="anchor-parent"><a class="anchor" id="cogs211b" name="cogs211b" /></a></p><p class="anchor-parent"><a class="anchor" id="cogs211c" name="cogs211c" /></a></p><p class="course-name">COGS 211A-B-C.
+		  Research Methods in Cognitive Science (2-2-2)</p>
+				<p class="course-descriptions">Issues in design, implementation, and evaluation of research in cognitive science are discussed. Students will present and comment on their own research projects in progress. Discussions also include presentations of research to various audiences, abstracts, reviews, grant process, and scientific ethics. Letter grade required. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs219" name="cogs219" /></a></p><p class="course-name">COGS 219. Programming for Behavioral Sciences (4)</p>
+        <p>An applied hands-on programming course that focuses on the design, implementation, and analysis of experiments. Topics include experiment design, stimulus presentation, response collection, file manipulation, data analysis, display, and presentation. Course work includes both team and individual projects. Graduate students who have not programmed at all should speak with the professor beforehand. </p>
+        <p class="anchor-parent"><a class="anchor" id="cogs220" name="cogs220" /></a></p><p class="course-name">COGS 220. Information Visualization (4)</p>
+				<p class="course-descriptions">This seminar surveys current research in information visualization with the goal of preparing students to do original research. The focus is on the cognitive aspects of information design, dynamic representations, and computational techniques. Topics vary each time course is offered. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs225" name="cogs225" /></a></p><p class="course-name">COGS 225. Image Recognition  (4)</p>
+				<p class="course-descriptions">This course is designed to open the doors for students who are interested in learning about the basic tools and technologies for image classification and recognition. We will focus on traditional computer vision techniques as well as graphics processing unit (GPU) powered deep learning techniques that are critical to modern image data analysis such as large-scale image recognition, object detection, and video analysis.</p>
+
+				<p class="anchor-parent"><a class="anchor" id="cogs229" name="cogs229" /></a></p><p class="course-name">COGS 229. Design at Large (1)</p>
+				<p class="course-descriptions">(Cross-listed with CSE 219.) New societal challenges, cultural values, and technological opportunities are changing design, and vice versa. The seminar explores this increased scale, real-world engagement, and disruptive impact. Invited speakers from UC San Diego and beyond share cutting-edge research on interaction, design, and learning. S/U grades only. May be taken for credit up to eighteen times.</p>
+				<p class="anchor-parent"><a class="anchor" id="cogs230" name="cogs230" /></a></p><p class="course-name">COGS 230. Topics in Human-Computer Interaction (4)</p>
+		<p class="course-descriptions">(Cross-listed with CSE 216.) Prepares students to conduct original HCI research by reading and discussing seminal and cutting-edge research papers. Topics include design, social software, input techniques, mobile, and ubiquitous computing. Student pairs perform a quarter-long mini research project that leverages campus research efforts. Letter grades only.</p>
+		<p class="anchor-parent"><a class="anchor" id="cogs231" name="cogs231" /></a></p>
+		<p class="course-name">COGS 231. Design Seminar on Human-Centered Programming Tools (4)</p>
+		<p class="course-descriptions">Graduate-level seminar studying the design of programming tools from a human-centered perspective, relying primarily on the latest research literature combined with classical theory in cognitive science and human-computer interaction. Course work involves critical reading, discussion, and programming projects. Letter grades only. Recommended preparation: COGS 120 or CSE 170.</p>
+		<p class="anchor-parent"><a class="anchor" id="cogs234" name="cogs234" /></a></p><p class="course-name">COGS 234. Distributed Cognition (4)</p>
+				<p class="course-descriptions">This course focuses on aspects of individual and socially distributed cognition. Empirical examples are drawn from natural and experimental settings that presuppose, tacitly or explicitly, socially distributed knowledge among participants. The class examines the way locally managed, pragmatic conditions influence how decisions are framed. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs238" name="cogs238" /></a></p><p class="course-name">COGS 238. Topics in Cognitive Linguistics (1–4)</p>
+				<p class="course-descriptions">(Cross-listed with LIGN  238.) Basic concepts, empirical findings, and recent developments in cognitive and functional linguistics. Language viewed dynamically in relation to conceptualization, discourse, meaning construction, and cognitive processing. (As topics vary, may be repeated for credit.) </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs241" name="cogs241" /></a></p>
+				<p class="course-name">COGS 241. Ethics and Survival Skills in Academia (2)</p>
+				<p class="course-descriptions">(Cross-listed with NEU  241.) Lectures, readings, and discussions about the responsible conduct and reporting of research, working with others in science, social responsibilities, and various career advancement skills; the course is designed as an option for meeting current federal regulations. S/U grades only. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs243" name="cogs243" /></a></p><p class="course-name">COGS 243. Statistical Inference and Data Analysis (2 or 4)</p>
+				<p class="course-descriptions">This course provides a rigorous treatment of hypothesis testing, statistical inference, model fitting, and exploratory data analysis techniques used in the cognitive and neural sciences. Students will acquire an understanding of mathematical foundations and hands-on experience in applying these methods using Matlab. Cognitive science PhD students must enroll for four units and will be required to do assignments and a final project. All other students can enroll for two units and will be required to complete all assignments but not a final project (or by request a project and no assignments).</p>
+				<a name="cogs252" id="cogs252"></a></p><p class="course-name">COGS 252. Cognitive Science of Mathematics (4)</p>
+				<p class="course-descriptions">Empirical investigation of the nature of mathematics. How the human mind/brain creates abstract concepts, such as infinity, infinitesimals, imaginary numbers, or zero: embodiment, creativity, and history. Cognitive approaches that connect mathematics to human thought in general.</p>
+				<p class="anchor-parent"><a class="anchor" id="cogs260" name="cogs260" /></a></p>
+				<p class="course-name">COGS 260. Seminar on Special Topics (1–4)</p>
+				<p class="course-descriptions">Specific topics in cognitive science are discussed. (May be repeated when topics vary.) </p>
+				<a name="cogs277" id="cogs277"></a></p><p class="course-name">COGS 277. Mirroring in Social Cognition (4)</p>
+				<p class="course-descriptions">The discovery of mirror neurons in the monkey brain raised the possibility that &ldquo;mirroring&rdquo; constitutes instances of mental simulation. In this seminar, we will examine the neural basis of social cognition and specifically the relationship between mirroring processes and cognition.</p>
+				<p class="anchor-parent"><a class="anchor" id="cogs278" name="cogs278" /></a></p><p class="course-name">COGS 278. Genetics and Individuality (4)</p>
+				<p class="course-descriptions">Evidence for the heritability and for the association of genetic variants with behavioral and neural phenotypes will be reviewed. Integrative models of gene-environment interaction will be discussed. Guest faculty will describe their own work in this area.</p>
+		<p class="anchor-parent"><a class="anchor" id="cogs279" name="cogs279" /></a></p><p class="course-name">COGS 279. Electrophysiology of Cognition (4)</p>
+				<p class="course-descriptions">(Cross-listed
+				  with NEU 279) This course surveys the theory and practice of using recordings
+				  of electrical and magnetic activity of the brain to study cognition and
+				  behavior. It explores what brain waves reveal about normal and abnormal
+				  perception, processing, decision making, memory, preparation, and comprehension.
+				  Graduate students will be required to do additional readings for the material
+				  each week (different for each grad) and to present orally (as well as in
+				  a written page) a critical analysis of the readings. <strong class="italic">Prerequisites:</strong> COGS 107A or PSYC 106; COGS 101A or PSYC 105. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs280" name="cogs280" /></a></p><p class="course-name">COGS 280. Neural Oscillations (4)</p>
+				<p class="course-descriptions">Brain rhythms play a critical role in perception and cognition. What are they? Where do they come from? This course will examine the origin and function of neural oscillations and the role they play in neural computation, representation, and cognition. <strong class="italic">Prerequisites:</strong> departmental approval. Python/Matlab experience required prior to enrollment. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs283" name="cogs283" /></a></p><p class="course-name">COGS 283. Big Visual Data Processing (4)</p>
+				<p class="course-descriptions">This course is designed for students interested in learning about basic tools and technologies for dealing with big image data in the sense of collecting, crawling, processing, and classifying images, focusing on matching, hashing, deep learning, and online learning.</p>
+<p class="anchor-parent"><a class="anchor" id="cogs290" name="cogs290" /></a></p><p class="course-name">COGS 290. Cognitive Science Laboratory Rotation (2)</p>
+				<p class="course-descriptions">Laboratory rotations provide students with experience in the various experimental methods used in cognitive science. <strong class="italic">Prerequisites:</strong> consent of instructor. S/U only. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs291" name="cogs291" /></a></p>
+				<p class="course-name">COGS 291. Laboratory Research (1–4)</p>
+				<p class="course-descriptions">Students engage in discussions of reading of recent research in an area designated and directed by the instructor and also participate in the design and execution of original research. Students are expected to demonstrate oral and written competence in presenting original research. <strong class="italic">Prerequisites:</strong> consent of the instructor and departmental approval. (May be repeated for credit.) </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs298" name="cogs298" /></a></p>
+				<p class="course-name">COGS 298. Directed Independent Study (1–12)</p>
+				<p class="course-descriptions">Students study and research selected topics under the direction of a member of the faculty. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs299" name="cogs299" /></a></p>
+				<p class="course-name">COGS 299. Thesis Research (1–12)</p>
+				<p class="course-descriptions">Students are provided directed research on their dissertation topic by faculty advisers. </p>
+				<p class="anchor-parent"><a class="anchor" id="cogs500" name="cogs500" /></a></p>
+				<p class="course-name">COGS 500. Teaching Apprenticeship (1–4)</p>
+		<p class="course-descriptions">This practicum for graduate students provides experience in teaching undergraduate cognitive science courses. S/U only.</p>
+<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

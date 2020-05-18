@@ -1,0 +1,336 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Cognitive Science</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Cognitive Science </h1>
+<p class="sectionNav"><span class="courseFacLink">[ <a href="../curric/COGS-ug.html">undergraduate
+      program</a> | <a href="../courses/COGS.html">courses</a> | <a href="../faculty/COGS.html">faculty</a> ]</span></p>
+<p class="program-contact-info">143 Cognitive Science Building<br />
+<a href="http://www.cogsci.ucsd.edu" target="_blank">http://www.cogsci.ucsd.edu</a></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h2 class="program-overview-subhead-1">The Graduate Programs </h2>
+<p>There are two PhD programs, each with different admissions
+                  and graduation requirements. The Department of Cognitive Science
+                  offers a PhD in cognitive science. Students are admitted
+                  to UC San Diego directly into the department and fulfill degree
+  requirements of the department. The Interdisciplinary Program in Cognitive
+                  Science offers a joint PhD in cognitive science and a home
+                  department (anthropology, communication, computer science and
+                  engineering, linguistics, neurosciences, philosophy, psychology,
+                  or sociology). Students are admitted to UC San Diego through the home
+                  department and fulfill the requirements of both the interdisciplinary
+                  program and the home department. </p>
+<h2 class="program-overview-subhead-1">PhD in Cognitive Science </h2>
+				<p>This program provides broad training in neurological processes and phenomena; the experimental methods, results, and theories from the study of psychology, language, and social and cultural issues; and the studies of computational mechanisms. The first year is devoted to familiarizing the student with the findings and current problems in cognitive science through courses in foundations and issues. </p>
+				<p>By the second year, basic courses and laboratory rotations are completed, with the major emphasis on the completion of a year-long research project. Future years are spent completing the advancement to candidacy requirements and doing the thesis research. Throughout the program, there are frequent faculty-student interactions, including special lectures by the faculty or invited speakers and the weekly informal research discussions and cognitive science seminar. </p>
+				<h3 class="program-overview-subhead-2">Admissions </h3>
+				<p>The admissions committee reviews each applicant&#8217;s statement of purpose, letters of recommendation, GRE scores, previous education and work experience, and grade point averages, then recommends candidates for admission to the entire faculty, who make the final decision. </p>
+				<h3 class="program-overview-subhead-2">Advising </h3>
+				<p>An interim adviser is appointed to serve as general adviser and counselor for each entering student. The adviser helps chart a set of courses that fulfill the content area requirements, taking into account the student&#8217;s prior training and interests. Students may change the interim adviser at any time (as long as the new interim adviser is willing). At the time of advancement to candidacy, students choose a permanent adviser who also functions as the chair of the dissertation committee. </p>
+				<p>All entering students are assumed to have basic prerequisite knowledge, and a list of basic readings will be provided to incoming students. Students who do not have this background can acquire it through self-study in the summer preceding arrival at UC San Diego or by taking self-paced study courses or relevant undergraduate courses at UC San Diego. </p>
+				<h4 class="program-overview-subhead-3">Summary of Requirements </h4>
+				<ol>
+				  <li>Foundations courses </li>
+				  <li>Approved study plan, which includes issues courses, methods courses,
+				    and laboratory rotations </li>
+				  <li>Second-year project </li>
+				  <li>Language requirement </li>
+				  <li>Advancement to candidacy </li>
+				  <li>Teaching </li>
+				  <li>Cognitive Science 200 seminar </li>
+				  <li>Participation in departmental events and committees </li>
+				  <li>PhD dissertation and defense </li>
+	    </ol>
+		<h3 class="program-overview-subhead-2">Description of Requirements		</h3>
+		<ol>
+		  <li><strong>Foundations Courses (Cognitive Science 201, 202, 203). </strong>Students
+				    complete foundations courses in the areas of brain, behavior,
+				    and computation by the end of the second year. The department may waive
+				    some or all courses for students who already have the required knowledge. </li>
+				  <li><strong>Study Plan.</strong> Students complete a study plan recommended
+				    by their adviser. The normal plan includes </li>
+				  <ol class="lower-alpha">
+                    
+                      <li><strong>Courses. </strong>A minimum of four courses are required. Upper-division       undergraduate courses are acceptable by petition. At least two of the       courses should be taken within the department. Department recommends       completion by the end of the second year. Courses taken outside the       department require the approval of the adviser. All courses must be taken       for a letter grade.</li>
+         
+                    <li><strong>Methods Courses.</strong> One approved statistics or statistics learning course and one programming course. An approved list of courses can be found <a href="http://tinyurl.com/y3kfhwdd" target="_blank">online</a>. Upper-division undergraduate courses and courses not on the approval list are acceptable by petition. Such petitions must be approved by the adviser. All courses must be taken for a letter grade.   
+                      <div>
+                        <div> </div>
+                      </div>
+                    </li>
+                    <li>
+                      <p><strong>Laboratory Rotations (Cognitive Science 290). </strong>A total
+                        of three quarters of laboratory rotations in at least two different faculty
+                        laboratories are required. Each rotation is for one to two full quarters
+                        as required by the faculty laboratory. All rotations should be completed
+                      by the end of fall quarter of the second year. </p>
+                      
+                      <p>			        Students can meet this requirement in the following ways: </p>
+                    </li>
+                    <ul> <li>
+                      <p>Three one-quarter rotations in three different laboratories, or </p>
+                      </li>
+                      <li>
+                        <p>One one-quarter rotation and one two-quarter rotation in two different
+                        laboratories, or </p>
+                      </li>
+                      <li>
+                        <p>Two two-quarter rotations in two different laboratories for a total
+                        of four quarters enrolled in COGS 290.</p>
+                      </li>
+                    </ul>
+                    <p>Department recommends that student and adviser negotiate a topic and
+                      activity, then put the agreement in writing, sign, and give to the graduate
+                      coordinator.
+  </li>
+                    </p>
+                  </ol>
+				  <li><strong>Second-Year Research Project (Cognitive Science 210A-B-C and 211A-B-C).</strong> In
+				    the summer between the first and second year, students work with their
+				    adviser and a faculty committee to develop a prospectus for a research
+				    project. The yearlong project culminates with written and oral presentations
+				    to the faculty at the end of spring quarter. During the second year,
+				    concurrent enrollment in Cognitive Science 210A-B-C and Cognitive Science
+				    211A-B-C is required as part of the Second Year Project. </li>
+				  <li><strong>Language Requirement. </strong>The main goal of the language
+				    requirement is to give all students firsthand experience with some of
+				    the differences in structure and usage of languages and the several issues
+				    involved in the learning of second languages. This requirement can be
+				    satisfied by demonstrating satisfactory proficiency, by prior study in
+				    a language (e.g., two years of high school study), or by satisfactory
+				    completion of one quarter of study in a language course approved by the
+				    department. </li>
+				  <li><strong>Advancement to Candidacy/Qualifying Paper and Oral Exam.</strong> There
+				    are three components to advancement to candidacy: </li>
+				 <ol class="lower-alpha"> <li>Competency. </li>
+				  <li>Depth. This requirement is met by satisfactorily completing a talk to the entire department on their thesis topic by the end of the fourth year. A first draft of the thesis proposal must be submitted to the student&rsquo;s adviser by the end of the fourth year. Students enroll in COGS 205 during winter and spring quarter of the third or fourth year. Students who do not complete this requirement in their third year must check in with the graduate adviser and possibly be further evaluated by a three-person committee.</li>
+			       
+				      <li>Dissertation       Topic/Advancement Exam.</li>
+			      
+				 </ol>
+                
+				  <li><strong>Teaching (Cognitive Science 500). </strong>All graduate
+				    students must serve as a teaching assistant at least one quarter of each
+				    academic year in residence. The undergraduate program offers a special
+				    challenge to instructor and student alike, and experience with the teaching
+				    of that program can provide a valuable part of the education of a cognitive
+				    scientist. Teaching assistantships performed in other departments must
+				    be approved by formal petition to the graduate committee to count toward
+				    the requirement. The department works closely with the Center for Teaching
+				    Development to design effective training and development programs for
+				    its teaching assistants. At the end of each quarter, instructors prepare
+				    written evaluations of all teaching assistants. </li>
+				  <li><strong>Cognitive Science 200 Seminar. </strong>Students must enroll
+				    in this seminar for two quarters while in residence; frequent
+				    participation is encouraged. </li>
+				  <li><strong>Participation in Departmental Events and Committees.</strong> Students
+				    participate in departmental special events and committees and serve as
+				    student representatives for faculty meetings and the campus wide Graduate
+				    Student Association. Students present their research in the undergraduate
+				    SCANS series. </li>
+				  <li><strong>Completion of the PhD Dissertation and Defense. </strong>Candidates
+				    prepare a written dissertation demonstrating a substantive contribution
+				    to our understanding of cognition. An oral defense follows. </li>
+	    </ol>
+<h3 class="program-overview-subhead-2">Master&#8217;s Degree </h3>
+				<p>The Department of Cognitive Science does not offer admissions to a master&rsquo;s program. However, candidates for the PhD <em>may</em> be granted the MS after fulfilling the first three requirements listed above. This is usually at the end of the second year.</p>
+                <div>
+                  <div> </div>
+                  <div> </div>
+                </div>
+<h3 class="program-overview-subhead-2">Evaluation of Performance and Progress </h3>
+				<p>A formal evaluation of performance and progress for all students takes place at the end of spring quarter every year, with special attention given to the first and second years of study and at the time of qualification. The first-year evaluation is based in large part on the performance in foundations and issues courses. The second-year evaluation is based on the student&#8217;s total performance, with heavy weight given to the student&#8217;s second-year research project. The third-year evaluation focuses on the competency and depth requirements, and the following years on the progress made toward completion of the dissertation. </p>
+				<h3 class="program-overview-subhead-2">Special Events </h3>
+				<p>The department intends to enhance student-faculty interaction and current awareness of active research issues by special events: </p>
+				<ul>
+				  <li>Lectures by invited speakers or faculty members </li>
+				  <li>A full day of faculty/student overview and information at the start
+				    of each year, with emphasis on ongoing research activity</li>
+				  <li>Presentations of second-year research projects and third-year thesis
+				    topics to the entire faculty at the end of each year</li>
+				  <li>Final defense of the dissertation accompanied by a public lecture
+				    and celebration</li>
+	    </ul>
+		<h3 class="program-overview-subhead-2">Time Limits to PhD </h3>
+				<p>Students must be advanced to candidacy by the end of spring quarter of their fourth year. Total university support cannot exceed seven years. Total registered time at UC San Diego cannot exceed eight years. </p>
+				<h3 class="program-overview-subhead-2">Financial Aid </h3>
+				<p>Financial support is available to qualified students in the form of fellowships, loans, and assistantships. Students are encouraged to seek fellowships and research awards from outside the university. Please refer to the Graduate Studies section for more information. </p>
+                <h2>The Interdisciplinary PhD Program</h2>
+                <p class="basic-offset-top-only">The interdisciplinary PhD program is distinct from the departmental PhD program (see previous section) both in admissions and graduation requirements. There are four aspects to graduate study in the interdisciplinary program: (a) a primary specialization in one of the established disciplines of cognitive science; (b) a secondary specialization in a second field of study; (c) familiarity with general issues in the field and the various approaches taken to these issues by scholars in different disciplines; and (d) an original dissertation project of an interdisciplinary character. The degree itself reflects the interdisciplinary nature of the program, being awarded jointly to the student for studies in cognitive science and the home department. Thus, students in linguistics or psychology will have degrees that read “PhD in Linguistics and Cognitive Science” or “PhD in Psychology and Cognitive Science.” </p>
+				<h3 class="program-overview-subhead-2">Admission to the Program </h3>
+				<p>Students enter UC San Diego through admission to one of the affiliated departments, which then serves as their home department, and that specifies their primary specialization. The affiliated departments are anthropology, communication, computer science and engineering, linguistics, neurosciences, philosophy, psychology, and sociology. Students may apply for admission to the interdisciplinary program anytime after entering UC San Diego, typically in the second or third year. Students must have an adviser from their home department who is a member of the interdisciplinary program faculty. If a student does not have such an adviser, a member of the Instructional Advisory Committee will be appointed as interim adviser. The Instructional Advisory Committee is made up of one interdisciplinary program faculty person from each of the home departments. The committee member that will serve as interim adviser for a student will come from the same home department as the student. </p>
+				<p class="note"><strong>Note: </strong>Admission to the interdisciplinary PhD program is contingent upon applying to and being accepted in a home department. </p>
+		<h3 class="program-overview-subhead-2">Primary Specialization </h3>
+				<p>Primary specialization is accomplished through the home department. Students are expected to maintain good standing within their home departments and to complete all requirements of their home departments through qualification for candidacy for the PhD degree.</p>
+				<h3 class="program-overview-subhead-2">Secondary Specialization </h3>
+				<p>The power of an interdisciplinary graduate training program lies in large measure in its ability to provide the student the tools of inquiry of more than one discipline. Students in the cognitive science interdisciplinary program are expected to gain significant expertise in areas of study outside of those covered by their home departments. Such expertise can be defined in several ways. The second area might coincide with that of an established discipline, and study within that discipline would be appropriate. Alternatively, the area could be based upon a substantive issue of cognitive science that spans several of the existing disciplines, and study within several departments would be involved. In either case, students work with their adviser and the Instructional Advisory Committee to develop an individual study plan designed to give them this secondary specialization. A list of courses in cognitive studies at UC San Diego is available. This requirement takes the equivalent of a full year of study, possibly spread out over several years. Often it is valuable to perform an individual research project sponsored by a faculty member in a department other than the student&#8217;s home department. </p>
+				<p>The following list demonstrates some ways to fulfill the secondary specialization requirement. It should be emphasized that these programs are only examples. Students will devise individual plans by working with their advisers and the advisory committee. Ideally, students who elect to do research in their areas of secondary interest will be able to accomplish a substantive piece of work, either one of publishable quality or one that will be of significant assistance in their dissertation projects. </p>
+				<p><strong>Cognitive Psychology. </strong>Get a basic introduction to cognitive psychology through the Cognitive Psychology Seminar (Psychology 218A-B) and acquire or demonstrate knowledge of statistical tools and experimental design (this can be done either by taking the graduate sequence in statistics, Psychology 201A-B, or through the standard “testing out” option offered to all psychology graduate students). Finally, and perhaps of most importance, the student should do a yearlong project of empirical research in psychology with the guidance of a member of the Department of Psychology. </p>
+				<p><strong>Cognitive Social Sciences. </strong>A course sequence from sociology and anthropology, including one or two courses in field methods and a research project under the direction of a cognitive social sciences faculty member. The course sequence and project should be worked out with the advisory committee to reflect the interests and background of the student. Examples of courses include Distributed Cognition (Cognitive Science 234), Text and Discourse Analysis (Sociology 204), and the Anthropology of Language and Discourse (Anthropology 263). In addition, courses on field methods are offered by both anthropology and sociology. </p>
+				<p><strong>Computer Science and Artificial Language. </strong>This specialization requires a thorough background in computer science. For those who enter the program without much formal training in this area, the secondary specialization in computer science includes some upper-division undergraduate courses (CSE 100, 102, 105) and a minimum of two graduate courses (CSE 250AB). (Note that these courses require basic knowledge of programming and discrete mathematics areas that may require some additional undergraduate courses for those who lack these skills.) Students with stronger backgrounds in computer science may go straight to graduate courses. For all students interested in this specialization, the course sequences and any projects should be worked out on an individual basis with the student&#8217;s adviser. </p>
+				<p><strong>Discourse Structure and Processing. </strong>This specialization is highly interdisciplinary, spanning linguistics, computer science, psychology, sociology, philosophy, and anthropology. Research within this specialization depends upon which discipline is given emphasis. Therefore, the specialization will have to be developed according to the interests of the student. All students will have to demonstrate awareness and knowledge of relevant studies and the approaches of the various disciplines. </p>
+				<p><strong>Linguistics. </strong>Students who elect a secondary specialization in linguistics should specialize either in the general area of syntax/semantics or in the general area of phonetics/phonology. Those who specialize in syntax/semantics should plan to take three courses in this area and one course in phonetics/phonology. Conversely, those who specialize in phonetics/phonology should plan to take three courses in this area and one course in syntax/semantics. The specific courses recommended will depend on the individual student&#8217;s interests and should be arranged in conjunction with the Department of Linguistics faculty liaison to the Cognitive Science Interdisciplinary Program. </p>
+				<p>In addition, students will prepare a research paper (preferably originating in one of the above courses) that demonstrates control of the methodology and knowledge of important issues in their area of specialization.</p>
+				<p><strong>Neurosciences.</strong> A student specializing in neurosciences would take a program of courses emphasizing brain-behavior relationships, including Behavioral Neuroscience (Neurosciences 264) and the Physiological Basis of Human Information (Neurosciences 243). In addition, depending upon the student&#8217;s individual interests, one or more of the neurosciences core courses would be taken in the areas of Mammalian Neuroanatomy (Neurosciences 256), Neuro-psychopharmacology (Neurosciences 277), and/or Neurochemistry (Neurosciences 234). In most cases, the student would also take a research rotation in the laboratory of a member of the neurosciences faculty. </p>
+				<p><strong>Philosophy. </strong>Students who elect a secondary specialization in philosophy will focus on philosophy of science, philosophy of mind, philosophy of psychology, philosophy of neuroscience, or philosophy of language, depending on their area of primary specialization. Courses suitable for this program include Philosophy of Language (Philosophy 234), Philosophy of Mind (Philosophy 236), Philosophy of the Cognitive Sciences (Philosophy 250A), and Seminar on Special Topics (Philosophy 285), which will frequently focus on issues relevant to cognitive science. The course sequence should be worked out with the student&#8217;s adviser. </p>
+				<h3 class="program-overview-subhead-2">Acquisition of Perspective on the Field </h3>
+				<p>The cognitive science faculty offers a special seminar, Cognitive Science 200, that emphasizes the interdisciplinary approach to the field and that covers a variety of different problems, each from the perspective of several disciplines. All students are required to enroll in this seminar a total of six quarters while in residence; most students regularly attend the seminar even after fulfilling the requirement. Students may substitute a Cognitive Science Foundations course for a Cognitive Science 200. A maximum of two quarters may be substituted. </p>
+				<h3 class="program-overview-subhead-2">Prequalifying Examinations </h3>
+				<p>Students must complete any prequalifying and field requirements of their home department. </p>
+				<h3 class="program-overview-subhead-2">Qualifying Examinations </h3>
+				<p><strong>The Dissertation Advisory Committee. </strong>As soon as possible, students form a dissertation committee consisting of</p>
+				<ul>
+					<li class="list-level-1">At least three members from the student&#8217;s home department, including the student&#8217;s adviser; and at least three members of the Cognitive Science Program, at least two of whom are not members of the student&#8217;s home department. </li>
+					<li class="list-level-1">University regulations require that at least one of the faculty members of the committee from outside the home department must be tenured. </li>
+					<li class="list-level-1">The committee must be approved by the interdisciplinary program, the home department, and by the dean of Graduate Studies. The dissertation committee is expected to play an active role in supervising the student and to meet with the student at regular intervals to review progress and plans. </li>
+					<li class="list-level-1">In the qualifying examination, the student must demonstrate familiarity with the approaches and findings from several disciplines relevant to the proposed dissertation research and must satisfy the committee of the quality, soundness, originality, and interdisciplinary character of the proposed research. </li>
+				</ul>
+				<h3 class="program-overview-subhead-2">Interdisciplinary Dissertation </h3>
+				<p>It is expected that the dissertation will draw on both the primary and secondary areas of expertise, combining methodologies and viewpoints from two or more perspectives, and that the dissertation will make a substantive contribution to the field of cognitive science. </p>
+				<h3 class="program-overview-subhead-2">Overview </h3>
+				<p>The program can be summarized in this way:</p>
+				<p>In the first years, basic training within the student&#8217;s primary specialization, provided by the home departments.</p>
+				<p>In the middle years, acquisition of secondary specialization and participation in the Cognitive Science Seminar.</p>
+				<p>In the final years, dissertation research on a topic in cognitive science, supervised by faculty from the program.</p>
+				<p>Time Limits: Time limits for precandidacy, financial support, and registration
+				  are those established for the home department. Normative time
+				  is six years. </p>
+				<h3 class="program-overview-subhead-2">Specialization in Anthropogeny</h3>
+                <p>This is a transdisciplinary graduate specialization in anthropogeny with the aim of providing graduate students the opportunity to specialize in research and education on explaining the origins of the human phenomenon. The aim is to rectify the absence of existing training programs that provide such a broad and explicitly transdisciplinary approach—spanning the social and natural sciences—and focusing on one of the oldest questions known to humankind, namely, the origins of humans and humanity. This specialization is not a stand-alone program, but aims at providing graduate students who have just embarked on their graduate careers with the opportunity to interact and communicate with peers in radically different disciplines throughout the duration of their PhD projects. Such communication across disciplines from the outset is key to fostering a capacity for interdisciplinary &ldquo;language&rdquo; skills and conceptual flexibility.</p>
+                <h4>Admission to the Specialization</h4>
+        <p>The Cognitive Science graduate program will advertise the specialization to those students in our programs who have an interest in human origins. Qualifying applicants will have the opportunity to enroll for the specialization.</p>
+                <h4>Specialization Requirements</h4>
+        <p>Students pursuing this specialization will be required to take a series of courses in addition to research rounds over four years of study. It is advised that students begin their course work in their third year. </p>
+                <ol>
+                  <li>Course Work: Introduction to Anthropogeny (BIOM 225) and Advanced Anthropogeny (BIOM 229) are each taken once, in the winter and spring of the students third year. Current Topics in Anthropogeny (BIOM 218) is to be taken every quarter for four years. </li>
+                  <li>Research Rounds: Monthly seminars during which all participating students talk about their respective research.</li>
+                </ol>
+                <h4>Qualifying Examination</h4>
+        <p>Cognitive Science students in the anthropogeny specialization must meet the departmental requirement for advancement to candidacy. In addition, students must meet internal deadlines, mentoring provisions, and proposal standards of the anthropogeny specialization track.</p>
+                <h4>Dissertation</h4>
+        <p>PhD students must complete a dissertation, which meets all requirements of the home program. In addition, it is expected that the PhD dissertation is broadly related to human origins and will be interdisciplinary in nature.</p>
+                <h4>Time Limits</h4>
+                <p>It is expected that students will retain the same time to degree as students not pursuing this specialization. Additional course load consists only of two regular courses (two quarters twenty lectures each). The third proposed course takes place only three times a year from Friday noon to Saturday evening.        </p>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

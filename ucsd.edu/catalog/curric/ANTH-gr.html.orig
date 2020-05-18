@@ -1,0 +1,328 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Anthropology</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Anthropology </h1>
+<p class="sectionNav"><span class="courseFacLink">[ <a href="../curric/ANTH-ug.html">undergraduate
+      program</a> | <a href="../courses/ANTH.html">courses</a> | <a href="../faculty/ANTH.html">faculty</a> ]</span></p>
+<p class="program-contact-info">Social Science Building<br />
+    <a href="http://anthro.ucsd.edu" target="_blank">http://anthro.ucsd.edu</a></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h2 class="program-overview-subhead-1">The Graduate Program</h2>
+				<p>The Department of Anthropology offers graduate training in sociocultural (including psychological and linguistic) anthropology, anthropological archaeology, and biological anthropology. The graduate program is designed to provide the theoretical background and the methodological skills necessary for a career in research and teaching anthropology at the university level, and for the application of anthropological knowledge to contemporary problems. It is assumed that all students enter with the goal of proceeding to the doctoral degree. </p>
+		<p>Admission to the graduate program occurs in the fall quarter only. </p>
+				<p>Any decision to waive a requirement for either the master’s degree or the PhD must be made by a majority of the faculty. </p>
+				<h4 class="program-overview-subhead-2">Graduate Advising</h4>
+				<p>One member of the departmental faculty functions as the graduate adviser and is referred to as the director of graduate studies. The role of graduate adviser is to inform students about the graduate program, to approve individual registration forms, and to give assistance with respect to administrative matters. </p>
+		<h4 class="program-overview-subhead-2">First-Year Mentors</h4>
+		<p>Each first-year student is assigned a faculty mentor in the student’s subdiscipline. Students are encouraged to meet regularly with their mentors for course planning and guidance in meeting specific requirements and recommendations for their subdiscipline. </p>
+				<p>After completion of the requirements for the master’s degree, the chair of the student’s doctoral committee serves as the student’s major adviser. </p>
+				<h4 class="program-overview-subhead-2">Evaluation</h4>
+				<p>In the spring of each year, the faculty evaluate each student’s overall performance in course work, apprentice teaching, and research progress. A written assessment is given to the student after the evaluation. If a student’s work is found to be inadequate, the faculty may determine that the student should not continue in the graduate program. </p>
+				<h3 class="program-overview-subhead-2">The Master of Arts Degree</h3>
+<p>Students entering the doctoral program must complete a master’s degree before continuing toward the doctorate. Entering students who already have a master’s degree in anthropology are not permitted by university regulations to receive a second social science or related-field master’s degree but are required by the department to complete the requirements for the master’s degree. Rare exceptions may be made on a case-by-case basis by the consent of the majority of the faculty and approval of the Graduate Division. </p>
+				<h3 class="program-overview-subhead-2">Requirements for Master’s Degree</h3>
+				<h4 class="program-overview-subhead-3">Required Courses </h4>
+				<ul class="no-bullet">
+					<li>ANTH 230. Departmental Colloquium (four quarters,
+						one unit each)</li>
+					<li>ANTH 281A-B. ProSeminar (two units each)</li>
+					<li>ANTH 295. Master’s Thesis Preparation (four units)</li>
+					<li><span class="basic-offset-top-only">Four core courses, as specified in the following sections</span> </li>
+				</ul>
+<h4 class="program-overview-subhead-3">Core Course Offerings </h4>
+				<p>Six core courses are offered in the graduate program in anthropology: </p>
+				<ul class="no-bullet">
+					<li>ANTH 280A. Core Seminar in Social Anthropology
+						(four units) </li>
+					<li>ANTH 280B. Core Seminar in Cultural Anthropology
+						(four units) </li>
+					<li>ANTH 280C. Core Seminar in Psychological Anthropology (four units) </li>
+					<li>ANTH 280D. Core Seminar in Anthropological Archaeology (four units) </li>
+					<li>ANTH 280E. Core Seminar in Biological Anthropology (four units) </li>
+					<li>ANTH 280F. Core Seminar in Linguistic Anthropology  (four units) </li>
+				</ul>
+<p class="note"><span class="myriad-pro-bold"><strong>Note</strong>:</span> Core seminars are also open to graduate students from other departments, with instructor&rsquo;s permission. The seminars may be offered in alternate years. </p>
+		<p>ANTH 280A, 280B, 280C, and 280F are all core courses within the sociocultural track. ANTH 280D and 280E are core courses in, respectively, the anthropological archaeology and biological anthropology tracks.</p>
+				<p>All students must take at least four of these six core courses by the end of their second year in the program (and preferably during the first year) as a requirement for receiving the master’s degree or for equivalent advancement in the program. The subfields specify particular choices among these core offerings for the students admitted to their respective tracks, as detailed below. The department strongly encourages all students in all subfields to take additional core courses as elective seminars to complete their program. </p>
+				<h6 class="program-overview-subhead-6">Anthropological Archaeology core requirements: </h6>
+		<ul class="no-bullet">
+					<li>ANTH 280D (Anthropological Archaeology)</li>
+					<li>	ANTH 280E (Biological Anthropology)</li>
+					<li>Two of the remaining four core courses in anthropology, selected in consultation with the student’s assigned mentor</li>
+		</ul>
+<h6 class="program-overview-subhead-6">Biological Anthropology core requirements: </h6>
+<ul class="no-bullet">
+	<li>ANTH 280E (Biological Anthropology)</li>
+	<li>	ANTH 280D (Anthropological Archaeology)</li>
+	<li>Two of the remaining four core courses in anthropology, selected in consultation with the student’s assigned mentor </li>
+</ul>
+<p class="program-overview-subhead-6">Sociocultural Anthropology, Psychological Anthropology, and Linguistic Anthropology</p>
+				<p>All students in sociocultural anthropology and its allied fields of psychological and linguistic anthropology will take at least four core courses, selected as follows and with the consent of the individual student’s faculty mentor. Students identifying two or more areas of concentration must satisfy the requirements of each of these areas. </p>
+				<h6 class="program-overview-subhead-6">Core requirements for students in the General Sociocultural track: </h6>
+		<ul class="no-bullet">
+		  <li>ANTH 280A (Social Anthropology)</li>
+					<li>			ANTH 280B (Cultural Anthropology)</li>
+					<li>ANTH 280C (Psychological Anthropology) or ANTH 280F (Linguistic      Anthropology)</li>
+				    <li>ANTH 280D (Anthropological Archaeology) or ANTH 280E (Biological Anthropology)</li>
+		</ul>
+		<h6 class="program-overview-subhead-6">Core requirements for students in the Psychological Anthropology track: </h6>
+				<ul class="no-bullet">
+				  <li>ANTH 280C (Psychological Anthropology)</li>
+					<li>ANTH 280D (Anthropological Archaeology) or ANTH 280E (Biological Anthropology)</li>
+				</ul>
+				<p>In addition, two of the following:</p>
+				<ul class="no-bullet">
+					<li>ANTH 280A (Social Anthropology)</li>
+					<li>ANTH 280B (Cultural Anthropology)</li>
+				    <li>ANTH 280F      (Linguistic Anthropology)</li>
+				</ul>
+<h6 class="program-overview-subhead-6">Core requirements for students in the Linguistic Anthropology track: </h6>
+				<ul class="no-bullet">
+				  <li>ANTH 280F (Linguistic Anthropology)</li>
+					<li>ANTH 280D (Anthropological Archaeology) or ANTH 280E (Biological Anthropology)</li>
+				</ul>
+				<p>In addition, two of the following:</p>
+				<ul class="no-bullet">
+					<li>ANTH 280A (Social Anthropology)</li>
+					<li>ANTH 280B (Cultural Anthropology)</li>
+					<li>ANTH 280C (Psychological Anthropology)</li>
+				</ul>
+<p class="program-overview-subhead-6">Master’s Thesis </p>
+				<p>Students must complete a master’s thesis or master’s thesis equivalency project of a length, format, and scope to be approved by the student’s MA committee and the director of graduate studies. The MA thesis must be at least eight thousand words in length and generally should not exceed ten thousand words. Students must have completed three quarters of course work in order to begin writing a master’s thesis. By the end of the spring quarter of the student’s first year, he or she will form a master’s committee in consultation with the director of graduate studies and first-year faculty mentor. </p>
+				<p>Students will submit a draft of the master’s thesis or master’s thesis equivalency project by the first day of winter quarter of their second year. Students may revise the master’s thesis or master’s thesis equivalency project in the winter quarter. Students will register for four credit hours of ANTH 295 (master’s thesis preparation) in the fall quarter of their second year. Upon consultation with the MA committee and director of graduate studies, an additional four credits of ANTH 295 may be taken in winter for revisions. Successful completion of the master’s thesis or master’s thesis equivalency will determine whether an MA degree is awarded, where applicable, and weigh significantly in second-year student evaluations.</p>
+				<p class="program-overview-subhead-6">Elective Courses</p>
+				<p>Four elective, letter-grade courses are required. These courses can be undergraduate or graduate seminars. At least two of these elective courses must be within the anthropology department. Other electives may be taken outside of the department with the approval of the department chair or the graduate adviser. </p>
+				<h2 class="program-overview-subhead-1">The Doctoral Degree</h2>
+				<p>Continuation in the doctoral program is granted to students who have satisfactorily completed the master’s program and who have completed courses and the master’s thesis at a level of excellence that indicates promise of professional achievement in anthropology. </p>
+				<h3 class="program-overview-subhead-2">Requirements for Doctoral Degree </h3>
+				<h4 class="program-overview-subhead-3"><span class="strong">1. Required Courses </span></h4>
+				<p>In order to achieve candidacy, students must complete two additional letter-grade electives beyond the four required for the master’s degree. </p>
+				<h4 class="program-overview-subhead-3"><span class="strong">2. Research Methods </span></h4>
+				<p>Students are required to develop a plan for their training in research methods and present it to the anthropology department faculty on their proposed dissertation committee in the spring quarter of their second year. </p>
+				<h4 class="program-overview-subhead-3"><span class="strong">3. Apprentice Teaching </span></h4>
+				<p>In order to acquire teaching experience, each student is required to serve as a teaching assistant for at least one quarter anytime during the first four years of residency. This experience may take place either in our department or in any teaching program on campus. The relevant course in the anthropology department is ANTH 500: Apprentice Teaching, taken for four units and S/U grade. Upon petition, this requirement may be waived by the anthropology faculty. </p>
+				<h4 class="program-overview-subhead-3"><span class="strong">4. Foreign Language</span></h4>
+				<p>Unless a student is planning on fieldwork in English-speaking areas, knowledge of one or more foreign languages may be essential for the successful completion of a PhD in anthropology at UC San Diego. Students will determine specific language requirements for their degree in consultation with the faculty and their doctoral committee. </p>
+				<h4 class="program-overview-subhead-3"><span class="strong">5. Formation of the Doctoral Committee</span></h4>
+				<p>All students must choose the chair of their doctoral committee by the end of their second year. They must choose two more internal members of the doctoral committee by the end of the fall quarter of their third year, and the full committee of five members should be constituted as soon as possible thereafter, in anticipation of the student&rsquo;s process of advancing to candidacy. The fourth committee member can be from inside or outside the department, but if this member is from inside the department, then his or her academic specialty must differ from the student&rsquo;s own. See the graduate program coordinator for a listing of faculty members&rsquo; academic specialties. The fifth committee member must be from outside the department, must also have an academic specialty different from the student&rsquo;s own, and must be tenured (unless the fourth member is also from outside the department and is tenured). </p>
+				<p>Anthropologists in other departments may serve as either inside members or outside members of the committee. However, there must be at least two inside members from within the department. The final composition of the committee is approved by the Graduate Division.</p>
+				<p>The chair of the doctoral committee serves as the student&rsquo;s adviser for the remainder of the student&rsquo;s program. </p>
+<h4 class="program-overview-subhead-3"><span class="strong">6. The Fieldwork Proposal</span></h4>
+				<p>Advancement to candidacy will be based on the submission of two to three position papers and a research proposal. The position papers are intended as a way for students to demonstrate competence in particular areas of theory, methods, and/or regional studies that are significant to the dissertation research project. The number of the position papers and the specific topics they address are to be formulated in consultation with the student’s committee chair and, as appropriate, with other members of the student’s dissertation committee. It is expected that the position papers will amount to some fifty to sixty pages and that the research proposal will be in the twenty- to thirty-page range. Students should enroll in directed reading courses (ANTH 298) during the quarters in which they are writing the position papers. Additionally, students should also enroll in ANTH 296 during the quarters in which they are writing their dissertation research proposal. A maximum of three quarters is allowed for the preparation of both the position papers and proposal. The position papers, research proposal, and oral examination for advancement to candidacy must be completed no later than the end of the spring quarter of the student’s fourth year. </p>
+				<h4 class="program-overview-subhead-3"><span class="strong">7. Advancement to Candidacy</span></h4>
+				<p>Advancement to doctoral candidacy must take place no later than the end of the spring quarter of the fourth year. This requires the successful completion of all course work requirements, the position papers, the dissertation research proposal, and an oral qualifying examination administered by the student’s committee. The proposal and position papers must be turned into the student’s committee at least three weeks prior to the examination. </p>
+				<p>Upon petition, students may advance to candidacy as early as the spring quarter of the third year, if all candidacy requirements noted earlier have been satisfied by that time. This requires the agreement of the graduate adviser, the student’s dissertation adviser, and other members of his or her committee. </p>
+				<p>Successful completion of this examination marks the student’s advancement to doctoral candidacy. These exams will be open to the extent that university regulations allow. </p>
+				<h4 class="program-overview-subhead-3"><span class="strong">8. Dissertation and Dissertation Defense</span></h4>
+				<p>Upon completion of the dissertation research project, the student writes a dissertation that must be successfully defended in an oral examination conducted by the doctoral committee and open to the public. This examination may not be conducted earlier than three quarters after the date of advancement to doctoral candidacy. A full copy of the student’s dissertation must be in the hands of each of the student’s doctoral committee members four weeks before the dissertation hearing. An abstract of the student’s dissertation must be in the hands of all faculty members ten days before the dissertation defense. It is understood that the edition of the dissertation given to committee members will not be the final form, and that the committee members may suggest changes in the text at the defense. Revisions may be indicated, requiring this examination to be taken more than once. Acceptance of the dissertation by the university librarian represents the final step in completion of all requirements for the PhD. </p>
+				<h4 class="program-overview-subhead-3"><span class="strong">9. Time Limits</span></h4>
+				<p>Precandidacy status is limited to four years. Candidates for the doctorate remain eligible for university support for eight years. Instructional support (teaching assistantships, readerships, and tutors) is limited to six years (eighteen quarters). The doctoral dissertation must be submitted and defended within nine years. This is in accordance with university policy. <span class="emphasis">Normative time, which is the expected time to complete all requirements for the PhD, is eight years for anthropology students.</span> </p>
+				<h4 class="program-overview-subhead-3"><span class="strong">10. Additional Requirements for the PhD in Anthropological Archaeology</span></h4>
+				<p>Students must choose all courses in consultation with their faculty adviser, who will be assigned during the first quarter. Archaeology students must take at least two sociocultural areal or topical courses (upper division or graduate) or two adviser-approved courses in other social science or humanities departments that are relevant to their regional or theoretical focus of study. Each student must take at least one archaeology course focusing on cultures of the Old World and one archaeology course focusing on cultures of the New World. Anthropological archaeology students are required to take at least one course in quantitative methods (statistics or GIS). Because archaeology is closely allied to earth science, the biological sciences, and computer science and engineering, students are required to take at least one course in any of these fields that is relevant to their interests. Finally, graduate students in anthropological archaeology are required to seek and obtain archaeology field and laboratory training. This requirement may be fulfilled by working with the anthropological archaeology track faculty in the Department of Anthropology or with archaeologists at other institutions.</p>
+<h3 class="program-overview-subhead-2">Introduction to Required Core Courses </h3>
+				<p><span class="strong">ANTH 280A. Core Seminar in Social Anthropology</span>. Core seminar focuses on individual action and social institutions. </p>
+				<p><span class="strong">ANTH 280B. Core Seminar in Cultural Anthropology</span>. Core seminar focuses on personal consciousness and cultural experience. </p>
+				<p><span class="strong">ANTH 280C. Core Seminar in Psychological Anthropology</span>. Core seminar focuses on motives, values, cognition, and qualities of personal experience. </p>
+				<p><span class="strong">ANTH 280D. Core Seminar in Anthropological Archaeology</span>. Integral part of the training for graduate students focusing on anthropological archaeology. It is one of a set of core anthropology courses available to graduate students; required of anthropological archaeology students but open for students in other subfields. </p>
+				<p><span class="strong">ANTH 280E. Core Seminar in Biological Anthropology</span>. This seminar will examine the central problems and concepts of biological anthropology, laying the foundation for first-year graduate students in biological anthropology as well as providing an overview of the field for graduate students in other areas of anthropology. </p>
+				<p>ANTH 280F. Core Seminar in Linguistic Anthropology. This seminar examines the theoretical and methodological foundations and principal research questions of linguistic anthropology, providing the fundamentals for graduate study in this area. Required for students specializing in linguistic anthropology and open to other students.</p>
+<p><span class="strong">ANTH 281A-B. Introductory Seminars</span>. These seminars are held in the first two quarters of the first year of graduate study. Faculty members will present an account of their current research and interests. When appropriate, a short preliminary reading list will be given for the particular lecture.		</p>
+<p class="note"><strong>Note:</strong> Not all anthropology courses are offered every year. Please check the quarterly UC San Diego Schedule
+  of Classes issued each fall, winter, and spring, for specific courses. </p>
+				<h3>Specialization in Anthropogeny</h3>
+                <p>This is a transdisciplinary graduate specialization in anthropogeny with the aim of providing graduate students the opportunity to specialize in research and education on explaining the origins of the human phenomenon. The aim is to rectify the absence of existing training programs that provide such a broad and explicitly transdisciplinary approach—spanning the social and natural sciences—and focusing on one of the oldest questions known to humankind, namely, the origins of humans and humanity. This specialization is not a stand-alone program but aims at providing graduate students who have just embarked on their graduate careers with the opportunity to interact and communicate with peers in radically different disciplines throughout the duration of their doctoral projects. Such communication across disciplines from the outset is key to fostering a capacity for interdisciplinary &ldquo;language&rdquo; skills and conceptual flexibility.</p>
+                <h4>Admission to the Specialization</h4>
+                <p>The anthropology graduate program will advertise the specialization to those students in our programs who have an interest in human origins. Qualifying applicants will have the opportunity to enroll for the specialization.</p>
+                <h4>Specialization Requirements</h4>
+                <p>Students pursuing this specialization will be required to take a series of courses in addition to research rounds over four years of study. It is advised that students begin their course work in their third year. </p>
+                <ol start="1" type="1">
+                  <li>Course      Work: Introduction to Anthropogeny (BIOM 225) and Advanced Anthropogeny      (BIOM 229) are each taken once in the winter and spring of the student&rsquo;s      third year. Current Topics in Anthropogeny (BIOM 218) is to be taken every      quarter for four years. </li>
+                  <li>Research      Rounds: Monthly seminars during which all participating students talk      about their respective research.</li>
+                </ol>
+                <h4>Qualifying Examination</h4>
+                <p>Anthropology students in the anthropogeny specialization must meet the departmental requirement for advancement to candidacy. In addition, students must meet internal deadlines, mentoring provisions, and proposal standards of the anthropogeny specialization track.</p>
+                <h4>Dissertation</h4>
+                <p>PhD students must complete a dissertation, which meets all requirements of the home program. In addition, it is expected that the PhD dissertation is broadly related to human origins and will be interdisciplinary in nature.</p>
+        <h4>Time Limits</h4>
+        <p>It is expected that students will retain the same time to degree as students not pursuing this specialization. Additional course load consists only of two regular courses (two quarters, twenty lectures each). The third proposed course takes place only three times a year from Friday noon to Saturday evening.</p>
+        <h3>Specialization in Critical Gender Studies</h3>
+                <p>Students in the doctoral program in anthropology may apply for a specialization in critical gender studies to complement their course work and research in anthropology. </p>
+                <p>The Critical Gender Studies Program is built on the intellectual foundations of intersectional feminist thought and queer studies, and incorporates the interdisciplinary methodologies, intersectional frameworks, and transformational epistemologies central to contemporary gender and sexuality studies. The graduate specialization in critical gender studies provides specialized training in gender and sexuality for students currently enrolled in a UC San Diego doctoral program. Through advanced course work in critical gender studies and its affiliated departments,&nbsp;graduate students in the specialization develop an understanding of gender as necessarily linked to other social formations, including sexuality, race, nation, religion, (dis)ability, and structures of capital.&nbsp;At the same time,&nbsp;doctoral&nbsp;students engaging&nbsp;gender and sexuality studies&nbsp;have the opportunity to develop their work among peers who take up similar questions in their scholarship.</p>
+                <p>Admitted students are required to complete five courses in addition to their home department&rsquo;s core requirements, consisting of two core courses and three electives. The core courses are Advanced Studies in Critical Gender Studies (CGS 200), to be taken shortly after admission to the specialization, and Practicum in Critical Gender Studies (CGS 299), to be taken in the student&rsquo;s final two years of dissertation writing. Electives may be chosen from a list of preapproved seminars in participating departments (students may petition other courses with significant gender/sexuality studies content) and may be taken at any time during the student&rsquo;s tenure at UC San Diego. Admitted students must also include at least one member of their dissertation committee from the list of CGS core or affiliate faculty.</p>
+<p>For more information about the graduate specialization in critical gender studies, please visit <a href="http://cgs.ucsd.edu" target="_blank">http://cgs.ucsd.edu</a>. </p>
+<h3>Science Studies Program</h3>
+<p>Students interested in the anthropology of science, technology and medicine may seek participation to the Science Studies Program, a doctoral program that brings together graduate students from the Departments of Anthropology, Sociology, History, Philosophy, and Communication. Students in the program pursue a cross-disciplinary curriculum leading to dissertation research in the anthropology of science, technology, or medicine, broadly conceived. Students may seek participation in the Science Studies Program at the same time they apply for admission to the Department of Anthropology, or may, in certain circumstances, request to be accepted into the program at some point after entering the University of California San Diego.</p>
+<p>The additional requirements of the Science Studies Program compliment those of the student&rsquo;s home graduate department. However, there are some distinct curricular requirements in the first two years of the program. In place of the elective classes in Anthropology, the core of the interdisciplinary curriculum is a three-quarter seminar sequence taken in the first year, the first two quarters being an interdisciplinary introduction to science studies and the third quarter (taken twice) being devoted to special topics in science studies which vary from year to year. The program also hosts a weekly colloquium which the students are required to attend in the first two years and for which they get course credit. Finally, there is an internship requirement, which may take the form of preparatory fieldwork. Students who already have experience in scientific or medical settings such as laboratories, hospitals, or clinics may apply to waive this requirement.&nbsp;</p>
+<p>For more information about the Science Studies Program visit <a href="http://anthropology.ucsd.edu/graduate-studies/Associate%20programs/index.html" target="_blank">http://anthropology.ucsd.edu/graduate-studies/Associate%20programs/index.html</a>.</p>
+<div>
+    <div> </div>
+    <div> </div>
+    </div>
+                <h3 class="program-overview-subhead-2">The Melanesian Studies Resource Center and Archive</h3>
+<p>These facilities embody the substantial interests in the Pacific Basin that are represented on the UC San Diego campus and the special prominence of the UC San Diego Department of Anthropology in the study of cultures and societies of Oceania and especially of Melanesia. In cooperation with the UC San Diego libraries, the Melanesian Studies Resource Center and Archive has two major projects. First, there is an ongoing effort to sustain a library collection of monographs, dissertations, government documents, and journals on Melanesia that make UC San Diego the premier center for such materials in the United States. Second, there is an endeavor to collect the extremely valuable unpublished literature on Melanesia, to catalog such materials systematically, to produce topical bibliographies on these holdings, and to provide microfiche copies of archival papers to interested scholars and to the academic institutions of Melanesia. This innovative archival project is intended to be a model for establishing special collections on the traditional life of tribal peoples as dramatic social change overtakes them. In the near future, anthropological research on tribal peoples will take place largely in archives of this kind. These complementary collections will support a variety of research and teaching activities and are already attracting students of Melanesia to this campus. </p>
+				<p>The Melanesian Studies Resource Center and Archive are directed by members of the Department of Anthropology faculty, in collaboration with Geisel Library. </p>
+				<h3 class="program-overview-subhead-2">The Archaeological Research Laboratory</h3>
+<p>Archaeology laboratories were established at UC San Diego in 1995. The present facilities are geared to the study of lithics, ceramics, biological remains, and other small finds retrieved on faculty expeditions in the old and new worlds, including Belize, Israel, Jordan, and Peru. Multimedia research, AutoCAD, and other computer-based studies are carried out in the lab. Undergraduate and graduate students are encouraged to participate in lab studies. </p>
+				<h3 class="program-overview-subhead-2">The Biological Anthropology Laboratory</h3>
+<p>The biological anthropology laboratories have twin missions in teaching research. They house collections of modern skeletal material and fossil hominid casts used for teaching both at the lab and in local outreach presentations. The primary research focus involves a large collection of histological sections and computerized images of living and postmortem human and nonhuman primate brains that were obtained through magnetic resonance scans. These are reconstructed in 3-D using state-of-the-art equipment for comparative analysis and study of the evolution of the human brain. Undergraduate and graduate student involvement in the lab is welcomed. </p>
+<h3 class="program-overview-subhead-2">The Linguistic Anthropology Laboratory</h3>
+<p>The Linguistic Anthropology Laboratory is a research facility providing equipment and a research environment for state-of-the-art analysis of language, culture, and society, especially using audio, video, and photographic recordings of natural interaction. The laboratory has a variety of computer workstations for multimodal editing and analysis, as well as a high-speed network and large capacity server for storing and sharing high quality digitized materials. The lab also has excellent projection and sound facilities and can serve as a seminar room for classes and group discussions. Anthropology students and faculty with interest in multimodal recording and analysis are encouraged to use the laboratory for research and discussion, and to participate in its regular workshop meetings.</p>
+<h3 class="program-overview-subhead-2">The Anthropology of Modern Society Faculty Research Group</h3>
+		<p>The Anthropology of Modern Society is a project of graduate training and research dedicated to the critical study of modernity and its counterpoints. The group is concerned with the changing nature of membership in modern society. Its participants focus on issues of citizenship and democracy; social formations in tension with the nation-state; modern subjectivities; social and religious movements; governmental rationalities and public works, transnational markets and migrations; relations of local to global processes within the current realignments of regional, national, and transnational sovereignties; and the social life of cities as making manifest these kinds of concerns. Participants are committed to reorienting anthropological theory and ethnographic practice toward such contemporary social and political problems. Guiding this project is the group’s interest in combining critical theory with a comparative and empirically grounded study of cases to constitute an anthropology of modernity. </p>
+		<h3>Specialization in Interdisciplinary Environmental Research </h3>
+		<p>A graduate specialization in Interdisciplinary Environmental Research (PIER) is available for select doctoral students in anthropology. PIER students seek solutions to today’s environmental challenges. <strong> </strong></p>
+		<p>The PhD specialization is designed to allow students to obtain standard training in their chosen field and an opportunity to interact with peers in different disciplines throughout the duration of their PhD projects. Such communication across disciplines is key to fostering a capacity for interdisciplinary &ldquo;language&rdquo; skills and conceptual flexibility.</p>
+		<h4>Specialization Requirements</h4>
+		<p>Complete all course work, dissertation, and other requirements of<strong> </strong>the doctoral degree in anthropology.<strong>  </strong></p>
+        <ul type="disc">
+          <li>Sixteen-unit      interdisciplinary boot camp (summer, SIO 295S-295LS)</li>
+          <li>Eight units      from a secondary field (outside the home department) </li>
+          <li>Six units (three      quarters) Interdisciplinary Environmental Research Forum (SIO 296)</li>
+          <li>At least      one chapter of the dissertation will be broadly related to environmental      research and will be interdisciplinary in nature. </li>
+        </ul>
+        <h4>Application Requirements</h4>
+          </strong>
+          <p>We advise students to begin PIER in their third year upon completion of core anthropology course requirements.</p>
+          <p>The following items should be combined into a single PDF document and submitted to cmbc@ucsd.edu.<strong></strong>
+          </p>
+          </p>
+        <ul type="disc">
+          <li>
+            Student’s      CV
+          </li>
+          <li>Half-page      abstract of proposed thesis work </li>
+          <li>Up to one-page      statement of student’s interest in interdisciplinary environmental      research including career goals. </li>
+          <li>Nomination      letter from adviser acknowledging student’s academic ability and      interdisciplinary environmental interest. The letter must include a      commitment for summer stipend support.<br>
+          </li>
+        </ul>
+        <h4>Admission to the Specialization </h4>
+          <p>Students are admitted into the anthropology doctoral program. Admission to PIER is a competitive process with six to eight students granted admission each year from across ten participating UC San Diego departments. Selected applicants will have the opportunity to enroll in the specialization.</p>
+          <h4>PIER Fellowships</h4>
+          <p>When funding is available, all applicants will be considered for one year of PIER Fellowship support. 
+            </p>
+    
+       
+        <!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

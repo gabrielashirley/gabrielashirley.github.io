@@ -1,0 +1,265 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Visual Arts</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Visual Arts </h1>
+<p class="sectionNav"><span class="courseFacLink">[ <a href="../curric/VIS-ug.html">undergraduate
+      program</a> | <a href="../curric/VIS-gr.html"> </a> <a href="../courses/VIS.html">courses</a> | <a href="../faculty/VIS.html">faculty</a> ]</span></p>
+<p class="program-contact-info">216 Mandeville Center for the Arts<br />
+<a href="http://visarts.ucsd.edu" target="_blank">http://visarts.ucsd.edu</a></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h3 class="program-overview-subhead-2">Master of Fine Arts Program </h3>
+				<p>The program is designed to provide intensive professional training for
+				  the student who proposes to pursue a career within the field
+				  of art—including art making, criticism, and theory. The scope
+				  of the UC San Diego program includes painting, sculpture, performance,
+				  installation art, public art, photography, film, video, and
+				  digital media. The program is unique in that the course of
+				  study provides for and encourages student mobility within this
+				  range of traditional and media-based components. It also offers
+				  opportunities for collaborative work. </p>
+				<p>The educational path of students is focused around their particular interests
+				  in art. The department seeks to provide an integrated and comprehensive
+				  introduction to the possibilities of contemporary art production,
+				  the intellectual structures that underlie them, and the “world
+				  view” which they entail. All art-making activities are considered
+				  serious intellectual endeavors, and all students in the program find themselves
+				  confronted by the need to develop their intellectual and critical
+				  abilities in working out their artistic positions. A body of theory-oriented
+				  courses is required. Therefore, we have no craft-oriented programs or facilities;
+				  nor do we have any courses in art education or art therapy.
+				  The courses offered are intended to develop in the student a coherent and
+				  informed understanding of the past and recent developments in art and art
+				  theory. The program also provides for establishing a confident grasp of
+				  contemporary technological possibilities, including those involved in film,
+				  video, photography, and the electronic media. </p>
+				<p>The program includes formal education in lecture and seminar courses as well as study groups, studio meetings, independent studies, and quarterly departmental critiques. Course work is intended to place art making in critical and intellectual context but doesn&#8217;t underestimate the central importance of the student&#8217;s own work. In fact, this aspect of the student&#8217;s activity is expected to be self-motivated and forms the core around which the program of study operates and makes sense. </p>
+				<p>No two students will necessarily follow the same path through the degree program, and the constitution of individual programs will depend upon the analysis of their individual needs and interests, worked out by students in collaboration with their individual faculty advisers. </p>
+				<h4 class="program-overview-subhead-3">Admission Requirements </h4>
+				<p><strong class="myriad-pro-semibold">Grade Point Average</strong>—An overall GPA of 3.00 and a 3.50 in a student&#8217;s undergraduate major is required. </p>
+				<p><strong class="myriad-pro-semibold">Art History</strong>—Students are expected to have had at least four semester courses or six quarter courses in art history and/or film history/criticism at the undergraduate level. Those who have a broader art history background will have a better chance of being awarded teaching assistantships. Students without this requirement can be admitted, but they may be expected to make up the six courses in excess of the seventy-two units required for the degree. If there are questions concerning this requirement, check with the department student affairs adviser. </p>
+				<p><strong class="myriad-pro-semibold">Statement</strong>—Students are required to submit an essay of one-to-three pages on the direction of their work and its relationship to contemporary art. This essay should be critical in nature, refer explicitly to the student&#8217;s own work, and may refer to other artists, recent events in art history, and issues in domains other than art that have bearing on the student&#8217;s process, thought, and work. </p>
+				<p><strong class="myriad-pro-semibold">Work</strong>—Students are asked to
+				  submit documentation of their best work and upload images and
+				  files into our online portfolio website. </p>
+				<h3 class="program-overview-subhead-2">Regular University Admission Policies </h3>
+				<p><em>Please note that no application will be processed until all required information has been received. </em>Students should submit applications with the application fee to the graduate admissions office using the UC San Diego online application. The statement of purpose, transcripts, and letters of recommendation must be sent electronically through the online application. </p>
+<h3 class="program-overview-subhead-2">Requirements for the Degree </h3>
+				<p>The MFA is considered a terminal degree in studio work and is a two- to three-year program. The following requirements must be completed in order to receive the MFA: </p>
+				<p>First Year Review—This review takes place in the third quarter in residence. Students make a formal presentation of their work to a faculty committee; this includes a position paper and an oral examination. This presentation is considered a departmental examination, and if at its conclusion the student&#8217;s work is judged to be inadequate, the student may be dismissed regardless of GPA, or may be reviewed again in the fourth quarter. </p>
+				<p>Seventy-two units of course work, including a four-unit apprentice teaching course, are required. Students may select sixteen of these units (four courses) from upper-division undergraduate course offerings. (See listings in this catalog.) There are six required visual arts core seminars: </p>
+				<ul>
+					<li class="list-level-1">Contemporary Critical Issues (VIS 201) </li>
+					<li class="list-level-1">Art Practice Seminar (VIS 202) </li>
+					<li class="list-level-1">Working Critique Seminar (VIS 203)</li>
+					<li class="list-level-1">Introduction to Graduate Studies in Art Practice (VIS 205) </li>
+				    <li>one      course in Art Practice/Theory group (VIS 210-219)</li>
+                      <li>one      additional seminar in Art Practice/Theory group (VIS 210-219) or      Art History/Theory/Criticism group (VIS 230-260)</li>
+				</ul>
+             
+				<p>Specific information on other course distribution requirements can be obtained from the department. One additional graduate course is required and must be taken in another department. </p>
+                <p>Students who remain registered in the third (optional) year must average one graduate seminar course per quarter. </p>
+                <div>
+                  <div> </div>
+                </div>
+<h3 class="program-overview-subhead-2">The MFA Final Presentation </h3>
+				<p>Presentation of Work—During the last quarter in residence, each student is required to present to the public a coherent exhibition or screening of his or her work. </p>
+				<p>Oral Examination—A committee of three Department of Visual Arts faculty members and one faculty member from another department will administer an oral examination to each student covering the student&#8217;s work and its relationship to the field of art. </p>
+		<p>Thesis—Students are required to submit some form of written work for the MFA. Four options are available:</p>
+				<ol>
+				  <li>Catalog—The student would design and have printed an actual catalog.
+				    This would include a critical essay of approximately 1,500
+				    words. </li>
+				  <li>Critical paper—The student would write a critical paper of 3,000
+				    words analyzing his or her process and the relationship of
+				    his or her work to recent art history, with references to
+				    contemporary styles and specific artists. </li>
+				  <li>Analytical essay on some phase of art—Students who have focused
+				    on both art production and art criticism would write a 3,000-word critical essay on any current art position. A brief
+				    discussion (750 words) of the student&#8217;s work would also be included.				    </li>
+				  <li>Critical thesis—Students whose emphasis is essentially criticism and
+				    who do not present an MFA exhibition would write a forty-
+				    to fifty-page thesis—the topic to be decided by the student and his or
+				    her adviser. </li>
+        </ol>
+<p>Additional information can be obtained from the graduate office of the Department of Visual Arts. </p>
+				<p class="anchor-parent"><a class="anchor" id="grad"></a></p><h2 class="program-overview-subhead-1">PhD Program </h2>
+				<p>The Department of Visual Arts offers a PhD in art history, theory, and criticism with specializations in any of the cultural areas in which faculty do research (see below) and also a PhD in art history, theory, and criticism with a concentration in art practice, for artists whose work engages in art historical and cultural research. Offering a distinct alternative to other PhD programs in art history, our program centers on a unique curriculum that treats the study of art past and present—including fine art, new media, and mass culture—as part of a broad inquiry into the practices, objects, and discourses that constitute the art world, even as it encourages examination of the larger frameworks—historical, cultural, social, intellectual, and theoretical—within which the category &ldquo;art&rdquo; has been contextualized in the most recent developments in the discipline. </p>
+<p>This program is also distinctive in that it is housed within a department that has been for many years one of the nation&#8217;s leading centers of art practice and graduate education in studio, media, and—most recently—digital media. The offering of the PhD and MFA is based on the department&#8217;s foundational premise that the production of art and the critical, theoretical, and historical reflection upon it inherently and necessarily participate in a single discursive community. This close integration of art history and art practice is reflected in the inclusion of a concentration in art practice within the PhD in art history, theory, and criticism.</p>
+				<p>The innovative character of this program is most evident in a unique curricular structure that is broadly organized into three groups of seminars. The importance of critical theory to the field today is reflected in the seminars under the <strong class="myriad-pro-semibold">Theories/New Visions </strong>group, while the study of art in its concrete historical, social, and cultural contexts; across different cultures and media; and is emphasized in time, place, and media-specific seminars listed under <strong class="myriad-pro-semibold">Times/Terrains</strong>. </p>
+				<p>The program builds most distinctively on recent developments in the field in the seminars under the heading <strong class="myriad-pro-semibold">Categories/Constructs</strong>. These seminars address the core questions about artworks and practices that the department believes every doctoral student in art and media history, whatever his or her area of specialization, should engage. How is the category “art” itself produced, now and in the past, in the urbanized West and in other cultures, in the context of ever-changing technologies? How are artistic identities constructed across distinct epochs and societies, and with reference to categories such as gender and ethnicity? What are the circumstances and contexts (social, intellectual, institutional, and the like) within which art is both produced and disseminated? What are the alternative modes of engaging art objects and practices and what are the histories and theoretical assumptions of the specialized discourses used to describe and analyze them? </p>
+				<p>Seminars in the <strong class="myriad-pro-semibold">Categories/Constructs</strong> group are unique in the degree to which they foreground the self-critical turn in recent art and media history by making reflection upon the central concepts, constructs, categories, and languages of art historical inquiry a key programmatic concern. They are also distinctive in that they are designed to cut across traditional categories of history and contemporaneity, art and media (film, video, photography, digital media), history and theory, and to promote cross-cultural inquiry insofar as they center on questions crucial to the study of art of diverse cultures as well as diverse art forms and historical epochs. </p>
+		<h3 class="program-overview-subhead-2">Admission </h3>
+		<p>The PhD program in visual arts accepts only applicants seeking a PhD. It is the policy of UC San Diego to admit new students in the fall quarter only. For circumstances under which the MA is granted, see below. Prior to matriculation, students must have obtained a bachelor&rsquo;s or master&rsquo;s degree in art history, art practice, or another field approved by the departmental committee on graduate studies, such as (but not limited to) history, literature, anthropology, or philosophy. </p>
+		<p>Applicants must submit their academic transcripts, scores on the Graduate Record Examination, three letters of recommendation, a statement of purpose (no more than 750 words), and a sample of written work (e.g., senior honors thesis, MA thesis, or other research or critical paper, preferably in art or media history). Applicants to the PhD in art history with a concentration in art practice are also required to submit a portfolio. A GPA of 3.00 overall and 3.50 in a student&rsquo;s undergraduate major are required. All international applicants are required to take the Test of English as a Foreign Language (TOEFL) with a minimum score of 80 and a minimum speaking score of 23 or International English Language Testing system (IELTS) with a minimum speaking score of 7. All applicants must have a good reading knowledge of at least one language other than English at the time they enter the program. </p>
+<p>Students should submit applications with the application fee to the graduate admissions office. The Statement of Purpose and letters of recommendation must be submitted online along with the application. Unofficial transcripts can be submitted electronically via the UC San Diego online application, but if accepted into our program you will be required to submit official transcripts. Students are asked to upload their writing samples and portfolio images (for art practice concentration) into our online portfolio website.&nbsp;Only complete applications will be considered for admission. </p>
+<h3>Financial Aid </h3>
+				<p>Generous funding packages are possible for highly qualified students. Upon recommendation of the department, several types of financial aid are available: full or partial remission of fees and tuition, fellowships, research assistantships, teaching assistantships, and readerships. Graduate students are eligible for one or a combination of the different forms of financial support.</p>
+		<p>For additional questions on our program and the admissions process, please email <a href="mailto:vis-phd@ucsd.edu">vis-phd@ucsd.edu</a>.</p>
+        <h3>Master of Arts Degree</h3>
+        <p>All students will apply for and be admitted to the PhD program. An MA may be awarded to continuing PhD students upon successful completion of the following: (1) at least twelve four-unit courses, including VIS 204: Re-Thinking Art History, and breadth requirement (2) a three-hour written examination in a designated field of emphasis (see &ldquo;<a href="#exams">Examinations</a>&rdquo; below); (3) one language examination; and (4) an MA thesis. The MA is not automatically awarded; students must apply in advance to the graduate coordinator and in accordance with university procedures no later than the first two weeks of the quarter in which they expect to receive the degree.</p>
+<p>Students interested in an MA only are not admitted to our program. </p>
+<h3 class="program-overview-subhead-2">Areas of Specialization </h3>
+				<p>During the first year of study, art history students declare an area of specialization in consultation with his or her individual faculty adviser and with the approval of the PhD program faculty coordinator. The area of specialization may be selected from the following: ancient art; medieval art; Renaissance art; early modern art; modern art (nineteenth and twentieth centuries); contemporary art; media studies (film, video, photograph, digital media); Meso-American art; North American Indian art; Asian art; Latin American art; and art practice. A student may also choose, in consultation with his or her individual adviser and the PhD program faculty coordinator, a field of emphasis that cuts across the areas of concentration within the department (e.g., art or media theory and criticism) or, with appropriate approvals, one that involves another department (e.g., early modern art history and history). Once the field of emphasis is established, it will be the responsibility of the student and his or her adviser to devise a program of courses, independent study and outside reading, over and above the required program, that will ensure that the student will attain command of the major field of emphasis. </p>
+<h3 class="program-overview-subhead-2">Course Work </h3>
+				<p>A full-time program consists of twelve units per quarter, and full-time study is expected until the degree requirements are completed. Prior to the qualifying examination, students are required to complete eighty-four units, equivalent to twenty-one four-unit courses (normally accomplished in seven to nine quarters). This twenty-one-course requirement may be satisfied by a combination of graduate seminars, reading courses, independent studies, and apprentice teaching. No more than three may be VIS 500 apprentice teaching; no more than two may be reading courses; and no more than two may be graduate seminars in art practice or art practice/theory (VIS 210-219). By reading course, we mean an upper-division undergraduate course that a student takes with additional reading and writing requirements. Graduate seminars in art history, theory, and criticism should comprise the bulk of the student&rsquo;s twenty-one-course requirement: at least ten seminars from the VIS 230-260 series in addition to VIS 204 for students in art history; and six seminars from the VIS 230-260 series in addition to VIS 204, 206, and two other graduate courses in visual arts (207 may count up to two times) for students in art practice. Only courses with research papers or substantial critical writing may be used to fulfill this requirement for art history students. Courses in the VIS 210-219 series and up two graduate courses in other departments that meet the term paper criterion may be used to fulfill this requirement with approval of the individual adviser and PhD program director faculty. A two-term In-Process research seminar counts as one course toward this requirement.&nbsp;All students are required to take VIS 204: Re-Thinking Art History in their first year of study. Students in the art practice concentration must take VIS 206: Seminar in Art Practice Research and VIS 207: Working Practice for Art Practice PhD the first time they are offered. One four-unit apprentice teaching course, VIS 500, is also required. </p>
+<p>In order to ensure that students attain a reasonable measure of historical and cultural breadth, all students are required to take one seminar from at least three of the following areas <em>outside their area of specialization</em>: 1) ancient, medieval, Renaissance or early modern art (251, 252, 253);  2) Meso-American art or North American Indian art (VIS 257, 260); 3) Asian art (VIS 258); 4) Latin American art (VIS 259); 5) modern and contemporary (VIS 254, 255); 6) media studies (VIS 256). PhD students in art practice may choose one course from an additional area theory/practice (VIS 210-219). The courses fulfilling the breadth requirement must be taught by three different members of the PhD faculty or designated visiting PhD faculty.</p>
+<p>If a student has completed some graduate work in art history, theory,
+				  and criticism before entering UC San Diego, there may be some appropriate adjustments
+				  in course work as approved by petition to the PhD program faculty coordinator and
+				  the department chair. </p>
+				<h3 class="program-overview-subhead-2">Foreign Language Requirements </h3>
+				<p>Students will be required to demonstrate reading knowledge of at least two of the foreign languages commonly used by scholars engaged in the advanced study in art history, theory, and criticism. One should be the language most directly relevant to the student’s area of specialization. The student and his or her individual faculty adviser will jointly determine the examination languages. </p>
+<p>Foreign language requirements will normally be satisfied by passing examinations requiring sight translation of texts in art history, theory, and criticism. Students are required to pass their entering language examination in order to be advanced to their second year in the program. The first-year language examination will be offered during the fall quarter of the entering year. The second required language examination will be offered during the fall quarter of the second year in the program. Students must pass both language examinations by the end of their second year to continue in the program. </p>
+				<p class="anchor-parent"><a class="anchor" id="exams"></a></p><h3 class="program-overview-subhead-2">Examinations </h3>
+				<p>No later than the first quarter of the third year the student, in consultation with his or her individual adviser, will form a qualifying examination committee that will consist of four members drawn from the visual arts department faculty and one tenured faculty member&nbsp;outside the department. The composition of the qualifying examination committee and the dissertation defense for students in the art practice degree program is four department faculty (two art history, theory, and criticism faculty, and at least one tenured studio faculty) and one tenured faculty member outside the department. This committee will conduct the qualifying examination required by university policy and oversee completion of the dissertation. The membership of the committee must be approved by the PhD program director and ultimately the dean of Graduate Studies. The qualifying examination will consist of a three-hour written examination, followed within the next week by a two-hour oral examination, in the student&rsquo;s major field. A student must have completed all required course work and passed all language examinations before taking the qualifying examination, which will be held no later than the end of the third year. Upon successful completion of the qualifying examination, the student will be advanced to candidacy. </p>
+<p>A student who fails either the written or the oral examination may petition the committee and PhD program director to repeat the examination. Any student who fails a second time will not be advanced to candidacy. In some cases, the committee and graduate program director may judge such student eligible to receive a terminal MA (see below). </p>
+<h3 class="program-overview-subhead-2">Dissertation </h3>
+				<p>Following successful completion of the qualifying examinations, the student will complete a doctoral dissertation in his or her field of emphasis. After the committee has reviewed the finished dissertation, the student will defend his or her thesis orally. Students in the art practice concentration will submit a written dissertation that observes the same regulations and conventions, except that its length may be reduced by one quarter. In addition, the student will present the visual component, the nature of which will be decided by the student and his or her committee. </p>
+				<h3 class="program-overview-subhead-2">Normative Time from Matriculation to Degree </h3>
+				<p>The student will normally advance to candidacy in two and one-half to three years and must be advanced to candidacy by the end of four years. He or she will normally complete the research for and writing of the dissertation by the end of his or her sixth year of study. Total university support may not exceed seven years, and total registered time at UC San Diego may not exceed eight years.</p>
+        <h3>Specialization in Anthropogeny </h3>
+				<p>Visual arts PhD students with an interest in human origins may, with the approval of their dissertation adviser, enroll in a transdisciplinary graduate specialization in anthropogeny, spanning the social and natural sciences and focusing on one of the oldest questions known to humankind, namely, the origins of humans and humanity. The specialization provides students the opportunity to undertake specialized research and education on explaining the origins of the human phenomenon, broadly construed to include culture as well as biology. It is not a stand-alone program but aims at providing graduate students who have just embarked on their graduate careers with the opportunity to interact and communicate with peers in radically different disciplines throughout the duration of their PhD projects. Such communication across disciplines from the outset is key to fostering a capacity for interdisciplinary &ldquo;language&rdquo; skills and conceptual flexibility. This program is open to all visual arts PhD students in art history, including those with a concentration in art practice.</p>
+				<h4>Admission to the Specialization</h4>
+				<p>The visual arts PhD program will advertise the specialization to those students in our programs who have an interest in human origins. Qualifying applicants will have the opportunity to enroll for the specialization prior to taking their qualifying examination. Students pursuing an anthropogeny specialization are eligible for fellowships from CARTA (the UC San Diego Center for Academic Research and Training in Anthropogeny). Please contact CARTA for further information about the fellowship.  </p>
+				<h4>Specialization Requirements</h4>
+				<p>Students pursuing this specialization will be required to take a series of courses in addition to research rounds over four years of study. It is advised that students begin their course work in their second or third year. Visual arts PhD students interested in pursuing an anthropogeny specialization should inform their adviser and the faculty PhD program coordinator prior to taking their Qualifying Examination and should include a section on human origins in the dissertation proposal submitted for the Qualifying Exam.    </p>
+				<p><strong>Course work:</strong> Introduction to Anthropogeny (BIOM 225) and Advanced Anthropogeny (BIOM 229) are each taken once, in the winter and spring of the students in the second or third year. Current Topics in Anthropogeny (BIOM 218) is to be taken every quarter for four years, unless the student is not in residence at UC San Diego, and must be taken no fewer than ten times in any case. </p>
+				<p><strong>Research Rounds:</strong> Monthly seminars during which all participating students talk about their respective research.</p>
+				<h4>Qualifying Examination</h4>
+				<p>Visual arts students in the anthropogeny specialization must meet the department&rsquo;s PhD program requirements for advancement to candidacy and are expected to do so within the normal expected timeframe. In addition, students must meet internal deadlines, mentoring provisions, and proposal standards of the anthropogeny specialization track.</p>
+				<h4>Dissertation</h4>
+				<p>PhD students must complete a dissertation, which meets all requirements of the home program. In addition, it is expected that the PhD dissertation is broadly related to human origins and will be interdisciplinary in nature.</p>
+				<h4>Time Limits</h4>
+				<p>It is expected that students will retain the same time to degree as students not pursuing this specialization. Additional course load consists only of two regular courses (two quarters, twenty lectures each). The third required course (BIOM 218) takes place only three times a year from Friday noon to Saturday evening. None of these courses will be counted toward the twenty-course requirement for qualifying for candidacy in the visual arts PhD program. </p>
+				<h3>Specialization in Critical Gender Studies</h3>
+                <p>Students in the doctoral program in visual arts may apply for a specialization in critical gender studies to complement their course work and research in visual arts. </p>
+                <p>The Critical Gender Studies Program is built on the intellectual foundations of intersectional feminist thought and queer studies, and incorporates the interdisciplinary methodologies, intersectional frameworks, and transformational epistemologies central to contemporary gender and sexuality studies. The graduate specialization in critical gender studies provides specialized training in gender and sexuality for students currently enrolled in a UC San Diego doctoral program. Through advanced course work in critical gender studies and its affiliated departments,&nbsp;graduate students in the specialization develop an understanding of gender as necessarily linked to other social formations, including sexuality, race, nation, religion, (dis)ability, and structures of capital.&nbsp;At the same time,&nbsp;doctoral&nbsp;students engaging&nbsp;gender and sexuality studies&nbsp;have the opportunity to develop their work among peers who take up similar questions in their scholarship.</p>
+                <p>Admitted students are required to complete five courses in addition to their home department&rsquo;s core requirements, consisting of two core courses and three electives. The core courses are Advanced Studies in Critical Gender Studies (CGS 200), to be taken shortly after admission to the specialization, and Practicum in Critical Gender Studies (CGS 299), to be taken in the student&rsquo;s final two years of dissertation writing. Electives may be chosen from a list of preapproved seminars in participating departments (students may petition other courses with significant gender/sexuality studies content) and may be taken at any time during the student&rsquo;s tenure at UC San Diego. Admitted students must also include at least one member of their dissertation committee from the list of CGS core or affiliate faculty.</p>
+                <p>For more information about the graduate specialization in critical gender studies, please visit&nbsp;<u><a href="http://cgs.ucsd.edu/" target="_blank">http://cgs.ucsd.edu</a></u>.				</p>
+                <div>
+                  <div> </div>
+        </div>
+        <!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

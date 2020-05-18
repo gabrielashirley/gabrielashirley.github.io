@@ -1,0 +1,732 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Bioengineering</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Bioengineering </h1>
+<p class="sectionNav"><span class="courseFacLink">[ <a href="../curric/BENG-gr.html">graduate
+      program</a> | <a href="../courses/BENG.html">courses</a> | <a href="../faculty/BENG.html">faculty</a> ]</span></p>
+<p class="program-contact-info">Warren College<br>
+  Student Affairs
+<br />
+  141 Powell-Focht Bioengineering
+  Hall <br />
+  <a href="http://be.ucsd.edu" target="_blank">http://be.ucsd.edu </a></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h2 class="program-overview-subhead-1">Departmental Focus </h2>
+				<p><strong class="myriad-pro-semibold">Bioengineering</strong> is an interdisciplinary major in which the principles and tools of traditional engineering fields, such as mechanical, materials, electrical, and chemical engineering, are applied to biomedical and biological problems. Engineering plays an increasingly important role in medicine in projects that range from basic research in physiology to advances in biotechnology and the improvement of health-care delivery. By its very nature, bioengineering is broad and requires a foundation in the engineering sciences as well as in physiology and other biological sciences. </p>
+				<p>The overall mission of the Department of Bioengineering is to improve health and quality of life by applying engineering principles to scientific discovery and technology innovation and to train future leaders in bioengineering through inspiring education and dedicated mentorship.</p>
+				<p>The program educational objectives of the bioengineering (BS), bioengineering: biotechnology (BS), bioengineering: biosystems (BS), and programs at UC San Diego are as follows:</p>
+<ul type="disc"><li>
+	Bioengineering (BS) graduates</li>
+  <ul>
+    <li><span dir="LTR"> </span>Bioengineering (BS) graduates will be prepared to attain the depth, breadth, and creativity in the central areas of bioengineering, its underlying sciences, and related technologies that are needed for successful careers.</li>
+    <li><span dir="LTR"> </span>Bioengineering (BS) graduates will be prepared for bioengineering practice, for their professional advancement, and for rapid technological change that will enable them to be technology leaders and innovators.</li>
+    <li><span dir="LTR"> </span>Bioengineering (BS) graduates will have the ability to deal knowledgeably and ethically with advancing technology in our society, including the professional and social responsibilities of health-related issues.</li>
+  </ul>
+  <li>Bioengineering: biotechnology (BS) graduates</li>
+  <ul>
+    <li><span dir="LTR"> </span>Bioengineering: biotechnology (BS) graduates will be prepared to attain the depth, breadth, and creativity in the central areas of biotechnology, its underlying sciences, and related technologies that are needed for successful careers.</li>
+    <li><span dir="LTR"> </span>Bioengineering: biotechnology (BS) graduates will be prepared for biotechnology practice, for their professional advancement, and for rapid technological change that will enable them to be technology leaders and innovators.</li>
+    <li><span dir="LTR"> </span>Bioengineering: biotechnology (BS) graduates will have the ability to deal knowledgeably and ethically with advancing technology in our society, including the professional and social responsibilities of health-related issues.</li>
+  </ul>
+  <li>Bioengineering: biosystems (BS) graduates</li>
+  <ul>
+    <li><span dir="LTR"> </span>Bioengineering: biosystems (BS) graduates will be prepared to attain the depth, breadth, and creativity in the central areas of biosystems, its underlying sciences, and related technologies that are needed for successful careers.</li>
+    <li><span dir="LTR"> </span>Bioengineering: biosystems (BS) graduates will be prepared for biosystems practice, for their professional advancement, and for rapid technological change that will enable them to be technology leaders and innovators.</li>
+    <li><span dir="LTR"> </span>Bioengineering: biosystems (BS) graduates will have the ability to deal knowledgeably and ethically with advancing technology in our society, including the professional and social responsibilities of health-related issues.</li>
+  </ul></ul>
+
+<p>Upon completion of the Bioengineering Program, graduates in the bioengineering (BS); bioengineering: biotechnology (BS); bioengineering: biosystems (BS); and bioengineering: bioinformatics (BS) are expected to have the desired knowledge, skills, attitudes, and behaviors as indicated below:</p>
+<ul>
+  <li>An ability to identify, formulate, and solve complex      engineering problems by applying principles of engineering, science, and      mathematics</li>
+  <li>An ability to apply engineering design to produce      solutions that meet specified needs with consideration of public health,      safety, and welfare; as well as global, cultural, social, environmental,      and economic factors</li>
+  <li>An ability to communicate effectively with a range of      audiences</li>
+  <li>An ability to recognize ethical and professional      responsibilities in engineering situations and make informed judgments      which must consider the impact of engineering solutions in global,      economic, environmental, and societal contexts</li>
+  <li>An ability to function effectively on a team whose      members together provide leadership, create a collaborative and inclusive      environment, establish goals, plan tasks, and meet objectives</li>
+  <li>An ability to develop and conduct appropriate      experimentation, analyze and interpret data, and use engineering judgment      to draw conclusions</li>
+  <li>An ability to acquire and apply new knowledge as needed      using appropriate learning strategies</li>
+  <li>An ability to develop innovative thinking to solve bioengineering problems with creativity and entrepreneurship </li>
+</ul>
+
+<p>At the undergraduate level, the department offers several four-year engineering majors, including a newly developed <strong>BS in</strong> <strong>bioengineering: biosystems</strong>. This major focuses on the interaction and integration of components in complex biological and engineering assemblages, and how the function and interactions of these components affect overall performance. The major draws on foundations of classical electrical and systems engineering, with biological applications at levels of the molecular and cellular to the physiological and whole organism and provides an alternative to other bioengineering majors that emphasize mechanical, chemical, and computational approaches. The major prepares students for careers in the bioengineering industry, in research and development, and for further education in graduate, medical, and business schools.</p>
+<p>One major leads to a <strong class="myriad-pro-semibold">BS in bioengineering</strong>. This major prepares students for careers in the biomedical device industry and for further education in graduate school. Students completing the BS in bioengineering have a broad preparation in traditional topics in engineering, allowing for a variety of career pathways. This program addresses the bioengineering topics of biomechanics, biotransport, bioinstrumentation, bioelectricity, biosystems, and biomaterials, and the complementary fields of systems and integrative physiology. Education in these areas allows application of bioengineering and other scientific principles to benefit human health by advancing methods for effective diagnosis and treatment of disease, e.g., through development of medical devices and technologies. </p>
+				<p>The department also offers a <strong class="myriad-pro-semibold">BS in bioengineering: biotechnology. </strong>This major prepares students for careers in the biotechnology industry and for further education in graduate school. The curriculum has a strong engineering foundation with emphasis on biochemical process applications. This program addresses the bioengineering topics of biochemistry, metabolism, kinetics, biotransport, biosystems, bioreactors, bioseparations, tissue engineering, and the complementary fields of cellular physiology. Education in these areas allows application of bioengineering and physicochemical principles to cellular and molecular biology, with the applications that benefit human health.</p>
+<p>The department also offers a major leading to a <span class="myriad-pro-semibold">BS in bioengineering: bioinformatics</span><strong class="myriad-pro-semibold">. </strong>Bioinformatics is the study of the structure and flow of information (genetic, metabolic, and regulatory) in living systems. The bioinformatics major emphasizes computation and model-based approaches to assembling, integrating, and interpreting biological information. This major has been developed by the Departments of Bioengineering, Computer Science and Engineering, and the Division of Biological Sciences, and students may apply through any of these departments or the division. The major prepares students for careers in the pharmaceutical, biotechnology, and biomedical software industries, and for further studies in graduate or medical school. </p>
+				<p>The programs and curricula of the Department of Bioengineering emphasize education in the fundamentals of engineering sciences that form the common basis of all engineering subspecialties. Education with this emphasis is intended to provide students with an interdisciplinary engineering foundation for a career in which engineering practice may expand rapidly. In addition, elements of bioengineering design are incorporated at every level in the curricula. This is accomplished by integration of laboratory experimentation, computer applications, and exposure to real bioengineering problems throughout the program. In all<em></em> majors, students also work in teams on a senior design project to design a solution to a multidisciplinary bioengineering problem suggested by professionals in bioengineering industry, academia, or medicine. </p>
+				<p>The bioengineering (BS), bioengineering: biosystems (BS) and bioengineering: biotechnology (BS) programs are accredited by the Engineering Accreditation Commission of ABET, <a href="http://www.abet.org" target="_blank">http://www.abet.org.</a> The bioengineering: bioinformatics (BS) program is not accredited by a commission of ABET as it has a relatively heavy emphasis on biological, chemical, and physical sciences.</p>
+<p>At the graduate level, specialized curricula lead to the <strong>MS, MEng (master of engineering),</strong> and <strong>PhD</strong>, as well as an integrated BS/MS. The department also offers a <strong>PhD in bioinformatics </strong>through the Bioinformatics and Systems Biology program. It is intended for students who have an interdisciplinary persuasion to work across computers, biology, medicine, and engineering.  For further information on the degree, please email <a href="mailto:bioinfo@ucsd.edu" target="_blank">bioinfo@ucsd.edu</a> or go online to <a href="http://bioinformatics.ucsd.edu" target="_blank">http://bioinformatics.ucsd.edu</a>. The MEng is a terminal professional degree whereas the MS and PhD are research programs. (<a href="../curric/BENG-gr.html">See section on “The Graduate Program.”</a>) The graduate programs are characterized by strong interdisciplinary relationships with the other engineering departments and Departments of Physics, Mathematics, Biology, Chemistry and Biochemistry, Medicine, and others, as well as with campus organizations such as the Institute of Engineering in Medicine, Institute for Mechanics and Materials, and the School of Medicine. </p>
+<p class="anchor-parent"><a class="anchor" id="undergrad"></a></p><h2 class="program-overview-subhead-1">The Undergraduate Program </h2>
+				<h3 class="program-overview-subhead-2">Major Requirements </h3>
+				<p>Specific course requirements for each of the majors are outlined in tables below. In addition to the required technical courses specifically indicated, a suggested scheduling of humanities and social science courses (HSS) is included in the curricula for students to use to meet college general-education requirements. To graduate, students must maintain an overall GPA of at least 2.0, and obtain at least a C– grade in each course required for the major. All courses required for the major must be taken for a letter grade. </p>
+				<p>Deviations from the required programs of study must be approved by the Undergraduate Studies Committee <em>prior</em> to students taking alternative courses. In addition, students must obtain departmental approval of technical elective (TE) course selections <em>prior</em> to students taking the course. In the bioengineering, biosystems, and biotechnology programs, TE courses are restricted to those that meet accreditation standards.  Courses such as BENG 197 and 198 are encouraged, but do not count as upper-division technical electives. BENG 195, 196, and 199 can be used as technical electives under certain conditions. Policy information may be obtained from the Student Affairs Office. </p>
+				<p>Students with accelerated academic preparation at admission to the university may vary the scheduling of lower-division courses such as mathematics, physics, and chemistry, but must first consult the department. Most lower-division courses are offered more than once each year to permit students some flexibility in their program scheduling. However, most upper-division bioengineering courses are taught only once each year. </p>
+				<p><strong class="myriad-pro-semibold">Deviations in the scheduling of upper-division bioengineering courses are strongly discouraged, as such changes usually lead to a delay in graduation. </strong></p>
+				<p>The curricula shown in the tables below are consistent with the current scheduling of classes. </p>
+				<p>Minors are not offered in the Department of Bioengineering, and double major options are restricted. Students interested in double majors should consult the Student Affairs Office as early as possible. </p>
+				<h3 class="program-overview-subhead-2">General-Education/College Requirements </h3>
+				<p>For graduation, each student must satisfy general-education course requirements determined by the student&#8217;s college, as well as the major requirements determined by the department. The six colleges at UC San Diego require different general-education courses, and the number of such courses differs from one college to another. Each student should choose his or her college carefully, considering the special nature of the curriculum and the breadth of general education. </p>
+				<p>The bioengineering programs allow for humanities and social science (HSS) courses so that students can fulfill their college requirements. Students must develop a program that includes a total of at least forty units in the arts, humanities, and social sciences, not including subjects such as accounting, industrial management, finance, or personnel administration. It should be noted, however, that some colleges require more than the ten HSS courses indicated in the curriculum tables below. Accordingly, students in these colleges may take longer to graduate than the four years indicated in the schedule. Students must consult with their colleges to determine which HSS courses to take. </p>
+<h4 class="program-overview-subhead-3">Bioengineering (BS)</h4>
+		<p><strong>The bioengineering (BS) program is accredited by the Engineering Accreditation Commission of ABET, <a href="http://www.abet.org" target="_blank">http://www.abet.org</a>.</strong></p>
+		<table border="0" cellpadding="0" cellspacing="0" class="sample-program">
+  <tr>
+<th width="111" valign="top" class="Normal"> FALL</th>
+<th width="111" valign="top" class="Normal"> WINTER</th>
+<th width="111" valign="top" class="Normal"> SPRING</th>
+</tr>
+<tr>
+<td colspan="3"><strong>FRESHMAN YEAR</strong></td>
+</tr>
+<tr>
+<td>MATH 20A</td>
+<td>MATH 20B</td>
+<td>MATH 20C</td>
+</tr>
+<tr>
+<td>CHEM 6A</td>
+<td>CHEM 6B</td>
+<td>BILD 1</td>
+</tr>
+<tr>
+<td>HSS<sup>2</sup></td>
+<td>PHYS 2A</td>
+<td>PHYS 2B/2BL</td>
+</tr>
+<tr>
+<td>HSS<sup>2</sup></td>
+<td>BENG 1</td>
+<td>HSS<sup>2</sup></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>HSS<sup>2</sup></td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td colspan="3"><strong>SOPHOMORE YEAR</strong></td>
+</tr>
+<tr>
+<td>MATH 20D</td>
+<td>MATH 18<sup>4</sup></td>
+<td>MATH 20E</td>
+</tr>
+<tr>
+<td>CHEM 7L<sup>1</sup></td>
+<td>MAE 140<sup>4</sup></td>
+<td>MAE 3</td>
+</tr>
+<tr>
+<td>PHYS 2C/2CL</td>
+<td>BENG 140A</td>
+<td>BENG 100</td>
+</tr>
+<tr>
+  <td>HSS<sup>2</sup></td>
+  <td>MAE 8<sup></sup></td>
+  <td>BENG 140B<sup></sup></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>HSS<sup>2</sup></td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td colspan="3"><strong>JUNIOR YEAR</strong></td>
+</tr>
+<tr>
+<td>BENG 110</td>
+<td>BENG 112A</td>
+<td>BENG 112B</td>
+</tr>
+<tr>
+<td>MAE 170</td>
+<td>BENG 186B</td>
+<td>BENG 172</td>
+</tr>
+<tr>
+<td>HSS<sup>2</sup></td>
+<td>HSS<sup>2</sup></td>
+<td>BENG 103B</td>
+</tr>
+<tr>
+<td>MAE 107</td>
+<td>BENG 130</td>
+<td>BENG 187A</td>
+</tr>
+
+<tr>
+<td colspan="3"><strong>SENIOR YEAR</strong></td>
+</tr>
+<tr>
+<td>BENG 187B</td>
+<td>BENG 187C</td>
+<td>BENG 125</td>
+</tr>
+<tr>
+<td>DE<sup>3</sup></td>
+<td>DE<sup>3</sup></td>
+<td>BENG 186A</td>
+</tr>
+<tr>
+<td>HSS<sup>2</sup></td>
+<td>TE</td>
+<td>BENG 187D</td>
+</tr>
+<tr>
+<td>MAE 150</td>
+<td>HSS<sup></sup></td>
+<td>TE<sup>5</sup> </td>
+</tr>
+<tr>
+<td>BENG 122A</td>
+<td>&nbsp;</td>
+<td>HSS<sup>2</sup> </td>
+</tr>
+
+</table>
+<p class="note"><sup>1</sup>CHEM 7L may be taken in any quarter within
+the first two years after completion of CHEM 6B.</p>
+<p class="note"><sup>2</sup>Ten HSS courses are listed here; individual college
+  requirements may be higher.</p>
+<p class="note"><sup>3</sup>Design elective (DE) courses must be selected from
+  a two-quarter sequence, BENG 119A-B, 126A-B, 127A-B, 128A-B, 129A-B, 139A-B, 147A-B,
+  148A-B, 149A-B, 169A-B, 179A-B.</p>
+<p class="note"><sup>4</sup>MATH 18 and MAE 140 may be taken concurrently.</p>
+<p class="note"><sup>5</sup>Technical elective (TE) courses must be selected from a departmental approved list. Consult the Student Affairs Office.</p>
+<h4 class="noBottomMargin">Bioengineering: Biotechnology (BS)</h4>
+<p><strong>The bioengineering: biotechnology (BS) program is accredited by the Engineering Accreditation Commission of ABET, <a href="http://www.abet.org" target="_blank">http://www.abet.org</a>.</strong></p>
+<table border="0" cellpadding="0" cellspacing="0" class="sample-program">
+  <tr>
+  <th width="111" valign="top" class="Normal"> FALL</th>
+  <th width="111" valign="top" class="Normal"> WINTER</th>
+  <th width="111" valign="top" class="Normal"> SPRING</th>
+  </tr>
+  <tr>
+  <td colspan="3"><strong>FRESHMAN YEAR</strong></td>
+  </tr>
+  <tr>
+  <td>MATH 20A</td>
+  <td>MATH 20B</td>
+  <td>MATH 20C</td>
+  </tr>
+  <tr>
+  <td>CHEM 6A</td>
+  <td>CHEM 6B</td>
+  <td>CHEM 7L<sup>1</sup>/6C</td>
+  </tr>
+  <tr>
+  <td>HSS<sup>2</sup></td>
+  <td>PHYS 2A</td>
+  <td>PHYS 2B</td>
+  </tr>
+  <tr>
+  <td>HSS<sup>2</sup></td>
+  <td>BENG 1</td>
+  <td>HSS<sup>2</sup> </td>
+  </tr>
+  <tr>
+  <td>&nbsp;</td>
+  <td>HSS<sup>2</sup></td>
+  <td>&nbsp;</td>
+  </tr>
+  <tr>
+  <td colspan="3"><strong>SOPHOMORE YEAR</strong></td>
+  </tr>
+  <tr>
+  <td>MATH 20D</td>
+  <td>MATH 18</td>
+  <td>MATH 20E</td>
+  </tr>
+  <tr>
+  <td>CHEM 40A</td>
+  <td>PHYS 2C/2CL</td>
+  <td>BENG 100</td>
+  </tr>
+  <tr>
+  <td>BILD 1</td>
+  <td>HSS<sup>2</sup></td>
+  <td>MAE 8</td>
+  </tr>
+  <tr>
+  <td>HSS<sup>2</sup></td>
+  <td>CHEM 40B</td>
+  <td>&nbsp;</td>
+  </tr>
+  <tr>
+  <td colspan="3"><strong>JUNIOR YEAR</strong></td>
+  </tr>
+  <tr>
+  <td>CENG 101A</td>
+  <td>BENG 123</td>
+  <td>BENG 103B </td>
+  </tr>
+  <tr>
+  <td>MAE 170</td>
+  <td>HSS<sup>2</sup></td>
+  <td>BENG 160</td>
+  </tr>
+  <tr>
+  <td>HSS<sup>2</sup></td>
+  <td>BENG 168</td>
+  <td>BENG 187A<sup></sup></td>
+  </tr>
+  <tr>
+  <td>BICD 100<sup></sup></td>
+  <td>BENG 130</td>
+  <td>HSS<sup>2</sup></td>
+  </tr>
+  <tr>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>BENG 186A</td>
+  </tr><tr>
+  <td colspan="3"><strong>SENIOR YEAR</strong></td>
+  </tr>
+  <tr>
+  <td>BENG 161A</td>
+  <td>BENG 161B</td>
+  <td>BENG 125</td>
+  </tr>
+  <tr>
+  <td>BENG 187B</td>
+  <td>BENG 187C<sup></sup></td>
+  <td>BENG 187D</td>
+  </tr>
+  <tr>
+  <td>BENG 166A</td>
+  <td>DE<sup>3</sup></td>
+  <td>TE<sup>4</sup></td>
+  </tr>
+  <tr>
+  <td>DE<sup>3</sup></td>
+  <td>TE<sup>4</sup></td>
+  <td>&nbsp;</td>
+  </tr>
+  <tr>
+  <td>BENG 162 </td>
+  <td>HSS<sup>2</sup></td>
+  <td>&nbsp;</td>
+</tr></table>
+<p class="note"><sup>1</sup>CHEM 7L may be taken concurrently with Chem
+6C or in any quarter within the first two years after completion of CHEM 6B.</p>
+<p class="note"><sup>2</sup>Ten HSS courses are listed here; individual
+college requirements may be higher.</p>
+<p class="note"><sup>3</sup>Design elective (DE) courses
+    must be selected from a two-quarter sequence, BENG 119A-B, 126A-B, 127A-B, 128A-B,
+    129A-B, 139A-B, 147A-B, 148A-B, 149A-B, 169A-B, 179A-B.</p>
+<p class="note"><sup>4</sup>Technical elective (TE) courses must be selected from a departmental approved list. Consult the Student Affairs Office.</p>
+<h4 class="noBottomMargin">Bioengineering: Biosystems (BS)</h4>
+<p><strong>The bioengineering: biosystems (BS) program is accredited by the Engineering Accreditation Commission of ABET, <a href="http://www.abet.org" target="_blank">http://www.abet.org</a>.</strong></p>
+<table border="0" cellpadding="0" cellspacing="0" class="sample-program">
+  <tr>
+    <th width="111" valign="top" class="Normal"> FALL</th>
+    <th width="111" valign="top" class="Normal"> WINTER</th>
+    <th width="111" valign="top" class="Normal"> SPRING</th>
+    </tr>
+  <tr>
+    <td colspan="3"><strong>FRESHMAN YEAR</strong></td>
+    </tr>
+  <tr>
+    <td>MATH 20A</td>
+    <td>MATH 20B</td>
+    <td>MATH 20C</td>
+    </tr>
+  <tr>
+    <td>CHEM 6A</td>
+    <td>CHEM 6B</td>
+    <td>ECE 35</td>
+    </tr>
+  <tr>
+    <td>HSS<sup>1</sup></td>
+    <td>PHYS 2A</td>
+    <td>PHYS 2B/2BL</td>
+    </tr>
+  <tr>
+    <td>BENG 2</td>
+    <td>BENG 1<sup></sup></td>
+    <td>HSS<sup>1</sup></td>
+    </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>HSS<sup>1</sup></td>
+    <td>&nbsp;</td>
+    </tr>
+  <tr>
+    <td colspan="3"><strong>SOPHOMORE YEAR</strong></td>
+    </tr>
+  <tr>
+    <td>MATH 20D</td>
+    <td>MATH 18</td>
+    <td>MATH 20E</td>
+    </tr>
+  <tr>
+    <td>ECE 45</td>
+    <td>BENG 120</td>
+    <td>BENG 102</td>
+    </tr>
+  <tr>
+    <td>PHYS 2C/2CL</td>
+    <td>HSS<sup>1</sup></td>
+    <td>BENG 100</td>
+    </tr>
+  <tr>
+    <td>HSS<sup>1</sup></td>
+    <td>&nbsp;</td>
+    <td>HSS<sup>1</sup></td>
+    </tr>
+  <tr>
+    <td colspan="3"><strong>JUNIOR YEAR</strong></td>
+    </tr>
+  <tr>
+    <td>BENG 110</td>
+    <td>BENG 130</td>
+    <td>BENG 133 </td>
+    </tr>
+  <tr>
+    <td>BENG 134</td>
+    <td>BENG 140A</td>
+    <td>BENG 140B</td>
+    </tr>
+  <tr>
+    <td>BENG 141</td>
+    <td>BENG 152</td>
+    <td>HSS</td>
+    </tr>
+  <tr>
+    <td>HSS<sup>1</sup></td>
+    <td>BENG 186B<sup></sup></td>
+    <td>BENG 187A<sup></sup></td>
+    </tr>
+  <tr>
+    <td colspan="3"><strong>SENIOR YEAR</strong></td>
+    </tr>
+  <tr>
+    <td>BENG 135</td>
+    <td>TE<sup></sup></td>
+    <td>BENG 125</td>
+    </tr>
+  <tr>
+    <td>BENG 187B</td>
+    <td>BENG 187C<sup></sup></td>
+    <td>BENG 187D</td>
+    </tr>
+  <tr>
+    <td>BENG 122A<sup></sup></td>
+    <td>DE<sup>3</sup></td>
+    <td>BENG 189</td>
+    </tr>
+  <tr>
+    <td>DE<sup>3</sup></td>
+    <td>HSS<sup>1</sup></td>
+    <td>TE<sup>2</sup></td>
+    </tr>
+  <tr>
+    <td>HSS<sup>1</sup></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    </tr>
+</table>
+<p class="note"><sup>1</sup>Ten HSS courses are listed here; individual college requirements may be higher.</p>
+<p class="note"><sup>2</sup>Technical elective (TE) courses must be selected from a departmental approved list. Consult the Student Affairs Office.</p>
+<p class="note"><sup>3</sup>Design elective (DE) courses must be selected from a two-quarter sequence, BENG 119A-B, 126A-B, 127A-B, 128A-B, 129A-B, 139A-B, 147A-B, 148A-B, 149A-B, 169A-B, 179A-B.</p>
+<h4 class="noBottomMargin">Bioengineering: Bioinformatics (BS)</h4>
+<p><strong>(Not accredited by a commission of
+    ABET) </strong></p>
+<p> </p>
+<table border="0" cellpadding="0" cellspacing="0" class="sample-program">
+<tr>
+<th width="111" valign="top" class="Normal">FALL</th>
+<th width="111" valign="top" class="Normal">WINTER</th>
+<th width="111" valign="top" class="Normal">SPRING</th>
+</tr>
+<tr>
+<td colspan="3"><strong>FRESHMAN YEAR</strong></td>
+</tr>
+<tr>
+<td>CSE 11<sup>1</sup></td>
+<td>CSE 12</td>
+<td>PHYS 2A</td>
+</tr>
+<tr>
+  <td>CHEM 6A</td>
+  <td>CHEM 6B</td>
+  <td>BILD 1</td>
+</tr>
+<tr>
+  <td>MATH 20A</td>
+  <td>BENG 1</td>
+  <td>MATH 20C </td>
+</tr>
+<tr>
+  <td>HSS<sup>3</sup></td>
+  <td>MATH 20B</td>
+  <td>HSS<sup>3</sup></td>
+</tr>
+<tr>
+  <td>&nbsp;</td>
+  <td>HSS<sup>3</sup></td>
+  <td>&nbsp;</td>
+</tr>
+<tr>
+<td colspan="3"><strong>SOPHOMORE YEAR</strong></td>
+</tr>
+<tr>
+<td>BILD 3<sup></sup></td>
+<td>BILD 4</td>
+<td>BENG 100</td>
+</tr>
+<tr>
+<td>MATH 20D</td>
+<td>BENG 120</td>
+<td>BENG 102</td>
+</tr>
+<tr>
+<td>PHYS 2B</td>
+<td>PHYS 2C</td>
+<td>BIMM 185</td>
+</tr>
+<tr>
+<td>CSE 21</td>
+<td>MATH 18</td>
+<td>CSE 100</td>
+</tr><tr>
+<td>&nbsp;</td>
+<td>HSS<sup>3</sup></td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td colspan="3"><strong>JUNIOR YEAR</strong></td>
+</tr>
+<tr>
+<td>MATH 20E</td>
+<td>BICD 100</td>
+<td>BENG 187A</td>
+</tr>
+<tr>
+<td>BIMM 100/CHEM 114C</td>
+<td>BENG 130</td>
+<td>BENG 182</td>
+</tr>
+<tr>
+<td>CSE 101 </td>
+<td>BENG 181</td>
+<td>HSS<sup>3</sup></td>
+</tr>
+<tr>
+<td>HSS<sup>3</sup></td>
+<td>&nbsp;</td>
+<td>HSS<sup>3</sup></td>
+</tr>
+<tr>
+<td colspan="3"><strong>SENIOR YEAR</strong></td>
+</tr>
+<tr>
+<td>BENG 187B</td>
+<td>BENG 187C</td>
+<td>BENG 187D</td>
+</tr>
+<tr>
+<td>BENG 183</td>
+<td>MATH 186</td>
+<td>BENG 125<sup></sup></td>
+</tr>
+<tr>
+<td>DE<sup>4</sup></td>
+<td>DE<sup>4</sup></td>
+<td>TE<sup>2</sup></td>
+</tr>
+<tr>
+<td>TE<sup>2</sup></td>
+<td>BENG 168<sup></sup></td>
+<td>HSS<sup>3</sup></td>
+</tr><tr>
+<td>HSS<sup>3</sup></td>
+<td>HSS<sup>3</sup></td>
+<td>&nbsp;</td>
+</tr>
+</table>
+<p class="note"><sup>1</sup>Students may take the slower paced version, CSE 8A-B, instead of
+	CSE 11.</p>
+<p class="note"><sup>2</sup>Technical elective (TE) courses must be selected from a departmental
+  approved list. Consult the Student Affairs Office.</p>
+<p class="note"><sup>3</sup>Ten HSS courses are listed here; individual college requirements
+	may be higher. </p>
+<p class="note"><sup>4</sup>Design elective (DE) courses must be selected from a two-quarter sequence: BENG 119A-B, 126A-B, 127A-B, 128A-B, 129A-B, 139A-B, 147A-B, 148A-B, 149A-B, 169A-B, 179A-B.</p>
+<h3 class="program-overview-subhead-2">Policies and Procedures </h3>
+				<h4>Freshman and Continuing Admission to Majors in the Department of Bioengineering				</h4>
+				<p>Because of heavy student interest in the majors in the Department of Bioengineering and the limited resources available to accommodate this demand, maintenance of a high-quality program makes it necessary to limit enrollments to the most qualified students. </p>
+				<p>Students admitted into a capped major who transfer out of the capped major may transfer back into it <strong>one time</strong> without meeting the full requirements for continuing student admission prior to the end of their sophomore year, <strong>provided they are in good academic standing.</strong></p>
+<h5 class="program-overview-subhead-4">Freshman Students </h5>
+		<p>Freshman students who have excelled in high school and have declared<em> bioengineering (BS)</em>, <em>bioengineering: biotechnology (BS), bioengineering: bioinformatics (BS),</em> or <em>bioengineering: biosystems (BS)</em> on their UC San Diego application are eligible for direct admission into those majors. </p>
+		<p>The UC San Diego Office of Admissions and Relations with Schools will calculate an admissions target number and admit the appropriate number of incoming freshmen into each capped major using the &ldquo;UC San Diego Holistic Review&rdquo; score as a ranking method. Students who meet the UC San Diego admission criteria will be admitted into their chosen capped major, starting with the student having the highest &ldquo;holistic review score,&rdquo; until the admission target number is reached. These students will be notified directly by the Office of Admissions and Relations with Schools whether they have been admitted into their chosen capped major.</p>
+		<p>Freshman students who applied but were not admitted directly from high school into the capped <em>bioengineering (BS)</em>, <em>bioengineering: biotechnology (BS), bioengineering: bioinformatics (BS),</em> or <em>bioengineering: biosystems (BS)</em> majors will be admitted into the major indicated as their &ldquo;second choice&rdquo; on the UC application (providing it is an &ldquo;open&rdquo; major). </p>
+		<h5 class="program-overview-subhead-4">Continuing Students </h5>
+		<p>Each fall quarter, a certain number (determined on an annual basis) of &ldquo;continuing&rdquo; sophomore students who apply will be selected to enter the capped <em>bioengineering (BS), bioengineering: biotechnology (BS), bioengineering: bioinformatics (BS),</em> or <em>bioengineering: biosystems (BS) </em>majors. Interested continuing students must not be past sophomore year, as time to graduation would be delayed since departmental upper-division courses are currently offered only once a year. </p>
+		<p>Continuing students will be required to complete the following courses <strong>prior</strong> to applying, depending on their major of choice:</p>
+		<p><em>Bioengineering </em>and <em>bioengineering: biotechnology</em>: BILD 1; CHEM 6A-B; MAE 8; MATH 20A-C; PHYS 2A-B. </p>
+		<p><em>Bioengineering: bioinformatics</em>: BILD 1; CHEM 6A-B; CSE 11 (or 8A-B); MATH 20A-C; PHYS 2A-B.</p>
+		<p><em>Bioengineering: biosystems</em>: CHEM 6A-B; MATH 20A-C, PHYS 2A-B.</p>
+		<p>If students have met some of the above requirements through Advanced Placement course work, they should be advised of the following: A minimum of three courses listed must have been completed at UC San Diego. If students cannot meet this three-course minimum due to prior credit, students must offer grades for MATH 20D, MATH 18, or MATH 20E until the three-course minimum has been met. </p>
+        <p>Students will receive email instructions from the Bioengineering Student Affairs Office concerning completion of an online application at the beginning of fall quarter of their second year.<strong> Online applications must be submitted by Friday of the first week of instruction in fall quarter.</strong> Continuing students&rsquo; applications will be ranked according to the GPA obtained in the required courses only. </p>
+		<p>Applications to a capped major will be approved, starting with the student having the highest GPA in the required courses, until the predetermined target number is reached. The Bioengineering Student Affairs Office will notify students in a timely manner who are successful in transitioning into one of the capped majors. </p>
+		<p>Continuing students who apply and are unable to transition into one of the capped majors will also be notified of their status in a timely manner by the Bioengineering Student Affairs Office.</p>
+<h4>Transfer Student Admission into Bioengineering, Bioengineering: Biotechnology, Bioengineering: Bioinformatics, or Bioengineering: Biosystems</h4>
+<p>General advice: Transfer students are advised to complete the following courses for their major before enrolling at UC San Diego. Preparing well for the major helps students move efficiently toward graduation.&nbsp;</p>
+<ul type="disc">
+  <li>Calculus      I—for Science and Engineering (MATH 20A)</li>
+  <li>Calculus      II—for Science and Engineering (MATH 20B)</li>
+  <li>Calculus      and Analytic Geometry (MATH 20C)</li>
+  <li>Differential      Equations (MATH 20D)</li>
+  <li>Linear      Algebra (MATH 18)</li>
+  <li>Complete      calculus-based physics series with lab experience (PHYS 2A-B-C)</li>
+  <li>CHEM      6A and 6B (except computer science and computer engineering majors) <strong><br>
+    Note: </strong>A total of ten quarter-units of general chemistry (including      laboratory) are strongly recommended for students applying to <strong>all</strong> majors offered by the <strong>Department of Bioengineering.</strong></li>
+  <li>Highest      level of introductory computer programming language course offerings at      the community college </li>
+</ul>
+<p>The UC San Diego Office of Admissions and Relations with Schools will calculate an admissions target number and admit the appropriate number of incoming transfer students into each capped major, based on the community college GPA. Additionally, transfer students should have completed the following courses for admission equivalent to UC San Diego:</p>
+<p><em>Bioengineering: </em>MATH 20A-B-C-D; PHYS 2A-B and 2BL-CL; and CHEM 6A-B</p>
+<p><em>Bioengineering: biotechnology: </em>MATH 20A-B-C-D; PHYS 2A-B and 2CL; and CHEM 6A-B</p>
+<p><em>Bioengineering: bioinformatics </em>and <em>bioengineering: biosystems: </em>MATH 20A-B-C-D; PHYS 2A-B; and CHEM 6A-B</p>
+<p>Students who meet the UC San Diego admission criteria will be admitted into their chosen capped major, starting with the student having the highest community college GPA, until the admission target number is reached. (At least a 3.2 GPA in the community college transfer courses, and a 3.4 GPA in math, physics, and computer science courses, are likely to be needed to gain admission.) These students will be notified directly by the Office of Admissions and Relations with Schools whether they have been admitted into their chosen impacted major. </p>
+<p>Transfer students who applied but were not admitted directly from community college into the capped <em>bioengineering,</em> <em>bioengineering: biotechnology, bioengineering: bioinformatics, </em><em>or bioengineering: biosystems</em> majors will be admitted into the major indicated as their &ldquo;second choice&rdquo; on the UC application (providing it is an &ldquo;open&rdquo; major). </p>
+<h4 class="program-overview-subhead-3">Academic Advising </h4>
+				<p>Upon admission to a major, students are encouraged to seek advice from departmental staff in the Bioengineering Student Affairs Office, Room 141, Powell-Focht Bioengineering Hall, to plan a program of study. Students are expected to chart their progress within their major. As the department may make a small number of course and/or curricular changes every year, it is imperative that students check their email for updates and consult a bioengineering undergraduate adviser on an annual basis. </p>
+				<p>To enroll in any courses required for a bioengineering major, a student must have completed prerequisite courses. (The department does not consider D or F grades as adequate preparation for subsequent material.) Where these prerequisite course work and other restrictions apply, the registrar will not enroll other students except by department approval. Students are advised that they may be dropped from course rosters if prerequisites have not been met. </p>
+<p>Bioengineering courses are typically offered only once a year and therefore should be taken in the recommended sequence. If courses are taken out of sequence, it may not always be possible to enroll in courses as desired or needed for timely graduation. If this occurs, students should seek immediate departmental advice. </p>
+				<p>Programmatic advice may be obtained from the Student Affairs Office. In addition, technical advice may be obtained from a specific bioengineering faculty adviser assigned to each student upon admission to the major. </p>
+				<h4 class="program-overview-subhead-3">Program Alterations, Exceptions to Requirements, and Special Programs </h4>
+				<p>Exceptions to any program or course requirements are possible if approved by the Undergraduate Studies Committee before the courses in question are taken. Petitions may be obtained from the Bioengineering Student Affairs Office. </p>
+				<h5>Capstone Design Course Sequence for All Majors</h5>
+		<p>A capstone design course sequence is required for senior level students in all undergraduate majors in the department. The capstone design course sequence consists of a multiquarter upper-division sequence of courses that totals ten quarter-units and includes (1) a series of four one-unit courses on selection (BENG 187A), design (BENG 187B), implementation (BENG 187C), and presentation (BENG 187D) of design projects, with consideration of professional issues, and (2) a sequence of two three-unit laboratory design projects, offered in many of the primary areas of bioengineering, including biomechanics (BENG 119A-B), systems bioengineering (BENG 127A-B, 128A-B, 129A-B), nanoscale and molecular bioengineering (BENG 139A-B), organ system bioengineering (BENG 147A-B, 148A-B, 149A-B), tissue engineering and regenerative medicine (BENG 169A-B), and bioinstrumentation (BENG 179A-B). The design projects and presentations will be performed by student teams in the course sequence. </p>
+				<h5 class="program-overview-subhead-4">Independent Study for Undergraduates </h5>
+		<p>Under the guidance of a bioengineering faculty member, lower- and upper-division level bioengineering students have opportunities to participate in independent study and research. </p>
+				<p>Upper-division bioengineering students may take BENG 199, Independent Study for Undergraduates. Lower-division bioengineering students may enroll in BENG 99, which is similar to BENG 199 except that less background in the curriculum is needed. These courses are taken as electives on a P/NP basis. Under certain conditions, a BENG 199 course may be used to satisfy upper-division technical elective course requirements for the major. Students interested in this alternative must identify a faculty member with whom they wish to work and propose a two-quarter research or study topic for <em>all </em>majors. Completion of two consecutive quarters of BENG 199 will satisfy both technical elective requirements in all majors. After obtaining the faculty adviser&rsquo;s concurrence on the topic and scope of the study, the student must submit a Special Studies form through the EASy system (each quarter). These forms must be completed, approved, and processed by the end of week two of the quarter in which the course is to be taken. </p>
+<h5 class="program-overview-subhead-4">Teaching </h5>
+<p>Students interested in participating in the instructional activities of the department may be approved to take BENG 195, Undergraduate Teaching as an elective on a P/NP basis. Policy in this regard may be obtained from the Student Affairs Office.</p>
+<p class="anchor-parent"><a class="anchor" id="industrial"></a></p><h2 class="program-overview-subhead-1">Industrial Internship Program and Graduate Industrial Training Program </h2>
+				<p>The Department of Bioengineering offers two industry-related programs: the <strong>Industrial Internship Program</strong> for undergraduates and the <strong>Graduate Industrial Training Program</strong> for graduate students. Both industrial programs are designed to complement the department’s academic curriculum with practical industry experience. Students interested in these programs should contact the Bioengineering Student Affairs Office well in advance of the quarter in which they would like to start their internship. </p>
+<p><strong class="myriad-pro-semibold">The Industrial Internship Program</strong> is available to undergraduate students who have completed all lower-division course requirements. Academic credit under BENG 196, Bioengineering Industrial Internship, can be earned by spending ten weeks or more as interns in an industrial setting. The intern may be involved in a range of activities, including design, analysis, manufacturing, testing, regulatory affairs, etc., under the direction of a mentor in the workplace. At the completion of the internship experience, students are required to submit a brief report to the mentor and faculty adviser describing their activities. Up to four units of BENG 196 may be used toward technical elective credit.</p>
+<p><strong class="myriad-pro-semibold">The Graduate Industrial Training Program</strong> is designed for students in the Master of Engineering Degree Program. This program serves to significantly enhance the professional development of MEng students in preparation for leadership in the bioengineering industry. Students will complete an independent industrial bioengineering project in a company setting under the direction of an industrial and faculty adviser. </p>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

@@ -1,0 +1,193 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Classical Studies</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+	<style type="text/css">
+<!--
+p.program-contact-info {}
+-->
+    </style>
+	<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" --> 
+<h1 class="noTopBottomMargin">Classical Studies </h1>
+<p class="sectionNav">[ <a href="#major">major</a> | <a href="#minor">minor</a> | <a href="../curric/CLAS-gr.html">graduate
+        program</a> | <a href="../courses/CLAS.html">courses</a> | <a href="../faculty/CLAS.html">faculty</a> ]</p>
+<p class="program-contact-info">CAESAR Programs Advising<br>
+  Institute of Arts and Humanities<br>
+  Humanities and Social Sciences Building, 1105<br>
+  (858) 534-4551<br>
+  <a href="mailto:caesar@ucsd.edu" target="_blank">caesar@ucsd.edu</a> <br>
+  <a href="http://caesar.ucsd.edu/classical/index.html" target="_blank">http://caesar.ucsd.edu/classical/index.html</a></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><p class="basic-offset-top-only">Classical studies is concerned with the cultures of ancient Greece and Rome—roughly from the time of Homer through the time of St. Augustine—in all of their aspects. This program thus offers undergraduates an opportunity to study the cultures of Greece and Rome through the combined resources of the Departments of History, Literature, Visual Arts, Theatre and Dance, and Philosophy. The study of the ancient Greek and Latin languages themselves serves as the starting point for the broader consideration of specific texts in their literary, intellectual, and historical context. </p>
+		<p class="anchor-parent"><a class="anchor" id="major"></a></p><h2 class="program-overview-subhead-1">The Major Programs </h2>
+				<p>The Classical Studies Program offers four different degree paths, three within classical studies and one in cooperation with Jewish studies. The majors are Greek, Latin, classics, and Greek and Hebrew. Each consists of a choice of twelve upper-division courses (forty-eight units) approved for the program and listed below. All courses used to meet requirements for a major in classical studies must be taken for a letter grade and be passed with a grade of C– or better. </p>
+				<p>Graduate courses may be taken by undergraduates with consent of the instructor. The faculty of the program welcome qualified undergraduates in graduate courses. </p>
+				<p>Additional courses counting toward a major in classical studies are offered on a year-to-year basis, both at the undergraduate and graduate levels. As these often cannot be listed in advance, interested students should consult the program faculty for an up-to-date list. </p>
+				<h3 class="program-overview-subhead-2">Greek </h3>
+				<p>LTWL 19A-B-C are prerequisites to the Greek major. Six of the twelve upper-division courses must be upper-division LTGK courses. The remaining six courses may be in classical civilization (in English translation), selected from the list of approved courses from history, Lit/World, philosophy, political science, and visual arts, though additional upper-division LTGK courses are acceptable here. These must be from at least two departments and selected in consultation with the adviser; courses dealing with Greek civilization are strongly preferred. </p>
+<h3 class="program-overview-subhead-2">Latin </h3>
+				<p>LTWL 19A-B-C are prerequisites to the Latin major. Six of the twelve upper-division courses must be upper-division LTLA courses. The remaining six courses may be in classical civilization (in English translation), selected from the list of approved courses from history, Lit/World, philosophy, political science, and visual arts, though additional upper-division LTLA courses are acceptable here. These must be from at least two departments and selected in consultation with the adviser; courses dealing with Roman civilization are strongly preferred. </p>
+<h3 class="program-overview-subhead-2">Classics </h3>
+				<p>LTWL 19A-B-C are prerequisites to the classics major. Nine of the twelve upper-division courses must be distributed between upper-division LTLA and LTGK courses, six in one literature and three in the other according to the student&rsquo;s emphasis. The remaining three courses may be in classical civilization (in English translation), selected from the list of approved courses from history, Lit/World, philosophy, political science, and visual arts, though additional upper-division LTLA or LTGK courses are acceptable here. These must be from at least two departments and selected in consultation with the adviser to reflect the relative emphasis upon the Greek and Latin literatures, but with at least one focusing upon each culture.		</p>
+		<p class="anchor-parent"><a class="anchor" id="minor"></a></p><h2 class="program-overview-subhead-1">The Minor Programs </h2>
+				<h3 class="program-overview-subhead-2">Classical Studies</h3>
+				<p>A minor in classical studies consists of seven courses (twenty-eight units) from those listed below, of which at least four must be upper division. A knowledge of the ancient languages is not required. The minor will normally include LTWL 19A-B-C. The Greco-Roman World, and four other courses from the participating departments. All courses used to meet requirements for the minor in Classical Studies must be taken for a letter grade and passed with a grade of C– or better. </p>
+				<h4 class="program-overview-subhead-3">Greek </h4>
+				<p>See Literature: “<a href="LIT-ug.html#minor">The Minor in Literature</a>” </p>
+				<h4 class="program-overview-subhead-3">Latin</h4>
+				<p>See Literature: “<a href="LIT-ug.html#minor">The Minor in Literature</a>” </p>
+		<h3 class="program-overview-subhead-2">Warren College </h3>
+				<p>A Warren College program of concentration in classical studies normally consists of LTWL 19A-B-C and three of the upper-division courses listed below. </p>
+				<h2>Honors in Greek, Latin, and Classics </h2>
+        <p>Honors is intended for the most talented and motivated students
+                  majoring in Greek, Latin, classics, or Greek and Hebrew. Requirements
+                  for admission to the honors program are</p>
+                <ul>
+                  <li>Junior standing </li>
+                  <li>An overall GPA of 3.5 </li>
+                  <li>A GPA in the major of 3.5 </li>
+                </ul>
+                <p>Qualified students majoring in Greek, Latin, or classics may
+                  apply at the end of their junior year to the program faculty
+                  on the basis of 1) a thesis proposal (three to four pages)
+                  worked out in advance with a classical studies faculty member
+                  and 2) a recommendation from that faculty member. It is strongly
+                  advised that the proposal be based upon a class paper or project
+                  from a course taken toward completion of the major. </p>
+                <p>The core of the honors program is an honors thesis. Four units of 196 course credit to this end may be counted toward the major in place of one of the courses in English translation. A thesis completed by the end of the senior year will be read and evaluated by the thesis adviser and another member of the program faculty. If the thesis is accepted and the student maintains a 3.5 GPA, departmental honors will be awarded. The level of honors—distinction, high distinction, or highest distinction—will be determined by the program faculty. </p>
+<h2>Transfer Students</h2>
+                <p>UC San Diego’s Program in Classical Studies welcomes transfer
+                  students. Students planning to transfer from two-year colleges
+                  should try to complete as many of the lower-division prerequisites
+                  for the major as possible: specifically, a course equivalent
+                  in duration and content to UC San Diego’s Literatures of the World
+                  19A-B-C and, if possible, elementary Greek and/or Latin, as
+                  appropriate for the planned classical studies major. Students
+                  with questions about transferring into UC San Diego’s Program in Classical
+                  Studies should review the “Admission Information for Transfer
+                  Students” on the UC San Diego website (go to <a href="http://ucsd.edu" target="_blank">http://ucsd.edu</a> and
+                  choose Prospective Students, then Admissions, then For Transfer
+                  Students) and feel free to contact the faculty adviser for
+                  the program with any questions.		</p>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

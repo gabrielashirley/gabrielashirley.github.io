@@ -1,0 +1,234 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" --> 
+<title>Communication</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" --> 
+              <h1 class="noTopBottomMargin">Communication</h1>
+<p class="courseFacLink">[ <a href="#major">major</a> | <a href="COMM-gr.html">graduate
+    program</a> | <a href="../courses/COMM.html">courses</a> | <a href="../faculty/COMM.html">faculty</a> ]</p>
+	<p class="program-contact-info">Thurgood Marshall College<br>
+	  Communication Building, Rooms 124A and 124B <br>
+	  (858) 534-4410<br />
+	  <a href="http://communication.ucsd.edu" target="_blank">http://communication.ucsd.edu </a></p>
+	<!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><p class="basic-offset-top-only">Communication at UC San Diego is a field of study that emphasizes the role of technologies and institutions of communication, from language to television, to the internet and beyond, in mediating human experience. It draws from such social science disciplines as anthropology, psychology, sociology, and political science, and from the humanities and fine arts, including theatre, literature, and visual arts. Communication students will develop a critical awareness of the communicative forces that affect their everyday lives. </p>
+				<p>The communication major is not designed as a training program in advertising, journalism, production, or public relations. It provides students with a solid liberal arts background necessary for graduate studies in communication and other disciplines, and for professional work in a number of communication-related fields, including primary and secondary education. </p>
+				<p>Though the emphasis of the major is not a technical one, the faculty in the Department of Communication believe that students will develop a deeper understanding of how communication works by exploring firsthand the capabilities and limitations of a variety of media. Students, therefore, will have the opportunity to conduct part of their studies in video, computer communication, or other forms of media practice.</p>
+<p class="anchor-parent"><a class="anchor" id="major"></a></p><h2 class="program-overview-subhead-1">The Communication Major</h2>
+				<p>Degree offered: Bachelor of Arts </p>
+				<p>The major in communication consists of one lower-division course and twelve upper-division courses. None of the major courses may be taken on a Pass/Not Pass basis. </p>
+<h3>One Lower-Division Core Course	(four	units)		</h3>
+				<p class="course-list-overview">*COMM 10. Introduction to Communication</p>
+				<p>Students with junior or senior standing may take COMM 10 concurrently with COMM 100A, B, or C or a COMM intermediate elective with department approval.</p>
+        <h3>Four Upper-Division Core Courses (sixteen units)</h3>
+        <p class="course-list-overview">*COMM 100A. Communication, the Person, and Everyday Life </p>
+				<p class="course-list-overview">*COMM 100B. Communication, Culture, and Representation</p>
+				<p class="course-list-overview">*COMM 100C. Communication, Institutions, and Power</p>
+				<p class="course-list-overview">*COMM 190. Junior Seminar in Communication</p>
+        <h3>Eight Upper-Division Electives (thirty-two units minimum)</h3>
+        <ul type="disc">
+          <li>Two advanced electives are required, which are      courses from COMM 120–189. <em>Prerequisites:</em> COMM 10 and at least one      COMM 100 course.</li>
+          <li>Six additional upper-division electives are      required and can be any combination of intermediate electives (COMM 101–119. <em>Prerequisites:</em> COMM 10.) and advanced electives (COMM 120–189. <em>Prerequisites:</em> COMM 10 and at least one COMM 100 course.)</li>
+        </ul>
+        
+        <p>*These courses must be taken at UC San Diego. </p>
+				<p class="basic-offset-top-only">The grading option for COMM 198, 199, and 197 is Pass/Not Pass. Only ONE may be applied to satisfy an upper-division elective for the major. AIP 197 must be petitioned for approval for the major.</p>
+<h3 class="program-overview-subhead-2">Residency Requirement</h3>
+				<p>Students are required to complete at least eleven classes of their overall work in the major at UC San Diego. Following are the communication classes required to be taken at UC San Diego. See your college adviser for further residency requirements.</p>
+        <p class="course-list-overview">COMM 10. Introduction to Communication</p>
+        <p class="course-list-overview">COMM 100A. Communication, the Person, and Everyday Life</p>
+        <p class="course-list-overview">COMM 100B. Communication, Culture, and Representation</p>
+        <p class="course-list-overview">COMM 100C. Communication, Institutions, and Power        </p>
+        <p class="course-list-overview">COMM 190. Junior Seminar in Communication</p>
+        <p><strong>Six upper-division electives in communication</strong></p>
+        <h3 class="program-overview-subhead-2">Requirements for the Communication Minor </h3>
+				<p>The communication minor at UC San Diego is a social science minor. None of the courses may be taken on a Pass/Not Pass basis. Students are required to take seven courses in communication as follows: </p>
+        <h4>One Lower-Division Core Course (four units)</h4>
+<p class="course-list-overview">*COMM 10. Introduction to Communication </p>
+				<h4>Two Upper-Division Core Courses (eight units)</h4>
+        <p>Choose two of the following courses: </p>
+        <p class="course-list-overview">*COMM 100A. Communication, the Person, and Everyday Life </p>
+                <p class="course-list-overview">*COMM 100B. Communication, Culture, and Representation</p>
+                <p class="course-list-overview">*COMM 100C. Communication, Institutions, and Power</p>
+                <h4><strong>Four</strong> Upper-Division Electives (sixteen units minimum)</h4>
+                <ul type="disc">
+                  <li>One advanced elective is required, which are      courses from COMM 120–189. <em>Prerequisites:</em> COMM 10 and at least one      COMM 100 course.</li>
+                  <li>Three additional upper-division electives are      required and can be any combination of intermediate electives (COMM 101–119. <em>Prerequisites:</em> COMM 10.) and advanced electives (COMM 120–189. <em>Prerequisites:</em> COMM 10 and at least one COMM 100 course.)</li>
+        </ul>
+           
+                <p>*These courses must be taken at UC San Diego.</p>
+				<p class="basic-offset-top-only"><strong>Note: </strong>COMM 195, 197, 198, and 199 may not be used as electives within the minor. AIP 197 cannot be petitioned for the minor.</p>
+				<h2>Study Abroad</h2>
+                <p>Communication majors are encouraged to participate in the UC Education Abroad Program (EAP) and the UC San Diego Opportunities Abroad Program (OAP). Interested students should contact the Study Abroad Office and visit the website at <a href="http://studyabroad.ucsd.edu" target="_blank">http://studyabroad.ucsd.edu</a>. Financial aid can be used for EAP and OAP study and special study abroad scholarships are available. </p>
+                <p>Communication majors who study abroad and satisfy specified requirements may add the Global Concentration in communication. </p>
+        <p>This concentration requires</p>
+                <ul>
+                  <li><span dir="LTR"> </span>A minimum of eight units earned through study abroad, of which a minimum of four units would count toward the major.</li>
+                  <li><span dir="LTR"> </span>Demonstration of proficiency in a second language through the fourth quarter of university-level instruction.</li>
+                  <li><span dir="LTR"> </span>A minimum of two courses with the department or program-identified global content. </li>
+                </ul>
+                <p>UC San Diego communication courses with global content are the following courses:<br>
+                </p>
+                <p class="course-list-overview">COMM 101E. MPL: Ethnographic Methods for      Media Production</p>
+                <p class="course-list-overview">COMM 104D. Comparative Media Systems      (CMS): Asia</p>
+                <p class="course-list-overview">COMM 104E. CMS: Europe</p>
+                <p class="course-list-overview">COMM 104F. CMS: Africa</p>
+                <p class="course-list-overview">COMM 104G. CMS: Latin America and the      Caribbean</p>
+                <p class="course-list-overview">COMM 106G. Cultural Industries (CI):      Tourism: Global Industry and Cultural Form</p>
+                <p class="course-list-overview">COMM 109E. Mass Communication (MC):      Political Economy of Mass Communication</p>
+                <p class="course-list-overview">COMM 112G. Interaction and Mediation      (IM): Language and Globalization</p>
+                <p class="course-list-overview">COMM 114J. Communication and Social      Institutions (CSI): Food Justice</p>
+                <p class="course-list-overview">COMM 128. Education and Global      Citizenship</p>
+                <p class="course-list-overview">COMM 135. Contemporary Minority Media      Makers and the Festival Experience</p>
+                <p class="course-list-overview">COMM 136. Transmedia</p>
+                <p class="course-list-overview">COMM 140. Cinema in Latin America</p>
+                <p class="course-list-overview">COMM 152. Global Economy and Consumer      Culture</p>
+                <p class="course-list-overview">COMM 158. Representations of the      Israeli/Palestinian Conflict</p>
+                <p class="course-list-overview">COMM 159. Tourism, Power, and Place</p>
+                <p class="course-list-overview">COMM 160. Political Economy and      International Communication</p>
+                <p class="course-list-overview">COMM 164. Behind the Internet: Invisible      Geographies of Power and Inequality</p>
+                <p class="course-list-overview">COMM 166. Surveillance, Media, and the      Risk Society</p>
+                <p class="course-list-overview">COMM 168. Bilingual Communication</p>
+                <p class="course-list-overview">COMM 175. Cultures of Consumption</p>
+                <p class="course-list-overview">COMM 177. Culture, Domination, and      Resistance</p>
+                <p class="course-list-overview">COMM 179. Global Nature/Global Culture</p>
+                <p class="course-list-overview">COMM 181. Neoliberal Cities: Cities and      Globalization</p>
+                <p class="course-list-overview">COMM 183. Global Economy and Consumer      Culture</p>
+                <p>Communication courses that fall outside of this list, such as course work completed abroad, would need to be petitioned individually on a case-by-case basis and be reviewed by the undergraduate faculty adviser for approval. </p>
+                <p>Interested students should see the department adviser for additional information.</p>
+                <h2 class="program-overview-subhead-1">The Honors Program</h2>
+				<p>The Department of Communication offers an Honors Program to those students who have demonstrated excellence in the communication major. Successful completion of the Honors Program enables the student to graduate With Highest Distinction, With High Distinction, or With Distinction, depending on performance in the program. The Honors Program requires an application. Students wishing to be considered need to include the following in their application: one faculty adviser signature who supports their admission to the program, a verified overall GPA of 3.0 and a major GPA of 3.5, and a brief but detailed description of the proposed research or creative project. </p>
+				<p>Applications will be reviewed by a faculty committee, accepting only students who meet these criteria. Once accepted into the Honors Program, students are required to complete a two-quarter course sequence, COMM 196A/196B in their senior year. Upon completion of the Honors Seminar sequence, honors will be determined as follows:</p>
+                <ul>
+                  <li>Students with at least a 3.25 GPA in the major and a B or better in the Honors Seminar will be awarded Distinction.</li>
+                  <li>Students whose overall GPA is above 3.7 and below 3.9 (50 percent on the project grade; 50 percent on the major GPA) will be awarded High Distinction.</li>
+                  <li>Students whose overall GPA is 3.9 or above (50 percent on the project grade; 50 percent on the major GPA) will be awarded Highest Distinction.
+                    <div>
+                      <div> </div>
+                      <div> </div>
+                    </div>
+                  </li>
+                </ul>
+	  <!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

@@ -1,0 +1,168 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Design Courses</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopMargin">Design </h1>
+<p><span class="courseFacLink">[ <a href="../curric/DSGN.html">program</a> | <a href="../faculty/DSGN.html">faculty</a> ]</span> </p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/Course Name and Disclaimer.lbi" -->
+<h2>Courses</h2>
+<p class="course-disclaimer"><em>For course descriptions not found in the </em>UC
+  San Diego General Catalog 2019&#8211;20<em>, please contact the department
+  for more information.</em></p><!-- #EndLibraryItem --><h2 class="course-subhead-1">Lower Division </h2>
+				<p class="anchor-parent"><a class="anchor" id="dsgn1" name="dsgn1" /></a></p><p class="course-name">DSGN 1. Design of Everyday Things (4)</p>
+		<p class="course-descriptions">A project-based course examining how principles from cognitive science apply to the design of things simple (doors) and complex (new technology). Learn about affordances, constraints, mappings, and conceptual models. Learn observational and design skills. Become a human-centered design thinker. </p>
+		<p class="anchor-parent"><a class="anchor" id="dsgn90" name="dsgn90" /></a></p><p class="course-name">DSGN 90. Undergraduate Seminar (1)</p>
+		<p class="course-descriptions">Special topics in design are discussed. P/NP grades only. May be taken for credit four times when topics vary.</p>
+		<p class="anchor-parent"><a class="anchor" id="dsgn99" name="dsgn99" /></a></p><p class="course-name">DSGN 99. Independent Study (2 or 4)</p>
+		<p class="course-descriptions">Independent literature or laboratory research by arrangement with and under direction of a design faculty member. P/NP grades only. May be taken for credit three times. <strong class="italic">Prerequisites:</strong> lower-division standing, completion of thirty units of UC San Diego undergraduate study, a minimum UC San Diego GPA of 3.0, and a completed and approved Special Studies form.</p>
+<h2 class="course-subhead-1">Upper Division </h2>
+				<p class="anchor-parent"><a class="anchor" id="dsgn100" name="dsgn100" /></a></p>
+				<p class="course-name">DSGN 100. Prototyping  (4)</p>
+				<p class="course-descriptions">Explores cognitive principles of thinking through making. Introduces methods and tools for prototyping user experiences. Students make various prototypes and participate in weekly critique sessions. Topics: experience design, rapid prototyping, sketching, bodystorming, cardboard modeling, UI hacking, and design theory. <strong class="italic">Prerequisites:</strong> DSGN 1.</p>
+				<p class="anchor-parent"><a class="anchor" id="dsgn119" name="dsgn119" /></a></p>
+				<p class="course-name">DSGN 119. Design at Large (2)</p>
+		<p class="course-descriptions">New societal challenges, cultural values, and technological opportunities are changing design—and vice versa. The seminar explores this increased scale, real-world engagement, and disruptive impact. Invited speakers from UC San Diego and beyond share cutting-edge research on interaction, design, and learning. P/NP grades only. May be taken for credit up to four times. <strong class="italic">Prerequisites:</strong> COMM 124A or COGS 10 or DSGN 1. </p>
+				<p class="anchor-parent"><a class="anchor" id="dsgn160" name="dsgn160" /></a></p><p class="course-name">DSGN 160. Special Topics in Design (4)</p>
+				<p class="course-descriptions">Special topics in design. May be taken for credit three times when topics vary. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+					<p class="anchor-parent"><a class="anchor" id="dsgn161" name="dsgn161" /></a></p><p class="course-name">DSGN 161. Design Project (4)</p>
+				<p class="course-descriptions">Special topics in design. May be taken for credit three times when topics vary. Recommended preparation: may require shop skills. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+					<p class="anchor-parent"><a class="anchor" id="dsgn195" name="dsgn195" /></a></p><p class="course-name">DSGN 195. Instructional Apprenticeship in Design (4)</p>
+				<p class="course-descriptions">Students, under the direction of the instructor, lead laboratory or discussion sections, attend lectures, and meet regularly with the instructor to help prepare course materials and grade papers and exams. P/NP grades only. May be taken for credit two times. <strong class="italic">Prerequisites:</strong> upper-division standing, 3.0 GPA, consent of instructor, and department approval.</p>
+				<p class="anchor-parent"><a class="anchor" id="dsgn198" name="dsgn198" /></a></p><p class="course-name">DSGN 198. Directed Group Study (2 or 4)</p>
+				<p class="course-descriptions">This directed group study course is for small groups of advanced students who wish to complete a one-quarter reading or research project under the mentorship of a faculty member. Students should contact faculty whose research interests them to discuss possible projects. P/NP grades only. May be taken for credit up to three times. <strong class="italic">Prerequisites:</strong> upper-division standing, 2.5 GPA, consent of instructor, and department approval.</p>
+<p class="anchor-parent"><a class="anchor" id="dsgn199" name="dsgn199" /></a></p>
+					<p class="course-name">DSGN 199. Independent Project (2 or 4)</p>
+				<p class="course-descriptions">This independent project course is for individual, advanced students who wish to complete a design project under the mentorship of a faculty member. Students should contact faculty whose research interests them to discuss possible projects. P/NP grades only. May be taken for credit three times. <strong class="italic">Prerequisites:</strong> upper-division standing, 2.5 GPA, consent of instructor, and department approval.		</p>
+				<h2 class="course-subhead-1">Graduate </h2>
+        	<p class="anchor-parent"><a class="anchor" id="dsgn260" name="dsgn260" /></a></p>
+                <p class="course-name">DSGN 260. Advanced Topics in Design (4)</p>
+                <p class="course-descriptions">Special topics in design. May be taken for credit eighteen times. <strong class="italic">Prerequisites:</strong> graduate standing and consent of instructor.</p>
+               <p class="anchor-parent"><a class="anchor" id="dsgn261" name="dsgn261" /></a></p><p class="course-name">DSGN 261. Advanced Design Project (4)</p>
+                <p class="course-descriptions">Special topics in design. S/U grades only. May be taken for credit three times. Recommended preparation: may require maker-lab or shop skills. <strong class="italic">Prerequisites:</strong> graduate standing and consent of instructor.</p>
+                <p class="anchor-parent"><a class="anchor" id="dsgn299" name="dsgn299" /></a></p>
+                <p class="course-name">DSGN 299. Independent Project (2 or 4)</p>
+                <p class="course-descriptions">Students study, research, and implement project under the direction of a member of the faculty. S/U grades only. May be taken for credit three times. Recommended preparation: may require maker-lab or shop skills. <strong class="italic">Prerequisites:</strong> graduate standing and consent of instructor.		</p>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

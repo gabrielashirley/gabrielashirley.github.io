@@ -1,0 +1,395 @@
+<!doctype html>  
+<html lang="en"><!-- InstanceBegin template="/Templates/current template.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Academic Regulations and Policies</title>
+<!-- InstanceEndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- InstanceBeginEditable name="main text" -->
+
+				<h1>Academic Regulations and Policies
+				</h1>
+				<h2><a href="http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Regulations/501" target="_blank">Adding and Dropping Courses</a></h2>
+<p>A student may add a course before the end of the second week of instruction of a quarter, and with the approval of the instructor and department, add a course to the study list before the end of the final week of instruction.</p>
+        <p>A student may drop a course  via <a href="http://tritonlink.ucsd.edu" target="_blank">TritonLink</a> based on the following deadlines:</p>
+<ul type="disc">
+    <li>A course dropped before the end of the fourth week of instruction will not appear on the student&rsquo;s transcript. <strong><br>
+    </strong><strong>Note</strong>: Students who drop certain laboratory courses after the second scheduled meeting period will receive a W grade.</li>
+    <li>If a student drops a course after the end of the fourth week of instruction, the registrar will assign a final grade of W to the student for that course. Students may only receive one W per course.</li>
+    <li>An undergraduate student may not drop a course after the end of the sixth week of instruction, unless permitted to do so by petition for emergency reasons before the end of the tenth week of instruction. For such petitions, approval may be granted by a student&rsquo;s college provost.* </li>
+    <li>A graduate student may not drop a course after the end of the ninth week of instruction unless permitted to do so by petition for emergency reasons before the end of the tenth week of instruction. For such petitions, approval may be granted by the dean of the Graduate Division. <br>
+    </li>
+    </ul>
+                <p class="note"><strong>*</strong>Effective fall 2018, the deadline for undergraduate students to drop a course and be assigned a final grade of W changed from the end of the ninth week of instruction to the end of the sixth week. </p>
+                
+                <p>A student who wishes to drop all courses is required to file an undergraduate request for withdrawal form with the college academic advising or dean&rsquo;s office. <a href="https://students.ucsd.edu/academics/enroll/withdrawal/undergraduates.html" target="_blank">https://students.ucsd.edu/academics/enroll/withdrawal/undergraduates.html</a>                </p>
+                <h2>Auditing of Courses</strong></h2>
+        <p>Interested individuals, including registered students, are permitted to audit courses only with the explicit and continuing consent of—and under such rules as may be established by—the faculty member in charge of the course. The instructor is not obligated to devote time to the work of individuals not officially enrolled in the course. All persons auditing are required to abide by university policies and campus regulations.        </p>
+        <h2><a href="http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Regulations/510" target="_blank">Credit by Examination</a></h2>
+                <p>Credit by examination may be authorized and given by the instructor for a course with the concurrence of the student&rsquo;s provost (or dean). The examination will cover work for the entire course. </p>
+        <p>The student requesting credit by examination must not have already received a grade or a W in the course. </p>
+                <p>The student requesting credit by examination must be registered and in good academic standing. </p>
+                <p>A part-time student who, by registering to take a course credit by examination, surpasses the number of units allowed for part-time status, must register and pay fees as a full-time student. </p>
+                <p>If credit by examination is authorized, the student will receive a grade of A+, A, A–, B+, B, B–, C+, C, C–, D, or F unless the student&rsquo;s petition for examination specifies the grade to be Pass or Not Pass. The student&rsquo;s record will indicate that the course was attempted through credit by examination.</p>
+                <h2>Examinations        </h2>
+        <h4>Policy on Religious Accommodation </h4>
+        <p>It is the policy of the university to make reasonable efforts to accommodate students having bona fide religious conflicts with scheduled examinations by providing alternative times or methods to take such examinations. If a student anticipates that a scheduled examination will occur at a time at which his or her religious beliefs prohibit participation in the examination, the student must submit to the instructor a statement describing the nature of the religious conflict and specifying the days and times of conflict.</p>
+                <ol>
+                  <li><span dir="LTR"> </span>For final examinations, the statement must be submitted no later than the end of the second week of instruction of the quarter.</li>
+                  <li><span dir="LTR"> </span>For all other examinations, the statement must be submitted to the instructor as soon as possible after a particular examination date is scheduled.</li>
+                  <li><span dir="LTR"> </span>If a conflict with the student&rsquo;s religious beliefs does exist, the instructor will attempt to provide an alternative, equitable examination which does not create undue hardship for the instructor or for the other students in the class.</li>
+        </ol>
+        <h4>Policy on Final Examinations</h4>
+                <ul>
+                  <li>Academic Senate regulations specify that final examinations are required in all undergraduate courses, unless an exception has been approved by the Undergraduate Council (UGC). Final examinations are, however, normally not required in laboratory courses. </li>
+                  <li>Final examinations may not be given at any time before examination week without explicit approval of UGC. </li>
+                  <li>Although the instructor may give a final examination at an alternative time during final examination week with the approval of UGC, students must be permitted to take an equivalent examination at the originally scheduled time if they so desire. </li>
+                  <li>An instructor may administer an examination at an alternative time if a valid reason is given by the student for not taking the regularly scheduled examination. Valid reasons include serious illness and family disasters. Rescheduling as a result of a religious obligation is governed by the UC San Diego policy on religious accommodation. </li>
+                  <li>No student may be excused from assigned final examinations. </li>
+                  <li>A final examination must, whenever practicable, be written and must be completed by all participants within a previously announced time limit. </li>
+                  <li>Final examinations in nonlaboratory courses may not exceed three hours in duration. </li>
+                  <li>No      instructor may require a take-home final examination be turned in before      the date and hour at which the examination for the course was scheduled by      the registrar&rsquo;s office. </li>
+               
+                  <li>Faculty      members (including visiting faculty) must be available to students during      final examination week up to the time when the final examinations of their      courses are given, and must be physically present in the examination room      for the entire final examination, except in special cases when an exam is      given in more than one room. In cases where the approved absence of a      course instructor cannot be avoided, the department chair or program      director must approve designating another faculty member to administer the      final examination. Nevertheless, faculty course instructors themselves      must assign grades for the courses they teach. </li>
+                    <li>Department      chairs must approve of faculty absences during finals week and only in      cases where arrangements to administer the final examination have been      worked out in advance.</li>
+                </ul>
+                
+                <p>In laboratory courses, the department concerned may, at its option, require a final examination subject to prior announcement in the <a href="https://act.ucsd.edu/cgi-bin/tritonlink.pl/2/students/academic/classes/schedule_of_classes.pl" target="_blank">Schedule of Classes</a>.</p>
+                <h4>Policy on Midterm Examinations</h4>
+<ul>
+    <li>Faculty are obliged to have posted in the <a href="https://act.ucsd.edu/cgi-bin/tritonlink.pl/2/students/academic/classes/schedule_of_classes.pl" target="_blank">Schedule of Classes</a> the date and time of any midterm which is to be given outside of the regularly scheduled class hours. </li>
+    <li>Additionally, any midterm given outside of the regularly scheduled class hours must be announced in a syllabus distributed to the class at the beginning of the quarter.</li>
+    <li>Midterms given outside regularly scheduled class hours may not exceed two hours in duration. Any midterm given during regularly scheduled class hours may not exceed the scheduled length of the class.</li>
+    </ul>
+                <h3>Retention of Examination Papers</h3>
+                <p>Instructors are required to retain examination papers for at least one full quarter following the final examination period, unless the papers have been returned to the students.</p>
+                <h2><a id="grading"></a><a href="http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Regulations/500" target="_blank">Grading</a></h2>
+                <p>Grades in undergraduate courses are defined as follows: A, excellent; B, good; C, fair; D, poor; F, fail; I, incomplete (work of passing quality but incomplete for good cause); and IP (In Progress). The designations P (Pass) and NP (Not Pass) are used in reporting grades for some undergraduate courses. P denotes a letter grade of C– or better. A blank grade indicates no record or no report of grade was received from the instructor. W is recorded on the transcript indicating the student withdrew or dropped the course sometime after the beginning of the fifth week of a quarter.</p>
+                <p><strong>Note:</strong> Students who drop certain laboratory courses after the second scheduled meeting period will receive a W grade.</p>
+                <p>Instructors have the option of assigning plus (+) and minus (–) suffixes to the grades A, B, and C. This option became available as of fall 1983.</p>
+                <h3><a name="gradeappeals"></a><a href="http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Regulations/502" target="_blank">Grade Appeals</a></h3>
+                <p>If a student believes that nonacademic criteria have been used in determining his or her grade in a course, he or she may follow the following procedures (San Diego Academic Senate Regulation 502). Nonacademic criteria means criteria not directly reflective of academic performance in the course. It includes discrimination on political grounds or based on a protected trait, including but not limited to a student&rsquo;s gender, race, religion, national origin, sexual orientation, or disability.   Appeals to the Educational Policy Committee shall be considered confidential. Neither any member of the committee nor the Academic Senate Office shall release any information about the appeal except as specifically provided in the <a href="http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Regulations/502" target="_blank">Grade Appeals Regulation</a>.<strong> </strong>If a medical student wishes to appeal a grade in a School of Medicine course, he or she must follow procedures described in <a href="http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Regulations/503" target="_blank">San Diego Academic Senate Regulation 503</a>.</p>
+        <p>The student must attempt to resolve the grievance with the instructor within the first month of the following regular academic quarter. If the grievance is not resolved to the student&rsquo;s satisfaction, he or she may then attempt to resolve the grievance through written appeal to the department chair or equivalent, who shall attempt to adjudicate the case with the instructor and the student within two weeks. If the grievance still is not resolved to the student&rsquo;s satisfaction, he or she may then attempt to resolve the grievance through written appeal to the provost of his or her college, or the dean of the Graduate Division, who shall attempt to adjudicate the case with the instructor, the chair, and the student within two weeks. If the grievance is not resolved to the student&rsquo;s satisfaction by the provost or dean, the student may request consideration of the appeal by the Educational Policy Committee (hereinafter called the Committee) according to the procedures outlined below. This request must be submitted before the last day of instruction of the quarter following the quarter in which the course was taken.</p>
+<div>
+    <div> </div>
+    </div>
+<p>The student&rsquo;s request for Committee consideration should include a written statement outlining the nature of the grievance, including copies of any and all documents in his or her possession supporting the grievance. The submission of the statement to the Committee places the case before it and restricts any change of the challenged grade to a change initiated by the Committee, unless the Committee determines that all other avenues of adjudication have not been exhausted.</p>
+        <p>Upon receipt of the student&rsquo;s request, the Committee immediately forwards a copy of it to the instructor, the department chair or equivalent, and the provost or dean with a request for written reports of their attempts to resolve the complaint. The Committee, after having determined that all other avenues of adjudication have been exhausted, shall review the complaint and the reports to determine if there is substantial evidence that nonacademic criteria were used. </p>
+        <p>If the Committee finds substantial evidence that nonacademic criteria were used, it shall follow the following procedure:</p>
+        <ol>
+          <li>The Committee shall interview any individual whose testimony might facilitate resolution of the case. The complainant shall make available to the Committee all of his or her work in the course that has been graded and is in his or her possession. The instructor shall make available to the Committee all records of student performance in the course and graded student work in the course that is still in his or her possession. At the conclusion of the case each document shall be returned to the source from which it was obtained. </li>
+          <li>The Committee shall complete its deliberations and arrive at a decision within two weeks of its determination that evidence of the use of nonacademic criteria had been submitted. A record of the Committee&rsquo;s actions in the case shall be kept in the Academic Senate Office for three years. </li>
+          <li>If the allegations of the complainant are not upheld by a preponderance of the evidence, the Committee shall so notify the complainant and the instructor in writing. Within one week of such notification, the complainant and the instructor shall have the opportunity to respond to the findings and the decision of the Committee. If there are no responses, or if after considering such responses the Committee sustains its decision, it shall so notify the complainant and the instructor in writing and the grade shall not be changed.</li>
+          <li>If the Committee determines that nonacademic criteria were significant factors in establishing the grade, it shall give the student the option of either receiving a grade of P or S in the course or retroactively dropping the course without penalty. A grade of P or S awarded in this way shall be acceptable toward satisfaction of any degree requirement, even if a minimum letter grade in the course had been required, and shall not be counted in the number of courses a student may take on a P/NP basis. If the student elects to receive a grade of P or S, the student may also elect to have a notation entered on his or her transcript indicating that the grade was awarded by the divisional grade appeals committee. <br>
+          <ol type="a"><li>
+            The Committee shall serve written notification of its finding and its decision to the complainant and the instructor. The complainant and the instructor may respond in writing to the findings and the decision of the Committee within one week of such notification.</li>
+          <li>If there are no responses, or if after considering such responses the Committee sustains its decision, the grade shall be changed; the Committee shall then instruct the registrar to change the grade to P or S or, if the student elected the drop option, to retroactively drop the course from the student&rsquo;s record. Copies of the Committee&rsquo;s instruction shall be sent to the complainant and the instructor.</li></ul>
+        </ol>
+        <p>If the Committee decides the allegations are without substance, it shall serve written notification of its findings to the complainant and to the instructor within two weeks. Within ten days the complainant or the instructor may respond to the findings. If there are no responses, or if after consideration of such responses the Committee sustains its decision, the grade shall not be changed.</p>
+        <p>These procedures are designed solely to determine whether nonacademic criteria have been used in assigning a grade, and if so to effect a change of that grade. </p>
+                <p>No punitive actions may be taken against the instructor solely on the basis of these procedures. Neither the filing of charges nor the final disposition of the case shall, under any circumstances, become a part of the personnel file of the instructor. The use of nonacademic criteria in assigning a grade is a violation of the Faculty Code of Conduct. Sanctions against an instructor for violation of the Faculty Code may be sought by filing a complaint in accordance with <a href="http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Bylaws/230" target="_blank">San Diego Division Bylaw 230(D)</a>. A complaint may be filed by the student or by others. </p>
+        <p>No punitive actions may be taken against the complainant solely on the basis of these procedures. Neither the filing of charges nor the final disposition of the case shall, under any circumstances, become a part of the complainant&rsquo;s file.The instructor may, if he or she feels that his or her record has been impugned by false or unfounded charges, file charges against the complainant through the office of the vice chancellor for Student Affairs or the dean of the Graduate Division.</p>
+        <div>
+          <div> </div>
+        </div>
+<h3><a href="http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Regulations/500#G" target="_blank">Blank on Student Transcript</a></h3>
+                <p>If a student&rsquo;s name appears on the end of quarter course list for a course, but no grade is reported, the registrar will leave a blank for that course on the student&rsquo;s transcript.</p>
+                <p>A blank which is not replaced by a grade assigned by the instructor, after one quarter on a student&rsquo;s record, will then be replaced by an F, NP, or U grade. </p>
+<h3>Changes in Grades</h3>
+                <p>All grades except I and IP are final when filed by instructors. However, a final grade may be corrected when a clerical or procedural error is discovered. No change of a final grade may be made on the basis of revision or augmentation of a student&rsquo;s work in the course. No term grade except Incomplete may be revised by further examination. No grade may be changed after one calendar year from the time the grade was recorded.</p>
+                <h3><a href="http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Regulations/500#A" target="_blank">Grades and Grade Points</a></h3>
+                <p>The work of students will be reported in terms of the following grades: A (excellent), B (good), C (fair), D (poor), F (fail), I (incomplete), IP (in progress), P (pass), NP (not pass), S (satisfactory), U (unsatisfactory). The grades A, B, and C may be modified by plus (+) and minus (‑) suffixes.</p>
+                <p>At the end of each quarter, the instructor of each course will assign a letter grade to each undergraduate student who was enrolled in that course at the end of the sixth week of instruction and each graduate student who was enrolled in that course at the end of the ninth week of instruction on the basis of the work required for the entire course. An I grade may be assigned, if appropriate.</p>
+<p>For each student, the registrar will calculate a grade point average (GPA) over courses taken at any campus of the University of California, not including UC San Diego Extension courses. Grade points per unit will be assigned as follows: A = 4, B = 3, C = 2, D = 1, F = 0. When attached to the grades of B and C, plus (+) grades carry three-tenths of a grade point more per unit. The grade of A+, when awarded, represents extraordinary achievement but does not receive grade point credit beyond that received for the grade of A. When attached to the grades of A, B and C, minus (–) grades carry three-tenths of a grade point less per unit than the unsuffixed grades. Courses in which an I, IP, P, NP, S, U, or W grade has been awarded will be disregarded in grade point calculations. A graduate student&rsquo;s GPA will be calculated over courses taken while in graduate standing.<br>
+</p>
+<table border="0" cellspacing="0" cellpadding="0">
+                  <tr align = "center">
+                    <td height="28" colspan="2" align="center" valign="top"><h4><strong>Grade</strong></h4></td></tr>
+                  <tr>
+                    <td width="75" valign="top"><p><strong>Grade</strong></p></td>
+                    <td width="53" valign="top"><p><strong>Points</strong></p></td>
+                  </tr>
+                  <tr>
+                    <td width="75" valign="top">A+</td>
+                    <td width="53" valign="top">4.0</td>
+                  </tr>
+                  <tr>
+                    <td width="75" valign="top">A</td>
+                    <td width="53" valign="top">4.0</td>
+                  </tr>
+                  <tr>
+                    <td width="75" valign="top">A–</td>
+                    <td width="53" valign="top">3.7</td>
+                  </tr>
+                  <tr>
+                    <td width="75" valign="top">B+</td>
+                    <td width="53" valign="top">3.3</td>
+                  </tr>
+                  <tr>
+                    <td width="75" valign="top">B</td>
+                    <td width="53" valign="top">3.0</td>
+                  </tr>
+                  <tr>
+                    <td width="75" valign="top">B–</td>
+                    <td width="53" valign="top">2.7</td>
+                  </tr>
+                  <tr>
+                    <td width="75" valign="top">C+</td>
+                    <td width="53" valign="top">2.3</td>
+                  </tr>
+                  <tr>
+                    <td width="75" valign="top">C</td>
+                    <td width="53" valign="top">2.0</td>
+                  </tr>
+                  <tr>
+                    <td width="75" valign="top">C–</td>
+                    <td width="53" valign="top">1.7</td>
+                  </tr>
+                  <tr>
+                    <td width="75" valign="top">D</td>
+                    <td width="53" valign="top">1.0</td>
+                  </tr>
+                  <tr>
+                    <td width="75" valign="top">F</td>
+                    <td width="53" valign="top"> 0</td>
+                  </tr>
+                </table>
+<p>The grade point average is computed by dividing the total number of grade points earned by the total unit value of letter-graded courses completed. </p>
+                <p> </p>
+                <h3><a href="http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Regulations/500#B" target="_blank">Incomplete (I) Grade</a></h3>
+                <h4>Intended Use of the Incomplete</h4>
+                <p>The Incomplete is intended for use when circumstances <em>beyond a student&rsquo;s control</em> prohibit taking the final exam or completing course work. An Incomplete may not be used simply to allow a bit more time for an undergraduate student who has fallen behind for no good reason. An Incomplete may be granted only to students who have a legitimate excuse. Examples of unacceptable reasons for approving an Incomplete include the need to rewrite a paper; the demands of a time-consuming job; the desire to leave town for a vacation, family gathering, or athletic contest; the desire to do well on GRE tests; and the like.</p>
+                <p>The Incomplete is not intended as a mechanism for allowing a student to retake a course. A student who has fallen substantially behind and needs to repeat a course can drop the course prior to the end of the sixth week of classes for undergraduate students and prior to the end of the ninth week of classes for graduate students. Otherwise, the instructor should assign the appropriate final grade (D, F, NP, or U, for example).</p>
+<p>Undergraduate and graduate students whose work is of non-failing quality but incomplete for good cause, such as illness, may refer to &ldquo;<a href="https://students.ucsd.edu/academics/exams-grades-transcripts/grades/request-remove-incomplete.html" target="_blank">How to Request/Remove an Incomplete</a>.&rdquo; Your instructor may require the submission of an Incomplete form. If the form is required by the instructor, students should complete their portion of the request form, including the reason they are requesting the Incomplete, and provide appropriate documentation to support their request (e.g., doctor&rsquo;s note).            </p>
+<p>The instructor has the option to approve or disapprove the request and should state clearly how and when the I is to be completed. If approved, the instructor assigns the I grade to the student.</p>
+<ul>
+      <li>The deadline for filing a request for an Incomplete shall be no later than the first working day after final examination week. </li>
+      <li>An instructor may not grant a request for an Incomplete for other than such good cause.</li>
+      <li>The instructor shall make arrangements with the student for completion of the work required at the earliest possible date, but no later than the last day of finals week in the following quarter. If not replaced by this date, the I grade will lapse into a failing grade.</li>
+      <li>The instructor may neither agree nor require that the student wait until the next time the course is offered in order to make up incomplete work, but must make individual arrangements for the timely completion of the work.</li>
+      <li>Students must complete the work to remove the Incomplete on or before the date agreed upon with the instructor and in time for the instructor to assign a grade <strong>before the end of finals week the following quarte</strong><strong>r</strong>.</li>
+      <li>Except as provided under <a href="http://senate.universityofcalifornia.edu/bylaws-regulations/regulations/rpart3.html#r634" target="_blank">Systemwide Academic Senate Regulation 634</a>, the I grade shall be disregarded in determining a student’s grade point average.</li>
+      </ul>
+                <p>Academic Senate regulations state that the Incomplete grade (I) for undergraduates shall be disregarded in determining a student&rsquo;s grade point average, except at point of graduation, when students must have an overall 2.0 (C) on all work attempted at the University of California. All work required for a degree must be completed by the end of the quarter the student filed for graduation. Notice to graduating seniors: requesting an &ldquo;Incomplete&rdquo; in a student&rsquo;s final quarter, or extending an &ldquo;Incomplete&rdquo; past the quarter requested for graduation will delay a student&rsquo;s graduation date. Students must also submit a new degree and diploma application form for the new quarter of graduation.</p>
+                <div>
+                  <div> </div>
+                </div>
+                <p>A student who has received an I grade should not reenroll in the course to make up the missing work. If the student were to reenroll, the course would be considered a repeat and would not remove the prior quarter&rsquo;s Incomplete, which would lapse to a permanent F, NP, or U grade.</p>
+                <h4>Extension of Incomplete</h4>
+                <p>For justifiable reasons, such as illness, students can petition to extend the Incomplete past one quarter. Petitions to extend the Incomplete must be submitted to the Academic Senate and must have the prior approval of the instructor, the department chair, and the college provost (for undergraduate students) or the dean of the Graduate Division. Requests for extensions must be submitted before the Incomplete grade lapses to a failing grade. The extension cannot be made retroactively.</p>
+                <h3><a href="http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Regulations/500#C" target="_blank">In Progress (IP) Grade</a></h3>
+                <p>For exceptional and compelling reasons, a course extending over more than one quarter may be authorized with the prior approval of the Undergraduate Council (for undergraduate courses) or the Graduate Council (for graduate courses). In such courses an evaluation of a student&rsquo;s performance may not be possible until the end of the final term. In such cases the instructor may assign the provisional grade IP (In Progress).</p>
+                <p>IP grades shall be replaced by final grades if the student completes the full sequence. The instructor may assign final grades, grade points, and unit credit for completed terms when the student has not completed the entire sequence provided that the instructor has a basis for assigning the grades and certifies that the course was not completed for good cause. An IP not replaced by a final grade will remain on the student&rsquo;s record.</p>
+                <p>In calculating a student&rsquo;s grade point average, grade points and units for courses graded IP shall not be counted. However, at graduation, courses still on the record as graded IP must be treated as courses attempted in computation of the student&rsquo;s grade point average in assessing a student&rsquo;s satisfaction of the <a href="http://senate.universityofcalifornia.edu/bylaws-regulations/regulations/rpart3.html#r634" target="_blank">Minimum Standards for Graduation</a>.</p>
+                <h3><a href="http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Regulations/500#D" target="_blank">Pass/Not Pass Grade</a></h3>
+                <p>The Pass/Not Pass option is designed to encourage undergraduate students to venture into courses that they might otherwise hesitate to take because they are uncertain about their aptitude or preparation. Consistent with college policy, an undergraduate student in good standing may elect to be graded on a P/NP basis in a course. With the exception of units earned in independent study courses (numbered 199), no more than 25 percent of an undergraduate student&rsquo;s total UC San Diego units may be taken on a P/NP basis. Departments may require that courses applied toward the major be taken on a letter-grade basis. <strong>Selection of this option must take place within the first four weeks of the course.</strong> A grade of Pass shall be awarded only for work that otherwise would receive a grade of C– or better. Units passed shall be counted in satisfaction of degree requirements, but such courses shall be disregarded in determining a student&rsquo;s grade point average.</p>
+                <p>If students wish to change their selected grading option after enrolling, they may use WebReg in <a href="http://tritonlink.ucsd.edu" target="_blank">TritonLink</a>, or complete an add/change/drop card and file it at the <a href="http://students.ucsd.edu/academics/_organizations/registrar/index.html" target="_blank">Office of the Registrar</a>. The last day to change grading options is the end of the fourth week of instruction.<strong> </strong></p>
+                <p>Only a grade of P or NP is to be assigned for courses numbered 97, 98, 99, 195, 197, 198, and 199. Subject to the approval of the Undergraduate Council, departments may impose additional limitations or restrictions.<strong> </strong></p>
+                <p>Only a grade of P or NP is to be assigned an undergraduate student&rsquo;s work in a noncredit (zero-unit) course.<strong> </strong></p>
+                <p><strong>Note</strong>: See &ldquo;<a href="UndergradColleges.html">Undergraduate Colleges&rdquo;</a> section for further information regarding the P/NP grading option.<strong> </strong></p>
+                <h3><a href="http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Regulations/500#E" target="_blank">Satisfactory/Unsatisfactory (S/U) Grade</a></h3>
+                <p>The minimum standard of performance for a grade of Satisfactory shall be the same as the minimum for a grade of B–. With the approval of the Graduate Council, departments may offer graduate courses in which graduate students may elect to be evaluated on an S/U basis and courses in which S/U grading shall be the only grading option. In addition, and with the approval of the department and the instructor concerned, graduate students may elect to have the following courses graded on an S/U basis: any upper-division or lower-division course taken (provided they have obtained approval of the instructor and the department), and any graduate course outside their major department.  If departmental requirements have been fulfilled for advancement to candidacy for the doctoral degree, graduate students may take any course on an S/U basis. Selection of S/U as a grading option must be made in the first two weeks of a quarter. Units graded Satisfactory shall be counted in satisfaction of degree requirements but shall be disregarded in determining a student&rsquo;s grade point average. No credit shall be allowed for work marked Unsatisfactory.</p>
+                <h3><a href="http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Regulations/500#F" target="_blank">W Grade</a></h3>
+                <p>When an undergraduate or graduate student withdraws from the university or drops a course, other than a laboratory course, after the end of the fourth week of instruction, the registrar will assign a W to the student for each course affected. Only the registrar may assign a W.</p>
+<p><strong>Note:</strong> Undergraduate students  who drop certain laboratory courses after the second scheduled meeting period will receive a W grade.</p>
+                <p>Courses in which a W has been entered on the student&rsquo;s transcript will be disregarded in determining a student&rsquo;s grade point average.</p>
+                <p>Except as provided in <a href="http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Regulations/501" target="_blank">Academic Senate regulations regarding withdrawal</a>, a student may receive a maximum of one W per course.</p>
+                <h2><a href="http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Regulations/525" target="_blank">Instructional Apprentice, Undergraduate</a></h2>
+                <p>An undergraduate instructional apprentice is an undergraduate student who serves as an assistant in an undergraduate course under the supervision of a faculty member. The purpose of the apprenticeship is to learn the methodology of teaching through actual practice in a regularly scheduled course. </p>
+                <ul type="disc">
+                  <li>An undergraduate instructional apprentice shall      be an upper-division student. </li>
+                  <li>Students are not permitted to assist in courses      in which they are enrolled. </li>
+                  <li>An undergraduate instructional apprentice must      have a minimum grade point average of 3.0. Departments may establish      higher grade point average requirements. </li>
+                  <li>The faculty instructor is responsible for course      content and for maintaining the overall quality of instruction, including      supervision of undergraduate instructional apprentices. The faculty      instructor is responsible for all grades given in the class. </li>
+                  <li>The instructor is expected to meet regularly with      the undergraduate instructional apprentice to evaluate the student&rsquo;s      performance and to provide the direction needed for a worthwhile      educational experience. </li>
+                  <li>An undergraduate instructional apprentice may      receive credit on a Pass/Not Pass basis only (through registration in a      195 course), subject to approval by the Undergraduate Council. </li>
+                  <li>A student may not be an undergraduate instructional      apprentice more than once for the same course for credit. </li>
+                  <li>A student may not be an undergraduate instructional      apprentice in more than one course in a quarter. </li>
+                  <li>The total credit accumulated as an undergraduate instructional      apprentice shall not exceed eight units. </li>
+                </ul>
+                <h3>Procedure</h3>
+                <p>All departments and programs using undergraduate instructional apprentices shall submit to the Undergraduate Council a description of the role of the undergraduate instructional apprentice, as part of the petition for approval. Any deviation from the guidelines above must be explained and justified in a memo accompanying the petition. Any major change in the function or duty of the apprentice in a course should also be approved by Undergraduate Council. <strong>All UGIA applications must be received by the Undergraduate Council prior to the start of the quarter in which the student is to apprentice. </strong></p>
+                <h2><a name="integrity"></a><a href="http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Appendices/2" target="_blank">Integrity of Scholarship, UC San Diego Policy</a></h2>
+                <h2><a href="http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Regulations/600#I" target="_blank">Part-Time Study</a></h2>
+                <ul>
+                  <li>Degree programs in the university may be open to part-time undergraduate students wherever good educational reasons exist for so doing. No majors or other degree programs will be offered only for part-time students, except as specifically authorized by the Academic Senate.<strong></strong></li>
+                  <li>A part-time undergraduate student is one who is approved to enroll for ten units or fewer, or an equivalent number of courses, per quarter. </li>
+                  <li>The same admissions standards that apply to full-time students will apply to part-time students. Approval for individual students to enroll on a part-time basis will be given for reasons of occupation, family responsibilities, health, or, for one quarter only, graduating senior status.</li>
+                  <li>Approval to enroll as a part-time student shall be given by the appropriate dean or provost.</li>
+                  <li>Residence in any regular term is validated for a part-time student on the San Diego campus by a program of one or more courses. Part-time undergraduate students shall not be required to meet the minimum progress requirement. </li>
+                </ul>
+                <h3>Procedures</h3>
+                <p>Students must apply for part-time status on the part-time study electronic form available on <a href="http://tritonlink.ucsd.edu" target="_blank">TritonLink</a> prior to the end of the second week of the quarter. Approval for part-time study is granted for one academic year only–fall through spring quarters, winter through spring quarters, or spring quarter only. Students must reapply for approval each fall quarter and substantiate reasons for the request. Students who are receiving financial assistance should contact their college financial aid office regarding eligibility requirements. </p>
+<h3>Reduced Fees</h3>
+                <p>For information regarding a reduction of fees for students who have been approved for part-time study, see &ldquo;<a href="UgrdReg.html#introenroll">Introduction to Enrollment and Registration</a>.&rdquo;</p>
+                <h2><a href="http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Regulations/512" target="_blank">Writing Requirement</a></h2>
+                <p>A student may register in an upper-division course only if the student has satisfactorily completed the writing requirement of his or her college or has obtained the consent of the instructor of the upper-division course. The requirement is waived for a student who has been admitted as a transfer student and has not completed three quarters of residence at UC San Diego. </p>
+                <h2><a href="http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Regulations/515" target="_blank">Progress toward Degree</a></h2>
+                <ul>
+                  <li>In order to apply the units of a course toward unit requirements for a degree, a student must receive an A+, A, A‑, B+, B, B‑, C+, C, C‑, D, P, or S grade in the course. </li>
+                  <li>Further, an undergraduate student must have a 2.0 or higher grade point average to receive a bachelor&rsquo;s degree, and a graduate student must have a 3.0 or higher GPA to receive a higher degree. </li>
+                  <li>With the approval of the Educational Policy Committee and when student demand exceeds any reasonable capacity to accommodate, departments and programs may require undergraduate students to achieve a GPA higher than 2.0 in a specific set of prerequisite courses and may limit admission to the major to students who have met that standard. No department or program may require a GPA higher than 2.0 for continuation in or graduation from any undergraduate major. </li>
+                  <li>With the approval of the Educational Policy Committee, departments and programs may set a minimum standard for the satisfaction of requirements within that department&rsquo;s or program&rsquo;s undergraduate curriculum. Except as may be provided for in paragraph 3 of this regulation, the minimum standard may not be set higher than C-. </li>
+                  <li>Nothing in this regulation shall be construed as prohibiting the establishment of higher standards in honors programs or independent majors. </li>
+                  <li>With      the approval of the Graduate Council, departments and programs may set      higher standards for the satisfaction of that department&rsquo;s or program&rsquo;s      graduate degree requirements.</li>
+                </ul>
+              
+                <h3>Probation</h3>
+                <p>An undergraduate student is subject to academic probation if at the end of any term his or her GPA for that term or his or her cumulative GPA is less than 2.0.</p>
+                <h3>Disqualification from Registration</h3>
+                <p>An undergraduate student is subject to academic disqualification from further registration if at the end of any term, his or her GPA for that term is less than 1.5, or if he or she has completed two successive terms on academic probation without achieving a cumulative GPA of 2.0. Continued registration of an undergraduate who is subject to disqualification is at the discretion of the faculty of the student&rsquo;s college or its authorized agent (generally the provost/Office of the Provost). </p>
+                <p>A graduate student is subject to disqualification if the cumulative GPA in upper-division and graduate course work taken as a graduate student is less than 3.0, or if more than a total of eight units of F and/or U grades has been accumulated. Continued registration of a graduate student is at the discretion of the dean of the Graduate Division.</p>
+<p>If a student is not currently in scholastic good standing or has been denied registration for the next ensuing quarter on the date on which he or she left the university, a statement of his or her status shall accompany his or her transcript. A student who has been disqualified from further registration at the University of California may not register for UC San Diego courses through summer session, through UC San Diego Extended Studies and Public Programs by way of the concurrent enrollment mechanism, or in UC San Diego Extension courses offered at the 100 level. Students receiving financial assistance should refer to information in the <a href="http://fao.ucsd.edu" target="_blank">Financial Aid Office website</a>. Unique scholarship eligibility requirements must be met. </p>
+                <h3><a name="miniprogress"></a><a href="http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Regulations/516" target="_blank">Minimum Progress</a></h3>
+                <p>A full-time undergraduate student is subject to disqualification from further full-time registration if he or she does not complete thirty-six units in any three consecutive quarters of enrollment. Continued registration of an undergraduate who is subject to disqualification due to lack of minimum progress is at the discretion of the faculty of the student&rsquo;s college or its authorized agent (generally the provost/Office of the Provost). <strong> </strong></p>
+                <p>Eligible students may file for an exemption from the minimum progress requirement by completing the part-time study application and receiving college approval prior to the end of the second week of the quarter. (See &ldquo;<a href="UgrdReg.html#part-time">Part-Time Study</a>.&rdquo;)                </p>
+                <h2><a href="http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Regulations/505" target="_blank">Repetition of Courses</a></h2>
+                <p>Repetition for credit of courses not so authorized by the Undergraduate Council (for undergraduate courses) or the Graduate Council (for graduate courses) is allowed subject to the following limitations: </p>
+                <ul type="disc">
+                  <li>A student may not repeat a course for which a      grade of A+, A, A‑, B+, B, B‑, C+, C, C‑, I, P, or S is recorded on his or      her transcript. </li>
+                  <li>Courses in which a grade of D or F has been      awarded may not be repeated on a P/NP or S/U basis. (Graduate students      must petition and receive approval in advance to repeat a course.) </li>
+                  <li>Undergraduate students may repeat a course in      which a grade of NP has been awarded for a P/NP or letter grade, if      applicable. Graduate students may repeat a course in which a grade of U      has been awarded on an S/U basis only. </li>
+                  <li>Repetition of a course for which a student&rsquo;s      transcript bears two or more entries with grades among D, F, NP, or U      requires approval of the appropriate provost or dean. </li>
+                  <li>All grades received by a student shall be      recorded on the student&rsquo;s transcript. A student may receive degree credit      for a course only once, unless the course has been approved for      repetition.</li>
+                  <li>The first sixteen units of courses that have been      repeated by an undergraduate student and for which the student has      received a grade of D, F, or NP, shall not be used in grade point      calculations, unless the course is repeated by a student who has admitted      to or been found guilty of academic dishonesty; in that case, the units      for both the initial course and the repeated course shall be counted in      grade point calculations.</li>
+        </ul>
+                <p><strong>Note:</strong> Although the University of California grade point average will not include these repeated courses, other institutions/graduate programs, and agencies may recalculate the grade point average to reflect all assigned grades.</p>
+                <h2><a href="http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Regulations/520" target="_blank">Special Studies Courses</a></h2>
+                <p>Subject to the limitations below, a student may earn credit for supervised special studies courses on topics of his or her own selection. An undergraduate taking one or more special studies courses must complete an application for each such course before the start of the course.</p>
+                <h3>Course Number </h3>
+                <p>Ordinarily, special studies courses are numbered 97, 98, or 99 for lower division and 197, 198, or 199 for upper division. The 97 and 197 courses are for individually arranged field studies. The 98 and 198 courses are for directed group study. The 99 and 199 courses are for individual independent study. </p>
+                <h3>Limitations </h3>
+                <ol>
+                  <li>Enrollment requires the prior consent of the instructor who is to supervise the study and the approval of the department chair. The applicant shall show that his or her background is adequate for the proposed study. </li>
+                  <li>A student must have completed at least thirty units of undergraduate study at UC San Diego and must have attained a UC San Diego grade point average of at least 3.0 to enroll in a lower-division special studies course, and at least ninety units of undergraduate study and must have attained a grade point average of at least 2.5 to enroll in an upper-division special studies course.</li>
+                  <li>A student may enroll for no more than a total of four units of 98, 99, 198, and 199 special studies courses in one term. </li>
+                  <li>Except as may otherwise be authorized by the Undergraduate Council (e.g., for honors programs), only a grade of P or NP is to be assigned for undergraduates enrolled in any special studies course. </li>
+                  <li>Subject to the approval of the Undergraduate Council, a department may impose additional limitations on its supervised special studies courses. <br>
+                  </li>
+                </ol>
+                <h3>Exceptions</h3>
+                <p>On the advice of the instructor(s) and the department chair concerned, the provost of a student&rsquo;s college may authorize exceptions to the limitations 2 and 3 listed above. </p>
+                <h3>Procedures </h3>
+                <p>Students must complete an application for UC San Diego special studies course enrollment, available in department offices and via <a href="http://tritonlink.ucsd.edu" target="_blank">TritonLink</a>, and secure instructor and department chair approval. Students must submit an approved form to the Office of the Registrar within the specified quarterly timeline in order to enroll in a special studies course.</p>
+                <h2>Student Petition </h2>
+                <p>For exceptional circumstances, students may request approval for variances to regulations and policies. This should be done by filling out an undergraduate student petition (available on <a href="http://tritonlink.ucsd.edu" target="_blank">TritonLink</a>), securing the necessary approvals, and filing the petition with the appropriate department or college academic advising office.</p>
+                
+<!-- InstanceEndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- InstanceEnd --></html> 

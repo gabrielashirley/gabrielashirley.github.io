@@ -1,0 +1,366 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Environmental Systems</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Environmental Systems </h1>
+<p class="sectionNav"><span class="courseFacLink">[ <a href="../courses/ESYS.html">courses</a> | <a href="../faculty/ESYS.html">faculty</a> ]</span></p>
+<p class="program-contact-info">Roger Revelle College<br>
+  Galbraith Hall, Room 368</p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem -->
+  <p class="basic-offset-top-only">There can be little doubt that in the twenty-first century the global human community is facing a substantial growth in the environmental consequences in providing food, energy, materials, and basic services to a population of more than 7.5 billion inhabitants. The Environmental Systems Program (ESYS) recognizes the growing demand for environmental specialists and is designed to prepare undergraduates to enter a broad spectrum of environmental careers and graduate programs in, for example, the natural sciences, the social sciences, public policy, law, and business. </p>
+				<p>This interdisciplinary program recognizes that local, national, regional, international, and global environmental problems do not fit neatly into traditional academic departments. A measurable part of society&#8217;s inability to effectively manage complex environmental problems stems from the lack of specialists who can apply analytical tools that cross disciplinary boundaries. Many environmental specialists possess little training in the natural sciences including both the fundamental ideas and methodologies of the earth and environmental sciences. The environmental systems major was created to address both of these shortcomings. </p>
+				<p>To encourage and foster an interdisciplinary focus in the major, the Environmental Systems Program is supported by a wide range of UC San Diego faculty representing the natural sciences, the social sciences, the humanities, engineering, and medicine. The program includes a required lower-division core, an upper-division “integrating course sequence,” two other upper-division courses and statistics, an advanced track, and a senior integrative project and seminar. There is a strong emphasis on a rigorous natural science foundation as well as an introduction to the policy sciences for all students enrolled in the major. The Environmental Systems Program places a significant value on interdisciplinary problem solving and all majors are expected to complete an integrative Senior Project in their final year. The Senior Project is designed by the student to focus on an interdisciplinary environmental problem or research topic. Appropriate topics for the Senior Project could conceivably include biodiversity conservation, coastal zone management, environmental health, climate change, environmental justice, and/or urban air quality. An important component of the Senior Project is an off-campus or laboratory internship where students might work on, for example, the development of a comprehensive management plan for a threatened ecosystem. The Senior Seminar provides a venue for the presentation and group evaluation of the ESYS Senior Projects. </p>
+		<h3 class="program-overview-subhead-2">The Environmental Systems Major </h3>
+				<p>The requirements for completion of the environmental systems major include lower-division prerequisites, two upper-division social science courses (Econ 131 and POLI 160AA), a three-course upper-division integrating sequence (ESYS 101, ESYS 102, ESYS 103), advanced courses in one of four tracks, and the Senior Project (ESYS 190A) and Senior Seminar (ESYS 190B). It is suggested that the integrating sequence ESYS 101, 102, and 103 should be completed by sophomore year, if possible. There are four advanced tracks in which students must complete a minimum of five upper-division courses. Students will select courses following the requirements below in consultation with a faculty adviser. </p>
+				<p class="course-list-overview">Earth Sciences </p>
+				<p class="course-list-overview">Ecology, Behavior, and Evolution </p>
+				<p class="course-list-overview">Environmental Chemistry </p>
+				<p class="course-list-overview">Environmental Policy </p>
+<p>Any questions concerning the requirements should be directed to the ESYS faculty director or the program advising staff.  Students completing the advanced tracks in Earth Sciences, Ecology, Behavior, and Evolution, and Environmental Chemistry will be awarded a BS in environmental systems. The BA in environmental systems will be granted to students completing the Environmental Policy track within the major. </p>
+				<p>A grade point average of 2.0 or higher in the upper-division major program is required for graduation. Students must receive a grade of C– or better in any course to be counted toward fulfillment of the major requirements. In exceptional cases, students with a grade point average in the major of 2.5 or greater may petition to have one grade of D accepted. </p>
+				<p>All courses (lower and upper division) required for the major must be taken for a letter grade.</p>
+        <h3>Environmental Systems/Earth Sciences Major</h3>
+<h4 class="program-overview-subhead-3">Lower-Division Requirements </h4>
+				<p>(Should be completed early in student&#8217;s degree program.) </p>
+				<p class="course-list-overview">BILD 3 </p>
+				<p class="course-list-overview">Chemistry 6A-B-C</p>
+				<p class="course-list-overview">Physics 2A-B-C </p>
+				<p class="course-list-overview">Math 20A-B-C-D				</p>
+				<p class="course-list-overview">SIO 50</p>
+				<p class="course-list-overview">Econ 1</p>
+		<h4 class="program-overview-subhead-3">Upper-Division Core Requirements </h4>
+		<p class="course-list-overview">ESYS 101. Environmental Biology </p>
+		<p class="course-list-overview">ESYS 102. The Solid and Fluid Earth </p>
+		<p class="course-list-overview">ESYS 103. Environmental Challenges: Science and Solutions</p>
+<p class="course-list-overview">Econ 131. Economics of the Environment </p>
+		<p class="course-list-overview">Political Science 160AA. Introduction to Policy Analysis </p>
+		<p class="course-list-overview">SIO 102. Introduction to Geochemistry</p>
+		<p class="course-list-overview">ESYS 190A. Senior Project (two quarters, eight units total) </p>
+		<p class="course-list-overview">ESYS 190B. Senior Seminar </p>
+		<h4>Upper-Division Earth Sciences Restricted Electives </h4>
+        <p>Students select three elective courses from the list below. 		</p>
+        <p class="course-list-overview">SIO 100. Introduction to Field Methods</p>
+				<p class="course-list-overview">SIO 103. Introduction to Geophysics</p>
+				<p class="course-list-overview">SIO 104. Paleobiology and History of Life </p>
+				<p class="course-list-overview">SIO 105. Sedimentology and Stratigraphy</p>
+				<p class="course-list-overview">SIO 106. Introduction to Hydrogeology</p>
+				<p class="course-list-overview">SIO 110. Introduction to GIS and GPS for Scientists</p>
+				<p class="course-list-overview">SIO 120. Introduction to Mineralogy </p>
+				<p class="course-list-overview">SIO 135. Satellite and Remote Sensing </p>
+				<p class="course-list-overview">SIO 144/252A. Introduction to Isotope Geochemistry</p>
+				<p class="course-list-overview">SIO 150. Whole Earth Geochemistry</p>
+				<p class="course-list-overview">SIO 152. Petrology and Petrography</p>
+				<p class="course-list-overview">SIO 160. Introduction to Tectonics </p>
+				<p class="course-list-overview">SIO 162. Structural Geology</p>
+				<h4><strong>Upper-Division Earth Sciences Restricted Electives </strong></h4>
+				<p>Students select two electives from the list below (or from the list above, if the course is not already used as a restrictive elective).</p>
+<p class="course-list-overview">SIO 101. California Coastal Oceanography</p>
+				<p class="course-list-overview">SIO 108. Introduction to Paleoclimatology</p>
+				<p class="course-list-overview">SIO 109. Bending the Curve: Climate Change</p>
+<p class="course-list-overview">SIO 111. Introduction to Ocean Waves</p>
+				<p class="course-list-overview">SIO 113. Introduction to Computational Earth Science </p>
+<p class="course-list-overview">SIO 115. Ice and the Climate System</p>
+				<p class="course-list-overview">SIO 117. The Physical Basis of Global Warming</p>
+				<p class="course-list-overview">SIO 119. Physics and Chemistry of the Ocean</p>
+				<p class="course-list-overview">SIO 138. Coral Reef Environments</p>
+				<p class="course-list-overview">SIO 141/Chem 174. Chemical Principles of Marine Systems</p>
+				<p class="course-list-overview">SIO 143. Ocean Acidification</p>
+				<p class="course-list-overview">SIO 164/ANTH 164. Maritime Archeology</p>
+				<p class="course-list-overview">SIO 166/ANTH 166. Environmental Archeology</p>
+<p class="course-list-overview">SIO 170. Introduction to Volcanology</p>
+				<p class="course-list-overview">SIO 171. Introduction to Physical Oceanography</p>
+<p class="course-list-overview">SIO 172. Physics of the Atmosphere</p>
+				<p class="course-list-overview">SIO 182. Environmental and Exploration Geophysics</p>
+				<p class="course-list-overview">ESYS 120. Science and Environmental Writing</p>
+				<p class="course-list-overview">Chem 171. Environmental Chemistry I</p>
+				<p class="course-list-overview">Chem 172. Environmental Chemistry II</p>
+				<p class="course-list-overview">Chem 173. Atmospheric Chemistry                </p>
+				<div>
+                  <div> </div>
+        </div>
+                <p>Other courses may be substituted by petition.		</p>
+        <h3 class="program-overview-subhead-2">Environmental Systems/Ecology, Behavior, and Evolution Major </h3>
+        <h4 class="program-overview-subhead-3">Lower-Division Requirements </h4>
+        <p class="course-list-overview">BILD 1 and 3 </p>
+        <p class="course-list-overview">Chem 6A-B-C </p>
+        <p class="course-list-overview">Physics 1A and 1AL, 1B and 1BL, and 1C and 1CL, or 2A-B-C</p>
+        <p class="course-list-overview">Math 10A-B (or 20A-B) and Math 11</p>
+        <p class="course-list-overview">Econ 1</p>
+<h4 class="program-overview-subhead-3">Upper-Division Core Requirements </h4>
+        <p class="course-list-overview">ESYS 101. Environmental Biology </p>
+        <p class="course-list-overview">ESYS 102. The Solid and Fluid Earth </p>
+        <p class="course-list-overview">ESYS 103. Environmental Challenges: Science and Solutions</p>
+        <p class="course-list-overview">Econ 131. Economics of the Environment </p>
+        <p class="course-list-overview">POLI 160AA. Introduction to Policy Analysis </p>
+        <p class="course-list-overview">BICD 100. Genetics </p>
+        <p class="course-list-overview">ESYS 190A. Senior Project (two quarters, eight units total) </p>
+        <p class="course-list-overview">ESYS 190B. Senior Seminar </p>
+        <h4 class="program-overview-subhead-3">Upper-Division Electives </h4>
+        <p>Students select five courses from the list below. At least one of the five courses must be a laboratory course.</p>
+        <p class="course-list-overview">BIEB 102. Introductory Ecology—Organisms and Habitats </p>
+        <p class="course-list-overview">BIEB 121. Ecology Laboratory </p>
+        <p class="course-list-overview">BIEB 123. Molecular Methods in Evolution and Ecology Lab</p>
+        <p class="course-list-overview">BIEB 126. Plant Ecology </p>
+        <p class="course-list-overview">BIEB 128. Insect Diversity</p>
+        <p class="course-list-overview">BIEB 130. Marine Conservation Biology</p>
+        <p class="course-list-overview">BIEB 131. Marine Invertebrate Ecology Lab </p>
+        <p class="course-list-overview">BIEB 135. Aquatic Ecology Lab </p>
+        <p class="course-list-overview">BIEB 140. Biodiversity </p>
+        <p class="course-list-overview">BIEB 150. Evolution </p>
+        <p class="course-list-overview">BIEB 152. Evolution of Infectious Diseases</p>
+        <p class="course-list-overview">BIEB 166. Animal Communication </p>
+        <p class="course-list-overview">BIEB 167. Animal Communication Lab</p>
+        <p class="course-list-overview">BIEB 174. Ecosystems and Global Change</p>
+        <p class="course-list-overview">BIEB 176. Conservation and the Human Predicament </p>
+        <p class="course-list-overview">ENVR 120. Coastal Ecology</p>
+        <p class="course-list-overview">SIO 101. California Coastal Oceanography</p>
+        <p class="course-list-overview">SIO 125. Biomechanics of Marine Life</p>
+        <p class="course-list-overview">SIO 128. Microbial Life in Extreme Environments</p>
+        <p class="course-list-overview">SIO 132. Introduction to Marine Biology</p>
+        <p class="course-list-overview">SIO 133. Marine Mammal Biology</p>
+        <p class="course-list-overview">SIO 134. Introduction to Biological Oceanography</p>
+        <p class="course-list-overview">SIO 138. Coral Reef Environments</p>
+        <p class="course-list-overview">SIO 143. Ocean Acidification</p>
+        <p class="course-list-overview">SIO 147. Introduction to Phylogenetics (lab course)</p>
+        <p class="course-list-overview">SIO 183. Phycology: Marine Plant Biology (lab course)</p>
+        <p class="course-list-overview">SIO 184. Marine Invertebrates (lab course)</p>
+        <p class="course-list-overview">SIO 187. Statistical Methods in Marine Biology</p>
+        <p class="course-list-overview">SIO 188. Biology of Fishes (lab course)</p>
+        <p class="course-list-overview">SIO 189. Pollution, Environment, and Health</p>
+<p>Students may also use the quarter-long UC-Natural Reserve System California Ecology and Conservation course to satisfy up to three upper-division electives in the major, one of which could count as an upper-division lab course. This course is typically offered in the fall, spring, and summer quarters. Application deadlines and other key dates for upcoming course offerings can be found at <a href="https://ucnrs.org/teaching/course-dates/" target="_blank">https://ucnrs.org/teaching/course-dates/</a>.</p>
+<p>Other courses may be substituted by petition. </p>
+<h3>Environmental Systems/Environmental Chemistry Major </h3>
+<h4 class="program-overview-subhead-3">Lower-Division Requirements </h4>
+<p class="course-list-overview">BILD 3 </p>
+<p class="course-list-overview">Chem 6A-B-C and 7L, 40A-B and 43A</p>
+<p class="course-list-overview">Physics 2A-B-C and 2CL</p>
+<p class="course-list-overview">Math 20A-B-C-D</p>
+<p class="course-list-overview">Econ 1</p>
+<h4 class="program-overview-subhead-3">Upper-Division Core Requirements </h4>
+<p class="course-list-overview">ESYS 101. Environmental Biology </p>
+<p class="course-list-overview">ESYS 102. The Solid and Fluid Earth </p>
+<p class="course-list-overview">ESYS 103. Environmental Challenges: Science and Solutions</p>
+<p class="course-list-overview">Econ 131. Economics of the Environment </p>
+<p class="course-list-overview">POLI 160AA. Introduction to Policy Analysis </p>
+<p class="course-list-overview">Chem 100A. Analytical Chemistry Laboratory</p>
+<p class="course-list-overview">Chem 100B. Instrumental Chemistry Laboratory </p>
+<p class="course-list-overview">ESYS 190A. Senior Project (two quarters, eight units total) </p>
+<p class="course-list-overview">ESYS 190B. Senior Seminar </p>
+<h4 class="program-overview-subhead-3">Upper-Division Electives</h4>
+<p>Students must select three courses from the list below.</p>
+<p class="course-list-overview">Chem 171. Environmental Chemistry I</p>
+<p class="course-list-overview">Chem 172. Environmental Chemistry II</p>
+<p class="course-list-overview">Chem 173. Atmospheric Chemistry</p>
+<p class="course-list-overview">SIO 141/Chem 174. Chemical Principles of Marine Systems </p>
+<p class="course-list-overview">Math 183. Statistical Methods </p>
+<p class="course-list-overview">Chem 125. Bioinorganic Chemistry </p>
+<p class="course-list-overview">Chem 126. Physical Chemistry: Quantum Mechanics </p>
+<p class="course-list-overview">Chem 127. Physical Chemistry: Thermodynamics</p>
+<p class="course-list-overview">SIO 102. Introduction to Geochemistry</p>
+<p>Other courses may be substituted by petition.</p>
+<h3>Environmental Systems/Environmental Policy Major </h3>
+<h4 class="program-overview-subhead-3">Lower-Division Requirements </h4>
+<p class="course-list-overview">BILD 3 </p>
+<p class="course-list-overview">Chem 6A-B-C </p>
+<p class="course-list-overview">Physics 1A+1AL, 1B+1BL and 1C+ 1CL, or 2A-B-C</p>
+<p class="course-list-overview">Math 10A-B (or 20A-B) and Math 11(or Econ 120A or Math 183)</p>
+<p class="course-list-overview">Econ 1 and 2</p>
+<h4 class="program-overview-subhead-3">Upper-Division Core Requirements </h4>
+<p class="course-list-overview">ESYS 101. Environmental Biology </p>
+<p class="course-list-overview">ESYS 102. The Solid and Fluid Earth </p>
+<p class="course-list-overview">ESYS 103. Environmental Challenges: Science and Solutions</p>
+<p class="course-list-overview">Econ 131. Economics of the Environment </p>
+<p class="course-list-overview">POLI 160AA. Introduction to Policy Analysis </p>
+<p class="course-list-overview">ESYS 190A. Senior Project (two quarters, eight units total) </p>
+<p class="course-list-overview">ESYS 190B. Senior Seminar </p>
+<h4 class="program-overview-subhead-3">Upper-Division Electives</h4>
+<p>Students select five elective courses from the list below.</p>
+<p class="course-list-overview">Econ 116. Economic Development</p>
+<p class="course-list-overview">Econ 125. Economics of Population Growth</p>
+<p class="course-list-overview">Econ 130. Public Policy</p>
+<p class="course-list-overview">Econ 132. Energy Economics</p>
+<p class="course-list-overview">Econ 133. International Environmental Agreements</p>
+<p class="course-list-overview">Econ 135. Urban Economics</p>
+<p class="course-list-overview">Econ 144. Economics of Conservation</p>
+<p class="course-list-overview">Econ 145. Economics of Ocean Resources </p>
+<p class="course-list-overview">POLI 102L. The Politics of Regulation </p>
+<p class="course-list-overview">POLI 125A. Communities and the Environment</p>
+<p class="course-list-overview">POLI 125B. The Politics of Food in a Global Economy</p>
+<p class="course-list-overview">POLI 150A. Politics of Immigration</p>
+<p class="course-list-overview">POLI 160AB. Introduction to Policy Analysis</p>
+<p class="course-list-overview">POLI 162. Environmental Policy</p>
+<p class="course-list-overview">POLI 168. Policy Assessment</p>
+<p class="course-list-overview">HISC 105. History of Environmentalism</p>
+<p class="course-list-overview">ANBI 132. Conservation and the Human Predicament</p>
+<p class="course-list-overview">COMM 171. Environment Communication </p>
+<p class="course-list-overview">ENVR 102. Selected Topics in Environmental Studies</p>
+<p class="course-list-overview">ENVR 110. Environmental Law</p>
+<p class="course-list-overview">ENVR 130. Environmental Issues: Social Sciences</p>
+<p class="course-list-overview">ENVR 140. Wilderness and Human Values</p>
+<p class="course-list-overview">PHIL 148. Philosophy and the Environment </p>
+<p class="course-list-overview">PHIL 164. Technology and Human Values </p>
+<p class="course-list-overview">SIO 110. Introduction to GIS and GPS for Scientists</p>
+<p class="course-list-overview">USP 124. Land Use Planning </p>
+<p class="course-list-overview">USP 144. Environmental and Preventive Health Issues </p>
+<p class="course-list-overview">USP 170. Sustainability Planning </p>
+<p class="course-list-overview">USP 171. Sustainable Development </p>
+<p>Other courses may be substituted by petition. </p>
+<h3 class="program-overview-subhead-2">Environmental Systems Minor </h3>
+				<p>A minor in environmental systems will expose students to the interdisciplinary approach necessary to address environmental problems. The program places a strong emphasis on a rigorous natural science foundation. Thus, most of the courses related to the minor have significant prerequisites; students planning an environmental systems minor should check catalog course description carefully. </p>
+				<p>The minor consists of twenty-eight units, at least twenty of which must
+				  be upper division. Any upper-division course used to satisfy
+				  major requirements may not be applied toward a minor. Up to two courses
+				  for the minor may be taken on a Pass/Not Pass basis, (upper or lower division).
+				  Students must earn at least a letter grade of C– in the remaining five
+				  or more courses used for the minor. Students considering the environmental
+				  systems minor are strongly advised to meet with the associate director
+				  or the program adviser.</p>
+				<p>The minor is structured as followed:</p>
+				<h4 class="program-overview-subhead-3">Lower-Division Courses </h4>
+				<p>Any two of the following lower-division courses, if they are not lower-division
+				  requirements for the student&#8217;s major, may be applied to satisfy eight
+				  of the total units necessary for the minor:</p>
+				<p class="course-list-overview">BILD 3 </p>
+				<p class="course-list-overview">Math 10A-B-C or Math 20A-B-C</p>
+				<p class="course-list-overview">Chem 6A-B-C, 7L</p>
+				<p class="course-list-overview">PHYS 1A-AL, 1B-BL, 1C-CL or PHYS 2A-B-C</p>
+				<p class="course-list-overview">Econ 1</p>
+				<p class="course-list-overview">SIO: any lower-division course </p>
+				<p class="course-list-overview">ESYS 10</p>
+				<p class="course-list-overview">ENVR 30</p>
+				<h4 class="program-overview-subhead-3">Required Core Courses</h4>
+				<p class="course-list-overview">ESYS 101, offered every fall quarter</p>
+				<p class="course-list-overview">ESYS 102, offered every winter quarter</p>
+				<p class="course-list-overview">ESYS 103, offered every spring quarter</p>
+				<p class="basic-offset-top-only"><strong>Note:</strong> ESYS 102 and ESYS 103 all have significant
+				  prerequisites; students planning an environmental systems minor
+  should check course descriptions and prerequisites carefully. </p>
+				<h4 class="program-overview-subhead-3">Upper-Division Electives</h4>
+				<p>At least two additional upper-division courses from the advanced tracks in the environmental systems major. The lists of upper-division electives are reviewed and updated each quarter. They are available in the Environmental Systems Office and on the program website (<a href="http://esys.ucsd.edu" target="_blank">http://esys.ucsd.edu</a>). Students are advised to consult with the Environmental Systems Program advisers or associate director.</p>
+				<h3 class="program-overview-subhead-2">Special Studies Courses</h3>
+				<p>Special Studies in the environmental systems is offered as ESYS 199. This course is subject to consent of the instructor and approval by the Department of Environmental Systems faculty adviser. This course is open to students who have accrued at least ninety quarter-units and have a GPA of least 3.0. No more than two quarters of environmental systems special studies may be counted toward the environmental systems major. </p>
+				<p>Study abroad through the Education Abroad Program or Opportunities Abroad Program can enhance a student&#8217;s major, particularly as an opportunity for diverse field experiences. However, careful planning is important to meet all major requirements. Please contact the Environmental Systems Office as early as possible if you are planning to study abroad.</p>
+<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

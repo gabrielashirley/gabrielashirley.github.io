@@ -1,0 +1,850 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Family Medicine and Public Health: Graduate Curriculum</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" --> 
+            <h1 class="noTopMargin">Family Medicine and Public Health</h1>
+            <p class="sectionNav"><span class="courseFacLink">[ <a href="FMPH-ug.html">undergraduate
+      program</a> | <a href="../courses/FMPH.html">courses </a>]</span></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><p>The Department of Family Medicine and Public Health&rsquo;s mission is to improve health through both clinical care and research. Studies undertaken by departmental members focus on epidemiology as well as behavioral and clinical research, education, and clinical care. The department has a major education mission and hosts both an undergraduate degree and a doctoral degree in public health. It has a major role in teaching in the School of Medicine curriculum and hosts four separate medical residencies in Family Medicine (two), Family Medicine-Psychiatry, and Preventive Medicine. In addition, the department hosts the self-funding Master of Advanced Studies (MAS) degree in Leadership of Healthcare Organizations. </p>
+        <h2>The Doctoral Program in Public Health </h2>
+        <p>A PhD in public health with a concentration in epidemiology, health behavior, or global health is offered by the joint faculties of the Graduate School of Public Health at San Diego State University (SDSU) and the Department of Family Medicine and Public Health (FMPH) with assistance from other departments in the School of Medicine at UC San Diego. Currently there are three specializations: <a href= #epidemiology>epidemiology</a>, <a href=#globalhealth>global health</a>, and <a href="#healthbehavior">health behavior</a>.</p>
+        <p>For each specialization, the first year in this program involves full-time course work at SDSU with second-year full-time course work at UC San Diego. These two years fulfill the residency requirements for both universities. Students are expected to advance to candidacy in the third year. Applicants who enter with a master&rsquo;s degree s are expected to graduate by the end of the fifth year.</p>
+        <h5>Details of the following program can be found at</h5>
+        <p>UC San Diego—<a href="http://ph.ucsd.edu/jdp/" target="_blank">http://ph.ucsd.edu/jdp/</a><br>
+        SDSU—<a href="http://publichealth.sdsu.edu/programs/phd/" target="_blank">http://publichealth.sdsu.edu/programs/phd/</a></p>
+		<h3 class="program-overview-subhead-2"><span class="anchor-parent"><a name="epidemiology" id="epidemiology" class="anchor"></a>The Joint Doctoral Program (JDP) in Epidemiology </span></h3>
+		<p class="program-contact-info">Stein Clinical Research Building, Room
+	    349<br />
+	    Mail Code 0607<br />
+	    UC San Diego—<a href="http://ph.ucsd.edu/jdp/tracks/epidemiology/index.html" title="http://ph.ucsd.edu/jdp/tracks/epidemiology/index.html" target="_blank">http://ph.ucsd.edu/jdp/tracks/epidemiology/index.html</a><a href="http://epidemiology.ucsd.edu/" target="_blank"></a><br />
+	    SDSU—<a href="http://publichealth.sdsu.edu/programs/phd/epidemiology/" target="_blank">http://publichealth.sdsu.edu/programs/phd/epidemiology/</a></p><p class="basic-offset-top-only">The doctoral program in public health (epidemiology) was developed as a joint program in 1990 between the Department of Family Medicine and Public Health in the School of Medicine at the University of California San Diego (UC San Diego), and the Graduate School of Public Health at San Diego State University (SDSU). Students in the program complete course work and conduct research at both institutions. Faculty from each campus serve on advisory and dissertation committees, providing students with extensive exposure to experts whose research interests represent the interdisciplinary nature of modern public health. Dr. Deborah Wingard (UC San Diego) and Dr. Richard Shaffer (SDSU) codirect the program. </p>
+				<p>Requirements for the joint doctoral degree include</p>
+				<ol>
+				  <li>successful completion of required course work</li>
+				  <li> passing written preliminary examinations in epidemiology and biostatistics</li>
+				  <li> passing written and oral qualifying examinations</li>
+				  <li> demonstrating proficiency in two computer-based statistical software
+				    packages</li>
+				  <li> demonstrating proficiency in teaching</li>
+				  <li> completion and successful formal defense of a dissertation</li>
+	    </ol>
+		<p>Typical areas of emphasis include infectious disease epidemiology, chronic disease epidemiology, cancer epidemiology, behavioral epidemiology, community-based trials, physical activity/exercise/nutrition and health. San Diego is ideally located in a large and ethnically diverse metropolitan center bordering Mexico and the Pacific Rim, enabling students to carry out population-based multicultural and multinational studies of health problems.</p>
+				<h4 class="program-overview-subhead-3">Time Limits</h4>
+				<p>The goal of this policy is to encourage PhD completion in a timely manner.</p>
+				<p><strong>Precandidacy limit.</strong> Maximum registered time to advance to PhD candidacy: four years</p>
+				<p><strong>Support limit.</strong> Maximum registered time doctoral student is eligible for support: six years</p>
+				<p><strong>Total time limit.</strong> Maximum registered time to complete all PhD requirements: seven years</p>
+				<p>Degree and contact information may be found on our website: <a href="http://publichealth.sdsu.edu/programs/phd/epidemiology/" target="_blank">http://publichealth.sdsu.edu/programs/phd/epidemiology/</a>. </p>
+				<p>Admission requirements and application material can be found at <a href="http://ph.ucsd.edu/jdp/" target="_blank">http://ph.ucsd.edu/jdp/</a>.</p>
+		<h3 class="program-overview-subhead-2"><span class="anchor-parent"><a name="globalhealth" id="globalhealth" class="anchor"></a>The Joint Doctoral Program (JDP) in Global Health </span></h3>
+		<p class="program-contact-info">Ash Building, Room 109<br />
+	    Mail Code 0622<br>
+	UC San Diego—<a href="http://ph.ucsd.edu/jdp/tracks/global-health/index.html" title="http://ph.ucsd.edu/jdp/tracks/epidemiology/index.html" target="_blank">http://ph.ucsd.edu/jdp/tracks/global-health/index.html</a><br />
+SDSU—<a href="https://publichealth.sdsu.edu/programs/phd/global-health/" title="https://publichealth.sdsu.edu/programs/phd/global-health/" target="_blank">https://publichealth.sdsu.edu/programs/phd/global-health/</a><a href="http://publichealth.sdsu.edu" target="_blank"></a></p>
+<p class="basic-offset-top-only">Since 2007, a PhD in public health with a concentration in global health has been offered by multidisciplinary faculty in UC San Diego&#8217;s School of Medicine and the Graduate School of Public Health at San Diego State University. Global health relates to health issues and concerns that transcend national borders, class, race, ethnicity, and culture, stresses the commonality of health issues, and calls for collective, partnership-based action to resolve these issues. Accordingly, emphasis is on preparing graduates with the fundamental knowledge, understanding, and specific skills necessary to become public health researchers and professional leaders in global health settings. Proximity to the U.S./Mexico border and expertise of many current faculty support and encourage a focus on infectious diseases (e.g., HIV, TB, STDs) and health of migrant populations, although students are expected to develop other areas of specialization within the global health concentration. These may be content areas, such as chronic/infectious disease surveillance and prevention, environmental health, health policy, and substance abuse, or methodological areas such as quantitative, qualitative, and spatial research methodologies that are applied to address health problems of global health significance. Dr. Steffanie Strathdee (UC San Diego) and Dr. Jenny Quintana (SDSU) direct the program.</p>
+				<p>Requirements for the joint doctoral degree include</p>
+				<ol>
+				  <li>Successful completion of required course work </li>
+				  <li>Passing written and oral qualifying examinations </li>
+				  <li>Demonstrated proficiency in teaching </li>
+				  <li>Demonstrated cultural competence appropriate to dissertation area </li>
+				  <li>Completion and successful formal defense of a dissertation</li>
+	    </ol>
+		<h3 class="program-overview-subhead-2"><span class="anchor-parent"><a name="healthbehavior" id="healthbehavior" class="anchor"></a>The Joint Doctoral Program (JDP) in Health Behavior </span></h3>
+		<p class="program-contact-info"> UC San Diego Moores Cancer Center, Room 3063<br />
+		  Mail Code 0901<br />
+	    UC San Diego—<a href="http://ph.ucsd.edu/jdp/tracks/health-behavior/index.html" title="http://ph.ucsd.edu/jdp/tracks/health-behavior/index.html" target="_blank">http://ph.ucsd.edu/jdp/tracks/health-behavior/index.html</a><a href="https://meded.ucsd.edu/index.cfm/asa/dcp/goddp/joint_doctoral_program_in_public_health/health_behavior/" target="_blank"></a><br />
+	    SDSU—<a href="http://publichealth.sdsu.edu" target="_blank"> https://publichealth.sdsu.edu/programs/phd/health-behavior/</a></p>
+<p class="basic-offset-top-only">A PhD in public health with a concentration in health behavior is offered by the joint faculties of the Department of Family Medicine and Public Health in the School of Medicine at UC San Diego and the Graduate School of Public Health at San Diego State University (SDSU). Students in the program complete course work and conduct research at both institutions. Faculty from each campus serve on advisory and dissertation committees, providing students with extensive exposure to experts whose research interests represent the interdisciplinary nature of modern public health. Dr. John P. Pierce (UC San Diego) and Dr. Joni Mayer (SDSU) codirect the program.</p>
+				<p>Emphasis is on producing graduates with a mastery of the central concepts and analytic processes of health behavior. Graduates of the program are expected to establish advanced skills in applied behavioral analysis for population application; to establish expertise in advanced qualitative and quantitative research methods; to establish advanced skills in the application of interventions and research methods to health behavior in disenfranchised populations; and to establish skills necessary to understand and change health policy. Graduates of the program are competitive for a variety of research, teaching, and community service positions in areas such as academic institutions, local and state health departments, federal and international agencies, and both private and public-sponsored research institutions.</p>
+				<p>Areas of specialization currently include physical activity, tobacco control, skin-cancer prevention, nutrition and obesity, and HIV/AIDS and tuberculosis prevention and control. An additional emphasis will be placed on methodologies, such as measurement and related research issues; and ecological approaches to understanding health behavior. San Diego is ideally located in a large and ethnically diverse metropolitan center bordering Mexico and the Pacific Rim, enabling students to carry out community-based multicultural and multinational studies of health problems. </p>
+				<h4 class="program-overview-subhead-3">Time Limits</h4>
+				<p>The goal of this policy is to encourage PhD completion in a timely manner.</p>
+				<p><strong>Precandidacy limit.</strong> Maximum registered time to advance to PhD candidacy: four years</p>
+				<p><strong>Support limit.</strong> Maximum registered time doctoral student is eligible for support: six years</p>
+				<p><strong>Total time limit.</strong> Maximum registered time to complete all PhD requirements: seven years</p>
+		<p>Information regarding admission is found in the current edition of the <em>Bulletin of the Graduate Division of San Diego State University. </em>To receive an application for admission, contact SDSU/UC San Diego Joint Doctoral Program in Public Health, San Diego State University, 5500 Campanile Drive, San Diego 92182-4162, (619) 594-2743.</p>
+		<p>For more information, please contact UC San Diego Graduate Coordinator, 3855 Health Sciences Drive, Room 3063, La Jolla, CA 92093-0901, (858) 822-2382.    </p>
+		<h2>Biostatistics Graduate Programs</h2>
+		<h3>PhD in Biostatistics</h3>
+		<p class="program-contact-info"><strong>Graduate Program Director:<br>
+		</strong>Loki Natarajan, Professor<br>
+		Division of Biostatistics and Bioinformatics<br>
+	    <a href="mailto:lnatarajan@ucsd.edu">lnatarajan@ucsd.edu</a> <br>
+	    <a href="http://ph.ucsd.edu/biostat/index.html" target="_blank">http://ph.ucsd.edu/biostat/index.html</a>  </p>
+      
+      
+		<h4>Program Focus</h4>
+		<p>The PhD in biostatistics is an interdepartmental program housed within the Department of Family Medicine and Public Health&rsquo;s Division of Biostatistics and Bioinformatics at the School of Medicine, and in partnership with the main campus Department of Mathematics. The core courses are biostatistics offerings from the Division of Biostatistics and Bioinformatics, and statistics offerings within the Department of Mathematics. </p>
+		<p>Program years one and two include theoretical and applied classroom work in the core mathematical statistics and biostatistics courses, with additional electives in mathematics and/or computer science. The core courses incorporate classroom projects in theory and data analysis pertinent to biomedical data and introduce literate programming and reproducible research practices. Year two requires a set of biostatistics rotations under the tutorship of a faculty mentor, using example data drawn from collaborative projects in biomedical or public health sciences, each with required oral, written, and web-based presentations. The student will select, by the end of year two, a primary adviser from among participating program faculty. Additional training in the biomedical area of application will occur in years three and four. Throughout, the student will participate in presentations and discussions in a seminar series and journal club.</p>
+		<p>The PhD thesis, completed in years three to four and potentially five, will contain an original contribution of quality that would be acceptable for publication in the biostatistics literature, which extends the theory or methodology of biostatistics, or extends biostatistical methods to solve a critical problem in applied disciplines. A terminal master&rsquo;s degree in biostatistical sciences is offered for students who fail to complete the PhD in a timely fashion. Students are eligible to obtain the MS degree under Plan II (Comprehensive Examination) if they pass the PhD written qualifying exam at the MS level and obtained forty-eight units of core courses (including MATH 281A-B-C and FMPH 221–223) with a passing grade.</p>
+        <h4>Admissions Requirements</h4>
+        <p>Interested candidates should prepare the following application documents to be submitted online:</p>
+        <ul>
+          <li>Statement of Purpose. </li>
+          <li>Transcripts (official transcripts will be required if admitted into the program); 3.0 GPA or above required for admission.</li>
+          <li>List of mathematics courses taken/projected as well as textbooks and authors used and grades received.</li>
+          <li>Three letters of recommendation; at least two should address academic and/or professional&nbsp;qualifications for pursuing a PhD program in biostatistics. If more than three are received, the first three received will be reviewed.</li>
+          <li>General Graduate Record Examination (GRE) test scores.</li>
+          <li>TOEFL test scores (for international applicants from non-English speaking countries).</li>
+          <li>PhD applicants who are U.S. citizens are required to complete a&nbsp;<a href="http://www.fafsa.ed.gov/" target="_blank">FAFSA</a>. This will assist in determining which applicants are eligible for grants that may have been awarded to support the interdepartmental program by various agencies and donors. FAFSA information plays no role in admission decisions.</li>
+          <li>Curriculum vitae.</li>
+        </ul>
+        <p>For further admission information, students should see the admissions overview on our website: <a href="http://ph.ucsd.edu/biostat/admissions/index.html" target="_blank">http://ph.ucsd.edu/biostat/admissions/index.html</a> <a href="http://biostat.ucsd.edu/phd-program/admissions-overview.html" target="_blank"></a> or contact the biostatistics graduate coordinator via email at <a href="mailto:mbazyar@ucsd.edu">mbazyar@ucsd.edu</a> or at (858) 246-2595. </p>
+        <h4>Curriculum</h4>
+        <p>PhD students are required to obtain sixty-four units of course work from the following courses. For the MS degree, the requirement is fifty-two units (forty-eight units of required courses in mathematical statistics and biostatistics and four units in life sciences). Full-time graduate students must register for a minimum of twelve units per quarter. These twelve units can be made up of a combination of required course work as described below, additional elective course work if any, and special study courses (FMPH 241). All student course programs, as well as any changes throughout the quarter, must be approved by a faculty adviser prior to registering for classes each quarter.</p>
+        <h4>Required Courses (sixty-one units)&nbsp;</h4>
+      
+        <ol>
+            <li><strong>Required (Core) Courses in the Department of Mathematics (twenty-four units)</strong></li>
+            <ul>
+              <li>MATH 281A-B-C. (Mathematical Statistics I-II (four units each)</li>
+              <li>MATH 282A-B. (Linear Models (four units each)</li>
+              <li>MATH 284. (Survival Analysis (four units)</li>
+            </ul>
+          <li><strong>Required (Core) Courses in Biostatistics (twenty-nine units) each of:</strong></li>
+          
+          <ul type="circle">
+                <li>FMPH       221. Biostatistical Methods I (four units)</li>
+                <li>FMPH       222. Biostatistical Methods II (four units)</li>
+                <li>FMPH       223. Analysis of Longitudinal Data (four units)</li>
+                <li>FMPH       241. Biostatistics Rotation (two quarters, three units each)</li>
+                <li>FMPH       290. Biostatistics Seminar/Journal Club (three quarters, one unit each)</li>
+         
+          </ul>
+          <ul>
+            <li>Two among the following courses:</li>
+            
+            
+           
+                  <ul type="square">
+                    <li>FMPH        224. Clinical Trials and Experimental Design (four units)</li>
+                    <li>FMPH        225. Advanced Topics in Biostatistical Inference (four units)</li>
+                    <li>FMPH        226. Statistical Methods for Observational Studies (four units)</li>
+                    <li>FMPH        227. Advanced Multivariate Methods (four units) </li>
+            
+            </ul>
+           
+            <p>We note that all of the biostatistics core courses except FMPH 290 carry a data analysis component. Students will be exposed to projects involving advanced data analyses to address complex life sciences problems. All courses except FMPH 290 and FMPH 241 are letter grade only.
+            </p>
+          </ul>
+         
+        
+        
+            <li><strong>Required Life Sciences (eight units)</strong>
+        <br>Two courses at the upper division or the graduate level in biomedical sciences, neurosciences, epidemiology, public health, biology, systems biology, bioengineering, or medicine, letter grade if possible. Selection of all life sciences courses should be made in consultation with the thesis adviser.</li></ol>
+        <h4>Elective Courses (three units)</h4>
+        <p>Students are required to take at least three additional units of elective courses for letter grade from the following list.</p>
+        <ol>
+          <li><strong>Biostatistics  Elective Courses</strong>
+			  <br>
+       FMPH 242. Advanced Topics in Biostatistics (three units). This course is taught in rotation by the Division of Biostatistics and Bioinformatics faculty, and the curriculum will vary. Among the topics are:
+       <ul>
+		   <ul type="square">
+            <li>Random field theory and applications in image analysis</li>
+            <li>Advanced statistical computing</li>
+            <li>Bayesian methods</li>
+            <li>Statistical collaboration in health sciences</li>
+		   </ul></ul>
+		   <ul type="circle">
+            <li><strong>Statistical Methods Electives:</strong></li>
+            
+            <ul type="square">
+              
+              <li>MATH        280A-B-C. Probability Theory (four units)</li>
+              <li>MATH        287B. Multivariate Analysis (four units)</li>
+              <li>MATH        287D. Statistical Learning (four units)</li>
+              <li>MATH        287A, C. Time Series Analysis (four units each)</li>
+              <li>MATH        202A. Applied Algebra I (four units)</li>
+              <li>MATH        240A-B-C. Real Analysis (four units)</li>
+              <li>MATH        271A-B-C. Numerical Optimization (four units)</li>
+              <li>MATH        285. Stochastic Processes (four units)</li>
+              
+            </ul>
+            
+            <li><strong>Computer Science Electives:</strong></li>
+            
+            <ul type="square">
+              
+              <li>CSE        202. Algorithm Design and Analysis (four units)</li>
+              <li>ECE        273. Convex Optimization (four units)</li>
+              <li>CSE        250B. Learning Algorithms (four units)</li>
+              <li>CSE        255. Data Mining and Predictive Analytics (four units)</li>
+              <li>CSE        260. Parallel Computation (four units)</li>
+              <li>CSE        283. Genomics, Proteomics, Systems Biology (four units)</li>
+              
+            </ul></ul>
+          </ol>
+        <h4>Biostatistics Rotations (FMPH 241)&nbsp;</h4>
+        <p>The biostatistics rotations are a singular feature of this PhD program that takes advantage of the extensive involvement of the program faculty in collaborative and interdisciplinary work within the life sciences. Students will complete at least two and up to five quarter-length rotations before advancing to candidacy, each in the form of an interdisciplinary applied data analysis project. They may work in collaboration with any UC San Diego faculty researcher who conducts studies or experiments that generate data in the medical, biological, public health, or pharmacologic sciences, and who will serve as a subject area mentor, under the primary mentorship of any biostatistics or statistics member of the interdepartmental program. Each practicum will last a minimum of ten weeks and will involve the analysis of original data. The student will prepare or substantially contribute to a project report, which will be reviewed and signed off on by the mentor. The rotation may be conducted as part of employment as a graduate student researcher or as part of the dissertation research. A report based on an internship of at least ten weeks duration at a facility, government health office, institute, or company outside of UC San Diego focusing on biological or medical research can also be used to satisfy this requirement.</p>
+        <h4>Sample Schedule:</h4>
+        <table border="1" cellspacing="0" cellpadding="0" width="518">
+          <tr>
+            <td valign="top"><strong>Fall</strong></td>
+            <td valign="top"><strong>Winter</strong></td>
+            <td valign="top"><strong>Spring</strong></td>
+          </tr>
+          <tr>
+            <td colspan="3" valign="top"><strong>Year 1</strong></td>
+          </tr>
+          <tr>
+            <td width="172" valign="top"><p>MATH 281A (Math Stat) (4)</p></td>
+            <td width="171" valign="top"><p>MATH 281B (4)</p></td>
+            <td width="176" valign="top"><p>MATH 281C (4)</p></td>
+          </tr>
+          <tr>
+            <td width="172" valign="top"><p>MATH 282A (Linear Models) (4)</p></td>
+            <td width="171" valign="top"><p>MATH 281B (4)</p></td>
+            <td width="176" valign="top"><p>Life Science elective</p></td>
+          </tr>
+          <tr>
+            <td width="172" valign="top"><p>FMPH 221 (Biostat Methods I) (4)</p></td>
+            <td width="171" valign="top"><p>FMPH 222 (Biostat Methods II) (4)</p></td>
+            <td width="176" valign="top"><p>FMPH 223 (Longitudinal Data) (4)</p></td>
+          </tr>
+          <tr>
+            <td width="172" valign="top"><p>FMPH 290 (Seminar/JC) (1)</p></td>
+            <td width="171" valign="top"><p>FMPH 290 (Seminar/JC) (1)</p></td>
+            <td width="176" valign="top"><p>FMPH 290 (Seminar/JC) (1)</p></td>
+          </tr>
+          <tr>
+            <td colspan="3" valign="top"><strong>Year 2</strong></td>
+          </tr>
+          <tr>
+            <td width="172" valign="top"><p>FMPH 224 (Clinical trials) (4)</p></td>
+            <td width="171" valign="top"><p>FMPH 225 (Adv. Inference) (4)</p></td>
+            <td width="176" valign="top"><p>MATH 284 (Surv. Anal.) (4)</p></td>
+          </tr>
+          <tr>
+            <td width="172" valign="top"><p>FMPH 241 (Rotation) (3)</p></td>
+            <td width="171" valign="top"><p>FMPH 241 (Rotation) (3)</p></td>
+            <td width="176" valign="top"><p>FMPH 241 (Rotation) (3)</p></td>
+          </tr>
+          <tr>
+            <td width="172" valign="top"><p>Additional Elective (4)</p></td>
+            <td width="171" valign="top"><p>FMPH 227 (Adv. Multivariate Methods) (4)</p></td>
+            <td width="176" valign="top"><p>Life science elective</p></td>
+          </tr>
+          <tr>
+            <td width="172" valign="top"><p>FMPH 290 (Seminar/JC) (1)</p></td>
+            <td width="171" valign="top"><p>FMPH 290 (Seminar/JC) (1)</p></td>
+            <td width="176" valign="top"><p>FMPH 290 (Seminar/JC) (1)</p></td>
+          </tr>
+          <tr>
+            <td colspan="3" valign="top"><strong>Year 3</strong></td>
+          </tr>
+          <tr>
+            <td width="172" valign="top"><p>FMPH 299 Thesis Research</p></td>
+            <td width="171" valign="top"><p>FMPH 299 Thesis Research&nbsp;</p></td>
+            <td width="176" valign="top"><p>FMPH 299 Thesis Research</p></td>
+          </tr>
+          <tr>
+            <td width="172" valign="top"><p>FMPH 226 (Observational studies) (4)</p></td>
+            <td width="171" valign="top"><p>FMPH 242 (Adv. Topics)</p></td>
+            <td width="176" valign="top"><p>FMPH 290 (Seminar/JC) (1)</p></td>
+          </tr>
+          <tr>
+            <td width="172" valign="top"><p>FMPH 290 (Seminar/JC) (1)</p></td>
+            <td width="171" valign="top"><p>FMPH 290 (Seminar/JC) (1)</p></td>
+            <td width="176" valign="top"><p>&nbsp;</p></td>
+          </tr>
+          <tr>
+            <td colspan="3" valign="top"><strong>Year 4</strong></td>
+          </tr>
+          <tr>
+            <td width="172" valign="top"><p>FMPH 299 Thesis Research</p></td>
+            <td width="171" valign="top"><p>FMPH 299 Thesis Research</p></td>
+            <td width="176" valign="top"><p>FMPH 299 Thesis Research</p></td>
+          </tr>
+          <tr>
+            <td width="172" valign="top"><p>FMPH 290 (Seminar/JC) (1)</p></td>
+            <td width="171" valign="top"><p>FMPH 290 (Seminar/JC) (1)</p></td>
+            <td width="176" valign="top"><p>FMPH 290 (Seminar/JC) (1)</p></td>
+          </tr>
+        </table>
+        <h3>Qualifying Examinations and Dissertation Requirements </h3>
+        <h4>PhD Written Qualifying Examination</h4>
+        <p>The PhD written qualifying examination has two parts: a statistical theory part, developed and scored by the statistics group within the Department of Mathematics; and a biostatistics part, developed and scored by the Division of Biostatistics and Bioinformatics within the Department of Family Medicine and Public Health. The exam committees in charge may be different for each part of the exam. Whether students pass or fail is determined separately by the exam committees for the statistical theory part and the biostatistics part of the exam. The student must pass both qualifying exams at the PhD-provisional pass level or higher, with one qualifying exam receiving a PhD pass grade. Each exam committee will forward its recommendation to the chair of the Graduate Program Committee, which will be the final arbiter of pass or fail.</p>
+        <p>The PhD written qualifying examination will be given at the end of each spring quarter and also at the beginning of each fall quarter. Students in the PhD program must attempt the exam in the spring quarter immediately after they complete both the MATH 281A-B-C and FMPH 221-223 core course series. A well-prepared student will take these exams during the first year of the program. Otherwise, they are expected to take the exams during the second year of the program. Students must pass both qualifying exams by the end of the second year in the program. At least one of the exams must be completed with a provisional PhD pass or better by the end of the first year. Failure to meet the passing requirements (i.e., PhD-provisional pass or better on both qualifying exams with at least one PhD-level pass by the end of the second year) on the qualifying exams after two attempts will result in a recommendation to the dean of the Graduate Division for disqualification of the student in the PhD program and dismissal from the university.</p>
+<h4>Scientific Research  Examination</h4>
+        <p>Students in the PhD program must also pass a scientific research  examination. This consists of a seminar presentation of a statistical application in a particular area of life sciences. The presentation will be evaluated by an ad hoc committee of three faculty members, including at least one outside (nonstatistician) member with expertise in the area of application. The exam is taken Pass/Fail. The student is allowed two attempts at taking this exam. The student should pass this requirement prior to the end of the third year of study.</p>
+        <h4>Advancement to Candidacy</h4>
+        <p>It is expected that by the end of the third year (nine quarters), students should have a field of research chosen and a faculty member willing to direct and guide them. A student will advance to candidacy after successfully passing the oral qualifying examination, which deals primarily with the area of research proposed. The student will also have successfully completed at least sixty-eight units of required and elective courses within the program. Required courses will be completed letter grade only.</p>
+        <p>Advisers must submit the application for the Qualifying Exam (QE) four weeks prior to the exam date; exams taken before receiving approval from the Graduate Division may be deemed null and void. Students must be registered during the quarters in which they take any portion of their QE. To be eligible for the QE, the student must have:</p>
+        <ul>
+          <li>A &ldquo;B&rdquo; average in all work done in graduate standing</li>
+          <li>Satisfied all departmental or group requirements</li>
+          <li>Removed all academic deficiencies</li>
+        </ul>
+        <p>The preparation for the exam will be done by working closely with a faculty mentor (independent study) who is a regular member of the interdepartmental Program in Biostatistics. The exam committee consists of the doctoral committee. The PhD qualifying examination examines a student on the breadth and depth of knowledge expected from the course work taken, and a special research topic approved by the committee. The primary purpose of the QE is to validate that the student is academically qualified to conceptualize a research topic, undertake scholarly research and clearly communicate its results, and successfully produce the dissertation required for a doctoral degree. A forty-five minute presentation given by the student is followed by a question period that covers the special research topic as well as course work in general.</p>
+        <p>A student who passes the PhD QE is eligible for advancement to candidacy for the PhD degree.</p>
+        <h4>Doctoral Dissertation</h4>
+        <p>The doctoral dissertation is an essential part of the PhD program. A topic will be selected by the student, under the advice and guidance of a major professor (thesis adviser) and a dissertation committee chaired by the major professor. At least one member of the committee must be a tenured faculty from outside the biostatistics program; often this will be a member of the biomedical sciences faculty who can provide a motivating problem or data set from an area of application, in collaboration with the major adviser. The dissertation must contain an original contribution of quality that would be acceptable for publication in the biostatistics literature that extends the theory or methodology of biostatistics or extends biostatistical methods to solve a critical problem in applied disciplines.</p>
+        <p>The entire dissertation committee will conduct a final oral examination, which will deal primarily with questions arising out of the relationship of the dissertation to the field of biostatistics.<u></u></p>
+        <h4>Time Limits</h4>
+        <p>The goal of this policy is to encourage PhD completion in a timely manner.</p>
+        <p><strong>Precandidacy limit.</strong> Maximum registered time to advance to PhD candidacy: eleven quarters</p>
+        <p><strong>Support limit.</strong> Maximum registered time doctoral student is eligible for support: five years</p>
+        <p><strong>Total time limit.</strong> Maximum registered time to complete all PhD requirements: six years        </p>
+        <h2>MS in Biostatistics</h2>
+        <p class="program-contact-info"><strong>MS Program Director:</strong> <br>
+          Florin Vaida, Professor<br>
+        Division of Biostatistics and Bioinformatics<br>
+        <a href="mailto:fvaida@ucsd.edu" target="_blank">fvaida@ucsd.edu</a> <br>
+        <a href="http://ph.ucsd.edu/biostat/program/MS/index.html" target="_blank">http://ph.ucsd.edu/biostat/program/MS/index.html</a>   </p>
+        <p>The MS in biostatistics is a program housed within the Department of Family Medicine and Public Health&rsquo;s Division of Biostatistics and Bioinformatics at the School of Medicine. The core courses are offered by the Division of Biostatistics and Bioinformatics. </p>
+        <p>The course work involves training in biostatistics methods and data analysis, and will include theoretical and applied classroom work in the core biostatistics courses, with additional electives in life sciences. The core courses incorporate classroom projects in data analysis pertinent to biomedical data, and introduce literate programming and reproducible research practices. A practicum in biostatistics course will train students in preparing and presenting statistical analyses, using data drawn from collaborative projects in biomedical or public health sciences, with required oral presentations and an analysis report.</p>
+        <h3>Admissions Requirements</h3>
+        <p>Interested candidates should prepare the following application documents to be submitted online:</p>
+        <ul type="disc">
+          <li>Statement      of Purpose.</li>
+          <li>Transcripts      (official transcripts will be required if admitted into the program); 3.0      GPA or above required for admission.</li>
+          <li>List      of mathematics courses taken/projected as well as textbooks and authors      used and grades received.</li>
+          <li>Three      letters of recommendation; at least two should address academic and/or      professional&nbsp;qualifications for pursuing an MS program in biostatistics.      If more than three are received, the first three received will be      reviewed.</li>
+          <li>General      Graduate Record Examination (GRE) test scores.</li>
+          <li>TOEFL      test scores (for international applicants from non-English speaking      countries).</li>
+          <li>MS      applicants who are US citizens are required to complete a&nbsp;<a href="http://www.fafsa.ed.gov/" target="_blank">FAFSA</a>. This will      assist in determining which applicants are eligible for grants that may      have been awarded to support the interdepartmental program by various      agencies and donors. FAFSA information plays no role in admission      decisions.</li>
+        </ul>
+        <p>The minimal requirements for entrance into the MS program are a bachelor&rsquo;s degree with a 3.0 overall grade point average; a year of calculus (including multivariate calculus); a course in linear algebra; a course in statistical or computer programming (or documented equivalent experience); and two courses in statistics, biostatistics, and/or probability, including one upper-division course. Practical knowledge of a statistical package (e.g., R, SAS, SPSS, Stata) and/or experience with programming are also needed.</p>
+        <p>For further admission information, students should see the admissions overview on our website: <a href="http://ph.ucsd.edu/biostat/program/MS/index.html" target="_blank">http://ph.ucsd.edu/biostat/program/MS/index.html</a> or contact the biostatistics graduate coordinator via email at <a href="mailto:mbazyar@ucsd.edu" target="_blank">mbazyar@ucsd.edu</a> or at (858) 246-2595. </p>
+        <h3>Curriculum</h3>
+        <p>The MS program requires the completion of at least fifty-six units of course work. Graduate students must register for a minimum of twelve units per quarter. These twelve units can be made up of a combination of required course work as described below, additional elective course work, if any, and special study courses (FMPH 299). In special cases, students with an appropriate background may waive specific courses, with permission of the program director, as long as the fifty-six-unit minimum for the program is met. A typical student is expected to take sixty to seventy-two units of course work during the program. All student courses, as well as any changes throughout the quarter, must be approved by a faculty adviser prior to registering for classes each quarter.</p>
+        <h4>Required Core Courses (thirty-two units)&nbsp;</h4>
+        <p>One of each of the following courses: </p>
+        <div>
+          <div> </div>
+        </div>
+<ul type="circle">
+    <li>FMPH 221. Biostatistical Methods I (four units) </li>
+    <li>FMPH 222. Biostatistical Methods II (four units) </li>
+    <li>FMPH 223. Analysis of Longitudinal Data (four units) </li>
+    <li>FMPH 243A. Practicum in Biostatistics (four units) </li>
+    <li>FMPH 244A. Foundations of Biostatistics (four units) </li>
+    <li>FMPH 290. Biostatistics Seminar (four quarters, one unit each) </li>
+    </ul>
+        <p>Two from the following courses: </p>
+        <ul type="circle">
+          <li>FMPH 224. Clinical Trials and Experimental Design (four units) </li>
+          <li>FMPH 225. Advanced Topics in Biostatistical Inference (four units) </li>
+          <li>FMPH 226. Statistical Methods for Observational Studies (four units) </li>
+          <li>FMPH 227. Advanced Multivariate Methods (four units) </li>
+          <li>MATH 284. Survival Analysis (four units) </li>
+        </ul>
+        <p>We note that all of the biostatistics core courses except FMPH 290 carry a data analysis component. Students will be exposed to projects involving advanced data analyses to address complex life sciences problems. All courses except FMPH 290 are letter grade only. </p>
+        <p>Required Life Sciences (eight units):</p>
+        <p>Two courses at the upper-division or the graduate level in biomedical sciences, neurosciences, epidemiology, public health, biology, systems biology, bioengineering, or medicine, for a letter grade if possible. </p>
+        <h4>Elective Courses (sixteen units)</h4>
+        <p>Students are required to take at least sixteen additional units of elective courses (four courses) for a letter grade, from the following list. </p>
+        <ol type="letter">
+          <li>Biostatistics and Statistical Methods Electives: </li>
+      
+        <ul type="circle">
+          <li>FMPH 242. Advanced Topics in Biostatistics (four units) </li>
+          <li>FMPH 243B-C. Biostatistics Practicum (four units each) </li>
+          <li>FMPH 244B. Foundations of Biostatistics (four units) </li>
+          <li>MATH 280A-B-C. Probability Theory (four units each) </li>
+          <li>MATH 281A-B-C. Statistical Inference (four units each) </li>
+          <li>MATH 282A-B. Applied Statistics (four units each) </li>
+          <li>MATH 287B. Multivariate Analysis (four units) </li>
+          <li>MATH 287D. Statistical Learning (four units) </li>
+          <li>MATH 287A, C. Time Series Analysis (four units each) </li>
+          <li>MATH 202A. Applied Algebra I (four units) </li>
+          <li>MATH 240A-B-C. Real Analysis (four units) </li>
+          <li>MATH 271A-B-C. Numerical Optimization (four units) </li>
+          <li>MATH 285. Stochastic Processes (four units) </li>
+          <li> Any core biostatistics courses listed above, in excess of those required</li>
+        </ul>
+      
+       
+    
+          <li>Life Sciences Electives: </li>
+   
+       
+        <p>Any course at the upper-division or the graduate level in biomedical sciences, neurosciences, epidemiology, public health, biology, systems biology, bioengineering, or medicine, for a letter grade if possible, in addition to the required life sciences course. </p>
+        
+          <li>Computer Science Electives: </li>
+       
+       
+        <ul type="circle">
+          <li>CSE 202. Algorithm Design and Analysis (four units) </li>
+          <li>ECE 273. Convex Optimization (four units) </li>
+          <li>CSE 250B. Learning Algorithms (four units) </li>
+          <li>CSE 255. Data Mining and Predictive Analytics (four units) </li>
+          <li>CSE 260. Parallel Computation (four units) </li>
+          <li>CSE 283. Genomics, Proteomics, Systems Biology (four units)
+  
+          </li>
+        </ul><li>Other Elective Courses: </li>
+          <p>
+          In addition to the courses listed above, students may take other elective courses. These include FMPH 299 (a special studies course), and any course at the upper-division (e.g., remedial courses) or graduate level in biostatistics, mathematics, computer science, life sciences as listed above, or related areas. </p>
+			</ul></ol>
+        <h4>Practicum in Biostatistics (FMPH 243A-B-C)&nbsp;</h4>
+        <p>The practicum is a course specifically designed for this MS program that takes advantage of the extensive involvement of the program faculty in collaborative and interdisciplinary work within the life sciences. Under the supervision of the instructing faculty, the students will participate in applied, real-life projects stemming from the research and collaborations of the faculty in the Division of Biostatistics. The students will work in small groups (2–3 students) on a capstone project, with all students presenting their progress throughout the course, with a final presentation and project report submitted at the end of the class. </p>
+        <p>All students are required to take FMPH 243A. Students on the applied track are encouraged to also take FMPH 243B-C.</p>
+        <h3>Master&rsquo;s Examination</h3>
+        <p>A comprehensive final examination, called the master&rsquo;s examination, will be given at least at the end of each spring quarter. Two failures to pass the master&rsquo;s examination will result in a recommendation to the dean of Graduate Studies for disqualification of the student in the MS program. The master&rsquo;s examination is developed and scored by the Division of Biostatistics and Bioinformatics within the Department of Family Medicine and Public Health (FMPH). The chair of the biostatistics graduate program committee will appoint an exam committee that will be responsible for preparing, administering, and grading the examination. The exam committee will forward its recommendation to the chair of the graduate program committee, which will be the final arbiter of pass or fail.</p>
+        <h4>Time Limits</h4>
+        <p><strong>Normative time limit:</strong> Two years (six quarters)<br>
+          <strong>Total time limit: </strong>Three years (nine quarters)</p>
+        <h2>Master in Public Health (MPH) Graduate Program</h2>
+        <p class="program-contact-info"><strong>Program Director:<br>
+          </strong>Michael Pratt, Professor<br>
+        Division of Global Health<br>
+        <a href="mailto:mipratt@ucsd.edu" target="_blank">mipratt@ucsd.edu</a><br>
+        <a href="http://ph.ucsd.edu/mph/index.html" target="_blank">http://ph.ucsd.edu/mph/index.html</a></p>
+        <h3>Program Focus</h3>
+        <p>The MPH program is housed within the Department of Family Medicine and Public Health. Its core courses are offered by various units within this department. </p>
+        <p>MPH students will be required to take basic course work in all of the five core public health disciplines (biostatistics; environmental health sciences; epidemiology; health policy and management; social and behavioral sciences), as well as complete a required applied practicum experience. Students need to declare their concentration (epidemiology, general public health, health behavior, or public mental health) by the end of their first year of the program. Required course work credit hours may be reduced for health professionals and students with prior relevant graduate training. The program will require the completion of a thesis or a capstone project. Epidemiology, health behavior, and public mental health (PMH) concentration students, as well as general public health (GPH) concentration students who plan to complete the MPH over two academic years, must choose a capstone faculty mentor or propose a thesis (including forming a thesis committee) by the end of the first quarter of their second year. GPH concentration students who are attempting to complete the MPH in four quarters must choose a capstone faculty mentor or proposal a thesis (including forming a thesis committee) by the end of their third quarter.  </p>
+<p>All capstone or thesis requirements should be completed during the students&rsquo; final two quarters.  The capstone is designed to review, integrate, and apply concepts and methods presented in the MPH curriculum and enhance the student&rsquo;s preparation for postgraduation public health practice, research, or education. The capstone project may focus on public health fieldwork or training, a public health practice or program proposal, a report on epidemiology or behavioral science methods, or be based upon the student&rsquo;s practicum experience. In all cases the capstone must be a product demonstrating mastery and synthesis of public health principles consistent with the MPH degree and involve a written report. The thesis option will typically involve analysis and summarization of previously collected data from an ongoing or completed public health research project, although other options, such as newly launched pilot studies or literature reviews, will also be possible. The scope of the thesis will be decided by mutual agreement among the student, thesis adviser, and thesis committee members, and a thesis agreement form will be completed and signed. The thesis must be approved by the student&rsquo;s thesis committee and submitted to UC San Diego&rsquo;s Graduate Division.</p>
+        <h3>Admissions Requirements</h3>
+        <p>Interested candidates should prepare the following application documents to be submitted online:</p>
+        <ul type="disc">
+          <li>Statement      of purpose. </li>
+          <li>Transcripts      (official transcripts will be required if admitted into the program); 3.0      GPA or above is required for admission.</li>
+          <li>Three      letters of recommendation; at least two should address academic and/or      professional&nbsp;qualifications for pursuing a master of public health      program. If more than three are received, the first three received will be      reviewed.</li>
+        
+          <li>General      Graduate Record Examination (GRE) or Medical College Admission Test (MCAT)      scores.</li>
+       
+          <li>TOEFL      test scores (for international applicants from non-English speaking      countries).</li>
+          <li>Curriculum      vitae.</li>
+        </ul>
+        <p>For further admission information, students should see the admissions overview on our website: <a href="http://ph.ucsd.edu/mph/admissions/index.html" target="_blank">http://ph.ucsd.edu/mph/admissions/index.html</a>, or contact the program&rsquo;s graduate coordinators via email at <a href="mailto:mphinfo@ucsd.edu" target="_blank">mphinfo@ucsd.edu</a>. </p>
+        <h3>Curriculum</h3>
+        <p>MPH students are required to obtain sixty-four units of course work from the following courses. All students must complete thirty-six units of required core courses. Epidemiology, health behavior, and public mental health (PMH) concentration students must also complete sixteen units of required concentration courses, and twelve additional elective units that can include MPH courses that are not required for their concentration, MPH electives, or approved courses outside of the program. General public health (GPH) concentration students must complete twenty-six units of required core courses, twelve units of concentration courses, and sixteen units of elective courses. A maximum of twenty of the required sixty-four units may be waived based upon prior education or experience. Full-time graduate students must register for a minimum of twelve units per quarter. These twelve units can be made up of a combination of required course work as described below, and additional elective course work (if any).</p>
+<h4>Required Core Courses (thirty-six units)&nbsp;</h4>
+        
+         <strong>Core Courses</strong>
+          <ul type="circle">
+            <li>FMPH      400. Introduction to Biostatistics (four units)</li>
+              <li>FMPH      401. Introduction to Epidemiology (four units)</li>
+              <li>FMPH      402. Introduction to Health Behavior (four units)</li>
+              <li>FMPH      403. Public Health Research Methods (four units)</li>
+              <li>FMPH      404. Introduction to Environmental and Occupational Health (four units)</li>
+              <li>FMPH      405. Introduction to Health Policy (four units)</li>
+              <li>FMPH      406. Scientific Writing (four units)</li>
+              <li>FMPH      495. Master&rsquo;s Capstone/Thesis Independent Study (two units)</li>
+              <li>FMPH      496. Public Health Practicum (four units)</li>
+              <li>FMPH      499. Public Health Master&rsquo;s Capstone/Thesis (two units)</li>
+          </ul>
+         
+        
+        <h4>Health Behavior Concentration Courses (sixteen units)&nbsp;</h4>
+        <p>Health behavior concentration students are required to complete the following three courses:</p>
+<ul type="circle">
+  <li>FMPH      410. Health Behavior Interventions (four units)</li>
+  <li>FMPH      411. Measurement and Program Evaluation (four units)</li>
+	<li>FMPH      413. Ethics in Public Health Research and Practice (four units)</li></ul>
+    <p>For their remaining four units of concentration course work, health behavior students must complete one of the following courses. </p>
+    <ul type="circle">
+      <li><span dir="LTR"> </span>FMPH 412. Health Promotion and Communication (four units)</li>
+      <li><span dir="LTR"> </span>FMPH 419. Biostatistics II (four units)</li>
+      <li><span dir="LTR"> </span>FMPH 426. Mental Health, Health Behavior, and Addiction (four units)</li>
+    </ul>
+    <h4>Epidemiology Concentration Courses (sixteen units)&nbsp;</h4>
+        <p>Epidemiology concentration students are required to complete the following two courses: </p>
+        <ul type="circle">
+          <li>FMPH      415. Advanced Epidemiological Methods (four units)</li>
+          <li>FMPH      419. Biostatistics II (four units)</li>
+        </ul>
+        <p>For their remaining eight units of concentration course work, epidemiology students must complete any two of the following courses:</p>
+        <ul type="circle">
+          <li>FMPH 413. Ethics in Public      Health Research and Practice (four units)</li>
+          <li>FMPH 416. Environmental      Epidemiology (four units)</li>
+          <li>FMPH 417. Cardiovascular      Disease Epidemiology (four units)</li>
+          <li>FMPH 418. Infectious      Diseases: Epidemiological Methods and Current Trends (four units)</li>
+          <li>FMPH 420. Cancer: Cause      and Prevention (four units)</li>
+          <li>FMPH 421. Perinatal      Epidemiology (four units)</li>
+          <li>FMPH 422. Occupational      Epidemiology (four units)</li>
+          <li>FMPH 423. Exposure      Assessment and Biomarkers in Epidemiology (four units)</li>
+          <li>FMPH 424. Environmental      Toxicology and Risk Assessment (four units)</li>
+          <li>FMPH 425. Epidemiology of      Public Mental Health (four units)</li>
+        </ul>
+        <h4>General Public Health Concentration Courses (twelve units)</h4>
+        <p>General public health (GPH) concentration courses include all health behavior and epidemiology concentration courses. GPH students may use any three of the following courses to complete their concentration course requirement.</p>
+        <ul type="circle">
+          <li>FMPH      410. Health Behavior Interventions (four units)</li>
+          <li>FMPH      411. Measurement and Program Evaluation (four units)</li>
+          <li>FMPH      412. Health Promotion and Communication (four units)</li>
+          <li>FMPH      413. Ethics in Public Health Research and Practice (four units)</li>
+          <li>FMPH      415. Advanced Epidemiological Methods (four units)</li>
+          <li>FMPH      416. Environmental Epidemiology (four units)</li>
+          <li>FMPH      417. Cardiovascular Disease Epidemiology (four units)</li>
+          <li>FMPH      418. Infectious Diseases: Epidemiological Methods and Current Trends (four      units)</li>
+          <li>FMPH      419. Biostatistics II (four units)</li>
+          <li>FMPH      420. Cancer: Cause and Prevention (four units)</li>
+          <li>FMPH      421. Perinatal Epidemiology (four units)</li>
+          <li>FMPH      422. Occupational Epidemiology (four units)</li>
+          <li>FMPH      423. Exposure Assessment and Biomarkers in Epidemiology (four units)</li>
+          <li>FMPH      424. Environmental Toxicology and Risk Assessment (four units)</li>
+          <li>FMPH      425. Epidemiology of Public Mental Health (four units)</li>
+          <li>FMPH      426. Mental Health, Health Behavior, and Addiction (four units)</li>
+          <li>FMPH      427. Mental Health across the Lifecourse (four units)</li>
+          <li>FMPH      428. Dissemination and Implementation, Policy, and Health Services in      Mental Health (four units)</li>
+        </ul>
+
+        
+        <h4>Elective Courses (twelve to sixteen units)</h4>
+        <p>Epidemiology, health behavior, and public mental health (PMH) concentration students are required to take at least twelve additional units of elective courses. General public health (GPH) concentration students are required to take at least sixteen additional units of elective courses. Students are encouraged to take their elective courses within the department but can petition to use courses outside the department toward their electives requirement. Possible departmental electives are listed below.</p>
+<strong>Elective Courses</strong>
+          <ul type="circle">
+            <li>FMPH      460. Advanced Health Behavior Interventions (four units)</li>
+              <li>FMPH      461. Clinical Nutrition (two units)</li>
+              <li>FMPH      462. Community Advocacy (four units)</li>
+              <li>FMPH      463. Cultural Perceptions of Health and Disease (four units)</li>
+              <li>FMPH      464. Problems in Global Health (four units)</li>
+              <li>FMPH      465. Health Services Research (four units)</li>
+              <li>FMPH      466. Health Policy and Health Behaviors in the United States (three units)</li>
+              <li>FMPH 467.      Public Health Advanced Practicum (four units)</li>
+              <li>FMPH 468.      Clinical Trials: Issues and Dilemmas (four units)</li>
+              <li>FMPH 469.      Analysis of Longitudinal Data (four units)</li>
+              <li>FMPH      491. Special Topics/Public Health (two to four units)</li>
+              <li>FMPH      498. Independent Study (one to twelve units)</li>
+          </ul>
+          
+       
+        <h4>Sample Schedule for Health Behavior Concentration:</h4>
+        <table border="1" cellspacing="0" cellpadding="0" width="518">
+          <tr>
+            <td valign="top"><strong>Fall</strong></td>
+            <td valign="top"><strong>Winter</strong></td>
+            <td valign="top"><strong>Spring</strong></td>
+          </tr>
+          <tr>
+            <td colspan="3" valign="top"><strong>Year 1</strong></td>
+          </tr>
+          <tr>
+            <td width="229" valign="top"><p>FMPH 400 (Intro to Biostats) (4)</p></td>
+            <td width="228" valign="top"><p>FMPH 403 (PH Research Meth) (4)</p></td>
+            <td width="234" valign="top"><p>FMPH 404 (Envr/Occ Health) (4)</p></td>
+          </tr>
+          <tr>
+            <td width="229" valign="top"><p>FMPH 401 (Intro to Epi) (4)</p></td>
+            <td width="228" valign="top"><p>FMPH 405 (Intro to HP) (4)</p></td>
+            <td width="234" valign="top"><p>FMPH 406 (Sci Writing) (4)</p></td>
+          </tr>
+          <tr>
+            <td width="229" valign="top"><p>FMPH 402 (Intro to HB) (4)</p></td>
+            <td width="228" valign="top"><p>FMPH 410 (HB Interventions) (4)</p></td>
+            <td width="234" valign="top"><p>FMPH 496 (Practicum) (4)</p></td>
+          </tr>
+          <tr>
+            <td colspan="3" valign="top"><strong>Year 2</strong></td>
+          </tr>
+          <tr>
+            <td width="229" valign="top"><p>FMPH 411 (Measure/Prgm Eval) (4)</p></td>
+            <td width="228" valign="top"><p>FMPH 413 (PH Ethics) (4)</p></td>
+            <td width="234" valign="top"><p>FMPH 465 (Hlth Serv Research) (4)</p></td>
+          </tr>
+          <tr>
+            <td width="229" valign="top"><p>FMPH 412 (Health Prom and Comm) (4)</p></td>
+            <td width="228" valign="top"><p>FMPH 461 (Clinical Nutrition) (4)</p></td>
+            <td width="234" valign="top"><p>FMPH 499 (PH Capstone/Thesis) (2)</p></td>
+          </tr>
+          <tr>
+            <td width="229" valign="top"><p>FMPH 462 (Community Advocacy) (4)</p></td>
+            <td width="228" valign="top"><p>FMPH 495 (Capstone/Thesis) (2)</p></td>
+            <td width="234" valign="top"></td>
+          </tr>
+        </table>
+        <h4>Sample Schedule for Epidemiology Concentration:</h4>
+        <table border="1" cellspacing="0" cellpadding="0" width="518">
+          <tr>
+            <td valign="top"><strong>Fall</strong></td>
+            <td valign="top"><strong>Winter</strong></td>
+            <td valign="top"><strong>Spring</strong></td>
+          </tr>
+          <tr>
+            <td colspan="3" valign="top"><strong>Year 1</strong></td>
+          </tr>
+          <tr>
+            <td width="229" valign="top"><p>FMPH 400 (Intro to Biostats) (4)</p></td>
+            <td width="228" valign="top"><p>FMPH 403 (PH Research Meth) (4)</p></td>
+            <td width="234" valign="top"><p>FMPH 404 (Envr/Occ Health) (4)</p></td>
+          </tr>
+          <tr>
+            <td width="229" valign="top"><p>FMPH 401 (Intro to Epi) (4)</p></td>
+            <td width="228" valign="top"><p>FMPH 405 (Intro to HP) (4)</p></td>
+            <td width="234" valign="top"><p>FMPH 406 (Sci Writing) (4)</p></td>
+          </tr>
+          <tr>
+            <td width="229" valign="top"><p>FMPH 402 (Intro to HB) (4)</p></td>
+            <td width="228" valign="top"><p>FMPH 419 (Biostatistics II) (4)</p></td>
+            <td width="234" valign="top"><p>FMPH 496 (Practicum) (4)</p></td>
+          </tr>
+          <tr>
+            <td colspan="3" valign="top"><strong>Year 2</strong></td>
+          </tr>
+          <tr>
+            <td width="229" valign="top"><p>FMPH 415 (Advanced Epi Methods) (4)</p></td>
+            <td width="228" valign="top"><p>FMPH 418 (Infect Disease Epi) (4)</p></td>
+            <td width="234" valign="top"><p>FMPH 468 (Clinical Trials) (4)</p></td>
+          </tr>
+          <tr>
+            <td width="229" valign="top"><p>FMPH 420 (Cancer) (4)</p></td>
+            <td width="228" valign="top"><p>FMPH 463 (Cultural Perceptions) (4)</p></td>
+            <td width="234" valign="top"><p>FMPH 499 (PH Capstone/Thesis) (2)</p></td>
+          </tr>
+          <tr>
+            <td width="229" valign="top"><p>FMPH 462 (Community Advocacy) (4)</p></td>
+            <td width="228" valign="top"><p>FMPH 495 (Capstone/Thesis) (2)</p></td>
+            <td width="234" valign="top"></td>
+          </tr>
+        </table>
+        <h4>Sample Schedule for General Public Health (GPH) Concentration:</h4>
+        <table border="1" cellspacing="0" cellpadding="0" width="691">
+          <tr>
+            <td valign="top"><p><strong>Fall</strong></p></td>
+            <td valign="top"><p><strong>Winter</strong></p></td>
+            <td valign="top"><p><strong>Spring</strong></p></td>
+          </tr>
+          <tr>
+            <td colspan="3" valign="top"><p><strong>Year 1</strong></p></td>
+          </tr>
+          <tr>
+            <td width="229" valign="top"><p>FMPH 400 (Intro to Biostats) (4)</p></td>
+            <td width="228" valign="top"><p>FMPH 403 (PH Research Meth) (4)</p></td>
+            <td width="234" valign="top"><p>FMPH 496 (Practicum) (4)</p></td>
+          </tr>
+          <tr>
+            <td width="229" valign="top"><p>FMPH 401 (Intro to Epi) (4)</p></td>
+            <td width="228" valign="top"><p>FMPH 404 (Envr/Occ Health) (4)</p></td>
+            <td width="234" valign="top"><p>FMPH 462 (Comm Advocacy) (4)</p></td>
+          </tr>
+          <tr>
+            <td width="229" valign="top"><p>FMPH 402 (Intro to HB) (4)</p></td>
+            <td width="228" valign="top"><p>FMPH 405 (Intro to HP) (4)</p></td>
+            <td width="234" valign="top"><p>FMPH 464 (Problems in GH) (4)</p></td>
+          </tr>
+          <tr>
+            <td colspan="3" valign="top"><p><strong>Year 2</strong></p></td>
+          </tr>
+          <tr>
+            <td width="229" valign="top"><p>FMPH 410 (HB Interventions) (4)</p></td>
+            <td width="228" valign="top"><p>FMPH 413 (PH Ethics) (4)</p></td>
+            <td width="234" valign="top"><p>FMPH 465 (Hlth Serv Research) (4)</p></td>
+          </tr>
+          <tr>
+            <td width="229" valign="top"><p>FMPH 406 (Sci Writing) (4)</p></td>
+            <td width="228" valign="top"><p>FMPH 422 (Occupational Epi) (4)</p></td>
+            <td width="234" valign="top"><p>FMPH 499 (PH Capstone/Thesis) (2)</p></td>
+          </tr>
+          <tr>
+            <td width="229" valign="top"><p>FMPH 416 (Environmental Epi) (4)</p></td>
+            <td width="228" valign="top"><p>FMPH 495 (Capstone/Thesis) (2)</p></td>
+            <td width="234" valign="top"></td>
+          </tr>
+        </table>
+        <h4>Sample One-Year Schedule for General Public Health (GPH) Concentration (for students who waive all sixteen elective units):</h4>
+        <table border="1" cellspacing="0" cellpadding="0" width="690">
+          <tr>
+            <td width="172" valign="top"><p><strong>Fall</strong></p></td>
+            <td width="172" valign="top"><p><strong>Winter</strong></p></td>
+            <td width="172" valign="top"><p><strong>Spring</strong></p></td>
+            <td width="172" valign="top"><p><strong>Summer</strong></p></td>
+          </tr>
+          <tr>
+            <td width="172" valign="top"><p>FMPH 400 (Intro to Biostats) (4)</p></td>
+            <td width="172" valign="top"><p>FMPH 403 (PH Research Meth) (4)</p></td>
+            <td width="172" valign="top"><p>FMPH 406 (Sci Writing) (4)</p></td>
+            <td width="172" valign="top"><p>FMPH 496 (Practicum) (4)</p></td>
+          </tr>
+          <tr>
+            <td width="172" valign="top"><p>FMPH 401 (Intro to Epi) (4)</p></td>
+            <td width="172" valign="top"><p>FMPH 404 (Envr/Occ Health) (4)</p></td>
+            <td width="172" valign="top"><p>FMPH 495 (Capstone/Thesis) (2)</p></td>
+            <td width="172" valign="top"><p>FMPH 499 (PH Capstone/Thesis) (2)</p></td>
+          </tr>
+          <tr>
+            <td width="172" valign="top"><p>FMPH 402 (Intro to HB) (4)</p></td>
+            <td width="172" valign="top"><p>FMPH 405 (Intro to HP) (4)</p></td>
+            <td width="172" valign="top"><p>FMPH 413 (PH Ethics) (4)</p></td>
+            <td width="172" valign="top"><p>&nbsp;</p></td>
+          </tr>
+          <tr>
+            <td width="172" valign="top"><p>&nbsp;</p></td>
+            <td width="172" valign="top"><p>FMPH 415 (Adv Epi Methods) (4)</p></td>
+            <td width="172" valign="top"><p>FMPH 418 (Infect Disease Epi) (4)</p></td>
+            <td width="172" valign="top"><p>&nbsp;</p></td>
+          </tr>
+        </table>
+        <h4>Sample Schedule for Public Mental Health (PMH) Concentration:</h4>
+        <table border="1" cellspacing="0" cellpadding="0" width="518">
+          <tr>
+            <td valign="top"><p><strong>Fall</strong></p></td>
+            <td valign="top"><p><strong>Winter</strong></p></td>
+            <td valign="top"><p><strong>Spring</strong></p></td>
+          </tr>
+          <tr>
+            <td colspan="3" valign="top"><p><strong>Year 1</strong></p></td>
+          </tr>
+          <tr>
+            <td width="229" valign="top"><p>FMPH 400 (Intro to Biostats) (4)</p></td>
+            <td width="228" valign="top"><p>FMPH 403 (PH Research Meth) (4)</p></td>
+            <td width="234" valign="top"><p>FMPH 404 (Envr/Occ Health) (4)</p></td>
+          </tr>
+          <tr>
+            <td width="229" valign="top"><p>FMPH 401 (Intro to Epi) (4)</p></td>
+            <td width="228" valign="top"><p>FMPH 405 (Intro to HP) (4)</p></td>
+            <td width="234" valign="top"><p>FMPH 406 (Sci Writing) (4)</p></td>
+          </tr>
+          <tr>
+            <td width="229" valign="top"><p>FMPH 402 (Intro to HB) (4)</p></td>
+            <td width="228" valign="top"><p>FMPH 425 (Epi of PMH) (4)</p></td>
+            <td width="234" valign="top"><p>FMPH 496 (Practicum) (4)</p></td>
+          </tr>
+          <tr>
+            <td colspan="3" valign="top"><p><strong>Year 2</strong></p></td>
+          </tr>
+          <tr>
+            <td width="229" valign="top"><p>FMPH 426 (Mental Health, HB, and Addiction) (4)</p></td>
+            <td width="228" valign="top"><p>FMPH 413 (PH Ethics) (4)</p></td>
+            <td width="234" valign="top"><p>FMPH 465 (Hlth Serv Research) (4)</p></td>
+          </tr>
+          <tr>
+            <td width="229" valign="top"><p>FMPH 427 (Mental Health across Lifecourse) (4)</p></td>
+            <td width="228" valign="top"><p>FMPH 428 (Dissemination and Implementation) (4)</p></td>
+            <td width="234" valign="top"><p>FMPH 499 (PH Capstone/Thesis) (2)</p></td>
+          </tr>
+          <tr>
+            <td width="229" valign="top"><p>FMPH 462 (Community Advocacy) (4)</p></td>
+            <td width="228" valign="top"><p>FMPH 495 (Capstone/Thesis) (2)</p></td>
+            <td width="234" valign="top"></td>
+          </tr>
+        </table>
+        <h3>Capstone Requirement</h3>
+        <p>Successful completion of the MPH degree will require a written capstone project. Students will be able to choose from two options for this requirement: completion of a thesis or completion of a written capstone project that focuses on public health practice.</p>
+        <h4>Thesis Option</h4>
+        <p>Students who select the thesis option for their capstone requirement will be required to form a thesis committee. Per Graduate Division guidelines, the committee must consist of three faculty members, at least two of whom are from the student&rsquo;s major department. The thesis committee chair ideally should have experience in the student&rsquo;s area of research and will serve as the student&rsquo;s primary research mentor. Students are expected to establish their thesis committee by the end of their first year of the program. They should meet with their committee at least once during their first year, and at least once per academic quarter during their second year to discuss their progress and receive guidance.</p>
+        <p>After forming a thesis committee, the student will complete a thesis agreement form, outlining the scope of their thesis, which must be signed by their thesis committee members. After determining the scope of their thesis, students will collaborate with their committee to prepare a more detailed thesis proposal, which must be approved by the student&rsquo;s committee before embarking on the thesis project. Thesis projects will typically involve analysis and summarization of previously collected data from an ongoing or completed public health research project, though other types of studies may be approved by the student&rsquo;s thesis committee. The thesis itself must be approved by the student&rsquo;s thesis committee and submitted to UC San Diego&rsquo;s Graduate Division. Students will be encouraged, but not required, to defend their theses in public academic settings.</p>
+        <h4>Practice-Oriented Capstone Project</h4>
+        <p>Students who choose to complete a practice-oriented capstone project will be asked to review, integrate, and apply concepts and methods from the MPH&rsquo;s curriculum to a practical setting. Many of these projects will build upon the student&rsquo;s practicum field experience. Students will be required to complete an individual written report approved by the practicum coordinator, their faculty academic adviser, and the MPH&rsquo;s graduate committee. A capstone agreement form will be completed and signed prior to the start of the project. All capstone reports will be reviewed by two or more independent faculty reviewers. The report may focus on public health fieldwork or training, a public health practice or program proposal, a report on epidemiology or behavioral science methods, or specific projects related to the student&rsquo;s practicum experience. </p>
+        <h4>Time Limits</h4>
+        <p>Normative time to degree for the MPH is two years. Students will be allowed a maximum of five years from matriculation to completion of the MPH degree. Students who cannot complete degrees within that time frame may petition for additional time. The program director will decide whether or not to approve these petitions and will act in accordance with UC San Diego policy. </p>
+        <div>
+          <div> </div>
+        </div>
+        <div></div>
+        <!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

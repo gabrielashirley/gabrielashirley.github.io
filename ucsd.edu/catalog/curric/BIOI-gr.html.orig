@@ -1,0 +1,685 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Bioinformatics Graduate Program</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin"><span class="program-name">Bioinformatics and Systems
+    Biology Graduate Program</span></h1>
+<p class="sectionNav"><span class="courseFacLink"> [ <a href="../curric/BIOI-ug.html">undergraduate
+      program</a> | <a href="../courses/BIOI.html">courses</a> | <a href="../faculty/BIOI.html">faculty</a> ]</span></p>
+				<p class="program-contact-info">PROGRAM DIRECTOR: <br />
+			    Trey Ideker, <em>Professor in Medicine</em></p>
+<p class="program-contact-info">ASSOCIATE DIRECTORS:<br>
+Terry Gaasterland, <em>Professor, Marine Biology Research Division</em><br>
+Gene Yeo, <em>Professor, Cellular and Molecular Medicine</em></p>
+<p class="program-contact-info">STUDENT AFFAIRS: (858) 822-0831<br />
+  <a href="mailto:bioinfo@ucsd.edu">bioinfo@ucsd.edu<br />
+</a><a href="http://bioinformatics.ucsd.edu" target="_blank">http://bioinformatics.ucsd.edu</a></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h2 class="program-overview-subhead-1">Program Focus</h2>
+				<p>We are witnessing the birth of a new era in biology and medicine. The confluence of unprecedented measuring capabilities and computational power has dramatically changed the questions that may be addressed in the biological and biomedical sciences and promises to empower clinical practice in fundamental ways.</p>
+				<p>On the one hand, recent and novel technologies produce biological data sets of ever-increasing resolution that reveal not only genomic sequences but also RNA and protein abundances, their interactions with one another, their subcellular localization, and the identity and abundance of other biological molecules. This requires the development and application of sophisticated computational methods, encompassed by the field of <strong>bioinformatics</strong>.</p>
+				<p>On the other hand, biomedical research has risen to the challenge of understanding the integrated functions of thousands of genes. Physical and functional interaction networks chart connectivities, reveal functional modules, and provide clues on the functioning of specific genes. Using mathematical models of the stochastic and dynamical events of biology reveals fundamental design principles and allows for virtual experimentation. This is a focus of the field of <strong>systems biology</strong>.</p>
+				<p>In addition, rapidly increasing capabilities of rapid molecular and genomic analyses in the clinic promise to transform medical practice in unprecedented ways. The ability to cross-query data and knowledge bases provides opportunities and challenges to computational sciences interfacing with medicine to produce support systems for data management, text and language processing, privacy, clinical decision support, and data mining for knowledge discovery. These define the goals of <strong>biomedical informatics</strong>.</p>
+				<p>An increasing number of young scientists have integrated the methods and approaches of the physical and life sciences in order to address biological questions in their laboratories. Their science is distinct from other genomic sciences, which typically involve applying quantitative techniques in one lab to the biological data generated in another. The power of math-based reasoning and theoretical physics is harnessed to discover fundamental aspects of biological systems. Iterations between theory and experiment, between mechanistic models and biological validation, are the key feature of Quantitative Biology.</p>
+<p>Addressing these challenges requires an interdisciplinary research structure dedicated to developing intellectual and human capacity in Bioinformatics and Systems Biology (BISB), Biomedical Informatics (BMI), and Quantitative Biology (QBIO).  As such, there is an enormous need for trained professionals who are experts in biology, biomedicine, and computing. To address this need, the Bioinformatics Graduate Program at UC San Diego was founded in 2001 by Professor Shankar Subramaniam. It now includes five schools and divisions on the UC San Diego campus: the Jacobs School of Engineering (bioengineering, computer science and engineering, and nanoengineering), the Division of Biological Sciences (molecular biology, cell and developmental biology, neurobiology, ecology/behavior/evolution), the Division of Physical Sciences (chemistry and biochemistry, physics, and mathematics), the School of Medicine, and the Skaggs School of Pharmacy and Pharmaceutical Sciences. The graduate program is supported by the respective schools, divisions, and departments as well as by a substantial NIH Training Grant and more than fifty associated faculty.</p>
+<h3 class="program-overview-subhead-2">Participating Departments</h3>
+				<p>Bioinformatics and systems biology (including the graduate biomedical informatics and quantitative biology tracks) is an interdepartmental academic program for undergraduate and graduate students. It is supported broadly at UC San Diego by five schools/divisions and by the faculty from participating departments.</p>
+<h4><a href="http://www.jacobsschool.ucsd.edu/" target="_blank"><strong>&nbsp;</strong>Jacobs School of Engineering</a></h4>
+        <ul>
+          <li><a href="http://be.ucsd.edu/" target="_blank">Department of Bioengineering</a></li>
+          <li><a href="http://www.cse.ucsd.edu/" target="_blank">Department of Computer Science and Engineering</a></li>
+          <li><a href="http://www.mae.ucsd.edu/" target="_blank">Department of Mechanical and Aerospace Engineering</a></li>
+          <li><a href="http://nanoengineering.ucsd.edu/" target="_blank">Department of NanoEngineering</a></li>
+        </ul>
+        <h4><a href="http://biology.ucsd.edu/" target="_blank">Division of Biological Sciences</a></h4>
+        <ul>
+          <li><a href="https://biology.ucsd.edu/education/undergrad/maj-min/majors/molecular.html" target="_blank">Molecular Biology Section</a></li>
+          <li><a href="https://biology.ucsd.edu/research/academic-sections/cdb/" target="_blank">Cell and Developmental Biology Section</a></li>
+          <li><a href="https://biology.ucsd.edu/research/academic-sections/ebe/" target="_blank">Ecology, Behavior, and Evolution Section</a></li>
+          <li><a href="https://biology.ucsd.edu/research/academic-sections/nb/" target="_blank">Neurobiology Section</a></li>
+        </ul>
+        <h4><a href="http://physicalsciences.ucsd.edu/" target="_blank">Division of Physical Sciences</a></h4>
+        <ul>
+          <li><a href="http://www-chem.ucsd.edu/" target="_blank">Department of Chemistry and Biochemistry</a></li>
+          <li><a href="http://math.ucsd.edu/" target="_blank">Department of Mathematics</a></li>
+          <li><a href="http://physics.ucsd.edu/" target="_blank">Department of Physics</a></li>
+        </ul>
+        <h4><a href="http://som.ucsd.edu/" target="_blank">School of Medicine</a></h4>
+        <ul>
+          <li><a href="https://medschool.ucsd.edu/som/cmm/Pages/default.aspx" target="_blank">Department of Cellular and Molecular Medicine</a></li>
+          <li><a href="http://fmph.ucsd.edu/" target="_blank">Department of Family Medicine and Public Health</a></li>
+          <li><a href="http://neurosciences.ucsd.edu/" target="_blank">Department of Neurosciences</a></li>
+          <li><a href="http://pathology.ucsd.edu/" target="_blank">Department of Pathology</a></li>
+          <li><a href="https://medschool.ucsd.edu/som/pediatrics/Pages/default.aspx" target="_blank">Department of Pediatrics</a></li>
+          <li><a href="http://pharmacology.ucsd.edu/" target="_blank">Department of Pharmacology</a></li>
+          <li>Department of Medicine: <a href="http://dbmi.ucsd.edu/" target="_blank">Division of Biomedical Informatics</a></li>
+        </ul>
+        <h4><a href="http://pharmacy.ucsd.edu/" target="_blank">Skaggs School of Pharmacy and Pharmaceutical Sciences</a></h4>
+        <ul>
+          <li><a href="http://biomedsci.ucsd.edu/training-areas/pharma-sciences-drug-dev.html" target="_blank">Drug Discovery and Development in Pharmaceutical Sciences</a>
+          </li>
+        </ul>
+        <h3 class="program-overview-subhead-2">Admissions Requirements</h3>
+				<p>Admission is in accordance with the general requirements of the graduate division. Candidates ought to have a quantitative or computational track record and an inclination to work in interdisciplinary areas across biology, medicine, computational sciences, and engineering. The most competitive applicants have an undergraduate degree majoring in any of the disciplines in the biological sciences, the physical sciences, computer science, or mathematics, and a strong background in the complementary disciplines.</p>
+				<p>Admission review will be on a competitive basis based on the applicant&rsquo;s undergraduate track record, Graduate Record Examination General Test (GRE) scores, and other scholastic achievements. Special attention will be given to the quantitative and analytical section scores of the GRE and the formal education in quantitative methods. Attention will also be given to the motivation and career plans of the applicant candidates. Applicants indicate their priority interest in either the bioinformatics and systems biology track, the biomedical informatics track, or the quantitative biology track. The applications will be screened and evaluated by the Admissions Committee with input from program faculty. Applicants must apply online at <a href="https://apply.grad.ucsd.edu/home" target="_blank">https://apply.grad.ucsd.edu/home</a> and must submit a completed UC San Diego Application for Graduate Admission (use major code BF76) to include official transcripts (English translation must accompany official transcript written in other languages), TOEFL scores (required <em>only</em> for international applicants whose native language is not English and whose undergraduate education was conducted in a language other than English), and three letters of recommendation from individuals who can attest to the academic competence and to the depth of the candidate&rsquo;s interest in pursuing graduate study. Typically, applicants are only considered for admission after interviews at UC San Diego. </p>
+				<p>For further admission information, students should see the Admissions FAQ on our website <a href="http://bioinformatics.ucsd.edu" target="_blank">http://bioinformatics.ucsd.edu</a> or contact the bioinformatics and systems biology graduate coordinator via email at <a href="mailto:bioinfo%40ucsd.edu" target="_blank">bioinfo@ucsd.edu</a> or at (858) 822-0831. </p>
+        <h3 class="program-overview-subhead-3">Curriculum </h3>
+				<p>The bioinformatics and systems biology graduate program is organized around three disciplinary tracks that have distinct yet overlapping faculty and curricular requirements:</p>
+				<ul>
+				  <li>Bioinformatics and Systems Biology Track (BISB)</li>
+				  <li>Biomedical Informatics Track (BMI)</li>
+				  <li>Quantitative Biology Track (QBIO) </li>
+		</ul>
+				<p>Students indicate their interest in one track but are able to request a switch at any time during their study. For each track there are four required core courses and sixteen units to be chosen from a list of elective fields to be completed within the first two years. All required core and elective courses for the degree must be taken for a letter grade. Students must obtain a B or better in courses taken for the degree.</p>
+				<p>The core curriculum and elective requirements are specified for each track below.</p>
+				<h4>Bioinformatics and Systems Biology Track</h4>
+				<h5>Core Courses</h5>
+                <ul>
+                  <li>MATH 283. Statistical Methods</li>
+                  <li>BENG 202/CSE 282. Introduction to Bioinformatics Algorithms</li>
+                  <li>BENG 203/CSE 283. Genomics, Proteomics, and Network Biology</li>
+                  <li>For      the fourth core class, choose one of the following. If a student completes      two or more of these courses with suitable grades, one will count as core      and the other(s) as elective credit. Some options may not be offered every year; choose from options available by your deadlines.</li>
+               
+               
+                 
+                    <ul type="circle">
+                      <li>CSE       280A. Algorithms in Computational Biology</li>
+                     
+                        <li>CSE 284. Personal Genomics for       Bioinformaticians</li>
+                      
+                  </ul>
+                    <ul type="circle">
+                      <li>ECE       208. Computational Evolutionary Biology</li>
+                      <li>BNFO       286/MED 283. Network Biology and Biomedicine</li>
+                    </ul> 
+                </ul>
+                <h5>Other Required Courses</h5>
+                <ul>
+                  <li>BNFO 281. Seminar in Bioinformatics in fall, winter, and spring quarters of the first and second year.</li>
+                  <li>BNFO 283. Student Research Talks in fall, winter, and spring quarters of the first and second year.</li>
+                  <li>BNFO 294. Scientific Ethics (previously SOMI 226 or BIOM 219) must be taken by spring of the second year. However, some funding sources may require that an ethics course be taken the first year, so we recommend taking it by spring of the first year.</li>
+                  <li>BNFO 298. Research Rotations in the fall, winter, and spring quarters of the first year.</li>
+                  <li>BNFO 299. Graduate Research, for year two and above.</li>
+                  <li>BNFO 500. Teaching Experience (or an equivalent course code in another department), for two quarters.</li>
+                </ul>
+                <h5>Elective Courses</h5>
+                <p>Sixteen units of elective courses are to be selected from the elective fields (BIO, CS, SB, BMI, QBIO) delineated below, with at least four units from the CS series and four units from the BIO series. For example, a student interested in systems biology could take one, four-unit class from the CS series, one from the BIO series, one from SB-1, and one from SB-2.</p>
+        <h4>Biomedical Informatics Track</h4>
+        <h5>Core Courses</h5>
+<ul>
+  <li>MATH 283. Statistical Methods</li>
+  <li>BENG 202/CSE 282. Introduction to Bioinformatics Algorithms</li>
+  <li>MED 264. Principles of Biomedical Informatics</li>
+    <li>For      the fourth core class, choose one of the following. If a student completes two or more of these courses with suitable grades, one will count as core and the other(s) as elective credit. Some options may not be offered every year; choose from options available by your deadlines.</li>
+    <ul type="circle">
+      <li>CSE 280A. Algorithms in Computational Biology</li>
+     
+        
+            <li>CSE 284. Personal Genomics for       Bioinformaticians</li>
+      
+  
+      <li>ECE       208. Computational Evolutionary Biology</li>
+      <li>BNFO       286/MED 283. Network Biology and Biomedicine</li>
+      
+    </ul>
+    <ul type="circle">
+      <li>BENG 203/CSE 283. Genomics, Proteomics, and Network Biology</li>
+    </ul>
+</ul>
+<h5>Other Required Courses</h5>
+<ul>
+  <li>MED 262. Current Trends in Biomedical Informatics in fall, winter, spring quarters of the first and second year.</li>
+  <li>BNFO 283. Student Research Talks in fall, winter, and spring quarters of the first and second year.</li>
+  <li>BNFO 294. Scientific Ethics (previously SOMI 226 or BIOM 219) must be taken by spring of the second year. However, some funding sources may require that an ethics course be taken the first year, so we recommend taking it by spring of the first year.</li>
+  <li>BNFO 298. Research Rotations in the fall, winter, and spring quarters of the first year.</li>
+  <li>BNFO 299. Graduate Research, for year two and above.</li>
+  <li>BNFO 500. Teaching Experience (or an equivalent course code in another department), for two quarters.</li>
+</ul>
+<h5>Elective Courses</h5>
+<p>Sixteen units of elective courses are to be selected from the elective fields (BIO, CS, SB, BMI, QBIO) delineated below, with at least four units from the CS series and eight units from the BMI series.</p>
+<h4>Quantitative Biology Track</h4>
+<h5>Core Courses</h5>
+<ul>
+  <li>MATH 283. Statistical Methods</li>
+  <li>BENG 202/CSE 282. Introduction to Bioinformatics Algorithms</li>
+  <li>BENG 203/CSE 283. Genomics, Proteomics, and Network Biology </li>
+    <li>For      the fourth core class, choose one of the following. If a student completes      two or more of these courses with suitable grades, one will count as core      and the other(s) as elective credit. Some options may not be offered every year; choose from options available by your deadlines.</li>
+      <ul type="circle">
+        <li>CSE       280A. Algorithms in Computational Biology</li>
+      
+            <li>CSE 284. Personal Genomics for       Bioinformaticians</li>
+        
+     
+        <li>ECE       208. Computational Evolutionary Biology</li>
+        <li>BNFO       286/MED 283. Network Biology and Biomedicine</li>
+      </ul>
+</ul>
+
+
+<h5>Colloquia</h5>
+<ul>
+  <li>BNFO 281. Seminar in Bioinformatics in fall, winter, and spring quarters of the first year.</li>
+  <li>PHYS 254. QBIO Seminar in fall, winter, and spring quarters of the second year.</li>
+</ul>
+<h5>Student Seminars</h5>
+<ul>
+  <li>PHYS 255. QBIO Research Talks. Three quarters within the first two years, concurrent with lab courses PHYS 270B or BNFO 299.</li>
+  <li>PHYS 256. Critical Reading in Quantitative Biology in fall, winter, and spring quarters of the second year.</li>
+</ul>
+<h5>Lab Training</h5>
+<ul>
+  <li>PHYS 270A. Experimental Techniques for Quantitative Biology in fall quarter of the first year.</li>
+  <li>PHYS 270B. Quantitative Biology Laboratory in the winter and spring quarters of the first year.</li>
+  <li>In certain cases, a petition may be approved to substitute a quarter of PHYS 270B by BNFO 298. But in this case, BENG 235 (Molecular Imaging and Quantitation in Living Cells) must be taken in addition to satisfy the one-year lab course requirement of the QBIO track.</li>
+</ul>
+<h5>Other Required Courses</h5>
+<ul>
+  <li>BNFO 294. Scientific Ethics (previously SOMI 226 or BIOM 219) must be taken by spring of the second year. However, some funding sources may require that an ethics course be taken the first year, so we recommend taking it by spring of the first year.</li>
+  <li>BNFO 299. Graduate Research, for year two and above.</li>
+  <li>BNFO 500. Teaching Experience (or an equivalent course code in another department), for two quarters.</li>
+</ul>
+<h5>Elective Courses</h5>
+<p>Sixteen units of Elective Courses selected from Elective Field QBIO-1 (listed below) are required. QBIO students may choose from one of the following elective tracks:</p>
+<ul>
+  <li>Basic Concepts Track (for experimentally oriented students who desire a survey of basic theoretical concepts for describing living systems): PHYS 275, BNFO 284, BENG 226.</li>
+  <li>Quantitative Microbiology Track (for students who plan to specialize in Microbiology): PHYS 275, PHYS 276, PHYS 277.</li>
+  <li>Quantitative Cell Biology Track (for students who plan to specialize in Eukaryotic Cell Biology): PHYS 275, CHEM 220, MAE 263.</li>
+  <li>Advanced Theory Track (for students with more advanced mathematical preparation): PHYS 275, PHYS 273, PHYS 274.</li>
+</ul>
+<h4>Elective Fields </h4>
+<p>It is the general policy of the program to be as adaptable as possible to the needs of the individual student. The curriculum committee is receptive to students petitioning to satisfy an elective requirement by taking a course not listed among the electives. If a class is available both as an elective and as a core class, it may only be used to satisfy one of those requirements, not both. Some options may not be offered every year; choose from options available by your deadlines. </p>
+<h5>Elective BIO-1: Biochemistry</h5>
+<ul>
+  <li>BENG 230A. Biochemistry (four units)</li>
+  <li>CHEM 209. Macromolecular Recognition (four units)</li>
+  <li>CHEM 213A. Structure      of Biomolecules and Biomolecular Assemblies (four units)</li>
+  <li>CHEM      213B. Biophysical Chemistry of Macromolecules (four units)</li>
+
+  <li>CHEM 216. Chemistry of Enzyme Catalyzed Reactions (four units)<strong></strong></li>
+</ul>
+<h5>Elective BIO-2: Molecular Genetics</h5>
+<ul>
+  <li>BICD      100. Genetics (four units)</li>
+  <li>BGGN      206A. Concepts of Reasoning and Experimentation (CORE) I (four units)</li>
+  <li>BGGN      220. Graduate Molecular Biology (four units)</li>
+  <li>BGGN      223. Graduate Genetics (six units)</li>
+</ul>
+
+
+<h5>Elective BIO-3: Cell Biology</h5>
+<ul>
+  <li>BICD 110. Cell Biology (four units)</li>
+  <li>BICD 130. Embryos, Genes, and Development (four units)</li>
+  <li>BGGN 222. Graduate Cell Biology (four units)</li>
+  <li>CHEM 221/BGGN 230. Signal Transduction (four units)</li>
+</ul>
+<h5>Elective CS-1: Algorithms</h5>
+<ul>
+    <li>BENG      203/CSE 283. Genomics, Proteomics, and Network Biology (four units)—Core for BISB and QBIO tracks, elective for BMI track</li>
+
+  <li>CSE 101. Design and Analysis of Algorithms (four units)</li>
+  <li>CSE 200. Computability and Complexity (four units)</li>
+  <li>CSE 202. Algorithm Design and Analysis (four units)</li>
+  <li>CSE 280A. Algorithms in Computational Biology (four units)</li>
+  <li>MATH 261A. Probabilistic Combinatorics and Algorithms (four units)</li>
+</ul>
+<h5>Elective CS-2: Machine Learning and Data Mining</h5>
+<ul>
+  <li>CSE      250A. Artificial Intelligence: Search and Reasoning (four units)</li>
+  <li>CSE      250B. Artificial Intelligence: Learning (four units)</li>
+  <li>CSE      253. Neural Networks for Pattern Recognition (four units)</li>
+  <li>CSE      255. Data Mining and Predictive Analytics (four units)</li>
+  <li>CSE      258. Recommender Systems and Web Mining (four units)</li>
+  <li>ECE      208. Computational Evolutionary Biology (four units)</li>
+</ul>
+
+<h5>Elective CS-3: Mathematics and Statistics</h5>
+<ul>
+  <li>MATH 274. Numerical Methods for Physical Modeling (four units)</li>
+  <li>MATH 280A. Probability Theory (four units)</li>
+  <li>MATH 281A. Mathematical Statistics (four units)</li>
+  <li>MATH 281B. Mathematical Statistics (four units)</li>
+    <li>MATH      284. Survival Analysis (four units)</li>
+
+  <li>PHYS 210A. Equilibrium Statistical Mechanics (five units)</li>
+  <li>PHYS 210B. Nonequilibrium Statistical Mechanics (four units)</li>
+</ul>
+<h5>Elective SB-1: Biological Systems</h5>
+<ul>
+  <li>BENG 211. Systems Biology and Bioengineering I: Biological Components (four units)</li>
+  <li>BENG 212. Systems Biology and Bioengineering II: Network Reconstruction (four units)</li>
+  <li>BENG 227. Biomedical Transport Phenomena (four units)</li>
+  <li>BNFO      286/MED 283. Network Biology and Biomedicine (four units)</li>
+</ul>
+
+<h5>Elective SB-2: Kinetic Modeling</h5>
+<ul>
+  <li>BENG 125. Modeling and Computation in Bioengineering (four units)</li>
+  <li>BNFO 284. Nonlinear Dynamics in Quantitative Biology (four units)</li>
+  <li>PHYS 276. Quantitative Molecular Biology (four units)</li>
+  <li>CHEM 220. Regulatory Circuits in Cells (four units)</li>
+</ul>
+<h5>Elective BMI-1: Biomedical Informatics</h5>
+<ul>
+  <li>MED 263. Bioinformatics Applications to Human Disease (four units)</li>
+    <li>MED      264. Principles of Biomedical Informatics (four units)—Core for BMI track,      elective for other tracks</li>
+ <li>MED 265. Informatics in Clinical Environments (four units)</li>
+  <li>MED      267. Modeling Clinical Data and Knowledge for Computation (two units)</li>
+  <li>MED      268. Statistics Concepts for Biomedical Research (four units)</li>
+  <li>MED      269. Clinical Decision Support Systems at the Point of Care (four units)</li>
+  <li>MED      273. Communicating Biomedical Informatics (four units)</li>
+  <li>MED      276. Grant Proposal Writing Practicum (two units)</li>
+  <li>MED      277. Introduction to Biomedical Natural Language Processing (four units)</li>
+</ul>
+
+<h5>Elective QBIO-1: Quantitative Biology</h5>
+<ul>
+  <li>BENG 226. Foundations of Biomechanics (four units)</li>
+  <li>BENG 235. Molecular Imaging and Quantitation in Living Cells (four units)</li>
+    <li>BGGN      214. Introduction to Q-Biology (four units) —May be applied to BIO area      elective requirement</li>
+
+  <li>BNFO 284. Nonlinear Dynamics in Quantitative Biology (four units)</li>
+  <li>CHEM 220. Signaling Circuits in Cells (four units)</li>
+  <li>MAE 263. Experimental Methods in Cell Mechanics (four units)</li>
+  <li>PHYS 273. Information Theory and Pattern Formation in Biological Systems (four units)</li>
+  <li>PHYS 274. Stochastic Processes in Population Genetics (four units)</li>
+  <li>PHYS 275. Fundamentals of Biological Physics (four units)</li>
+  <li>PHYS 276. Quantitative Molecular Biology (four units)</li>
+  <li>PHYS 277. Physics of the Cell (four units)</li>
+</ul>
+<h4>Sample Schedules</h4>
+<p>Please note that the quarters in which classes are offered may vary each year, some classes may not be offered every year, and course offerings may change. Electives and opportunities for teaching assistantships are likely to be scheduled differently than in the sample schedule. The fourth core class is shown as CSE 280A; check your track for other options.</p>
+<h5>Example: Bioinformatics and Systems Biology Track</h5>
+<h6>Year 1</h6>
+<table border="0" cellpadding="0" cellspacing="0" class="sample-program">
+<tr><th>FALL</th><th>WINTER</th><th>SPRING</th></tr>
+<tr>
+  <td>Core: MATH 283</td>
+  <td>Fourth Core: CSE 280A</td><td>Core: BENG 203/CSE 283</td></tr>
+<tr><td>&nbsp;</td><td>Core: BENG 202/CSE 282</td>
+  <td>BNFO 294: Ethics</td></tr>
+<tr>
+  <td>Elective</td><td>&nbsp;</td>
+  <td>Elective</td></tr>
+<tr>
+  <td>BNFO 281: Colloquium</td>
+  <td>BNFO 281: Colloquium</td>
+  <td>BNFO 281: Colloquium</td></tr>
+<tr>
+  <td>BNFO 283: Student Research Talks</td>
+  <td>BNFO 283: Student Research Talks</td>
+  <td>BNFO 283: Student Research Talks</td></tr>
+<tr><td>BNFO 298: Research Rotation</td>
+<td>BNFO 298: Research Rotation</td>
+<td>BNFO 298: Research Rotation</td></tr>
+</table>
+				<h6>Year 2</h6>
+                <table border="0" cellpadding="0" cellspacing="0" class="sample-program">
+                  <tr>
+                    <th>FALL</th>
+                    <th>WINTER</th>
+                    <th>SPRING</th>
+                  </tr>
+                  <tr>
+                    <td>Elective</td>
+                    <td>Elective</td>
+                    <td>&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td>BNFO 281: Colloquium</td>
+                    <td>BNFO 281: Colloquium</td>
+                    <td>BNFO 281: Colloquium</td>
+                  </tr>
+                  <tr>
+                    <td>BNFO 283: Student Research Talks</td>
+                    <td>BNFO 283: Student Research Talks</td>
+                    <td>BNFO 283: Student Research Talks</td>
+                  </tr>
+                  <tr>
+                    <td>BNFO 299: Research</td>
+                    <td>BNFO 299: Research</td>
+                    <td>BNFO 299: Research</td>
+                  </tr>
+                  <tr>
+                    <td>BNFO 500: Teaching Experience</td>
+                    <td>BNFO 500: Teaching Experience</td>
+                    <td>Qualifying Exam</td>
+                  </tr>
+                </table>
+                <h5>Example: Biomedical Informatics Track</h5>
+                <h6>Year 1</h6>
+                <table border="0" cellpadding="0" cellspacing="0" class="sample-program">
+                  <tr>
+                    <th>FALL</th>
+                    <th>WINTER</th>
+                    <th>SPRING</th>
+                  </tr>
+                  <tr>
+                    <td>Core: MATH 283</td>
+                    <td>Fourth Core: CSE 280A</td>
+                    <td>&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td>Core: MED 264</td>
+                    <td>Core: BENG 202/CSE 282</td>
+                    <td>BNFO 294: Ethics</td>
+                  </tr>
+                  <tr>
+                    <td>Elective</td>
+                    <td>Elective</td>
+                    <td>Elective</td>
+                  </tr>
+                  <tr>
+                    <td>MED 262: Colloquium</td>
+                    <td>MED 262: Colloquium</td>
+                    <td>MED 262: Colloquium</td>
+                  </tr>
+                  <tr>
+                    <td>BNFO 283: Student Research Talks</td>
+                    <td>BNFO 283: Student Research Talks</td>
+                    <td>BNFO 283: Student Research Talks</td>
+                  </tr>
+                  <tr>
+                    <td>BNFO 298: Research Rotation</td>
+                    <td>BNFO 298: Research Rotation</td>
+                    <td>BNFO 298: Research Rotation</td>
+                  </tr>
+                </table>
+                <h6>Year 2</h6>
+                <table border="0" cellpadding="0" cellspacing="0" class="sample-program">
+                  <tr>
+                    <th>FALL</th>
+                    <th>WINTER</th>
+                    <th>SPRING</th>
+                  </tr>
+                  <tr>
+                    <td>Elective</td>
+                    <td>Elective</td>
+                    <td>Elective</td>
+                  </tr>
+                  <tr>
+                    <td>MED 262: Colloquium</td>
+                    <td>MED 262: Colloquium</td>
+                    <td>MED 262: Colloquium</td>
+                  </tr>
+                  <tr>
+                    <td>BNFO 283: Student Research Talks</td>
+                    <td>BNFO 283: Student Research Talks</td>
+                    <td>BNFO 283: Student Research Talks</td>
+                  </tr>
+                  <tr>
+                    <td>BNFO 299: Research</td>
+                    <td>BNFO 299: Research</td>
+                    <td>BNFO 299: Research</td>
+                  </tr>
+                  <tr>
+                    <td>BNFO 500: Teaching Experience</td>
+                    <td>BNFO 500: Teaching Experience</td>
+                    <td>Qualifying Exam</td>
+                  </tr>
+                </table>
+                <h5>Example: Quantitative Biology Track</h5>
+                <p>Note that the three quarters of PHYS 255 may be started in the first year, concurrent with PHYS 270B.</p>
+<h6>Year 1</h6>
+                <table border="0" cellpadding="0" cellspacing="0" class="sample-program">
+                  <tr>
+                    <th>FALL</th>
+                    <th>WINTER</th>
+                    <th>SPRING</th>
+                  </tr>
+                  <tr>
+                    <td>Core: MATH 283</td>
+                    <td>Fourth Core: CSE 280A</td>
+                    <td>Core: BENG 203/CSE 283</td>
+                  </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                    <td>Core: BENG 202/CSE 282</td>
+                    <td>BNFO 294: Ethics</td>
+                  </tr>
+                  <tr>
+                    <td>Elective</td>
+                    <td>&nbsp;</td>
+                    <td>Elective</td>
+                  </tr>
+                  <tr>
+                    <td>BNFO 281: Colloquium</td>
+                    <td>BNFO 281: Colloquium</td>
+                    <td>BNFO 281: Colloquium</td>
+                  </tr>
+                  <tr>
+                    <td>PHYS 270A: QBIO Techniques</td>
+                    <td>PHYS 270B: QBIO Techniques</td>
+                    <td>PHYS 270B: QBIO Techniques</td>
+                  </tr>
+                </table>
+                <h6>Year 2</h6>
+                <table border="0" cellpadding="0" cellspacing="0" class="sample-program">
+                  <tr>
+                    <th>FALL</th>
+                    <th>WINTER</th>
+                    <th>SPRING</th>
+                  </tr>
+                  <tr>
+                    <td>Elective</td>
+                    <td>Elective</td>
+                    <td>Elective</td>
+                  </tr>
+                  <tr>
+                    <td>PHYS 254: QBIO Seminar</td>
+                    <td>PHYS 254: QBIO Seminar</td>
+                    <td>PHYS 254: QBIO Seminar</td>
+                  </tr>
+                  <tr>
+                    <td>PHYS 255: QBIO Research Talks</td>
+                    <td>PHYS 255: QBIO Research Talks</td>
+                    <td>PHYS 255: QBIO Research Talks</td>
+                  </tr>
+                  <tr>
+                    <td>PHYS 256: Critical Reading in QBIO</td>
+                    <td>PHYS 256: Critical Reading in QBIO</td>
+                    <td>PHYS 256: Critical Reading in QBIO</td>
+                  </tr>
+                  <tr>
+                    <td>BNFO 299: Research</td>
+                    <td>BNFO 299: Research</td>
+                    <td>BNFO 299: Research</td>
+                  </tr>
+                  <tr>
+                    <td>BNFO 500: Teaching Experience</td>
+                    <td>BNFO 500: Teaching Experience</td>
+                    <td>Qualifying Exam</td>
+                  </tr>
+                </table>
+                <h5 class="table-sample-schedule-head">Year 2 through 5</h5>
+        <p>All students, regardless of their background and elective track, are expected to identify a dissertation research adviser and laboratory prior to the start of the second year. This is an academic requirement to be in good academic standing.</p>
+        <p>In Year 2, students will begin preparing for their qualifying examination, to be completed before the end of the spring quarter of the second year.</p>
+        <p>In Year 3, students will begin preparing for their advancement to candidacy examination, to be completed before the end of the spring quarter of the third year. </p>
+        <p>The goal of the PhD program is that all students complete their dissertation and hold the public dissertation defense by the end of fifth year.<strong></strong></p>
+        <h4>Research Requirement</h4>
+        <p>During the academic year, all students must be enrolled in the appropriate research course for their level. Students in the BISB and BMI tracks typically do three rotations in Year 1 (BNFO 298), while students in the QBIO track typically do one quarter of PHYS 270A and two quarters of PHYS 270B. Students typically join a lab at the end of Year 1 and then enroll in research units (BNFO 299) with their dissertation adviser in Years 2 and later. BNFO 299 units may be varied to meet the full-time enrollment requirement of twelve units per quarter in fall, winter, and spring. During the summer, students are expected to do research as well, but should not enroll in BNFO 298, PHYS 270B, or BNFO 299. During all quarters and the summer, students are responsible for satisfying program requirements, including proposals, reports, presentations, committee meetings, notifying the graduate coordinator when joining/changing labs, etc.; the only difference is that students do not enroll in BNFO 298, PHYS 270B, or BNFO 299 in the summer.        </p>
+        <p>In addition, each student will make periodic research presentations to the graduate program students/faculty. Students will also discuss their progress at the annual program meeting to be held each year.</p>
+        <h6>Year 1 (BISB and BMI tracks):</h6>
+        <ul type="disc">
+          <li>BNFO 298. Research      Rotation in fall, winter, and spring quarters of the first year.</li>
+        </ul>
+        <h6>Year 1 (QBIO track):</h6>
+        <ul type="disc">
+          <li>PHYS      270A. Experimental Techniques for Quantitative Biology in fall quarter of      the first year.</li>
+          <li>PHYS 270B. Quantitative      Biology Laboratory in winter and spring quarters of the first year.</li>
+        </ul>
+        <h6>Years 2 and later (all tracks)</h6>
+        <ul type="disc">
+          <li>BNFO 299. Graduate      Research, in fall, winter, and spring quarters.</li>
+        </ul>
+<h5>The Research Rotation Program</h5>
+        <p>The Research Rotation Program is an integral component of the first year in our program. Each first-year student in the BISB and BMI tracks is required to undertake and pass three quarter-long (ten week) Research Rotations, one in each of the fall, winter, and spring quarters. For fall, winter, and spring rotations (but not summer rotations), students should register for BNFO 298.</p>
+<p>The aims of the Research Rotation Program are</p>
+        <ul>
+          <li>Provide opportunities for students and faculty to determine whether there is a mutual rapport (&ldquo;chemistry&rdquo;) that may form the basis for a successful adviser-student relationship.<br>
+          </li>
+          <li>Provide students with training opportunities to learn hands-on research skills in the host laboratory.<br>
+          </li>
+          <li>Provide students opportunities to develop personal and scientific connections that may result in collaborative research (many students have catalyzed collaborations between laboratories) and/or appointments as coadviser/dissertation committee members.</li>
+        </ul>
+        <p>The QBIO track has a separate lab training program. For more information, students should contact the Student Affairs office.        </p>
+        <h5>Research Rotation Program Guidelines (BISB and BMI tracks)</h5>
+<p>Students are responsible for identifying laboratories/faculty they are interested in joining for a Research Rotation. Students may only rotate with faculty who could also function as their dissertation advisers. All rotations must be with different faculty.</p>
+        <p>Faculty are encouraged to develop short projects for rotation students so that students can get a sense of the lab and learn research skills. Rotation projects may or may not be related to possible PhD dissertation projects. Students should check the rotation projects descriptions on the program website to identify projects of interest. Please refer to our faculty directory for a full list of program faculty contact information and research interests. If faculty do not have a rotation project listed online, please contact them directly to discuss available projects.</p>
+        <ul>
+          <li><strong>The One-Page Rotation Project Proposal.</strong> For each rotation project, the student is required to submit a one-page proposal, signed by the rotation mentor, to the program coordinator by the first day of instruction of the quarter. Thus it is expected that faculty interested in hosting students for a rotation work with the student prior to the first day of instruction of the quarter to outline the project. The document represents a commitment by the faculty to provide the student with research rotation project and training/supervision during the quarter. </li>
+        
+          <li><strong>The Five-Page Rotation Project Report.</strong> To complete the ten-week rotation, the student is required to submit a five-page report, signed by the rotation mentor, to the program coordinator by the last day of instruction of the quarter. It should summarize the work, results and conclusions. The document should be structured into the following sections: aims, introduction, methods, results, discussion, and future directions. The document becomes part of the student’s academic record and provides the adviser with a record of the student&rsquo;s accomplishments. Failure to complete a rotation within a quarter will result in an Incomplete on the student’s transcript. </li>
+      
+          <li><strong>The Oral Rotation Project Presentation.</strong> At Research Rotation meeting(s) during the subsequent quarter, the student is required to present their Research Rotation work. The purpose of these meetings is to provide an opportunity to fine-tune presentation skills, and to encourage scientific exchange between students to develop community and inform each other of research opportunities among diverse program faculty. Currently, these presentations occur in the Student Research Talks (BNFO 283) in fall, winter, and spring quarters; for spring and summer rotations, the presentations are in the following fall quarter. </li>
+          <li><strong>
+          Student Evaluation.</strong> The student&rsquo;s Research Rotation work is evaluated by the rotation mentor using a confidential evaluation sheet, and by the program&rsquo;s Research Rotation program coordinators who review the five-page rotation project report and the oral presentation. The rotation mentor is required to submit the evaluation sheet by one week after the last day of instruction of the quarter to the program coordinator. 
+          </li>
+        </ul>
+        <h4>Second-Year Qualifying Examination</h4>
+				<p>The second-year qualifying examination (BQE) is designed to examine the student&rsquo;s ability to think critically, analytically, and independently, and to apply the skills acquired in classes to a real research project. The subject of the exam is the student&rsquo;s current research project. But the focus is the student&rsquo;s critical analytical ability and command of relevant methods and subjects. The exam is normally taken before the completion of spring quarter in the student&rsquo;s second year; however, requirements for the first two years must be completed before or in the quarter it is taken, including core classes, rotations (BISB and BMI tracks), or PHYS 270A-B (QBIO track), colloquia and student seminars, and ethics.</p>
+				<p>The exam consists of two components: a ten-page project proposal and an oral exam. The proposal must be submitted at least one week prior to the oral exam. The proposal will have the following sections, in line with NIH proposals: Specific Aims, Significance and Preliminary Data, Approach, and References. The references are not included in the ten-page limit. The second component is the oral exam, where the student defends their proposal.</p>
+<p>For each student, the program will appoint three program faculty to form the second-year qualifying exam committee, one of whom will serve as chair. The student is responsible for scheduling the exam in the fall, winter, or spring quarter of the second year. The student&rsquo;s dissertation adviser is not included in the qualifying exam committee and does not coach the student&rsquo;s preparation for the exam. Instead, the student will present a practice talk in the Student Research Talks (BNFO 283).</p>
+<h3 class="program-overview-subhead-2">Advancement to PhD Candidacy</h3>
+				<p>After completing formal course requirements, each student will be required to take a written and oral qualifying examination. It is often known as <em>major proposition</em> or <em>Senate qualifying</em> or <em>advancement to candidacy</em> exam. Prior to this examination, each student, in consultation with his or her faculty advisers, will establish a dissertation committee of five faculty members. One adviser should have a primarily computational research focus, the other a primarily experimental research focus. The primary adviser will be the chair of the committee, and the coadviser will be the cochair. The doctoral committee for students in the bioinformatics and systems biology program should comprise a minimum of five members and at least three, including the committee chair, must be members of the BISB program. If all members are from the program, then two must have a different home department than the committee chair, and one of these two must be tenured. The dissertation advisers will have the major responsibility for the student&rsquo;s research and dissertation.</p>
+<p>At UC San Diego, the university &ldquo;candidacy/Senate&rdquo; examination is a requirement for a graduate student to complete satisfactorily once a dissertation project has been decided upon. It is strongly recommended except in special circumstances that the student complete this examination prior to the end of the first three years in the program to comply with the precandidacy time limit (PCTL). Students will not be permitted to continue in doctoral status if they have not advanced to candidacy before the expiration of the precandidacy time limit. Satisfactory completion of the exam will admit the student to the candidacy of the PhD program. </p>
+				<p>The format for this examination is consistent with the highest standards held by peer universities. The student must write a candidacy report generally following an NIH grant proposal format. Specifically, the report must contain Specific Aims, Research Design and Methods, and Proposed Work and Timeline; these comprise 12–15 pages. In addition (not counted in the 12–15 pages), the report must also contain a bibliography and, as attachments, any publications/supplementary material. The project and the report should be interdisciplinary in terms of computation and biology and should have input from both dissertation advisers. The report must be submitted at least one week prior to the oral exam.</p>
+<p>Finally, the student must defend their thesis proposal to their committee in an oral exam (&ldquo;Advancement to Candidacy Examination&rdquo;). Students may schedule their advancement to candidacy examination between quarters (including summer) to accommodate their PhD committee members&rsquo; schedules but, in order for any academic event to be recorded, a student must be registered. This means that an advancement can only be posted to the academic record during a quarter of registration.&nbsp;It is also expected that the student will meet at least annually with the committee to update the members on his/her progress.</p>
+<h4 class="program-overview-subhead-3">Thesis or Dissertation </h4>
+				<p>Each graduate student in the program will work on a dissertation project under dual mentorship, consisting of a primary adviser who is program training faculty, and a coadviser who may or may not be program training faculty, but must be from a different disciplinary area.</p>
+<h4 class="program-overview-subhead-3">Final Examination </h4>
+				<p>Bioinformatics graduate students will defend their dissertation in a final oral examination. The exam will consist of (1) a presentation of the dissertation by the graduate student, (2) questioning by the general audience, and (3) closed door questioning by the dissertation committee. The student will be informed of the exam result at the completion of all three parts of the oral examination. All members of the committee must sign the final report of the doctoral committee and the final version of the dissertation will conform to the procedures outlined in the publication, <em>Instructions for the Preparation and Submission of Doctoral and Master&rsquo;s Theses</em>. </p>
+<h4 class="program-overview-subhead-3">Teaching Requirement </h4>
+				<p>Each graduate student admitted to the PhD program in bioinformatics and systems biology is mandated to serve as a teaching assistant (TA) for at least two quarters. Students should enroll in BNFO 500 (Teaching Experience) or an equivalent course code in another department, during each quarter in which they are a teaching assistant. A typical teaching assistantship is 110 hours per quarter (25 percent load, two units of BNFO 500); however, this varies by class.</p>
+				<p>Bioinformatics graduate students will also participate in additional TA training provided by the Graduate Division through the Teaching + Learning Commons. </p>
+<h4 class="program-overview-subhead-3">Financial Support </h4>
+				<p>It is expected that all US citizens and residents admitted into the PhD program in bioinformatics and systems biology will receive financial assistance subject to their continuance and performance in the program. The assistance will be provided from (1) departmental financial commitments, (2) university financial commitments, (3) NIH-funded graduate training grant. </p>
+<h4 class="program-overview-subhead-3">PhD Degrees with a Specialization in Bioinformatics </h4>
+				<p>To harness the unique educational and research training opportunities offered by the campuswide bioinformatics effort, several UC San Diego doctoral graduate programs offer students the option to develop—within their own doctoral degree program—a curriculum and research training that has an emphasis in bioinformatics. Such students may then qualify to earn a PhD from their respective doctoral program with a Specialization in Bioinformatics.</p>
+				<p>A Specialization is a formal University of California mechanism that allows a graduate student pursuing a PhD in the UC system to obtain the doctoral equivalent of a minor in a particular area of specialization. Students interested in pursuing a PhD with a Specialization in Bioinformatics will satisfy the core curriculum requirement of the bioinformatics and systems biology graduate program and pursue research that involves bioinformatics with an adviser and/or coadviser who is a training faculty of the BISB and BMI track.</p>
+				<p>The following graduate programs offer a Specialization in Bioinformatics: bioengineering, biology, biomedical sciences, chemistry, computer science, mathematics, and physics.</p>
+<h3 class="program-overview-subhead-2">Further Information </h3>
+				<p>For further information please visit our website at <a href="http://bioinformatics.ucsd.edu" target="_blank">http:///bioinformatics.ucsd.edu</a>, or contact the Bioinformatics Student Affairs office at (858) 822-0831 or <a href="mailto:bioinfo@ucsd.edu" target="_blank">bioinfo@ucsd.edu</a>.		</p>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

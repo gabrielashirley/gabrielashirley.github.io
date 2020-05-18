@@ -1,0 +1,228 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" --> 
+<title>Global Health Program</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+	<style type="text/css">
+<!--
+p.course-descriptions {}
+p.course-name1 {}
+span.course-number {}
+-->
+    </style>
+	<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopMargin">Global Health Program </h1>
+<p> <span class="courseFacLink">[ <a href="../curric/GLBH-ug.html" title="Global Seminars">undergraduate program</a><span class="pdfLink"> | <a href="../pdf/GS.pdf" title="Global Seminars">pdf</a></span> | <a href="../curric/GLBH-gr.html" title="Global Seminars">graduate program</a><a href="../curric/GLBH-ug.html"></a> ]</span>
+<!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/Course Name and Disclaimer.lbi" -->
+<h2>Courses</h2>
+<p class="course-disclaimer"><em>For course descriptions not found in the </em>UC
+  San Diego General Catalog 2019&#8211;20<em>, please contact the department
+  for more information.</em></p><!-- #EndLibraryItem --></p>
+<p class="anchor-parent"><a class="anchor" id="glbh20"></a></p>
+<p class="course-name">GLBH 20. Introduction to Global Health (4)</p>
+<p class="course-descriptions">Provides a foundational interdisciplinary understanding of complex global health issues and introduces major concepts and principles in global health. The course surveys the range of problems contributing to the global burden of disease and disability including infectious disease, mental illness, refugee and immigrant health, natural disasters, climate change, and food insecurity.</p>
+<p class="anchor-parent"><a class="anchor" id="glbh100"></a></p><p class="course-name">GLBH 100. Special Topics in Global Health (4)</p>
+<p class="course-descriptions">Selected topics in global health. Content will vary from quarter to quarter. May be taken for credit up to four times.</p>
+<a name="glbh101" id="glbh101"></a></p><p class="course-name">GLBH 101. Aging: Culture and Health in Late Life Human Development (4) </p>
+<p class="course-descriptions">(Cross-listed with ANSC 101.) Examines aging as a process of human development from local and global perspectives. Focuses on the interrelationships of social, cultural, psychological, and health factors that shape the experience and well-being of aging populations. Students explore the challenges and wisdom of aging. Students may not receive credit for GLBH 101 and ANSC 101. </p>
+<p class="anchor-parent"><a class="anchor" id="glbh102"></a></p><p class="course-name">GLBH 102. Global Health Epidemiology (4)</p>
+<p class="course-descriptions">This course will address basic epidemiology principles, concepts, and procedures that are used in investigation of health-related states or events from a global perspective. Explores study designs and methods appropriate for studies of incidence and prevalence, causality and prevention, with emphasis on research in resource-poor settings. <strong><em>Prerequisites:</em></strong> COGS 14B or MATH 11 or PSYC 60 and GLBH 20 or FMPH 40.</p>
+<p class="anchor-parent"><a class="anchor" id="glbh105"></a></p>
+<p class="course-name">GLBH 105. Global Health and Inequality (4)</p>
+<p class="course-descriptions">(Cross-listed with ANSC 105.) Why is there variation of health outcomes across the world? We will discuss health and illness in context of culture and address concerns in cross-national health variations by comparing health care systems in developed, underdeveloped, and developing countries. In addition, we’ll study the role of socioeconomic and political change in determining health outcomes, and examine social health determinants in contemporary global health problems—multi-drug resistance to antibiotics, gender violence, human trafficking, etc. Students may receive credit for one of the following: GLBH 105, ANSC 105, ANSC 105S, or ANSC 105GS.</p>
+<p class="anchor-parent"><a class="anchor" id="glbh110"></a></p><p class="course-name">GLBH 110. Demography and Social Networks in Global Health (4)</p>
+<p class="course-descriptions">This course will provide an overview of demographic principles, and their associations with maternal and child health outcomes. We will focus on demographic trends in developing countries, using research from the DHS to discuss inequalities in fertility, mortality, and morbidity. The remainder of the class will question why we see such spatial variation in many maternal and child health outcomes, with a focus on theories of social norms, and social network methods for uncovering those trends.</p>
+<p class="anchor-parent"><a class="anchor" id="glbh111"></a></p><p class="course-name">GLBH 111. Clinic on the Border: Health Frontiers in Tijuana (4)</p>
+<p class="course-descriptions">Introduces students to the physical and mental health needs of vulnerable migrants and socially marginalized communities, including substance users, LGBTQ, deportees, and the homeless and medically indigent. Students will become integrated into a free clinic in Tijuana where they will obtain community-based field experiences in interacting with these populations; learn about delivering evidence-based health care in underserved settings and be introduced to issues regarding cultural appropriation. Program or materials fees may apply. May be taken for credit up to three times. Students are required to cross the US-Mexico border to attend clinic in Tijuana as part of the requirements for the course. Recommended preparation: upper-division global health course work prior to participation is recommended.</p>
+<p class="anchor-parent"><a class="anchor" id="glbh113"></a></p><p class="course-name">GLBH 113. Women&rsquo;s Health in Global Perspective (4)</p>
+<p class="course-descriptions">The course examines women&rsquo;s and girls&rsquo; health throughout the world, focusing on the main health problems experienced primarily in low resource settings. This course presents issues in the context of a woman&rsquo;s life from childhood, through adolescence, reproductive years, and aging. The course will have a strong emphasis on social, economic, environmental, behavioral, and political factors that affect health behaviors, reproductive health, maternal morbidity/mortality, and STIs/HIV.</p>
+
+<p class="anchor-parent"><a class="anchor" id="glbh129"></a></p><p class="course-name">GLBH 129. Meaning and Healing (4) </p>
+<p class="course-descriptions">(Cross-listed with ANSC 129.) This course examines the nature of healing across cultures, with special emphasis on religious and ritual healing. Students may not receive credit for GLBH 129 and ANSC 129.</p>
+<p class="anchor-parent"><a class="anchor" id="glbh141" name="glbh141"></a></p><p class="course-name">GLBH 141. Clinical Perspectives in Global Health<strong> </strong>(4)</p>
+<p class="course-descriptions">This course aims to understand the salient aspects of global health from the point of view of the clinician who translates epidemiological knowledge into treatment approaches for their patients. The perspective of the clinician illuminates that of the patient and allows us to understand public health on the front line. The course will examine many aspects of global health from the point of view of the clinicians involved, whose perspectives will help illuminate those of their patients. May be coscheduled with GLBH 241.</p>
+<p class="anchor-parent"><a class="anchor" id="glbh142" name="glbh142"></a></p><p class="course-name">GLBH 142. &ldquo;When the field is a ward&rdquo;: Ethnographies of the Clinic (4)</p>
+<p class="course-descriptions">The purpose of this course is to introduce ethnography as a strategy to conduct research on clinical contexts. During the first part of the course, students will learn about the ethnographic method, and how both qualitative research and ethnography may be utilized in healthcare and medical education. The course will also examine some key limitations to these methods.</p>
+
+<p class="anchor-parent"><a class="anchor" id="glbh146"></a></p><p class="course-name">GLBH 146. A Global Health Perspective on HIV (4)</p>
+<p class="course-descriptions">(Cross-listed with ANSC 146.) An introductory course to HIV taught through a medical student format, with emphasis on research and experiential learning, including observation of physicians providing care for patients from diverse socioeconomic and cultural backgrounds, and who may be underinsured or uninsured, homeless, and/or immigrants. Students may not receive credit for ANSC 146 and GLBH 146.</p>
+<p class="anchor-parent"><a class="anchor" id="glbh147"></a></p><p class="course-name">GLBH 147. Global Health and the Environment (4)</p>
+<p class="course-descriptions">(Cross-listed with ANSC 147.) Examines interactions of culture, health, and environment. Rural and urban human ecologies, their energy foundations, sociocultural systems, and characteristic health and environmental problems are explored. The role of culture and human values in designing solutions will be investigated. Students may not receive credit for GLBH 147 and ANSC 147.</p>
+<p class="anchor-parent"><a class="anchor" id="glbh148"></a></p><p class="course-name">GLBH 148. Global Health and Cultural Diversity (4) </p>
+<p class="course-descriptions">(Cross-listed with ANSC 148.) Introduction to global health from the perspective of medical anthropology on disease and illness, cultural conceptions of health, doctor-patient interaction, illness experience, medical science and technology, mental health, infectious disease, and health-care inequalities by ethnicity, gender, and socioeconomic status. Students may not receive credit for GLBH 148 and ANSC 148.</p>
+<p class="anchor-parent"><a class="anchor" id="glbh150"></a></p><p class="course-name">GLBH 150. Culture and Mental Health (4)</p>
+<p class="course-descriptions">(Cross-listed with ANSC 150.) This course reviews mental health cross-culturally and transnationally. Issues examined are cultural shaping of the interpretation, experience, symptoms, treatment, course, and recovery of mental illness. World Health Organization findings of better outcomes in non-European and North American countries are explored. Students may not receive credit for GLBH 150 and ANSC 150.</p>
+<p class="anchor-parent"><a class="anchor" id="glbh150a"></a></p>
+<p class="course-name">GLBH 150A. Global Health Capstone Seminar I (4)</p>
+<p class="course-descriptions">Course will consist of intensive reading and discussion in fields related to each student&rsquo;s primary interest and building on their Global Health Field Experience. The course is oriented toward producing a senior thesis that serves as credential for students applying for postgraduate or professional training. <strong class="italic">Prerequisites: </strong>departmental approval required.</p>
+<p class="anchor-parent"><a class="anchor" id="glbh150b"></a></p><p class="course-name">GLBH 150B. Global Health Capstone Seminar II (4)</p>
+<p class="course-descriptions">Course will be a workshop with critical input from all participants focused on preparing a senior thesis. The course is oriented toward producing a senior thesis that serves as credential for students applying for postgraduate or professional training. <strong class="italic">Prerequisites:</strong> GLBH 150A; departmental approval required.</p>
+<p class="anchor-parent"><a class="anchor" id="glbh160"></a></p><p class="course-name">GLBH 160. Global Health Policy (4)</p>
+<p class="course-descriptions">Students will learn fundamental principles and concepts of global health policy, law, and governance. The course will focus on identifying critical global health policy challenges and solving them using a multidisciplinary approach that takes into account the perspectives of various stakeholders. <strong class="italic">Prerequisites:</strong><em><strong>&nbsp;</strong></em>upper-division standing. </p>
+<p class="anchor-parent"><a class="anchor" id="glbh181"></a></p>
+<p class="course-name">GLBH 171R. Global Mental Health (4) </p>
+<p class="course-descriptions">Global Mental Health (GMH) is a field of research, practice, and advocacy prioritizing mental health for all persons and communities worldwide. GMH recognizes mental, neurological, or substance use disorders as the leading causes of disability worldwide and works to counteract social stigma and discrimination commonly associated with such conditions. The course introduces this interdisciplinary field based on analysis of and writing about critical sources from the relevant scholarly literature. </p>
+<p class="anchor-parent"><a class="anchor" id="glbh181" name="glbh181"></a></p><p class="course-name">GLBH 181. Essentials of Global Health (4)</p>
+<p class="course-descriptions">Illustrates and explores ecologic settings and frameworks for study and understanding of global health and international health policy. Students acquire understanding of diverse determinants and trends of disease in various settings and interrelationships between socio-cultural-economic development and health. <strong class="italic">Prerequisites: </strong>upper-division standing.</p>
+<p class="anchor-parent"><a class="anchor" id="glbh195"></a></p><p class="course-name">GLBH 195. Instructional Apprenticeship in Global Health (4)</p>
+<p class="course-descriptions">Course gives students experience in teaching global health courses. Students, under direction of instructor, lead discussion sections, attend lectures, review course readings, and meet regularly to prepare course materials and to evaluate examinations and papers. Students will need to apply for the undergraduate instructional apprentice position through ASES, fulfill the Academic Senate regulations, and receive the approval of the department, instructor, department chair, and Academic Senate. May be taken for credit up to two times. Course cannot be used to fulfill requirements for the global health major or minor.</p>
+<p class="anchor-parent"><a class="anchor" id="glbh197"></a></p>
+<p class="course-name">GLBH 197. Global Health Academic Internship Program (4) </p>
+<p class="course-descriptions">Offers global health students the opportunity to intern and gain credit for their global health field experience requirement. Students will intern and work with a faculty adviser to elaborate on the intellectual analysis and critique of the field experience. Students must complete the AIP application process and have the consent of a faculty adviser. May be taken for credit up to two times. Must be taken for a letter grade to fulfill requirements for the global health major or minor.</p>
+<p class="anchor-parent"><a class="anchor" id="glbh198" name="glbh198"></a></p><p class="course-name"> GLBH 198. Directed Group Study (4)</p>
+<p class="course-descriptions">Directed group study for students to delve deeper into global health topics or elaborate the intellectual analysis and critique of their field experience. For students enrolled in the global health major or minor.  May be taken for credit two times. <strong class="italic"><em>Prerequisites:&nbsp;</em></strong>departmental approval required.</p>
+<a name="glbh199" id="glbh199"></a></p><p class="course-name">GLBH 199. Independent Study in Global Health Field Experience (4)</p>
+<p class="course-descriptions">Independent study opportunity for students to work with global health affiliated faculty on relevant research or to elaborate the intellectual analysis and critique of their global health field experience. For students enrolled in the global health major or minor.  May be taken for credit two times.<span class="italic"> <strong><em>Prerequisites:</em></strong></span><strong><em>&nbsp;</em></strong>departmental approval required.</p>
+<h3>Graduate Courses</h3>
+<p class="anchor-parent"><a class="anchor" id="glbh200" name="glbh200"></a></p><p class="course-name">GLBH 200. Global Health Master&rsquo;s Core Seminar (4)</p>
+<p class="course-descriptions">This seminar course consists of workshops to expand on a student&rsquo;s thesis project and readings synthesizing key concepts and problems in the field of global health. Students will explore career options in global health and begin work on their final portfolio, due at the end of spring quarter. <em><strong>Prerequisites: </strong></em>graduate-level standing.</p>
+<p class="anchor-parent"><a class="anchor" id="glbh201" name="glbh201"></a></p><p class="course-name">GLBH 201. Special Topics in Global Health (4)</p>
+<p class="course-descriptions">Selected topics in global health. Content will vary from quarter to quarter. May be taken for credit up to two times. May be coscheduled with GLBH 100. <em><strong>Prerequisites: </strong></em>graduate-level standing.</p>
+<p class="anchor-parent"><a class="anchor" id="glbh202" name="glbh202"></a></p><p class="course-name">GLBH 202. Global Health Epidemiology (4)</p>
+<p class="course-descriptions">This course will address basic epidemiology principles, concepts, and procedures that are used in the investigation of health-related states or events from a global perspective. Explores study designs and methods appropriate for studies of incidence and prevalence, causality and prevention, with emphasis on research in resource-poor settings. May be coscheduled with GLBH 102. <em><strong>Prerequisites:&nbsp;</strong></em>graduate-level standing<em> or </em>departmental approval required.</p>
+<p class="anchor-parent"><a class="anchor" id="glbh211" name="glbh211"></a></p><p class="course-name">GLBH 211. Clinic on the Border: Health Frontiers in Tijuana (4)</p>
+<p class="course-descriptions">Introduces students to the physical and mental health needs of vulnerable migrants and socially marginalized communities, including substance users, LGBTQ, deportees, and the homeless and medically indigent. Students will become integrated into a free clinic in Tijuana where they will obtain community-based field experiences in interacting with these populations; learn about delivering evidence-based health care in underserved settings; and be introduced to issues regarding cultural appropriation. Program or material fee may apply. May be taken for credit up to three times. Students are required to cross US-Mexico border to attend clinic in Tijuana as part of the requirements for the course. May be coscheduled with GLBH 111. <em><strong>Prerequisites: </strong></em>Students must apply to participate in the program quarterly.</p>
+<p class="anchor-parent"><a class="anchor" id="glbh212" name="glbh212"></a></p><p class="course-name">GLBH 212. &ldquo;Experiencing Epidemics&rdquo;: Anthropologies of Infectious Diseases (4)</p>
+<p class="course-descriptions">This course aims to discuss infectious diseases as a dynamic field of study, fruitful for global health research because it allows us to observe the interplay between power, social structures, and cultural practices that orient people&rsquo;s discourses and behaviors. Students will study how this imbricate set of relations configure social categories that both “socialize” epidemics and “naturalize” social relations played out through categories such as race, ethnicity, and class. <em><strong>Prerequisites:&nbsp;</strong></em>graduate-level standing.</p>
+<p class="anchor-parent"><a class="anchor" id="glbh241" name="glbh241"></a></p><p class="course-name">GLBH 241. Clinical Perspectives in Global Health (4)</p>
+<p class="course-descriptions">This course aims to understand the salient aspects of global health from the point of view of the clinician who translates epidemiological knowledge into treatment approaches for their patients. The perspective of the clinician illuminates that of the patient and allows us to understand public health on the front line. We will examine many aspects of global health from the point of view of the clinicians involved, whose perspectives will help illuminate those of their patients. May be coscheduled with GLBH 141. Restricted to students in the MA in global health program. <strong><em>Prerequisites:&nbsp;</em></strong>graduate-level standing.</p>
+<p class="anchor-parent"><a class="anchor" id="glbh245" name="glbh245"></a></p><p class="course-name">GLBH 245. Native American Health and Healing (4)</p>
+<p class="course-descriptions">This course examines fact and fiction with respect to epidemics of contagious diseases including smallpox and tuberculosis, alcohol and drug dependency, diabetes and obesity, and depression and suicide. We analyze health care with respect to the history and development of the Indian Health Service, health care efforts by Christian missionaries, tribal-led health initiatives, indigenous spiritual healing, and collaborations between indigenous healers and biomedical professionals.<em> <strong>Prerequisites:</strong></em><strong>&nbsp;</strong>graduate-level standing.</p>
+<p class="anchor-parent"><a class="anchor" id="glbh249" name="glbh249"></a></p><p class="course-name">GLBH 249. Special Epidemiology (4)</p>
+<p class="course-descriptions">This course provides an overview of social epidemiology, a branch of epidemiology that focuses on the study of how health-related states or events are impacted by social, political, cultural, and economic factors. Students will learn about the history and current state of the science of social epidemiology, its leading theories/paradigms and methods, and distinct core areas of research. <em><strong>Prerequisites:</strong> </em>graduate-level standing. </p>
+<p class="anchor-parent"><a class="anchor" id="glbh260" name="glbh260"></a></p><p class="course-name">GLBH 260. Global Health Policy (4) </p>
+<p class="course-descriptions">Students will learn fundamental principles and concepts of global health policy, law, and governance. The course will focus on identifying critical global health policy challenges and solving them using a multidisciplinary approach that takes into account the perspectives of various stakeholders. May be coscheduled with GLBH 160. <em><strong>Prerequisites:</strong> </em>graduate-level standing.</p>
+<p class="anchor-parent"><a class="anchor" id="glbh261" name="glbh261"></a></p>
+<p class="course-name">GLBH 261. Global Health Policy, Diplomacy, and Advocacy (4)</p>
+<p class="course-descriptions">Students will explore the application of global health policy, governance, and law principles to the practice of global health through case studies and interactive debate simulations. The course will include a series of special and advanced topics in global health, including health migration, funding and innovation for infectious and chronic diseases, disease surveillance, fake medicines, and global health governance reform. <em><strong>Prerequisites: </strong></em>GLBH 260. </p>
+<p class="anchor-parent"><a class="anchor" id="glbh281" name="glbh281"></a></p><p class="course-name">GLBH 281. Essentials of Global Health (4)</p>
+<p class="course-descriptions">This course provides an overview of global health as a field of research and practice, with an emphasis on use of surveillance and research methods to understand health and determinants of health, evidence-based program development and evaluation of programs in the field, and engagement with governments and advocacy groups to elicit evidence-based policy change. Topics of focus will prioritize infectious diseases, maternal child health, substance use, and gender-based violence. May be coscheduled with GLBH 181. <em><strong>Prerequisites:</strong></em> graduate level standing.</p>
+<p class="anchor-parent"><a class="anchor" id="glbh297" name="glbh297"></a></p><p class="course-name">GLBH 297. Global Health Internship (4)</p>
+<p class="course-descriptions">Offers global health master&rsquo;s students the opportunity to intern and gain credit for their global health field work. Students will intern and work with a faculty adviser to elaborate on the intellectual analysis and critique of the field experience. May be taken for credit up to three times. <em><strong>Prerequisites: </strong></em>students must complete Special Studies paperwork, have a faculty adviser, and receive department approval.</p>
+<p class="anchor-parent"><a class="anchor" id="glbh298" name="glbh298"></a></p><p class="course-name">GLBH 298. Directed Study (2-12)</p>
+<p class="course-descriptions">Supervised study and readings of topics in global health literature. May be taken for credit up to four times for a maximum of sixteen units. <em><strong>Prerequisites:</strong> </em>graduate-level standing. Students must receive approval from the program to enroll with a faculty member in a directed study course.</p>
+<p class="anchor-parent"><a class="anchor" id="glbh299" name="glbh299"></a></p><p class="course-name">GLBH 299. Independent Research (2-12)</p>
+<p class="course-descriptions">Mentored course in which students will work closely with a faculty adviser to prepare a publishable masters project based on their undergraduate senior thesis or project agreed upon with faculty adviser. May be taken for credit up to twelve times for a maximum of forty-eight units. <em><strong>Prerequisites:</strong> </em>graduate-level standing. Students must receive approval from the program to enroll with a faculty member in an independent research course. </p>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

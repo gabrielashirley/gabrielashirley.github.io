@@ -1,0 +1,168 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" --> 
+<title>Computational Social Sciences Minor</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+		<h1>Computational Social Science Minor </h1>
+		<p class="program-contact-info">1533 Mandler Hall<br>
+		  <a href="http://css.ucsd.edu" target="_blank">http://css.ucsd.edu</a></p>
+<!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem -->
+<h2>The Minor</h2>
+<p>The interdisciplinary minor in computational social science (CSS) at UC San Diego combines formal causal models from the social sciences with statistics, programming, and large-scale data analysis. Students enrolled in the minor will take three courses in computational social science and at least four upper-division electives, comprising twenty-eight total units of which at least twenty (five courses) must be upper division. Upper-division courses may be selected from among the following courses. At least two courses must be taken from departments that are not the department of the student&rsquo;s major. Students may petition to receive credit for courses not listed below. Advising for the minor is housed in the Department of Psychology.</p>
+<p>Students are advised to strongly consider MATH 10A-B-C or MATH 20A-B-C and MATH 18 as preparation for upper-division electives. </p>
+<h3>Core Courses </h3>
+<p class="course-list-overview">CSS 1. Introductory Programming for Computational Social Science (4)</p>
+<p class="course-list-overview">CSS 2. Data and Model Programming for Computational Social Science (4)</p>
+<p class="course-list-overview">CSS 100. Advanced Analytic Programming for Computational Social Science (4) </p>
+<h3>Elective Courses</h3>
+<p>Choose <em>four courses</em> from the list below</p>
+<p class="course-list-overview">ANAR 104. Introduction to Geographic Information Systems (GIS) for Anthropologists and Archaeologists (4)</p>
+<p class="course-list-overview">COGS 108. Data Science in Practice (4) </p>
+<p class="course-list-overview">COGS 109. Modeling and Data Analysis (4)</p>
+<p class="course-list-overview">COGS 118D. Mathematical Statistics for Behavioral Data Analysis (4)</p>
+<p class="course-list-overview">COGS 119. Programming for Experimental Research (4)</p>
+<p class="course-list-overview">COGS 123. Social Computing (4)</p>
+<p class="course-list-overview">COGS 144. Social Cognition (4)</p>
+<p class="course-list-overview">ECON 120A. Econometrics A (4)</p>
+<p class="course-list-overview">ECON 120B. Econometrics B (4)</p>
+<p class="course-list-overview">ECON 120C. Econometrics C (4)</p>
+<p class="course-list-overview">ECON 125. Demographic Analysis and Forecasting (4)</p>
+<p class="course-list-overview">ECON 176. Marketing (4)</p>
+<p class="course-list-overview">ECON 178. Economic and Business Forecasting (4)</p>
+<p class="course-list-overview">LIGN 165. Computational Linguistics (4)</p>
+<p class="course-list-overview">LIGN 167. Deep Learning of Natural Language Understanding (4)</p>
+<p class="course-list-overview">POLI 100F. Social Networks (4)</p>
+<p class="course-list-overview">POLI 171. Making Policy with Data (4)</p>
+<p class="course-list-overview">POLI 172. Advanced Social Data Analytics (4)</p>
+<p class="course-list-overview">PSYC 193.* Topics in Psychology: Data Analysis and Visualization in R (4)</p>
+<p class="course-list-overview">PSYC 193.* Topics in Psychology: Advanced Quantitative Methods (4)</p>
+<p class="course-list-overview">SOCI 102. Network Data and Methods (4)</p>
+<p class="course-list-overview">SOCI 103M. Computer Applications to Data Management in Sociology (4)</p>
+<p class="course-list-overview">SOCI 109. Analysis of Sociological Data (4)</p>
+<p class="course-list-overview">USP 189.* Special Topics in Urban Planning: Urban Data Science (4)</p>
+<p class="course-list-overview">USP 191. GIS for Urban and Community Planning (4)</p>
+<p>* Course topics vary; course will only count toward the minor when the topic matches that listed. Other topics may be petitioned.	  </p>
+	  <!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

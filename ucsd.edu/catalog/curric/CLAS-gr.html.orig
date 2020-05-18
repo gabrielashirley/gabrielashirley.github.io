@@ -1,0 +1,553 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Classical Studies</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+	<style type="text/css">
+<!--
+p.program-contact-info {}
+-->
+    </style>
+	<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" --> 
+<h1 class="noTopBottomMargin">Classical Studies </h1>
+<p class="sectionNav"> [ <a href="#grad">graduate program</a> | <span class="courseFacLink"><a href="../curric/CLAS-ug.html">undergraduate
+program</a> | <a href="../courses/CLAS.html">courses</a> | <a href="../faculty/CLAS.html">faculty</a> ]</span></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h3 class="program-overview-subhead-2">The University of California Tri-Campus
+  Program in Classics
+</h3>
+				<h4 class="program-overview-subhead-3">UC Irvine, UC Riverside, and UC San
+	    Diego </h4>
+				<p><span class="strong">What is the UC Tri-Campus Program? </span>This graduate program joins together into a single faculty more than twenty experts in classics and related disciplines from the three southernmost University of California campuses (Irvine, Riverside, and San Diego). It features an innovative curriculum and program of study that address the practical and theoretical questions confronting the humanities and classics in particular as both enter the twenty-first century. </p>
+				<p class="basic-offset-top-only"><span class="strong">What are the program&#8217;s goals?</span> The aim of the Tri-Campus Program is to provide an educational environment for pursuing a graduate career in classics that is closely integrated into the main currents of humanistic and social scientific scholarship. The program&#8217;s faculty recognizes that today and in the future, teachers of the classics must possess and develop expertise beyond the standard specialties of the traditional classics PhD degree. Classics programs, in both large research universities and small liberal arts colleges, increasingly feel the pressure to break down the boundaries between disciplines. </p>
+				<p>To achieve these goals, the program and curriculum are designed around five principles: </p>
+				<ul>
+					<li class="list-level-1">Study the ancient texts and objects in their wider social, cultural, and historical contexts. </li>
+					<li class="list-level-1">Bring the culture of the ancient Greeks and Romans into the purview of contemporary literary and sociological theory. </li>
+					<li class="list-level-1">Examine the reception of ancient literature and culture by later cultures and the appropriation of the ancient world by the modern world. </li>
+					<li class="list-level-1">Pay particular attention to the intersections of Greek and Roman society and culture with each other and with the other cultures of the ancient world. </li>
+					<li class="list-level-1">Utilize, to the fullest the potential, new computing technologies as tools for research and teaching. </li>
+				</ul>
+				<p>These five interdisciplinary principles are embodied in the four Core Courses (Classics 200A, 200B, 200C, and 201). Graduate seminars (Classics 220) and reading courses in Greek and Latin authors (Classics 205) round out the program of studies. This curriculum has been in effect at UC Irvine since 1995, taught by faculty members from all three campuses. </p>
+				<p class="basic-offset-top-only"><span class="strong">Where do I apply? </span>The Tri-Campus Program uniquely does not belong to a particular campus but to the University of California. Students who are accepted into the program may enroll at any of the three campuses. Because instruction and administrative functions take place on the Irvine campus, students will normally enroll at UC Irvine. Applications to the Tri-Campus Graduate Program will be reviewed by an admissions committee composed of members from all three campuses. </p>
+				<p class="basic-offset-top-only"><span class="strong">Where is the Tri-Campus
+				    Program located?</span> UC Irvine is located five miles inland from the
+				    Pacific Ocean, fifty miles south of metropolitan Los Angeles,
+				    forty-five miles southwest of UC Riverside, and seventy-four
+				    miles north of UC San Diego. In addition to its beaches,
+				    mountains, and deserts, Southern California offers excellent cultural
+				    amenities such as museums, theatre, dance, opera, and music. </p>
+				<p class="basic-offset-top-only"><span class="strong">What are the requirements for admission?</span> Applicants to the program should have a BA or equivalent in classics or classical civilization, which normally means that you have had at least three years of one classical language and two of the other. Majors in other disciplines (e.g., comparative literature, history, philosophy, or interdisciplinary fields such as women&#8217;s studies) are welcome, provided they have sufficient background in Greek and Latin. All applicants must submit Graduate Record Exam (GRE) scores and must have a minimum GPA of 3.0 or the equivalent. If you have completed an MA in classics at another institution, you may be admitted with advanced standing and may have the course requirements reduced from the normal three years to two or one. The level of course reduction will be determined by progress evaluation exams administered in the spring quarter of each year. </p>
+				<h4 class="program-overview-subhead-3">The Role of the Joint Executive Committee </h4>
+				<p>The Tri-Campus Program is administered by a joint executive committee (JEC), which consists of six representatives, two from each campus, serving staggered, two-year terms. The JEC&#8217;s responsibilities include reviewing graduate applications and admitting students to the program; overseeing the formation of examination and dissertation committees; reviewing and deciding on student petitions; making policy decisions concerning the program, including changes in the program&#8217;s requirements and procedures; and interpreting the program&#8217;s requirements and procedures. The JEC elects from its members a chair to serve a three-year term. It is the chair&#8217;s responsibility to manage budgetary issues, schedule and set the agenda for quarterly JEC meetings, identify faculty to teach graduate courses, and generally look after the smooth operation of the program. </p>
+				<h4 class="program-overview-subhead-3">The Role of the Graduate Adviser </h4>
+				<p>The graduate adviser is a faculty member responsible for supervising graduate study in the department and monitoring the academic progress of graduate students. The graduate adviser coordinates the various elements of the academic program and advises students and other faculty members about program requirements and university policies. The graduate adviser keeps records for each student and for the whole program, ensures that each student meets all requirements and makes satisfactory progress toward attainment of the degree, and is instrumental in the nomination of students for fellowship support and assistantship appointments. The graduate adviser also provides general help to students as they attempt to negotiate the academic and administrative hurdles on their way to completion of their degrees. The graduate adviser is an ex-officio member of the Tri-Campus JEC for the duration of his or her tenure, normally two years. </p>
+				<h4 class="program-overview-subhead-3">Election of Student Representative </h4>
+				<p>Graduate students elect a representative who attends JEC meetings as a regular voting member. Graduate students are also invited to attend meetings as observers and to participate where appropriate. The voting rights and attendance of the graduate student representative are circumscribed by the requirements of confidentiality. </p>
+				<p class="anchor-parent"><a class="anchor" id="grad"></a></p><h2 class="program-overview-subhead-1">The PhD
+			    and the MA Programs </h2>
+				<p>A student&#8217;s career may be thought of as covering three stages: course work, preparation for qualifying exams, and candidacy (dissertation). For PhD students the normative limits for completion of the program are four years to advancement to candidacy, two years to final approval of the dissertation, and a maximum of seven years in total. Students are only admitted into the PhD program. Entering students who do not already hold a master&#8217;s degree in classics from another institution will be required to complete MA requirements while pursuing the PhD. </p>
+				<h3 class="program-overview-subhead-2">Course Work for the MA</h3>
+				<p>The MA degree in classics may be awarded either upon completing the PhD course requirements and passing the written PhD examinations or upon completing the MA course requirements and master&#8217;s paper and passing the MA translation examinations and general exam. The latter path to the MA is intended for PhD students who decide to leave the program before completing the requirements for a PhD.</p>
+				<p>MA students must successfully complete a minimum of twelve approved seminar-level courses. The twelve courses must be distributed as follows: </p>
+				<ul>
+					<li class="list-level-1">Nine quarters of Classics 220. </li>
+					<li class="list-level-1">At least three quarters of Classics 200A-B-C and 201; a fourth quarter may be substituted for a Classics 220. </li>
+					<li class="list-level-1">Up to one quarter of Classics 290 for research and writing of the master&#8217;s paper may be substituted for a Classics 220. </li>
+					<li class="list-level-1">If remedial work is required in Greek or Latin, with the graduate adviser&#8217;s approval, one enhanced upper-division Greek or Latin course enrolled as a Classics 280 may be substituted for a Classics 220. </li>
+					<li class="list-level-1">With the graduate adviser&#8217;s approval, MA students may substitute one external graduate seminar in a relevant area outside of classics (at any of the three participating campuses) for a Classics 220. </li>
+				</ul>
+		<h3 class="program-overview-subhead-2">A Sample MA Program</h3>
+      <table border="0" cellpadding="2" cellspacing="0" class="sample-program">
+        <tr>
+          <th width="111" valign="top" class="Normal">
+            <p><strong>FALL</strong></p>        </th>
+          <th width="111" valign="top" class="Normal">
+            <p><strong>WINTER</strong></p>        </th>
+          <th width="111" valign="top" class="Normal">
+            <p><strong>SPRING</strong></p>        </th>
+        </tr>
+        <tr class="coloredRow">
+          <td valign="top" class="Normal">
+            <p><strong>YEAR 1</strong></p>        </td>
+          <td valign="top" class="Normal">&nbsp; </td>
+          <td valign="top" class="Normal">&nbsp; </td>
+</tr>
+        <tr>
+          <td valign="top" class="Normal">
+            <p>200A (200C)</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Classics 220</p>        </td>
+          <td valign="top" class="Normal">
+            <p>200B (201)</p>        </td>
+        </tr>
+        <tr>
+          <td valign="top" class="Normal">
+            <p>Classics 220</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Classics 220</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Classics 220</p>        </td>
+        </tr>
+        <tr>
+        <td valign="top" class="Normal"><p>Classics 399 </p></td>
+          <td valign="top" class="Normal">
+            <p>Classics 399</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Classics 399</p>        </td>
+        </tr>
+        <tr class="coloredRow">
+          <td valign="top" class="Normal">
+            <p><strong>YEAR 2</strong></p>        </td>
+          <td valign="top" class="Normal">&nbsp; </td>
+          <td valign="top" class="Normal">&nbsp; </td>
+</tr>
+        <tr>
+          <td valign="top" class="Normal">
+            <p>200C (200A)</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Classics 220</p>        </td>
+          <td valign="top" class="Normal">
+            <p>201 (200B)</p>        </td>
+        </tr>
+        <tr>
+          <td valign="top" class="Normal">
+            <p>Classics 220</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Classics 220</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Classics 290</p>        </td>
+        </tr>
+        <tr>
+          <td valign="top" class="Normal">
+            <p>Classics 399</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Classics 399</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Classics 399</p>        </td>
+        </tr>
+        <tr>
+          <td valign="top" class="Normal">
+            <p>&nbsp;</p>        </td>
+          <td valign="top" class="Normal">
+            <p>&nbsp;</p>        </td>
+          <td valign="top" class="Normal">
+            <p>MA Exams</p>        </td>
+        </tr>
+    </table>
+		<h3 class="program-overview-subhead-2">Course Work for the PhD </h3>
+				<p>PhD students must successfully complete a minimum of eighteen approved seminar-level courses. The eighteen courses must be distributed as follows: </p>
+				<ul>
+					<li class="list-level-1">Four quarters of Classics 200A-B-C, and 201. </li>
+					<li class="list-level-1">Twelve quarters of Classics 220. </li>
+					<li class="list-level-1">Two external graduate seminars, from departments or programs outside of classics. These may be taken from the offerings of any of the three campuses. </li>
+					<li class="list-level-1">Students may take up to two quarters of enhanced upper-division Greek or Latin courses (enrolled as 280s) in place of Classics 220s, with permission of the graduate adviser if remedial work is required in Greek or Latin. </li>
+					<li class="list-level-1">Where appropriate, in the third year of course work, a second Classics 200A, B, or C, may be substituted for a 220.</li>
+					<li class="list-level-1">Classics 280, Independent Study (supervised research) may be substituted for Classics 220s only with the permission of the graduate adviser. </li>
+					<li class="list-level-1">Up to twelve equivalent graduate-level courses completed elsewhere may be substituted for Tri-Campus Program courses with approval of the JEC. </li>
+				</ul>
+				<p>Classics 280 may be used, normally in the fourth year, to provide time to work on the Greek and Latin reading lists and to prepare for qualifying exams, but these courses do not count toward the required eighteen courses. PhD students must meet with the graduate adviser early every fall quarter to discuss their progress through the curriculum and their plans for the coming academic year. A student who accumulates more than one outstanding grade of incomplete is considered to be at risk. </p>
+				<p>For student files, faculty teaching graduate courses will submit to the graduate adviser a brief written evaluation for each student, commenting on the student&#8217;s performance and noting whether the student wrote a seminar paper for the course. The graduate adviser will lead the JEC in an annual review of all active graduate students in the program at the JEC&#8217;s spring meeting. </p>
+				<h3 class="program-overview-subhead-2">A Sample PhD Program</h3>
+	<table border="0" cellpadding="2" cellspacing="0" class="sample-program">
+        <tr>
+          <th valign="top" class="Normal">
+            <p><strong>FALL</strong></p>        </th>
+          <th valign="top" class="Normal">
+            <p><strong>WINTER</strong></p>        </th>
+          <th valign="top" class="Normal">
+            <p><strong>SPRING</strong></p>        </th>
+        </tr>
+        <tr class="coloredRow">
+          <td valign="top" class="Normal">
+            <p><strong>YEAR 1</strong></p>        </td>
+          <td valign="top" class="Normal">&nbsp; </td>
+          <td valign="top" class="Normal">&nbsp; </td>
+</tr>
+        <tr>
+          <td valign="top" class="Normal">
+            <p>200A (200C)</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Classics 220</p>        </td>
+          <td valign="top" class="Normal">
+            <p>200B (201)</p>        </td>
+        </tr>
+        <tr>
+          <td valign="top" class="Normal">
+            <p>Classics 220</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Classics 220</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Classics 220</p>        </td>
+        </tr>
+        <tr>
+        <td valign="top" class="Normal"><p>Classics 399 </p></td>
+          <td valign="top" class="Normal">
+            <p>Classics 399</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Classics 399</p>        </td>
+        </tr>
+        <tr  class="coloredRow">
+          <td valign="top">
+            <p><strong>YEAR 2</strong></p>        </td>
+          <td valign="top" class="Normal">&nbsp; </td>
+          <td valign="top" class="Normal">&nbsp; </td>
+        </tr>
+        <tr>
+          <td valign="top" class="Normal">
+            <p>200C (200A)</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Classics 220</p>        </td>
+          <td valign="top" class="Normal">
+            <p>201 (200B)</p>        </td>
+        </tr>
+        <tr>
+          <td valign="top" class="Normal">
+            <p>Classics 220</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Classics 220</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Classics 220</p>        </td>
+        </tr>
+        <tr>
+          <td valign="top" class="Normal">
+            <p>Classics 399</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Classics 399</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Classics 399</p>        </td>
+        </tr>
+        <tr class="coloredRow">
+          <td valign="top">
+            <p><strong>YEAR 3</strong></p>        </td>
+          <td valign="top" class="Normal">&nbsp; </td>
+          <td valign="top" class="Normal">&nbsp; </td>
+        </tr>
+        <tr>
+          <td valign="top" class="Normal">
+            <p>Classics 220</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Classics 220</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Classics 220</p>        </td>
+        </tr>
+        <tr>
+          <td valign="top" class="Normal">
+            <p>Classics 399</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Classics 399</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Classics 220</p>        </td>
+        </tr>
+        <tr>
+          <td valign="top" class="Normal">
+            <p>Seminar (External)</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Seminar (External)</p>        </td>
+          <td valign="top" class="Normal"><p>Classics 399 </p></td>
+        </tr>
+        <tr class="coloredRow">
+          <td valign="top">
+            <p><strong>YEAR 4</strong></p>        </td>
+          <td valign="top" class="Normal">&nbsp; </td>
+          <td valign="top" class="Normal">&nbsp; </td>
+        </tr>
+        <tr>
+          <td valign="top" class="Normal">
+            <p>Classics 280</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Classics 280</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Classics 280</p>        </td>
+        </tr>
+        <tr>
+          <td valign="top" class="Normal">
+            <p>Qualifying Exams</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Qualifying Exams</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Qualifying Exams</p>        </td>
+        </tr>
+		<tr class="coloredRow">
+          <td valign="top">
+            <p><strong>YEAR 5</strong></p>        </td>
+          <td valign="top" class="Normal">&nbsp; </td>
+          <td valign="top" class="Normal">&nbsp; </td>
+        </tr>
+        <tr>
+          <td valign="top" class="Normal">
+            <p>Classics 299</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Classics 299</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Classics 299</p>        </td>
+        </tr>
+        <tr>
+          <td valign="top" class="Normal">
+            <p>Dissertation<br />
+          Writing</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Dissertation Writing</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Dissertation<br />
+          Writing            </p>        </td>
+        </tr>
+		<tr class="coloredRow">
+          <td valign="top">
+            <p><strong>YEAR 6</strong></p>        </td>
+          <td valign="top" class="Normal">&nbsp; </td>
+          <td valign="top" class="Normal">&nbsp; </td>
+        </tr>
+        <tr>
+          <td valign="top" class="Normal">
+            <p>Classics 299</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Classics 299</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Classics 299</p>        </td>
+        </tr>
+        <tr>
+          <td valign="top" class="Normal">
+            <p>Dissertation<br />
+          Writing            </p>        </td>
+          <td valign="top" class="Normal">
+            <p>Dissertation<br />
+          Writing</p>        </td>
+          <td valign="top" class="Normal">
+            <p>Dissertation<br />
+          Defense</p>        </td>
+        </tr>
+    </table>
+<h3 class="program-overview-subhead-2">Examinations </h3>
+				<p>Diagnostic Exams: Immediately upon entering the program, the student takes diagnostic translation examinations in both Greek and Latin to establish his or her level of competency and to determine where effort should be directed. In the second year of course work, students will take as diagnostic exams the Latin and Greek translation exams administered as part of the qualifying exam battery. </p>
+				<h4 class="program-overview-subhead-3">Exams for the MA </h4>
+				<p class="list-level-1-numerical"><span class="strong">Foreign Language Requirement: </span>Students must demonstrate reading knowledge of German, French, Italian, or an equivalent research language either through appropriate course work or by examination. </p>
+				<p class="list-level-1-numerical"><span class="strong">Translation Exams:</span> Each student must pass a set of translation examinations in Greek and in Latin administered by the master&#8217;s committee (two hours each). </p>
+				<p>The JEC, in consultation with the graduate adviser and the student, recommends to the graduate dean a three-member master&#8217;s committee composed of program faculty from at least two campuses to set and evaluate the translation exams and to evaluate the master&#8217;s paper. Normally this committee is established in the quarter preceding completion of the master&#8217;s paper. </p>
+				<h4 class="program-overview-subhead-3">Exams for the PhD </h4>
+				<ol>
+				  <li><span class="strong">Foreign Language Requirements: </span>PhD
+				    students must demonstrate reading proficiency in one modern
+				    research language (normally German, French, or Italian) by the end of
+				    their second year either through appropriate course work or by examination.
+				    Proficiency in a second modern research language is expected by the end
+				    of the third year. </li>
+				  <li><span class="strong">PhD Qualifying Exams:</span> In order to
+				    advance to candidacy for the PhD and to enter the dissertation
+				    stage, a student must pass a set of seven qualifying exams. The translation
+				    exams, history exams, and history of the literatures exam
+				    are administered and evaluated on a regular schedule over the academic
+				    year by examination boards composed of one faculty member from each campus
+				    and appointed for that purpose by the JEC at the graduate adviser&#8217;s
+				    recommendation. The JEC, in consultation with the graduate adviser and
+				    the student, recommends to the graduate dean a five-member candidacy
+				    committee composed of four program faculty (from at least two campuses)
+				    and one outside member holding tenure on one of the participating campuses
+				    (i.e., not a member of the program faculty) to organize and administer
+				    the special-area exam and the oral exam taken by the candidate after
+				    successful completion of the other exams. All committee members for both
+				    candidacy and doctoral committees should normally be voting members of
+				    the Academic Senate of the Irvine, Riverside, or San Diego divisions.
+				    Any exceptions must hold a PhD, be qualified for a UC faculty appointment,
+				    and be supported by a memo of justification and a CV submitted by the
+				    graduate adviser to the graduate dean for approval at least two weeks
+				    prior to an exam. The qualifying examinations include written examinations
+				    and a final oral examination: 
+				  <ol class="lower-alpha"><li>Greek and Latin translation (three hours each) </li>
+				  <li>Greek and Roman history (two hours each) </li>
+				  <li>History of Greek and Roman literature (three hours) </li>
+				  <li>A “special area” that can be fulfilled by either an extensive research
+				    paper or a three-hour written exam </li>
+				  <li>Oral examination to be administered by the candidacy committee and
+				    taken only after the other exams have been passed (two hours: one hour
+				    general knowledge and one hour special-area exam paper or research paper) </li></ol>
+				  These exams are based on the Tri-Campus Reading Lists and should be
+				    completed by the end of the fourth year. The exams on Greek and Roman
+				    history are based on up to six books each, three prescribed on the reading
+				    list for this exam and up to three agreed to by the student and graduate
+				    adviser. The exam on the history of Greek and Roman literature is based
+				    on the Greek and Latin Reading Lists and the books prescribed on the
+				    reading list for this exam. Students are expected to read, in the original,
+				    all works on the Greek and Latin Reading Lists, whether or not they have
+				    appeared in courses. (Students may negotiate with the graduate adviser
+				    substitutions on the Greek and Latin Reading Lists comprising up to twenty
+				    percent of their total length in order to accommodate the particular
+				    interests of the individual student.) Upon successful completion of the
+				    written examinations, the oral exam will be scheduled. Students failing
+				    segments of the qualifying exams may normally retake those sections only
+				    once after the interval of one quarter or the summer break, as the case
+				    may be. Students may retake segments of the qualifying exams more than
+				    once only at the discretion of the JEC. A grade of Pass in all examinations
+				    is required for admission to candidacy. </li>
+	    </ol>
+<h4 class="program-overview-subhead-3">Thesis and Defense for the MA </h4>
+				<p>The master&#8217;s paper comprises a substantial piece of original research. It should exceed the breadth and depth expected for a seminar paper, which can provide a good foundation for the master&#8217;s paper. The master&#8217;s paper must be submitted to members of the master&#8217;s committee three weeks in advance of the general exam.</p>
+				<p>If the master&#8217;s paper is found to be of passing quality by the committee, the student may take the general exam, a one-hour oral exam covering the broader implications of the master&#8217;s paper and the classical world generally. </p>
+				<h4 class="program-overview-subhead-3">Thesis and Defense for the PhD </h4>
+				<p>When the student has advanced to candidacy, the JEC—in consultation with the candidate, the graduate adviser, and the proposed chair of the doctoral committee—will recommend to the dean of the Graduate Division a doctoral committee composed of at least three program faculty (from at least two of the three campuses) and one outside member who holds tenure at one of the participating campuses. The doctoral committee will serve as the examination committee for the thesis defense. Within the first quarter after completion of the qualifying exams and all other prerequisites, the candidate will submit a dissertation proposal for discussion and evaluation to the doctoral committee. </p>
+				<p>A public oral defense of the dissertation will be scheduled upon its submission to the doctoral committee. Members of the committee must be supplied with a copy of the dissertation at least three weeks before the exam date. </p>
+				<h3 class="program-overview-subhead-2">The Emphasis in Comparative Literature </h3>
+				<h4 class="program-overview-subhead-3">Course Work </h4>
+				<p>For the emphasis in comparative literature, students must take at least five graduate courses in the Department of English and Comparative Literature. One course should be Criticism 222A or C, or Comparative Literature 200. At least three of the courses should have a Comparative Literature designation. One of the courses could be Humanities 270 (Critical Theory). Classics students can devote the required outside seminars to this emphasis and may, with the graduate adviser&#8217;s approval, make appropriate substitutions of courses. </p>
+				<h4 class="program-overview-subhead-3">Qualifying Exams </h4>
+				<p>One topic on the PhD qualifying examination must be on a comparative literature topic and should be prepared with a professor from the Comparative Literature Program who would serve as a member of the student&#8217;s exam committee. The student should be able to demonstrate some expertise in comparative critical methodologies as well as knowledge of a literature and tradition other than classics. Normally classics students will fulfill this requirement by selecting the research-paper option for the oral-exam stage of the qualifying examinations. </p>
+				<h4 class="program-overview-subhead-3">Dissertation </h4>
+				<p>One member of the student&#8217;s doctoral committee must be from the Program in Comparative Literature.</p>
+				<p>Students must submit an application for the emphasis to the graduate adviser in classics, and the department will track the students&#8217; progress and fulfillment of the emphasis requirements. Upon graduation, students will receive a letter from the graduate adviser certifying completion of the emphasis. </p>
+				<h3 class="program-overview-subhead-2">Attendance at Colloquia and other Departmental Activities </h3>
+				<p>Seminars, colloquia, and other activities of interest to classics graduate students are organized regularly by the Tri-Campus Graduate Program. Since these activities are considered part of the student&#8217;s professional training, all students are required to attend them. Students are also urged to acquaint themselves with colloquia offered in other fields. </p>
+				<h3 class="program-overview-subhead-2">Support for Graduate Students </h3>
+				<p>A variety of fellowships and teaching assistantships is available to classics graduate students on a competitive basis. They include Chancellor&#8217;s Fellowships, Regents&#8217; Fellowships, and Dissertation Fellowships, as well as the Thesaurus Linguae Graecae Fellowship. Several teaching and research assistantships are also available and provide a stipend in addition to tuition and fees. Some fourth- and fifth-year teaching assistantships are held at UC Riverside and UC San Diego. Continuation of support is contingent upon satisfactory academic progress. Support from various sources is normally extended to students in good standing for up to six years. </p>
+				<h3 class="program-overview-subhead-2">Resources of the Tri-Campus Program </h3>
+				<p>The Department of Classics at UC Irvine, which is the administrative center of the Tri-Campus Program, is housed in pleasant quarters in Humanities Office Building 2. Tri-Campus graduate students avail themselves of </p>
+				<ul>
+					<li class="list-level-1">Superior library holdings in classics and related fields in the combined collections of all nine University of California research libraries, access to the holdings of the California Digital Library, and expeditious Interlibrary Loan Services with other US and international libraries. </li>
+					<li class="list-level-1">The facilities of the Thesaurus Linguae Graecae Project (TLG) at UC Irvine, including the complete TLG data bank, the Classics/TLG Computing Lab, and the large collection of primary texts, commentaries, and reference materials housed in the TLG&#8217;s Marianne Eirene McDonald Library. Formal (Classics 201) and informal instruction in computer-related methodologies for research and teaching are conducted at the Classics/TLG Computing Lab. </li>
+					<li class="list-level-1">The Consortium for Latin Lexicography (CLL) at UC Irvine, a collaborative research group whose primary goal is to create a computerized Latin dictionary based on the Thesaurus Linguae Latinae (TLL) in Munich. </li>
+					<li class="list-level-1">The faculty and program in comparative ancient civilizations at UC Riverside, which are dedicated to a cross-cultural and cross-disciplinary approach to the study of ancient cultures. </li>
+					<li class="list-level-1">Combined UCI-UC San Diego PhD Program in theatre, which has a strong classics component, and the nationally renowned regional theatre in La Jolla. </li>
+					<li class="list-level-1">Seminars, colloquia, and lectures regularly offered by the Critical Theory Institute at UC Irvine and by the University of California Humanities Research Institute that is housed on the UC Irvine campus. Tri-Campus doctoral students may add an emphasis in critical theory under the supervision of the Committee on Critical Theory. The Tri-Campus Program also has its own colloquia series of lectures by visiting scholars on the three campuses. </li>
+					<li class="list-level-1">The Southern California Graduate Resource-Sharing Consortium, a cooperative association of the Tri-Campus Program and the graduate classics programs of UCLA and the University of Southern California. Every year a faculty member from each of these units offers a graduate seminar in his or her area of expertise at one of the other units. In the spring of every year faculty and graduate students conjoin at an annual consortium luncheon and lecture by a distinguished visiting scholar. </li>
+				</ul>
+		<p>For further information and an online application to the program, please
+		  see the Tri-Campus Program&#8217;s website at <a href="https://www.humanities.uci.edu/classics/graduate/index.php" target="_blank">https://www.humanities.uci.edu/classics/graduate/index.php</a>. </p>
+				<p>James Porter<br />
+			    Program Graduate Advisor<br />
+			    Department of Classics<br />
+			    University of California, Irvine<br />
+			    Irvine, CA 92697-2000<br />
+			    (949) 824-8019<br />
+			    Email: <a href="mailto:james.porter@uci.edu">james.porter@uci.edu</a><br />
+			    Fax: (949) 824-1966 </p>
+<h3 class="program-overview-subhead-2">Links</h3>
+		<p>Following is a list of websites for professional organizations that may be of interest to Classical Studies students:</p>
+				<ul>
+					<li class="list-level-1">The American Philological Association: the national professional association for classics <a href="http://www.apaclassics.org/" target="_blank">http://www.apaclassics.org/</a></li>
+					<li class="list-level-1">The California Classical Association: the West
+					  Coast regional professional association for classics
+					  <ul>
+					    <li>Northern Section:<a href="http://www.ccanorth.org/" target="_blank"> http://www.ccanorth.org/</a></li>
+					    <li>Southern Section:<a href="https://sites.google.com/site/ccasouthernsection/" target="_blank"> https://sites.google.com/site/ccasouthernsection/</a></li></ul></li><li class="list-level-1">The American Classical League: the national association for secondary teachers of Latin and Greek: <a href="http://www.aclclassics.org/" target="_blank">http://www.aclclassics.org/</a></li>
+				</ul>
+	    </blockquote>
+<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

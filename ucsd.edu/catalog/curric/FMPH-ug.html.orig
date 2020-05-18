@@ -1,0 +1,574 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Family Medicine and Public Health: Undergraduate Curriculum</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" --> 
+            <h1 class="noTopMargin">Family Medicine and Public Health</h1>
+            <p class="sectionNav"><span class="courseFacLink">[ <a href="FMPH-gr.html">graduate
+      program</a> | <a href="../courses/FMPH.html">courses </a>]</span></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><p>The Department of Family Medicine and Public Health&rsquo;s mission is to improve health through both clinical care and research. Studies undertaken by departmental members focus on behavioral and clinical research, clinical care, education, and epidemiology. The department has a significant education mission and hosts both an undergraduate degree and a doctoral degree in public health, as well as a doctoral degree program in biostatistics. It has a major role in teaching in the School of Medicine curriculum and hosts four separate medical residencies in Family Medicine, Family Medicine-Psychiatry, and Preventive Medicine. In addition, the department hosts the self-funding master of advanced studies (MAS) in Leadership of Healthcare Organizations. </p>
+<div>
+      <div> </div>
+      </div>
+<h2>The Undergraduate Program in Public Health</h2>
+        <p>The Student Affairs Office of the Bachelor of Science in Public Health (BSPH) Program is located in University Center 202, suite 400. The entrance is on the south side of the building, adjacent to Gilman Drive. You can find us on the <a href="http://act.ucsd.edu/maps/?lat=32.87804759649825&lng=-117.23680999999996&t=roadmap&z=17&p=7001220375972079&r=100&mkrs%5B%5D=7001220375972079&v=3&wid=7001220375972079&mid=7001220375972079" target="_blank">UC San Diego campus map</a>.</p>
+        <p>The BSPH Program website is<a href="http://ph.ucsd.edu/undergrad/index.html" target="_blank"> http://ph.ucsd.edu/undergrad/index.html</a>.</p>
+        <h3>Introduction</h3>
+        <p>Public health seeks to improve human health through the development and application of scientific knowledge that helps prevent disease, protects the public from exposure to potential harm, and promotes health throughout communities at the local, national, and global levels.</p>
+        <p>The Department of Family Medicine and Public Health offers a bachelor of science in public health (BSPH) with courses in epidemiology, biostatistics, social and behavioral sciences, environmental and occupational health sciences, and health policy. The epidemiology and biostatistics areas offer courses on the determinants and distribution of disease at the population level with a focus on analyzing and interpreting public health data using statistical methods. The social and behavioral sciences area offers courses for students interested in how behaviors influence disease. The environmental and occupational health sciences area offers courses on the study of environmental and occupational factors, including biological, physical, and chemical factors that affect the health of a workforce and the community. The health policy area emphasizes the structure, process, and outcomes of health services and policies that are commonly used to motivate people to healthier lifestyles.</p>
+        <h3>Entry to the Major</h3>
+        <p>Public health is a <a href="https://students.ucsd.edu/academics/advising/majors-minors/capped-majors.html" target="_blank">capped major</a>. To prepare students for success in upper-division courses, the faculty of the Department of Family Medicine and Public Health have determined that students who want to declare a major in public health must first meet the criterion outlined below:</p>
+        <ul>
+          <li><span dir="LTR"> </span>Completion of FMPH 40, Introduction to Public Health, with a grade of B or higher.</li>
+        </ul>
+        <p>Students must use the Major/Minor tool on <a href="https://students.ucsd.edu/" target="_blank">TritonLink</a> to request entrance to the major in public health. Students will receive approval to declare the major only after the Department of Family Medicine and Public Health has completed the review process to ensure the above criterion has been met. All students who earn a B or higher in FMPH 40 will be accepted into the major.</p>
+        <p>For additional details about entrance to the major in public health, see the <a href="http://ph.ucsd.edu/undergrad/index.html" target="_blank">program&rsquo;s website</a>.</p>
+        <div>
+          <div> </div>
+          <div> </div>
+        </div>
+        <h4>Lower-Division Requirements (32 or 33 units)</h4>
+        <p><strong>Public Health Sciences (two courses, eight units) </strong></p>
+        <ul>
+          <li> FMPH 40. Introduction to Public Health          </li>
+          <li>FMPH 50. Primary Care and Public Health 
+          </li>
+        </ul>
+        <p><strong>Biology (three courses, twelve units)</strong></p>
+        <ul>
+          <li>Option 1: BILD 1, BILD 2, and BILD 3         </li>
+          <li>Option 2: BILD 3 PLUS two from BILD 10, BILD 12/COGS 17, BILD 20, BILD 22, BILD 26 </li>
+        </ul>
+        <p><em>Option 1 is recommended for students going into traditional health professions (medical school, physician assistant school, nursing), epidemiology, or other fields that value a hard science background.</em><strong> </strong></p>
+        <p><strong>Quantitative Methods (one course, four or five units)</strong></p>
+        <ul>
+          <li>Option 1: MATH 11         </li>
+          <li>Option 2: PSYC 60         </li>
+          <li>Option 3: COGS 14B </li>
+        </ul>
+        <p><em>Option 1 is recommended for students going into epidemiology, biostatistics, or other fields that value statistics and data analysis.</em></p>
+        <p><strong>Social and Behavioral Sciences Electives (two courses, eight units)</strong></p>
+        <ul>
+          <li>ANTH 1, ANTH 2, ANTH 23, CGS 2B, COGS 14A/PSYC 70/SOCI 60, COMM 10, ECON 1, ENVR 30, ESYS 10, HDP 1, HILD 30, LTCS 50, POLI 10/10D, POLI 11/11D, POLI 30/30D, PSYC 1, PSYC 2, PSYC 3, PSYC 4, PSYC 6, PSYC 7, SOCI 1, SOCI 2, SOCI 10, SOCI 30, SOCI 40, SOCI 70, USP 2        </li>
+        </ul>
+        <h4>Upper-Division Requirements (fifty-two units)      </h4>
+        <p><strong>Core Disciplines (six courses, twenty-four units)</strong></p>
+        <ul>
+          <li>FMPH 101. Epidemiology          </li>
+          <li>FMPH 102. Biostatistics          </li>
+          <li>FMPH 110. Health Behavior and Chronic Diseases          </li>
+          <li>FMPH 120. Health Policies for Healthy Lifestyles         </li>
+          <li>FMPH 130. Environmental and Occupational Health          </li>
+          <li>USP 143. The US Health-Care System </li>
+        </ul>
+        <h4>Upper-Division Electives (five courses, twenty units)</h4>
+        <p><strong>A minimum of one course from the following:  </strong></p>
+        <ul>
+          <li><span dir="LTR"> </span>FMPH 140-179, FMPH 180A, FMPH 191, FMPH 195, FMPH 196A, FMPH 199</li>
+        </ul>
+        <p><strong>Four additional courses from either those listed above or those listed below:</strong></p>
+        <ul>
+          <li><span dir="LTR"> </span>ANBI 130, ANSC 143, ANSC 144, ANSC 146, ANSC 147, ANSC 148, ANSC 150, ANSC 164, BIBC 120, BICD 136, BIEB 100, BIEB 152, BIMM 110, BIMM 124, BIMM 134, BIPN 108, COGS 174, COMM 102C, COMM 114J, ECON 125, ECON 130, ECON 131, ECON 140, ECON 141, ETHN 103, ETHN 142, ETHN 157, ETHN 190, GLBH 181, HISC 116, HISC 180, LTCS 165, MATH 111A, MATH 111B, MATH 181A, MATH 181B, MATH 181C, MATH 181E, MATH 183, MATH 185, MATH 186, MATH 189, MGT 173, PHIL 163, POLI 125B, POLI 160AA, POLI 168, PSYC 104, PSYC 134, PSYC 155, PSYC 173, PSYC 179, PSYC 181, PSYC 188, REV 160GS, REV 165GS, SIO 187, SIO 189, SOCI 102, SOCI 104Q, SOCI 108, SOCI 113, SOCI 134, SOCI 135, SOCI 136F, SOCI 137, SOCI 152, USP 101, USP 133, USP 136, USP 144, USP 145, USP 146, USP 147, USP 149</li>
+        </ul>
+        <p><strong>Capstone Experience (two courses, eight units)</strong></p>
+        <ul>
+          <li><span dir="LTR"> </span>FMPH 193. Public Health Capstone I </li>
+          <li><span dir="LTR"> </span>FMPH 194. Public Health Capstone II </li>
+        </ul>
+        <p><em>Note: Students may petition to use FMPH 199, AIP 197, UCDC/UCCS, or a study abroad experience in place of FMPH 193 (must be an upper-division four-unit course, taken in the junior or senior year, and have been preapproved by the department).</em></p>
+        <p><em>Students accepted into the Advanced Practicum may use FMPH 180A as one upper-division public health elective, and FMPH 180B and FMPH 180C to satisfy the entire capstone experience area requirement (in place of FMPH 193 and FMPH 194). </em></p>
+        <p><em>Students accepted into the Public Health Honors Program may use FMPH 196A as one upper-division public health elective, and FMPH 196B and FMPH 196C to satisfy the entire capstone experience area requirement (in place of FMPH 193 and FMPH 194).</em></p>
+        <h4>Additional Requirements</h4>
+        <ul>
+          <li><span dir="LTR"> </span>Students who want to declare a major in public health must first complete FMPH 40 with a grade of B or higher before declaring the major.</li>
+          <li><span dir="LTR"> </span>FMPH 40 and FMPH 50 must be completed at UC San Diego.</li>
+          <li><span dir="LTR"> </span>All lower-division and upper-division major courses must be taken for a letter grade, with the exception of AIP 197, FMPH 195, and FMPH 199, which may be taken P/NP only.</li>
+          <li><span dir="LTR"> </span>A minimum grade of C­– is required in any course to be counted toward fulfillment of lower-division and upper-division major requirements.</li>
+          <li><span dir="LTR"> </span>No more than four units of FMPH 195 may be used to meet upper-division major requirements.</li>
+          <li><span dir="LTR"> </span>No more than eight units between AIP 197 and FMPH 195 may be used to meet upper-division major requirements.</li>
+          <li><span dir="LTR"> </span>No more than eight units of FMPH 199 may be used to meet upper-division major requirements.</li>
+        </ul>
+      
+	    <h3>Sample Four-Year Plan	      </h3>
+	    <h4>(Option 1 Biology—Premed Track)        </h4>
+	    <table border="0" cellpadding="2" cellspacing="0" class="sample-program">
+          <tr>
+            <td valign="top" class="Normal"><p><strong>FALL</strong></p></td>
+            <td valign="top" class="Normal"><p><strong>WINTER</strong></p></td>
+            <td valign="top" class="Normal"><p><strong>SPRING</strong></p></td>
+          </tr>
+          <tr class="coloredRow">
+            <td colspan="2" valign="top" class="Normal"><p><strong>Year 1</strong></p></td>
+            <td valign="top" class="Normal">&nbsp;</td>
+          </tr>
+          <tr>
+            <td align="center" valign="top" class="Normal"><p><strong>SBE</strong><br>
+            </p></td>
+            <td align="center" valign="top" class="Normal"><p><strong>SBE</strong><br>
+            </p></td>
+            <td align="center" valign="top" class="Normal"><p><strong>MATH 11</strong><br>
+            </p></td>
+          </tr>
+          <tr>
+            <td align="center" valign="top" class="Normal"><p>BILD 3</p></td>
+            <td align="center" valign="top" class="Normal"><p>BILD 1</p></td>
+            <td align="center" valign="top" class="Normal"><p>CHEM 6C</p></td>
+          </tr>
+          <tr>
+            <td align="center" valign="top" class="Normal"><p>CHEM 6A*</p></td>
+            <td align="center" valign="top" class="Normal"><p>CHEM 6B<sup></sup>*</p></td>
+            <td align="center" valign="top" class="Normal"><p>CHEM 7L*</p>
+           </td>
+          </tr>
+          <tr>
+            <td align="center" valign="top" class="Normal"><p>MATH 10A*</p></td>
+            <td align="center" valign="top" class="Normal"><p>MATH 19B*<sup></sup></p></td>
+            <td align="center" valign="top" class="Normal"><p>MATH 10C*</p>
+           </td>
+          </tr>
+ <tr class="coloredRow">
+            <td colspan="2" valign="top" class="Normal"><p><strong>Year 2</strong></p></td>
+            <td valign="top" class="Normal">&nbsp;</td>
+          </tr>
+          <tr>
+            <td align="center" valign="top" class="Normal"><p><strong>FMPH 40</strong><br>
+            </p></td>
+            <td align="center" valign="top" class="Normal"><p><strong>FMPH 50</strong></p></td>
+            <td align="center" valign="top" class="Normal"><p><strong>BILD 2</strong></p></td>
+          </tr>
+          <tr>
+            <td align="center" valign="top" class="Normal"><p>PHYS 1A*</p></td>
+            <td align="center" valign="top" class="Normal"><p>PHYS 1B*</p></td>
+            <td align="center" valign="top" class="Normal"><p>PHYS 1C*</p></td>
+          </tr>
+          <tr>
+            <td align="center" valign="top" class="Normal"><p>PHYS 1AL*</p></td>
+            <td align="center" valign="top" class="Normal"><p>PHYS 1BL*</p></td>
+            <td align="center" valign="top" class="Normal"><p>PHYS 1CL*</p>
+           </td>
+          </tr>
+          <tr>
+            <td align="center" valign="top" class="Normal"><p>CHEM 140A*</p></td>
+            <td align="center" valign="top" class="Normal"><p>CHEM 140B*<sup></sup></p></td>
+            <td align="center" valign="top" class="Normal"><p>CHEM 140C*</p>
+           </td>
+          </tr>
+        <tr class="coloredRow">
+            <td colspan="2" valign="top" class="Normal"><p><strong>Year 3</strong></p></td>
+            <td valign="top" class="Normal">&nbsp;</td>
+          </tr>
+          <tr>
+            <td align="center" valign="top" class="Normal"><p><strong>FMPH 101</strong><br>
+            </p></td>
+            <td align="center" valign="top" class="Normal"><p><strong>FMPH 102</strong></p></td>
+            <td align="center" valign="top" class="Normal"><p><strong>FMPH 120</strong></p></td>
+          </tr>
+          <tr>
+            <td align="center" valign="top" class="Normal"><p>BILD 4*</p></td>
+            <td align="center" valign="top" class="Normal"><p><strong>FMPH 110</strong></p></td>
+            <td align="center" valign="top" class="Normal"><p><strong>UDE</strong></p></td>
+          </tr>
+          <tr>
+            <td align="center" valign="top" class="Normal"><p>CHEM 143A*</p></td>
+            <td align="center" valign="top" class="Normal"><p>BIBC 100 or 102*</p></td>
+            <td align="center" valign="top" class="Normal"><p>UD BIOLOGY LAB*</p>
+           </td>
+          </tr><tr class="coloredRow">
+            <td colspan="2" valign="top" class="Normal"><p><strong>Year 4</strong></p></td>
+            <td valign="top" class="Normal">&nbsp;</td>
+          </tr>
+          <tr>
+            <td align="center" valign="top" class="Normal"><p><strong>FMPH 130</strong><br>
+            </p></td>
+            <td align="center" valign="top" class="Normal"><p><strong>FMPH 193</strong></p></td>
+            <td align="center" valign="top" class="Normal"><p><strong>FMPH 194</strong></p></td>
+          </tr>
+          <tr>
+            <td align="center" valign="top" class="Normal"><p><strong>UDE</strong></p></td>
+            <td align="center" valign="top" class="Normal"><p><strong>USP 143</strong></p></td>
+            <td align="center" valign="top" class="Normal"><p><strong>UDE</strong></p></td>
+          </tr>
+          <tr>
+            <td align="center" valign="top" class="Normal"><p><strong>UDE</strong></p></td>
+            <td align="center" valign="top" class="Normal"><p><strong>UDE</strong></p></td>
+            <td align="center" valign="top" class="Normal"><p>&nbsp;</p>
+           </td>
+          </tr></table>
+        <p class="note">Note:</p>
+        <ul>
+          <li> <span class="note">SBE: Lower-division social and behavioral science elective</span></li>
+          <li> <span class="note">UDE: Upper-division public health elective</span></li>
+          <li> <span class="note">Public health major courses are in <strong>boldface.</strong></span></li>
+          <li> <span class="note">Additional courses required for premed are noted with *.  </span></li>
+        </ul>
+        <p class="note">(Please check with Career Services premed advisers for more information regarding requirements.)</p>
+        <h4>(Option 2 Biology) </h4>
+        <table border="0" cellpadding="2" cellspacing="0" class="sample-program">
+          <tr>
+            <td valign="top" class="Normal"><p><strong>FALL</strong></p></td>
+            <td valign="top" class="Normal"><p><strong>WINTER</strong></p></td>
+            <td valign="top" class="Normal"><p><strong>SPRING</strong></p></td>
+          </tr>
+          <tr class="coloredRow">
+            <td colspan="2" valign="top" class="Normal"><p><strong>Year 1</strong></p></td>
+            <td valign="top" class="Normal">&nbsp;</td>
+          </tr>
+          <tr>
+            <td align="center" valign="top" class="Normal"><p><strong>SBE</strong><br>
+            </p></td>
+            <td align="center" valign="top" class="Normal"><p><strong>SBE</strong><br>
+            </p></td>
+            <td align="center" valign="top" class="Normal"><p><strong>COGS 14B/PSYC 60</strong><br>
+            </p></td>
+          </tr>
+          <tr>
+            <td align="center" valign="top" class="Normal"><p>&nbsp;</p></td>
+            <td align="center" valign="top" class="Normal"><p><strong>BILD 3</strong></p></td>
+            <td align="center" valign="top" class="Normal"><p><strong>BILD</strong></p></td>
+          </tr>
+          <tr class="coloredRow">
+            <td colspan="2" valign="top" class="Normal"><p><strong>Year 2</strong></p></td>
+            <td valign="top" class="Normal">&nbsp;</td>
+          </tr>
+          <tr>
+            <td align="center" valign="top" class="Normal"><p><strong>FMPH 40<br>
+            </strong></p></td>
+            <td align="center" valign="top" class="Normal"><p><strong>FMPH 50</strong></p></td>
+            <td align="center" valign="top" class="Normal"><p><strong>BILD</strong></p></td>
+          </tr>
+         
+          <tr class="coloredRow">
+            <td colspan="2" valign="top" class="Normal"><p><strong>Year 3</strong></p></td>
+            <td valign="top" class="Normal">&nbsp;</td>
+          </tr>
+          <tr>
+            <td align="center" valign="top" class="Normal"><p><strong>FMPH 101</strong><br>
+            </p></td>
+            <td align="center" valign="top" class="Normal"><p><strong>FMPH 102</strong></p></td>
+            <td align="center" valign="top" class="Normal"><p><strong>FMPH 120</strong></p></td>
+          </tr>
+          <tr>
+            <td align="center" valign="top" class="Normal"><p><strong>UDE</strong></p></td>
+            <td align="center" valign="top" class="Normal"><p><strong>FMPH 110</strong></p></td>
+            <td align="center" valign="top" class="Normal"><p><strong>UDE</strong></p></td>
+          </tr>
+          <tr class="coloredRow">
+            <td colspan="2" valign="top" class="Normal"><p><strong>Year 4</strong></p></td>
+            <td valign="top" class="Normal">&nbsp;</td>
+          </tr>
+          <tr>
+            <td align="center" valign="top" class="Normal"><p><strong>FMPH 130</strong><br>
+            </p></td>
+            <td align="center" valign="top" class="Normal"><p><strong>FMPH 193</strong></p></td>
+            <td align="center" valign="top" class="Normal"><p><strong>FMPH 194</strong></p></td>
+          </tr>
+          <tr>
+            <td align="center" valign="top" class="Normal"><p><strong>UDE</strong></p></td>
+            <td align="center" valign="top" class="Normal"><p><strong>USP 143</strong></p></td>
+            <td align="center" valign="top" class="Normal"><p><strong>UDE</strong></p></td>
+          </tr>
+          <tr>
+            <td align="center" valign="top" class="Normal"><p><strong>UDE</strong></p></td>
+            <td align="center" valign="top" class="Normal"><p>&nbsp;</p></td>
+            <td align="center" valign="top" class="Normal"><p>&nbsp;</p></td>
+          </tr>
+        </table>
+        <p class="note">Note:</p>
+        <ul>
+          <li> <span class="note">SBE: Lower-division social and behavioral science elective</span></li>
+          <li> <span class="note">UDE: Upper-division public health elective</span></li>
+          <li> <span class="note">Public health major courses are in <strong>boldface.</strong></span>        </li>
+        </ul>
+        <h2>Public Health Honors Program</h2>
+        <p>Students are encouraged to participate in the Department of Family Medicine and Public Health Honors Program. The Public Health Honors Program includes a three-quarter course sequence that students complete in their senior year (FMPH 196A, FMPH 196B, FMPH 196C). Admission is granted by application at the end of the winter quarter of the student&rsquo;s junior year. To be considered, all applicants must have completed FMPH 40, FMPH 50, FMPH 101 or FMPH 102, and FMPH 110 prior to the start of the program.</p>
+        <p>The BSPH Honors Program provides students with a yearlong, intensive, applied public health culminating experience. Through a mix of course work and experiential learning opportunities, students will work to apply public health principles to real-world settings. Students will work closely with faculty, other BSPH students, and Honors practicum sites in the planning, implementing, evaluation, and/or dissemination of public health programs and research on pressing public health topics.</p>
+        <p>Students will have opportunities to integrate, synthesize, and apply knowledge through cumulative and experiential activities. All students will complete a cumulative, integrative, and scholarly or applied experience or inquiry project that serves as a capstone to their undergraduate educational experience. In addition, students gain exposure to local-level public health professionals and/or agencies that engage in public health practice.</p>
+        <p>Through the BSPH Honors Program, students will learn professionalism in the workplace; how to conduct program planning and evaluation; how to develop proposals regarding research, program planning, or evaluation; critical thinking skills; and how to communicate effectively to diverse audiences.</p>
+        <p>Successful completion of the Public Health Honors Program requires a minimum grade of B in FMPH 196A, FMPH 196B, and FMPH 196C, and a minimum GPA of 3.25 in the upper-division courses taken for the major to earn Distinction in the Major. Students who earn a grade of B or higher in FMPH 196A, FMPH 196B, and FMPH 196C, and a minimum GPA of 3.5 in the upper-division courses taken for the major will earn High Distinction in the Major. Students who earn a grade of B or higher in FMPH 196A, FMPH 196B, and FMPH 196C, and a minimum GPA of 3.75 in the upper-division courses taken for the major will earn Highest Distinction in the Major.</p>
+        <h3>Student Learning Outcomes</h3>
+        <p>On completion of the BSPH Honors Program, students should be able to</p>
+        <ol>
+          <li><span dir="LTR"> </span>Conduct literature reviews and critically assess evidence.</li>
+          <li><span dir="LTR"> </span>Develop sound research or evaluation questions using qualitative and/or quantitative research methods, including the collection, analysis, and interpretation of data.</li>
+          <li><span dir="LTR"> </span>Identify the magnitude and determinants of health problems and possible facilitators and barriers to their solution.</li>
+          <li><span dir="LTR"> </span>Describe the key steps in designing and implementing a new public health intervention or in evaluating an existing program or intervention.</li>
+          <li><span dir="LTR"> </span>Propose interventions that acknowledge and address the determinants of health, are based upon empirical evidence, and accommodate scientific and practical considerations.</li>
+          <li><span dir="LTR"> </span>Evaluate ethical issues in public health and apply public health values and standards to public health applications.</li>
+          <li><span dir="LTR"> </span>Develop communication strategies and demonstrate effective written and oral communication skills for professional and general audiences.</li>
+          <li><span dir="LTR"> </span>Demonstrate ability to work effectively with others, including in research teams, at practicum sites, and in community-diverse contexts.</li>
+        </ol>
+        <h2>Description of Upper-Division Areas</h2>
+        <p>The upper-division areas listed below are intended to guide students to course options that align with their goals and interests. Students can take courses from any of the areas below to fulfill the major&rsquo;s upper-division elective requirement. </p>
+        <h3>Epidemiology and Biostatistics</h3>
+        <h4>Overview</h4>
+        <p>Epidemiology is the core discipline of public health and is the study of the distribution and determinants of disease, disabilities, and death in human populations; the characteristics and dynamics of human populations; and the natural history of disease and the biologic basis of health. Closely linked to epidemiology is biostatistics, which is the development and application of statistical reasoning and methods in addressing, analyzing, and solving problems in public health, health care, and biomedical, clinical, and population-based research. Upon graduation, a student with a BSPH should be able to</p>
+        
+          <ol start="1" type="1">
+            <li>Explain the importance of       epidemiology for informing scientific, ethical, economic, and political       discussion of health issues. </li>
+            <li>Define the basic concepts and       terminology used in epidemiology.</li>
+            <li>Calculate basic epidemiology       measures. </li>
+            <li>Describe the leading causes of       mortality, morbidity, and health disparities among local, regional, and       global populations. </li>
+            <li>Describe the risk factors and       modes of transmission for infectious and chronic diseases and explain how       these diseases affect both personal and population health. </li>
+            <li>Apply epidemiology measures to       evaluate strategies to safeguard the population&rsquo;s health</li>
+            
+          </ol>
+	<p>Biostatistics is the development and application of statistical reasoning and methods in addressing, analyzing, and solving problems in public health; health care; and biomedical, clinical, and population-based research. Upon graduation, a student with a BSPH should be able to</p>
+          
+          
+          <ol start="1" type="1">
+            <li>Describe the basic concepts of       probability, random variation, and commonly used statistical probability       distributions. </li>
+            <li>Explain common descriptive       techniques used to summarize public-health data. </li>
+            <li>Analyze basic public-health data       using common statistical methods for inference.</li>
+            <li>Interpret results of statistical       analyses found in public-health studies.</li>
+          </ol>
+  
+      
+         
+            <h5>Core Discipline Courses </h5>
+         
+        <ul>
+          <li>FMPH      101. Epidemiology </li>
+              <li>FMPH 102. Biostatistics in Public Health</li>
+        </ul>
+              <p>Note: All six upper-division core courses still required. 
+        </p>
+        <h5>Electives </h5>
+        <ul>
+          <li><span dir="LTR"> </span>BICD 136. AIDS: Science and Society</li>
+          <li><span dir="LTR"> </span>BIEB 100. Biostatistics </li>
+          <li><span dir="LTR"> </span>BIEB 152. Evolution of Infectious Diseases </li>
+          <li><span dir="LTR"> </span>BIMM 110. Molecular Basis of Human Disease</li>
+          <li><span dir="LTR"> </span>BIMM 124. Medical Microbiology</li>
+          <li><span dir="LTR"> </span>BIMM 134. Biology of Cancer</li>
+          <li><span dir="LTR"> </span>MATH 111A. Mathematical Modeling I</li>
+          <li><span dir="LTR"> </span>MATH 111B. Mathematical Modeling II</li>
+          <li><span dir="LTR"> </span>MATH 181A. Introduction to Mathematical Statistics I</li>
+          <li><span dir="LTR"> </span>MATH 181B. Introduction to Mathematical Statistics II </li>
+          <li><span dir="LTR"> </span>MATH 181C. Mathematical Statistics—Nonparametric Statistics</li>
+          <li><span dir="LTR"> </span>MATH 181E. Mathematical Statistics—Time Series</li>
+          <li><span dir="LTR"> </span>MATH 183. Statistical Methods</li>
+          <li><span dir="LTR"> </span>MATH 185. Introduction to Computational Statistics</li>
+          <li><span dir="LTR"> </span>MATH 186. Probability Statistics for Bioinformatics</li>
+          <li><span dir="LTR"> </span>MATH 189. Exploratory Data Analysis and Inference</li>
+          <li><span dir="LTR"> </span>REV 160GS. Public Health and Epidemiology I</li>
+          <li><span dir="LTR"> </span>REV 165GS. Public Health and Epidemiology II</li>
+          <li><span dir="LTR"> </span>SIO 187. Statistical Methods in Marine Biology</li>
+        </ul>
+        <h3>Social and Behavioral Sciences in Public Health</h3>
+        <h4>Overview            </h4>
+        <p>The social and behavioral sciences in public health address the behavioral, social, and cultural factors related to individual and population health and health disparities over the life course. Research and practice in this area contribute to the development, administration, and evaluation of programs and policies in public health and health services to promote and sustain healthy environments and healthy lives for individuals and populations. Upon graduation, a student with a BSPH should be able to</p>
+        <ol start="1" type="1">
+          <li>Describe      the multiple determinants of health and the interconnectedness of the      physical, social, and environmental levels of influence. </li>
+          <li>Identify      the basic theories, concepts, and models from a range of social and      behavioral disciplines that are used in public health research and      practice. </li>
+          <li>Identify      the causes of, and disparities in, social and behavioral factors that      affect the health of individuals and populations. </li>
+          <li>Apply      evidence-based approaches in the development and evaluation of social and      behavioral science interventions to improve public health.</li>
+        </ol>
+        <h5>Core Discipline Course </h5>
+        <ul type="disc">
+          <li>FMPH 110. Health Behavior and Chronic      Diseases</li>
+        </ul>
+        <p>Note: All six upper-division core courses are still required.</p>
+        <h5>Electives </h5>
+        <ul type="disc">
+          <li>BIBC 120.      Nutrition</li>
+          <li>BIPN      108. Physiology of Exercise</li>
+          <li>COGS      174. Drugs: Brain, Mind, and Culture</li>
+          <li>PSYC      134. Eating Disorders</li>
+          <li>PSYC      155. Social Psychology and Medicine</li>
+          <li>PSYC      173. Psychology of Food and Behavior</li>
+          <li>PSYC      179. Drugs, Addiction, and Mental Disorder</li>
+          <li>PSYC      181. Drugs and Behavior</li>
+          <li>PSYC      188. Impulse Control Disorders</li>
+          <li>SOCI      134. The Making of Modern Medicine</li>
+          <li>SOCI      135. Medical Sociology</li>
+          <li>SOCI      136F. Sociology of Mental Illness in Contemporary Society</li>
+          <li>SOCI      137. Sociology of Food</li>
+        </ul>
+        <h3>Environmental and Occupational Health Sciences </h3>
+        <h4>Overview</h4>
+        <p>Environmental and occupational health sciences represents the study of environmental and occupational factors, including biological, physical, and chemical factors that affect the health of a workforce and the community. Upon graduation, a student with a BSPH should be able to</p>
+        <ol>
+          <li><span dir="LTR"> </span>Describe the direct and indirect human, ecological, and safety effects of major environmental and occupational agents.</li>
+          <li><span dir="LTR"> </span>Describe federal and state regulatory programs, guidelines, and authorities that control environmental and occupational risk assessment methods.</li>
+          <li><span dir="LTR"> </span>Specify current methods of environmental and occupational risk assessment.</li>
+          <li><span dir="LTR"> </span>Evaluate different approaches for assessing and controlling environmental hazards that affect occupational and community health.</li>
+        </ol>
+        <h5>Core Discipline Course </h5>
+        <ul type="disc">
+          <li>FMPH 130. Environmental      and Occupational Health</li>
+        </ul>
+        <p>Note: All six upper-division core courses are still required.</p>
+        <h5>Electives </h5>
+        <ul type="disc">
+          <li>ANBI 130. Biology if      Inequality</li>
+          <li>ANSC 143. Mental      Health as Global Health Priority</li>
+          <li>ANSC 144. Immigrant      and Refugee Health</li>
+          <li>ANSC 146. A Global      Health Perspective on HIV</li>
+          <li>ANSC 147. Global      Health and the Environment</li>
+          <li>ANSC 148. Global      Health and Cultural Diversity</li>
+          <li>ANSC 150. Culture and      Mental Health</li>
+          <li>ANSC 164.      Introduction to Medical Anthropology</li>
+          <li>COMM 114J. Food      Justice</li>
+          <li>ECON 131. Economics      of the Environment</li>
+          <li>ETHN 142. Medicine,      Race, and the Global Politics of Inequality</li>
+          <li>ETHN 157. Madness and      Urbanization</li>
+          <li>ETHN 190. Research      Methods: Studying Racial and Ethnic Communities</li>
+          <li>GLBH 181. Essentials      of Global Health</li>
+          <li>LTCS 165. The      Politics of Food</li>
+          <li>POLI 125B. The      Politics of Food in a Global Economy</li>
+          <li>SIO 189. Pollution,      Environment and Health</li>
+          <li>USP 144.      Environmental and Preventive Health Issues</li>
+          <li>USP 146. Research      Methods for Built Environment and Active Living</li>
+        </ul>
+        
+        <h3>Health Policy </h3>
+        <h4>Overview</h4>
+        <p>Health policy is a multidisciplinary field of inquiry and practice concerned with the delivery, quality, and costs of health care for individuals and populations as well as laws and regulations aimed at influencing health-related behavior. Upon graduation, a student with a BSPH should be able to</p>
+        <ol>
+       
+            <li>Define public health and the related roles and responsibilities of government, nongovernment agencies, and private organizations. </li>
+            <li>Recognize the impact of policies, laws, and regulations on both individual behaviors and population health.</li>
+            <li>Apply the principles of policy analysis to the evaluation in policy interventions.</li>
+            <li>Undertake analyses of legislation, administrative regulations, and interpretations of judicial opinions and agency rulings.</li>
+         
+</ol>
+        <h5>Core Discipline Courses </h5>
+        <ul type="disc">
+          <li>FMPH 120. Health      Policies for Healthy Lifestyles </li>
+          <li>USP 143. The US      Health-Care System</li>
+        </ul>
+        <p>Note: All six upper-division core courses are still required.</p>
+        <h5>Electives</h5>
+        <ul type="disc">
+          <li>ECON      130. Public Policy </li>
+          <li>ECON      140. Economics of Health Producers</li>
+          <li>ECON      141. Economics of Health Consumers</li>
+          <li>HISC      180. Science and Public Policy</li>
+          <li>POLI      160AA/USP 101. Introduction to Policy Analysis</li>
+          <li>POLI      168. Policy Assessment</li>
+          <li>SOCI      152. Social Inequality and Public Policy</li>
+          <li>USP      133. Social Inequality and Public Policy</li>
+        </ul>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

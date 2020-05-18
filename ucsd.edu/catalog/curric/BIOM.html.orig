@@ -1,0 +1,142 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Biomedical Sciences</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Biomedical Sciences</h1>
+<p class="sectionNav"><span class="courseFacLink">[ <a href="../courses/BIOM.html">courses</a> | <a href="../faculty/BIOM.html">faculty</a> ]</span></p>
+<p class="program-contact-info"> School of Medicine<br>
+  Basic Science Building, Room 5008<br />
+  <a href="http://biomedsci.ucsd.edu" target="_blank">http://biomedsci.ucsd.edu </a></p>
+<!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h2 class="program-overview-subhead-1">The Graduate Program</h2>
+				<p>The graduate program offered by the group in Biomedical Sciences (BMS) is designed to lead students to the PhD through a combination of didactic study, laboratory rotations, and thesis research in basic and translational biomedical sciences. Research opportunities in BMS span a wide spectrum of biological and medical sciences, permitting students the options of selecting molecular, cellular, organismal, and integrated systems approaches in their research projects. Students are encouraged to design and execute original and creative research in a self-critical and independent manner. Undergraduate preparation must include courses in mathematics (through calculus), chemistry (including organic, physical, and biochemistry), and preferably participation in research. Students whose undergraduate backgrounds are significantly different will be considered provided there is sufficient evidence of interest in cell and molecular biology, genetics, pathology, physiology, pharmacology, or other disciplines in biomedical sciences, and a strong commitment to enter a field of active research and academic excellence. </p>
+				<h2 class="program-overview-subhead-1">Doctoral Degree Program</h2>
+				<p>During the first year, the students enroll in two core courses followed by specialized courses associated with BMS training. In a required laboratory rotation program, students develop laboratory skills and the ability to formulate scientific hypotheses and become familiar with the research activities of the faculty. Students will have access to training organization in twelve areas: genetics and genomics, molecular cell and developmental biology, cancer biology, molecular pharmacology, neurobiology of disease, structural and chemical biology, physiology and endocrinology, stem cell biology, computational and systems biology, microbiome and microbial sciences, immunology, and pharmaceutical sciences and drug development. Students can also access training opportunities associated with organized research units led by BMS faculty such as the Glycobiology Research and Training Center (GRTC) and the Center for Academic Research and Training in Anthropogeny (CARTA). Required advanced courses and electives in subsequent years are chosen to develop students&rsquo; interests and specialized knowledge in the thesis research area and chosen training areas. PhD specializations in Anthropogeny, Bioinformatics, Multiscale Biology, and Quantitative Biology, which have distinct elective requirements, are also available. BMS students are required to select their thesis advisers and begin their thesis research by the end of the first year in the program, and the average matriculation time among BMS students is between five to six years. Besides course work and examinations, BMS students are required to assist in the teaching of undergraduate biology majors at UC San Diego for one academic quarter. The teaching requirement allows BMS students to learn and practice the skills of effective scientific communication, which is of critical importance to the career development of independent investigators in biomedical research.</p>
+<p>The graduate program is interdepartmental and interdisciplinary; it includes faculty in the Departments of Cellular and Molecular Medicine, Medicine, Pathology, Pediatrics, Pharmacology, Neurosciences, Reproductive Medicine, Chemistry and Biochemistry, Biology, Bioengineering, Psychiatry, Orthopaedics, Anesthesiology, the UC San Diego Moores Cancer Center, the Skaggs School of Pharmacy and Pharmaceutical Sciences, the Sanford-Burnham Institute, the La Jolla Institute for Allergy and Immunology, and the Salk Institute for Biological Studies.				</p>
+<p>The graduate program in biomedical sciences is also designed to educate physician-scientists and pharmacist-scientists through the School of Medicine&rsquo;s Medical Scientist Training Program (MSTP) and the School of Pharmacy PharmD/PhD Program, respectively. Students already admitted to the School of Medicine or School of Pharmacy and Pharmaceutical Sciences are eligible for admission to the BMS program for doctoral training in order to receive MDs and PhDs or PharmDs and PhDs. Such students generally apply in the first or second year of their medical studies or pharmacy studies and enter graduate studies following completion of their second year. Normative time for MD and PhD and PharmD and PhD students is seven years. </p>
+<h3 class="program-overview-subhead-2">Examinations</h3>
+				<p>Students obtain letter grades in the core and training area courses. Candidacy for the PhD is granted following the successful completion of two research-oriented examinations. The first examination, the Research Proposition Exam, tests the student’s preparation for his or her thesis research. Preparation for the Research Proposition Exam begins as soon as students join their thesis laboratories during the first summer quarter in the program. Students prepare a written research proposal and defend the proposal in an oral examination conducted by a program-approved exam committee. The second examination is the Advancement to PhD candidacy, which takes place after the students finalize their thesis research plan, and should be completed by the end of the third summer quarter. Thereafter, the students’ thesis research progress is reviewed annually by the thesis committee. The thesis committee also approves the final dissertation. After the preparation of the dissertation, a public oral defense of the thesis completes the requirement for the PhD in the Biomedical Sciences Program.</p>
+<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

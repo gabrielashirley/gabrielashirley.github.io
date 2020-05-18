@@ -1,0 +1,155 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Eleanor Roosevelt College</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" --> 
+        <h1>Eleanor Roosevelt College </h1>
+<p><span class="courseFacLink">[ <a href="../courses/ERC.html">courses</a> ]</span></p>
+<p class="program-contact-info">Provost, Eleanor Roosevelt
+  College<br />
+  ERC
+  Administration Building<br />
+  <a href="http://roosevelt.ucsd.edu" target="_blank">http://roosevelt.ucsd.edu </a></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h3 class="program-overview-subhead-2">The Making of the Modern World/Writing Program </h3>
+				<p class="program-contact-info">Eleanor Roosevelt College MMW Program ERC Administration Building </p>
+				<p class="basic-offset-top-only">See “<a href="MMW.html" target="_blank">The Making of the
+			    Modern World</a>” for Eleanor Roosevelt College writing. </p>
+		<h3 class="program-overview-subhead-2">Eleanor Roosevelt College Programs </h3>
+				<p class="program-contact-info">Provost, Eleanor Roosevelt College<br />
+				  ERC
+			    Administration Building </p>
+        <p>There are two main components to the honors program at ERC: the Freshman Honors Program and the Sophomore Honors Research Project. The Freshman and Sophomore Honors programs at ERC have been established to provide exception­ally motivated and capable students with enhanced educational experiences in association with faculty and other honors students. </p>
+                <p>Selected new students are invited to enroll in the Freshman Honors Seminar, ERC 20, for one unit of credit each quarter. During fall quarter, students meet with a variety of faculty members to learn more about their research and about academic enrichment opportunities at UC San Diego. Seminar mem­bers also participate in other enriching academic and cultural events. The Freshman Honors Seminar continues during winter and spring quarters with faculty speakers who focus on international themes.</p>
+                <p>Sophomores who have earned a cumulative grade point average (GPA) of 3.5 or higher have opportunities to pursue independent study with individual faculty for credit (ERC 92), a two-unit course offered in fall, winter, and spring.</p>
+                <p>At the upper-division level, students may qualify to enroll in honors programs offered by their major departments. These programs usually include research under the direction of a faculty mentor and the writing and presentation of an honors thesis. <br>
+                  </p>
+                <p>UC San Diego’s reputation for excellence is also reflected in the numbers of students who enroll in departmental senior honors programs and who earn college or university honors or election to Phi Beta Kappa. </p>
+        <h3>Eleanor Roosevelt College Global Service and Research Program </h3>
+                <p>Eleanor Roosevelt College’s Global Service and Research (GSR) program combines academic study of a particular country with firsthand experience through service-learning abroad. GSR participants must have upper-division standing (or instructor consent) and departmental approval.</p>
+                <p>Prospective GSR students must contact the Making of the Modern World (MMW) program or ERC Student Affairs unit in early fall quarter to learn about program expectations and obligations to receive departmental approval to become a GSR participant. In winter quarter, students enroll in the two-credit Global Preparatory Seminar (ERC 192A) that provides a historical and cultural overview of the country destination to enhance students’ understanding of the context of their service learning. ERC 192A also provides an intellectual basis for the development of a research project that students must propose at the end of the term.</p>
+                <p>Having completed ERC 192A, students have the option to enroll in the two-credit Global Research Seminar (ERC 192B) for spring term. Students will then participate in a spring break service option where students travel to and participate in an on-site project in the destination country. Returning to campus for the start of spring quarter, students may begin the research seminar, developing the project proposed at the end of ERC 192A, augmenting the knowledge obtained in ERC 192A and in the on-site cultural encounter with further research to complete their research project. </p>
+                <p>Eleanor Roosevelt College strives to develop additional service learning projects for our students including applicable, preparatory course work and projects within the United States and across the globe whenever possible, either as unique ERC programs or from Global Seminars offered through UC San Diego Study Abroad. Much of the course work provided alongside of these opportunities can be applied toward general-education requirements as appropriate. </p>
+<h3>Eleanor Roosevelt College Math Service-Learning Program (MSLP)</h3>
+          <p>Eleanor Roosevelt College, in partnership with UC San Diego CREATE, offers students from all colleges the opportunity to gain expert instruction on the pedagogy of tutoring mathematics in a public high school setting and placement in regional public high schools under the supervision of high school math teachers. This is offered through a quarterly seminar (ERC 89) on a pass no pass basis. UC San Diego students serve as tutors, mentors, and college-going role models inside and outside of the classroom. </p><!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

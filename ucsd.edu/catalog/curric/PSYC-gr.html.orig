@@ -1,0 +1,277 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Psychology</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" --> 
+<h1 class="noTopBottomMargin">Psychology </h1>
+<p class="sectionNav"><span class="courseFacLink"> [ <a href="../curric/PSYC-ug.html">undergraduate
+      program</a> <a href="../curric/PSYC-gr.html"></a> | <a href="../courses/PSYC.html">courses</a> | <a href="../faculty/PSYC.html">faculty</a> ]</span></p>
+<p class="program-contact-info">1533 Mandler Hall<br />   
+    <a href="http://psychology.ucsd.edu" target="_blank">http://psychology.ucsd.edu</a></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><p class="anchor-parent"><a class="anchor" id="grad"></a></p><h2 class="program-overview-subhead-1">The Graduate Program </h2>
+<p>The Department of Psychology&rsquo;s PhD in experimental psychology provides broad training in experimental psychology. Increased specialization and the general burgeoning of knowledge make it impossible to provide training in depth in every aspect of experimental psychology, but most aspects are represented in departmental research. </p>
+				<h3 class="program-overview-subhead-2">Preparation </h3>
+				<p>Apart from the general university requirements, the department generally expects adequate undergraduate preparation in psychology. A major in the subject, or at least a strong minor, is normally a prerequisite, but applicants with good backgrounds in such fields as biology and mathematics are also acceptable. </p>
+				<h3 class="program-overview-subhead-2">Language Requirements </h3>
+				<p>There is no foreign language requirement. </p>
+				<h2 class="program-overview-subhead-1">Graduate Curriculum </h2>
+				<p>Students must fulfill all course requirements (stated below) while registered
+				  as graduate students in psychology at UC San Diego. There may
+				  occasionally be exceptions granted to this rule. Requests for
+				  exception should be in the form of petitions from students
+				  and their advisers to the Committee on Graduate Affairs. It
+				  is in the best interest of the student if these petitions are forthcoming
+				  at the time of admission to the graduate program. In this way,
+				  the committee, the students, and their advisers will all be
+				  aware of the course requirements before any of them are taken. </p>
+				<h3 class="program-overview-subhead-2">Program of Study </h3>
+				<p>Courses broadly cover five areas: <em>cognitive psychology</em> (including attention, language, and perception), <em>cognitive and behavioral neuroscience</em> (including neuropsychology and neurophysiology), <em>developmental psychology </em>(including language acquisition), <em>sensation and perception</em> (including vision and audition), and<em> social psychology</em> (including health and law). The Graduate Affairs Committee provides an approved list of courses from these areas. Any student whose needs cannot be reasonably met with courses conforming to these guidelines may petition the Graduate Affairs Committee. The petition should contain a specific list of courses and a statement of justification and must be approved by the student&rsquo;s adviser. </p>
+<p>In the first year of study, each student must fulfill the following four requirements: </p>
+<ol>
+			<li> Each student must fulfill a quantitative methods requirement, either
+				 by taking two quantitative methods courses approved by the
+				 Graduate Affairs Committee (currently PSYC 201A and 201B), or by showing a
+			 satisfactory knowledge of these courses through an examination.</li>
+			<li> In addition to the quantitative methods requirement, each student
+				 is expected to take at least three proseminars in the first year. One additional proseminar must be completed by the end of the second year. Four additional approved courses from the list prepared by the Graduate Affairs Committee must be completed by the end of the third year.</li>
+			<li> <p>Each first-year graduate student is required to propose a research topic by winter quarter to be presented to the student&rsquo;s adviser(s) and one additional psychology faculty member, and subsequently submit a research paper on this research project (PSYC 270A-B-C). The paper should be comparable in style, length, and quality to papers published in the normal, refereed journals of the student&rsquo;s research area. (The publication manual of the <em>American Psychological Association</em>, sixth edition, 2013, gives an acceptable format.) </p>
+			  <p>
+	  The research paper
+   will be read and evaluated by the student&#8217;s
+      research adviser and by at least two other readers appointed
+      by the graduate adviser.</p>
+			  <p> The research paper is presented orally at a research meeting held
+				  at the end of the spring quarter. Attendance at this meeting
+				  is a requirement for the department&#8217;s graduate students and faculty.
+				  Typically, each student is allowed ten minutes to present the paper,
+			  with a five-minute question period following the presentation.</p>
+		  </li>
+	  <li>
+	    <p>In order to acquire adequate teaching experience, all students are required to participate in the teaching activities of the department for at least four quarters (though typically, students participate one quarter in the first year and two quarters in the second through the fourth years).</P>
+<p>All students are evaluated by the entire faculty at the end
+	      of the academic year. The normal minimum standards for allowing a student
+	      to continue beyond the first year are </p>
+	  </li>
+	  <ol class="lower-alpha">
+	    <li>  Satisfactory completion of the first-year research project (including
+	      oral presentation) </li>
+	    <li>  At least a B average</li>
+	    <li>  Having a faculty adviser in the Department of Psychology</li>
+	  </ol>
+</ol>
+<p>In the second year of study each student must present a Data and Progress Update to a committee of at least three faculty members. The Data and Progress Update consists of a short (approximately two page) progress report and a thirty-minute formal presentation followed by a thirty-minute discussion period. The meeting venue will be decided by committee level approval. The Data and Progress Update must be completed by April 1.</p>
+<h3>Master of Arts</h3>
+<p>Students admitted into the PhD program can apply for an MA along the way. <strong>Note:</strong> This is&nbsp;<strong>not</strong>&nbsp;required to complete the PhD program.&nbsp;</p>
+<p>The requirements for the MA in experimental psychology are</p>
+<ol>
+  <li>Completion      of the department&rsquo;s first-year course requirements.</li>
+  <li>Completion      of the four proseminars.&nbsp;</li>
+
+  <li>Completion of the general university requirements for the MA (Plan II).</li>
+  <ul>
+    <li>“Plan II-Comprehensive Examination. Credits must be distributed as follows: At least fourteen units in graduate courses in the major field, ten additional units in graduate courses, and twelve units in graduate or upper-division courses. No credit will be allowed for 299 research courses. Obtain appropriate signatures.”</li>
+  </ul>
+</ol>
+<p>Students can file for the MA during the first two weeks of the quarter in which they will complete the requirements, or at the beginning of any quarter following completion of the requirements.</p>
+<div>
+  <div> </div>
+</div>
+<h3 class="program-overview-subhead-2">Advancing to Candidacy </h3>
+				<p>In order to advance to PhD candidacy a student must </p>
+				<ol>
+				<li> Complete all first- and second-year requirements </li>
+				<li> Complete an additional four elective courses from the list prepared
+				 by the Graduate Affairs Committee </li>
+				<li> Complete the qualifying examination for the PhD </li>
+	</ol>  
+		<p>The qualifying examination is divided into two sections to be taken separately by all students. Part I of the qualifying exam consists of either a paper or an exam. </p>
+		<p>Students form a qualifying committee in much the same way that they form a dissertation committee. The same rules apply, except that members from outside the department need not be included (although up to two may be).</p>
+		<p>If completing a qualifying paper, the paper should be written by the student and modeled after those published in <em>Psychological Bulletin</em> or <em>Psychological Review. </em>Ideally, the paper would consist of a detailed review and theoretical synthesis of a coherent body of research. The paper should demonstrate independent and original thinking on the part of the student and should either take a theoretical stance or recommend experiments designed to resolve theoretical ambiguities (i.e., the paper should not merely review published research). </p>
+		<p>Once the committee is formed, the student should prepare a brief (e.g., three-page) proposal defining the area of research and the theoretical issues that will be addressed in the paper. A proposal meeting is then arranged (by October 1 of the student&rsquo;s second year), and committee members may at that time recommend changes in the scope of the paper and define their expectations. </p>
+<p>The paper does not have a prescribed length, although low-end and high-end limits of thirty and fifty pages, respectively, seem reasonable. An oral defense of the paper is required (and should be completed by May 1 of the student&rsquo;s second year). </p>
+		<p>If completing a qualifying exam, the student will receive a reading list determined jointly by the student and his or her committee by October 1 of the second year to complete during the fall and winter quarters of that year. The reading list will comprise approximately one hundred papers that would satisfy the committee&rsquo;s requirements for breadth and depth. Before the deadline of April 1, the student must complete the examination period. For the examination, the committee will be responsible for composing a list of eight questions, five of which the student must answer. The exam will consist of a take-home essay component in which the student has forty-eight hours total to address all five selected questions. This written portion would then be followed as soon as possible by an oral examination in which the student must defend his or her answers and also address any additional questions posed by the committee that fall within the scope of the approved reading list. </p>
+<p>Part II of the qualifying examination is the defense of the dissertation proposal that must be presented to the doctoral committee by December 1 of the student’s fourth year. The doctoral committee must be approved by the department chair and the dean of the Graduate Division. The committee will examine the proposal for appropriateness and feasibility. </p>
+<p>Beginning in the third year of study students must make a yearly formal research presentation to a committee of three faculty members (typically, the three inside members of the doctoral committee), with the exception of the year in which the dissertation is proposed. The meeting format and venue will be decided by committee level approval but must in each case include a thirty-minute discussion period following the presentation. This shall be a yearly research presentation until the year of the dissertation defense.</p>
+<h3>Dissertation</h3>
+<p>After completing the dissertation research project, students must write a dissertation, which must be successfully presented and defended in an oral examination conducted by the doctoral committee. The final defense is open to the public. Acceptance of the dissertation by the university librarian represents the final step in completing all requirements for the PhD.</p>
+<h3 class="program-overview-subhead-2">Departmental PhD Time Limit Policies </h3>
+<p>Students must be advanced to candidacy by the end of four years. Total university support cannot exceed eight years. Total registered time at UC San Diego cannot exceed eight years.</p>
+<p>Any student failing to qualify by the end of the fourth year of registered status will be placed on probation and will be ineligible to continue as a student in the program until the qualification occurs.  </p>
+<p>No students may allow more than eight calendar years to elapse between starting the graduate program and completing the requirements for the PhD. Students will automatically be terminated from the program at the end of the spring quarter of their eighth year in the department. Extensions for leaves of absence, as required by the university, will be granted.</p>
+
+				<h3 class="program-overview-subhead-2">Research </h3>
+				<p>In each year of graduate study, students enroll in a research practicum (Psychology 270 and 296 in the first year; Psychology 296 in precandidacy years and 299 in advanced years). Students are assigned to current research projects in the department and receive the personal supervision of a member of the faculty.				</p>
+				<h2>Specialization in Anthropogeny</h2>
+        <p><a href="http://carta.anthropogeny.org/training/specialization-track" target="_blank">http://carta.anthropogeny.org/training/specialization-track</a></p>
+        <p>This is a transdisciplinary graduate specialization in anthropogeny with the aim of providing graduate students the opportunity to specialize in research and education on explaining the origins of the human phenomenon. This specialization is not a stand-alone program but aims at providing graduate students with the opportunity to interact and communicate with peers in radically different disciplines throughout the duration of their PhD projects. </p>
+<h3 class="program-overview-subhead-2">Admission to the Specialization</h3>
+    <p>The experimental psychology graduate program will advertise the specialization
+     to those students in our programs who have an interest in human
+     origins. Qualifying applicants will have the opportunity to
+     enroll for the specialization.</p>
+    <h3 class="program-overview-subhead-2">Specialization Requirements</h3>
+    <p>Students pursuing this specialization will be required to
+     take a series of courses in addition to research rounds over
+     four years of study. It is advised that students begin their
+     course work in their second year. </p>
+    <ul>
+              <li>  Course work: Introduction to Anthropogeny (BIOM 225)
+     and Advanced Anthropogeny (BIOM 229) are each taken once,
+     in the winter and spring of the students’ second year. Current
+     Topics in Anthropogeny (BIOM 218) is to be taken every quarter
+     for four years. </li>
+              <li>  Research Rounds: Monthly seminars during which all participating
+     students talk about their respective research.</li>
+            </ul>  
+    <h3 class="program-overview-subhead-2">Qualifying Examination</h3>
+    <p>Experimental psychology students in the anthropogeny specialization must
+     meet the departmental requirement for advancement to candidacy,
+     including the qualifying paper and dissertation proposal. In
+     addition, students must meet internal deadlines, mentoring
+     provisions, and proposal standards of the anthropogeny specialization
+     track.</p>
+    <h3 class="program-overview-subhead-2">Dissertation</h3>
+    <p>PhD students must complete a dissertation, which meets all
+     requirements of the home program. In addition, it is expected
+     that the PhD dissertation is broadly related to human origins
+     and will be interdisciplinary in nature.</p>
+    <h3 class="program-overview-subhead-2">Time Limits</h3>
+    <p>It is expected that students will retain the same time to
+     degree as students not pursuing this specialization. Additional
+     course load consists only of two regular courses (two quarters
+     twenty lectures each). The third proposed course takes place
+     only three times a year from Friday noon to Saturday evening.    </p>
+    <h2 class="program-overview-subhead-2">Specialization in Critical Gender Studies </h2>
+    <p>Students in the doctoral program in psychology may apply for a specialization in critical gender studies to complement their course work and research in psychology. </p>
+    <p>The Critical Gender Studies Program is built on the intellectual foundations of intersectional feminist thought and queer studies, and incorporates the interdisciplinary methodologies, intersectional frameworks, and transformational epistemologies central to contemporary gender and sexuality studies. The graduate specialization in critical gender studies provides specialized training in gender and sexuality for students currently enrolled in a UC San Diego doctoral program. Through advanced course work in critical gender studies and its affiliated departments,&nbsp;graduate students in the specialization develop an understanding of gender as necessarily linked to other social formations, including sexuality, race, nation, religion, (dis)ability, and structures of capital.&nbsp;At the same time,&nbsp;doctoral students engaging&nbsp;gender and sexuality studies&nbsp;have the opportunity to develop their work among peers who take up similar questions in their scholarship.</p>
+    <p>Admitted students are required to complete five courses in addition to their home department&rsquo;s core requirements, consisting of two core courses and three electives. The core courses are Advanced Studies in Critical Gender Studies (CGS 200), to be taken shortly after admission to the specialization, and Practicum in Critical Gender Studies (CGS 299), to be taken in the student&rsquo;s final two years of dissertation writing. Electives may be chosen from a list of preapproved seminars in participating departments (students may petition other courses with significant gender/sexuality studies content) and may be taken at any time during the student&rsquo;s tenure at UC San Diego. Admitted students must also include at least one member of their dissertation committee from the list of CGS core or affiliate faculty.</p>
+<p>For more information about the graduate specialization in critical gender studies, please visit <a href="http://cgs.ucsd.edu/" target="_blank">http://cgs.ucsd.edu</a>.</p>
+    <div>
+      <div> </div>
+    </div>
+<div>
+      <div> </div>
+    </div>
+        <!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

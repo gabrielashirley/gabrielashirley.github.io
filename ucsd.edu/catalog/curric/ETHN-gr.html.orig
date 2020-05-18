@@ -1,0 +1,206 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Ethnic Studies</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Ethnic Studies </h1>
+<p class="sectionNav"><span class="courseFacLink">[ <a href="../curric/ETHN-ug.html">undergraduate
+      program</a> | <a href="../courses/ETHN.html">courses</a> | <a href="../faculty/ETHN.html">faculty</a> ]</span></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h2 class="program-overview-subhead-1">The Graduate Program </h2>
+				<p>The UC San Diego Department of Ethnic Studies emphasizes comparative, analytic, and relational study of ethnicity and race in the United States. Our fields of emphasis include intercultural communication and conflict, population histories of the Americas, ethnicity and identity, immigration and assimilation, ethnic politics and social movements, race and racism, urban ethnicity, gender and ethnicity, sexuality, intellectual and cultural histories of ethnic groups, cultural pluralism, national integration, language and ethnic life, and mass media representations of ethnic identity. </p>
+<h3 class="program-overview-subhead-2">Admission </h3>
+				<p>New students are admitted in the fall quarter of each academic year. Prospective applicants should submit the official application for admission and awards (same form), one set of official transcripts from each institution attended after high school, official scores from the Graduate Record Examination, application fee, at least three letters of recommendation, and one or more samples of the applicant&rsquo;s own writing, such as term papers. Additionally, foreign applicants must submit official scores from the Test of English as a Foreign Language (TOEFL). Applicants are encouraged to visit the department to talk with faculty and graduate students. The application deadline is January 9. </p>
+<h3 class="program-overview-subhead-2">Program of Study </h3>
+				<p>Ethnic Studies PhD students are required to enroll on a full-time basis (i.e., to carry a minimum enrollment of twelve units of graduate-level courses each quarter) and to maintain a grade point average of 3.2 or better. As part of our PhD program, students obtain an MA after successful completion of required foundational course work and Parts 1 and 2 of the comprehensive exam.<strong>&nbsp;</strong></p>
+<h3 class="program-overview-subhead-2">Core Curriculum Sequence Requirements </h3>
+				<ol>
+				  <li>ETHN 200A-B-C. Core Seminar <br />
+				  All graduate students will be required to take the introductory three-quarter core seminar (four units each, twelve units total) during their first year in the program. This course covers the genealogy of critical racial and ethnic studies (its antecedents and development as a distinct and interdisciplinary method of inquiry), interdisciplinarity and knowledge production in ethnic studies, and research in ethnic studies (proseminar).</li>
+				  <li>ETHN 230. Department Colloquium<br />
+			      During the first two years of graduate study, all students will be required to enroll in six one-quarter colloquia required by the department. In ETHN 230, department faculty and visiting lecturers will make presentations about research in progress in our field. This colloquium is a one-unit course and must be taken for a total of six quarters.</li>
+				  <li>ETIM Ethnic Studies Interdisciplinary Methods Seminar<br />
+			      Students will take a minimum of two ETIM courses. Students can petition the Graduate Records Committee if they wish to substitute courses offered outside of ethnic studies.</li>
+				  <li>ETHN 291.  Comprehensive Examination Preparation<br />
+			      Graduate students preparing for the comprehensive examination will enroll for a new 291 seminar during the spring quarter of their second year. The seminar will offer organized group study and workshops for review and preparation for the comprehensive examination. The seminar will also provide a venue for each student to assemble their second-year portfolio, consisting of: a) response and synthesis papers produced in ETHN 200A-B-C; b) papers produced in ETIM courses; c) a copy of the research paper written in the first two years of course work.</li>
+	    </ol>
+<h3 class="program-overview-subhead-2">Foreign Language Requirement </h3>
+				<p>Competence in one or more foreign languages is encouraged but not required at the MA level. All doctoral candidates must satisfy the department&rsquo;s graduate committee that they have adequate linguistic competence in one foreign language relevant to their area of research by translating three pages of scholarly text written in the designated foreign language. The graduate committee may waive the language requirement and test the candidate on other specialized skills in instances where knowledge of a foreign language is not relevant to the candidate&rsquo;s areas of research. </p>
+<h3 class="program-overview-subhead-2">Instruction in Quantification </h3>
+				<p>The department encourages graduate students to employ quantitative methods where appropriate. Instruction in quantitative methods can fulfill elective requirements; recommended courses include SOCG 205 and 206, Survey and Demographic Methods; POLI 270, Quantitative Methods in Political Science. In cases where a reading knowledge of evidence assembled through quantitative methods would be useful, students who obtain the permission of the director of Graduate Studies may fulfill elective requirements by taking no more than two selected undergraduate courses including SOCI 103, Computer Applications to Data Management in Sociology; SOCI 107, Demographic Methods; SOCI 108, Quantitative Analysis of Survey Data; SOCI 109, Quantitative Analysis of Sociological Data; and POLI 170, Quantitative Political Science, among others.</p>
+<h3 class="program-overview-subhead-2">The Master&#8217;s Degree </h3>
+				<p>Students entering the ethnic studies doctoral program must first complete a master&rsquo;s degree before continuing toward the doctorate. University regulations prohibit entering students who already have a master&rsquo;s degree in ethnic studies from receiving a second master&rsquo;s degree. Nonetheless, students who are admitted to the ethnic studies doctoral program with a master&rsquo;s degree must complete all the requirements for the ethnic studies master of arts degree. The MA will also be a terminal degree for those students denied admission to candidacy. </p>
+				<p>To obtain the MA, students must complete the department&rsquo;s course requirements satisfactorily; additionally, each student will take a written comprehensive examination at the end of the second year. Graduate students preparing for the comprehensive examination will enroll in a new 291 seminar during the spring quarter of their second year. The seminar will offer organized group study and workshops for review and preparation for the comprehensive examination. The seminar will also provide a venue for each student to assemble their second-year portfolio, consisting of: a) response and synthesis papers produced in ETHN 200A-B-C; b) papers produced in ETIM courses; c) a copy of the research paper written in the first two years of course work. Each year, the 291 instructor will coordinate drafting the questions for the comprehensive examination by convening or consulting with the faculty who taught the ETHN  200A-B-C and ETIN seminars to the current second-year cohort and reviewing the relevant syllabi. The 291 instructor and this group of faculty will have access to the student portfolios, comprising the weekly responses, synthesis papers, and research papers produced in the ETHN 200A-B-C  and ETIM seminars. The 291 instructor and this group of faculty evaluate that year&rsquo;s examinations.</p>
+                <div>
+                  <div> </div>
+                  <div> </div>
+                  <div> </div>
+                  <div> </div>
+                  <div> </div>
+                </div>
+<p>The written comprehensive examination will take place during week ten of spring quarter. Students will have two days (approximately forty-eight hours) to complete the comprehensive examination. It will be an open book response to the questions, not a seminar/research paper. Questions will cover the ETHN 200A-B-C and ETIM seminars taken during the first two years of the graduate program.  </p>
+<div>
+  <div> </div>
+</div>
+<p>The exam will consist of two questions: one question will address debates, issues, theories, and genealogies in the field of ethnic studies (drawing on the first-year portfolio); one question will center on the use of interdisciplinary methods and frames to address ethnic studies research questions (drawing on the methodology portfolio and research paper) and all students will respond. Students will prepare papers of approximately ten pages in response to each of the two questions, written over four days—two days per question with a one-day break in between. </p>
+                <div>
+                  <div> </div>
+                </div>
+<p>Students taking the comprehensive examination will hand in for review and grading:</p>
+				<ol>
+				  <li>Second-year portfolios by the beginning of the comprehensive examination period. Portfolios will include:  </li>
+				  <ol type="a"><li>response and synthesis papers produced in ETHN 200A-B-C;  </li>
+				  <li>papers produced in ETIM courses;  </li>
+					  <li>a copy of the research paper written in the first two years of course work;</li></ol>
+	    
+				  <li>The first comprehensive examination paper at the end of the first forty-eight-hour period;</li>
+				  <li>The second comprehensive examination paper at the end of the second forty-eight-hour period.</li>
+	    </ol>
+		<p>The master&rsquo;s degree is earned as one of the requirements for the PhD and is based on the quality of the student&rsquo;s work during the first two years in the graduate program. At the end of the second year, students are evaluated by the Graduate Record Committee (GRC) for the master&rsquo;s degree. At that time, the GRC ascertains the student&rsquo;s suitability for doctoral work and recommends either advancement to PhD work or termination. The final decision regarding the MA is based on grades, the comprehensive examination, and yearly faculty evaluations. The GRC awards three possible grades: Pass, MA Only, and Not Pass. All passing students (with the exception of those who already have a master&rsquo;s degree in ethnic studies from another institution) receive the master of arts degree and proceed in their course of studies for the doctorate. Students who receive MA Only evaluations gain the master&rsquo;s degree but may not continue in the department&rsquo;s PhD program. Students who receive a Not Pass evaluation must withdraw from the program without a graduate degree. </p>
+<h3 class="program-overview-subhead-2">Requirements for the Qualifying Examinations </h3>
+				<p>In the fall quarter of the third year of study, students will develop a general reading list; a specialty reading list; and a teaching reading list.</p>
+<p>Students will convene the examination committee by winter quarter of the third year; the committee will consist of five persons proposed by the student and accepted by the department chair and the Office of Graduate Studies according to senate regulations. Students are expected to select the chair of their examination committee by the winter quarter of the third year of study. The chair of the PhD examination committee serves as the student&rsquo;s adviser for the remainder of the student&rsquo;s graduate program. At least five of the committee members shall be officers of instruction and no fewer than four shall hold professorial titles (of any rank). The committee members shall be chosen from at least two departments, and at least two members shall represent academic special­ties that differ from the student&rsquo;s chosen specialty. In all cases, each committee must include one tenured or emeritus UC San Diego faculty member from outside the student&rsquo;s major department. A sixth member of the committee may be added with the approval of the department chair.</p>
+<p>Students will present the three reading lists to the examination committee no later than the end of winter quarter of the third year.</p>
+<p>In the spring quarter of the third year, students begin writing a specialty field paper based on the specialty reading list and an annotated syllabus based on the teaching reading list. Students complete the specialty field paper and the annotated syllabus in the fall quarter of the fourth year. Fourteen days before the scheduled qualifying examination, the student must submit and present the specialty field paper and the annotated syllabus to the qualifying committee, and no later than winter quarter of the fourth year. </p>
+<p>A two-hour oral examination will occur on the appointed date. At the two-hour oral exam, the student will answer questions posed by the committee about the students&rsquo; general ethnic studies reading list, the specialty field paper, and the annotated syllabus, and comprehensive knowledge of ethnic studies scholarship. The qualifying committee will verify the student&rsquo;s fulfillment of the language requirement if it is appropriate to the student&rsquo;s research, as needed. This examination must be completed by the end of the student&rsquo;s fourth year in the program.</p>
+<p>Based on the written paper, the annotated syllabus, and on oral performance, three possible grades will be selected by the examination committee: Not Pass, Pass, and High Pass. Students who receive a Not Pass must retake the qualifying examination within one year and obtain a Pass grade to remain in the doctoral program.</p>
+<h3 class="program-overview-subhead-2">The Doctoral Dissertation </h3>
+				<p>Once students have successfully completed the qualifying examination, they may begin work on the dissertation prospectus. The dissertation prospectus is a written document that (1) specifies the dissertation research topic; (2) places the dissertation research in the context of the relevant literature in the field; (3) identifies the significance of the project as original discovery scholarship; (4) explains and justifies the research methods to be employed; (5) establishes the feasibility of the research and identifies the primary sources or data bases to be used; (6) indicates the anticipated steps leading to completion of the project; and (7) provides a timetable for the research and writing phases of the project.</p>
+				<p>Students must complete the dissertation prospectus and present it to the doctoral committee by the end of spring quarter of the fourth year of study. Once the doctoral committee has approved the dissertation prospectus, students may begin dissertation research. Students are expected to consult with their committee members on a regular basis during the research process.</p>
+				<p>All doctoral students will be evaluated annually by the doctoral committee and given a written report signed by the thesis adviser according to campus policy. </p>
+				<p>When the dissertation has been substantially completed and once committee members have had the opportunity to review drafts of the written work, the committee meets (with or without the student present at the discretion of the committee chair) to consider the progress made and to identify concerns, changes to be made, or further research to be done. Once the committee members are substantially satisfied with the written work, the student, in consultation with the committee, schedules the oral defense of the dissertation. By university regulation, the defense is open to the public. </p>
+				<p>The final version of the dissertation must be approved by each member of the doctoral committee. Having successfully defended the dissertation in oral examination, the student is eligible to receive the PhD. The final version of the dissertation is then filed with the university librarian via the Office of Graduate Studies. Acceptance of the dissertation by the university librarian is the final step in completing all requirements for the PhD. </p>
+<h3 class="program-overview-subhead-2">Departmental PhD Time Limits Policy </h3>
+				<p>Precandidacy status, that is, the registered time before a student passes the qualifying examination and thereby advances to PhD candidacy, may not exceed four years. Normative time for a PhD in ethnic studies is six years. Normative time is defined as that period of time in which students under normal circumstances are expected to complete their doctoral program. To provide an incentive for students to complete the PhD within normative time, students will only be eligible for departmental financial support for six years (eighteen quarters). By university policies, the doctoral dissertation must be submitted and defended within eight years. To meet this normative time limit, and to meet departmental requirements, students must complete the qualifying examination by the end of the fourth year. </p>
+				<p>In the spring quarter each year, the Graduate Program Committee will assess the progress of each precandidacy student on the basis of evaluations submitted by three faculty members chosen by the student. The committee will establish that the student is in good standing, recommend additional course work, or recommend dismissal. The committee may wish to meet with some students in person to discuss the student&rsquo;s evaluation and progress toward the degree. </p>
+				<h3 class="program-overview-subhead-2">Specialization in Critical Gender Studies <br>
+        </h3>
+				<p>Students in the doctoral program in ethnic studies may apply for a specialization in critical gender studies to complement their course work and research in ethnic studies. </p>
+				<p>The Critical Gender Studies Program is built on the intellectual foundations of intersectional feminist thought and queer studies, and incorporates the interdisciplinary methodologies, intersectional frameworks, and transformational epistemologies central to contemporary gender and sexuality studies. The graduate specialization in critical gender studies provides specialized training in gender and sexuality for students currently enrolled in a UC San Diego doctoral program. Through advanced course work in critical gender studies and its affiliated departments,&nbsp;graduate students in the specialization develop an understanding of gender as necessarily linked to other social formations, including sexuality, race, nation, religion, (dis)ability, and structures of capital.&nbsp;At the same time,&nbsp;doctoral&nbsp;students engaging&nbsp;gender and sexuality studies&nbsp;have the opportunity to develop their work among peers who take up similar questions in their scholarship.</p>
+				<p>Admitted students are required to complete five courses in addition to their home department&rsquo;s core requirements, consisting of two core courses and three electives. The core courses are Advanced Studies in Critical Gender Studies (CGS 200), to be taken shortly after admission to the specialization, and Practicum in Critical Gender Studies (CGS 299), to be taken in the student&rsquo;s final two years of dissertation writing. Electives may be chosen from a list of preapproved seminars in participating departments (students may petition other courses with significant gender/sexuality studies content) and may be taken at any time during the student&rsquo;s tenure at UC San Diego. Admitted students must also include at least one member of their dissertation committee from the list of CGS core or affiliate faculty.</p>
+<p>For more information about the graduate specialization in critical gender studies, please visit <a href="http://cgs.ucsd.edu" target="_blank">http://cgs.ucsd.edu</a>.</p>
+                <div>
+                  <div> </div>
+        </div>
+        <!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

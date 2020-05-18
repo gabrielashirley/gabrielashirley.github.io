@@ -1,0 +1,799 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Political Science Courses</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopMargin">Political Science</h1>
+<p><span class="courseFacLink">[ <a href="../curric/POLI-ug.html">undergraduate
+      program</a> | <a href="../curric/POLI-gr.html">graduate program</a> | <a href="../faculty/POLI.html">faculty</a> <a href="../faculty/POLI.html"></a> ]</span>
+<!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/Course Name and Disclaimer.lbi" -->
+<h2>Courses</h2>
+<p class="course-disclaimer"><em>For course descriptions not found in the </em>UC
+  San Diego General Catalog 2019&#8211;20<em>, please contact the department
+  for more information.</em></p><!-- #EndLibraryItem --></p>
+<h2 class="course-subhead-1">Lower Division </h2>
+		<p class="anchor-parent"><a class="anchor" id="poli5" name="poli5" /></a></p><p class="anchor-parent"><a class="anchor" id="poli5d" name="poli5d" /></a></p><p class="course-name">POLI 5 or 5D. Data Analytics for the Social Sciences (4)</p>
+		<p class="course-descriptions">Introduction to probability and analysis for understanding data in the social world. Students engage in hands-on learning with applied social science problems. Basics of probability, visual display of data, data collection and management, hypothesis testing, and computation. Students may receive credit for only one of the following courses: ECON 5, POLI 5, or POLI 5D. </p>
+<p class="anchor-parent"><a class="anchor" id="poli10" name="poli10" /></a></p><p class="anchor-parent"><a class="anchor" id="poli10d" name="poli10d" /></a></p>
+      
+				<p class="course-name">POLI 10 or 10D. Introduction
+		  to Political Science: American Politics (4)</p>
+				<p class="course-descriptions">This course surveys the processes and institutions of American politics. Among the topics discussed are individual political attitudes and values, political participation, voting, parties, interest groups, Congress, presidency, Supreme Court, the federal bureaucracy, and domestic and foreign policy making. POLI 10 is Lecture only, and POLI 10D is Lecture plus Discussion section. These courses are equivalents of each other in regards to major requirements, and students may not receive credit for both 10 and 10D.  </p>
+<p class="anchor-parent"><a class="anchor" id="poli11" name="poli11" /></a></p>
+<p class="anchor-parent"><a class="anchor" id="poli11d" name="poli11d" /></a></p><p class="course-name">POLI 11 or 11D. Introduction
+		  to Political Science: Comparative Politics (4)</p>
+				<p class="course-descriptions">The nature of political authority, the experience of a social revolution, and the achievement of an economic transformation will be explored in the context of politics and government in a number of different countries. POLI 11 is Lecture only, and POLI 11D is Lecture plus Discussion section. These courses are equivalents of each other in regards to major requirements, and students may not receive credit for both 11 and 11D.&nbsp; </p>
+<p class="anchor-parent"><a class="anchor" id="poli12" name="poli12" /></a></p><p class="anchor-parent"><a class="anchor" id="poli12d" name="poli12d" /></a></p>
+<p class="course-name">POLI 12 or 12D. Introduction
+		  to Political Science: International Relations (4)</p>
+				<p class="course-descriptions">The issues of war/peace, nationalism/internationalism, and economic growth/redistribution will be examined in both historical and theoretical perspectives. POLI 12 is Lecture only, and POLI 12D is Lecture plus Discussion section. These courses are equivalents of each other in regards to major requirements, and students may not receive credit for both 12 and 12D.&nbsp; </p>
+<p class="anchor-parent"><a class="anchor" id="poli13" name="poli13" /></a></p><p class="anchor-parent"><a class="anchor" id="poli13d" name="poli13d" /></a></p>
+<p class="course-name">POLI 13 or 13D. Power and Justice (4)</p>
+				<p class="course-descriptions">An exploration of the relationship between power and justice in modern society. Materials include classic and contemporary texts, films, and literature. POLI 13 is Lecture only, and POLI 13D is Lecture plus Discussion section. These courses are equivalents of each other in regards to major requirements, and students may not receive credit for both 13 and 13D.&nbsp;</p>
+<p class="anchor-parent"><a class="anchor" id="poli27" name="poli27" /></a></p><p class="course-name">POLI 27. Ethics and Society (4)</p>
+				<p class="course-descriptions">An examination of ethical
+				  principles (e.g., utilitarianism, individual rights, etc.)
+				  and their social and political applications to contemporary
+				  issues such as abortion, environmental protection, and affirmative action.
+				  Ethical principles will also be applied to moral dilemmas familiar in government,
+				  law, business, and the professions. Satisfies the Warren College
+				  ethics and society requirement. <strong class="italic">Prerequisites:</strong> CAT
+				  2 and 3, DOC 2 and 3, MCWP 40 and 50, HUM 1 and 2, MMW 2 and
+			    3, WCWP 10A–B, or WARR 11A–B. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli28" name="poli28" /></a></p><p class="course-name">POLI 28. Ethics and Society II (4)</p>
+				<p class="course-descriptions">An examination of a single set of major contemporary social, political, or economic issues (e.g., environmental ethics, international ethics) in light of ethical and moral principles and values. Warren College students must take course for a letter grade in order to satisfy the Warren College general-education requirement. <strong class="italic">Prerequisites: </strong>PHIL/POLI 27.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli30" name="poli30" /></a></p><p class="anchor-parent"><a class="anchor" id="poli30d" name="poli30d" /></a></p>
+				<p class="course-name">POLI 30 or 30D. Political Inquiry (4)</p>
+				<p class="course-descriptions">Introduction to the logic of inference in social science and to quantitative analysis in political science and public policy including research design, data collection, data description and computer graphics, and the logic of statistical inference (including linear regression). POLI 30 is Lecture only, and POLI 30D is Lecture plus Discussion section. These courses are equivalents of each other in regards to major requirements, and students may not receive credit for both 30 and 30D.&nbsp;</p>
+<p class="anchor-parent"><a class="anchor" id="poli40" name="poli40" /></a></p><p class="course-name">POLI 40. Introduction to Law and Society (4)</p>
+				<p class="course-descriptions">This course is designed as a broad introduction to the study of law as a social institution and its relations to other institutions in society. The focus will be less on the substance of law (legal doctrine and judicial opinions) than on the process of law–how legal rules both reflect and shape basic social values and their relation to social, political, and economic conflicts within society. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli87" name="poli87" /></a></p><p class="course-name">POLI 87. Freshman Seminar (1)</p>
+				<p class="course-descriptions">The Freshman Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman Seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering freshmen. May not be used to fulfill any major or minor requirements in political science. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli90" name="poli90" /></a></p>
+<p class="course-name">POLI 90. Undergraduate Seminar (4) </p>
+				<p class="course-descriptions">Selected topics to introduce students to current issues and trends in political science. May not be used to fulfill any major or minor requirements in political science. P/NP grades only. May be taken for credit four times. </p>
+<p class="anchor-parent"><a class="anchor" id="poli99h" name="poli99h" /></a></p>
+				<p class="course-name">POLI 99H. Independent Study (1)</p>
+				<p class="course-descriptions">Independent study or research under direction of a member of the faculty. <strong class="italic">Prerequisites:</strong> student must be of freshman class standing, and a Regents Scholar; approved Special Studies form.</p>
+				<h2 class="course-subhead-1">Upper Division </h2>
+		<p class="course-note">Minimum requirement for all upper-division courses is at least one quarter of lower-division political science, or upper-division standing. </p>
+				<h3 class="course-subhead-2">American Politics </h3>
+				<p class="anchor-parent"><a class="anchor" id="poli100a" name="poli100a" /></a></p><p class="course-name">POLI 100A. The Presidency (4)</p>
+				<p class="course-descriptions">The role of the presidency in American politics. Topics will include nomination and election politics, relations with Congress, party leadership, presidential control of the bureaucracy, international political role, and presidential psychology. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli100b" name="poli100b" /></a></p><p class="course-name">POLI 100B. The US Congress (4)</p>
+				<p class="course-descriptions">This course will examine the nomination and election of congressmen, constituent relationships, the development of the institution, formal and informal structures, leadership, comparisons of House with Senate, lobbying, and relationship with the executive branch. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli100c" name="poli100c" /></a></p><p class="course-name">POLI 100C. American Political Parties (4)</p>
+				<p class="course-descriptions">This course examines the development of the two major parties from 1789 to the present. Considers the nature of party coalitions, the role of leaders, activists, organizers, and voters, and the performance of parties in government. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli100da" name="poli100da" /></a></p><p class="course-name">POLI 100DA. Voting, Campaigning, and Elections (4)</p>
+				<p class="course-descriptions">A consideration of the nature of public opinion and voting in American government. Studies of voting behavior are examined from the viewpoints of both citizens and candidates, and attention is devoted to recent efforts to develop models of electoral behavior for the study of campaigns. The role of mass media and money also will be examined. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli100e" name="poli100e" /></a></p><p class="course-name">POLI 100E. Interest Group Politics (4)</p>
+				<p class="course-descriptions">The theory and practice of interest group politics in the United States. Theories of pluralism and collective action, the behavior and influence of lobbies, the role of political action committees, and other important aspects of group action in politics are examined. <strong class="italic">Prerequisites:</strong> sophomore standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli100f" name="poli100f" /></a></p><p class="course-name">POLI 100F. Social Networks (4)</p>
+				<p class="course-descriptions">This class explores the many ways in which face-to-face social networks have a powerful effect on a wide range of human behaviors. With a foundation in understanding real-world networks, we can then consider how these networks function online.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli100g" name="poli100g" /></a></p><p class="course-name">POLI 100G. How to Win or Lose an Election (4)</p>
+				<p class="course-descriptions">This course explores the various aspects of a political campaign including campaign organization, vote targeting, political parties, social media, fundraising, polling, media interactions, and more. These areas are examined citing specific examples from federal, state, and local campaigns.</p>
+<p class="anchor-parent"><a class="anchor" id="poli100h" name="poli100h" /></a></p><p class="course-name">POLI 100H. Race and Ethnicity in American Politics (4)</p>
+				<p class="course-descriptions">This course examines the processes by which racial and ethnic groups have/have not been incorporated into the American political system. The course focuses on the political experiences of European immigrant groups, blacks, Latinos, and Asians. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli100i" name="poli100i" /></a></p><p class="course-name">POLI 100I. Participation and Inequality (4)</p>
+				<p class="course-descriptions">This course examines the causes and consequences of the unequal participation and representation of groups in US politics.<strong> <em>Prerequisites:</em></strong> upper-division standing.</p>
+<p class="anchor-parent"><a class="anchor" id="poli100j" name="poli100j" /></a></p><p class="course-name">POLI 100J. Race in American Political Development (4)</p>
+				<p class="course-descriptions">Readings examine how the multiracial character of the United States has shaped the broad outlines of American politics. Cases include the founding/the Constitution, southern politics, social organization in formerly Mexican regions, the New Deal, consequences of limited suffrage. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli100k" name="poli100k" /></a></p><p class="course-name">POLI 100K. Railroads and American Politics (4)</p>
+				<p class="course-descriptions">The railroads transformed the economy and politics of the United States in the nineteenth century. The railroads were the first big businesses, and their sheer size led inevitably to conflict with governments at all levels. This conflict shaped modern politics. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli100m" name="poli100m" /></a></p><p class="course-name">POLI 100M. Political Psychology (4)</p>
+				<p class="course-descriptions">We begin with hypotheses about how people develop political attitudes, and methods to test those hypotheses. The second half focuses on emerging cognitive neuroscience insights, including brain imaging, and asks how these inform theories of political cognition, affect, and behavior. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli100n" name="poli100n" /></a></p><p class="course-name">POLI 100N. Politics in Washington (4)</p>
+				<p class="course-descriptions">Examines Washington as a political community, its institutions, culture, and history. In addition to its elected officeholders and senior government officials, it examines Washington&rsquo;s subcommunities: the national news industry, diplomatic service, the representation of interests. <strong class="italic">Prerequisites:</strong> department approval is required. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli100o" name="poli100o" /></a></p><p class="course-name">POLI 100O. Perspectives on Race (4)</p>
+				<p class="course-descriptions">This course looks at race in American politics from a variety of perspectives. We may consider psychological, genetic, neuroscience, economic, political, sociological, and legal views of what drives powerful dynamics of race in our country. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli100p" name="poli100p" /></a></p><p class="course-name">POLI 100P. Economic Entrepreneurs and American Politics (4)</p>
+				<p class="course-descriptions">This course is concerned with the interaction between representative democracy and capitalism in American political history. The key to understanding this interaction is the role of the entrepreneur in the economy and how unexpected economic change shapes politics. <strong class="italic">Prerequisites: </strong>upper-division standing. </p>
+				<a name="poli100q" id="poli100q"></a></p><p class="course-name">POLI 100Q. Advanced Topics in Racial Politics (4)</p>
+				<p class="course-descriptions">This course explores how race shapes outcomes in American democracy through in-depth exploration of key issues in American politics. Topics include race in the voting booth, immigration, discrimination, and inter-minority conflict.</p>
+				<a name="poli100t" id="poli100t"></a></p><p class="course-name">POLI 100T. Business and Politics (4)</p>
+				<p class="course-descriptions">This course uses the tools of political science and economics to study how corporations affect and are affected by politics. We will cover a broad range of issues, including regulation, lawmaking, mass media, interest group mobilization, and corporate social responsibility.</p>
+				<a name="poli100u" id="poli100u"></a></p><p class="course-name">POLI 100U. Games, Strategy, and Politics (4)</p>
+				<p class="course-descriptions">This course provides an introduction to game theory with an emphasis on applications in economics, political science, and business. Game theory uses simple mathematical models to understand social phenomena. The required mathematical background is minimal (high school algebra).</p>
+				<a name="poli100v" id="poli100v"></a></p><p class="course-name">POLI 100V. Organized Interests (4)</p>
+				<p class="course-descriptions">This course provides a theoretical and practical examination of political parties, interest groups, and social movements in the United States.<strong> <em>Prerequisites:</em></strong> upper-division standing.</p>
+				<a name="poli100w" id="poli100w"></a></p><p class="course-name">POLI 100W. Politics, Policy, and Educational Inequality  (4)</p>
+				<p class="course-descriptions">Education is often thought of as &ldquo;the great equalizer&rdquo; but in the U.S. and around the world, many governments fail to ensure that all citizens have access to high-quality educational opportunities. Why? This course will give students the conceptual tools to understand who shapes education policy decisions, through what channels, and how those policy decisions affect the quality and equity of education. Emphasis is on the U.S., but analyzed in comparative perspective.<strong> <em>Prerequisites:</em></strong> upper-division standing.</p>
+		<a name="poli100y" id="poli100y"></a></p><p class="course-name">POLI 100Y. Asian American Politics in the United States (4)</p>
+				<p class="course-descriptions">This class is a survey of historical and contemporary issues in Asian American politics in the U.S.; race and ethnicity in the context of US politics; comparisons of racial and ethnic group experiences in the U.S. with those experienced by racial and ethnic groups elsewhere; Asian American access to the political system through political participation.<strong> <em>Prerequisites:</em></strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli101e" name="poli101e" /></a></p><p class="course-name">POLI 101E. The Politics of Race, Ethnicity, and Immigration (4)</p>
+				<p class="course-descriptions">This course examines the interplay between racial/ethnic identity and politics. How do race and ethnicity become politicized? What role does ethnic or racial identity play in political behavior and decision-making processes? To what extent do political institutions and institutional design reinforce the salience of ethnic or racial identity in politics? We will be taking a comparative approach to this topic, and cover readings in both American politics and comparative politics literature.</p>
+<p class="anchor-parent"><a class="anchor" id="poli102c" name="poli102c" /></a></p>
+				<p class="course-name">POLI 102C. American Political Development (4)</p>
+				<p class="course-descriptions">Examines selected issues and moments in the political history of the United States, comparing competing explanations and analyses of US politics. Likely topics include the founding, “American exceptionalism,” change in the party system, race in US politics, the “new institutionalism.” </p>
+				<p class="anchor-parent"><a class="anchor" id="poli102d" name="poli102d" /></a></p><p class="course-name">POLI 102D. Voting Rights Act: Fifty Years Later (4)</p>
+				<p class="course-descriptions">The Voting Rights Act (VRA) is one of the most significant and controversial acts in American history. We will examine the environment that led to its introduction, the legislative process, executive implementation, and the political ramifications and subsequent state government and court decisions.  </p>
+<p class="anchor-parent"><a class="anchor" id="poli102e" name="poli102e" /></a></p><p class="course-name">POLI 102E. Urban Politics (4)</p>
+				<p class="course-descriptions">(Same as USP107) This survey course focuses upon the following six topics: the evolution of urban politics since the mid-nineteenth century; the urban fiscal crisis; federal/urban relationships; the “new” ethnic politics; urban power structure and leadership; and selected contemporary policy issues such as downtown redevelopment, poverty, and race. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli102f" name="poli102f" /></a></p><p class="course-name">POLI 102F. Mass Media and Politics (4)</p>
+				<p class="course-descriptions">This course will explore both the role played by mass media in political institutions, processes and behaviors, and reciprocally, the roles played by political systems in guiding communication processes. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli102g" name="poli102g" /></a></p><p class="course-name">POLI 102G. Special Topics in American Politics (4)</p>
+				<p class="course-descriptions">An undergraduate course designed to cover various aspects of American politics. May be repeated for credit two times, provided each course is a separate topic, for a maximum of twelve units. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli102j" name="poli102j" /></a></p><p class="course-name">POLI 102J. Advanced Topics in Urban Politics (4)</p>
+				<p class="course-descriptions">(Same as USP 110) Building upon the introductory urban politics course, the advanced topics course explores issues such as community power, minority empowerment, and the politics of growth. A research paper is required. Students may not receive credit for both POLI 102J and USP 110. <strong class="italic">Prerequisites: </strong>upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli102k" name="poli102k" /></a></p><p class="course-name">POLI 102K. The Urban Underclass (4)</p>
+				<p class="course-descriptions">The lives of individuals living in ghetto poverty in the United States. Causes and consequences of ghetto poverty. Political debates surrounding the underclass and different possible solutions. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli102l" name="poli102l" /></a></p><p class="course-name">POLI 102L. The Politics of Regulation (4)</p>
+				<p class="course-descriptions">Politics and policy-making issues in regulation. Themes: regulation versus legislation; general versus specific grants of regulatory power; market versus command mechanisms; private property; and risk assessment. Emphasis on American regulatory policy, examples from current regulatory debates (e.g., health care and environment). <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli103a" name="poli103a" /></a></p><p class="course-name">POLI 103A. California Government and Politics (4)</p>
+				<p class="course-descriptions">(Same as USP 109) This survey course explores six topics: 1) the state&#8217;s political history; 2) campaigning, the mass media, and elections; 3) actors and institutions in the making of state policy; 4) local government; 5) contemporary policy issues; e.g., Proposition 13, school desegregation, crime, housing and land use, transportation, water; 6) California&#8217;s role in national politics. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli103b" name="poli103b" /></a></p><p class="course-name">POLI 103B. Politics and Policymaking in Los Angeles (4)</p>
+				<p class="course-descriptions">(Same as USP 113) This course examines politics and policymaking in the five-county Los Angeles region. It explores the historical development of the city, suburbs, and region; politics, power, and governance; and major policy challenges facing the city and metropolitan area. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli103c" name="poli103c" /></a></p><p class="course-name">POLI 103C. Politics and Policymaking in San Diego (4)</p>
+				<p class="course-descriptions">(Same as USP 115) This course examines how
+				  major policy decisions are made in San Diego. It analyzes the region&#8217;s
+				  power structure (including the roles of nongovernmental organizations
+				  and the media), governance systems and reform efforts, and the politics
+				  of major infrastructure projects. <strong class="italic">Prerequisites:</strong> upper-division
+				  standing or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli103d" name="poli103d" /></a></p><p class="course-name">POLI 103D. California Local Government: Finance and Administration (4)</p>
+				<p class="course-descriptions">(Same as USP 116) This course surveys public finance and administration. It focuses upon California local governments—cities, counties, and special districts—and also examines state and federal relationships. Topics explored include revenue, expenditure, indebtedness, policy responsibilities, and administrative organization and processes. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli104a" name="poli104a" /></a></p><p class="course-name">POLI 104A. The Supreme Court and the Constitution (4)</p>
+				<p class="course-descriptions">An introduction to the study of the Supreme Court and constitutional doctrine. Topics will include the nature of judicial review, federalism, race, and equal protection. The relation of judicial and legislative power will also be examined. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli104b" name="poli104b" /></a></p><p class="course-name">POLI 104B. Civil Liberties—Fundamental Rights (4)</p>
+				<p class="course-descriptions">This course will examine issues of civil liberties from both legal and political perspectives. Topics will include the First Amendment rights of speech, press, assembly, and religion; other “fundamental” rights, such as the right to privacy; and some issues in equal protection. Conflicts between governmental powers and individual rights will be examined. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli104c" name="poli104c" /></a></p>
+				<p class="course-name">POLI 104C. Civil Liberties—The Rights of the Accused and Minorities  (4)</p>
+				<p class="course-descriptions">Examines the legal issues surrounding the rights of criminal suspects, as well as the rights of &ldquo;marginal&rdquo; groups such as aliens, illegal immigrants, and the mentally ill. Also includes a discussion of the nature of discrimination in American society. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+		<p class="anchor-parent"><a class="anchor" id="poli104d" name="poli104d" /></a></p><p class="course-name">POLI 104D. Judicial Politics (4)</p>
+				<p class="course-descriptions">Introduction to the study of law and courts as political institutions and judges as political actors, including the role of the judiciary in our constitutional system and decision making both within the Supreme Court and within the judicial hierarchy. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli104e" name="poli104e" /></a></p><p class="course-name">POLI 104E. Environmental Law and Policy (4)</p>
+		<p class="course-descriptions">The course is an introduction to US environmental law at the federal level. It emphasizes issues and current controversies involving natural resources, such as wilderness, biodiversity, water, and climate change. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli104f" name="poli104f" /></a></p>
+				<p class="course-name">POLI 104F. Constitutional Law (4)</p>
+				<p class="course-descriptions">This course provides an intensive examination of a major issue in constitutional law. Students will be required to do legal research on a topic, write a legal brief, and argue a case to the class. <strong class="italic">Prerequisites:</strong> POLI 104A-B. </p>
+				<p class="course-name">POLI 104G. Election Law (4)</p>
+		<p class="course-descriptions">A detailed analysis of the legislative and judicial history of election related topics including registration laws, election administration, candidate requirements, voting rights, party organizational rules, nomination procedures, redistricting, and campaign finance. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli104i" name="poli104i" /></a></p><p class="course-name">POLI 104I. Law and
+		  Politics—Courts and Political Controversy (4)</p>
+				<p class="course-descriptions">This course will examine the role of the courts in dealing with issues of great political controversy, with attention to the rights of speech and assembly during wartime, questions of internal security, and the expression of controversial views on race and religion. The conflict between opposing Supreme Court doctrines on these issues will be explored in the context of the case studies drawn from different historical periods. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli104j" name="poli104j" /></a></p><p class="course-name">POLI 104J. Introduction to Legal Reasoning (4)</p>
+				<p class="course-descriptions">The ability to write and argue is one of the noted benefits of a legal education. Students will learn the basics of legal research and reasoning by learning to read and brief case law and write persuasive and objective memorandums. <strong class="italic">Prerequisites:</strong> POLI 104A or 104B, upper-division standing.  </p>
+				<p class="anchor-parent"><a class="anchor" id="poli104k" name="poli104k" /></a></p><p class="course-name">POLI 104K. Legal Argument Formulation (4)</p>
+				<p class="course-descriptions">This course examines the role that legal arguments have in the US court system. Students will utilize legal reasoning and research skills to craft arguments in both written and oral formats, and then participate in a moot court final. <strong><em>Prerequisites:</em></strong> POLI 104J.</p>
+<p class="anchor-parent"><a class="anchor" id="poli104l" name="poli104l" /></a></p><p class="course-name">POLI 104L. Positive Political Theory of Law (4)</p>
+				<p class="course-descriptions">We will discuss modern theories of the origins of law and legal behavior. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli104m" name="poli104m" /></a></p><p class="course-name">POLI 104M. Law and Sex (4)</p>
+				<p class="course-descriptions">How law regulates and impacts sexuality and orientation with focus on constitutional law in areas of privacy, free speech, association, regulation of sexual conduct under criminal law pornography, procreation, reproductive rights, and regulation of family status. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli104n" name="poli104n" /></a></p><p class="course-name">POLI 104N. Race and Law (4)</p>
+				<p class="course-descriptions">Has the law helped end or contributed to racism in the United States? This course will explore the law of Slavery, Segregation, and Immigration, and study Equal Protection, Affirmative Action, and Criminal Justice (including hate crimes and First Amendment implications).</p>
+				<p class="anchor-parent"><a class="anchor" id="poli104p" name="poli104p" /></a></p><p class="course-name">POLI 104P. Science, Technology, and the Law (4)</p>
+				<p class="course-descriptions">Science advances exponentially. The law is slower to follow. This course examines legal issues created by today&rsquo;s scientific breakthroughs and explores what future legal challenges might await tomorrow&rsquo;s scientific discoveries, from privacy on the internet to the meaning of life. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+<p class="anchor-parent"><a class="anchor" id="poli105a" name="poli105a" /></a></p><p class="course-name">POLI 105A. Latino Politics in the U.S. (4)</p>
+				<p class="course-descriptions">This course examines contemporary issues in Latino politics in the U.S.; comparisons of racial and ethnic group experiences in the U.S.; Latino access to the political system through political participation. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli108" name="poli108" /></a></p><p class="course-name">POLI 108. Politics of Multiculturalism (4)</p>
+				<p class="course-descriptions">This course will examine central issues in debates about race, ethnicity, and multiculturalism in the United States. It will look at relations not only between whites and minorities, but also at those among racial and ethnic communities. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<h3 class="course-subhead-2">Political Theory </h3>
+				<p class="anchor-parent"><a class="anchor" id="poli110a" name="poli110a" /></a></p><p class="course-name">POLI 110A. Citizens
+		  and Saints: Political Thought from Plato to Augustine (4)</p>
+				<p class="course-descriptions">This course focuses on the development of politics and political thought in ancient Greece, its evolution through Rome and the rise of Christianity. Readings from Plato, Aristotle, Augustine, Machiavelli, and others. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli110b" name="poli110b" /></a></p><p class="course-name">POLI 110B. Sovereigns, Subjects, and the Modern State: Political Thought from Machiavelli to Rousseau (4)</p>
+				<p class="course-descriptions">The course deals with the period that marks the rise and triumph of the modern state. Central topics include the gradual emergence of human rights and the belief in individual autonomy. Readings from Machiavelli, Hobbes, Locke, Rousseau, and others. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli110c" name="poli110c" /></a></p><p class="course-name">POLI 110C. Revolution
+		  and Reaction: Political Thought from Kant to Nietzsche (4)</p>
+				<p class="course-descriptions">The course deals with the period that marks the triumph and critique of the modern state. Central topics include the development of the idea of class, of the irrational, of the unconscious, and of rationalized authority as they affect politics. Readings drawn from Rousseau, Kant, Hegel, Marx, Nietzsche, and others. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli110da" name="poli110da" /></a></p><p class="course-name">POLI 110DA. Freedom
+		  and Discipline: Political Thought in the Twentieth Century (4)</p>
+				<p class="course-descriptions">This course addresses certain problems that are characteristic of the political experience of the twentieth century. Topics considered are revolution, availability of tradition, and the problems of the rationalization of social and political relations. Readings from Nietzsche, Weber, Freud, Lenin, Gramsci, Dewey, Oakeshott, Arendt, Merleau-Ponty. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli110ea" name="poli110ea" /></a></p><p class="course-name">POLI 110EA. American
+		  Political Thought from Revolution to Civil War (4)</p>
+				<p class="course-descriptions">The first quarter examines the origins and development of American political thought from the revolutionary period to the end of the nineteenth century with special emphasis on the formative role of eighteenth-century liberalism and the tensions between “progressive” and “conservative” wings of the liberal consensus. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli110eb" name="poli110eb" /></a></p><p class="course-name">POLI 110EB. American
+		  Political Thought from Civil War to Civil Rights (4)</p>
+				<p class="course-descriptions">The second quarter examines some of the major themes of American political thought in the twentieth century including controversies over the meaning of democracy, equality, and distributive justice, the nature of “neoconservatism,” and America&#8217;s role as a world power. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli110ec" name="poli110ec" /></a></p><p class="course-name">POLI 110EC. American
+		  Political Thought: Contemporary Debates (4)</p>
+				<p class="course-descriptions">This course explores contemporary issues in American political thought. Topics may include liberalism and rights, gender and sexuality, race and ethnicity, cultural diversity, and the boundaries of modern citizenship. Readings include political pamphlets, philosophical treatises, court decisions, and works of literature. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli110ed" name="poli110ed" /></a></p><p class="course-name">POLI 110ED. Seminar in American Political Thought (4)</p>
+				<p class="course-descriptions">This seminar explores debates over ideals, institutions, and identities in American political thought. Themes and topics will vary. Readings will include political pamphlets, philosophical treatises, court decisions, and works of literature. <strong class="italic">Prerequisites:</strong> upper-division standing; department stamp.</p>
+		</a></p>
+                <a name="poli110g" id="poli110g"></a></p></span><p class="course-name">POLI 110G. International Political Thought (4) </p>
+                <p><span class="course-descriptions">T</span><span class="course-descriptions">his course explores theories of politics that are oriented beyond state borders. Key topics include international order, cosmopolitanism, human rights, just war, global justice, mitigation, citizenship, identity, and commercial society. The course examines thinkers from classical antiquity to contemporary times.</span>
+        </p>
+                </p>
+                  <p class="anchor-parent"><a class="anchor" id="poli110h" name="poli110h" /></a></p>
+                <p class="course-name">POLI 110H. Democracy and Its Critics (4)</p>
+<p class="course-descriptions">This course will examine the historical development of the ideal of democracy from Periclean Athens to the present in the light of criticism by such thinkers as Plato, Tocqueville, and Mosca and difficulties encountered in efforts to realize the ideal. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli110j" name="poli110j" /></a></p><p class="course-name">POLI 110J. Power in American Society (4)</p>
+				<p class="course-descriptions">This course examines how power has been conceived and contested during the course of American history. The course explores the changes that have occurred in political rhetoric and strategies as America has moved from a relatively isolated agrarian and commercial republic to a military and industrial empire. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli110k" name="poli110k" /></a></p><p class="course-name">POLI 110K. Liberty and Equality (4)</p>
+				<p class="course-descriptions">Leading political theories of liberal democracy since 1950. What is the meaning of political liberty? Political equality is the equality of what? Course will consider thinkers such as J.S. Mill, Berlin, Rawls, Dworkin, Taylor, Sen, Nussbaum, G. Cohen, Petit.  </p>
+				<p class="anchor-parent"><a class="anchor" id="poli110m" name="poli110m" /></a></p><p class="course-name">POLI 110M. Green Political Thought (4)</p>
+				<p class="course-descriptions">Leading theories of environmental justice, ethics, and politics since 1960. Thinkers such as Dauvergne, Dobson, Dryzek, Eckersley, Latour, Plumwood, and Simon on ecosystems, climate change, sustainability, preservation, human welfare, nonhuman animals, place, feminism, state, market, and green political movements. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli110n" name="poli110n" /></a></p><p class="course-name">POLI 110N. Theories of Nationalism (4)</p>
+				<p class="course-descriptions">Nationalist ideologies. Examination of the rhetoric of nationalist mobilization. Theories about the relationship between nationalist movements and democracy, capitalism, warfare, and the state. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+<p class="anchor-parent"><a class="anchor" id="poli110t" name="poli110t" /></a></p><p class="course-name">POLI 110T. Modern Political Ideologies (4)</p>
+				<p class="course-descriptions">An examination of some of the ideas and values
+				  associated with major social and political movements in Europe
+				  and the United States since the French Revolution. Topics will vary and
+				  may include liberalism, populism, democracy, communism, nationalism, fascism,
+				  and feminism. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli111b" name="poli111b" /></a></p><p class="course-name">POLI 111B. Global Justice in Theory and Action (4)</p>
+				<p class="course-descriptions">Discuss the idea of justice from multiple perspectives: theory, philosophy, institutions, markets, social mobilization, politics, and environment. Examine the assets and capabilities of diverse justice-seeking organizations and movements aimed at improving quality of life and place locally, regionally, and globally.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli112a" name="poli112a" /></a></p><p class="course-name">POLI 111D. Changing Harmful Social Norms (4)</p>
+				<p class="course-descriptions">Study of types of social norms and practices, and how to change them. Illustrated with development examples such as the end of footbinding, female genital cutting, urban violence in Colombia, Serbian student revolution, early marriage, and other adverse gender norms.</p>
+<p class="anchor-parent"><a class="anchor" id="poli112a" name="poli112a" /></a></p><p class="course-name">POLI 112A. Economic Theories of Political Behavior (4)</p>
+				<p class="course-descriptions">An introduction to theories of political behavior developed with the assumptions and methods of economics. General emphasis will be upon theories linking individual behavior to institutional patterns. Specific topics to be covered will include collective action, leadership, voting, and bargaining. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli112c" name="poli112c" /></a></p><p class="course-name">POLI 112C. Political Theory and Artistic Vision (4)</p>
+				<p class="course-descriptions">The course explores the modes of political thinking found in arts, especially in drama and literature. It may include ends and means, political leadership, and political economy. Students may not receive credit for both POLI 112CS and POLI 112C. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli113a" name="poli113a" /></a></p><p class="course-name">POLI 113A. East
+		  Asian Thought in Comparative Perspective (4)</p>
+				<p class="course-descriptions">This course examines the major traditions of East Asian thought in comparative perspective. Topics include Confucianism, Taoism, Buddhism, and contemporary nationalist and East Asian political thought. Throughout, focused comparisons and contrasts will be made between western and eastern thought. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli113b" name="poli113b" /></a></p><p class="course-name">POLI 113B. Chinese and Japanese Political Thought I (4)</p>
+				<p class="course-descriptions">Examines philosophical traditions of ancient and modern China and Japan, to understand how these have been reflected in Chinese and Japanese development. Course will be in English; however, students with Chinese or Japanese language skills will have opportunity to use these. Graduate students will be required to complete a seminar-length research paper; undergraduate students will write a paper. <strong class="italic">Prerequisites:</strong> upper-division standing for 113B. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli113c" name="poli113c" /></a></p><p class="course-name">POLI 113C. Chinese and Japanese Political Thought II (4)</p>
+		<p class="course-descriptions">A continuation of 113B, which follows political philosophical themes in China and Japan through the twentieth century. Important topics include Buddhism and Confucianism as they changed in each context in response to internal and external stimuli. <strong class="italic">Prerequisites:</strong> 113B. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli114b" name="poli114b" /></a></p><p class="course-name">POLI 114B. Marxist Political Thought (4)</p>
+				<p class="course-descriptions">An introduction to Marxist thought from its roots in the Western tradition through its development in non-Western contexts. Emphasis is placed on how adaptations were made in Marxism to accommodate the specific challenges of each environment. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli115a" name="poli115a" /></a></p><p class="course-name">POLI 115A. Gender and Politics (4)</p>
+				<p class="course-descriptions">Our understanding of politics, power, conflict, and quality continue to be challenged and transformed by considering gender as it intersects with nationality, race, class, and ethnicity. We will consider the importance of gender in each of the subfields of political science. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli116a" name="poli116a" /></a></p><p class="course-name">POLI 116A. Feminist Theory (4)</p>
+		<p class="course-descriptions">Readings in historical and contemporary feminist theory; development of gender as a category of political analysis; alternative perspectives on core concepts and categories in feminist thought.<span class="italic"> <strong>Prerequisites:</strong> </span>upper-division standing. </p>
+		<p class="anchor-parent"><a class="anchor" id="poli117" name="poli117" /></a></p><p class="course-name">POLI 117. Bending the Curve: Solutions to Climate Change (4)</p>
+		<p class="course-descriptions">(Same as SIO 109.) Climate change is an urgent global problem affecting the lives of hundreds of millions of people, now and for the foreseeable future. This course will empower students to confront climate change as critical actors to innovate creative cross-disciplinary solutions. Students may not receive credit for POLI 117 and SIO 109. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+		<p class="anchor-parent"><a class="anchor" id="poli118" name="poli118" /></a></p><p class="course-name">POLI 118. Game Theory in Political Science</p>
+		<p class="course-descriptions">This course introduces students to game theory and its uses in political science. Topics covered include the concepts of Nash equilibrium, dominant strategies, subgame perfection and backwards induction, and the applications of those concepts to the study of voting, electoral competition, public goods provision, legislatures, and collective action. An emphasis is placed on developing students' analytical reasoning and problem-solving skills through weekly problem sets and in-class exercises.<strong> <em>Prerequisites:</em></strong> upper-division standing.</p>
+        <div>
+          <div> </div>
+        </div>
+<p class="anchor-parent"><a class="anchor" id="poli119a" name="poli119a" /></a></p><p class="course-name">POLI 119A. Special Topics in Political Theory (4)</p>
+				<p class="course-descriptions">An undergraduate course designed to cover various aspects of political theory. May be repeated for credit two times, provided each course is a separate topic, for a maximum of twelve units.</p>
+				<h3 class="course-subhead-2">Comparative Politics </h3>
+				<p class="anchor-parent"><a class="anchor" id="poli120a" name="poli120a" /></a></p><p class="course-name">POLI 120A. Political Development of Western Europe (4)</p>
+				<p class="course-descriptions">An examination of various paths of European political development through consideration of the conflicts that shaped these political systems: the commercialization of agriculture; religion and the role of the church; the army and the state bureaucracy; and industrialization. Stress will be on alternative paradigms and on theorists. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli120b" name="poli120b" /></a></p><p class="course-name">POLI 120B. The German Political System (4)</p>
+				<p class="course-descriptions">An analysis of the political system of the Federal Republic of Germany with an emphasis on the party system, elections, executive-legislative relations, and federalism. Comparisons will be made with other West European democracies and the Weimar Republic. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli120c" name="poli120c" /></a></p><p class="course-name">POLI 120C. Politics in France (4)</p>
+				<p class="course-descriptions">This course will examine the consequences of social and economic change in France. Specific topics will include institutional development under a semi-presidential system, parties, and elections. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli120d" name="poli120d" /></a></p><p class="course-name">POLI 120D. Germany: Before, During, and After Division (4)</p>
+				<p class="course-descriptions">Consideration of political, economic, and security factors that have kept Germany at the center of European developments for more than a century. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli120e" name="poli120e" /></a></p><p class="course-name">POLI 120E. Scandinavian Politics (4)</p>
+				<p class="course-descriptions">Introduction to the politics and societies of the Scandinavian states (Denmark, Finland, Norway, and Sweden). Focuses on historical development, political culture, constitutional arrangements, political institutions, parties and interest groups, the Scandinavian welfare states, and foreign policy. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli120g" name="poli120g" /></a></p><p class="course-name">POLI 120G. British Politics (4) </p>
+				<p class="course-descriptions">Emphasis will be placed on the interaction between British political institutions and processes and contemporary policy problems: the economy, social policy, foreign affairs. The course assumes no prior knowledge of British politics and comparisons with the United States will be drawn.</p>
+<p class="anchor-parent"><a class="anchor" id="poli120h" name="poli120h" /></a></p><p class="course-name">POLI 120H. European Integration (4)</p>
+				<p class="course-descriptions">This course reviews the origins and development of the European Community/European Union and its institutions, theories of integration and the challenges inherent in the creation of a supranational political regime. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli120i" name="poli120i" /></a></p><p class="course-name">POLI 120I. Politics in Italy (4)</p>
+				<p class="course-descriptions">This course will provide a comparative perspective on the development and functioning of the Italian political system. It includes analysis of political institutions, ideological traditions, parties and elections, political elites in the policy process, and the evolving importance of Italy within European integration. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli120n" name="poli120n" /></a></p><p class="course-name">POLI 120N. Contention and Conflict in Africa (4)</p>
+		<p class="course-descriptions">This course offers a systematic study of civil wars, electoral violence, anti-immigrant violence, genocides, coups, riots, and rebel groups in sub-Saharan Africa. It will explore why some regions experience certain types of violence and others do not. </p>
+		<p class="anchor-parent"><a class="anchor" id="poli120p" name="poli120p" /></a></p><p class="course-name">POLI 120P. Africa’s Success Stories (4)</p>
+				<p class="course-descriptions">This course examines reasons why we can be cautiously optimistic about development, growth, peace and democratization in Africa. Sample cases include Botswana’s resource blessing, postconflict reconstruction in Uganda, and democratization in Ghana, Benin, and Niger.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli120q" name="poli120q" /></a></p><p class="course-name">POLI 120Q. Ethnic Politics  (4)</p>
+				<p class="course-descriptions">This course introduces students to the comparative study of ethnic politics. It examines the relationships between ethnicity on one hand, and mobilization, political contestation, violence, trust, and pork on the other. It draws from analysis from a variety of contexts and regions, such as sub-Saharan Africa, Eastern Europe, North America, South Asia, and Western Europe. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+		<p class="anchor-parent"><a class="anchor" id="poli121" name="poli121" /></a></p><p class="course-name">POLI 121. Government and Politics of the Middle East (4)</p>
+				<p class="course-descriptions">This course examines general themes affecting the region (social structure and regime type, religion and modernization, bonds and tensions), the character of major states, and efforts to resolve the conflict between Israel and its Arab and Islamic neighbors. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli121b" name="poli121b" /></a></p><p class="course-name">POLI 121B. Politics in Israel (4)</p>
+				<p class="course-descriptions">An interdisciplinary study of Israel as both a unique and yet a common example of a modern democratic nation-state. We will examine Israel&#8217;s history, its political, economic, and legal systems, social structure and multicultural tensions, the relation between state and religion, national security, and international relations. </p>
+				<a name="poli122" id="poli122"></a></p><p class="course-name">POLI 122. Politics of Human Rights (4)</p>
+                <p class="course-descriptions">What do we mean by “international
+                  human rights”?
+                  Are they universal? This course examines human rights abuse
+                  and redress over time, and across different regions of the
+                  world. From this empirically grounded perspective, we
+                  critically evaluate contemporary human rights debates. <strong class="italic">Prerequisites:</strong> upper-division
+                  standing.</p>
+                <p class="anchor-parent"><a class="anchor" id="poli122d" name="poli122d" /></a></p><p class="course-name">POLI 122D. Abuse of Power (4)</p>
+                <p class="course-descriptions">Power, a crucial part of politics, can be, and often is, abused. This course discusses the nature of power and surveys a variety of abuses, including agenda manipulation, rent extraction, fraud, extortion, corruption, exploitation, and gross political oppression. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+<p class="anchor-parent"><a class="anchor" id="poli123" name="poli123" /></a></p>
+      
+                <p class="course-name">POLI 123. Politics of Empire in Comparative Perspective (4)</p>
+				<p class="course-descriptions">In between “rises” and “declines,” empires are political entities with highly heterogeneous populations that must be governed. The course examines the similarities and differences in imperial governance, comparing the internal and external political dynamics of traditional (Roman, Ottoman), modernizing (Habsburg), and modern (British) empires. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli124" name="poli124" /></a></p><p class="course-name">POLI 124. Israeli-Palestinian Conflict (4)</p>
+				<p class="course-descriptions">(Same as SOCI 188I.) In this course, we will examine the national and colonial dimensions of this long-lasting conflict and then turn our attention to the legal, governmental/political, and everyday aspects of the Israeli occupation of the West Bank and Gaza following the 1967 war. </p>
+<p class="anchor-parent"><a class="anchor" id="poli124a" name="poli124a" /></a></p><p class="course-name">POLI 124A. Political Consequences of Electoral Systems (4) </p>
+				<p class="course-descriptions">A comparative survey of the major dimensions of the electoral systems used in contemporary democracies (including plurality and majority systems, proportional representation, and districting methods) and of their effects on party competition.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli125" name="poli125" /></a></p>
+				<p class="course-name">POLI 125. Gender, Politics, and Globalization (4)</p>
+		<p class="course-descriptions">What have been the effects of globalization on gender, and how has gender shaped conceptions and processes of globalization? Through case studies drawn from the global north and south, this course critically assesses contemporary theoretical debates on global gender justice.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli125a" name="poli125a" /></a></p><p class="course-name">POLI 125A. Communities and the Environment (4)</p>
+				<p class="course-descriptions">A popular new idea in environmental protection is to include local communities in conservation efforts. But what are these communities? What challenges do they face in governing their own resources? This course uses both theory and case studies to explore the political economy of community-based conservations. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli125b" name="poli125b" /></a></p><p class="course-name">POLI 125B. The Politics of Food in a Global Economy (4)</p>
+				<p class="course-descriptions">This course explores emerging issues in production and consumption of food in a global economy. On production side, we discuss issues such as famine, overproduction of commercial crops, and sustainability. On consumption side, we explore issues such as fair trade, ethical consumption, and public health consequences (such as obesity). Then we discuss the roles of governments, international organizations, and communities to address these issues.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli125e" name="poli125e" /></a></p><p class="course-name">POLI 125E. The Politics of Conservation in Developing Countries</p>
+				<p class="course-descriptions">Conservation in developing countries concerns resources that are extremely important to policymakers, militaries, environmental organizations, communities, and individuals. This course examines these groups' struggle for control over wildlife and forests—from the capital to the village—on several continents.<strong> <em>Prerequisites:</em></strong> upper-division standing.</p>
+                <div>
+                  <div> </div>
+        </div>
+<p class="anchor-parent"><a class="anchor" id="poli126" name="poli126" /></a></p><p class="course-name">POLI 126. Political Economy of Development (4)</p>
+				<p class="course-descriptions">Why are some countries rich and others poor? This course examines how political and economic factors shape development trajectories, focusing on Africa, Asia, and Latin America. Topics include the impact of democracy, corruption, oil, and foreign aid on economic development. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli126aa" name="poli126aa" /></a></p>
+				<p class="course-name">POLI 126AA. Fundamentals
+		  of Political Economy: Modern Capitalism (4)</p>
+				<p class="course-descriptions">This course explores how economic factors affect political institutions and how political action affects economic behavior in the United States and Western Europe. Particular attention is given to relations between business and labor, economic policy choices, and the impact of international trade. <strong class="italic">Prerequisites:</strong> POLI 11 or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli126ab" name="poli126ab" /></a></p><p class="course-name">POLI 126AB. Politics and Economics in Eastern Europe (4)</p>
+				<p class="course-descriptions">This course explores the interrelationship of politics and economics in Eastern Europe, analyzing the historic evolution of the area, the socialist period, and contemporary political and economic change there. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli127" name="poli127" /></a></p><p class="course-name">POLI 127. Politics of Developing Countries (4)</p>
+				<p class="course-descriptions">This course critically examines central concepts and theories of development, and assesses their utility in understanding political, economic, and social change in the developing world. Central case studies are drawn from three regions: Latin America, Sub-Saharan Africa, and Southeast Asia. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli128" name="poli128" /></a></p>
+				<p class="course-name">POLI 128. Autocracy, Democracy, and Prosperity (4)</p>
+				<p class="course-descriptions">This course considers the interplay between factor endowments, political institutions, and economic performance. It focuses on the connection between representative political institutions and the emergence and expansion of markets.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli129" name="poli129" /></a></p><p class="course-name">POLI 129. How to Steal an Election (4)</p>
+				<p class="course-descriptions">Examine the role of elections in new and fragile democracies, explore how politicians construct elections to suppress increased levels of democracy, the techniques used to undermine free and fair elections, and the strategic responses to these actions by domestic/international actors. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli130ad" name="poli130ad" /></a></p><p class="course-name">POLI 130AD. The Politics of the Russian Revolution (4)</p>
+				<p class="course-descriptions">An examination of the dynamics of the Russian Revolution from 1905 through the Stalinist period and recent years in light of theories of revolutionary change. Emphasis is placed on the significance of political thought, socioeconomic stratification, and culturo-historical conditions. </p>
+					<p class="anchor-parent"><a class="anchor" id="poli130b" name="poli130b" /></a></p><p class="course-name">POLI 130B. Politics in the People&rsquo;s Republic of China (4)</p>
+				<p class="course-descriptions">This course analyzes the political system of China since 1949, including political institutions, the policy-making process, and the relationship between politics and economics. The main focus is on the post-Mao era of reform beginning in 1978. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli130g" name="poli130g" /></a></p><p class="course-name">POLI 130G. Politics of Modern India (4)</p>
+				<p class="course-descriptions">The course gives an overview of Indian politics since 1947. It addresses the following: (1) To what extent is India a full-fledged democracy in which all citizens enjoy political equality? (2) Why has political violence occurred in some parts of India, and at certain times, but not others? (3) How well have the country's institutions fared in alleviating poverty?<strong> <em>Prerequisites:</em></strong> upper-division standing.</p>
+<p class="anchor-parent"><a class="anchor" id="poli131" name="poli131" /></a></p><p class="course-name">POLI 131. Muslim Integration and Exclusion (4)</p>
+        <p class="course-descriptions">Is there a Muslim challenge to immigrant integration in Christian-heritage societies? This course asks if and why Muslim immigrants integrate into their host societies, and evaluates the various solutions put forth by politicians and scholars.</p>
+                <p class="anchor-parent"><a class="anchor" id="poli131c" name="poli131c" /></a></p><p class="course-name">POLI 131C. The Chinese Revolution (4)</p>
+				<p class="course-descriptions">An analysis of the dynamics of the Chinese Revolution from the fall of the Qing Dynasty (1644–1911) to the present. Emphasis is placed on the relationship between political thought and the dynamics of the revolutionary process. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli132" name="poli132" /></a></p><p class="course-name">POLI 132. Political Development and Modern China (4)</p>
+				<p class="course-descriptions">Political development has dominated the study of comparative politics among US academicians since the revival of the Cold War in 1947. This course examines critically this paradigm and its Western philosophical roots in the context of the experience of modern China. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli133a" name="poli133a" /></a></p><p class="course-name">POLI 133A. Japanese
+		  Politics: A Developmental Perspective (4)</p>
+				<p class="course-descriptions">This course will analyze the political systems of modern Japan in comparative-historical perspective.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli133d" name="poli133d" /></a></p><p class="course-name">POLI 133D. Political Institutions of East Asian Countries (4)</p>
+				<p class="course-descriptions">This course discusses the following major topics in three East Asian countries (Japan, South Korea, and the Philippines) from a comparative perspective: (a) economic and political development; (b) political institutions; and (c) policies.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli133g" name="poli133g" /></a></p><p class="course-name">POLI 133G. Postwar US-Japan Relations (4)</p>
+		<p class="course-descriptions">The relationship between the United States and Japan has been described as &ldquo;the most important in the world, bar none.&rdquo; This course will examine US-Japan security and economic relations in the postwar period from the Occupation and Cold War alliance through the severe bilateral trade friction of the 1980s and 1990s to the present relationship and how it is being transformed by the forces of globalization, regionalization, and multilateralism. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli133j" name="poli133j" /></a></p><p class="course-name">POLI 133J. Korean Politics (4)</p>
+				<p class="course-descriptions">This course is primarily about the politics and political economy of South Korea, but will also briefly look at politics and political economy of North Korea as well as foreign and unification policies of the two Koreas. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli134aa" name="poli134aa" /></a></p><p class="course-name">POLI 134AA. Comparative Politics of Latin America (4)</p>
+				<p class="course-descriptions">Comparative analysis of contemporary political systems and developmental profiles of selected Latin American countries, with special reference to the ways in which revolutionary and counter-revolutionary movements have affected the political, economic, and social structures observable in these countries today. Analyzes the performance of “revolutionary” governments in dealing with problems of domestic political management, reducing external economic dependency, redistributing wealth, creating employment, and extending social services. Introduction to general theoretical works on Latin American politics and development. <strong class="italic">Prerequisites:</strong> POLI 11 or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli134b" name="poli134b" /></a></p><p class="course-name">POLI 134B. Politics in Mexico (4)</p>
+				<p class="course-descriptions">General survey of the Mexican political system as it operates today. Emphasis on factors promoting the breakdown of Mexico&#8217;s authoritarian regime and the transition to a more democratic political system. Changing relationship between the state and various segments of Mexico society (economic elites, peasants, urban labor, and the Church). New patterns of civil-military relations. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli134d" name="poli134d" /></a></p><p class="course-name">POLI 134D. Selected Topics in Latin American Politics (4)</p>
+				<p class="course-descriptions">A comparative analysis of contemporary political issues in Latin America. Material to be drawn from two or three countries. Among the topics: development, nationalism, neoimperialism, political change. May be taken for credit two times. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli134i" name="poli134i" /></a></p><p class="course-name">POLI 134I. Politics
+		  in the Southern Cone of Latin America (4)</p>
+				<p class="course-descriptions">This course is a comparative analysis of twentieth-century political developments and issues in the southern cone of Latin America: Argentina, Chile, and Uruguay. The course will also examine the social and economic content and results of contrasting political experiments. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli134j" name="poli134j" /></a></p><p class="course-name">POLI 134J. Cuba: Revolution and Reform (4)</p>
+				<p class="course-descriptions">Students will study the origins and direction of the Cuban revolution and the actions and personality of Castro. Additional topics will include the Cuban economy today, Cuban political organizations and public opinion, important social issues including health care and public education, and Cuban foreign policy and relations between the U.S. and Cuba. The class will instruct students on Cuban contemporary social media and conclude with an examination of alternative scenarios for Cuba's future.<strong> <em>Prerequisites:</em></strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli135" name="poli135" /></a></p><p class="course-name">POLI 135. Comparative LGBT Politics (4)</p>
+				<p class="course-descriptions">This course is designed to expose students to the study of LGBT politics, focusing specifically on the formation of LGBT movements, the presence (or absence) of political opportunities to advance their desired goals, as well as their political success (or lack thereof). Although the course will initially examine the US LGBT movement, the course will also examine the formation (and political success/failure) of LGBT movements in other democratic political systems.<strong> <em>Prerequisites:</em></strong> upper-division standing.</p>
+
+<p class="anchor-parent"><a class="anchor" id="poli136" name="poli136" /></a></p><p class="course-name">POLI 136. Religion and Politics (4) </p>
+				<p class="course-descriptions">The political impact of major religious traditions—including Christianity, Islam, Hinduism, and Confucianism—around the world. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli136a" name="poli136a" /></a></p>
+				<p class="course-name">POLI 136A. Nationalism and Politics (4)</p>
+				<p class="course-descriptions">An examination of nationalist politics as practiced by opposition movements and governments in power. Appropriate case studies from around the world will be selected. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli137" name="poli137" /></a></p><p class="course-name">POLI 137. A Sports Analytics Approach to the Social Sciences (4)</p>
+				<p class="course-descriptions">Sports analytics is a fast-growing field. It uses data and statistical methods to measure performance in competitive sports. The approach's popularity has generated a wealth of data that can be used to shed light on social science questions in interesting ways. We will focus on topics such as violent behavior, discrimination, cultural/ethnic diversity, corruption, and cognitive biases using examples from baseball, basketball, figure skating, football, hockey, soccer, and sumo wrestling.<strong> <em>Prerequisites:</em></strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli137a" name="poli137a" /></a></p><p class="course-name">POLI 137A. Comparative Political Parties and Interest Groups (4)</p>
+				<p class="course-descriptions">This course serves as an introduction to the comparative study of political parties and interest groups as well as an analytical introduction to parties, interest groups, and their role in democratic representation. <strong><em>Prerequisites:</em></strong> upper-division standing.</p>
+<p class="anchor-parent"><a class="anchor" id="poli138d" name="poli138d" /></a></p><p class="course-name">POLI 138D. Special Topics in Comparative Politics (4)</p>
+				<p class="course-descriptions">An undergraduate course designed to cover various aspects of comparative politics. May be repeated for credit three times, provided each course is a separate topic, for a maximum of twelve units.</p>
+				<h3 class="course-subhead-2">International Relations </h3>
+				<p class="anchor-parent"><a class="anchor" id="poli140a" name="poli140a" /></a></p>
+				<p class="course-name">POLI 140A. International Law (4)</p>
+				<p class="course-descriptions">International law is central to the efforts to create a world order to limit armed conflict, regulate world economy, and set minimum standards for human rights. This course introduces international law and explains theories advanced by academic analysts and practitioners to explain its role. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli140b" name="poli140b" /></a></p><p class="course-name">POLI 140B. Concepts and Aspects of Revolution (4)</p>
+				<p class="course-descriptions">Introduction to the analytical and comparative study of revolutionary movements and related forms of political violence. Topics include the classical paradigm, types of revolutionary episodes, psychological theories, ideology and belief systems, coups, insurgencies, civil wars, and terrorism and revolutionary outcomes. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli140c" name="poli140c" /></a></p><p class="course-name">POLI 140C. International Crisis Diplomacy (4)</p>
+				<p class="course-descriptions">A survey of international peacekeeping and peace enforcement in civil conflicts with a simulation of international diplomacy. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli140d" name="poli140d" /></a></p><p class="course-name">POLI 140D. International Human Rights Law: Migrant Populations (4)</p>
+				<p class="course-descriptions">International migration creates a distinct set of human rights challenges. This course examines the conflict between international legal obligations and domestic politics of citizenship, human rights, asylum, and human trafficking.<strong class="italic"> Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli142a" name="poli142a" /></a></p><p class="course-name">POLI 142A. United States Foreign Policy (4)</p>
+				<p class="course-descriptions">United States foreign policy from the colonial period to the present era. Systematic analysis of competing explanations for US policies—strategic interests, economic requirements, or the vicissitudes of domestic politics. Interaction between the U.S., foreign states (particularly allies), and transnational actors are examined. <strong class="italic">Prerequisites:</strong> POLI 12 or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli142d" name="poli142d" /></a></p><p class="course-name">POLI 142D. Weapons of Mass Destruction (4)</p>
+				<p class="course-descriptions">This course provides an overview of the challenges posed by chemical, biological, radiological, and nuclear weapons. Students will learn about how these weapons work, why states seek them, and attempts to prevent proliferation. We will delve into technical and policy challenges related to these weapons, and address how CBRN weapons shape national and regional security dynamics. Efforts to restrict the proliferation of these weapons will be discussed. We will also analyze CBRN terrorism. </p>
+        <span class="course-descriptions"><p class="anchor-parent"><a class="anchor" id="poli142i" name="poli142i" /></a></p></span>
+        <p class="course-name">POLI 142I. National and International Security (4)</p>
+				<p class="course-descriptions">A survey of theories of defense policies and international security. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli142j" name="poli142j" /></a></p><p class="course-name">POLI 142J. National Security Strategy (4)</p>
+				<p class="course-descriptions">A survey of American strategies for national defense. Topics may include deterrence, coercive diplomacy, limited war, and unconventional warfare. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli142k" name="poli142k" /></a></p><p class="course-name">POLI 142K. Politics and Warfare (4)</p>
+				<p class="course-descriptions">This course offers an exploration of general theories of the origins of warfare; the impact of the state on war in the modern world; and the microfoundations of combat and compliance in the context of the costs of war and military mobilization. The course should be of special interest to students in international relations and comparative politics. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli142l" name="poli142l" /></a></p><p class="course-name">POLI 142L. Insurgency and Terrorism (4)</p>
+				<p class="course-descriptions">“Terrorism” uses “illegitimate” violence to achieve political goals. This course uses philosophical, historical, and contemporary material from distinct cultures to understand which actions are defined as “terrorist,” who uses them, why, and when, as well as the determinants of their effectiveness. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli142m" name="poli142m" /></a></p><p class="course-name">POLI 142M. US Foreign Policy/Regional Security (4)</p>
+				<p class="course-descriptions">Lectures and readings examine US foreign policy in Europe, Latin America, and East Asia with attention to current problems with specific nations (e.g., Bosnia) and issues (e.g., terrorism). This course integrates historical, comparative, and foreign perspectives on regional security dynamics. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli142n" name="poli142n" /></a></p><p class="course-name">POLI 142N. American Defense Policy (4) </p>
+				<p class="course-descriptions">An introduction to analytic techniques for assessing policy options in the field of national security. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli142p" name="poli142p" /></a></p><p class="course-name">POLI 142P. Crisis Areas in World Politics (4)</p>
+				<p class="course-descriptions">This course examines the most critical areas in contemporary world politics. While the emphasis will be placed on American involvement in each crisis, an effort will be made to acquaint the student with its historical and political background. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+<p class="anchor-parent"><a class="anchor" id="poli142q" name="poli142q" /></a></p><p class="course-name">POLI 142Q. Cold War (4)</p>
+				<p class="course-descriptions">This course explores the way in which the international rivalry between the Soviet Union and the United States affected relationships between the two powers, their allies, the Third World, and above all, their internal domestic affairs and development.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli143a" name="poli143a" /></a></p><p class="course-name">POLI 143A. War and Society (4)</p>
+				<p class="course-descriptions">How has warfighting evolved over the centuries? How has it varied across cultures? What has war been like for soldiers and civilians? How do societies mobilize for war, and how do they change in the short and long term from fighting? <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli144" name="poli144" /></a></p><p class="course-name">POLI 144. International Political Economy (4)</p>
+				<p class="course-descriptions">This course serves as an introduction to the study of international political economy. We will examine the evolution of international economic relations in trade, finance, and economic development and discuss different explanations for its likely causes and consequences.  </p>
+<p class="anchor-parent"><a class="anchor" id="poli144ab" name="poli144ab" /></a></p><p class="course-name">POLI 144AB. Selected
+		  Topics in International Political Economy (4)</p>
+				<p class="course-descriptions">This course will consider major theories purporting to explain and predict the workings of the international order from the point of view of political economy. An extended discussion of one aspect of the economic order (e.g., the multinational corporation) will serve as the test case. One quarter of economics recommended. <strong class="italic">Prerequisites:</strong> POLI 12. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli144d" name="poli144d" /></a></p><p class="course-name">POLI 144D. International Political Economy: Money and Finance (4)</p>
+				<p class="course-descriptions">Examination of effects of national policies and international collaboration on public and private international financial institutions, in particular the management of international debt crises, economic policy coordination, and the role of international lender of last resort. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli144e" name="poli144e" /></a></p><p class="course-name">POLI 144E. The Politics of International Trade (4)</p>
+		<p class="course-descriptions">Examines theories of trade and protectionism, focusing both on relations among advanced industrial nations and on relations between developed and developing countries. Topics include standard and strategic trade theory, nontariff barriers to trade, export-led growth strategies, regional trade agreements, and the future of the WTO. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli144f" name="poli144f" /></a></p><p class="course-name">POLI 144F. The Politics
+		  of International Trade and Finance (4)</p>
+				<p class="course-descriptions">Examines the welfare and distributional aspects of international trade and finance as they relate to the politics of economic policy making. Topics include: globalization in historical perspective; origins and consequences of trade policy; exchange-rate arrangements; international capital flows; currency crises; economic development. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli145a" name="poli145a" /></a></p><p class="course-name">POLI 145A. International Politics and Drugs (4)</p>
+				<p class="course-descriptions">This course examines the domestic and international aspects of the drug trade. It will investigate the drug issues from the perspectives of consumers, producers, traffickers, money launderers, and law enforcement. Course material covers the experience of the United States, Latin America, Turkey, Southeast Asia, Western Europe, and Japan. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli145c" name="poli145c" /></a></p><p class="course-name">POLI 145C. International
+		  Relations After the Cold War: Theory and Prospect (4)</p>
+				<p class="course-descriptions">The nature of international politics appears to have changed dramatically since 1989. This course applies different theoretical approaches to enhance our understanding of the new international environment, future prospects for peace and war, and current problems of foreign policy. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli146a" name="poli146a" /></a></p><p class="course-name">POLI 146A. The U.S.
+		  and Latin America: Political and Economic Relations (4)</p>
+				<p class="course-descriptions">An analytical survey of US relations with
+				  Latin America from the 1820s to the present, with particular
+				  emphasis on the post–Cold War environment. Topics include
+				  free trade and economic integration; drugs and drug trafficking;
+				  illegal migration and immigration control. Focus covers US policy, Latin
+				  American reactions, dynamics of cooperation, and options for the future. </p>
+		<p class="anchor-parent"><a class="anchor" id="poli147b" name="poli147b" /></a></p><p class="course-name">POLI 147B. Russian-American Relations (4)</p>
+                <p class="course-descriptions">A historical and topical survey of major issues in Russian-American relations, such as security arrangements in the post-Soviet space, the war on terrorism, arms control and nonproliferation, and international energy.</p>
+<p class="anchor-parent"><a class="anchor" id="poli150a" name="poli150a" /></a></p><p class="course-name">POLI 150A. Politics of Immigration (4)</p>
+				<p class="course-descriptions">Comparative analysis of attempts by the United States and other industrialized countries to initiate, regulate and reduce immigration from Third World countries. Social and economic factors shaping outcomes of immigration policies, public opinion toward immigrants, anti-immigration movements, and immigration policy reform options in industrialized countries. <strong class="italic">Prerequisites:</strong> upper-division standing required. </p>
+				<a name="poli151" id="poli151"></a></p><p class="course-name">POLI 151. International Organizations (4)</p>
+                <p class="course-descriptions">Surveys the theory and function
+                    of IOs (UN, NATO, EU, World Bank, IMF) in promoting international
+                    cooperation in security, peacekeeping, trade, environment,
+                    and human rights. We
+                  discuss why IOs exist, how they work, and what challenges they
+                  face. <strong class="italic">Prerequisites:</strong> POLI 12, upper-division
+                  standing.</p>
+                <p class="anchor-parent"><a class="anchor" id="poli153" name="poli153" /></a></p>
+                <p class="course-name">POLI 153. The European Union in World Politics (4)</p>
+                <p class="course-descriptions">This course introduces students to the role of the EU as a foreign policy actor. Topics include the development of the EU’s trade policy, foreign aid policy, security policy, as well as case studies of EU foreign policy.</p>
+<p class="anchor-parent"><a class="anchor" id="poli154" name="poli154" /></a></p>
+                                <p class="course-name">POLI 154. Special Topics in International Relations (4)</p>
+				<p class="course-descriptions">An undergraduate course designed to cover various aspects of international relations. May be repeated for credit two times, provided each course is a separate topic, for a maximum of twelve units.</p>
+				<h3 class="course-subhead-2">Policy Analysis </h3>
+				<p class="anchor-parent"><a class="anchor" id="poli160aa" name="poli160aa" /></a></p><p class="course-name">POLI 160AA. Introduction to Policy Analysis (4)</p>
+				<p class="course-descriptions">(Same as USP 101) This course will explore the process by which the preferences of individuals are converted into public policy. Also included will be an examination of the complexity of policy problems, methods for designing better policies, and a review of tools used by analysts and policy makers. <strong class="italic">Prerequisites:</strong> POLI 10 or 11. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli160ab" name="poli160ab" /></a></p><p class="course-name">POLI 160AB. Introduction to Policy Analysis (4)</p>
+				<p class="course-descriptions">In this course, students will use their knowledge of the political and economic foundations of public policy making to conduct research in a wide variety of public policy problems. <strong class="italic">Prerequisites:</strong> POLI 160AA. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli162" name="poli162" /></a></p><p class="course-name">POLI 162. Environmental Policy (4)</p>
+				<p class="course-descriptions">This course will explore contemporary environmental issues such as global warming, endangered species, and land use. Students will be asked to analyze various policy options and to write case analyses. Policies may be debated in class. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli163" name="poli163" /></a></p><p class="course-name">POLI 163. Analyzing Politics (4)</p>
+				<p class="course-descriptions">Politics are understood as the combination of individual preferences and decisions into collective choices. What are the issues involved in aggregating individual preferences, what is the choice of rules—formal and informal—for doing so. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli164" name="poli164" /></a></p><p class="course-name">POLI 164. The Politics of Public Policy (4)</p>
+				<p class="course-descriptions">How do politics determine policy? In this course, students will be introduced to the skill of conducting a cost-benefit analysis, and then will discuss how political ideas, interests, and institutions often move policy outcomes away from those based on cost-benefit analysis.</p>
+<p class="anchor-parent"><a class="anchor" id="poli165" name="poli165" /></a></p><p class="course-name">POLI 165. Special Topic: Policy Analysis (4)</p>
+				<p class="course-descriptions">An undergraduate course designed to cover various aspects of policy analysis. May be repeated for credit two times, provided each course is a separate topic, for a maximum of twelve units.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli168" name="poli168" /></a></p><p class="course-name">POLI 168. Policy Assessment (4)</p>
+				<p class="course-descriptions">The use of real data to assess policy alternatives. Introduction to benefit/cost analysis, decision theory, and the valuation of public goods. Applications to health, environmental, and regulatory economic policy making. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli170a" name="poli170a" /></a></p><p class="course-name">POLI 170A. Applied Data Analysis for Political Science  (4)</p>
+		<p class="course-descriptions">This course is an advanced introductory course for undergraduates. It will acquaint students with statistical methodology as it is used in the social sciences. It is assumed that the student has the mathematical background to progress through the materials a bit faster than in a true introductory course. <strong><em>Prerequisites</em></strong><em>:</em> POLI 30 or POLI 30D or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli171" name="poli171" /></a></p><p class="course-name">POLI 171. Making Policy with Data (4)</p>
+				<p class="course-descriptions">This class explores how we can make policy recommendations using data. We attempt to establish causal relationships between policy intervention and outcomes based on statistical evidence. Hands-on examples will be provided throughout the course. <strong class="italic">Prerequisites: </strong>POLI 5 or 5D or ECON 5 and POLI 30 or 30D.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli172" name="poli172" /></a></p><p class="course-name">POLI 172. Advanced Social Data Analytics (4)</p>
+				<p class="course-descriptions">An accelerated course in computer programming and data analytics for collecting, analyzing, and understanding data in the social world. Students engage in hands-on learning with applied social science problems, developing statistical and computational skills for sophisticated data manipulation, analysis, visualization. <strong class="italic">Prerequisites:</strong> POLI 5 or 5D or ECON 5 and POLI 30 or 30D.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli173" name="poli173" /></a></p><p class="course-name">POLI 173. Social Network Analysis (4)</p>
+				<p class="course-descriptions">This class introduces tools for analyzing social networks including graph visualization, egocentric and sociocentric network measures, network simulation, and data management.<strong> <em>Prerequisites:</em></strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli179" name="poli179" /></a></p><p class="course-name">POLI 179. Special Topics in Political Science Methodology (4)</p>
+				<p class="course-descriptions">Special topics course in quantitative methods for political science and broader social sciences. May be taken for credit up to three times.<strong> <em>Prerequisites:</em></strong> upper-division standing.</p>
+             
+<h3 class="course-subhead-2">Special Studies </h3>
+				<p class="anchor-parent"><a class="anchor" id="poli191a" name="poli191a" /></a></p><p class="anchor-parent"><a class="anchor" id="poli191b" name="poli191b" /></a></p>
+				<p class="course-name">POLI 191A–B.
+		  Senior Honors Seminar: Frontiers of Political Science (4-4)</p>
+				<p class="course-descriptions">This course is open only to seniors interested in qualifying for departmental honors. Admission to the course will be determined by the department. Each student will write an honors essay under the supervision of a member of the faculty. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli192" name="poli192" /></a></p><p class="course-name">POLI 192. Senior Seminar in Political Science (1)</p>
+				<p class="course-descriptions">The Senior Seminar is designed to allow senior undergraduates to meet with faculty members in a small group setting to explore an intellectual topic in political science at the upper-division level. Topics will vary from quarter to quarter. Senior Seminars may be taken for credit up to four times, with a change in topic and permission of the department. Enrollment is limited to twenty students, with preference given to seniors. <strong class="italic">Prerequisites:</strong> department stamp and/or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli194" name="poli194" /></a></p>
+				<p class="course-name">POLI 194. Research Seminar in Washington, DC (4)</p>
+				<p class="course-descriptions">(Same as COMM 194, USP 194, HITO 193, SOCI 194, COGS 194) Course attached to six-unit internship taken by students participating in the UCDC Program. Involves weekly seminar meetings with faculty and teaching assistant and a substantial research paper. <strong class="italic">Prerequisites:</strong> participating in UCDC Program. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli194ra" name="poli194ra" /></a></p><p class="course-name">POLI 194RA. Research Apprenticeship Seminar (4)</p>
+				<p class="course-descriptions">Preparation of a major paper from research conducted while participating in the Research Apprenticeship (POLI 198RA). Presentations to and participation in weekly seminar meetings also required. Students can enroll in POLI 194RA only if they have previously taken or are simultaneously enrolled in 198RA.<strong class="italic"> Prerequisites:</strong> department approval. Students must apply for the Research Apprenticeship program and be approved to enroll. Participants must be majors in political science with junior or senior standing and a GPA of 3.5 or higher in all political science courses taken at UC San Diego. Individual projects may require other prerequisite training, such as POLI 30.</p>
+<p class="anchor-parent"><a class="anchor" id="poli194sd" name="poli194sd" /></a></p><p class="course-name">POLI 194SD. Local Internship Research Seminar (4)</p>
+				<p class="course-descriptions">The Local Internship Research Seminar will be paired with a Local Internship in Political Science (POLI 197SD) in the same quarter. The linkage to this research seminar will provide advanced academic training in analytic skills appropriate to the internship experience and requires a substantial paper based on original research. <strong class="italic">Prerequisites:</strong> department approval and consent of instructor. <span class="italic"><strong>Corequisites:</strong></span> POLI 197SD.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli195" name="poli195" /></a></p><p class="course-name">POLI 195. Apprentice Teaching (4)</p>
+		<p class="course-descriptions">Teaching and tutorial activities associated with courses and seminars. Limited to advanced political science majors with at least a 3.5 GPA in upper-division political science courses. P/NP grades only. May be taken for credit two times, but only four units may be used for major credit. <strong class="italic">Prerequisites:</strong> department approval. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli197i" name="poli197i" /></a></p><p class="course-name">POLI 197I. Political Science Washington Internship (6, 8)</p>
+				<p class="course-descriptions">This internship is attached to the UCDC Program. Students participating in the UCDC Program are placed in an internship in the Washington, DC, area requiring approximately seventeen to twenty-three hours per week. <strong class="italic">Prerequisites:</strong> must be enrolled in the UCDC Program; department stamp required. </p>
+				
+				<p class="anchor-parent"><a class="anchor" id="poli197sd" name="poli197sd" /></a></p><p class="course-name">POLI 197SD. Local Internship in Political Science (4)</p>
+				<p class="course-descriptions">Individual placements for field learning integrated with political science. A written contract involving all parties with learning objectives, a project outline, and a means of supervision and progress evaluation must be filed with the faculty adviser and department undergraduate coordinator prior to the beginning of the internship. P/NP grades only. May be taken for credit two times. <strong class="italic">Prerequisites:</strong> ninety units completed; 2.5 minimum cumulative GPA overall and 3.0 in political science; POLI 30 and at least two upper-division courses in political science. Department approval and consent of instructor. <span class="italic"><strong>Corequisites:</strong></span> POLI 194SD.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli198" name="poli198" /></a></p><p class="course-name">POLI 198. Directed Group Study (2-4)</p>
+				<p class="course-descriptions">Directed group study in an area not presently covered by the departmental curriculum. P/NP grades only. <strong class="italic">Prerequisites:</strong> department approval.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli198ra" name="poli198ra" /></a></p><p class="course-name">POLI 198RA. Research Apprenticeship (4) </p>
+				<p class="course-descriptions">Students conduct directed research as part of a principal investigator&rsquo;s project and under the supervision of a department mentor. Students may conduct research with a department mentor for up to two quarters. This course is part of the Research Apprenticeship program in political science. P/NP grades only. May be taken for credit two times.<strong class="italic"> Prerequisites:</strong> department approval. Students must apply for the Research Apprenticeship program and be approved to enroll. Participants must be majors in political science with junior or senior standing and a GPA of 3.5 or higher in all political science courses taken at UC San Diego. Individual projects may require other prerequisite training, such as POLI 30.</p>
+<p class="anchor-parent"><a class="anchor" id="poli199" name="poli199" /></a></p><p class="course-name">POLI 199. Independent Study for Undergraduates (2 or 4)</p>
+				<p class="course-descriptions">Independent reading in advanced political science by individual students. (P/NP grades only.) <strong class="italic">Prerequisites:</strong> consent of instructor. </p>
+				<h2 class="course-subhead-1">Graduate </h2>
+				<p class="course-note">All graduate courses are categorized as either seminars or independent study. </p>
+				<h3 class="course-subhead-2">Seminars </h3>
+				<p class="anchor-parent"><a class="anchor" id="poli200a" name="poli200a" /></a></p><p class="course-name">POLI 200A. Foundations of Political Science (4)</p>
+				<p class="course-descriptions">An introduction to the theoretical concepts in the discipline of political science that are commonly used across various subfields. Each week will introduce the core concept(s) and discuss applications from several, if not all subfields in the department. <strong class="italic">Prerequisites:</strong> graduate student standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli200b" name="poli200b" /></a></p><p class="course-name">POLI 200B. Democracy (4)</p>
+				<p class="course-descriptions">An overview of the normative and positive issues associated with modern democracies. The appeal and the social, political, and economic arrangements of democracies will be explored. <strong class="italic">Prerequisites:</strong> graduate student standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli200c" name="poli200c" /></a></p><p class="course-name">POLI 200C. States and Markets (4)</p>
+				<p class="course-descriptions">An overview of the normative and positive issues associated with decentralized (market) versus centralized (political) mechanics of allocation. The appropriate role of government in the economy will be explored. <strong class="italic">Prerequisites:</strong> graduate student standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli203a" name="poli203a" /></a></p><p class="course-name">POLI 203A. Analytic Theory I (4)</p>
+				<p class="course-descriptions">The first in the two-course sequence on the essentials of game theory and fundamental concepts in the social sciences. This course examines the philosophy of modeling, and introduces social choice theory, decision-making under uncertainty, and games of complete information. Applications include representation and democracy, social dilemmas and collective action, principal-agent problems, self-enforcing agreements, and institutions as equilibria.<strong> <em>Prerequisites:</em></strong> graduate student standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli203b" name="poli203b" /></a></p><p class="course-name">POLI 203B. Analytic Theory II (4)</p>
+				<p class="course-descriptions">The second in the two-course sequence on the essentials of game theory and fundamental concepts in the social sciences. This course introduces multistage and repeated games, as well as static and dynamic games with incomplete information. Applications include axiomatic and strategic models of negotiations, bargaining in legislatures, auctions, adverse selection problems, market failures, signaling and screening, reputation, conventions, and cheap talk.<strong> <em>Prerequisites:</em></strong> POLI 203A, graduate student standing.</p>
+<p class="anchor-parent"><a class="anchor" id="poli204a" name="poli204a" /></a></p><p class="course-name">POLI 204A. Research Design (4)</p>
+				<p class="course-descriptions">This course will study various approaches to knowledge accumulation in social science. A basic outline of scientific method will be used to examine the difference between theories as assumptions and axioms and hypotheses as “if-then” statements derived from theory. Experimental, quasi-experimental, and qualitative designs will be discussed. <strong class="italic">Prerequisites:</strong> graduate student standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli204b" name="poli204b" /></a></p><p class="course-name">POLI 204B. Quantitative Methods I (4)</p>
+				<p class="course-descriptions">The use of quantitative methods (particularly multiple regression and its extensions) in political science. Emphasis on understanding the methods and using them in political science applications. <strong class="italic">Prerequisites:</strong> graduate student standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli204c" name="poli204c" /></a></p><p class="course-name">POLI 204C. Game Theory 1 (4)</p>
+				<p class="course-descriptions">This course introduces students to the rudiments of decision theory and game theory. Emphasis will be placed on modeling and solving games. <strong class="italic">Prerequisites:</strong> graduate student standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli205" name="poli205" /></a></p><p class="course-name">POLI 205. Game Theory II (4)</p>
+		<p class="course-descriptions">This course covers advanced topics in game theory. Covered topics will include incomplete information in static and dynamic games, infinitely repeated games, and bargaining games. Emphasis will be placed on advanced equilibrium concepts, and applications of interest to political scientists. <strong class="italic">Prerequisites:</strong> department approval. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli210aa" name="poli210aa" /></a></p>
+				<p class="course-name">POLI 210AA. Systems
+		  of Political Thought: Thucydides to Rousseau (4)</p>
+				<p class="course-descriptions">This course is a preparation for the field examination in political theory. It will provide an intensive and critical introduction to European political thought from Thucydides to Rousseau. Some of the secondary literature on this period will also be explored. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli210ab" name="poli210ab" /></a></p>
+				<p class="course-name">POLI 210AB. Systems
+		  of Political Thought: Kant to Rawls  (4)</p>
+		<p class="course-descriptions">This course is a preparation for the field examination in political theory. It will provide an intensive and critical introduction to European political thought from Kant to Rawls. Some of the secondary literature on this period will also be explored. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli212" name="poli212" /></a></p>
+		<p class="course-name">POLI 212. Contemporary Sociological Theory (4) </p>
+				<p class="course-descriptions">(Same as Soc/G 202.) Themes important for social theory at the turn of the twenty-first century: Marxism, Gramsci, Althusser, critical theory (Adorno, Habermas), interpretation (Geertz), social systems (Parson), poststructuralism (Foucault), postmodernism, and social constructivism (Bourdieu). <strong class="italic">Prerequisites:</strong> graduate standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli213" name="poli213" /></a></p><p class="course-name">POLI 213. Culture and Political Theory (4)  </p>
+				<p class="course-descriptions">(Same as LTCO 287.) A comparative approach of political theory based on historical periods (with the tools of new historicism), various cultures (inspired by anthropological research), and referring to the most important philosophical thinkers from Western and non-Western traditions. <strong class="italic">Prerequisites:</strong> graduate standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli214" name="poli214" /></a></p><p class="course-name">POLI 214. Marxist and Post-Marxist Political Philosophy (4)</p>
+				<p class="course-descriptions">An examination of selected texts in Marxist and post-Marxist political philosophy, with a focus on the theme of individual and collective identity including issues concerning alienation, consciousness, and ideology. <strong class="italic">Prerequisites:</strong> graduate standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli215" name="poli215" /></a></p><p class="course-name">POLI 215. Social Norms Change and Development (4)</p>
+				<p class="course-descriptions">Study of types of social practices, how to measure them, and how to change them. Illustrated with examples such as footbinding, female genital cutting, urban violence in Colombia, Serbian student revolution, early female marriage, and other adverse gender norms.<strong> <em>Prerequisites:</em></strong> graduate standing.</p>
+<p class="anchor-parent"><a class="anchor" id="poli216" name="poli216" /></a></p><p class="course-name">POLI 216. Contemporary Liberal and Democratic Theory (4)</p>
+				<p class="course-descriptions">Normative approaches to liberty, equality, justice, and democracy, mostly Anglo-American and empirical approaches to justice. Thinkers such as Rawls, Habermas, Nozick, Dworkin, Raz, Roemer, Elster, Ostrom, Bowles, and Gintis may be considered. <strong class="italic">Prerequisites:</strong> graduate standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli219" name="poli219" /></a></p><p class="course-name">POLI 219. Special Topics in Political Theory (4)</p>
+				<p class="course-descriptions">This seminar is an examination of the different approaches to the study of political theory. Issues and research areas will vary each time the course is offered. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli220a" name="poli220a" /></a></p><p class="course-name">POLI 220A. Comparative Politics: State and Society (4)</p>
+				<p class="course-descriptions">This course will provide a general literature review in comparative politics to serve as preparation for the field examination. <strong class="italic">Prerequisites:</strong> graduate standing, or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli220b" name="poli220b" /></a></p><p class="course-name">POLI 220B. Comparative Politics: Institutions (4)</p>
+				<p class="course-descriptions">This is a second course in comparative politics designed as a preparation for the field examination. It will focus on the comparative study of political institutions. <strong class="italic">Prerequisites:</strong> graduate standing, or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli220c" name="poli220c" /></a></p><p class="course-name">POLI 220C. Origins of the State (4)</p>
+				<p class="course-descriptions">Survey of theories, with empirical cases explaining origins of the modern state. <strong class="italic">Prerequisites:</strong> graduate standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli221" name="poli221" /></a></p><p class="course-name">POLI 221. Clientelism and Corruption (4)</p>
+				<p class="course-descriptions">This graduate seminar explores clientelism and corruption. We first investigate clientelism, covering topics such as strategies during elections, the role of brokers, clientelism beyond campaigns, and shifts away from clientelism. We then examine corruption, covering topics such as grand corruption, petty corruption, and causes and consequences of corruption. The course focuses on developing countries, with some comparisons to advanced economies. <strong><em>Prerequisites:</em></strong> graduate standing.</p>
+<p class="anchor-parent"><a class="anchor" id="poli223a" name="poli223a" /></a></p><p class="course-name">POLI 223A. Comparative Parliamentary Studies (4)</p>
+				<p class="course-descriptions">A survey of the academic literature on parliamentary studies, comparing the research on legislative elections, behavior, and organization in American, European, and Asian democracies. The course will also compare various approaches to studying legislative activity. <strong class="italic">Prerequisites:</strong> graduate standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli224" name="poli224" /></a></p><p class="course-name">POLI 224. The Politics of Democratization (4)</p>
+				<p class="course-descriptions">A survey of theories explaining the processes of democratization and democratic stability. <strong class="italic">Prerequisites:</strong> graduate standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli224a" name="poli224a" /></a></p><p class="course-name">POLI 224A. Elections in Consolidating Democracies (4)</p>
+				<p class="course-descriptions">Course looks at elections in consolidating democracies with an eye to evaluating existing theories of elections with new data. Also explores new empirical patterns in countries around the world, especially Africa, Latin America, Eastern Europe, and the Soviet successor states. <strong class="italic">Prerequisites:</strong> graduate student standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli225" name="poli225" /></a></p><p class="course-name">POLI 225. Political Violence (4)</p>
+				<p class="course-descriptions">Contending analysis of the types, strategies, causes, processes, and consequences of political violence such as revolutions, insurgencies, and ethnic conflict. <strong class="italic">Prerequisites:</strong> graduate standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli225b" name="poli225b" /></a></p><p class="course-name">POLI 225B. The Nation-State (4)</p>
+		<p class="course-descriptions">A reading and research seminar on the origins, development, and politics of nationalism and the nation-state. <strong class="italic">Prerequisites:</strong> graduate standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli227" name="poli227" /></a></p><p class="course-name">POLI 227. Comparative Political Economy (4)</p>
+				<p class="course-descriptions">An introduction to seminal and current research in comparative political economy. Course explores how various political institutions and processes affect economic outcomes (e.g. growth, inequality, and redistribution) and how the economy influences politics (e.g. democratization, electoral institutions, and welfare states). <strong class="italic">Prerequisites:</strong> POLI 200C or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli228" name="poli228" /></a></p><p class="course-name">POLI 228. Historical Political Economy (4)</p>
+				<p class="course-descriptions">Historical political economy (HPE) is a thriving field that employs quantitative historical datasets and qualitative case knowledge to study a wide range of political economy questions. Students will gain exposure to the frontiers of HPE research, and will learn and apply historical research methods to a research project of their choice.<strong> <em>Prerequisites:</em></strong> graduate standing.</p>
+<p class="anchor-parent"><a class="anchor" id="poli229" name="poli229" /></a></p><p class="course-name">POLI 229. Special Topics in Comparative Politics (4)</p>
+				<p class="course-descriptions">This seminar is an examination of the different approaches to the study of comparative politics. Issues and research areas will vary each time the course is offered. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli231" name="poli231" /></a></p><p class="course-name">POLI 231. Political Economy of Development (4)</p>
+				<p class="course-descriptions">This course explores key factors that shape the development trajectory of nations, drawing on work from political science, economics, and sociology. We will examine various aspects of development, with a particular focus on economic growth, and how political institutions influence development outcomes. Topics covered include the relationship between democracy and development, the role of the state, consequences of natural resources and corruption, and the impact of foreign aid.<strong> <em>Prerequisites:</em></strong> graduate standing.</p>
+<p class="anchor-parent"><a class="anchor" id="poli231e" name="poli231e" /></a></p><p class="course-name">POLI 231E. Politics of Development (4)</p>
+				<p class="course-descriptions">This course provides an overview of previous and current efforts to explain political and economic development in non-Western settings.</p>
+<p class="anchor-parent"><a class="anchor" id="poli232" name="poli232" /></a></p>
+				<p class="course-name">POLI 232. International Organization (4)  </p>
+				<p class="course-descriptions">This course will study various theories purporting to explain why states succeed or fall at creating institutions by international governance and what effects, if any, those institutions have. <strong class="italic">Prerequisites:</strong> graduate standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli235a" name="poli235a" /></a></p><p class="course-name">POLI 235A. Latin American Politics (4)</p>
+				<p class="course-descriptions">Introductory reading seminar on Latin American politics to acquaint students with leading schools of thought, provide critical perspective on premises and methodology, and identify themes for further inquiry. Themes include authoritarianism, revolution, democratization, regional conflict, and emergence of middle-level powers. <strong class="italic">Prerequisites:</strong> graduate standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli236" name="poli236" /></a></p><p class="course-name">POLI 236. Immigration Policy and Politics (4)</p>
+				<p class="course-descriptions">An interdisciplinary seminar covering origins, consequences, and characteristics of worker migration from Third World countries (especially Mexico, Central America, and the Caribbean basin) to the United States, from the nineteenth century to the present. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli240" name="poli240" /></a></p><p class="course-name">POLI 240. International Relations Theory (4)</p>
+				<p class="course-descriptions">A survey of the principal theories and approaches to the study of international relations. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli242" name="poli242" /></a></p><p class="course-name">POLI 242. The European Union and Global Governance (4)</p>
+		<p class="course-descriptions">This course explores contemporary research on European Union politics from a comparative and international relations perspective, and links this research to broader questions of global governance. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. </p>
+		<p class="anchor-parent"><a class="anchor" id="poli242d" name="poli242d" /></a></p><p class="course-name">POLI 242D. Weapons of Mass Destruction (4)</p>
+		<p class="course-descriptions">This course provides an overview of the challenges posed by chemical, biological, radiological, and nuclear weapons. Students will learn about how these weapons work, why states seek them, and attempts to prevent proliferation. We will delve into technical and policy challenges related to these weapons, and address how CBRN weapons shape national and regional security dynamics. Efforts to restrict the proliferation of these weapons will be discussed. We will also analyze CBRN terrorism. May be coscheduled with POLI 142D. <strong><em>Prerequisites:</em></strong> graduate standing.</p>
+<p class="anchor-parent"><a class="anchor" id="poli243" name="poli243" /></a></p><p class="course-name">POLI 243. International Security (4)</p>
+				<p class="course-descriptions">A colloquium surveying the major theoretical controversies in the study of international and national security. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli244" name="poli244" /></a></p><p class="course-name">POLI 244. International Institutions (4) </p>
+				<p class="course-descriptions">This course exposes students to contemporary research on international institutions. What leads nations to cede sovereignty? How do international institutions obtain a measure of authority in world affairs? What makes an institution &ldquo;successful&rdquo;? We&rsquo;ll also examine institutional design. <strong class="italic">Prerequisites:</strong> graduate standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli244a" name="poli244a" /></a></p><p class="course-name">POLI 244A. European Integration (4)</p>
+				<p class="course-descriptions">This seminar provides perspectives on the theories and politics of European integration. Analysis will focus on the development of the European Union, the functioning of core institutions, and the challenges of creating a supranational political regime. <span class="italic"><strong>Prerequisites:</strong> </span>graduate standing or consent of instructor.</p>
+<p class="anchor-parent"><a class="anchor" id="poli245" name="poli245" /></a></p><p class="course-name">POLI 245. International Political Economy (4)</p>
+				<p class="course-descriptions">A seminar surveying the major theoretical controversies in the study of international political economy. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli245a" name="poli245a" /></a></p><p class="course-name">POLI 245A. Political Economy of Regional Integration (4)</p>
+		<p class="course-descriptions">This graduate course surveys theories of regional political and economic integration and international cooperation from a comparative and international relations perspective. We compare and contrast the European Union and other regional organizations. <strong class="italic">Prerequisites:</strong> graduate standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli247a" name="poli247a" /></a></p><p class="course-name">POLI 247A. Quantitative International Relations (4)</p>
+				<p class="course-descriptions">Explores empirical research in international relations with special emphasis on international conflict. Topics covered include theories on the causes of war, the distribution of power and conflict, formal and informal alignment, interdependence and conflict, linkages between domestic and international processes, and issues of research design. Students who have previously taken 247 may not take this course for credit. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli247b" name="poli247b" /></a></p><p class="course-name">POLI 247B. Formal Models in International Relations (4)</p>
+				<p class="course-descriptions">Explores formal analytic and primarily game-theoretic research in international relations with emphasis on conflict and bargaining. Topics include: causes of war and peace, conventional and nuclear deterrence, crisis bargaining, arms race, and two-level games. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli247c" name="poli247c" /></a></p><p class="course-name">POLI 247C. History of International Relations (4)</p>
+				<p class="course-descriptions">This course is a survey of the history of international relations from 1618 to 1945. The focus is on diplomacy and war-fighting in their social, economic, political, cultural, and technological contexts. Formative conflicts will be examined in detail. <strong class="italic">Prerequisites:</strong> 240, 247A, and 247B; graduate standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli248" name="poli248" /></a></p><p class="course-name">POLI 248. Special Topics in International Relations (4)</p>
+				<p class="course-descriptions">(Same as IRGN 290) This seminar is an examination of the different approaches to the study of international relations. Issues and research areas will vary each time the course is offered. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli250" name="poli250" /></a></p><p class="course-name">POLI 250. The Politics of Race, Ethnicity, and Immigration (4)</p>
+				<p class="course-descriptions">This course examines the interplay between racial/ethnic identity and politics. How do race and ethnicity become politicized? What role does ethnic or racial identity play in political behavior and decision-making processes? To what extent do political institutions and institutional design reinforce the salience of ethnic or racial identity in politics? We will be taking a comparative approach to this topic, and cover readings in both American politics and comparative politics literature. <strong><em>Prerequisites:</em></strong> graduate standing.</p>
+<p class="anchor-parent"><a class="anchor" id="poli251" name="poli251" /></a></p><p class="course-name">POLI 251. American Political Institutions (4)</p>
+				<p class="course-descriptions">A critical examination of major contributions to the theoretical and empirical literature on the US Congress, presidency, and federal bureaucracy. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli252" name="poli252" /></a></p><p class="course-name">POLI 252. American Politics: Behavior (4) </p>
+				<p class="course-descriptions">Theoretical and empirical perspectives on voting and other forms of political participation, parties, interest groups, and public opinion in the United States. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli253" name="poli253" /></a></p><p class="course-name">POLI 253. Research in State Politics (4)</p>
+				<p class="course-descriptions">This seminar will survey the existing literature in state politics with an eye toward proposing new research designs. Topics will include the variation across states in electoral systems, campaign finance laws, political culture, legislative institutions, judicial arrangements, and policy outcomes. <strong><span class="italic">Prerequisites</span></strong><span class="italic"><strong>:</strong></span> graduate standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli254" name="poli254" /></a></p><p class="course-name">POLI 254. American Political Development (4)</p>
+				<p class="course-descriptions">This course examines the historical evolution of the American state with particular attention to theories of political development. Special topics include the development of the party system, electoral and policy realignments, and the evolution of national political institutions. <strong class="italic">Prerequisites:</strong> graduate standing in any discipline of the social sciences or humanities or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli255" name="poli255" /></a></p><p class="course-name">POLI 255. Urban Politics (4)</p>
+				<p class="course-descriptions">Examines central works on the development of political institutions in US cities; analyses of community power structures; who governs, why, and to what ends; processes and prospects for minority empowerment; the prominence of “growth machines”; the political economy of contemporary cities. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli256" name="poli256" /></a></p><p class="course-name">POLI 256. Race, Class, and Institutions in American Political Economy (4)</p>
+				<p class="course-descriptions">This course will explore how institutions address and/or perpetuate racial, ethnic, and economic inequality in the U.S. <strong><em>Prerequisites:</em></strong> graduate standing.</p>
+<p class="anchor-parent"><a class="anchor" id="poli257" name="poli257" /></a></p><p class="course-name">POLI 257. Voting and Elections (4)</p>
+				<p class="course-descriptions">This course is designed to acquaint graduate students with the central themes and issues in the study of voting in national elections. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli259" name="poli259" /></a></p><p class="course-name">POLI 259. Special Topics in American Politics (4)</p>
+				<p class="course-descriptions">This seminar is an examination of the different approaches to the study of American politics. Issues and research areas will vary each time the course is offered. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli260" name="poli260" /></a></p><p class="course-name">POLI 260. Social Science Replication (4)</p>
+				<p class="course-descriptions">The purpose of this class is to replicate new empirical research in the social sciences. The class meets weekly and will begin with two lectures introducing replication tools and best practices. Thereafter, pairs of students will take turns replicating and extending a working paper by an established political scientist—normally a visitor to UC San Diego—and will present their findings in front of the author. Through such reverse engineering, students will learn how to do excellent quantitative work. <strong><em>Prerequisites</em></strong><em>:</em> POLI 204B and POLI 270 and POLI 271; graduate standing.</p>
+<p class="anchor-parent"><a class="anchor" id="poli270" name="poli270" /></a></p><p class="course-name">POLI 270. Mathematical and Statistical Foundations (4)</p>
+				<p class="course-descriptions">This course reviews essential calculus and linear algebra and introduces probability theory (probability rules, random variables, univariate and multivariate distributions) and mathematical statistics (sampling distributions, estimation and inference frameworks). <strong class="italic">Prerequisites:</strong> graduate standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli271" name="poli271" /></a></p><p class="course-name">POLI 271. Advanced Statistical Applications (4)</p>
+				<p class="course-descriptions">Use of advanced quantitative techniques in political science. Students will use political science data to complete small exercises and a major project. Students may not receive credit for both 271B and 271. <strong class="italic">Prerequisites:</strong> 204B and 270; graduate standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli272" name="poli272" /></a></p><p class="course-name">POLI 272. Bayesian Methods (4)</p>
+				<p class="course-descriptions">Provides students a solid understanding of Bayesian inference and Markov chain Monte Carlo methods. Topics covered include Bayesian treatment of the linear model, Markov chain Monte Carlo methods, assessing model adequacy, and hierarchical models. <strong class="italic">Prerequisites:</strong> graduate standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli273" name="poli273" /></a></p><p class="course-name">POLI 273. Causal Inference (4)</p>
+				<p class="course-descriptions">This course covers designs and methods of causal inference, including randomized experiments, cross-sectional and longitudinal designs, and other tools such as sensitivity analysis and randomization inference. These methods are illustrated with examples in political science and positive political economy. <strong class="italic">Prerequisites:</strong> graduate standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli274" name="poli274" /></a></p><p class="course-name">POLI 274. Text as Data (4)</p>
+				<p class="course-descriptions">This class explores statistical and computational methods to enable students to use text as a data source in the social sciences. Hands-on examples and a final project will equip students to work with text data in their own research. <strong class="italic">Prerequisites:</strong> graduate standing.</p>
+<p class="anchor-parent"><a class="anchor" id="poli275" name="poli275" /></a></p><p class="course-name">POLI 275. Interviews, Survey Design, and Sampling (4) </p>
+				<p class="course-descriptions">This course covers advanced topics in the design and implementation of field surveys and interviews. Questionnaire design and survey techniques for sensitive topics such as list experiments will be developed, as well as sampling methodologies to achieve representivity.</p>
+				<p class="anchor-parent"><a class="anchor" id="poli276" name="poli276" /></a></p><p class="course-name">POLI 276. Qualitative Methods (4)</p>
+				<p class="course-descriptions">Topics include concept formation; set theoretic and QCA approaches; within-case vs. cross-case analysis; the logic of case selection; counterfactuals; the use of narrative; primary, secondary, archival, and interview source material; comparative-historical analysis; and ethnography. Attention will be given to how qualitative approaches can be used to test game-theoretic models and strengthen casual inference in econometric and experimental designs. Reading intensive. <strong><em>Prerequisites:</em></strong> graduate standing.</p>
+<p class="anchor-parent"><a class="anchor" id="poli278" name="poli278" /></a></p><p class="course-name">POLI 278. Political Economy Models of Elections (4)</p>
+				<p class="course-descriptions">This course introduces the formal literature on economic models of voting and electoral politics. It reviews models that look at elections as I) mechanisms for preference aggregation, II) mechanisms for information aggregation, and III) mechanisms for selecting and incentivizing politicians. <strong class="italic">Prerequisites: </strong>graduate standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli279" name="poli279" /></a></p>
+				<p class="course-name">POLI 279. Special Topics in Methodology (4)</p>
+				<p class="course-descriptions">This course offers selected topics in quantitative methodology. Content may vary each time the course is offered. May be taken for credit three times. <strong class="italic">Prerequisites: </strong>graduate standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli280" name="poli280" /></a></p><p class="course-name">POLI 280. Workshop: International Law and Regulation (4)</p>
+		<p class="course-descriptions">Examination of recent research in international law and regulation: development and presentation of research projects by graduate students; presentation of research by faculty. Third-year students present dissertation prospectus, candidates make yearly presentations of dissertation research. S/U grades only. May be taken for credit three times as topics vary. <span class="italic"><strong>Prerequisites: </strong></span>graduate standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli281" name="poli281" /></a></p><p class="course-name">POLI 281. Workshop: American Politics (4) </p>
+				<p class="course-descriptions">Examination of recent research in American politics: development and presentation of research projects by graduate students, presentations of research by faculty. Third year students present dissertation prospectus; candidates make yearly presentations of dissertation research. May be taken for credit three times. <strong class="italic">Prerequisites:</strong> graduate standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli282" name="poli282" /></a></p>
+				<p class="course-name">POLI 282. Workshop: Comparative Politics (4)</p>
+				<p class="course-descriptions">Examination of recent research in comparative politics, development and presentation of research projects by graduate students; presentations of research projects by faculty. Third-year students present dissertation prospectus; candidates make yearly presentations of dissertation research. May be taken for credit three times. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli283" name="poli283" /></a></p><p class="course-name">POLI 283. Workshop: International Relations (4)</p>
+				<p class="course-descriptions">Examination of recent research in international relations, development and presentation of research projects by graduate students, presentations of research projects by faculty. Third year students present dissertation prospectus; candidates make yearly presentation of dissertation research. May be taken for credit three times. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli285" name="poli285" /></a></p><p class="course-name">POLI 285. Workshop: Political Theory (4)  </p>
+				<p class="course-descriptions">Examination of recent research in political theory: development and presentation of research projects by graduate students, presentation of research by faculty. Third year students present dissertation prospectus; candidates make yearly presentations of dissertation research. May be taken for credit three times. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli286" name="poli286" /></a></p><p class="course-name">POLI 286. Workshop: Methodology (4)  </p>
+				<p class="course-descriptions">Examination of recent research in political methodology; development and presentation of research projects by graduate students, presentation of research by faculty. Third year students present dissertation prospectus; candidates make yearly presentations of dissertation research. May be taken for credit three times. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli287" name="poli287" /></a></p><p class="course-name">POLI 287. Multidisciplinary Methods in Political Science: Social Networks (4)</p>
+				<p class="course-descriptions">Examination of research in the natural sciences that may be applied to problems in political science, development and presentation of research projects by graduate students and faculty, special emphasis on social networks. <strong class="italic">Prerequisites:</strong> 204A and 204B and 204C, graduate standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli288" name="poli288" /></a></p><p class="course-name">POLI 288. Multidisciplinary Methods in Political Science: Computational Social Science (4) </p>
+				<p class="course-descriptions">An examination of research in the natural sciences that may be applied to problems in political science, development and presentation of research projects by graduate students and faculty, special emphasis on computational social science. <strong class="italic">Prerequisites:</strong> 204A and 204B and 204C, graduate standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli289" name="poli289" /></a></p><p class="course-name">POLI 289. Multidisciplinary Methods in Political Science: Biology (4)</p>
+				<p class="course-descriptions">Examination of research in the natural sciences that may be applied to problems in political science, development and presentation of research projects by graduate students and faculty, special emphasis on biology. <strong class="italic">Prerequisites:</strong> 204A and 204B and 204C, graduate standing or consent of instructor. </p>
+				<h3 class="course-subhead-2">Independent Study </h3>
+				<p class="anchor-parent"><a class="anchor" id="poli298" name="poli298" /></a></p>
+				<p class="course-name">POLI 298. Directed Reading (1–12)</p>
+				<p class="course-descriptions">Guided and supervised reading in the literature of the several fields of political science. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli299" name="poli299" /></a></p>
+				<p class="course-name">POLI 299. Dissertation Research (1–12)</p>
+				<p class="course-descriptions">Independent work by graduate students engaged in research and writing of second-year paper and doctoral dissertation, under direct supervision of adviser. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli500" name="poli500" /></a></p>
+				<p class="course-name">POLI 500. Apprentice Teaching (1–4)</p>
+				<p class="course-descriptions">A course in which teaching assistants are aided in learning proper teaching methods by means of supervision of their work by the faculty: handling of discussions, preparation, and grading of examinations and other written exercises, and student relations. Twenty-four units of teaching apprenticeship meet the department teaching requirement for the PhD. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli501" name="poli501" /></a></p>
+				<p class="course-name">POLI 501. Seminar on Teaching Development—American Politics
+				  (1–4)</p>
+				<p class="course-descriptions">A seminar designed for graduate students serving as teaching assistants in American politics, includes discussion of teaching theories, techniques, and materials, conduct of discussion sessions, and participation in examinations, under the supervision of the instructor in charge of the course. <strong class="italic">Prerequisites:</strong> graduate standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli502" name="poli502" /></a></p><p class="course-name">POLI 502. Seminar on Teaching Development—Comparative Politics
+				  (1–4)</p>
+				<p class="course-descriptions">A seminar designed for graduate students serving as teaching assistants in comparative politics, includes discussion of teaching theories, techniques, and materials, conduct of discussion sessions, and participation in examinations, under the supervision of the instructor in charge of the course. <strong class="italic">Prerequisites:</strong> graduate standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli503" name="poli503" /></a></p><p class="course-name">POLI 503. Seminar on Teaching Development—International Relations (1–4)</p>
+				<p class="course-descriptions">A seminar designed for graduate students serving as teaching assistants in international relations, includes discussion of teaching theories, techniques, and materials, conduct of discussion sessions, and participation in examinations under the supervision of the instructor in charge of the course. <strong class="italic">Prerequisites:</strong> graduate standing.</p>
+<p class="anchor-parent"><a class="anchor" id="poli504" name="poli504" /></a></p>                
+		<p class="course-name">POLI 504. Seminar on Teaching Development—Political Theory
+		  (1–4)</p>
+				<p class="course-descriptions">A seminar designed for graduate students serving as teaching assistants in political theory, includes discussion of teaching theories, techniques, and materials, conduct of discussion sessions, and participation in examinations, under the supervision of the instructor in charge of the course. <strong class="italic">Prerequisites:</strong> graduate standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="poli599" name="poli599" /></a></p><p class="course-name">POLI 599. Teaching Methods in Political Science (2)   </p>
+                <p class="course-descriptions">Training in teaching methods in the field of political science. Examines evidence-based research on undergraduate teaching and learning with emphasis on effective teaching techniques appropriate to political science. Covers TA training, syllabus design, and effective teaching strategies. <strong class="italic">Prerequisites:</strong> graduate standing in political science.        </p>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

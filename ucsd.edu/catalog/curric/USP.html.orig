@@ -1,0 +1,476 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Urban Studies and Planning</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Urban Studies and Planning </h1>
+<p class="sectionNav">[ <a href="#major">major</a> | <a href="#minor">minor</a> <span class="courseFacLink"> <a href="../curric/USP.html"></a> | <a href="../courses/USP.html">courses</a> | <a href="../faculty/USP.html">faculty</a> ]</span></p>
+<p class="program-contact-info">Social Sciences Building, Suite 315<a href="http://usp.ucsd.edu" target="_blank"><br />
+http://usp.ucsd.edu</a></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem -->
+<h2>The Department of Urban Studies and Planning</h2>
+<p>Cities are now home to more than half of the people on earth—and this proportion is increasing rapidly. The number of city dwellers is projected to grow to 6.4 billion by 2050, making the planet&rsquo;s population two-thirds urban. Global urbanization is one of the twenty-first century&rsquo;s most complex and transformative trends worldwide. Accordingly, the United Nations adopted a New Urban Agenda in 2016 to set global standards for sustainable urban development, addressing how cities, their neighborhoods, and the regions in which they are situated are planned, designed, financed, developed, governed, and managed. Sustainable urban development will require a significant change in the ways in which we plan, build, and live in human settlements. Cities across the world will need to balance population growth, land scarcity, social and economic equity, demographic shifts, and climate-change related adaption. The Department of Urban Studies and Planning recognizes the critical importance of educating the next generation of urban problem solvers and offers two undergraduate degrees: the BA in urban studies and planning and the BS in real estate and development.</p>
+<p>The Department of Urban Studies and Planning has a rich history dating back to 1971. It is a diverse community of students, faculty, and staff with a broad range of interests and goals. The department has three undergraduate student clubs and student chapters or affiliations with prominent organizations such as NAIOP, the Urban Land Institute, the American Planning Association, the Association of Environmental Professionals, and the Construction Management Association of America. Urban studies and planning provides students with the opportunity to engage in experiential learning, place-based research, internships, and practicum experiences focused on issues such as community economic development, physical planning, urban design, affordable housing, real estate development, sustainable development, transportation policy, healthy placemaking, and active living. The Department of Urban Studies and Planning provides students with a solid foundation for graduate study or for professional work in a number of fields in the public, private, and nonprofit sectors both domestically and internationally. After graduation, some alumni pursue graduate work in social science disciplines. Others pursue graduate studies in urban planning, real estate development, public policy, law, landscape architecture, or architecture. The Department of Urban Studies and Planning also attracts students interested in medicine and public-health issues who continue to study in these areas at schools of medicine or public health. Many students find employment opportunities through internship placements. More generally, graduates of the Urban Studies and Planning Program will have the analytic skills to think clearly and act creatively about the problems and prospects of neighborhoods, cities, and metropolitan regions. </p>
+<p class="anchor-parent"><a class="anchor" id="major"></a></p><h2 class="program-overview-subhead-1">The Urban Studies and Planning Major </h2>
+				<p>The urban studies and planning major provides students with a variety of perspectives for understanding the development, growth, and culture of cities and the communities within them. Course work introduces students to the ways different disciplines understand cities and the societies of which they are a part. Upper-division requirements educate students about the parameters within which urban choices are made. The urban studies and planning major is the oldest and most comprehensive undergraduate urban planning degree program in the University of California system.</p>
+				<p>One of the outstanding features of the urban studies and planning major  is the upper-division senior sequence—an integrated research, internship, and writing requirement. During the two-quarter senior sequence, designed to be taken in the fall and winter of the senior year, all USP majors learn how to write a research proposal, carry out the proposed research, and share the results in the form of a scholarly thesis, poster, and video. The posters go on display at USP&rsquo;s well-attended annual Urban Expo. The senior sequence allows students to self-select a topic of interest and work on specific planning, policy, urban design, and development projects in San Diego and the surrounding region, including sites across the international border in Mexico. Eligible students may choose to enroll in USP 190 in the spring to write an honors thesis. The honors option is an opportunity to do advanced research and writing that builds on work already completed in the senior sequence. </p>
+                <p>A bachelor of arts degree in urban studies and planning will be given to students who satisfactorily complete the general-education requirements of Muir, Revelle, Marshall, Warren, Roosevelt, or Sixth College in addition to the urban studies and planning courses described below. The undergraduate program in urban studies and planning requires a four-quarter lower-division sequence in urban studies (USP 1-2-3-4), POLI 30, and twelve courses in upper-division urban studies and planning. Students are encouraged to complete the lower-division prerequisites before they enroll in the upper-division courses. </p>
+<p>In accordance with campus academic regulations, courses used to satisfy the major cannot be applied toward a minor, although some overlap is allowed for double majors. All lower-division and upper-division requirements must be taken for a letter grade. A 2.0 grade point average is required in the major, and students must earn at least C– in each course used for the major. Transfer students should see the USP major affairs adviser to determine whether courses taken elsewhere satisfy USP major requirements. No more than one special studies course, USP 198 or USP 199, will be accepted to count toward the major. </p>
+		<h3 class="program-overview-subhead-2">Lower-Division Requirements </h3>
+				<p>Students majoring in urban studies and planning must complete the introductory sequence: </p>
+				<p class="course-list-overview">USP 1. History of US Urban Communities (4) </p>
+				<p class="course-list-overview">USP 2. Urban World System (4) </p>
+				<p class="course-list-overview">USP 3. The City and Social Theory (4) </p>
+				<p class="course-list-overview">USP 4. Introduction to Geographic Information Systems (4)</p>
+		<p>and </p>
+				<p class="course-list-overview">POLI 30. Political Inquiry (4)</p>
+				<p>(PSYC 60, Introduction to Statistics, or SOCI 60, The Practice
+			    of Social Research, may be substituted for POLI 30.) </p>
+		<h3 class="program-overview-subhead-2">Upper-Division Requirements </h3>
+				<p>The upper-division requirements in urban studies and planning are </p>
+				<ol>
+				  <li>USP 124 and one additional foundation  course </li>
+			      <li>one      research methods course to be taken junior year </li>
+                    <li>one technical elective course to be      taken junior year</li>
+                    <li>two senior sequence courses</li>
+                    <li>six upper-division elective courses </li>
+		</ol>
+                
+		<h4 class="program-overview-subhead-3">Foundation Courses </h4>
+				<p>Foundation courses provide the conceptual tools for the major. Students are required to complete USP 124, Land Use Planning, and to choose one of the following:  </p>
+				<div>
+				  <div> </div>
+	    </div>
+<div>
+    <div> </div>
+    </div>
+<p class="course-list-overview">USP 100. Introduction to Urban Planning (4)</p>
+				<p class="course-list-overview">USP 103. American City in the Twentieth Century (HIUS 148) (4)</p>
+				<p class="course-list-overview">USP 104. Ethnic Diversity and the City (ETHN 105) (4) </p>
+				<p class="course-list-overview">USP 105. Urban Sociology (SOCI 153) (4) </p>
+				<p class="course-list-overview">USP 106/HIUS 129. The History of Race and Ethnicity in American Cities (4)</p>
+				<p class="course-list-overview">USP 107. Urban Politics (POLI 102E) (4) </p>
+		<p class="course-list-overview">USP 173. History of Urban Planning and Design (4)</p>
+				<h4 class="program-overview-subhead-3">Research Methods Courses </h4>
+				<p>Students are to choose one course of the following: </p>
+				<p class="course-list-overview">USP 125. The Design of Social Research (4) </p>
+				<p class="course-list-overview">USP 129. Research Methods: Studying Racial and Ethnic Communities (ETHN 190) (4) </p>
+				<p class="course-list-overview">USP 160. Research Methods: Analyzing Crime (4)</p>
+				<p class="course-list-overview">USP 188. Mexican Migration Field Research Practicum (SOCI 188) (4)</p>
+				<p class="course-list-overview">USP 193. San Diego Community Research (4) </p>
+                <h4>Technical Elective Courses</h4>
+                <p>Students are to choose one course of the following:</p>
+                <p class="course-list-overview">USP 169. Introduction to Green Building (4)</p>
+                <p class="course-list-overview">USP 172. Graphics, Visual Communication, and Urban Information</p>
+                <p class="course-list-overview">USP 175. Site Analysis</p>
+                <p class="course-list-overview">USP 177. Urban Design Practicum</p>
+        <p class="course-list-overview">USP 191. Intermediate Geographic Information Systems for Urban and Community Planning (prerequisite: USP 4)</p>
+                <h4 class="program-overview-subhead-3">Senior Sequence Requirement </h4>
+				<p>In their senior year, all students must complete the senior sequence: USP 186 in the fall, and USP 187 in the winter. These courses must be taken <em>in order</em>. The sequence develops each student&rsquo;s ability to (1) critically review research literature; (2) formulate interesting research questions of their own; (3) design an original research project and investigative strategy; (4) conduct research; and (5) analyze, interpret, and write up findings. The final requirement of USP 186 is a research proposal. By the end of USP 187, each student must complete a Senior Research Project that includes a scholarly thesis coupled with a poster and video designed to share the research with select audiences.</p>
+<p>Because the senior sequence includes an internship, no other internship or field placement will be counted toward the major. Students are required to complete USP 124 prior to enrolling in USP 186.</p>
+		<h4 class="program-overview-subhead-3">Honors in Urban Studies and Planning </h4>
+				<p>Candidates for honors in urban studies and planning are required to take USP 190, Senior Honors Seminar, in which students write a senior thesis. Prerequisites for enrolling in USP 190, are a minimum 3.5 GPA in the major, senior standing, USP 186 and USP 187, and consent of instructor. Majors who plan to enroll in USP 190 must declare their intent fall quarter in USP 186. </p>
+				<p class="course-list-overview">USP 190. Senior Honors Seminar (4) </p>
+				<h4 class="program-overview-subhead-3">Upper-Division Elective Courses </h4>
+				<p>Students are encouraged to pick an area of concentration and choose upper-division electives listed under that cluster. Students may also define their own area of concentration and design an appropriate curriculum drawn from courses offered by USP and other related departments. USP 199, Independent Study, taken for Pass/Not Pass counts for one USP upper-division elective course. </p>
+				<h5 class="program-overview-subhead-4">Urban/Regional Policy and Planning </h5>
+				<p class="course-list-overview">USP 100. Introduction<span class="course-list-overview"> to Urban Planning </span></p>
+				<p class="course-list-overview"><span class="course-list-overview">USP 101/POLI</span> 160AA. Introduction to Policy Analysis </p>
+				<p class="course-list-overview">USP 107/POLI 102E. Urban Politics </p>
+				<p class="course-list-overview">USP 109/POLI 103A. California Government and Politics </p>
+				<p class="course-list-overview">USP 110/POLI 102J. Advanced Topics in Urban Politics </p>
+				<p class="course-list-overview">USP 111/POLI 102JJ. Field Research in Urban Politics </p>
+				<p class="course-list-overview">USP 113/POLI 103B. Politics and Policymaking in Los Angeles </p>
+				<p class="course-list-overview">USP 115/POLI 103C. Politics and Policymaking in San Diego </p>
+				<p class="course-list-overview">USP 116. California Local Government: Finance and Administration </p>
+				<p class="course-list-overview">USP 120. Urban Planning, Infrastructure, and Real Estate</p>
+                <p class="course-list-overview">USP 124. Land Use Planning </p>
+        <p class="course-list-overview">USP 126. Comparative Land Use and Resource Management</p>
+        <p class="course-list-overview">USP 133/SOCI 152. Social Inequality and Public Policy </p>
+        <p class="course-list-overview">USP 136. Collaborative Community Leadership</p>
+<p class="course-list-overview">USP 137. Housing and Community Development Policy and Practice </p>
+        <p class="course-list-overview">USP 138. Urban Economic Development</p>
+        <p class="course-list-overview">USP 139. Urban Design and Economic Development</p>
+        <p class="course-list-overview">USP 154. Global Justice in Theory and Action</p>
+        <p class="course-list-overview">USP 170. Sustainable Planning </p>
+        <p class="course-list-overview">USP 171. Sustainable Development </p>
+        <p class="course-list-overview">USP 173. History of Urban Planning and Design </p>
+        <p class="course-list-overview">USP 174. Regional Governance and Planning Reconsidered </p>
+        <p class="course-list-overview">USP 175. Site Analysis: Opportunities and Constraints</p>
+        <p class="course-list-overview">USP 176. Binational Regional Governance</p>
+        <p class="course-list-overview">USP 180. Transportation Planning </p>
+        <p class="course-list-overview">USP 181. Public Transportation </p>
+				<p class="course-list-overview">USP 189. Special Topics in Urban Planning</p>
+<p class="course-list-overview">USP 191. Intermediate GIS for Urban and Community Planning </p>
+				<p class="course-list-overview">USP 193. San Diego Community Research </p>
+				<p class="course-list-overview">ANBI 132/BIEB 176. Conservation and the Human Predicament </p>
+				<p class="course-list-overview">ECON 116. Economic Development </p>
+				<p class="course-list-overview">ECON 118. Law and Economics: Torts, Property, and Crime </p>
+<p class="course-list-overview">ECON 130. Public Policy </p>
+				<p class="course-list-overview">ECON 131. Economics of the Environment </p>
+				<p class="course-list-overview">ECON 139. Labor Economics </p>
+				<p class="course-list-overview">ECON 150. Economics of the Public Sector: Taxation </p>
+				<p class="course-list-overview">ECON 151. Economics of the Public Sector: Expenditures </p>
+				<p class="course-list-overview">ECON 155. Political Economics </p>
+				<p class="course-list-overview">ENVR 102. Selected Topics in Environmental Studies </p>
+				<p class="course-list-overview">ENVR 130. Environmental Issues: Social Sciences </p>
+				<p class="course-list-overview">POLI 160AB. Introduction to Policy Analysis </p>
+				<p class="course-list-overview">POLI 162. Environmental Policy </p>
+				<p class="course-list-overview">POLI 168. Policy Assessment </p>
+				<p class="course-list-overview">SOCI 121. Economy and Society </p>
+                <p class="course-list-overview">SOCI 146. Law Enforcement in America</p>
+                <p class="course-list-overview">SOCI 155. The City of San Diego </p>
+                <p class="course-list-overview">SOCI 169. Citizenship, Community, and Culture</p>
+        <p class="course-list-overview">SOCI 179. Social Change</p>
+                <p class="course-list-overview">SOCI 180. Social Movements and Social Protest				</p>
+                <h5 class="program-overview-subhead-4">Urban Design/Built Environment </h5>
+				<p class="course-list-overview">USP 124. Land Use Planning </p>
+				<p class="course-list-overview">USP 137. Housing and Community Development Policy and Practice </p>
+				<p class="course-list-overview">USP 161. Environmental Design and Crime Prevention</p>
+<p class="course-list-overview">USP 170. Sustainable Planning </p>
+				<p class="course-list-overview">USP 171. Sustainable Development </p>
+				<p class="course-list-overview">USP 173. History of Urban Planning and Design </p>
+				<p class="course-list-overview">USP 174. Regional Governance and Planning Reconsidered </p>
+				<p class="course-list-overview">USP 175. Site Analysis: Opportunities and Constraints</p>
+<p class="course-list-overview">USP 177. Urban Design Practicum</p>
+				<p class="course-list-overview">USP 179. Urban Design, Theory, and Practice </p>
+				<p class="course-list-overview">USP 180. Transportation Planning </p>
+				<p class="course-list-overview">USP 191. Intermediate GIS for Urban and Community Planning </p>
+				<p class="course-list-overview">USP 193. San Diego Community Research </p>
+				<p class="course-list-overview">ENVR 102. Selected Topics in Environmental Studies </p>
+				<p class="course-list-overview">ENVR 110. Environmental Law </p>
+				<p class="course-list-overview">ENVR 130. Environmental Issues: Social Sciences </p>
+				<p class="course-list-overview">ETHN 103. Environmental Racism </p>
+				<p class="course-list-overview">ETHN 104. Race, Space, and Segregation</p>
+				<p class="course-list-overview">HISC 172/272. Building America: Technology, Culture, and the Built Environment in the United States </p>
+				<p class="course-list-overview">POLI 125A. Communities and the Environment</p>
+				<p class="course-list-overview">POLI 162. Environmental Policy</p>
+				<p class="course-list-overview">VIS 110G. The Natural and Altered Environment</p>
+				<p class="course-list-overview">VIS 111. Structure of Art </p>
+				<h5 class="program-overview-subhead-4">Health, Social Services, and Education </h5>
+				<p class="course-list-overview">USP 101/POLI 160AA. Introduction to Policy Analysis </p>
+				<p class="course-list-overview">USP 133/SOCI 152. Social Inequality and Public Policy </p>
+				<p class="course-list-overview">USP 134. Community Youth Development</p>
+<p class="course-list-overview">USP 136. Collaborative Community Leadership</p>
+<p class="course-list-overview">USP 143. The US Health-Care System </p>
+				<p class="course-list-overview">USP 144. Environmental and Preventive Health Issues </p>
+				<p class="course-list-overview">USP 145. Aging—Social and Health Policy Issues </p>
+				<p class="course-list-overview">USP 147. Case Studies in Health Care Programs/Poor and Underserved Populations </p>
+				<p class="course-list-overview">USP 154/POLI 111B. Global Justice in Theory and Action</p>
+				<p class="course-list-overview">ECON 130. Public Policy </p>
+				<p class="course-list-overview">ECON 139. Labor Economics </p>
+				<p class="course-list-overview">ECON 150. Economics of the Public Sector: Taxation </p>
+				<p class="course-list-overview">ECON 151. Economics of the Public Sector: Expenditures </p>
+				<p class="course-list-overview">ECON 155. Political Economics </p>
+				<p class="course-list-overview">EDS 130. Introduction to Academic Mentoring of Elementary School Students </p>
+				<p class="course-list-overview">ETHN 142. Medicine, Race, and the Global Politics of Inequality </p>
+				<p class="course-list-overview">PHIL 163. Biomedical Ethics </p>
+				<p class="course-list-overview">POLI 168. Policy Assessment </p>
+				<p class="course-list-overview">PSYC 104. Introduction in Social Psychology </p>
+				<p class="course-list-overview">SOCI 112. Social Psychology </p>
+                <p class="course-list-overview">SOCI 117/EDS 117. Language, Culture, and Education </p>
+                <p class="course-list-overview">SOCI 123. Sociology of Work </p>
+                <p class="course-list-overview">SOCI 126/EDS 126. Social Organization of Education </p>
+                <p class="course-list-overview">SOCI 132. Gender and Work </p>
+                <p class="course-list-overview">SOCI 135. Medical Sociology </p>
+                <p class="course-list-overview">SOCI 136E. Sociology of Mental Illness: A Historical
+                  Approach </p>
+                <p class="course-list-overview">SOCI 136F. Sociology of Mental Illness in Contemporary
+                  Society </p>
+        <p class="course-list-overview">SOCI 141. Crime and Society </p>
+                <p class="course-list-overview">SOCI 159. Special Topics in Social Organizations and
+                  Institutions				</p>
+                <h5 class="program-overview-subhead-4">Urban Diversity </h5>
+				<p class="course-list-overview">USP 104/ETHN 105. Ethnic Diversity and the City </p>
+				<p class="course-list-overview">USP 106/HIUS 129. History of Race and Ethnicity in American Cities</p>
+<p class="course-list-overview">USP 129/ETHN 190. Research Methods: Studying Racial and Ethnic Communities </p>
+				<p class="course-list-overview">USP 130/ETHN 107. Fieldwork in Racial and Ethnic Communities </p>
+				<p class="course-list-overview">USP 132/ETHN 188. African Americans, Religion, and the City </p>
+				<p class="course-list-overview">USP 135/ETHN 129. Asian and Latina Immigrant Workers in the Global Economy </p>
+				<p class="course-list-overview">USP 149. Madness and Urbanization</p>
+				<p class="course-list-overview">USP 154/POLI 111B. Global Justice in Theory and Action</p>
+<p class="course-list-overview">ANSC 131. Urban Cultures in Latin America </p>
+				<p class="course-list-overview">ETHN 118. Contemporary Immigration Issues </p>
+				<p class="course-list-overview">ETHN 121. Contemporary Asian American History </p>
+				<p class="course-list-overview">ETHN 123. Asian American Politics </p>
+				<p class="course-list-overview">ETHN 131/HIUS 159. Social and Economic History of the Southwest II </p>
+				<p class="course-list-overview">ETHN 151. Ethnic Politics in America </p>
+				<p class="course-list-overview">ETHN 161. Black Politics and Protest Since 1941 </p>
+				<p class="course-list-overview">ETHN 184. Black Intellectuals in the Twentieth Century </p>
+				<p class="course-list-overview">HILA 115. The Latin American City, a History </p>
+				<p class="course-list-overview">HILA 121. History of Brazil </p>
+				<p class="course-list-overview">HITO 180. Housing in the Developing World</p>
+<p class="course-list-overview">HIUS 114. California History </p>
+				<p class="course-list-overview">HIUS 117. History of Los Angeles </p>
+				<p class="course-list-overview">HIUS 180/ETHN 134. Immigration and Ethnicity in Modern American Society </p>
+				<p class="course-list-overview">POLI 100H. Race and Ethnicity in American Politics </p>
+				<p class="course-list-overview">POLI 100J. Race in American Political Development </p>
+              
+                <p class="course-list-overview">POLI 105A. Latino Politics in the U.S.</p>
+				<p class="course-list-overview">POLI 150A. Politics of Immigration </p>
+				<p class="course-list-overview">SOCI 100. Classical Sociological Theory </p>
+                <p class="course-list-overview">SOCI 125. Sociology of Immigration</p>
+                <p class="course-list-overview">SOCI 139. Social Inequality: Class, Race, and Gender </p>
+                <p class="course-list-overview">SOCI 144. Forms of Social Control </p>
+                <p class="course-list-overview">SOCI 148. Political Sociology </p>
+        <p class="course-list-overview">SOCI 148E. Inequality and Jobs </p>
+                <p class="course-list-overview">SOCI 151. Comparative Race and Ethnic Relations				</p>
+                <h5 class="program-overview-subhead-4">Cities in Historical and Comparative Perspectives </h5>
+				<p class="course-list-overview">USP 105/SOCI 153. Urban Sociology </p>
+				<p class="course-list-overview">USP 106/HIUS 129. The History of Race and Ethnicity in American Cities</p>
+<p class="course-list-overview">USP 107/POLI 102E. Urban Politics        </p>
+<p class="course-list-overview">USP 167/HIUS 123. History of New York City				</p>
+                <p class="course-list-overview">USP 168/HIUS 117. History of Los Angeles</p>
+        <p class="course-list-overview">USP 173. History of Urban Planning and Design </p>
+				<p class="course-list-overview">ANSC 131. Urban Cultures in Latin America </p>
+				<p class="course-list-overview">ECON 116. Economic Development </p>
+				<p class="course-list-overview">ETHN 121. Contemporary Asian American History </p>
+				<p class="course-list-overview">ETHN 131/HIUS 159. Social and Economic History of the Southwest II </p>
+				<p class="course-list-overview">HIEU 129. Paris, Past and Present</p>
+				<p class="course-list-overview">HILA 115. The Latin American City, a History </p>
+				<p class="course-list-overview">HILA 121. History of Brazil </p>
+				<p class="course-list-overview">HIUS 114. California History </p>
+				<p class="course-list-overview">HIUS 117. History of Los Angeles </p>
+				<p class="course-list-overview">HIUS 124/ETHN 125. Asian American History</p>
+				<p class="course-list-overview">HIUS 139. African American History in the Twentieth Century</p>
+				<p class="course-list-overview">HIUS 140/ECON 158A. Economic History </p>
+				<p class="course-list-overview">HIUS 141/ECON 158B. Economic History of the United States II </p>
+				<p class="course-list-overview">HIUS 154. Western Environmental History </p>
+		<p class="anchor-parent"><a class="anchor" id="minor"></a></p><h2 class="program-overview-subhead-1">The Minor Program </h2>
+				<h3>The Urban Studies and Planning Minor                </h3>
+				<p>The urban studies and planning minor consists of seven courses in urban studies and planning, selected with the prior approval of the USP student affairs adviser. Students who wish to minor in urban studies may do so by taking any two courses from among the lower-division sequence and the upper-division foundation courses, and five upper-division courses from among those that serve the USP major. All courses must be taken for a letter grade not lower than a C–. Courses selected need approval from the USP undergraduate  adviser. Students can declare the minor online. </p>
+        <h2>The Real Estate and Development Major</h2>
+				<p>The real estate and development (RED) major at UC San Diego is one of the most comprehensive undergraduate programs of its kind in the country. It recognizes that the next generation of real estate and development innovators will need to understand the nexus between real estate finance and development, data analysis, urban planning and design, environmental regulations, and new technologies. The major also emphasizes the importance of public-private partnerships and knowledge of the role and function of the public, private, and nonprofit sectors at the neighborhood, city, and regional level. It recognizes the importance of supplementing classroom instruction with professional development opportunities and uses the San Diego-Tijuana city-region as a living laboratory for hands-on, project-based learning.</p>
+				<p>The curriculum for the bachelor of science in RED is broad and interdisciplinary in response to the diverse ways in which real estate impacts the ways people live, work, and enrich their lives. Required courses include economics, business management, urban planning, real estate finance, real estate law, sustainable development, and urban design. All course work is designed to facilitate qualitative, quantitative, analytical, strategic, design, and problem-solving, solutions-oriented skills. Students pursuing the RED major are    encouraged to pair their degree with a minor degree in urban studies and planning or one of the many minor degrees offered at UC San Diego, particularly those offered by the Rady School of Management including the minor in business and the minor in entrepreneurship and innovation.</p>
+				<p>One of the outstanding features of the real estate and development major is the upper-division capstone studio requirement. During a two-quarter &ldquo;Capstone Studio Sequence,&rdquo; designed to be taken in fall and winter of the senior year, all RED majors are guided through a hands-on, actual real estate finance and development project. Through project-based learning, students work in teams culminating with the presentation of their findings at the annual Urban Expo hosted by the Urban Studies and Planning Program.</p>
+				<p>A bachelor of science degree in RED will be given to students who satisfactorily complete the general-education requirements of Muir, Revelle, Marshall, Warren, Roosevelt, or Sixth College in addition to the real estate and sustainable development courses described below. The undergraduate RED major requires eight lower-division courses, ten upper-division courses, and the required two-quarter Capstone Studio Sequence. Students are strongly encouraged to complete the lower-division requirements before they enroll in the upper-division courses.</p>
+				<h3>Lower-Division Requirements</h3>
+				<p>Students majoring in real estate and development must complete</p>
+				<p class="course-list-overview">USP 1. History of US Urban Communities OR USP 2. Urban World System</p>
+				<p class="course-list-overview">USP 5. Introduction to the Real Estate and Development Process</p>
+				<p class="course-list-overview">USP 15. Applied Urban Economics for Planning and Development (to be taken after completion of ECON 1)</p>
+				<p class="course-list-overview">USP 25. Real Estate and Development Principles and Analysis</p>
+				<p class="course-list-overview">MATH 10A. Calculus 1 OR MATH 20A. Calculus for Science and Engineering OR MGT 3. Quantitative Methods</p>
+				<p class="course-list-overview">ECON 1. Principles of Microeconomics</p>
+				<p class="course-list-overview">ECON 4/MGT 4. Financial Accounting</p>
+		<p class="course-list-overview">MGT 5 (ECON 4/MGT 4 and MGT 5 may be replaced with MGT 45) </p>
+				<h3> Upper-Division Requirements</h3>
+        <p>The upper-division requirements in real estate and development are</p>
+<ol>
+    <li>Seven foundation courses (twenty-eight units)</li>
+    <li>One technical elective (four units)</li>
+    <li>Two upper-division electives (eight units)</li>
+	  <li>Two real estate finance and development Capstone Studio Sequence courses (twelve units)</li></ol>
+            <h4>Foundation Courses</h4>
+            <p>Foundation courses provide the conceptual tools for the major. Students are to complete the following:</p>
+            <p class="course-list-overview">USP 124. Land Use Planning</p>
+            <p class="course-list-overview">USP 150. Real Estate and Development Law and Regulation</p>
+            <p class="course-list-overview">USP 151. Real Estate Planning and Development</p>
+            <p class="course-list-overview">USP 152. Real Estate Development Finance and Investment</p>
+            <p class="course-list-overview">USP 153. Real Estate and Development Market Analysis</p>
+            <p class="course-list-overview">USP 171. Sustainable Development</p>
+            <p class="course-list-overview">MGT 172. Business Project Management
+             </p>
+            <h4>Technical Elective</h4>
+            <p>Students are to choose one course (four units) of the following:</p>
+            <p class="course-list-overview">USP 172. Graphics, Visual Communication, and Urban Information</p>
+            <p class="course-list-overview">USP 175. Site Analysis</p>
+            <p class="course-list-overview">USP 177. Urban Design Practicum</p>
+            <p class="course-list-overview">USP 191. Intermediate GIS for Urban and Community Planning
+             </p>
+            <h4>Upper-Division Electives</h4>
+            <p>Students are to choose two courses (or eight units) from</p>
+            <p class="course-list-overview">ECON 116. Economic Development</p>
+            <p class="course-list-overview">ECON 125. Demographic Analysis and Forecasting</p>
+            <p class="course-list-overview">ECON 131. Economics of the Environment </p>
+            <p class="course-list-overview">USP 120. Urban Planning, Infrastructure, and Real Estate</p>
+            <p class="course-list-overview">USP 137. Housing and Community Development Policy and Practice</p>
+            <p class="course-list-overview">USP 155. Real Estate Development in Global and Comparative Perspective</p>
+            <p class="course-list-overview">USP 170. Sustainable Planning</p>
+            <p class="course-list-overview">USP 173. History of Urban Planning and Design</p>
+            <p class="course-list-overview">USP 179. Urban Design, Theory, and Practice</p>
+            <p class="course-list-overview">USP 180. Transportation Planning</p>
+            <p class="course-list-overview">USP 181. Public Transportation</p>
+            <p class="course-list-overview">MGT 112. Global Business Strategy</p>
+            <p class="course-list-overview">MGT 153. Business Analytics</p>
+            <p class="course-list-overview">MGT 157. Real Estate Securitization</p>
+            <p class="course-list-overview">MGT 158. Real Estate and the Tech Sector</p>
+            <p class="course-list-overview">MGT 162. Negotiation</p>
+            <p class="course-list-overview">MGT 164. Business and Organizational Leadership</p>
+            <p class="course-list-overview">MGT 166. Business Ethics and Corporate Social Responsibility</p>
+            <p class="course-list-overview">MGT 181. Enterprise Finance</p>
+<h4>Real Estate and Development Capstone Studio
+            </h4>
+          
+            <p>In their senior year, all RED majors must complete the Capstone Studio Sequence: USP 185A in fall, and USP 185B in winter. These courses must be taken <em>in order</em>. Working in teams, the real estate and development studio advances each student&rsquo;s ability to (1) critically approach the real estate finance, development, and design process; (2) gather and manage complex sources of research and knowledge as part of an integrated team approach; (3) prepare a detailed pro forma financial analysis; (4) evaluate all site constraints and opportunities; (5) evaluate all market constraints and opportunities; (6) develop a complete urban design program; (7) develop a plan to market, lease, and/or sell the development; and (8) analyze, interpret, and write up the findings. Each team will prepare a final written report and presentation drawings. The studio will culminate with a public presentation of the students&rsquo; work at the USP Program&rsquo;s annual Urban Expo held every March to showcase undergraduate research.</li>
+        </ol>
+            </p>
+        <h3>The Minor Program</h3>
+        <p>The real estate and development minor (RED) consists of seven courses (28 units). Students who wish to minor in real estate and development may do so by taking two required lower-division courses, four required upper-division courses, and one upper-division elective. All courses must be taken for a letter grade not lower than a C–. Courses selected need approval from the USP program adviser. Students can declare the minor online.</p>
+        <h4>Lower-Division Requirements</h4>
+        <p>Students minoring in real estate development must complete</p>
+                <p class="course-list-overview">USP 5. Introduction to the Real Estate and Development Process</p>
+                <p class="course-list-overview">USP 15. Applied Urban Economics for Planning and Development </p>
+        <h4>Upper-Division Requirements</h4>
+        <p>The upper-division requirements in real estate and development are</p>
+                <ol>
+                  <li> four foundation courses</li>
+                  <li>one upper-division elective</li>
+                </ol>
+        <h5>Foundation Courses</h5>
+        <p>Foundation courses provide the conceptual tools for the major. Students are required to complete the following:</p>
+        <p class="course-list-overview">USP 124. Land Use Planning</p>
+        <p class="course-list-overview">USP 150. Real Estate and Development Law and Regulation</p>
+        <p class="course-list-overview">USP 151. Real Estate Planning and Development</p>
+        <p class="course-list-overview">MGT 181. Enterprise Finance</p>
+        <h5>Upper-Division Electives</h5>
+        <p>Students are to choose one of the following:</p>
+        <p class="course-list-overview">USP 120. Urban Planning, Infrastructure, and Real Estate</p>
+        <p class="course-list-overview">USP 137. Housing and Community Development Policy and Practice</p>
+        <p class="course-list-overview">USP 152. Real Estate Development Finance and Investment</p>
+        <p class="course-list-overview">USP 153. Real Estate and Development Market Analysis</p>
+        <p class="course-list-overview">USP 155. Real Estate Development in Global and Comparative Perspective</p>
+        <p class="course-list-overview">USP 161. Environmental Design and Crime Prevention</p>
+<p class="course-list-overview">USP 170. Sustainable Planning</p>
+        <p class="course-list-overview">USP 171. Sustainable Development</p>
+        <p class="course-list-overview">USP 172. Graphics, Visual Communication, and Urban Information</p>
+        <p class="course-list-overview">USP 173. History of Urban Planning and Design</p>
+        <p class="course-list-overview">USP 175. Site Analysis</p>
+        <p class="course-list-overview">USP 177. Urban Design Practicum</p>
+        <p class="course-list-overview">USP 179. Urban Design, Theory, and Practice</p>
+        <p class="course-list-overview">USP 180. Transportation Planning</p>
+        <p class="course-list-overview">USP 181. Public Transportation</p>
+        <p class="course-list-overview">USP 191. GIS for Urban and Community Planning</p>
+        <p class="course-list-overview">MGT 112. Global Business Strategy</p>
+        <p class="course-list-overview">MGT 153. Business Analytics</p>
+        <p class="course-list-overview">MGT 157. Real Estate Securitization</p>
+        <p class="course-list-overview">MGT 158. Real Estate and the Tech Sector</p>
+        <p class="course-list-overview">MGT 162. Negotiation</p>
+        <p class="course-list-overview">MGT 164. Business and Organizational Leadership</p>
+                <p class="course-list-overview">MGT 166. Business Ethics and Corporate Social Responsibility</p>
+                <p class="course-list-overview">MGT 172. Business Project Management</p>
+<h3 class="program-overview-subhead-2">Education Abroad Program </h3>
+				<p>Students are encouraged to participate in the UC Education Abroad Program (EAP) or Opportunities Abroad Program (OAP) while still making progress toward completing their major. For more information on EAP, see the section of this catalog on the Education Abroad Program or visit <a href="http://studyabroad.ucsd.edu/" target="_blank">http://studyabroad.ucsd.edu/</a>. Students considering this option are advised to discuss their plans with the USP student affairs adviser before going abroad.		</p>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

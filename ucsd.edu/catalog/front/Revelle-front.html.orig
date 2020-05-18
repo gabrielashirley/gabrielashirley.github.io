@@ -1,0 +1,274 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" --> 
+<title>Revelle College</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+
+		<h1><a href="http://revelle.ucsd.edu" target="_blank">Revelle College</a></h1>
+        <p><a href="http://revelle.ucsd.edu" target="_blank">Revelle College,</a> the first college on the UC San Diego campus, was named in honor of Roger Revelle, former University of California dean of Research and director of the Scripps Institution of Oceanography. Revelle is perhaps best known for his plenary research on greenhouse gases and his predictions of their effects.</p>
+        <p>The initiation of Revelle College in 1964 provided the faculty with the opportunity to design a complete undergraduate curriculum for some of the country&rsquo;s best-prepared students. The faculty asked the fundamental question: What should an educated person know? The Revelle College general education requirements offer a specific but broad introduction to the academic disciplines of the university. A student graduating from Revelle College will have attained</p>
+        <ol start="1" type="1">
+          <li>A      basic knowledge of calculus; foreign language; the physical, biological,      and social sciences; the fine arts; and the humanities </li>
+          <li>A high      level of competence in an academic discipline </li>
+        </ol>
+        <h3><a name="gened"></a>General Education </h3>
+        <p>Students are encouraged to meet the general education requirements and the prerequisites to the major early in their university career. </p>
+        <p>Freshman students with advanced placement credits can use many of these credits to meet general education requirements (see <a href="../pdf/APC-chart.pdf" target="_blank">Advanced Placement chart</a>). Transfer students may meet all general education requirements before entering by following articulation agreements with community colleges and taking, at any institution, courses that Revelle College judges approximately equivalent in content to those at UC San Diego. </p>
+        <p>The general education requirements are </p>
+        <ol start="1" type="1">
+          <li>Five      courses in an interdisciplinary humanities sequence that includes two      six-unit courses with intensive instruction in university-level writing      and three four-unit courses with less intensive writing instruction.</li>
+          <li>One      course in the fine arts—music, theatre and dance, or visual arts.</li>
+          <li>Two courses from the social sciences, chosen      from an approved list.</li>
+            <li>Three      courses in mathematics, which shall include two courses of integral and/or      differential calculus, and one course chosen from an approved list.</li>
+            <li>Five      courses in the physical and biological sciences to include one course in      biology, one course in chemistry, one course in physics, and two courses      from biology, chemistry, physics, or environmental science.</li>
+            <li>The language requirement may be satisfied by 1)      passing a foreign language proficiency exam, which consists of a      satisfactory score on a standard reading examination and conversational      proficiency in an oral interview; 2) completion of a fourth quarter (or      higher level) college language course (completion of a third semester intermediate-level      course if taken outside of UC San Diego; 3) appropriate&nbsp;<a href="https://cms.ucsd.edu/renderfile/7420d726ac10b4e42226566f1e6c4f31/_files/prospective-students/ap.pdf">AP</a>&nbsp;or&nbsp;<a href="https://cms.ucsd.edu/renderfile/7420d726ac10b4e42226566f1e6c4f31/_files/prospective-students/ib.pdf">IB</a>&nbsp;score;      4) score of 700 or higher on the SAT Subject Test in a foreign language;      and/or 5) being a native-speaker of a language other than English and      having attended at least one year of high school taught in that language.  </li>
+        </ol>
+       
+        <h4>1. Humanities</h4>
+        <p>The humanities requirement confronts students with significant humanistic issues in the context of a rigorous academic course. It is also an introduction to the disciplines of history, literature, and philosophy and provides training and practice in rhetorical skills and particularly persuasive written expression. Students may satisfy this requirement by completing the five-quarter interdisciplinary (history, literature, and philosophy) humanities sequence. </p>
+        <p>For course descriptions, see &ldquo;Courses, Curricula, and Faculty:<a href="../curric/HUM.html"> Humanities</a>.&rdquo; </p>
+        <h4>2. Mathematics</h4>
+        <p>Three quarters of mathematics are required, including two courses in calculus and one additional course chosen from an approved list. Freshman placement in mathematics courses depends upon the student&rsquo;s mathematics preparation and choice of major. Students are urged to keep their mathematical skills at a high level by taking mathematics during their senior year in high school.  (See &ldquo;Courses, Curricula, and Faculty: <a href="../curric/MATH-ug.html">Mathematics</a>.&rdquo;) </p>
+        <h4>3. Natural Sciences</h4>
+        <p>Natural sciences courses present current developments in the fundamental concepts of modern physics, chemistry, biology, and environmental sciences. </p>
+        <p>Students choose their five required natural science courses from the sequences depending upon their interests, prior preparation, and intended majors. </p>
+<p>Students planning to major in a science must consult the appropriate departmental listing under &ldquo;<a href="courses.html">Courses, Curricula, and Faculty</a>&rdquo; to find the additional preparation needed for their major. </p>
+        <h4>4. Social Sciences</h4>
+        <p>Two courses from the social sciences chosen from an approved list.</p>
+<h4>5. Fine Arts</h4>
+        <p>One course is required. It serves as an introduction to creativity in theatre and dance, music, or visual arts. (See &ldquo;Courses, Curricula, and Faculty: <a href="../curric/THEA-ug.html">Theatre and Dance</a>, <a href="../curric/MUS-ug.html">Music</a>, and <a href="../curric/VIS-ug.html">Visual Arts</a>.&rdquo;) </p>
+<h4>6. Foreign Language</h4>
+        <p>Revelle College students are required to demonstrate basic conversational and reading proficiency in any modern foreign language, or advanced reading proficiency in a classical language, or complete the fourth quarter of foreign language instruction with a passing grade. </p>
+        <p>Modern foreign language programs are currently offered in American Sign Language, Arabic, Chinese, French, German, Hebrew, Italian, Japanese, Korean, Portuguese, Russian, Spanish, and heritage languages, and classical language programs are offered in Greek, Latin, and Hebrew.  Students who have preparation in other languages should contact the Revelle College <a href="http://revelle.ucsd.edu/academics/index.html" target="_blank">academic advising office</a> for information on the possibility of a proficiency examination.  </p>
+        <div>
+          <div> </div>
+        </div>
+        <h3> Sample Program (does not include all general-education requirements)</h3>
+		<table class="sample-program" border="0" cellpadding="0" cellspacing="0">
+				<tr>
+				<th class="quarter" width="170"><h5>FALL</h5>
+				  </th>
+				<th class="quarter"  width="170"><h5>WINTER</h5>
+				  </th>
+				<th class="quarter"  width="170"><h5>SPRING</h5>
+				  </th>
+			</tr>
+				<tr>
+				<th colspan="3" class="year"><h5>FRESHMAN YEAR</h5></th>
+				</tr>
+				<tr>
+				<td>UC Entry Level Writing Requirement or fine arts</td>
+				<td>Humanities 1</td>
+				<td>Humanities 2</td>
+				</tr>
+				<tr>
+				<td>calculus</td>
+				<td>calculus</td>
+				<td>mathematics</td>
+				</tr>
+				<tr>
+				<td>natural science</td>
+				<td>natural science</td>
+				<td>natural science</td>
+				</tr>
+				<tr>
+				<td> foreign language<br />
+				</td>
+				<td>foreign language<br />
+				</td>
+				<td>foreign language<br />
+				</td>
+				</tr>
+				<tr>
+				<th colspan="3" class="year"><h5>SOPHOMORE YEAR</h5></th>
+				</tr>
+				<tr>
+				<td>Humanities 3</td>
+				<td>Humanities 4</td>
+				<td>Humanities 5</td>
+				</tr>
+				<tr>
+				<td>natural science</td>
+				<td>natural science</td>
+				<td>fine arts or major</td>
+				</tr>
+				<tr>
+				<td>social science</td>
+				<td>social science</td>
+				<td>major</td>
+				</tr>
+				<tr>
+				<td height="2">major</td>
+				<td height="2">major</td>
+				<td height="2">major</td>
+				</tr>
+		</table>
+				<p class="note">Science majors may want to take part of the social science requirement in the junior year to allow time for additional science laboratories and/or calculus. </p>
+				<h3>Transfer Students</h3>
+<p>Transfer students may enter Revelle College by following community college articulation agreements, which can be viewed at <a href="http://www.ASSIST.org" target="_blank">http://www.ASSIST.org</a> or by following the Intersegmental General Education Transfer Curriculum (IGETC). However, Revelle College does not accept IGETC as satisfaction of all lower-division requirements. Revelle College accepts IGETC courses to meet requirements with additional classes in science and calculus. Science and mathematics majors will need these additional classes in preparation (or to meet prerequisites) for their major. The additional math and science classes can be taken at the community college or after transfer to UC San Diego. See details on our website at <a href="http://revelle.ucsd.edu/academics/university-education/index.html" target="_blank">http://revelle.ucsd.edu/academics/university-education/index.html</a>.</p>
+<h3>Graduation Requirements </h3>
+<p>To graduate from Revelle College, a student must</p>
+<ol start="1" type="1">
+  <li>Satisfy      the UC Entry Level      Writing Requirement.</li>
+  <li>Satisfy the American History and Institutions requirement. </li>
+  <li>Satisfy the Diversity, Equity, and Inclusion      requirement. (See &ldquo;<a href="UgrdDegReq.html">University-wide      Graduation Requirements</a>&rdquo;).</li>
+  <li>Satisfy      the general education requirements. </li>
+  <li>Successfully      complete a major according to all requirements of that department. </li>
+  <li>Complete      a minimum of sixty upper-division units. </li>
+
+  <li>Pass      at least 180 units for the BA/BS. (No more than three units of physical      education transferred from another institution may be counted toward      graduation.)</li>
+  <li>Attain      a C average (2.0) or better in all work attempted at the University of      California (exclusive of UC San Diego Extension). Students      are responsible for checking with the department of the major for all major-specific      policies.</li>
+
+  <li>Meet      the senior residence requirement. (See &ldquo;<a href="UgrdDegReq.html#seniorresidence">Senior Residence</a>.&rdquo;) </li>
+</ol>
+<h3>Pass/Not Pass Grading Option</h3>
+<ol start="1" type="1">
+  <li>With the exception of units earned in independent study courses (numbered 199), no       more than 25 percent of an undergraduate student&rsquo;s total course units      taken at UC San Diego may be graded on a Pass/Not Pass basis.</li>
+  <li>Courses      taken as electives may be taken on a Pass/Not Pass basis.</li>
+  <li>The      following general-education courses may be taken Pass/Not Pass: fine arts and language. Nonscience majors may      take courses for the natural science requirement Pass/Not Pass.</li>
+  <li>Most majors require students to take courses for a letter grade in order to apply the course toward the major&rsquo;s requirement. Please check with the department or program regarding their policy on P/NP grades.</li>
+</ol>
+<h3>Majors </h3>
+<p>All undergraduate majors offered at UC San Diego are available to Revelle College students. An exceptional student who has some unusual but definite academic interest for which a suitable major is not offered at UC San Diego may, with the consent of the provost of the college and with the assistance of a faculty adviser, plan his or her own major. The Revelle College individual major must be submitted no later than three quarters before the student&rsquo;s intended graduation and be approved by the executive committee of the college before it may be accepted in lieu of a departmental or interdepartmental major. The faculty adviser will supervise the student&rsquo;s work, and the provost must certify that the student has completed the requirements of the individual major before the degree is granted. </p>
+<p>For a list of majors requiring additional screening for acceptance into the major, visit the Revelle College website at <a href="http://revelle.ucsd.edu" target="_blank">http://revelle.ucsd.edu</a>. </p>
+<h3>Minors </h3>
+<p>A minor is not required at Revelle College. However, if a student wishes to complete a department minor or a project minor and have it posted to the transcript, he or she may do so.</p>
+<p>There are two types of minors available at Revelle College: </p>
+<ol start="1" type="1">
+  <li>Department      Minor—All courses for the minor are taken in one department and they are      chosen with the advice and approval of a minor adviser in that department.</li>
+  <li>Project      Minor—A project minor focuses on a topic or period chosen by the student.      The project is often interdepartmental and interdisciplinary. The program      must have the approval of a minor adviser.</li>
+</ol>
+<p>The current university guidelines for the minor require seven courses (twenty-eight units), of which twenty units must be upper division. (See <a href=UgrdDegReq.html#minors>“Undergraduate Minors and Programs of Concentration</a>.”)</p>
+<h3>Honors</h3>
+<p>Particularly well-prepared students are invited to join a freshman honors program, which includes weekly participation in small faculty seminars (Revelle 20). Acceptance into the honors program at admission is automatic for Regents Scholars, Jacobs Scholars, and Chancellor Scholars. New freshmen entering with a high school GPA of 3.8 or higher; reading and writing new SAT scores of 37; and math new SAT score of 35 or higher, will be invited to enroll.&nbsp;Admission to the program&rsquo;s winter and spring quarter seminar is offered to those freshmen who achieve a 3.7 GPA in at least twelve graded units per quarter, taken at UC San Diego during the previous quarter. </p>
+<p>Quarterly provost honors, honors at graduation, departmental honors, and Phi Beta Kappa honors are awarded. Outstanding graduating seniors are honored at graduation each year. An honors reception and awards ceremony are held in spring quarter for the top two hundred Revelle students (from all class levels).
+  For additional information, see &ldquo;<a href="http://revelle.ucsd.edu/academics/honors-opportunities/honors-programs.html" target="_blank">Revelle Honors Programs</a>&rdquo; and &ldquo;<a href="UgrdDegReq.html#honors">Honors</a>.&rdquo; </p>
+<h3>Study Abroad</h3>
+<p>Students may participate in the UC Education Abroad Program (EAP) and Opportunities Abroad Program (OAP) while still making regular progress toward graduation. Information on EAP/OAP is detailed in the <a href="../curric/EAP.html">Education Abroad Program</a> section of the <em>UC San Diego General Catalog</em>. Interested students should contact the Study Abroad UC San Diego office in the Matthews Quad Building and visit the website at <a href="http://studyabroad.ucsd.edu/" target="_blank">http://studyabroad.ucsd.edu</a>. Financial aid recipients may apply aid to the program and special study abroad scholarships may be available. </p>
+<p>Programs are now available for sophomores, juniors, and seniors. With careful planning students should be able to fulfill some general-education, major, and/or minor requirements while studying abroad. </p>
+<div>
+  <div> </div>
+  <div> </div>
+</div>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

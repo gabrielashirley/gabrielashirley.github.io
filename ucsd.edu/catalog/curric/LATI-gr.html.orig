@@ -1,0 +1,267 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Latin American Studies</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Latin American Studies</h1>
+<p class="sectionNav"><span class="courseFacLink">[ <a href="../curric/LATI-ug.html">undergraduate
+      program</a> | <a href="../curric/LATI-gr.html"> </a><a href="../courses/LATI.html">courses</a> | <a href="../faculty/LATI.html">faculty</a> ]</span></p>
+<p class="program-contact-info">Room 1, Gildred Latin American Studies Building<br />
+Institute of the
+Americas Complex<br />
+<a href="http://las.ucsd.edu" target="_blank">http://las.ucsd.edu</a></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h2 class="program-overview-subhead-1">Master of Arts in Latin American Studies</h2>
+<p>The master of arts in Latin American studies is designed for students who seek to integrate a broad range of disciplinary approaches to a world region of growing international significance. Upon graduation, most students pursue additional advanced degrees in academic or professional fields; others proceed to careers in the private sector, in international organizations, or in government. </p>
+				<p>To qualify for admission, students must have a BA with a grade point average of at least 3.5 on a 4.0 scale for the final two years of undergraduate study plus satisfactory scores on the Graduate Record Examination. </p>
+				<p>To receive the master of arts in Latin American studies, a student must</p>
+				<ol>
+				  <li>Demonstrate foreign language competence in Spanish or Portuguese. </li>
+				  <li>Maintain a 3.0 GPA in thirty-six units of course work (about nine courses)
+				    to be completed as follows:</li>
+				 <ol class="lower-alpha"> <li>Complete the Latin American Studies Basic Seminar Sequence: twelve
+				    units must be taken in the required Core Seminar in Latin American Studies
+				    (LATI 200, four units), four units in approved theory seminar, and four
+				    units in approved methodology seminar.</li>
+				  <li>Courses must be completed in at least three fields, with no more than
+				    sixteen units in any one department. Students are encouraged
+				    to include four units of independent research (LATI 299) for work on
+				    the master&#8217;s
+				    thesis.</li>
+				  <li>At least sixteen units must be taken in graduate-level courses, and
+				    up to twelve units may be taken in upper-division, undergraduate-level
+				    courses.</li></ol>
+				  <li>Successfully complete either a comprehensive exam or master&#8217;s
+				    thesis. </li>
+	    </ol>
+<p>MA students have the option to upgrade upper-division, undergraduate-level courses to graduate-level courses (contact the Latin American studies student affairs coordinator for information on requirements and procedures). To convert an undergraduate-level course (100 level) into a 298 graduate-level course, a student must attend all of the course meetings and incorporate a component of additional, graduate-level research work, upon arrangement with the faculty member teaching the course (a special form describing the supplementary work must be filled by the student and approved by the instructor and academic coordinator). In all such cases, the supplementary work should (a) increase the amount of reading to match the regular reading expectations of a graduate seminar, (b) include additional meeting time with the professor for a graduate-level discussion of the material, and (c) require the student to write a research paper (which would generally be on the order of fifteen to twenty pages).</p>
+				<h3 class="program-overview-subhead-2">Disciplinary and Thematic Concentrations</h3>
+				<p>MA students in Latin American studies who are interested in specific disciplines or research topics may apply for a disciplinary or thematic concentration. Currently students may choose from concentrations in cultural studies, gender studies, international migration, history, and sociology.</p>
+				<p>In addition to the general requirements for all candidates applying for admission to the master of arts in Latin American studies, applicants to a concentration must submit a statement explaining their intellectual and career interests in that specific area of study. Applications from new students will be considered for the fall quarter. Current students in the Latin American studies master&#8217;s program may apply in the spring quarter of their first year.</p>
+				<p>MA students who were previously enrolled as undergraduates at UC San Diego will not be allowed to repeat courses for credit toward the concentration. In all cases there are alternatives, and those students will be expected to take other classes to fulfill the requirements.</p>
+				<h3 class="program-overview-subhead-2">General Concentration Requirements</h3>
+				<p>To receive the master of arts in Latin American studies with a concentration, a student must</p>
+				<ol>
+				  <li>Demonstrate foreign language competence in Spanish or Portuguese.</li>
+				  <li>Maintain a 3.0 GPA in forty units of course work (about ten courses)
+				    to be completed as follows:</li>
+				 <ol class="lower-alpha"> <li>Complete the Latin American Studies Basic Seminar Sequence: twelve
+				    units must be taken in the required Core Seminar in Latin American Studies
+				    (LATI 200, four units), four units in approved theory seminar, and four
+				    units in approved methodology seminar.</li>
+				  <li>Complete sixteen units within the specifications of the concentration
+				    (as specified below). All of the concentration units must be taken at
+				    the graduate level (200 level), and a maximum of two undergraduate-level
+				    courses (100 level) may be upgraded to graduate-level 298 courses.</li>
+				  <li>Complete twelve units of general electives within the specification
+				    of the concentration (as specified below). At least 50 percent of the
+				    general elective units must be taken at the graduate level (200 level).</li></ol>
+				  <li>Successfully complete a master&#8217;s thesis on a topic relevant
+				    to the area of concentration.</li>
+	    </ol>
+<h3 class="program-overview-subhead-2">Concentration in Cultural Studies</h3>
+				<p>To receive the master of arts in Latin American studies (cultural studies), a student must complete the following units as concentration course work and general electives:</p>
+				<ol>
+				  <li>Two seminars (eight units) from the approved list of core seminars.
+				    These may be used to satisfy the theory and methodology requirements
+				    of the LAS MA program (ANTH 234, ANTH 251, ANTH 265, COGR 238, ETHN 257A/B, ETHN 259, ETHN 260, HIGR 200, HIGR 205, HIGR 247A-B, HIGR 248A-B, HIGR 252, LTCS 201, LTCS 210, LTCS 225, LTCS 250, LTCS 260, LTCS 255, LTSP 272, LTSP 275, SOC 216, VIS 259).</li>
+				  <li>Two courses (eight units) from the approved list of elective courses
+				    within the thematic specialization (ANAR 100, ANAR 153, ANSC 122, ANSC 131, ANAR 154, ANSC 132, ANSC 135, ANTH 234, ANTH 265, ANTH 269, COMM 140, COMM 114P, COMM 106G, COMM 142, COMM 106T, COMM 179, COMM 175, COMM 111P, COMM 111G, COMM 154, COMM 129, COMM 145, COMM 155, COMM 177, COMM 111M, COMM 156, COMM 168, COMM 128, COMM 105M, COMM 104G, COMM 152, COMM 132, COMM 146, COMM 172, COMM 111W, COMM 114E, ETHN 259, HIGR 245, LTAM 100, LTAM 101, LTAM 102, LTAM 105, LTAM 106, LTAM 107, LTAM 108, LTAM 109, LTAM 110, LTAM 111, LTAM 120, LTAM 130, LTAM 132, LTAM 140, LTEN 180, LTEN 188, LTSP 130A/B, LTSP 133, LTSP 134, LTSP 135A, LTSP 135B, LTSP 136, LTSP 137, LTSP 138, LTSP 140, LTSP 141, LTSP 142, LTSP 150A, LTSP 150B, LTSP 151, LTSP 153, LTSP 154, LTSP 170, LTSP 172, LTSP 173, LTSP 174, LTSP 175, LTSP 176, LTSP 177, LTSP 252, LTSP 258, LTSP 272, MUS 107, MUS 111, MUS 116, MUS 126, MUS 150, MUS 151, SOC 216, TDHT 108, TDHT 110, TDHT 111, TDHT 112, VIS 125F, VIS 126C, VIS 126D, VIS 126AN, VIS 126BN, VIS 126P, VIS 126Q, VIS 126R, VIS 128D, VIS 152, VIS 257, VIS 259).</li>
+				  <li>The selection of these seminars and courses must be formally approved
+				    by the student&#8217;s personal adviser (by signing the student&#8217;s
+				    graduate student general petition form). With approval from
+				    his/her adviser, however, students in the cultural studies
+				    concentration may take other seminars and courses that do not appear
+				    in the approved list, provided that the content of the work that they
+				    do is directly related to Latin American issues, topics, or themes.</li>
+				  <li>General Electives: The remaining twelve units must be taken as follows:
+				    two courses from the Approved List of Courses on Latin America
+				    (eight units), and one course of Directed Reading or Independent
+				    Research (298 or 299, four units).</li>
+	    </ol>
+		<h3 class="program-overview-subhead-2">Concentration in Gender Studies</h3>
+				<p>To receive the master of arts in Latin American studies (gender studies), a student must complete the following units as concentration course work and general electives:</p>
+				<ol>
+				  <li>One general theoretical course in gender studies (four units in any of the following: ANSC 125, CGS 100, CGS 101, CGS 104, CGS 112, COMM 167, COMM 114E, ETHN 183, ETNH 256, LTCS 250, SOCI 118, SOCI 132, SOCI 139, SOC 267).</li>
+				  <li>One course in feminist theory (four units in any of the following:
+				    CGS 103, ETHN 257A/B, HIGR 205, POLI 115A, POLI 116A).</li>
+				  <li>One course focused on gender studies in Latin America (four units
+				    in any of the following: ETHN 129, ETHN 148, HILA 164/264, HILA 261, LTAM 105, LTAM 106, LTSP 175, USP 135).</li>
+				  <li>One course of directed reading (298, four units), taken with a faculty
+				    member affiliated with the CGS Program, focused on a topic
+				    relevant to Latin American gender studies.</li>
+				  <li>General Electives: The remaining twelve units must be taken as follows:
+				    one course from the approved list of courses on Latin America
+				    (four units), four units of directed reading (298), and four
+				    units of independent research (299). </li>
+	    </ol>
+		<h3 class="program-overview-subhead-2">Concentration in History</h3>
+				<p>To receive the master of arts in Latin American studies (history), a student must complete the following units as concentration course work and general electives:</p>
+				<ol>
+				  <li>A required research seminar sequence in Latin American history (eight
+				    units in any of the following: HIGR 245A-B-C, HIGR 247A-B,
+				    or HIGR 248A-B).</li>
+				  <li>Two elective courses or seminars in Latin American history (eight
+				    units in any two of the following: ETHN 130, ETHN 131, ETHN 180, ETHN 259, HILA 100, HILA 101, HILA 102, HILA 112, HILA 113, HILA 115, HILA 120, HILA 121, HILA 121A, HILA 122, HILA 123, HILA 126, HILA 127, HILA 131, HILA 132, HILA 160/260, HILA 161/261, HILA 162/262, HILA 163/263, HILA 164/264, HILA 167/267, HILA 168/268, HILA 169/269, HIGR 245A-B-C, HIGR 247A-B, HIGR 248A-B, HIGR 252, HIUS 158, HIUS 159, HIUS 167/267, LTSP 116, LTSP 135A).</li>
+				  <li>General Electives: The remaining twelve units must be taken in departments
+				    other than the Department of History as follows: one course
+				    from the approved list of courses on Latin America (four
+				    units), four units of directed reading (298), and four units of independent
+				    research (299).</li>
+	    </ol>
+		<h3 class="program-overview-subhead-2">Concentration in International Migration</h3>
+				<p>To receive the master of arts in Latin American studies (international migration), a student must complete the following units as concentration course work and general electives:</p>
+				<ol>
+				  <li>One course focused on economic and social factors in international
+				    migration (four units in any of the following: ECON 114, ECON 162, ETHN 116, ETHN 118, ETHN 129, ETHN 131, ETHN 134, ETHN 144, HIUS 159, ETHN 260, IRGN 490, LTCS 125, POLI 248, SOCI 125, SOCI 127, SOC 282).</li>
+				  <li>One course focused on immigration policy (four units in any of the following: IRGN 432, POLI 150, POLI 236).</li>
+				  <li>One course focused on Latin American international migration (four
+				    units in any of the following: COMM 172, ETHN 189, HIUS 180, IRGN 490, LTAM 100, LTAM 101, LTAM 102, LTAM 105, LTAM 106, LTAM 107, LTAM 108, LTAM 109, LTSP 177, SOCI 122A, SOCI 122B, SOCI 122C).</li>
+				  <li>One course of directed reading (four units in a 298 course, focused
+				    on a topic relevant to Latin American migratory movements).</li>
+				  <li>General Electives: The remaining twelve units must be taken as follows:
+				    one course from the approved list of courses on Latin America
+				    (four units), four units of directed reading (298), and four
+				    units of Independent Research (299).</li>
+	    </ol>
+		<h3 class="program-overview-subhead-2">Concentration in Sociology</h3>
+				<p>To receive the master of arts in Latin American studies (sociology), a student must complete the following units as concentration course work and general electives:</p>
+				<ol>
+				  <li>One seminar in classical sociological theory (four units in SOC
+				    201A or SOC 201B).</li>
+				  <li> One seminar in sociological research methods
+				    (four units in any of the following: SOC 203, SOC 204, SOC
+				    205, SOC 206, SOC 207, SOC 227).</li>
+				  <li>One core sociological field seminar (four units in any of the following:
+				    SOC 212, SOC 216, SOC 222, SOC 226, SOC 234, SOC 244, SOC
+				    264, SOC 267).</li>
+				  <li>One sociology course or seminar focused on Latin America (four units
+				    in any of the following: SOCI 182, SOCI 188D, SOC 258).</li>
+				  <li>General Electives: The remaining twelve units must be taken in departments
+				    other than the Department of Sociology as follows: one course
+				    from the approved list of courses on Latin America (four
+				    units), four units of directed reading (298), and four units of independent
+				    research (299).</li>
+	    </ol>
+		  <!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

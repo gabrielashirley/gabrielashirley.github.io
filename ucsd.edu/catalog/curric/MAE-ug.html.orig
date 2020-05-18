@@ -1,0 +1,802 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Mechanical and Aerospace Engineering (MAE)</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+	<style type="text/css">
+<!--
+p.program-contact-info {}
+-->
+    </style>
+	<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Mechanical and Aerospace Engineering (MAE) </h1>
+<p class="sectionNav"><span class="courseFacLink">[ <a href="../curric/MAE-gr.html">graduate
+      program</a> | <a href="../courses/MAE.html">courses</a> | <a href="../faculty/MAE.html">faculty</a> ]</span></p>
+<p class="program-contact-info">STUDENT AFFAIRS: <br>
+  Warren College <br />
+180 Engineering Building II<br>
+  <a href="http://maeweb.ucsd.edu" target="_blank">http://maeweb.ucsd.edu </a></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h2 class="program-overview-subhead-1">Department Focus </h2>
+				<p>Our instructional and research programs advance scientific knowledge and create technological innovations to solve outstanding problems in their disciplines. The cutting-edge research encompasses a variety of areas that include solid mechanics; materials; fluid mechanics and heat transfer; dynamics, systems, and controls; energy including combustion and renewables; and plasmas. The faculty collaborate across areas and often with faculty in other engineering departments, the School of Medicine, and the Scripps Institution of Oceanography.&nbsp;</p>
+                <p>All MAE programs of study have strong components in laboratory experimentation, numerical computation, and engineering design. Design is covered throughout the curricula by open-ended homework problems, by laboratory and computer courses that include student-initiated projects, and finally by senior design project courses that involve teams of students working to solve engineering design problems brought in from industry.				</p>
+                <p class="anchor-parent"><a class="anchor" id="ugrad"></a></p><h2 class="program-overview-subhead-1">The Undergraduate Program </h2>
+				<h3 class="program-overview-subhead-2">Degree and Program Options </h3>
+				<p>The Department of Mechanical and Aerospace Engineering (MAE) offers traditional, accredited engineering programs leading to a BS degree in mechanical engineering and a BS degree in aerospace engineering. MAE also offers a traditional nonaccredited engineering program leading to a BS degree in environmental engineering. The BS programs require a minimum of 180 units. </p>
+<p>All MAE programs of study have strong components in laboratory experimentation,
+				  numerical computation, and engineering design. Design is emphasized
+				  throughout the curricula by open-ended homework problems, by
+				  laboratory and computer courses that include student-initiated
+				  projects, and by senior design project courses that
+				  often involve teams of students working to solve engineering
+				  design problems brought in from industry. The MAE programs
+				  are designed to prepare students receiving bachelor&#8217;s
+				  degrees for professional careers or for graduate education
+				  in their area of specialization. In addition, the programs
+				  can also be taken by students who intend to use their undergraduate
+				  engineering education as preparation for postgraduate professional
+				  training in nontechnical fields such as business administration,
+				  law, or medicine. </p>
+				<p><strong class="myriad-pro-semibold">Mechanical engineering</strong> is a traditional four-year curriculum in mechanics, vibrations, thermodynamics, fluid flow, heat transfer, materials, control theory, and mechanical design. Graduates find employment in the mechanical and aerospace industries as well as electro-mechanical or biomedical industries. Mechanical engineers are involved in material processing, manufacturing, assembling, and maintenance of lifeline facilities such as power plants. </p>
+				<p>Mechanical design includes conceptual design, drafting with 3-D CAD programs, stress, dynamics, heat transfer or fluid dynamics analyses, and the optimization of the total system for superior performance and customer satisfaction. In manufacturing, the objective is to enhance efficiency and economy by utilizing numerical control (NC) of machine tools, mechatronics, micromachining, and rapid prototyping. Currently, engineers have available computers, process models, and sensors to improve the quality and productivity of the manufacturing lines. In preparation for this modern era, the mechanical engineering curriculum emphasizes CAD courses, computer courses, laboratory courses, and design courses in addition to providing a strong background in basic science. </p>
+				<p>Students have the option to earn a degree in mechanical engineering or to select one of five specializations within the discipline. Students are limited to one specialization.</p>
+<p>The BS degree in mechanical engineering is accredited by the Engineering Accreditation Commission of ABET, <a href="http://www.abet.org" target="_blank">http://www.abet.org</a>.</p>
+				<p>The program&rsquo;s educational objectives are the following:</p>
+                <ul>
+                  <li><span dir="LTR"> </span>To provide our students with a strong technical education that will enable them to have successful careers as engineers, technology leaders, and innovators.</li>
+                  <li><span dir="LTR"> </span>To prepare our students for rapid technological change with the core knowledge central to assuring that they are able to further their knowledge across a range of disciplines throughout their professional careers and pursue advanced education.</li>
+                  <li><span dir="LTR"> </span>To prepare our students to communicate and to work in teams effectively and to deal knowledgeably and ethically with the impact of technology in our society and on global issues.</li>
+        </ul>
+                <p>Graduates from the ME program are expected to have the following:</p>
+                <ol>
+                  <li>An ability      to identify, formulate, and solve complex engineering problems by applying      principles of engineering, science, and mathematics.</li>
+                  <li>An ability      to apply engineering design to produce solutions that meet specified needs      with consideration of public health, safety, and welfare, as well as      global, cultural, social, environmental, and economic factors.</li>
+                  <li>An ability      to communicate effectively with a range of audiences.</li>
+                  <li>An ability      to recognize ethical and professional responsibilities in engineering      situations and make informed judgments, which must consider the impact of      engineering solutions in global, economic, environmental, and societal      contexts.</li>
+                  <li>An ability      to function effectively on a team whose members together provide      leadership, create a collaborative and inclusive environment, establish      goals, plan tasks, and meet objectives.</li>
+                  <li>An ability      to develop and conduct appropriate experimentation, analyze and interpret      data, and use engineering judgment to draw conclusions.</li>
+                  <li>An ability      to acquire and apply new knowledge as needed, using appropriate learning      strategies.</li>
+                  <li>An ability      to work professionally in mechanical systems areas.</li>
+                  <li>An ability      to work professionally in thermal systems areas.</li>
+                  <li>An ability      to apply principles of engineering, basic science, and mathematics      (including multivariate calculus and differential equations).</li>
+                  <li>An ability      to model, analyze, design, and realize physical systems, components or      processes. </li>
+                </ol>
+<p><strong class="myriad-pro-semibold">Aerospace engineering </strong>is a four-year curriculum that prepares students for a career in the aeronautical and astronautical industries, related technology industries, or for graduate school. </p>
+				<p>The curriculum was developed to emphasize engineering fundamentals, aerospace
+				  topics, and the integration of these fundamentals and topics
+				  into the design of an aerospace system. Courses in engineering
+				  fundamentals include materials, solid and fluid mechanics,
+				  thermodynamics, computer modeling, computer-aided-design, numerical
+				  analysis, and controls. Courses covering the aerospace engineering
+				  topics include aerodynamics, aerospace structures, flight mechanics,
+				  dynamics and control of aerospace vehicles, and propulsion.
+				  Students complete the program by taking a two-quarter capstone
+				  design course that integrates all of their aerospace education
+				  into the design, development, and testing of an aeronautical
+				  or astronautical vehicle or component. Throughout the program,
+				  students take laboratory courses that expose them to modern
+				  testing techniques and enhance their understanding of complex
+				  engineering topics. The program’s main objectives are to provide
+				  students with a strong foundation in engineering fundamentals;
+				  in-depth knowledge of key topics in aerospace engineering including
+				  aerodynamics, propulsion, flight mechanics, orbital mechanics,
+				  aerospace structures and materials, and design and control
+				  of aerospace systems; and an awareness of the value of lifelong
+				  learning. </p>
+				<p>The BS degree in aerospace engineering is accredited by the Engineering Accreditation Commission of ABET, <a href="http://www.abet.org" target="_blank">http://www.abet.org</a>.</p>
+				<p>The program&rsquo;s educational objectives are the following:</p>
+                <ul>
+                  <li><span dir="LTR"> </span>To provide our students with a strong technical education that will enable them to have successful careers as engineers, technology leaders, and innovators.</li>
+                  <li><span dir="LTR"> </span>To prepare our students for rapid technological change with the core knowledge central to assuring that they are able to further their knowledge across a range of disciplines throughout their professional careers and pursue advanced education.</li>
+                  <li><span dir="LTR"> </span>To prepare our students to communicate and to work in teams effectively and to deal knowledgeably and ethically with the impact of technology in our society and on global issues.</li>
+        </ul>
+                <p>Graduates from the AE program are expected to have the following:</p>
+                <ol>
+                  <li>An ability      to identify, formulate, and solve complex engineering problems by applying      principles of engineering, science, and mathematics.</li>
+                  <li>An ability      to apply engineering design to produce solutions that meet specified needs      with consideration of public health, safety, and welfare, as well as      global, cultural, social, environmental, and economic factors.</li>
+                  <li>An ability      to communicate effectively with a range of audiences.</li>
+                  <li>An ability      to recognize ethical and professional responsibilities in engineering      situations and make informed judgments, which must consider the impact of      engineering solutions in global, economic, environmental, and societal      contexts.</li>
+                  <li>An ability      to function effectively on a team whose members together provide      leadership, create a collaborative and inclusive environment, establish      goals, plan tasks, and meet objectives.</li>
+                  <li>An ability      to develop and conduct appropriate experimentation, analyze and interpret      data, and use engineering judgment to draw conclusions.</li>
+                  <li>An ability      to acquire and apply new knowledge as needed, using appropriate learning      strategies.</li>
+                  <li>Knowledge      of aerodynamics, aerospace materials, structures, propulsion, flight      mechanics, and stability and control.</li>
+                  <li>Knowledge      of attitude determination and control, space structures, orbital      mechanics, and rocket propulsion.</li>
+                  <li>An ability      to integrate knowledge of the fundamental topics in the design of      aerospace systems. </li>
+                </ol>
+<p><strong class="myriad-pro-semibold">Environmental engineering</strong> is a four-year curriculum with fundamental engineering courses in mechanics, thermodynamics, physics, chemistry, and mathematics. In the third and fourth year, an environmental engineering sequence is offered, as well as further specialization in fluid mechanics, and a wide choice of technical electives, both from within MAE and other departments. The environmental engineering major focuses on conveying an understanding and awareness of the fundamental processes associated with human industrial activity that have environmental implications, and on equipping the next generation of engineers with the tools to develop technologies that enable sustainable economic growth. </p>
+				<h3 class="program-overview-subhead-2">Other Undergraduate Programs of Study in MAE </h3>
+				<p>The <strong>engineering mechanics minor</strong> involves successful completion of seven MAE courses, including at least five upper-division courses open to students who meet the course prerequisites. Our courses provide a good introduction to engineering analysis and would be useful to nonengineering majors desiring a background that could be used in professional communication with engineers. For students who are interested in taking the fundamentals in engineering (FE) exam to become an Engineer-in-Training (EIT) in mechanical engineering, the following courses are recommended: MAE 101A-B-C, MAE 11, MAE 20, MAE 108, MAE 30A-B, MAE 170, MAE 131A, MAE 150.</p>
+<h3 class="program-overview-subhead-2">Double Majors and Minors</h3>
+				<p>It is the policy of the UC San Diego Academic Senate not to approve double majors and minors within engineering departments. </p>
+				<h3 class="program-overview-subhead-2">Program Accreditation </h3>
+				<p>The BS degree program in aerospace engineering is accredited by the Engineering Accreditation Commission of ABET,&nbsp;<a href="http://www.abet.org/" target="_blank">http://www.abet.org</a>.</p>
+				<p>The BS degree program in mechanical engineering is accredited by the Engineering Accreditation Commission of ABET,&nbsp;<a href="http://www.abet.org/" target="_blank">http://www.abet.org</a>.</p>
+<h3 class="program-overview-subhead-2">Major Requirements </h3>
+				<p>Specific course requirements for each major program are outlined in tables in this section of the catalog. In addition to the required technical courses specifically indicated, a suggested scheduling of humanities and social science courses (HSS) are distributed in the curricula for students to use to meet college general-education requirements. To graduate, students must maintain an overall GPA of at least 2.0. Deviations from these programs of study must be approved by the Undergraduate Affairs Committee prior to taking alternative courses. In addition, technical elective (TE) course selections must have departmental approval prior to taking the courses. In the aerospace engineering BS degree program and the mechanical engineering BS degree program, TE courses are restricted to meet accreditation standards. Courses such as MAE 197 and 198 are not allowed as a technical elective in meeting the upper-division major requirements. MAE 199 may be used as a technical elective only under restrictive conditions. Policy regarding these conditions may be obtained from the department&rsquo;s Student Affairs Office. </p>
+<p>Students with different academic preparation may vary the scheduling of
+				  lower-division courses such as math, physics and chemistry, but should
+				  consult the department. Deviations in scheduling MAE upper-division courses
+				  are discouraged. Most lower-division courses
+				  are offered more than once each year to permit students some flexibility
+				  in their program scheduling. However, many MAE upper-division courses are
+				  taught only once per year, and courses are scheduled to be consistent with
+				  the curricula as shown in the tables. When possible, MAE does offer large
+				  enrollment courses more than once each year. A tentative schedule of course
+				  offerings is available from the department each spring for the following
+			    academic year. </p>
+<h3 class="program-overview-subhead-2">General-Education/College Requirements </h3>
+				<p>For graduation each student must satisfy general-education course requirements determined by the student&#8217;s college as well as the major requirements determined by the department. The six colleges at UC San Diego require widely different general-education courses, and the number of such courses differs from one college to another. Each student should choose his or her college carefully, considering the special nature of the college and the breadth of general education. </p>
+				<p>Each MAE program allows for humanities and social science (HSS) courses so that students can fulfill their college requirements. In the aerospace engineering BS degree program and the mechanical engineering BS degree program, students must develop a program that includes a total of at least twenty-four units in the arts, humanities, and social sciences, not including subjects such as accounting, industrial management, finance, or personnel administration. It should be noted, however, that some colleges require more than the twelve HSS courses indicated in the curriculum tables. Accordingly, students in these colleges could take longer to graduate than the indicated four-year schedule. Students must consult with their college to determine which HSS courses to take. </p>
+<h3 class="program-overview-subhead-2">Professional Licensing </h3>
+				<p>All students are encouraged to take the Fundamentals
+				  of Engineering (FE) examination as the first step in becoming licensed
+				  as a professional engineer (PE). Students graduating from an accredited
+				  program can take the PE examination after FE certification and two years
+				  of work experience; students graduating from a nonaccredited program can
+			    take the PE examination after FE certification and four years of work experience. </p>
+<p>For further information please contact your local Board of Registration for Professional Engineers and Land Surveyors. </p>
+				<h3 class="program-overview-subhead-2">Mechanical Engineering </h3>
+				<p>The mechanical engineering program has a traditional four-year curriculum involving mechanics, vibrations, thermodynamics, fluid flow, heat transfer, materials, control theory, and mechanical design. </p>
+<h4 class="program-overview-subhead-3">Recommended Course Sequence—Mechanical Engineering </h4>
+<p> </p>
+<table border="0" cellpadding="0" cellspacing="0" class="sample-program">
+<tr>
+<td valign="top" class="Normal"><p><strong>FALL</strong></p></td>
+<td valign="top" class="Normal"><p><strong>WINTER</strong></p></td>
+<td valign="top" class="Normal"><p><strong>SPRING</strong></p></td>
+</tr>
+
+<tr>
+<td valign="top" class="Normal"><p><strong>Freshman Year</strong></p></td>
+<td valign="top" class="Normal">&nbsp;</td>
+<td valign="top" class="Normal">&nbsp;</td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>MATH 20A </p></td>
+<td valign="top" class="Normal"><p>MATH 20B</p></td>
+<td valign="top" class="Normal"><p>MATH 20C</p></td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>CHEM 6A</p></td>
+<td valign="top" class="Normal"><p>PHYS 2A </p></td>
+<td valign="top" class="Normal"><p>PHYS 2B</p></td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>HSS</p></td>
+<td valign="top" class="Normal"><p>HSS</p></td>
+<td valign="top" class="Normal"><p>MAE 3&nbsp; </p></td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>HSS </p></td>
+<td valign="top" class="Normal"><p>HSS</p></td>
+<td valign="top" class="Normal"><p>HSS </p></td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top" class="Normal"><p><strong>Sophomore Year</strong></p></td>
+<td valign="top" class="Normal">&nbsp;</td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>MATH 20D </p></td>
+<td valign="top" class="Normal"><p>MATH 18</p></td>
+<td valign="top" class="Normal"><p>MATH 20E</p></td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>PHYS 2C</p></td>
+<td valign="top" class="Normal"><p>MAE 8</p></td>
+<td valign="top" class="Normal"><p>HSS</p></td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>MAE 20</p></td>
+<td valign="top" class="Normal"><p>MAE 30A </p></td>
+<td valign="top" class="Normal"><p>MAE 30B</p></td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>HSS&nbsp; </p></td>
+<td valign="top" class="Normal"><p>HSS</p></td>
+<td valign="top" class="Normal"><p>MAE 131A</p></td>
+</tr>
+
+<tr>
+<td valign="top" class="Normal"><p><strong>Junior Year</strong></p></td>
+<td valign="top" class="Normal">&nbsp;</td>
+<td valign="top" class="Normal">&nbsp;</td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>MAE 11</p></td>
+<td valign="top" class="Normal"><p>MAE 101A</p></td>
+<td valign="top" class="Normal"><p>MAE 101B </p></td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>MAE 105</p></td>
+<td valign="top" class="Normal"><p>MAE 143A </p></td>
+<td valign="top" class="Normal"><p>MAE 143B </p></td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>MAE 40</p></td>
+<td valign="top" class="Normal"><p>HSS</p></td>
+<td valign="top" class="Normal"><p>MAE 170</p></td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>MAE 107</p></td>
+<td valign="top" class="Normal"><p>MAE 160 or MAE 131B</p></td>
+<td valign="top" class="Normal"><p>HSS</p></td>
+</tr>
+
+<tr>
+<td valign="top" class="Normal"><p><strong>Senior Year</strong></p></td>
+<td valign="top" class="Normal">&nbsp;</td>
+<td valign="top" class="Normal">&nbsp;</td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>MAE 101C&nbsp; </p></td>
+<td valign="top" class="Normal"><p>MAE 171A&nbsp; </p></td>
+<td valign="top" class="Normal"><p>MAE 156B</p></td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>MAE 150</p></td>
+<td valign="top" class="Normal"><p>MAE 156A</p></td>
+<td valign="top" class="Normal"><p>TE</p></td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>TE</p></td>
+<td valign="top" class="Normal"><p>TE</p></td>
+<td valign="top" class="Normal"><p>TE</p></td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>HSS</p></td>
+<td valign="top" class="Normal"><p>HSS</p></td>
+<td valign="top" class="Normal"><p>TE</p></td>
+</tr>
+
+</table>
+	<ul>
+      <li>CHEM 6AH      may be taken in place of CHEM 6A. </li>
+	
+        <li>In      fulfilling the humanities and social science requirements (HSS), students      must take a total of at least twenty-four units in the arts, humanities,      and social sciences, not including subjects such as accounting, industrial      management, finance, or personnel administration. Twelve HSS courses are      listed here; individual college 
+      requirements may be different.<li>Technical      elective (TE) courses must be upper-division or graduate courses in      engineering sciences, natural sciences, or mathematics selected with a      prior approval of the department. See Student Affairs in MAE for a current      list of preapproved TEs.				</li>
+    </ul>
+	<h3>Mechanical Engineering with a Specialization in Controls and Robotics</h3>
+	<p>The specialization in controls and robotics is designed for students who want to understand the fundamentals of controls and optimization and their applications in robotics such as autonomous vehicles, biomedical technologies, and swarms of drones.</p>
+	<p>Students must complete all of the mechanical engineering requirements described above, and four of the five technical electives must be selected from the list below including at least two of the courses marked with an asterisk (*):</p>
+    <ul type="disc">
+      <li>MAE 108. Probability and Statistical Methods for Mechanical and      Environmental Engineering</li>
+      <li>MAE 142. Dynamics and Control of Aerospace Vehicles*</li>
+      <li>MAE 144. Embedded Control &amp; Robotics*</li>
+      <li>MAE 145. Introduction to Robotic Planning &amp; Estimation*</li>
+      <li>MAE 148. Introduction to Autonomous Vehicles</li>
+      <li>MAE 180A. Spacecraft Guidance I*</li>
+      <li>MAE 200. Controls*</li>
+      <li>MAE 204. Robotics*</li>
+ 
+      <li>SE 143A. Aerospace Structural Design I</li>
+      <li>SE 143B. Aerospace      Structural Design II</li>
+    </ul>
+    <h3>Mechanical Engineering with a Specialization in Fluid Mechanics and Thermal Systems</h3>
+    <p>The specialization in fluid mechanics and thermal systems is designed for students who are interested in the fundamentals of thermodynamics, fluid mechanics, heat transfer, and engineering applications.</p>
+    <p>Students must complete all of the mechanical engineering requirements described above and four of the five technical electives must be selected from the list below:</p>
+    <ul type="disc">
+      <li>MAE 101D. Intermediate Heat Transfer</li>
+      <li>MAE 104. Aerodynamics</li>
+      <li>MAE 110. Thermodynamic Systems</li>
+      <li>MAE 113. Fundamentals of Propulsion</li>
+      <li>MAE 119. Introduction to Renewable Energy:      Solar and Wind</li>
+      <li>MAE 122. Flow &amp;&nbsp;Transport in the      Environment</li>
+      <li>MAE 201. Mechanics of Fluids</li>
+      <li>MAE 202. Thermal Processes</li>
+      <li>BENG 103B. Bioengineering Mass      Transfer&nbsp;or CENG 101C. Mass Transfer</li>
+      <li>SIO 111. Introduction to Ocean Waves</li>
+      <li>SIO 172. Physics of the Atmosphere</li>
+      <li>SIO 173. Dynamics of the Atmosphere and      Climate</li>
+      <li>SIO 178. Geophysical Fluid Dynamics</li>
+    </ul>
+    <h3>Mechanical Engineering with a Specialization in Materials Science and Engineering</h3>
+    <p>The specialization in materials science and engineering is designed for students who are interested in materials fundamentals and applications in engineering such as criteria for materials selection, fabrication and failure analysis of engineering components, nanomaterials and materials for biomedical, energy, and electrical/magnetic/optical applications.</p>
+    <p>Students must complete all of the mechanical engineering requirements described above and four of the five technical electives must be selected from the list below. Only one of the courses marked with an asterisk (*) will be accepted for the specialization, not both:</p>
+    <ul type="disc">
+      <li>MAE 130. Mechanics III: Vibrations</li>
+      <li>One of the following two courses:</li>
+      <ul type="circle">
+        <li>MAE 131B. Fundamentals of Solid Mechanics II       (if MAE 160 is used to satisfy ME major requirement)</li>
+        <li>MAE 160. Mechanical Behavior of Materials       (if MAE 131B is used to satisfy ME major requirement)</li>
+      </ul>
+      <li>MAE 133. Finite Element Methods in Mechanical      and Aerospace Engineering*</li>
+      <li>MAE 165. Fatigue &amp; Failure Analysis of      Engineering Components</li>
+      <li>MAE 166. Nanomaterials</li>
+      <li>MAE 167. Wave Dynamics in Materials</li>
+      <li>MAE 190. Biomaterials and Medical Devices</li>
+      <li>NANO 134. Polymeric Materials (or MATS 257.      Polymer Science &amp; Engineering)</li>
+      <li>NANO 148. Thermodynamics of Materials</li>
+      <li>NANO 158. Phase Transformations and Kinetics</li>
+      <li>NANO 158L. Materials Processing Laboratory</li>
+      <li>NANO 161. Material Selection in Engineering</li>
+      <li>NANO 174L. Mechanical Behavior Laboratory</li>
+      <li>SE 131. Finite Element Analysis*</li>
+      <li>SE 142. Design of Composite Structures</li>
+      <li>SE 163. Nondestructive Evaluation</li>
+    </ul>
+    <h3>Mechanical Engineering with a Specialization in Mechanics of Materials</h3>
+    <p>The specialization in mechanics of materials is designed for students who are interested in gaining expertise in the areas of mechanics of solid and soft materials, and the dynamics of material systems (e.g., bioinspired systems and metamaterials), including applications to engineering structures and devices, manufacturing, energy, and biomedical engineering. Students can choose from a diverse set of courses in mechanics, numerical modeling, and material science.</p>
+    <p>Students must complete all of the mechanical engineering requirements described above and four of the five technical electives must be selected from the list below including both of the courses marked with an asterisk (*):</p>
+    <ul type="disc">
+      <li>MAE 130. Mechanics III: Vibrations*</li>
+      <li>MAE 131B. Fundamentals of Solid Mechanics II*</li>
+      <li>MAE 133. Finite Element Methods in Mechanical      and Aerospace Engineering</li>
+      <li>MAE 160. Mechanical Behavior of Materials (if      MAE 131B is used to satisfy ME major requirement)</li>
+      <li>MAE 165. Fatigue and Failure Analysis of      Engineering Components</li>
+      <li>MAE 166. Nanomaterials</li>
+      <li>MAE 167. Wave Dynamics in Materials</li>
+      <li>MAE 190. Biomaterials and Medical Devices</li>
+      <li>NANO 134. Polymeric Materials (or MATS 257.      Polymer Science and Engineering)</li>
+      <li>NANO 148. Thermodynamics of Materials</li>
+      <li>NANO 158. Phase Transformations and Kinetics</li>
+      <li>NANO 158L. Materials Processing Laboratory</li>
+      <li>NANO 161. Material Selection in Engineering</li>
+      <li>NANO 174L. Mechanical Behavior Laboratory</li>
+      <li>SE 142. Design of Composite Structures</li>
+      <li>SE 163. Nondestructive Evaluation&nbsp;</li>
+    </ul>
+    <h3>Mechanical Engineering with a Specialization in Renewable Energy and Environmental Flows</h3>
+    <p>The specialization in renewable energy and environmental flows is designed for students who are interested in technologies that enable sustainable growth, in flow and transport in atmosphere, ocean, and groundwater, and renewable energy solutions for the electric power system. Students can choose from a diverse set of courses in oceanography, chemistry, and various engineering disciplines.</p>
+    <p>Students must complete all of the mechanical engineering requirements described above and four of the five technical electives must be selected from the list below including both courses marked with an asterisk (*):</p>
+    <ul type="disc">
+      <li>Core</li>
+      <ul type="circle">
+        <li>MAE 119, Introduction to Renewable Energy:       Solar and Wind*</li>
+        <li>MAE 122. Flow and Transport in the       Environment*</li>
+      </ul>
+      <li>Environmental Flows</li>
+      <ul type="circle">
+        <li>MAE 123. Introduction to Transport in Porous       Media</li>
+        <li>SIO 111. Introduction to Ocean Waves</li>
+        <li>SIO 171. Introduction to Physical       Oceanography</li>
+        <li>SIO 172. Physics of the Atmosphere</li>
+        <li>SIO 173. Dynamics of the Atmosphere and Climate</li>
+        <li>SIO 175. Analysis of Oceanic and Atmospheric       Data</li>
+        <li>SIO 176. Observational Physical Oceanography</li>
+        <li>SIO 178. Geophysical Fluid Dynamics</li>
+        <li>SIO 179. Ocean Instruments and Sensors</li>
+      </ul>
+      <li>Energy</li>
+      <ul type="circle">
+        <li>MAE 101D. Intermediate Heat Transfer</li>
+        <li>MAE 108. Probability and Statistical Methods       for Mechanical and Environmental Engineering</li>
+        <li>MAE 110. Thermodynamics Systems</li>
+        <li>MAE 120. Introduction to Nuclear Energy</li>
+        <li>MAE 124. Environmental Challenges: Science and       Solutions</li>
+        <li>MAE 125. Building Energy Efficiency</li>
+        <li>MAE 206. Energy Systems</li>
+        <li>ECE 121A. Power Systems Analysis and       Fundamentals</li>
+        <li>ECE 121B. Energy Conversion</li>
+        <li>ECE 125A. Introduction to Power Electronics       I</li>
+        <li>ECE 125B. Introduction to Power Electronics       II</li>
+        <li>SIO 117. The Physical Basis of Global       Warming</li>
+      </ul>
+      <li>Environmental Chemistry</li>
+      <ul type="circle">
+        <li>CENG 100. Material and Energy Balances</li>
+        <li>CHEM 171. Environmental Chemistry I</li>
+        <li>CHEM 172. Environmental Chemistry II</li>
+        <li>CHEM 173. Atmospheric Chemistry</li>
+        <li>ESYS 101. Environmental Biology</li>
+        <li>SIO 141/CHEM 174. Chemical Principles of       Marine Systems</li>
+        <li>SIO 143. Ocean Acidification</li>
+        <li>SIO 174. Chemistry of the Atmosphere and       Oceans</li>
+        <li>Most CENG and CHEM courses (with petition)</li>
+      </ul>
+    </ul>
+    <h3 class="program-overview-subhead-2">Aerospace Engineering </h3>
+				<p>The aerospace engineering program is a four-year curriculum that begins with fundamental engineering courses in mechanics, thermodynamics, materials, solid mechanics, fluid mechanics, and heat transfer. Additional courses are required in aerospace structures, aerodynamics, flight mechanics, propulsion, controls, and aerospace design. Graduates of this program enter graduate school or enter the aerospace industry to develop aircraft and spacecraft, but they also find employment in other areas that use similar technologies, such as mechanical and energy-related fields. Examples include automobile, naval, and sporting equipment manufacturing. </p>
+
+				<h4 class="program-overview-subhead-3">Recommended Course Sequence—Aerospace
+				  Engineering </h4>
+<table border="0" cellpadding="0" cellspacing="0" class="sample-program">
+<tr>
+<td valign="top" class="Normal"><p><strong>FALL</strong></p></td>
+<td valign="top" class="Normal"><p><strong>WINTER</strong></p></td>
+<td valign="top" class="Normal"><p><strong>SPRING</strong></p></td>
+</tr>
+
+<tr>
+<td valign="top" class="Normal"><p><strong>Freshman Year</strong></p></td>
+<td valign="top" class="Normal">&nbsp;</td>
+<td valign="top" class="Normal">&nbsp;</td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>MATH 20A</p></td>
+<td valign="top" class="Normal"><p>MATH 20B</p></td>
+<td valign="top" class="Normal"><p>MATH 20C</p></td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>MAE 2 </p></td>
+<td valign="top" class="Normal"><p>PHYS 2A</p></td>
+<td valign="top" class="Normal"><p>PHYS 2B</p></td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>CHEM 6A</p></td>
+<td valign="top" class="Normal"><p>HSS</p></td>
+<td valign="top" class="Normal"><p>HSS</p></td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>HSS</p></td>
+<td valign="top" class="Normal"><p>HSS</p></td>
+<td valign="top" class="Normal"><p>HSS</p></td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top" class="Normal"><p><strong>Sophomore Year</strong></p></td>
+<td valign="top" class="Normal">&nbsp;</td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>MATH 20D</p></td>
+<td valign="top" class="Normal"><p>MATH 18</p></td>
+<td valign="top" class="Normal"><p>MATH 20E</p></td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>PHYS 2C and 2CL</p></td>
+<td valign="top" class="Normal"><p>MAE 8</p></td>
+<td valign="top" class="Normal"><p>MAE 131A </p></td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>MAE 21</p></td>
+<td valign="top" class="Normal"><p>MAE 30A</p></td>
+<td valign="top" class="Normal"><p>MAE 30B</p></td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>HSS </p></td>
+<td valign="top" class="Normal"><p>HSS</p></td>
+<td valign="top" class="Normal"><p>HSS</p></td>
+</tr>
+
+<tr>
+<td valign="top" class="Normal"><p><strong>Junior Year</strong></p></td>
+<td valign="top" class="Normal">&nbsp;</td>
+<td valign="top" class="Normal">&nbsp;</td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>MAE 105</p></td>
+<td valign="top" class="Normal"><p>MAE 101A</p></td>
+<td valign="top" class="Normal"><p>MAE 101B </p></td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>MAE 11</p></td>
+<td valign="top" class="Normal"><p>MAE 143A</p></td>
+<td valign="top" class="Normal"><p>MAE 143B</p></td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>MAE 180A</p></td>
+<td valign="top" class="Normal"><p>SE 160A</p></td>
+<td valign="top" class="Normal"><p>MAE 170</p></td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>MAE 107</p></td>
+<td valign="top" class="Normal"><p>HSS</p></td>
+<td valign="top" class="Normal"><p>SE 160B</p></td>
+</tr>
+
+<tr>
+<td valign="top" class="Normal"><p><strong>Senior Year</strong></p></td>
+<td valign="top" class="Normal">&nbsp;</td>
+<td valign="top" class="Normal">&nbsp;</td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>MAE 101C</p></td>
+<td valign="top" class="Normal"><p>MAE 155A</p></td>
+<td valign="top" class="Normal"><p>MAE 155B</p></td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>MAE 104</p></td>
+<td valign="top" class="Normal"><p>MAE 142</p></td>
+<td valign="top" class="Normal"><p>HSS</p></td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>HSS</p></td>
+<td valign="top" class="Normal"><p>MAE 175A</p></td>
+<td valign="top" class="Normal"><p>HSS</p></td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>HSS</p></td>
+<td valign="top" class="Normal"><p>MAE 113</p></td>
+<td valign="top" class="Normal"><p>TE</p></td>
+</tr>
+
+</table>
+	<ul>
+<li class="list-level-1">CHEM 6AH may be taken in place of CHEM 6A. </li>
+					<li class="list-level-1">In fulfilling the humanities and social science (HSS) requirements, students must take a total of at least twenty-four units in the arts, humanities, and social sciences, not including subjects such as accounting, industrial management, finance, or personnel administration. Twelve HSS courses are listed here; individual college requirements may be different.  </li>
+					<li class="list-level-1">Technical elective (TE) courses must be upper-division or graduate courses in engineering sciences, natural sciences, or mathematics selected with a prior approval of the department. See Student Affairs in MAE for a current list of preapproved TEs.				</li>
+	</ul>
+	<h3 class="program-overview-subhead-2">Environmental Engineering </h3>
+				<p>The environmental engineering BS degree program is a four-year curriculum with fundamental engineering courses in mechanics, thermodynamics, physics, chemistry, and math.  In the third and fourth year, an environmental engineering sequence is offered, as well as further specialization in fluid mechanics, and a wide choice of technical elective (TE) courses, both from within MAE and in other departments. </p>
+<p>The following courses are required for the environmental engineering major:</p>
+		<p><strong>Lower-Division</strong></p>
+		<ol>
+		  <li>MAE 3, 8, 11, 30A-B</li>
+		  <li>CHEM 6A-B-C</li>
+	      <li>MATH      20A-E and MATH 18 (formerly 20F)</li>
+	
+          <li>PHYS 2A-B-C </li>
+        </ol>
+		<p><strong>Upper-Division</strong></p>
+				<ol>
+				  <li>MAE 101A-C,      105, 107, 108, 119, 122, 123, 126A-B, 170</li>
+		
+                  <li>Restricted Electives: four upper-division courses to be chosen from a preapproved list or can be petitioned through the department. One MUST be an SIO course.</li>
+                  <li>CHEM 171</li>
+                  <li>ESYS 101</li>
+                  <li>CENG 100</li>
+                </ol>
+				<h4><strong>Recommended Schedule</strong></h4>
+<table border="0" cellpadding="0" cellspacing="0" class="sample-program">
+  <tr>
+  <td valign="top" class="Normal"><p><strong>FALL</strong></p></td>
+  <td valign="top" class="Normal"><p><strong>WINTER</strong></p></td>
+  <td valign="top" class="Normal"><p><strong>SPRING</strong></p></td>
+  </tr>
+  
+  <tr>
+  <td valign="top" class="Normal"><p><strong>Freshman Year</strong></p></td>
+  <td valign="top" class="Normal">&nbsp;</td>
+  <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+  <td valign="top" class="Normal"><p>MATH 20A</p></td>
+  <td valign="top" class="Normal"><p>MATH 20B</p></td>
+  <td valign="top" class="Normal"><p>MATH 20C</p></td>
+  </tr>
+  <tr>
+  <td valign="top" class="Normal"><p>CHEM 6A</p></td>
+  <td valign="top" class="Normal"><p>PHYS 2A</p></td>
+  <td valign="top" class="Normal"><p>PHYS 2B</p></td>
+  </tr>
+  <tr>
+  <td valign="top" class="Normal"><p>HSS</p></td>
+  <td valign="top" class="Normal"><p>CHEM 6B</p></td>
+  <td valign="top" class="Normal"><p>CHEM 6C </p></td>
+  </tr>
+  <tr>
+  <td valign="top" class="Normal"><p>HSS</p></td>
+  <td valign="top" class="Normal"><p>HSS</p></td>
+  <td valign="top" class="Normal"><p>HSS</p></td>
+  </tr>
+  <tr>
+  <td colspan="2" valign="top" class="Normal"><p><strong>Sophomore Year</strong></p></td>
+  <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+  <td valign="top" class="Normal"><p>MATH 20D</p></td>
+  <td valign="top" class="Normal"><p>MATH 18</p></td>
+  <td valign="top" class="Normal"><p>MATH 20E</p></td>
+  </tr>
+  <tr>
+  <td valign="top" class="Normal"><p>PHYS 2C</p></td>
+  <td valign="top" class="Normal"><p>MAE 30A</p></td>
+  <td valign="top" class="Normal"><p>MAE 108</p></td>
+  </tr>
+  <tr>
+  <td valign="top" class="Normal"><p>ESYS 101</p></td>
+  <td valign="top" class="Normal"><p>MAE 8</p></td>
+  <td valign="top" class="Normal"><p>MAE 30B</p></td>
+  </tr>
+  <tr>
+  <td valign="top" class="Normal"><p>MAE 3 </p></td>
+  <td valign="top" class="Normal"><p>HSS</p></td>
+  <td valign="top" class="Normal"><p>HSS</p></td>
+  </tr>
+  
+  <tr>
+  <td valign="top" class="Normal"><p><strong>Junior Year</strong></p></td>
+  <td valign="top" class="Normal">&nbsp;</td>
+  <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+  <td valign="top" class="Normal"><p>CENG 100</p></td>
+  <td valign="top" class="Normal"><p>MAE 101A</p></td>
+  <td valign="top" class="Normal"><p>MAE 101B </p></td>
+  </tr>
+  <tr>
+  <td valign="top" class="Normal"><p>MAE 105</p></td>
+  <td valign="top" class="Normal"><p>MAE 119</p></td>
+  <td valign="top" class="Normal"><p>MAE 170</p></td>
+  </tr>
+  <tr>
+  <td valign="top" class="Normal"><p>MAE 107</p></td>
+  <td valign="top" class="Normal"><p>MAE 11</p></td>
+  <td valign="top" class="Normal"><p>TE</p></td>
+  </tr>
+  <tr>
+  <td valign="top" class="Normal"><p>CHEM 171</p></td>
+  <td valign="top" class="Normal"><p>HSS</p></td>
+  <td valign="top" class="Normal"><p>HSS</p></td>
+  </tr>
+  
+  <tr>
+  <td valign="top" class="Normal"><p><strong>Senior Year</strong></p></td>
+  <td valign="top" class="Normal">&nbsp;</td>
+  <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+  <td valign="top" class="Normal"><p>MAE 101C</p></td>
+  <td valign="top" class="Normal"><p>MAE 126A</p></td>
+  <td valign="top" class="Normal"><p>MAE 126B </p></td>
+  </tr>
+  <tr>
+  <td valign="top" class="Normal"><p>MAE 122</p></td>
+  <td valign="top" class="Normal"><p>MAE 123</p></td>
+  <td valign="top" class="Normal"><p>TE</p></td>
+  </tr>
+  <tr>
+  <td valign="top" class="Normal"><p>TE</p></td>
+  <td valign="top" class="Normal"><p>TE</p></td>
+  <td valign="top" class="Normal"><p>HSS</p></td>
+  </tr>
+  <tr>
+  <td valign="top" class="Normal"><p>HSS</p></td>
+  <td valign="top" class="Normal"><p>HSS</p></td>
+  <td valign="top" class="Normal"><p>HSS</p></td>
+  </tr>
+  
+</table>
+	<ul>
+<li class="list-level-1">Humanities and social science (HSS) courses should be selected to meet general-education requirements of the colleges. Twelve HSS courses are listed here; individual college requirements may be different.</li>
+					<li class="list-level-1">Technical electives (four): All technical electives must be upper-division, and one or more of them must be from the SIO department. See the Student Affairs Office in MAE for a current list of preapproved TEs. </li>
+		</ul>
+				<h2 class="program-overview-subhead-1">Policies and Procedures for MAE Undergraduate Students </h2>
+				<h3 class="program-overview-subhead-2">Admission to the Major </h3>
+				<p>The degrees in mechanical, aerospace, and environmental engineering are capped. Because of heavy student interest in these majors, and the limited resources available to accommodate this demand, maintenance of a high-quality program makes it necessary to limit enrollments.</p>
+<h3 class="program-overview-subhead-2">Freshman Students</h3>
+				<p>Freshman students who have excelled in high school and have declared mechanical, aerospace, or environmental engineering on their UC San Diego application are eligible for direct admission into those majors. Enrollment is limited in the mechanical, aerospace, and environmental engineering majors due to heavy demand and limited resources. Students will be notified by the UC San Diego Office of Admissions whether or not they have been admitted into their chosen major based on admissions criteria and their ranking in the applicant pool.</p>
+<h3 class="program-overview-subhead-2">Transfer Students </h3>
+				<p>Applicants seeking admission as transfer students will be considered for admission into the mechanical, aerospace, and environmental engineering majors. Enrollment is limited in the mechanical, aerospace, and environmental engineering majors due to heavy demand and limited resources. Transfer students who have excelled in their community college courses, especially courses in math, physics, and chemistry, will have the strongest advantage.</p>
+<p>Students who have taken equivalent courses elsewhere may request to have transfer credit apply toward the department&rsquo;s major requirements. To receive transfer credit for MAE courses, submit a petition through MAE&rsquo;s online petition portal available at <a href="http://maeweb.ucsd.edu/undergrad/petitions" target="_blank">http://maeweb.ucsd.edu/undergrad/petitions</a>. For mathematics, chemistry, and physics, transfer equivalencies are determined by the respective departments. An Undergraduate Student Petition must be submitted to each department from which you are requesting transfer credit. </p>
+<p>To be eligible to transfer to the mechanical, aerospace, or environmental engineering major, you must complete the following screening courses:</p>
+<ul>
+		<li class="list-level-1">Calculus I—for Science and Engineering (MATH 20A)</li>
+		<li class="list-level-1">Calculus II—for Science and Engineering (MATH 20B)</li>
+		<li class="list-level-1">Calculus and Analytic Geometry (MATH 20C)</li>
+		<li class="list-level-1">Differential Equations (MATH 20D)</li>
+		<li class="list-level-1">Linear Algebra (MATH 18 or 20F)</li>
+		<li class="list-level-1">Complete calculus-based physics series with lab experience (PHYS 2A, B, and C)</li>
+		<li class="list-level-1">CHEM 6A </li>
+	  </ul>
+<h3 class="program-overview-subhead-2">Continuing Students Changing Majors</h3>
+				<p>Continuing students who wish to change into a capped major (mechanical, aerospace, and environmental engineering) must submit an application to the department on or before the deadline. Applications will be accepted once per year. Please see the department website at <a href="http://maeweb.ucsd.edu" target="_blank">http://maeweb.ucsd.edu</a> for details.</p>
+				<p>Continuing students who wish to be considered must meet the following minimum requirements:</p>
+				<ol>
+				  <li>completed at least one year/three quarters in residence at UC San Diego</li>
+				  <li>completed all screening courses for the requested major</li>
+	    </ol>
+		<p>Applications will be ranked by the student&rsquo;s grades on the date of the application. Students will be allowed into the major based on a ranking system, up to a maximum number.</p>
+<p>Students who apply later than their sixth academic quarter at UC San Diego will not be considered.</p>
+				<h3 class="program-overview-subhead-2">Academic Advising </h3>
+				<p>Upon admission to the major, students should consult the catalog or MAE
+				  website <a href="http://maeweb.ucsd.edu" target="_blank">(http://maeweb.ucsd.edu</a>)
+				  for their program of study and contact the undergraduate advisers if they have questions. The program plan may be revised in subsequent years, but curriculum revisions require approval by the undergraduate adviser or the Undergraduate Affairs Committee. Because some course and/or curricular changes may be made every year, it is imperative that students check their UC San Diego email for notifications and consult with the department&rsquo;s undergraduate advisers regularly.</p>
+				<p>Some MAE courses are offered only once a year and therefore should be taken in the recommended sequence. If courses are taken out of sequence, it may not always be possible to enroll in courses as desired or needed. If this occurs, students should seek immediate departmental advice. When a student deviates from the sequence of courses specified for each curriculum in this catalog, it may be impossible to complete an MAE major within the normal four-year period. </p>
+				<p>It is recommended that MAE students meet with their department adviser at least once a quarter. In addition to the advising available through the Student Affairs Office, programmatic or technical advice may be obtained from MAE faculty members. </p>
+<h3 class="program-overview-subhead-2">Program Alterations/Exceptions to Requirements </h3>
+				<p>Variations from, or exceptions to, any program or course requirements are possible only if a petition is approved by the MAE Undergraduate Affairs Committee before the courses in question are taken. Petitions are submitted through the online petition portal, available at <a href="http://maeweb.ucsd.edu/undergrad/petitions" target="_blank">http://maeweb.ucsd.edu/undergrad/petitions</a>.</p>
+
+<h3 class="program-overview-subhead-2">Independent Study </h3>
+				<p>MAE students may take MAE 199, Independent Study for Undergraduates, under the guidance of an MAE faculty member. This course is taken as an elective on a P/NP basis. Under very restrictive conditions, however, it may be used to satisfy one upper-division technical elective course requirement for the major. Students interested in this option must identify an MAE faculty member with whom they wish to work and propose a two-quarter research or study topic. After obtaining the faculty member&rsquo;s approval on the topic and scope of the study, the student must submit a Special Studies Course form (each quarter) and an MAE 199 as Technical Elective Contract form to the Undergraduate Affairs Committee. These forms, available on the <a href="http://maeweb.ucsd.edu" target="_blank">MAE website,</a> must be completed, approved, and processed prior to the add/drop deadline. There is a minimum GPA requirement of 3.0 when using 199s as a TE. Detailed policy in this regard and the requisite forms may be obtained from the Student Affairs Office.</p>
+<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

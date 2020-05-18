@@ -1,0 +1,419 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Anthropology</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Anthropology </h1>
+<p class="sectionNav"><span class="courseFacLink">[ <a href="../curric/ANTH-gr.html">graduate
+      program</a> | <a href="../courses/ANTH.html">courses</a> | <a href="../faculty/ANTH.html">faculty</a> ]</span></p>
+<p class="program-contact-info">Social Science Building<br />
+    <a href="http://anthro.ucsd.edu" target="_blank">http://anthro.ucsd.edu</a></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><p>Anthropology stands at the nexus between the social sciences, biological sciences, and humanities. It is dedicated to understanding the worldwide diversity of social institutions and cultural traditions, past and present, as well as to studying our nearest nonhuman relatives. Because there is increasing awareness of the importance of anthropological factors in domestic and international relations, as well as in a number of health-related fields, a bachelor’s degree in anthropology has become accepted as a valuable preparation for careers in law, medicine, business, government, education, and various areas of public service. Anthropology majors can qualify for a California teaching credential from UC San Diego through the Education Studies Program. The department offers a full range of courses in archaeology, as well as in biological, social, cultural, psychological, political, and linguistic anthropology. Courses include offerings that focus on specific societies or regions of the world—especially Latin America, Asia, and Oceania—as well as more theoretically oriented topics. The department offers undergraduate major and minor programs, a senior thesis program, an undergraduate internship program, and a graduate program leading to the doctoral degree. Students also may enroll in archaeological field school and study-abroad programs in the Mediterranean, Middle East and Latin America.</p>
+				<h2 class="program-overview-subhead-1">The Undergraduate Program</h2>
+				<h3 class="program-overview-subhead-2">Lower Division</h3>
+				<p>Lower-division offerings in anthropology are concentrated in the core series: ANTH 1, 2, 3. These courses are designed to provide a comprehensive orientation to the ideas and methods of anthropological investigation and a familiarity with case materials from a number of different societies (ANTH 1), prehistoric eras (ANTH 2), and historical periods (ANTH 3). Students who intend to major or minor in sociocultural anthropology are advised to take ANTH 1. Students who intend to major or minor in biological anthropology are advised to take ANTH 2. Students who intend to major or minor in anthropological archaeology are advised to take ANTH 3.  Complementing these courses, and serving as supplementary alternatives in the core series, are two further core courses, which may not be offered every year: ANTH 4, an introduction to linguistic anthropology, and ANTH 5, an introduction to the human skeleton. There are currently three further lower-division courses that introduce more specialized topics: ANTH 20, ANTH 21, and ANTH 23, which may not be offered every year. Either ANTH 21 or 23 (or one of several upper-division anthropology courses) satisfies the campuswide DEI (Diversity, Equality, and Inclusion) requirement, and ANTH 23 satisfies the campuswide requirement for a course in American Cultures. Students who have already completed ANTH 103 (or the older sequence ANPR 105, 106, and 107) may not receive academic credit for ANTH 1. Other lower-division courses are offered from time to time and will vary from year to year. </p>
+<h3 class="program-overview-subhead-2">Upper Division </h3>
+				<p>The Department of Anthropology offers many general interest and specialized courses at the upper-division level. In addition to satisfying the requirements of the anthropology major and minor, many of these may satisfy the requirements of other majors and minors. </p>
+<h3 class="program-overview-subhead-2">The Minor</h3>
+				<p>Students may choose a minor in anthropological archaeology, biological anthropology, sociocultural anthropology, or climate change and human solutions.  Each consists of seven anthropology courses. At least five of these courses must be upper division, and at least four should be taken at UC San Diego. Transfer credits from other anthropology departments are usually accepted. Study Abroad credits are acceptable at the discretion of the undergraduate adviser. All courses applied toward the minor must be taken for a letter grade of C– or better. An exception is made for one independent study course (199) or one directed group study course (198), which must be taken on a Pass/Not Pass (P/NP) basis. </p>
+		<p>The minor for climate change and human solutions consists of additional requirements with the seven required courses.  </p>
+				<p><strong>1. CORE REQUIREMENTS</strong> (four units, one course)</p>
+				<p>All students will take the following: </p>
+                <ul type="disc">
+                  <li>ANTH 110. The Climate      Change Seminar</li>
+        </ul>
+                <p><strong>2. UPPER-DIVISION CONCENTRATION REQUIREMENTS</strong> (twelve units, three courses)</p>
+                <p>All students will take <em>three</em> of the following: </p>
+                <ul type="disc">
+                  <li>ANAR 104. Geographic      Information Systems (GIS)</li>
+                  <li>ANAR 120. Documenting      Climate Change: Past and Present</li>
+                  <li>ANAR 121.      Cyber-Archaeology and World Digital Cultural Heritage</li>
+                  <li>ANAR 146. Feeding the      World</li>
+                  <li>ANAR 166. Introduction to      Environmental Archaeology: Theory and Method of Socioecodynamics and Human      Paleoecology (<em>cross-listed with SIO      166</em>)</li>
+            
+                  <li>ANBI 132. Conservation and      the Human Predicament</li>
+                  <li>ANBI 174. Conservation and      the Media: Film Lab</li>
+                  <li>ANSC 138. The Cultural      Design Practicum: Using Anthropology to Solve Human Problems</li>
+                  <li>ANSC 144. Immigrant and      Refugee Health</li>
+                  <li>ANSC 147. Global Health      and the Environment (<em>cross-listed      with GLBH 147</em>)</li>
+                  <li>ANSC 183. Visualizing the      Human: Film, Photography, and Digital Technologies</li>
+                  <li>ANSC 184. Food, Culture,      and Society</li>
+                  <li>ANSC 193 OR ANSC 193GS. Human      Rights and Environmental Justice (Global Seminar course)</li>
+                  <li>ANTH 105. Climate Change,      Race, and Inequality</li>
+                  <li>ANTH 106. Climate and      Civilization</li>
+                  <li>ANTH 107. Designing for      Disasters, Emergencies, and Extreme Weather</li>
+                  <li>ANTH 108. Indigenous      Peoples, Extractive Development, and Climate Change</li>
+                  <li>ANTH 109. Climate Change,      Cultural Heritage, and Vulnerability</li>
+        </ul>
+                <p><strong>3. ELECTIVE REQUIREMENTS</strong> (twelve units, three courses)</p>
+        <p>
+        Three elective anthropology courses from any category. Two elective courses may be lower division.</p>
+                <h3 class="program-overview-subhead-2">The Major</h3>
+				<p>To receive a BA degree with a major in anthropology, the student must
+				  meet the requirements of Revelle, John Muir, Thurgood Marshall, Earl Warren,
+				  Eleanor Roosevelt College, or Sixth College. Additionally, the student
+			    must meet the following requirements of the Department of Anthropology: </p>
+<ol>
+		<li> A minimum of twelve four-unit upper-division courses in the Department of Anthropology must be completed.</li>
+		<li> The undergraduate core ANTH 101, 102, and 103 must be completed (included as three of the twelve courses required under 1, above). All or some of the courses in this sequence are prerequisites for some other upper-division courses. This sequence consists of
+			<ul>
+				<li class="list-level-2">101 Foundations of Social Complexity </li>
+				<li class="list-level-2">102 Humans Are Cultural Animals </li>
+				<li class="list-level-2">103 Sociocultural Anthropology</li>
+		    </ul></li>
+		<li> No courses taken in fulfillment of the above requirements may be taken on a Pass/Not Pass (P/NP) basis. All courses applied toward the major must be taken for a letter grade of C– or better. [An exception is made for some courses accepted from other schools and for <span class="strong">one</span> independent study course (199), <span class="strong">or one</span> directed group study course (198), <span class="strong">and a</span> combination of one internship seminar (ANBI 187A, C or ANTH 187B) with the corresponding academic internship project (AIP 197). However, this exception does not extend to ANTH 101, 102, or 103, or to transfer credits accepted in lieu of them. These must be taken for a letter grade of C– or better.]</li>
+		<li> For the BA degree, a minimum average of 2.0 is required, both as an overall average in all anthropology courses and in the ANTH 101, 102, and 103 sequence considered separately.</li>
+		<li> At least seven of the upper-division courses submitted for the major must be taken at UC San Diego. The seven normally must include ANTH 101, 102, and 103. A transfer course may be accepted in lieu of one of these core courses if, in the opinion of the director of Undergraduate Studies, the content is substantially the same. In no case will transfer credit be accepted in lieu of more than one of these courses.</li>
+		<li> All undergraduate majors in anthropology must satisfy the requirements of at least one of the three concentrations—anthropological archaeology, biological anthropology, and sociocultural anthropology—described below. </li>
+	  </ol>
+				<h4 class="program-overview-subhead-2">The Major in Anthropology with Concentration in Archaeology</h4>
+		<p>The department offers a BA degree in anthropology with concentration in archaeology. At least twelve upper-division courses within anthropology are required. Specifically, this degree requires</p>
+				<ol>
+				    <li>The three      Anthropology Core Courses: ANTH 101, 102, 103, and</li>
+                      <li>Four      additional four-unit upper-division courses with the prefix ANAR, and</li>
+                      <li>Five      four-unit, upper-division elective courses with the prefix ANAR, ANBI,      ANSC, or ANTH (either ANTH 197, 198, 199, 196A–C).</li>
+				</ol>
+               
+		<p>Students majoring in anthropological archaeology are encouraged to take field-school or study-abroad courses offered through the Department of Anthropology or Study Abroad UC San Diego. Students may use these courses to fulfill their major requirements. If these courses are more than four units, then they may be used to fulfill more than one course requirement. Please see the undergraduate adviser for more details.</p>
+<h4 class="program-overview-subhead-2">The Major in Anthropology with Concentration in Biological Anthropology</h4>
+		<p>The department offers a BA degree in anthropology with concentration in
+		  biological anthropology. At least twelve upper-division
+		  courses within and beyond anthropology are required. Specifically,
+		  this degree requires</p>
+				<ol>
+				    <li>The three      Anthropology Core Courses: ANTH 101, 102, 103, and</li>
+                      <li>Four      four-unit upper-division courses with the prefix ANBI, and</li>
+                      <li>Five four-unit,      upper-division elective courses with the prefix ANAR, ANBI, ANSC, or ANTH      (either ANTH 197, 198, 199, 196A–C). </li>
+				</ol>
+                
+				<h4 class="program-overview-subhead-2">The Major in Anthropology with Concentration in Sociocultural Anthropology</h4>
+		<p>The department offers a BA degree in anthropology with concentration in sociocultural anthropology. A minimum of at least twelve upper-division courses in anthropology are required. Specifically, this degree requires</p>
+				<ol>
+					<li>The Anthropology Core Sequence: ANTH 101, 102, 103</li>
+					<li>The Sociocultural Concentration Requirements: <br />
+						Any three of the following seven course options:
+                          <ul>
+			<li>ANSC 118. Language and Culture</li>
+			<li>ANSC 120. Anthropology of Religion (previously ANGN 120)</li>
+							<li>ANSC 121. Psychological Anthropology (previously ANPR 107)</li>
+							<li>ANSC 122. Language in Society (previously ANGN 149)  
+							  <div>
+							    <div> </div>
+						      </div>
+							</li>
+							<li>ANSC 123. Political Anthropology (previously ANGN 151)</li>
+							<li>ANSC 124. Cultural Anthropology (previously ANPR 106)</li>
+							<li>ANSC 125. Gender, Sexuality, and Society (previously ANGN 125)</li>
+						</ul></li>
+					<li>One additional ANSC course focusing on a particular region, country,
+					  or religion (e.g., Indigenous Peoples of Latin America, Modernity in Brazil,
+			      Global Islam)</li>
+					<li>Five additional four-unit upper-division elective courses within the
+				    Department of Anthropology</li>
+				</ol>
+				<h4>The Major in Anthropology with Concentration in Climate Change and Human Solutions (twelve upper-division courses, forty-eight units)</h4>
+                <p>There are no lower-division requirements. All courses must be taken for a letter grade of C– or better.</p>
+                <p><strong>CORE REQUIREMENTS</strong> (twelve units, three courses)</p>
+                <p>All students will take the following:</p>
+                <ul type="disc">
+                  <li>ANTH 101. Foundations of      Social Complexity</li>
+                  <li>ANTH 102. Humans are      Cultural Animals</li>
+                  <li>ANTH 103. Sociocultural      Anthropology</li>
+                </ul>
+                <p><strong>UPPER-DIVISION CONCENTRATION REQUIREMENTS </strong>(twelve units, three courses)</p>
+                <p>All students will take the following:</p>
+                <ul type="disc">
+                  <li>ANTH 110. The Climate      Change Seminar</li>
+                </ul>
+                <p>All students will take <em>two </em>of the following:</p>
+                <ul type="disc">
+                  <li>ANAR 120. Documenting      Climate Change: Past and Present</li>
+                
+                  <li>ANAR 146. Feeding The      World</li>
+                  <li>ANAR 166. Introduction to      Environmental Archaeology: Theory and Method of Socioecodynamics and Human      Paleoecology (<em>cross-listed with SIO      166</em>)</li>
+                  <li>ANBI 132. Conservation and      the Human Predicament</li>
+                  <li>ANBI 174. Conservation and      the Media: Film Lab</li>
+                  <li>ANSC 144. Immigrant and      Refugee Health</li>
+                  <li>ANSC 147. Global Health      and the Environment (<em>cross-listed      with GLBH 147</em>)</li>
+                  <li>ANSC 184. Food, Culture,      and Society</li>
+                  <li>ANSC 193. OR ANSC 193GS. Human      Rights and Environmental Justice (Global Seminar course)</li>
+                  <li>ANTH 105. Climate Change,      Race, and Inequality</li>
+                  <li>ANTH 106. Climate and      Civilization</li>
+                  <li>ANTH 108. Indigenous      Peoples, Extractive Development, and Climate Change</li>
+                  <li>ANTH 109. Climate Change,      Cultural Heritage, and Vulnerability</li>
+                </ul>
+                <p><strong>SKILLS AND METHODS</strong> (four units, one course)</p>
+                <p>All students will take <em>one</em> of the following:</p>
+                <ul type="disc">
+                  <li>ANAR 104. Geographic      Information Systems (GIS)</li>
+                  <li>ANAR 121.      Cyber-Archaeology and World Digital Cultural Heritage</li>
+                  <li>ANSC 138. The Cultural      Design Practicum: Using Anthropology to Solve Human Problems</li>
+                  <li>ANSC 183. Visualizing the      Human: Film, Photography, and Digital Technologies</li>
+                  <li>ANTH 107. Designing for      Disasters, Emergencies, and Extreme Weather</li>
+                </ul>
+                <p><strong>UPPER-DIVISION ELECTIVE REQUIREMENTS</strong> (twenty units, five courses)</p>
+                <p>FIVE upper-division anthropology courses from any category.</p>
+                <p><strong>CLIMATE CHANGE HUMAN SOLUTIONS FIELD EXPERIENCE</strong></p>
+                <p>Recommended* (not required):</p>
+                <ul>
+                  <li><span dir="LTR"> </span>May be done domestically or abroad. Placement must be approved. </li>
+                  <li><span dir="LTR"> </span>100 hours: May be noncredit or credit bearing, using ANTH 197/198/199.</li>
+                </ul>
+        <p><em><strong>Concentration Field Experience Explanation </strong></em><strong></strong></p>
+                <p>
+                  The recommended field experience project will be carried out at a research, service, or environmental site either in the United States or abroad. Field experience will be approved by the department chair, along with the UC San Diego Study Abroad Office (for international placements) and Academic Internship Program (for domestic placements). The project will focus on issues relevant to climate change, environmental studies, sustainability, or other environment-related topics with a focus on humans. In accord with the campus&rsquo;s Education Initiative, the climate change field experience will enhance knowledge, skills, and sensitivities, thus engaging &ldquo;mind, hands, and heart&rdquo; to create a learning outcome that is scientific, experiential, pragmatic, and humanistic.<u></u></p>
+                <p><strong><em>Field Experience Recommendations</em></strong></p>
+                <ul type="disc">
+                  <li>Minimum of one hundred hours distributed      over no more than three programs</li>
+                  <li>May be completed domestically or abroad      (upon approval)</li>
+                  <li>May be noncredit or credit bearing (see      below)</li>
+                </ul>
+                <p><strong><em>Field Experience Criteria</em></strong></p>
+                <ul type="disc">
+                  <li>Require meaningful, challenging work      from students while serving the agency&rsquo;s clients and goals.</li>
+                  <li>Provide the student with direct contact      with clients or those who directly serve clients.</li>
+                  <li>Provide the student with an opportunity      to become knowledgeable about aspects of climate change and see climate      change issues in practice.</li>
+                  <li>Include on-site orientation, training,      and supervision by a designated person in the agency. </li>
+                  <li>Students must demonstrate adequate      health insurance and participate in a predeparture orientation for abroad      programs.</li>
+
+                  <li><strong>Credit-bearing      field experience: </strong>Upon      approval by petition, a student may enroll in a maximum of two independent      study (ANTH 199) or directed group study (ANTH 198) courses under      mentorship of an affiliated faculty member. This will provide academic      credit for the noncredit-bearing field experience through required      readings, reflective journals, papers, etc., as determined by agreement      between the student and faculty member. The academic result will be to      place their field experience in the context of the interdisciplinary scholarly      literature on climate change. When credit is granted either through the      program itself or through our ANTH <strong></strong>independent study/directed group study, this credit will count as      an elective toward the concentration.<strong></strong></li>
+                </ul>
+        <h4>The Bachelor of Science in Biological Anthropology (twenty-two courses , eighty-eight units)</h4>
+                <p>To receive a BS degree with a major in biological anthropology, the student must complete the following courses:</p>
+                <p><strong>LOWER DIVISION</strong> (ten courses, forty units)</p>
+                <ul type="disc">
+                  <li>Two      courses in general biology (BILD 1, 2)</li>
+                  <li>Three      courses in general chemistry (CHEM 6A-B-C)</li>
+                  <li>Three      courses in mathematics/statistics:</li>
+                  <UL><li>Choose two of these courses: MATH 10A-B-C or 20A-B-C, <em>and</em> </li>
+                    <li>Choose one of these courses: MATH 11, PSYC 60</li>
+                  </UL>
+                  <li>One      course in anthropology: ANTH 2. Human Origins</li>
+                  <li>One      course in anthropology or psychology or sociology: ANTH 43, Introduction      to the Biology and Culture of Race, or ANTH 42, Primates in a      Human-Dominated World, or ANTH 5, The Human Machine: Skeleton Within, or      SOCI 70, Sociology for Pre-medical Students, or PSYC 1, Psychology.</li>
+                </ul>
+                <p><strong>UPPER DIVISION</strong> (twelve courses, forty-eight units)</p>
+                <ul type="disc">
+                  <li>Three anthropology      core courses: ANTH 101, Foundations of Social Complexity, ANTH 102, Humans      are Cultural Animals, ANTH 103, Sociocultural Anthropology, and</li>
+                  <li>Four      upper-division courses in biological anthropology (choose any ANBI      course), and</li>
+                  <li>Four      upper-division courses in anthropology (choose any ANAR, ANBI, and ANSC      course)</li>
+                  <li>One      upper-division methods course (choose any ANBI course from the list      below):</li>
+                  <ul type="circle">
+                    <li>ANBI 112. Methods       in Human Comparative Neuroscience</li>
+                    <li>ANBI 114. Methods       in Primate Conservation</li>
+                    <li>ANBI 135. Genetic       Anthropology Lab Techniques</li>
+                    <li>ANBI 143. The       Human Skeleton</li>
+                    <li>ANBI 144. Human       Anatomy</li>
+                    <li>ANBI 174.       Conservation and the Media: Film Lab</li>
+                  </ul>
+                </ul>
+                <h4>Global Concentration in Anthropology</h4>
+        <p>The global concentration in anthropology is a cluster of courses with an international or global focus. The global concentration can be applied to any of the majors.</p>
+        <p><strong>REQUIREMENT 1:</strong> A minimum of eight units earned through study abroad, of which a minimum of four units would count toward the major.</p>
+                <p>These units may be earned through the Education Abroad Program, Opportunities Abroad Program, or Global Seminars, and must have academic transcripts. Students petition to have courses counted toward their global concentration when they return from studying abroad, just as they would petition to have courses count toward their major or minor. Students must satisfy the three requirements listed below to receive &ldquo;Global Concentration&rdquo; recognition on their academic transcripts.</p>
+                <p><strong>REQUIREMENT 2: </strong>Demonstration of proficiency in a second language through the fourth quarter of university-level instruction, or its equivalent.</p>
+                <p>Global concentrations at UC San Diego require second language proficiency.  </p>
+                <p><strong>REQUIREMENT 3: </strong>A minimum of two courses with department-identified global content.</p>
+        <p>The following anthropology classes are approved global content courses.  </p>
+        <p><strong><em>Anthropology: Archaeology (ANAR)</em></strong></p>
+                <ul>
+                  <li>ANAR 118. Archaeology of the UC San Diego Campus </li>
+                  <li>ANAR 124. Archaeology of Asia </li>
+                  <li>ANAR 135S. Ancient Mediterranean Civilization </li>
+                  <li>ANAR 138. Mesopotamia: The Emergence of Civilization </li>
+                  <li>ANAR 141. Prehistory of the Holy Land </li>
+                  <li>ANAR142. The Rise and Fall of Ancient Israel </li>
+                  <li>ANAR 143. Biblical Archaeology—Fact or Fiction </li>
+                  <li>ANAR 144. Pharaohs, Mummies, and Pyramids: Introduction to Egyptology</li>
+                  <li>ANAR 145S. Study Abroad: Egypt of the Pharaohs </li>
+                  <li>ANAR 153. The Mysterious Maya</li>
+                  <li>ANAR 154. The Aztecs and their Ancestors</li>
+                  <li>ANAR 155. Study Abroad: Ancient Mesoamerica</li>
+                  <li>ANAR 155S. Study Abroad: Ancient Mesoamerica</li>
+                  <li>ANAR 156. The Archaeology of South America</li>
+                  <li>ANAR 157. Early Empires of the Andes: The Middle Horizon</li>
+                  <li>ANAR 157S. Early Empires of the Andes: The Middle Horizon</li>
+                  <li>ANAR 158. The Inca: Empire of the Andes</li>
+                  <li>ANAR 185. Middle East Desert Cultural Ecology</li>
+                  <li>ANAR 190. Eastern Mediterranean Archaeological Field School</li>
+                </ul>
+                <p><strong><em>Anthropology: Sociocultural Anthropology (ANSC)</em></strong></p>
+                <ul>
+                  <li>ANSC 101. Aging: Culture and Health in Late Life Human Development</li>
+                  <li>ANSC 105. Global Health and Inequality</li>
+                  <li>ANSC 105GS. Global Health and Inequality</li>
+                  <li>ANSC 106. Global Health: Indigenous Medicines in Latin America </li>
+                  <li>ANSC 106S. Global Health: Indigenous Medicines in Latin America—Study Abroad</li>
+                  <li>ANSC 110. Societies and Cultures of the Caribbean </li>
+                  <li>ANSC 111. The Chinese Heritage in Taiwan</li>
+                  <li>ANSC 116. Languages of the Americas: Mayan</li>
+                  <li>ANSC 125GS. Gender, Sexuality, and Society</li>
+                  <li>ANSC 130. Hinduism</li>
+                  <li>ANSC 135. Indigenous Peoples of Latin America</li>
+                  <li>ANSC 136. Traditional Chinese Society</li>
+                  <li>ANSC 137. Chinese Popular Religion</li>
+                  <li>ANSC 142. Anthropology of Latin America</li>
+                  <li>ANSC 145. Indigenous Peoples of North America</li>
+                  <li>ANSC 147. Global Health and the Environment</li>
+                  <li>ANSC 146. Global Health Perspective on HIV</li>
+                  <li>ANSC 148. Global Health and Cultural Diversity</li>
+                  <li>ANSC 165. Contemporary South Asia</li>
+                  <li>ANSC 166. Film and Culture in Asia</li>
+                  <li>ANSC 184. Food, Culture, and Society</li>
+                  <li>ANSC 190GS. Medicine and Healing in South Asia </li>
+                  <li>ANSC 191GS. Everyday Life in South Asia: Beyond the Clichés</li>
+                  <li>ANSC 192GS. Rethinking Poverty and Development</li>
+                  <li>ANSC 193GS. Human Rights and Environmental Justice                </li>
+                </ul>
+                <p>Courses taken while on study abroad may be allowed to satisfy the department global content requirement. Students must petition study abroad courses to satisfy this requirement.</p>
+                <div>
+                  <div> </div>
+                </div>
+        <h4>Honors Thesis Program</h4>
+		<p>Students are admitted to the Honors Thesis Program by invitation of the faculty during the spring quarter of their junior year. Eligibility for the program requires the student to have, by the end of the junior year, (1) completed eight upper-division courses, including the core sequence [ANTH 101, 102, 103], and (2) maintained grade point averages of at least 3.5 in the anthropology concentration major and the overall cumulative GPA. Outstanding junior students, who do not meet the above criteria, but have already established some research experience with a regular faculty member of our department (for example, through the Faculty Mentor Program, Independent Study, McNair Program), may also be considered for invitation to the program, if spaces are available. </p>
+		<p>Students who wish to be considered for the Senior Thesis Program should notify the department&rsquo;s undergraduate adviser by the second week of the winter quarter of their junior year. </p>
+		<p>The honors thesis is prepared during two successive quarters during fall (ANTH 196A) and winter (ANTH 196B) of a major&rsquo;s senior year, and can count as two of the five four-unit upper-division elective courses required for a major. During the first quarter of the program (fall quarter), students select their research topic and write a preliminary paper. Those who receive a B+ or better are invited to continue in the program and complete a thesis on the chosen topic by the end of the winter quarter. The thesis will be evaluated by a committee consisting of the thesis adviser and the director of undergraduate studies appointed by the chair. The reading committee advises the faculty on the merit of the thesis for departmental honors. A thesis is required in order to be considered for department honors at commencement.</p>
+		<p>Students can enroll in a recommended (not required) third quarter of the Honors Thesis Program (ANTH 196C) to become Ambassadors of Anthropology (participate in community outreach presentations to promote anthropology), and to prepare a presentation of their thesis findings at the annual Anthropology Honors Thesis Presentations and Awards event.</p>
+        <div>
+          <div> </div>
+          <div> </div>
+        </div>
+<h4 class="program-overview-subhead-2">Internship Program</h4>
+		<p>The department sponsors an internship program that allows students to gain academic credit for supervised work in the Museum of Man, the San Diego Zoo, or the Wild Animal Park. The three tracks of the program allow internship experience in (1) biological anthropology, (2) ethnology and archaeology at the museum, or (3) primate behavior and conservation at the Zoo or Wild Animal Park. A combination of on-campus and on-site supervision makes these courses intellectually provocative but practical and applied. They are an especially valuable complement to a major or minor in anthropology. One four-unit internship (AIP 197) taken with the corresponding two-unit internship seminar (ANBI 187A, C and ANTH 187B) can be counted as one of the twelve upper-division courses for the anthropology major or minor. Applications to these programs are accepted during the first seven weeks of the quarter before the one in which the internship is to be done. </p>
+				<h2 class="program-overview-subhead-1">Academic Enrichment Programs</h2>
+				<h3 class="program-overview-subhead-2">Faculty Mentor Program</h3>
+				<p>The program offers research experience to any junior or senior with a GPA of 2.7 or higher who wants to prepare for graduate or professional school. Participants work as research assistants to UC San Diego faculty members during the winter and spring quarters. Students present their research papers at the Faculty Mentor Research Symposium at the conclusion of the program in the spring. Please see the following link for more information: <a href="https://students.ucsd.edu/sponsor/fmp/" target="_blank">https://students.ucsd.edu/sponsor/fmp/</a>.</p>
+<h3 class="program-overview-subhead-2">Summer Research Program</h3>
+				<p>The program offers full-time research experience to underrepresented (i.e., minorities, women, and low-income, first-generation college) students who are interested in preparing for careers in research or university teaching. Juniors and seniors who have a 3.0 GPA or above and plan to attend graduate or professional school are eligible to participate. Please see the following link for more information: <a href="https://students.ucsd.edu/sponsor/srp/" target="_blank">https://students.ucsd.edu/sponsor/srp/</a>.</p>
+				<h3 class="program-overview-subhead-2">Study Abroad</h3>
+<p>One of the best ways to understand the concept of <em>culture</em> is to live
+  in a different culture for a time. Anthropology majors are encouraged to participate
+  in the UC Education Abroad Program (EAP) or UC San Diego’s Opportunities Abroad Program (OAP).
+  Students considering this option should discuss their plans with the faculty
+  undergraduate adviser before going abroad, and courses taken abroad must be
+  approved for credit to the major by the adviser upon return. More information
+  on EAP and OAP is provided under “<a href="EAP.html">Education Abroad Program (EAP)</a>” in the <em>UC San
+  Diego General Catalog</em>. Interested students should contact the EAP staff
+  in the International Center. </p>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

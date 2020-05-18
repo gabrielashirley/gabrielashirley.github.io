@@ -1,0 +1,772 @@
+<!doctype html>  
+<html lang="en"><!-- InstanceBegin template="/Templates/current template.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Linguistics</title>
+<!-- InstanceEndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- InstanceBeginEditable name="main text" -->
+<h1 class="noTopBottomMargin">Linguistics </h1>
+<p class="sectionNav">[ <a href="#major">major</a> | <a href="#minor">minor</a> <span class="courseFacLink"><a href="../curric/LING-ug.html"></a> | <a href="../curric/LING-gr.html">graduate
+      program</a> | <a href="../courses/LING.html">courses</a> | <a href="../faculty/LING.html">faculty</a> ]</span></p>
+<p class="program-contact-info">John Muir College<br>
+  Applied Physics and Mathematics Building, Room 3101<br />
+<a href="http://ling.ucsd.edu" target="_blank">http://ling.ucsd.edu</a> </p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><p class="basic-offset-top-only">In what ways do languages differ, and in what ways are all human languages alike? These are the basic questions that the science of linguistics seeks to answer. </p>
+				<p>In formulating hypotheses about language, it has been found that languages have intricate structure at a number of different levels. Phonetics studies the sounds of speech and how they are produced and perceived. Phonology studies the principles by which the sounds of a language are organized into a system and combined into syllables and larger units. Morphology studies the principles by which smaller units of meaning are combined into words. Syntax is the study of the principles by which words are combined into larger units such as phrases and sentences. Semantics studies meaning—the meanings of words and the ways the meanings of words are related to the meanings of larger units such as the phrase, the sentence, and the discourse. Linguists attempt to discover to what extent the principles at each level vary across languages, and to what extent they are universal. These principles apply to both spoken languages and signed languages. </p>
+<p>Because language provides a window into the human mind, linguistics plays a central role in the study of human cognition and figures prominently in the fields of cognitive science and psychology. We know, for example, that children succeed in learning language relatively quickly at a time when their other cognitive abilities are still developing. The universal properties of human language that linguists discover can be used to provide models of this acquisition process, to explain why it occurs so rapidly, and to make specific predictions about the way it unfolds. Second language acquisition and acquisition of signed languages provide important windows into the acquisition process. The results of linguistic research can also be tested directly in computational models and experimental studies of how language is represented and processed in the mind (psycholinguistics) and brain (neurolinguistics). Language can also be studied in terms of its function as a cognitive system shared by an entire society (sociolinguistics); sociolinguists investigate the ways in which the language use is affected by the social environment. </p>
+<p>The Department of Linguistics offers a series of lower-division courses designed to introduce students to the scientific study of language in the broader perspective of a liberal arts education. These are LIGN 3 (Language as a Social and Cultural Phenomenon), LIGN 4 (Language as a Cognitive System), LIGN 5 (The Linguistics of Invented Languages),  LIGN 7 (Sign Language and Its Culture), LIGN 8 (Languages and Cultures in America), and LIGN 17 (Making and Breaking Codes). These courses may be used to satisfy the Marshall College disciplinary breadth requirement. Lower-division linguistics courses may be used to satisfy the social sciences requirement at Muir College and Revelle College, and they partially fulfill the requirements for a program of concentration in Warren College. In addition, certain linguistics courses satisfy the American Cultures requirement in Revelle College and the cultural diversity requirement in Muir College and Warren College. LIGN 17 (Making and Breaking Codes) satisfies the Thurgood Marshall Computational Skills requirement in addition to the formal skills requirement in Warren College and in the Human Development Program. This course also satisfies the Structured Reasoning requirement in Sixth College. Students should consult their college advising offices to determine which linguistics courses satisfy these other requirements. </p>
+				<p>Linguistics courses are required for the International Studies—Linguistics major, and are relevant to a wide range of other fields of study at UC San Diego, including anthropology, cognitive science, communication, computer science, human development, law and society, psychology, and sociology, as well as areas such as African studies, Chinese studies, critical gender studies, ethnic studies, Jewish studies, Latin American studies, and others. In some cases certain linguistics courses count toward a major or minor in one of these departments or programs. Students should consult with a faculty adviser in linguistics and the other department or program when deciding on their course of study. </p>
+<p>Students are strongly encouraged to participate in the UC Education Abroad Program (EAP), the Opportunities Abroad Program (OAP), or the Global Seminars (GS) program. Students considering these options should discuss their plans with the department undergraduate adviser before going abroad.  Detailed information on EAP/OAP/GS is found in this catalog and at the <a href="http://studyabroad.ucsd.edu/" target="_blank">Study Abroad UC San Diego website</a>. </p>
+<p>The Department of Linguistics oversees the Linguistics Language Program, which offers basic language instruction in Arabic, ASL, French, German, Italian, Portuguese, and Spanish. Courses from the Language Program satisfy general-education requirements, as well as the Department of Linguistics language requirement. Graduate students who require a reading knowledge of French or German may enroll in LIFR 11 or LIGM 11, respectively. </p>
+				<p>The department also offers language instruction for individuals who grew up in an English-speaking environment while speaking a different language at home (currently Filipino, Hindi, Korean, Persian, and Vietnamese; other languages including Arabic, Armenian, and Cantonese may be added if student demand is sufficient). Instruction in these languages is designed to raise students&rsquo; linguistic and cultural competence to professional levels. Finally, directed self-instruction is available for a wide variety of languages through LIDS 19. </p>
+<p><b>Note:</b> Please check with the department’s student affairs officers for updates concerning programs and course offerings. </p>
+				<p class="anchor-parent"><a class="anchor" id="major"></a></p><h2 class="program-overview-subhead-1">The Major Program </h2>
+				<h3 class="program-overview-subhead-2">General Requirements </h3>
+				<p>Every linguistics major (except the language studies major) must satisfy
+				  the undergraduate language requirement and must successfully complete a
+				  minimum of twelve upper-division courses. In addition to the general major,
+			    the department offers a set of enriched major programs in various specializations. </p>
+        <p>Except for LIGN 199, no course taken on a Pass/Not Pass basis
+                  may be counted toward a linguistics major. No more than one
+                  quarter of LIGN 199 may be counted toward a linguistics major.
+          For the general linguistics, language and society, cognition and language, and speech and language sciences majors, at least six out of the twelve upper-division linguistics courses counted toward the major must be linguistics courses taken in residence at UC San Diego. For
+                  the language
+                  studies major, at least six out of the twelve upper division
+                  courses counted toward the major must be
+                  taken at UC San Diego, and at least four of these must be linguistics
+          courses that satisfy Part A of the language studies course requirements.
+          A letter grade of C– or better is required for every course counted
+                  toward a linguistics major, including courses taken to satisfy
+                  the department’s undergraduate language requirement.
+        </p>
+                <h3 class="program-overview-subhead-2">Required Linguistics Courses </h3>
+				<p>Linguistics 101 is required as an introduction to the field and serves as the prerequisite to certain other courses. Students who choose a linguistics major should enroll in it as early as possible. </p>
+				<p>Every major program in linguistics (except the language studies major) must include the following required courses covering basic areas of the field: </p>
+				<p class="course-list-overview">LIGN 101. Introduction to the Study of Language </p>
+				<p class="course-list-overview">LIGN 110. Phonetics </p>
+				<p class="course-list-overview">LIGN 111. Phonology  </p>
+				<p class="course-list-overview">LIGN 120. Morphology </p>
+				<p class="course-list-overview">LIGN 121. Syntax  </p>
+				<p class="course-list-overview">LIGN 130. Semantics </p>
+				<p class="basic-offset-top-only">Students are advised to take these required courses as early as possible, since the background they provide may be needed for other upper-division linguistics courses. Check individual course listings for prerequisite information. </p>
+				<h3 class="program-overview-subhead-2">Linguistics Electives </h3>
+				<p class="course-list-overview">LIGN 105. Law and Language </p>
+				<p class="course-list-overview">LIGN 108. Languages of Africa</p>
+				<p class="course-list-overview">LIGN 112. Speech Sounds and Speech Disorders</p>
+				<p class="course-list-overview">LIGN 113. Hearing Science and Hearing Disorders</p>
+<p class="course-list-overview">LIGN 119. First and Second Language Learning:
+				  From Childhood Through Adolescence</p>
+				<p class="course-list-overview">LIGN 141. Language Structures </p>
+				<p class="course-list-overview">LIGN 142. Language Typology </p>
+				<p class="course-list-overview">LIGN 143. The Structure of Spanish </p>
+				<p class="course-list-overview">LIGN 144. Discourse Analysis: American Sign
+				  Language and Performing Arts </p>
+				<p class="course-list-overview">LIGN 145. Pidgins and Creoles </p>
+				<p class="course-list-overview">LIGN 146. Sociolinguistics in Deaf Communities </p>
+				<p class="course-list-overview">LIGN 148. Psycholinguistics of Sign Languages</p>
+<p class="course-list-overview">LIGN 150. Historical Linguistics </p>
+				<p class="course-list-overview">LIGN 155. Evolution of Language</p>
+				<p class="course-list-overview">LIGN 160. Pragmatics</p>
+				<p class="course-list-overview">LIGN 165. Computational Linguistics </p>
+				<p class="course-list-overview">LIGN 170. Psycholinguistics </p>
+				<p class="course-list-overview">LIGN 171. Child Language Acquisition </p>
+				<p class="course-list-overview">LIGN 173. Heritage Languages</p>
+<p class="course-list-overview">LIGN 174. Gender and Language in Society </p>
+				<p class="course-list-overview">LIGN 175. Sociolinguistics </p>
+				<p class="course-list-overview">LIGN 176. Language of Politics and Advertising </p>
+				<p class="course-list-overview">LIGN 177. Multilingualism </p>
+        <p class="course-list-overview">LIGN 178. Spanish Sociolinguistics</p>
+<p class="course-list-overview">LIGN 179. Second Language Acquisition Research </p>
+		<p class="course-list-overview">LIGN 180. Language Representation in the Brain</p>
+		<p class="course-list-overview">LIGN 181. Language Processing in the Brain</p>
+		<h3 class="program-overview-subhead-6">Restricted Courses </h3>
+				<p class="course-list-overview">LIGN 87. Freshman Seminar (does not count as a linguistics elective)</p>
+				<p class="course-list-overview">LIGN 9GS. Sign Languages and Deaf Culture in the U.S. and France</p>
+				<p class="course-list-overview">LIGN 149GS. The Historical Roots of American Sign Language</p>
+<p class="course-list-overview">LIGN 192. Senior Seminar in Linguistics (does not count as a linguistics elective)</p>
+				<p class="course-list-overview">LIGN 195. Apprentice Teaching (does not count as a linguistics elective) </p>
+				<p class="course-list-overview">LIGN 197. Linguistics Internship </p>
+				<p class="course-list-overview">LIGN 199. Independent Study in Linguistics </p>
+				<p class="course-list-overview">LIGN 199H. Honors Independent Study in Linguistics </p>
+				<h5 class="program-overview-subhead-4">Note to Revelle and Warren students:</h5>
+				<p><em>Revelle:</em> For Revelle College only, the classification of the
+				  linguistics major as humanities, natural science, or social science must
+				  be determined on the basis of each student&#8217;s specific program. The
+				  classification of the major program will in turn determine what areas will
+				  be acceptable for the noncontiguous minor. </p>
+				<p><em>Warren:</em> For Warren College only, any courses taken in departments other than linguistics may not overlap with the student&#8217;s outside area(s) of concentration. </p>
+				<h3 class="program-overview-subhead-2">Undergraduate Language Requirement </h3>
+				<p>Linguistics majors must demonstrate proficiency in one foreign language. </p>
+				<p>Proficiency in a foreign language may be demonstrated in three ways: </p>
+				<ol>
+				  <li>By passing the reading proficiency examination and the oral interview
+				    administered by the Department of Linguistics in French,
+				    German, Italian, Russian, or Spanish; or </li>
+				  <li>By successfully completing a course given at UC San Diego representing the
+				    fourth quarter (or beyond) of instruction in any single foreign
+				    language with a grade of C– or better; or</li>
+				  <li> By scoring four
+				    or greater on the Advanced Placement (AP) exam. </li>
+        </ol>
+<p>Students are encouraged to satisfy this requirement as early as possible in order to be able to use the language for reference in linguistics courses. Students with native language competence in a language other than English may petition to have English count as satisfying the proficiency requirement. </p>
+				<h3 class="program-overview-subhead-2">General Major (12 courses) </h3>
+				<p>The general major in linguistics requires satisfaction of the undergraduate language requirement and successful completion of twelve upper-division courses:</p>
+				<p class="basic-offset-top-only">Six required linguistics courses</p>
+				<p class="course-list-overview">LIGN 101. Introduction to the Study of Language </p>
+				<p class="course-list-overview">LIGN 110. Phonetics </p>
+				<p class="course-list-overview">LIGN 111. Phonology</p>
+				<p class="course-list-overview">LIGN 120. Morphology </p>
+				<p class="course-list-overview">LIGN 121. Syntax </p>
+				<p class="course-list-overview">LIGN 130. Semantics				</p>
+				<p class="basic-offset-top-only">Five linguistics electives </p>
+				<p class="basic-offset-top-only">One additional linguistics elective or upper-division
+				  course in another department pertaining to the study of language. Courses
+				  currently approved to satisfy this requirement include the electives for
+				  the cognition and language major (except PSYC 105) and the electives for
+				  the language and society major (<b>Note:</b> some of these courses may
+				  have prerequisites) or a Heritage Language course offered in the Linguistics
+				  Language Program (for example, LIHL 112/LIHL 112X).</p>
+				<h3 class="program-overview-subhead-2">Specialized Majors </h3>
+				<p>Every student with a specialized major must consult the faculty adviser in the Department of Linguistics to have approved an individual curricular plan to satisfy the major requirements for the option chosen. Each specialized major requires satisfaction of the undergraduate language requirement and successful completion of upper-division requirements as specified below. The specialization will be reflected in the wording of a degree, e.g., “BA in Linguistics (with Specialization in Language and Society).” </p>
+				<h4 class="program-overview-subhead-3">Cognition and Language (12 courses) </h4>
+				<p>Six required linguistics courses</p>
+				<p class="course-list-overview">LIGN 101. Introduction to the Study of Language </p>
+				<p class="course-list-overview">LIGN 110. Phonetics </p>
+				<p class="course-list-overview">LIGN 111. Phonology</p>
+				<p class="course-list-overview">LIGN 120. Morphology </p>
+				<p class="course-list-overview">LIGN 121. Syntax </p>
+				<p class="course-list-overview">LIGN 130. Semantics </p>
+				<p class="basic-offset-top-only">Four linguistics electives chosen from</p>
+				<p class="course-list-overview">LIGN 112. Speech Sounds and Speech Disorders</p>
+				<p class="course-list-overview">LIGN 119. First and Second Language Learning: From Childhood Through Adolescence</p>
+				<p class="course-list-overview">LIGN 148. Psycholinguistics of Sign Languages</p>
+				<p class="course-list-overview">LIGN 155. Evolution of Language</p>
+				<p class="course-list-overview">LIGN 165. Computational Linguistics </p>
+				<p class="course-list-overview">LIGN 170. Psycholinguistics </p>
+				<p class="course-list-overview">LIGN 171. Child Language Acquisition </p>
+				<p class="course-list-overview">LIGN 176. Language of Politics and Advertising </p>
+				<p class="course-list-overview">LIGN 179. Second Language Acquisition Research </p>
+				<p class="course-list-overview">LIGN 180.&nbsp;Language Representation in the Brain</p>
+				<p class="course-list-overview">LIGN 181. Language Processing in the Brain</p>
+				<p class="basic-offset-top-only">Two additional courses from linguistics or other departments subject to adviser approval.</p>
+				<p>Courses currently approved to satisfy this requirement include the following. <strong>Note:</strong> some
+				  of these courses may have prerequisites.</p>
+				<h5 class="program-overview-subhead-4">Linguistics</h5>
+				<p>Any upper-division courses (except those used to fulfill requirements A and B). </p>
+				<h5 class="program-overview-subhead-4">Anthropology</h5>
+				<p class="course-list-overview">ANBI 140. The Evolution of the Human Brain </p>
+				<p class="course-list-overview">ANBI 159. Biological and Cultural Perspectives on Intelligence </p>
+				<p class="course-list-overview">ANBI 173. Cognition in Animals and Humans </p>
+				<h5 class="program-overview-subhead-4">Cognitive Science</h5>
+				<p class="course-list-overview">COGS 101C. Language</p>
+				<p class="course-list-overview">COGS 102A. Distributed Cognition</p>
+				<p class="course-list-overview">COGS 102B. Cognitive Ethnography</p>
+				<p class="course-list-overview">COGS 107C. Cognitive Neuroscience</p>
+				<p class="course-list-overview">COGS 108D. Programming Methods for Cognitive Science</p>
+				<p class="course-list-overview">COGS 108E. Neural Network Models of Cognition I</p>
+				<p class="course-list-overview">COGS 108F. Advanced Programming Methods for Cognitive Science</p>
+				<p class="course-list-overview">COGS 151. Analogy and Conceptual Systems </p>
+				<p class="course-list-overview">COGS 154. Communication Disorders in Children and Adults </p>
+				<p class="course-list-overview">COGS 156. Language Development </p>
+				<p class="course-list-overview">COGS 170. Natural and Artificial Symbolic Representational Systems </p>
+				<p class="course-list-overview">COGS 184. Modeling the Evolution of Cognition </p>
+				<p class="course-list-overview">COGS 191. Laboratory Research </p>
+				<h5 class="program-overview-subhead-4">Computer Science and Engineering</h5>
+				<p class="course-list-overview">CSE 133. Information Retrieval </p>
+				<h5 class="program-overview-subhead-4">Philosophy</h5>
+				<p class="course-list-overview">PHIL 120. Symbolic Logic I </p>
+				<p class="course-list-overview">PHIL 134. Philosophy of Language </p>
+				<p class="course-list-overview">PHIL 136. Philosophy of Mind </p>
+				<p class="course-list-overview">PHIL 150. Philosophy of the Cognitive Sciences </p>
+				<h5 class="program-overview-subhead-4">Psychology</h5>
+				<p class="course-list-overview">PSYC 105. Introduction to Cognitive Psychology </p>
+				<p class="course-list-overview">PSYC 118A. Real-Time Examination of Language Processing </p>
+				<p class="course-list-overview">PSYC 118B. Real-Time Examination of Language Processing </p>
+				<p class="course-list-overview">PSYC 119. Psycholinguistics/Cognition Laboratory </p>
+				<p class="course-list-overview">PSYC 145. Psychology of Language </p>
+				<h4 class="program-overview-subhead-3">Language and Society (12 courses) </h4>
+				<p>Six required linguistics courses</p>
+				<p class="course-list-overview">LIGN 101. Introduction to the Study of Language </p>
+				<p class="course-list-overview">LIGN 110. Phonetics </p>
+				<p class="course-list-overview">LIGN 111. Phonology</p>
+				<p class="course-list-overview">LIGN 120. Morphology </p>
+				<p class="course-list-overview">LIGN 121. Syntax </p>
+				<p class="course-list-overview">LIGN 130. Semantics </p>
+<p class="basic-offset-top-only">Two appropriate upper-division courses in
+				  other departments (especially the Departments of Anthropology,
+				  Communication, Cognitive Science, or Sociology), selected in
+				  consultation with the faculty adviser for language and society.
+				  Courses currently approved to satisfy this requirement include the following. <strong>Note: </strong>some
+				  of these courses may have prerequisites.</p>
+				<p class="course-list-overview">ANSC 118. Language and Culture</p>
+				<p class="course-list-overview">ANSC 122. Language in Society [formerly known as ANGN 149]</p>
+<p class="course-list-overview">ANSC 162. Language,
+			    Identity, and Community [formerly known as ANGN 112]</p>
+<p class="course-list-overview">COMM 100B. Interpretive Strategies</p>
+<p class="course-list-overview">COMM 168. Bilingual Communication</p>
+<p class="course-list-overview">COMM 110T. Language, Literacy, and Communication: Language, Thought, and Media</p>
+<p class="course-list-overview">COMM 169. Deaf Culture in the U.S.</p>
+<p class="course-list-overview">COMM 110P. Language, Literacy, and Communication: Language and Human Communication</p>
+<p class="course-list-overview">COMM 112G. Interaction and Mediation: Language and Globalization</p>
+<p class="course-list-overview">ETHN 140. Language and American Ethnicity</p>
+				<p class="course-list-overview">ETHN 141. Language, Culture, and Inequality</p>
+				<p class="course-list-overview">ETHN 144. Bilingual Communities in the USA</p>
+				<p class="course-list-overview">SOCI 117/EDS 117. Language, Culture, and Education</p>
+				<p class="course-list-overview">SOCI 118E. Sociology of Language</p>
+				<p class="course-list-overview">SOCI 120T. Special Topics in Culture, Language, and Social Interaction</p>
+				<p class="course-list-overview">EDS 125. History, Politics, and Theory of Bilingual Education </p>
+				<p class="basic-offset-top-only">One course in sociolinguistics (by approval of the faculty adviser, may be taken in another department). Courses currently approved to satisfy this requirement include the following. <strong>Note: </strong>some of these courses may have prerequisites:</p>
+				<p class="course-list-overview">LIGN 174. Gender and Language in Society</p>
+				<p class="course-list-overview">LIGN 175. Sociolinguistics</p>
+				<p class="course-list-overview">LIGN 177. Multilingualism </p>
+				<p class="basic-offset-top-only">Three linguistics electives. Courses particularly relevant to this specialization are </p>
+				<p class="course-list-overview">LIGN 105. Law and Language</p>
+				<p class="course-list-overview">LIGN 174. Gender and Language in Society</p>
+				<p class="course-list-overview">LIGN 175. Sociolinguistics</p>
+				<p class="course-list-overview">LIGN 176. Language of Politics and Advertising</p>
+				<p class="course-list-overview">LIGN 177. Multilingualism</p>
+				<h4>Speech and Language Sciences (13 courses) </h4>
+                <p>One lower-division statistics course to be chosen from</p>
+                <p class="course-list-overview">COGS 14B. Introduction to Statistical Analysis</p>
+                <p class="course-list-overview">PSYC 60. Introduction to Statistics</p>
+                <p>Six required linguistics courses</p>
+                <p class="course-list-overview">LIGN 101. Introduction to the Study of Language </p>
+                <p class="course-list-overview">LIGN 110. Phonetics </p>
+                <p class="course-list-overview">LIGN 111. Phonology</p>
+                <p class="course-list-overview">LIGN 120. Morphology </p>
+                <p class="course-list-overview">LIGN 121. Syntax </p>
+                <p class="course-list-overview">LIGN 130. Semantics </p>
+                <p>One course in speech, language, and hearing disorders</p>
+                <p class="course-list-overview">LIGN 112. Speech Sounds and Speech Disorders</p>
+                <p>One course in language development and disorders to be chosen from </p>
+                <p class="course-list-overview">LIGN 119. First and Second Language Learning: From Childhood through Adolescence</p>
+                <p class="course-list-overview">LIGN 171. Child Language Acquisition</p>
+                <p class="course-list-overview">LIGN 179. Second Language Acquisition Research</p>
+                <p>One course in neurobiology of language to be chosen from </p>
+                <p class="course-list-overview">LIGN 180. Language Representation in the Brain</p>
+                <p class="course-list-overview">LIGN 181. Language Processing in the Brain</p>
+                <p>Three speech and language sciences elective courses to be chosen from</p>
+                <p class="course-list-overview">COGS 107A. Neuroanatomy and Physiology</p>
+                <p class="course-list-overview">COGS 107C. Cognitive Neuroscience</p>
+                <p class="course-list-overview">COGS 154. Communication Disorders in Children and Adults</p>
+                <p class="course-list-overview">COGS 179. Electrophysiology of Cognition</p>
+                <p class="course-list-overview">COMM 168. Bilingual Communication</p>
+                <p class="course-list-overview">COMM 169. Deaf Culture in the U.S.</p>
+                <p class="course-list-overview">EDS 125. History, Politics, and Theory of Bilingual Education</p>
+                <p class="course-list-overview">ETHN 185. Discourse, Power, and Inequality</p>
+                <p class="course-list-overview">LIGN 119. First and Second Language Learning: From Childhood through Adolescence</p>
+                <p class="course-list-overview">LIGN 146. Sociolinguistics in Deaf Communities</p>
+                <p class="course-list-overview">LIGN 148. Psycholinguistics of Sign Language</p>
+                <p class="course-list-overview">LIGN 160. Pragmatics</p>
+                <p class="course-list-overview">LIGN 170. Psycholinguistics</p>
+                <p class="course-list-overview">LIGN 171. Child Language Acquisition</p>
+                <p class="course-list-overview">LIGN 175. Sociolinguistics</p>
+                <p class="course-list-overview">LIGN 177. Multilingualism</p>
+                <p class="course-list-overview">LIGN 179. Second Language Acquisition Research</p>
+                <p class="course-list-overview">LIGN 180. Language Representation in the Brain</p>
+                <p class="course-list-overview">LIGN 181. Language Processing in the Brain</p>
+                <p class="course-list-overview">MUS 175. Musical Psychoacoustic</p>
+                <p class="course-list-overview">PSYC 105. Cognitive Psychology</p>
+                <p class="course-list-overview">PSYC 108. Cognitive Neuroscience</p>
+                <p class="course-list-overview">PSYC 128. Psychology of Reading</p>
+                <p class="course-list-overview">PSYC 138. Sound and Music Perception</p>
+                <p class="course-list-overview">SOC 117. Language, Culture, and Education</p>
+        <p class="course-list-overview">Exceptions: COGS 107C and PSYC 108 may not both be taken for credit toward the major.</p>
+                <h3 class="program-overview-subhead-2">Language Studies Major </h3>
+				<p><strong class="myriad-pro-semibold">Students majoring in language studies must consult with the language studies faculty adviser to approve an individual curricular plan. </strong></p>
+				<p>The language studies major is designed for students who wish to pursue the study of a particular language from a variety of perspectives. To this end, students will take courses in linguistics and literature, as well as electives in linguistics, literature, culture, and area studies. This major provides preparation for a variety of careers that make use of second language skills. Depending on the elective emphasis, these include international business/law, teaching, translation, interpreting, linguistics, and foreign service. Each language studies major will specialize in one <strong class="myriad-pro-semibold">language of concentration</strong>. In principle, this could be any language other than English. However, some languages may require that some course work be completed outside UC San Diego. <strong class="myriad-pro-semibold">Hence, it is recommended that language studies majors consider a year abroad. </strong>Students whose language of concentration is <strong class="myriad-pro-semibold">American Sign Language</strong> will need to consult the faculty adviser for individualized requirements; these students may also consider an exchange year at Gallaudet University. </p>
+				<h3 class="program-overview-subhead-2">Requirements</h3>
+				<h4 class="program-overview-subhead-3">Lower-division preparation: </h4>
+				<ul>
+					<li class="list-level-1">Two years of language instruction in the language of concentration, or equivalent proficiency </li>
+					<li class="list-level-1">Lower-division prerequisites for upper-division courses in the literature of the language of concentration </li>
+				</ul>
+				<h4 class="program-overview-subhead-3">Upper-division requirements: </h4>
+				<p><strong>Note: </strong>at least two of the upper-division courses must be conducted in the language of concentration. Students are encouraged to increase their academic exposure to their language of concentration by taking one-unit seminars in the language and by participating in the EAP program. </p>
+				<ol class="upper-alpha">
+				  <li>Six upper-division linguistics courses, as follows:<br />
+<p class="course-list-courses">LIGN 101. Introduction
+			      to Linguistics</p>
+			      
+			      <p>Three courses chosen from <br>
+                    <span class="course-list-courses">LIGN 110. Phonetics<br />
+LIGN 111. Phonology <br />
+LIGN 120. Morphology<br />
+LIGN 121. Syntax <br />
+LIGN 130. Semantics<br />
+LIGN 145. Pidgins and Creoles <br />
+LIGN 150. Historical Linguistics</span><br />
+“Structure of” language of concentration course
+(e.g., LIGN 143, Structure of Spanish). If no such course is available, the student
+must consult with the undergraduate adviser regarding a possible substitution.</p>
+One
+additional upper-division LIGN course.</li>
+				  <li>Two upper-division courses in the literature
+				    of the language of concentration </li>
+				  <li>
+				    <p>Four additional upper-division courses that deal with general linguistics,
+				    the language of concentration (e.g., literature), or the
+				    corresponding culture/area studies (e.g., anthropology, economics,
+				    history, political science, sociology), subject to approval
+				    of the faculty adviser.</p>
+				    <p>Approved courses for this requirement include
+				    the following. <strong>Note:</strong> some
+				    of these courses may have prerequisites.</p>
+				  </li>
+	    </ol>
+<p><em>Linguistics:</em> Any upper-division courses (except those used to fulfill requirement A). </p>
+				<p><em>Literature: </em>Any upper-division courses related to the language of concentration (except those used to fulfill requirement B). </p>
+				<p><em>Area Studies: </em>Approved courses are listed by language of concentration; other languages of concentration are possible in principle, but probably require course work outside of UC San Diego.</p>
+				<h5>Arabic</h5>
+                <p class="course-list-overview">ANSC 133. Peoples and Cultures of the Middle East</p>
+                <p class="course-list-overview">ECON 165. Middle East Economics</p>
+                <p class="course-list-overview">HINE 114. History of the Islamic Middle East</p>
+                <p class="course-list-overview">HINE 115. Islamic Civilization</p>
+                <p class="course-list-overview">HINE 118. The Middle East in the Twentieth Century </p>
+                <p class="course-list-overview">HINE 119. Contemporary Middle East Conflicts</p>
+                <p class="course-list-overview">HINE 122. Politicization of Religion in the Middle East</p>
+                <p class="course-list-overview">POLI 121B. Politics in Israel</p>
+                <p class="course-list-overview">RELI 112. Texts and Contexts: The Holy Book in Islam</p>
+<h5 class="program-overview-subhead-4">ASL</h5>
+				<p class="course-list-overview">COMM 169. Deaf Culture in the U.S.</p>
+				<h5 class="program-overview-subhead-4">Chinese</h5>
+				<p class="course-list-overview">ANRG 170/ANSC 136. Traditional Chinese Society</p>
+                <p class="course-list-overview">ANRG 173/ANSC 137. Chinese Popular Religion</p>
+                <p class="course-list-overview">ANSC 136. Traditional Chinese Society</p>
+                <p class="course-list-overview">ANSC 137. Chinese Popular Religion</p>
+                <p class="course-list-overview">HIEA 120. Classical Chinese Philosophy and Culture</p>
+                <p class="course-list-overview">HIEA 121. Medieval Chinese Culture and Society</p>
+                <p class="course-list-overview">HIEA 122. Late Imperial Chinese Culture and Society</p>
+                <p class="course-list-overview">HIEA 119/SOCB 162R. Religion and Popular Culture in East Asia</p>
+                <p class="course-list-overview">HIEA 125. Women and Gender in East Asia</p>
+                <p class="course-list-overview">HIEA 126. The Silk Road in Chinese and Japanese History</p>
+                <p class="course-list-overview">HIEA 128. History of Material Culture in China</p>
+                <p class="course-list-overview">HIEA 129. Faces of the Chinese Past</p>
+                <p class="course-list-overview">HIEA 130. End of the Chinese Empire, 1800–1911</p>
+                <p class="course-list-overview">HIEA 131. History of the Modern Chinese Revolution: 1911–1949</p>
+                <p class="course-list-overview">HIEA 132. History of the People’s Republic of China</p>
+                <p class="course-list-overview">HIEA 133. Twentieth-Century China: Cultural History</p>
+                <p class="course-list-overview">HIEA 134. History of Thought and Religion in China: Confucianism</p>
+                <p class="course-list-overview">HIEA 135. History of Thought and Religion in China: Buddhism</p>
+                <p class="course-list-overview">HIEA 136. History of Thought and Religion in China: Daoism</p>
+                <p class="course-list-overview">HIEA 137. Women and Family in Chinese History</p>
+                <p class="course-list-overview">HIEA 138. Women and the Chinese Revolution</p>
+                <p class="course-list-overview">HIEA 162/262. History of Women in China</p>
+                <p class="course-list-overview">HIEA 163/263. Cinema and Society
+                in Twentieth-Century China</p>
+<p class="course-list-overview">HIEA 164/264. Seminar in Late
+                Imperial Chinese History</p>
+<p class="course-list-overview">HIEA 165/265. Topics in Medieval Chinese History</p>
+                <p class="course-list-overview">HIEA 166/266. Creating Ming Histories</p>
+                <p class="course-list-overview">HIEA 167. Special Topics in Modern Chinese History</p>
+                <p class="course-list-overview">HIEA 168/268. Topics in Classical and Medieval Chinese History</p>
+                <p class="course-list-overview">HIEA 171/271. Society and Culture
+                  in Premodern China</p>
+                <p class="course-list-overview">POLI 113A. East Asian Thought in Comparative Perspective</p>
+                <p class="course-list-overview">POLI 113B. Chinese and Japanese Political Thought I</p>
+                <p class="course-list-overview">POLI 130B. Politics in the People’s Republic of China</p>
+                <p class="course-list-overview">POLI 131C. The Chinese Revolution</p>
+                <p class="course-list-overview">POLI 132B. Politics and Revolution in China and Japan</p>
+                <p class="course-list-overview">POLI 132C. Political Development
+                  and Modern China</p>
+                <p class="course-list-overview">POLI 133D. Political Institutions of East Asian Countries</p>
+                <p class="course-list-overview">SOCI 188G. Chinese Society</p>
+                <p class="course-list-overview">SOCI 162R/HIEA 119. Religion
+                  and Popular Culture in East Asia</p>
+                <p class="course-list-overview">VIS 127B. Arts of China</p>
+                <p class="course-list-overview">VIS 127C. Arts of Modern China</p>
+                <p class="course-list-overview">VIS 127D. Early Chinese Painting</p>
+                <p class="course-list-overview">VIS 127E. Later Chinese Painting</p>
+                <p class="course-list-overview">VIS 127G. Twentieth-Century Chinese Art</p>
+                <p class="course-list-overview">VIS 127N. Twentieth-Century Art in China and Japan				</p>
+                <h5 class="program-overview-subhead-4">French</h5>
+				<p class="course-list-overview">HIEU 129. Paris, Past and Present </p>
+                <p class="course-list-overview">HIEU 130. Europe in the Eighteenth Century</p>
+                <p class="course-list-overview">HIEU 131. The French Revolution: 1789–1814 </p>
+                <p class="course-list-overview">HIEU 142. European Intellectual History, 1780–1870</p>
+                <p class="course-list-overview">POLI 120C. Politics in France </p>
+                <p class="course-list-overview">TDHT 105. French Comedy				</p>
+                <h5 class="program-overview-subhead-4">German </h5>
+				<p class="course-list-overview">HIEU 130. Europe in the Eighteenth Century</p>
+                <p class="course-list-overview">HIEU 132. German Politics and Culture: 1648–1848 </p>
+                <p class="course-list-overview">HIEU 142. European Intellectual History, 1780–1870</p>
+                <p class="course-list-overview">HIEU 143. European Intellectual History, 1870–1945</p>
+                <p class="course-list-overview">HIEU 145. The Holocaust as Public History</p>
+                <p class="course-list-overview">HIEU 154. Modern German History </p>
+                <p class="course-list-overview">HIEU 155. Modern Austria </p>
+                <p class="course-list-overview">HIEU 158. Why Hitler? How Auschwitz?</p>
+                <p class="course-list-overview">HIEU 172/272. Comparative European Fascism</p>
+                <p class="course-list-overview">HIEU 174/274. The Holocaust: A Psychological Approach</p>
+                <p class="course-list-overview">HIEU 177. Special Topics in Modern
+                  German Thought </p>
+                <p class="course-list-overview">PHIL 106. Kent</p>
+                <p class="course-list-overview">PHIL 107. Hegel</p>
+                <p class="course-list-overview">POLI 120B. The German Political System </p>
+                <p class="course-list-overview">POLI 120D. Germany: Before, During, and After Division </p>
+        <p class="course-list-overview">SOCI 178. The Holocaust</p>
+                <p class="course-list-overview">TDHT 106. Brecht and Beyond				</p>
+                <h5 class="program-overview-subhead-4">Hebrew </h5>
+				<p class="course-list-overview">ANRG 150/ANAR 142. The Rise and Fall of Ancient Israel </p>
+        <p class="course-list-overview">HIEU 159. Three Centuries of Zionism, 1648–1948</p>
+                <p class="course-list-overview">HIEU 176/276. Politics in the Jewish Past</p>
+                <p class="course-list-overview">HINE 102. The Jews in Their Homeland in Antiquity</p>
+                <p class="course-list-overview">HINE 103. The Jewish Diaspora in Antiquity </p>
+                <p class="course-list-overview">HINE 111. Anthropology and the Hebrew Bible</p>
+                <p class="course-list-overview">HINE 112A. Great Stories from
+                  the Hebrew Bible</p>
+                <p class="course-list-overview">HINE 112B. Great Poems from the Hebrew Bible</p>
+                <p class="course-list-overview">HINE 161/HINE 261. Seminar in the Hebrew Bible</p>
+                <p class="course-list-overview">HINE 162/262. Anthropology
+                and the Hebrew Bible&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+                <p class="course-list-overview">HINE 170. Special Topics in Jewish History </p>
+                <p class="course-list-overview">HINE 181/281. Problems in the Study of Hebrew Manuscripts</p>
+                <p class="course-list-overview">HINE 186. Special Topics in Middle Eastern History </p>
+                <p class="course-list-overview">POLI 121. Government and Politics of the Middle East </p>
+                <p class="course-list-overview">POLI 121B. Politics in Israel</p>
+        <p class="course-list-overview">RELI 111. Texts and Contexts: The Holy Book in Christianity
+                  and Judaism</p>
+                <p class="course-list-overview">SOCI 188F. Modern Jewish Societies and Israeli Society				</p>
+                <h5 class="program-overview-subhead-4">Italian </h5>
+				<p class="course-list-overview">HIEU 119. Modern Italy: From Unification
+				  to the Present</p>
+				<p class="course-list-overview">HIEU 120. The Renaissance in Italy</p>
+				<p class="course-list-overview">HIEU 121. Early Modern Italy </p>
+				<p class="course-list-overview">HIEU 122. Politics Italian Renaissance Style</p>
+                <p class="course-list-overview">HIEU 172/272. Comparative European Fascism</p>
+                <p class="course-list-overview">POLI 120I. Politics in Italy </p>
+                <p class="course-list-overview">TDHT 104. Italian Comedy</p>
+                <p class="course-list-overview">VIS 122AN. Renaissance Art</p>
+                <p class="course-list-overview">VIS 122CN. Defining High Renaissance Art</p>
+                <p class="course-list-overview">VIS 122D. Michelangelo</p>
+        <p class="course-list-overview">VIS 122F. Leonardo’s La Gioconda </p>
+<h5 class="program-overview-subhead-4">Japanese </h5>
+				<p class="course-list-overview">ECON 163. Japanese Economy </p>
+                <p class="course-list-overview">HIEA 110. Japan Through the Twelfth Century </p>
+                <p class="course-list-overview">HIEA 111. Japan: Twelfth to Mid-Nineteenth Centuries</p>
+                <p class="course-list-overview">HIEA 112. Japan: From the Mid-Nineteenth Century through the
+                  US Occupation </p>
+                <p class="course-list-overview">HIEA 113. The Fifteen-Year War in Asia and the Pacific </p>
+                <p class="course-list-overview">HIEA 114. Postwar Japan </p>
+                <p class="course-list-overview">HIEA 115. Social and Cultural History of Twentieth-Century
+                  Japan </p>
+                <p class="course-list-overview">HIEA 116. Japan-U.S. Relations </p>
+                <p class="course-list-overview">HEA 117. Ghosts in Japan</p>
+                <p class="course-list-overview">HIEA 125. Women and Gender in East Asia</p>
+                <p class="course-list-overview">HIEA 126. The Silk Road in Chinese
+                  and Japanese History</p>
+                <p class="course-list-overview">HIEA 160. Colloquium on Modern Japanese History </p>
+                <p class="course-list-overview">POLI 113A. East Asian Thought in Comparative Perspective</p>
+                <p class="course-list-overview">POLI 113B. Chinese and Japanese
+                  Political Thought I</p>
+                <p class="course-list-overview">POLI 132B. Politics and Revolution in China and Japan </p>
+                <p class="course-list-overview">POLI 133A. Japanese Politics: A Developmental Perspective </p>
+                <p class="course-list-overview">POLI 133D. Political Institutions of East Asian Countries</p>
+                <p class="course-list-overview">POLI 133E. Public Policy in Japan </p>
+                <p class="course-list-overview">VIS 127F. Japanese Buddhist Art</p>
+                <p class="course-list-overview">VIS 127N. Twentieth-Century Art in China and Japan</p>
+                <p class="course-list-overview">VIS 127P. Arts of Japan</p>
+                <p class="course-list-overview">VIS 127Q. Japanese Painting and Prints				</p>
+                <h5 class="program-overview-subhead-4">Russian </h5>
+				<p class="course-list-overview">HIEU 134. The Formation of the Russian Empire,
+				  800–1855 </p>
+                <p class="course-list-overview">HIEU 156. History of the Soviet
+                  Union, 1905–1991 </p>
+                <p class="course-list-overview">HIEU 178. Soviet History </p>
+                <p class="course-list-overview">POLI 126AB. Politics and Economics in Eastern Europe </p>
+                <p class="course-list-overview">POLI 130AA. The Soviet Successor States </p>
+        <p class="course-list-overview">POLI 130AC. Seminar: Post-Soviet Politics </p>
+                <p class="course-list-overview">POLI 130AD. The Politics of the Russian Revolution				</p>
+                <h5 class="program-overview-subhead-4">Spanish </h5>
+				<p class="course-list-overview">ANAR 156. The Archaeology of South America</p>
+                <p class="course-list-overview">ANSC 116. Languages of the Americas: Mayan</p>
+<p class="course-list-overview">ANSC 131. Urban Cultures in Latin America</p>
+                <p class="course-list-overview">ANSC 142. Anthropology of Latin America</p>
+                <p class="course-list-overview">COMM 142. Cuban Cinema</p>
+                <p class="course-list-overview">COMM 155. Latino Space, Place, and Culture</p>
+                <p class="course-list-overview">COMM 104G. Comparative Media Systems: Latin America and the Caribbean </p>
+                <p class="course-list-overview">COMM 140. Cinema in Latin America </p>
+<p class="course-list-overview">ECON 161. Global Integration of Latin America</p>
+                <p class="course-list-overview">ECON 162. Economics of Mexico </p>
+                <p class="course-list-overview">ETHN 116. The United States–Mexico Border in Comparative Perspective </p>
+                <p class="course-list-overview">ETHN 129/USP 135. Asian and Latina Immigrant Workers in the
+                  Global Economy</p>
+                <p class="course-list-overview">ETHN 132. Chicano Dramatic Literature </p>
+                <p class="course-list-overview">ETHN 133. Hispanic American Dramatic Literature </p>
+                <p class="course-list-overview">ETHN 135A. Early Latino/a-Chicano/a Cultural Production: 1848–1960 </p>
+                <p class="course-list-overview">ETHN 135B. Contemporary Latino/a- Chicano/a Cultural Production:
+                  1960 to Present </p>
+                <p class="course-list-overview">ETHN 136. Topics in Chicano/a-Latino/a Cultures </p>
+                <p class="course-list-overview">ETHN 138. Chicano/a and Latino/a Poetry </p>
+                <p class="course-list-overview">ETHN 145. Spanish Language in the United States </p>
+                <p class="course-list-overview">ETHN 148. Latino/a and Chicano/a
+                  Literature </p>
+                <p class="course-list-overview">ETHN 180. Topics in Mexican American History </p>
+                <p class="course-list-overview">HIEU 138. Imperial Spain, 1476–1808 </p>
+                <p class="course-list-overview">HIEU 151. Spain since 1808 </p>
+                <p class="course-list-overview">HILA 100. Latin America-Colonial Transformations </p>
+                <p class="course-list-overview">HILA 101. Latin America: The Construction of Independence
+                  1810–1898 </p>
+                <p class="course-list-overview">HILA 102. Latin America in the Twentieth Century </p>
+                <p class="course-list-overview">HILA 103. Revolution in Modern Latin America</p>
+                <p class="course-list-overview">HILA 104. Modern US–Latin American
+                  Relations</p>
+                <p class="course-list-overview">HILA 108. Economic History: Continuity and Change in Latin
+                  America</p>
+                <p class="course-list-overview">HILA 112. Economic and Social History of the Andean Region </p>
+                <p class="course-list-overview">HILA 113. Lord and Peasant in Latin America </p>
+                <p class="course-list-overview">HILA 114. Dictatorship in Latin America </p>
+                <p class="course-list-overview">HILA 115. The Latin American City, A History </p>
+                <p class="course-list-overview">HILA 116. El Salvador and the United States: Human Rights
+                  and Revolution </p>
+                <p class="course-list-overview">HILA 120. History of Argentina </p>
+                <p class="course-list-overview">HILA 121. History of Brazil</p>
+                <p class="course-list-overview">HILA 122. Cuba: From Colony to Socialist Republic </p>
+                <p class="course-list-overview">HILA 123. The Incas and Their Ancestors </p>
+<p class="course-list-overview">HILA 124A. History of Women and
+        Gender in Latin America</p>
+                <p class="course-list-overview">HILA 126. From Columbus to Castro: Caribbean Culture and Society </p>
+                <p class="course-list-overview">HILA 127. History, Culture, and Power</p>
+                <p class="course-list-overview">HILA 131. A History of Mexico </p>
+                <p class="course-list-overview">HILA 132. A History of Contemporary Mexico </p>
+                <p class="course-list-overview">HILA 134. Indians of Colonial Latin America </p>
+<p class="course-list-overview">HILA 161. History of Women in Latin America </p>
+                <p class="course-list-overview">HILA 162. Special Topics in Latin American History </p>
+                <p class="course-list-overview">HILA 163/263. The History of Chile, 1880–Present</p>
+        <p class="course-list-overview">HILA 164/264. Women’s Work and Family Life in Latin America </p>
+                <p class="course-list-overview">HILA 167/267. Scholarship on Latin American History in the
+                Colonial Period</p>
+<p class="course-list-overview">HILA 168/268. Scholarship on Latin American History in the
+                  Nineteenth Century</p>
+                <p class="course-list-overview">HILA 169/269. Scholarship on Latin American History in the
+                  Twentieth Century</p>
+                <p class="course-list-overview">LATI 120. Special Topics in Latin American Studies </p>
+                <p class="course-list-overview">THHS 109. African Heritage in Contemporary Drama: African,
+                  Caribbean, and African American </p>
+                <p class="course-list-overview">TDHT 110. Chicano Dramatic Literature </p>
+                <p class="course-list-overview">TDHT 111. Hispanic American Dramatic Literature </p>
+                <p class="course-list-overview">POLI 134AA. Comparative Politics of Latin America</p>
+                <p class="course-list-overview">POLI 134B. Politics in Mexico </p>
+                <p class="course-list-overview">POLI 134D. Selected Topics in Latin American Politics </p>
+                <p class="course-list-overview">POLI 134I. Politics in the Southern Cone of Latin America </p>
+                <p class="course-list-overview">POLI 134N. Politics in Central America</p>
+                <p class="course-list-overview">POLI 146A. The U.S. and Latin America: Political and Economic
+                  Relations </p>
+                <p class="course-list-overview">SOCI 151M. Chicanos in American Society </p>
+                <p class="course-list-overview">SOCI 182. Ethnicity and Indigenous Peoples in Latin America</p>
+                <p class="course-list-overview">SOCI 188D. Latin America: Society and Politics </p>
+                <p class="course-list-overview">VIS 125F. Latin American Film</p>
+                <p class="course-list-overview">VIS 126P. Latin American Art:
+                  Modern to Postmodern, 1890–1950</p>
+        <p class="course-list-overview">VIS 126Q. Latin American Art: Modern
+          to Postmodern, 1950–Present</p>
+                <p class="course-list-overview">VIS 126R. Latin American Photography</p>
+                <h3 class="program-overview-subhead-2">Honors Program </h3>
+				<p>The department offers an honors program for outstanding students. Those students who have a 3.75 GPA in linguistics (3.25 overall) at the end of their junior year are eligible to participate. Students interested in participating in the honors program should consult with their department adviser: admission to the program requires nomination by the adviser and approval of the department faculty. </p>
+				<p>The honors program requires that two graduate linguistics courses be taken as part of the twelve required courses for the major, and further requires one quarter of LIGN 199H. During one of the two graduate courses, the student, in consultation with the instructor and a proposed faculty adviser (if different from the instructor), will begin a substantial research project which will be continued during the quarter of 199H and will culminate in an honors paper. Responsibility for proposing possible projects and completing necessary paperwork rests with the student. Upon successful completion of the requirements the designation &ldquo;with distinction,&rdquo; &ldquo;with high distinction,&rdquo; or &ldquo;with highest distinction&rdquo; will appear on the student&rsquo;s diploma. </p>
+				<p>Students interested in participating in the honors program should approach and consult with a departmental faculty member who would serve as their adviser; admission to the program requires nomination by the adviser and approval of the department faculty. </p>
+<h3 class="program-overview-subhead-2">Independent Study and Directed Group Study in Linguistics for Majors </h3>
+				<p>Upon presentation of a written study proposal or project, and with the consent of a faculty member who would serve as the adviser for the project, linguistics majors with at least a 3.5 GPA in the major courses may request permission to undertake independent study in linguistics (LIGN 199). No more than one such course (to be taken Pass/Not Pass) may count toward the major. </p>
+        <h4>The Global Concentration Program</h4>
+				<p>The Global Concentration in Linguistics is a cluster of courses with an international or global focus. The Global Concentration can be applied to any of the four linguistics majors. Students must satisfy the three requirements listed below to receive &ldquo;Global Concentration&rdquo; recognition on their academic transcripts.</p>
+				<h5>Requirement 1: A minimum of eight units earned through study abroad, of which a minimum of four units would count toward the major</h5>
+				<p>These units may be earned through the Education Abroad Program, Opportunities Abroad Program or Global Seminars, and must have academic transcripts. Students petition to have courses counted toward their Global Concentration when they return from study abroad, just as they would petition to have courses count toward their major or minor. UC San Diego Global Seminars constitute eight units, and fulfill this criterion without the need for petition.    </p>
+				<h5>Requirement 2: Demonstration of proficiency in a second language through the fourth quarter of university-level instruction, or its equivalent </h5>
+				<p>Global Concentrations at UC San Diego require second language proficiency. All linguistics majors must independently satisfy this requirement as part of the general requirements for a major in linguistics. </p>
+				<h5>Requirement 3: A minimum of two courses with department-identified global content</h5>
+				<p>The following linguistics courses are approved global content courses. This list includes two study abroad Global Seminar (GS) courses. See <a href="GS.html">UC San Diego Global Seminars Program</a> for more information. </p>
+				<h6>Global Content Linguistics courses</h6>
+				<p class="course-list-overview">LIGN 108. Languages of Africa</p>
+				<p class="course-list-overview">LIGN 141. Language Structures </p>
+				<p class="course-list-overview">LIGN 143. The Structure of Spanish</p>
+				<p class="course-list-overview">LIGN 177. Multilingualism</p>
+				<p class="course-list-overview">LIGN 157GS. Roma and Gitanos</p>
+				<p class="course-list-overview">LIGN 187GS. The Art, Language, and Culture of Flamenco</p>
+				<p>Courses taken while on study abroad may be allowed to satisfy the department global content requirement. Students must petition study abroad courses to satisfy this requirement. </p>
+				<h4>General Linguistics, Cognition and Language, Language and Society Majors</h4>
+				<p>Some courses from other department are preapproved to count toward General Linguistics, Cognition and Language, and Language and Society majors. The following select courses from that list qualify as global content courses. (Students may petition additional courses in other departments to count if they are judged to have sufficient global content.)</p>
+				<h6>Global Content language-related courses in other departments</h6>
+				<p class="course-list-overview">ANSC 162. Language, Identity, and Community</p>
+				<p class="course-list-overview">ANSC 116. Languages of the Americas: Mayan </p>
+				<p class="course-list-overview">ANSC 118. Language and Culture </p>
+				<p class="course-list-overview">ANSC 122. Language in Society </p>
+				<p class="course-list-overview">COMM 112G. Interaction and Mediation: Language and Globalization</p>
+                <h4>Language Studies Major </h4>
+                <p>Literature courses on the language of concentration and preapproved area studies courses (listed above) qualify as global content courses, with the exception of COMM 169: Deaf Culture in the United States.</p>
+<p class="anchor-parent"><a class="anchor" id="minor"></a></p><h2 class="program-overview-subhead-1">The Minor Program </h2>
+				<p>The <em>Linguistics</em> minor consists of LIGN 101, plus six additional courses in linguistics, at least four of which must be upper division. </p>
+				<p>For all courses counted toward the linguistics minor, the student must receive letter grades of C– or better. Courses counted toward the minor may not be taken on a Pass/Not Pass basis, except LIGN 199. Only one quarter of LIGN 199 may be counted toward the minor. </p>
+				<p>The <em>Language Studies </em>minor consists of seven courses, at least five of which must be upper division: </p>
+				<p><em>Literature: </em>One upper-division literature course is required in the language of concentration. This will require proficiency as well as lower-division prerequisites. Therefore, the lower-division courses of the minor may consist of prerequisites for the upper-division literature requirement. American Sign Language students may substitute a nonliterature upper-division elective with approval of the faculty adviser. </p>
+				<p><em>Linguistics: </em>LIGN 101 is required. In addition students must take a “Structure of” language of concentration course (e.g., LIGN 143 Structure of Spanish). If no such course is available, the student must consult with the undergraduate adviser regarding a possible substitution. </p>
+				<p><em>Other: </em>Two additional courses that deal with general linguistics, the language of concentration (e.g., literature), or the corresponding culture, subject to approval of the faculty adviser are required. </p>
+		<p>The<em> Speech and Language Sciences </em>minor consists of seven courses and one lower-division statistics course.</p>
+				<p>For all courses counted toward the speech and language sciences minor, the student must receive letter grades of C– or better. Courses counted toward the minor may not be taken on a Pass/Not Pass basis, except LIGN 199. Only one quarter of LIGN 199 may be counted toward the minor.</p>
+				<p>One lower-division statistics course to be chosen from </p>
+				<p class="course-list-overview">COGS 14B. Introduction to Statistical Analysis</p>
+				<p class="course-list-overview">PSYC 60. Introduction to Statistics</p>
+		<p>Seven courses</p>
+                <ol>
+                  <li><span dir="LTR"> </span>LIGN 101. Introduction to the Study of Language</li>
+                  <li><span dir="LTR"> </span>LIGN 110. Phonetics</li>
+                  <li><span dir="LTR"> </span>LIGN 111. Phonology</li>
+                  <li><span dir="LTR"> </span>LIGN 112. Speech Sounds and Speech Disorders </li>
+                  <li><span dir="LTR"> </span>One course in language and development disorders to be chosen from<br>
+                  LIGN 119. First and Second Language Learning: From Childhood through Adolescence<br>
+                  LIGN 171. Child Language Acquisition<br>
+                  LIGN 179. Second Language Acquisition Research</li>
+       
+                  <li><span dir="LTR"> </span>One course in neurobiology of language to be chosen from<br>
+                  LIGN 180. Language Representation in the Brain<br>
+                  LIGN 181. Language Processing in the Brain</li>
+        
+                  <li><span dir="LTR"> </span>One speech and language sciences elective course to be chosen from<br>
+                  COGS 107A. Neuroanatomy and Physiology<br>
+                  COGS 107C. Cognitive Neuroscience<br>
+                  COGS 154. Communication Disorders in Children and Adults<br>
+                  COGS 179. Electrophysiology of Cognition<br>
+                  COMM 168. Bilingual Communication<br>
+                  COMM 169. Deaf Culture in the U.S.<br>
+                  EDS 125. History, Politics, and Theory of Bilingual Education<br>
+                  ETHN 185. Discourse, Power, and Inequality<br>
+                  LIGN 4. Language as a Cognitive System<br>
+                  LIGN 7. Sign Language and Its Culture<br>
+                  LIGN 119. First and Second Language Learning: From Childhood through Adolescence<br>
+                  LIGN 120. Morphology<br>
+                  LIGN 121. Syntax<br>
+                  LIGN 130. Semantics<br>
+                  LIGN 146. Sociolinguistics in Deaf Communities<br>
+                  LIGN 148. Psycholinguistics of Sign Language<br>
+                  LIGN 160. Pragmatics<br>
+                  LIGN 171. Child Language Acquisition<br>
+                  LIGN 175. Sociolinguistics<br>
+                  LIGN 177. Multilingualism<br>
+                  LIGN 179. Second Language Acquisition Research<br>
+                  LIGN 180. Language Representation in the Brain<br>
+                  LIGN 181. Language Processing in the Brain<br>
+                  MUS 175. Musical Psychoacoustics<br>
+                  PSYC 105. Cognitive Psychology<br>
+                  PSYC 108. Introduction to Cognitive Neuroscience<br>
+                  PSYC 128. Psychology of Reading<br>
+                  PSYC 138. Sound and Music Perception<br>
+                  SOC 117. Language, Culture, and Education</li></ol>
+                <p>Exception: COGS 107C and PSYC 108 may not both be taken for credit toward the minor.</p>
+        <!-- InstanceEndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- InstanceEnd --></html> 

@@ -1,0 +1,224 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Language and Communicative Disorders</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Language and <br />
+Communicative Disorders </h1>
+<p class="sectionNav"><span class="courseFacLink">[ <a href="../curric/LANG.html"> </a><a href="../faculty/LANG.html">faculty</a> ]</span></p>
+<p class="program-contact-info">Cognitive Science Building, Room 266<br />
+  Mail
+  Code 0526<br />
+  (619) 594-6775<br />
+  <a href="http://crl.ucsd.edu" target="_blank">http://crl.ucsd.edu</a><br />
+  <a href="http://slhs.sdsu.edu/phd/" target="_blank">http://slhs.sdsu.edu/phd/</a></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h2 class="program-overview-subhead-1">The Joint Doctoral Program </h2>
+				<p>San Diego State University (SDSU) and the University of California San Diego (UC San Diego), offer jointly a doctoral program in Language and Communicative Disorders. The program&#8217;s
+				  focus is the interdisciplinary study of language and communicative disorders.
+				  A major emphasis of the program is to apply techniques developed in cognitive
+				  science and neuroscience to the study of language and language disorders.
+				  The program involves study and research in normal language (including sign
+				  languages of the deaf and language impairments), and in the neural bases
+				  of language use and language loss. Participating faculty have research
+				  interests in a wide range of issues in processes of language development,
+				  language and aging, multilingualism, language disorders, assessment, and
+				  intervention. Graduates of the program will be qualified to serve as faculty
+				  in university programs in a variety of disciplines, and to provide leadership
+				  in research and health services. The doctoral program faculty at UC San Diego are an interdisciplinary group from the Departments of Cognitive Science, Communication, Linguistics, Neurosciences, Radiology, Psychiatry, and Psychology. The doctoral program faculty at SDSU are members of the School of Speech, Language and Hearing Sciences and the Departments of Linguistics and Psychology. The program is coordinated by the doctoral program coordinators at each campus, in conjunction with an Executive Committee comprising three faculty from each campus appointed by the Graduate Deans from each campus.  </p>
+<p>The program is innovative in that many of the requirements are designed to function as a model of professional preparation specifically incorporating activities in which a successful teacher and researcher must engage after obtaining the PhD: students will be required to participate in interdisciplinary research throughout the program, learn about the nature and ethics of research, prepare grant proposals, write manuscripts, and will gain experience in oral presentations and teaching. Graduates from the program will be well prepared for the rigors of an academic/research career. The doctoral program in Language and Communicative Disorders, being interdisciplinary, draws from a variety of undergraduate disciplines, including communicative disorders, psychology, cognitive science, linguistics, neurosciences, engineering, and other related sciences. Students should have adequate preparation in mathematics, statistics, and biological sciences. Background in neurosciences and/or language sciences, or language disorders is helpful, but not required for admission. </p>
+				<p>By the end of the first year, all students will select a major field of emphasis by choosing one of three concentrations. The <em>Adult Language</em> concentration is intended to provide intensive education in communicative disorders in adults. Students in this concentration will also develop expertise in the study of language processing in normal adults. The <em>Child Language</em> concentration is intended to provide specialized education in childhood (birth to adolescence) communicative disorders. Students in this concentration will also achieve competence in developmental psycholinguistics emphasizing language acquisition in normally developing children. The <em>Multilingualism</em> concentration is intended to provide education in cross-linguistic, ethnographic, and other comparative studies of communicative disorders in children and/or adults, including those associated with bilingualism and second-language acquisition (including acquisition of sign language in deaf individuals). All students will be required to take some courses in each of the three concentrations. In addition, each student will elect a <em>methods minor</em>, applying one of the new technologies of cognitive neuroscience to research on language and communicative disorders. These may include computer-controlled studies of language and cognitive processing in real-time, functional brain imaging (including event-related brain potentials and/or functional magnetic resonance imaging), or neural-network simulations of communicative disorders.  </p>
+				<p>The program is designed as a five-year curriculum, based on a twelve-month academic year. Students will be admitted to the doctoral program only in the fall semester/quarter. Information regarding admission is found in the current edition of the <span class="italic">Graduate Bulletin</span> of San Diego State University. To obtain admission application and program information, contact: SDSU/UC San Diego Joint Doctoral Program in Language and Communicative Disorders, San Diego State University, 5500 Campanile Drive, <a href="http://slhs.sdsu.edu/phd/" target="_blank">http://slhs.sdsu.edu/phd/</a>. </p>
+				<h3>Program of Study</h3>
+				<p>Required courses include the <em>Tools</em> requirement (two courses in statistics/research design, a course in neuroanatomy and physiology, a course in language structure and theory and a professional survival skills course), the <em>Foundations</em> requirement (two courses on normal language and three courses on disorders of language) and the <em>Electives</em> requirement (at least four courses, with a minimum of three courses related to the chosen concentration, chosen from a broad list of approved options from the Departments of Cognitive Science, Communication, Computer Science, Linguistics, Neurosciences, and Psychology). Consult with an adviser for an approved list of elective courses. The four required electives must be approved by the student’s adviser and the doctoral program coordinators. In addition to their course requirements, students are required to complete two laboratory rotations in different research methodologies (each lasting a minimum of one quarter), two research projects (first year and second year), a qualifying examination for advancement to candidacy, and a dissertation proposal in the form of grant proposal to one of the public agencies that funds research in communicative disorders. </p>
+        <h4><em>Tools </em>Requirement</h4>
+        <h5>Statistics/Research Design (two courses)</h5>
+        <p><strong>Courses offered at UC San Diego:</strong><br>
+        PSYC 201A-B. Quantitative Methods in Psychology</p>
+        <p><strong>Courses offered at SDSU: </strong><br>
+          PSYC 770A-B. Experimental Design and Data Analysis in Behavioral Research</p>
+        <h5>Neuroanatomy/Physiology (one course)</h5>
+        <p><strong>Courses offered at UC San Diego:</strong><br>
+          Cognitive Science 201. Systems Neuroscience</p>
+        <h5>Language Structure/Theory (one course)</h5>
+        <p><strong>Courses offered at SDSU:</strong><br>
+        SLHS 790. Seminar in Foundations of Language Science</p>
+        <h5>Survival Skills (one course)</h5>
+        <p><strong>Courses offered at UC San Diego:</strong><br>
+          Cognitive Science 241. Ethics and Survival Skills in Academia<br>
+        PSYC 213. Professional Procedures and Survival in Psychology</p>
+        <p><strong>Courses offered at SDSU:</strong><br>
+          INT-S 690. Seminar in Research Ethics</p>
+        <h4><em>Foundations </em>Requirement</h4>
+        <h5>Normal Language/Child Cognition (one course)</h5>
+        <p>Students consult with their adviser and doctoral program coordinator to select an approved course offered by the Departments of Linguistics, Psychology, or Cognitive Science at UC San Diego or an approved course offered by the Departments of Psychology or Linguistics at SDSU.</p>
+        <h5>Normal Language/Adult Cognition (one course)</h5>
+        <p>Students consult with their adviser and doctoral program coordinators to select an approved course offered by the Departments of Linguistics, Psychology, or Cognitive Science at UC San Diego or an approved course offered by the Departments of Psychology or Linguistics at SDSU.</p>
+        <h5>Disorders of Language: Child (one course)</h5>
+        <p><strong>Course offered at SDSU:</strong><br>
+          SLHS 793. Seminar in Disorders of Language and Cognition/Children</p>
+        <h5>Disorders of Language: Adult (one course)</h5>
+        <p>SLHS 609A. Acquired Neurogenic Language and Cognitive Disorders</p>
+        <h5>Disorders of Language: Multilingualism (one course)</h5>
+        <p>SLHS 794. Seminar in Language Disorders in Multilingual Populations</p>
+        <h4><em>Electives</em> Requirement (four courses, with a minimum of three courses in the student’s chosen concentration)</h4>
+        <p>Students are required to get their course elective selections approved in advance by their adviser and the doctoral program coordinators. Below is a list of possible electives offered at UC San Diego to fulfill the elective requirements. Course descriptions are available under each department’s section in the <span class="italic">UC San Diego General Catalog</span>. With the approval of a student’s adviser and the doctoral program coordinators, a student may select a UC San Diego course that is not included in the list below. For a list of electives available at SDSU that fulfill the electives requirement, please review course descriptions for the School of Speech, Language, and Hearing Sciences, and the Departments of Linguistics and Psychology included in the SDSU <span class="italic">Graduate Bulletin</span> (<a href="http://arweb.sdsu.edu/es/catalog/bulletin/GradcurriculumIndex.html" target="_blank">http://arweb.sdsu.edu/es/catalog/bulletin/GradcurriculumIndex.html</a>).</p>
+        <h5>Department of Cognitive Science </h5>
+        <p>Cognitive Science 200. Cognitive Science Seminar <br>
+          Cognitive Science 202. Foundations: Computational Modeling of Cognition <br>
+          Cognitive Science 211A-B-C. Research Methods in Cognitive Science <br>
+          Cognitive Science 260. Seminar on Special Topics <br>
+          Cognitive Science 272. Topics in Theoretical Neurobiology </p>
+        <h5>Department of Communication </h5>
+        <p>COGR 200A. Communication as Social Force<br>
+          COGR 200B. Communication and Culture <br>
+          COGR 200C. Communication and the Individual <br>
+          COGR 201B. Ethnographic Methods for Communication Research <br>
+        COGR 201C. Discourse Analysis </p>
+        <h5>Department of Linguistics </h5>
+        <p>LIGN 211A. Introductory Phonology<br>
+          LIGN 221A. Introduction to Grammatical Theory <br>
+          LIGN 225. Topics in Syntax <br>
+          LIGN 270. Psycholinguistics <br>
+          LIGN 272. Topics in Neurolinguistics <br>
+        LIGN 278. Research in Second Language Acquisition </p>
+        <h5>Department of Psychology </h5>
+        <p>PSYC 218A-B. Cognitive Psychology <br>
+          PSYC 222. Biological Psychology <br>
+          PSYC 236. Substance Abuse <br>
+          PSYC 244. Special Topics in Psycholinguistics <br>
+        PSYC 252. Seminar on Cognitive Neuroscience </p>
+        <h5>Computer Science and Engineering </h5>
+        <p>CSE 250A-B. Artificial Intelligence <br>
+          CSE 253. Neural Networks <br>
+          CSE 256. Statistical Natural Language Processing <br>
+        CSE 258A. Cognitive Modeling </p>
+        <h5>Neurosciences</h5>
+        <p>NEU 243. Physiological Basis of Human Information <br>
+        NEU 263. Developmental Neuroscience </p>
+        <h5>Philosophy</h5>
+        <p>Philosophy 234. Philosophy of Language </p>
+<h3 class="program-overview-subhead-2">PhD Time Limit Policies </h3>
+				<p>Students must be advanced to candidacy by the end of four years. Total university support cannot exceed seven years. Total registered time at UC San Diego cannot exceed eight years. </p>
+<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

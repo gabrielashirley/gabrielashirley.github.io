@@ -1,0 +1,234 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Mathematics Faculty</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopMargin">Mathematics</h1>
+<p class="courseFacLink">[ <a href="../curric/MATH-ug.html">undergraduate
+      program</a> | <a href="../curric/MATH-gr.html">graduate program</a> | <a href="../courses/MATH.html">courses</a> <a href="../faculty/MATH.html"></a> ]</p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h4 class="faculty-staff-subhead">Professors</h4>
+				<p class="faculty-staff-listing">Ian S. Abramson, PhD, <em>Emeritus</em></p>
+				<p class="faculty-staff-listing">Jim Agler, PhD, <em>Emeritus</em></p>
+				<p class="faculty-staff-listing">Ery Arias-Castro, PhD</p>
+<p class="faculty-staff-listing">Randolph E. Bank, PhD</p>
+				<p class="faculty-staff-listing">Ioan Bejenaru, PhD</p>
+<p class="faculty-staff-listing">Edward A. Bender, PhD, <em>Emeritus</em></p>
+				<p class="faculty-staff-listing">James R. Bunch, PhD, <em>Emeritus</em></p>
+				<p class="faculty-staff-listing">Samuel R. Buss, PhD</p>
+				<p class="faculty-staff-listing">Li-Tien Cheng, PhD</p>
+				<p class="faculty-staff-listing">Bennett Chow, PhD </p>
+				<p class="faculty-staff-listing">Bruce K. Driver, PhD</p>
+				<p class="faculty-staff-listing">Ioana Dumitriu, PhD</p>
+                <p class="faculty-staff-listing"></p>
+                <p class="faculty-staff-listing">Peter F. Ebenfelt, PhD, <em>Associate Dean, Division of Physical Sciences</em></p>
+				<p class="faculty-staff-listing">Ronald J. Evans, PhD, <em>Emeritus </em></p>
+				<p class="faculty-staff-listing">Jay P. Fillmore, PhD, <em>Emeritus </em></p>
+				<p class="faculty-staff-listing">Carl H. FitzGerald, PhD, <em>Emeritus </em></p>
+				<p class="faculty-staff-listing">Patrick J. Fitzsimmons, PhD</p>
+				<p class="faculty-staff-listing">Michael Freedman, PhD, <em>Emeritus </em></p>
+				<p class="faculty-staff-listing">Adriano M. Garsia, PhD, <em>Emeritus </em></p>
+				<p class="faculty-staff-listing">Philip E. Gill, PhD </p>
+				<p class="faculty-staff-listing">Alireza Golsefidy, PhD</p>
+<p class="faculty-staff-listing">Fan Chung Graham, PhD,<em> Emerita</em></p>
+				
+        <p class="faculty-staff-listing">Benedict Gross, PhD</p>
+<p class="faculty-staff-listing">Leonard R. Haff, PhD, <em>Emeritus</em></p>
+				<p class="faculty-staff-listing">Guershon Harel, PhD </p>
+				<p class="faculty-staff-listing">J. William Helton, PhD, <em>Emeritus </em></p>
+				<p class="faculty-staff-listing">Michael J. Holst, PhD,<em> Chancellor&rsquo;s Associates Professor of Mathematics</em></p>
+				<p class="faculty-staff-listing">Adrian Ioana, PhD </p>
+				<p class="faculty-staff-listing">Elham Izadi, PhD</p>
+              
+<p class="faculty-staff-listing">Kiran Kedlaya, PhD,<em> Stefan E. Warschawski Professor of Mathematics</em></p>
+				<p class="faculty-staff-listing">Todd Kemp, PhD, <em>Academic Senate Distinguished Teaching Award</em></p>
+<p class="faculty-staff-listing">Melvin Leok, PhD</p>
+				<p class="faculty-staff-listing">Bo Li, PhD </p>
+				<p class="faculty-staff-listing">James P. Lin, PhD, <em>Emeritus</em> </p>
+				<p class="faculty-staff-listing">Alfred B. Manaster, PhD, <em>Emeritus </em></p>
+		<p class="faculty-staff-listing">James McKernan, PhD, <em>Charles Lee Powell Professor of Mathematics</em></p>
+				<p class="faculty-staff-listing">David A. Meyer, PhD </p>
+				<p class="faculty-staff-listing">Lei Ni, PhD, <em>Chair</em></p>
+				<p class="faculty-staff-listing">Jiawang Nie, PhD</p>
+        <p class="faculty-staff-listing">Dragos Oprea, PhD</p>
+<p class="faculty-staff-listing">John O&rsquo;Quigley, PhD, <em>Emeritus </em></p>
+				<p class="faculty-staff-listing">Álvaro Pelayo, PhD</p>
+<p class="faculty-staff-listing">Dimitris Politis, PhD </p>
+				<p class="faculty-staff-listing">Cristian Popescu, PhD</p>
+				<p class="faculty-staff-listing">Jeffrey M. Rabin, PhD, <em>Academic Senate Distinguished Teaching Award</em></p>
+       
+                <p class="faculty-staff-listing">Yosef Rinott, PhD, <em>Emeritus </em></p>
+				<p class="faculty-staff-listing">Burton Rodin, PhD, <em>Emeritus </em></p>
+				<p class="faculty-staff-listing">Daniel S. Rogalski, PhD, <em>Vice Chair</em></p>
+				<p class="faculty-staff-listing">Murray Rosenblatt, PhD, <em>Emeritus </em></p>
+				<p class="faculty-staff-listing">Linda P. Rothschild, PhD, <em>Emerita</em></p>
+				<p class="faculty-staff-listing">Jason Schweinsberg, PhD</p>
+<p class="faculty-staff-listing">Michael J. Sharpe, PhD, <em>Emeritus</em></p>
+				<p class="faculty-staff-listing">Lance W. Small, PhD, <em>Emeritus</em></p>
+				<p class="faculty-staff-listing">Donald R. Smith, PhD,<em> Emeritus </em></p>
+				<p class="faculty-staff-listing">Harold M. Stark, PhD, <em>Emeritus</em> </p>
+				<p class="faculty-staff-listing">Jacob K. Sterbenz, PhD</p>
+				<p class="faculty-staff-listing">Audrey A. Terras, PhD,<em> Emerita</em></p>
+				<p class="faculty-staff-listing">Glenn Tesler, PhD </p>
+<p class="faculty-staff-listing">Jacques Verstraete, PhD,<em> Vice Chair</em></p>
+<p class="faculty-staff-listing">Adrian R. Wadsworth, PhD, <em>Emeritus </em></p>
+				<p class="faculty-staff-listing">Nolan R. Wallach, PhD, <em>Emeritus</em> </p>
+				<p class="faculty-staff-listing">Hans G. Wenzl, PhD</p>
+				<p class="faculty-staff-listing">Ruth J. Williams, PhD, <em>Charles Lee Powell Professor of Mathematics </em></p>
+				<p class="faculty-staff-listing">Daniel E. Wulbert, PhD,<em> Emeritus</em></p>
+				<p class="faculty-staff-listing">Ronghui Xu, PhD </p>
+				<p class="faculty-staff-listing">Efim Zelmanov, PhD, <em>Rita L. Atkinson Professor of Mathematics</em></p>
+				<p class="faculty-staff-listing">Andrej Zlatos, PhD</p>
+				<h4 class="faculty-staff-subhead">Associate Professors</h4>
+				<p class="faculty-staff-listing">Jelena Bradic, PhD</p>
+				<p class="faculty-staff-listing">Alina Bucur, PhD</p>
+				<p class="faculty-staff-listing">Daniel Kane, PhD</p>
+				<p class="faculty-staff-listing">Amir Mohammadi, PhD</p>
+				<p class="faculty-staff-listing">Jonathan Novak, PhD</p>
+				<p class="faculty-staff-listing">Brendon Rhoades, PhD</p>
+				<p class="faculty-staff-listing">Justin D. Roberts, PhD</p>
+				<p class="faculty-staff-listing">Rayan Saab, PhD </p>
+				<p class="faculty-staff-listing">Claus Sorensen, PhD</p>
+				<p class="faculty-staff-listing">Andrew Suk, PhD</p>
+        <p class="faculty-staff-listing">John J. Wavrik, PhD, <em>Emeritus </em></p>
+		<h4 class="faculty-staff-subhead">Assistant Professors </h4>
+				<p class="faculty-staff-listing">Alexander Cloninger, PhD</p>
+				<p class="faculty-staff-listing">Tarek Elgindi, PhD</p>
+				<p class="faculty-staff-listing">Jianfeng Lin, PhD</p>
+				<p class="faculty-staff-listing">Fredrick Manners, PhD</p>
+				<p class="faculty-staff-listing">Steven Sam, PhD</p>
+				<p class="faculty-staff-listing">Brandon Seward, PhD</p>
+				<p class="faculty-staff-listing">Luca Spolaor, PhD				</p>
+				<p class="faculty-staff-listing">Ming Xiao, PhD</p>
+				<p class="faculty-staff-listing">Danna Zhang, PhD</p>
+				<p class="faculty-staff-listing">Tianyi Zheng, PhD</p>
+				<p class="faculty-staff-listing">Wenxin Zhou, PhD</p>
+		<h4 class="faculty-staff-listing">Teaching Professor</h4>
+        <p class="faculty-staff-listing">John D. Eggers, PhD, <em>Academic Senate Distinguished Teaching Award</em></p>
+        <h4 class="faculty-staff-listing">Associate Teaching Professors</h4>
+        <p class="faculty-staff-listing">Adam Bowers, PhD </p>
+        <p class="faculty-staff-listing">Laura J. Stevens, PhD, <em>Academic Senate Distinguished Teaching Award</em></p>
+        <h4 class="faculty-staff-listing">Assistant Teaching Professor</h4>
+        <p class="faculty-staff-listing">David Quarfoot, PhD		</p>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

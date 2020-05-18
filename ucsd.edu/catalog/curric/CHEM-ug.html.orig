@@ -1,0 +1,482 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Chemistry and Biochemistry</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Chemistry and Biochemistry</h1>
+<p class="sectionNav">[ <span class="courseFacLink"><a href="#minor">minor</a> | <a href="../curric/CHEM-gr.html">graduate program</a> | <a href="../courses/CHEM.html">courses</a> | <a href="../faculty/CHEM.html">faculty</a> ]</span></p>
+				<p class="program-contact-info">Undergraduate Student Affairs Office<br>
+			    4010 York Hall, Revelle College <br>
+			    (858) 534-4856<br>
+			    Chair&rsquo;s Office<br>
+			    2040 Urey Hall Addition<br>
+			    (858) 534-5489<br>
+			    <span class="program-contact-info"><a href="http://chemistry.ucsd.edu" target="new">http://chemistry.ucsd.edu</a></span> </p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem -->
+	    
+		<p></p><table border="1" cellspacing="0" cellpadding="0">
+			      <tr>
+			        <td width="489" valign="middle"><p><strong>Major(s)</strong></p></td>
+			        <td width="97" valign="middle"><p align="center"><strong><a href="https://students.ucsd.edu/academics/advising/majors-minors/capped-majors.html" target="_blank">Capped</a></strong></p></td>
+			        <td width="97" valign="middle"><p align="center"><strong><a href="https://admissions.ucsd.edu/transfers/prep-programs/index.html" target="_blank">Transfer Major Prep</a></strong></p></td>
+		          </tr>
+			      <tr>
+			        <td width="489"><p><a href="#ch31">Biochemistry/Chemistry (CH31)</a></p></td>
+			        <td width="97"><p align="center">No</p></td>
+			        <td width="97"><p align="center">Yes</p></td>
+		          </tr>
+			      <tr>
+			        <td width="489"><p><a href="#ch25">Chemistry (CH25) </a></p></td>
+			        <td width="97"><p align="center">No</p></td>
+			        <td width="97"><p align="center">Yes</p></td>
+		          </tr>
+			      <tr>
+			        <td width="489"><p><a href="#ch34">Environmental Chemistry (CH34) </a></p></td>
+			        <td width="97"><p align="center">No</p></td>
+			        <td width="97"><p align="center">Yes</p></td>
+		          </tr>
+			      <tr>
+			        <td width="489"><p><a href="#ch36">Molecular Synthesis (CH36) </a></p></td>
+			        <td width="97"><p align="center">No</p></td>
+			        <td width="97"><p align="center">Yes</p></td>
+		          </tr>
+			      <tr>
+			        <td width="489"><p><a href="#ch35">Pharmacological Chemistry (CH35) </a></p></td>
+			        <td width="97"><p align="center">No</p></td>
+			        <td width="97"><p align="center">Yes</p></td>
+		          </tr>
+			      <tr>
+			        <td width="683" height="60" colspan="3" valign="middle"><p><strong>Minor(s)</strong></p></td>
+		          </tr>
+			      <tr>
+			        <td width="683" colspan="3"><p><a href="#minor">Minor Program in Chemistry and Biochemistry (CH25) </a></p></td>
+		          </tr>
+        </table>
+               
+        <h2>The Undergraduate Program </h2>
+
+				<p>The UC San Diego Department of Chemistry and Biochemistry was founded
+				  in the 1950s by the late Professor Harold Urey and a group of
+				  colleagues who strove to create a department that would stress
+				  the fundamentals of chemistry and, at the same time, embrace
+				  diverse applications of those principles at the frontiers of knowledge. </p>
+		<p>The Department of Chemistry and Biochemistry offers undergraduate programs leading to the following degrees:</p>
+				<ul>
+				  <li>BS, Biochemistry/Chemistry</li>
+				  <li>BS, Chemistry</li>
+				  <li>BS, Environmental Chemistry</li>
+				  <li>BS, Molecular Synthesis</li>
+				  <li>BS, Pharmacological Chemistry				</li>
+		</ul>
+				<h3>Entry to the Majors</h3>
+                <p>The degree programs in the Department of Chemistry and Biochemistry are open to all first-years, transfers, and continuing students. Information for new and prospective students can be found on the Department of Chemistry and Biochemistry undergraduate programs website: <a href="https://chemistry.ucsd.edu/undergraduate/index.html" target="new">https://chemistry.ucsd.edu/undergraduate/index.html</a>.</p>
+        <p>Students who plan to transfer to UC San Diego and major in one of the degree programs should refer to the UC San Diego undergraduate admissions website for more information on the courses required for transfer major preparation: <a href="https://admissions.ucsd.edu/transfer/transfer-major-preparation.html" target="_blank">https://admissions.ucsd.edu/transfer/transfer-major-preparation.html</a>.</p>
+        <p>Either a biochemistry/chemistry major (CH31) or a chemistry major (CH25) with appropriate choice of electives provides a strong background for students intending to pursue careers in the medical sciences.</p>
+        <p>Premedical students are encouraged to complete a three-quarter general chemistry series (CHEM 6A-B-C or 6AH-6BH-6CH) in their first year. Medical schools may not accept Advanced Placement, International Baccalaureate, or A level exam scores to satisfy admissions requirements (see below). Students should complete the organic chemistry series (CHEM 40A-B-C) in their sophomore year. The lower-division biology (BILD 1-2-3) series or equivalent is also required for most medical schools, along with certain upper-division biology courses, some of which may be counted toward the major requirements in chemistry. Students should meet with one of the department&rsquo;s undergraduate advisers early in order to plan their courses and discuss their options. Career Services offers in-depth advising to premedical students:&nbsp;<a href="http://healthbeat.ucsd.edu/" target="_blank">http://healthbeat.ucsd.edu/</a>.</p>
+                <h3>General Major Requirements</h3>
+                <h4>General Chemistry Course Sequences and Placement</h4>
+                <p><strong>Basic Chemistry:</strong> CHEM 4 is a one-quarter preparation course for 6A. It includes a lab component and is to be taken by those advised to do so or those who don&rsquo;t have a strong background in chemistry.</p>
+                <p><strong>General Chemistry:</strong> CHEM 6A-B-C sequence is intended for science and engineering majors as well as others who need quantitative courses. It satisfies all pre-professional program requirements.</p>
+                <p><strong>Honors General Chemistry:</strong> CHEM 6AH-6BH-6CH sequence is designed for science and engineering majors with strong preparation in science and mathematics.</p>
+                <p>A student intending to major in chemistry can thus begin with CHEM 4, 6A, or 6AH depending on the level of preparation. A student intending to major in a discipline other than chemistry should consult his or her adviser in the appropriate department to determine which chemistry course is recommended.</p>
+                <p><strong>Advanced Placement:</strong> A score of AP3 or AP4 exempts from CHEM 4 only, and students may take CHEM 6A-B-C or CHEM 6AH-BH-CH for credit. A score of AP5 exempts from CHEM 6A-B-C, but students may take CHEM 6AH-BH-CH for credit and are encouraged to do so.</p>
+        <p><strong>Chemistry for Non-Science Majors</strong>: CHEM 11, 12, 13 (The Periodic Table, Molecules and Reactions, and Chemistry of Life) is a terminal sequence for non-science/non-engineering majors. Students should check with their college advisers to determine applicability toward general-education requirements.</p>
+        <h4>General Information on Undergraduate Major Requirements</h4>
+                <p><strong>Residency Requirement: </strong>To receive a bachelor of science degree from UC San Diego and fulfill the campus residency requirement, all chemistry majors (including transfer students) must complete at least forty-eight or more units of upper-division chemistry course work. This course work must be taken while officially enrolled at UC San Diego.</p>
+                <p><strong>Grade Requirements for Majors:</strong> The minimum GPA requirement (for both the major GPA and overall UC GPA) for graduation is 2.0. The minimum passing grade in required chemistry course work is a D, although students may not graduate with more than one D grade in upper-division required major course work and must maintain a minimum 2.0 GPA in the major. All courses for the major, except for independent research (e.g., CHEM 199) and chemistry instruction (CHEM 195), must be taken for a letter grade. These Special Studies classes are taken on a P/NP basis.</p>
+                <p><strong>American Chemical Society (ACS) Certification:</strong> Students completing their degree with a major in chemistry (CH25), biochemistry/chemistry (CH31), or molecular synthesis (CH36) are automatically granted certification by the American Chemical Society. Students completing their degree with a major in environmental chemistry (CH34) or pharmacological chemistry (CH35) can receive ACS certification with the addition of one or more eligible courses (see below).</p>
+                <h4>Special Studies</h4>
+                <p>We strongly encourage undergraduates to participate in research, which provides hands-on experience in the laboratory under the guidance of our outstanding faculty. This experience gives you skills and knowledge that will help prepare you for graduate study or work in industry. The Department of Chemistry and Biochemistry offers Special Studies courses (CHEM 196, CHEM 197, CHEM 99/199) in which students can earn academic credit for conducting independent research with a faculty or industry mentor.  </p>
+                <p>For more information on requirements, deadlines, and application procedures, please visit: <a href="https://chemistry.ucsd.edu/undergraduate/research/research-for-academic-credit.html" target="new">https://chemistry.ucsd.edu/undergraduate/research/research-for-academic-credit.html</a>.</p>
+
+<p class="anchor-parent"><a class="anchor" id="ch31"></a></p><h2 class="program-overview-subhead-1">Biochemistry/Chemistry Major, BS (CH31)</h2>
+				<h3>Unit Requirements for the Major</h3>
+                <table border="1" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="205" height="40" valign="top"><p>
+                      <strong>Lower-division   units</strong></p></td>
+                    <td width="72" valign="top"><p align="center">62</p></td>
+                  </tr>
+                  <tr>
+                    <td width="205" valign="top"><p><strong>Upper-division   units</strong></p></td>
+                    <td width="72" valign="top"><p align="center">58–64</p></td>
+                  </tr>
+                  <tr>
+                    <td width="205" valign="top"><p><strong>Total   units required for the major*</strong></p></td>
+                    <td width="72" valign="top"><p align="center">120–126</p></td>
+                  </tr>
+        </table>
+        <p>* See &ldquo;<a href="../front/GradReqs.html" target="_blank">Graduation Requirements in the UC San Diego Colleges</a>&rdquo; for complete graduation requirements in each college.</p>
+        <h3>Major Summary</h3>
+        <p>The biochemistry/chemistry major deals with the chemical processes in living organisms, including structure and function of nucleic acids, proteins, and lipids. It is suitable for those planning to go to graduate school or to medical, dental, veterinary, or other professional schools. It is also suitable at the bachelor’s level for jobs in the biotechnology or pharmaceutical field. Note the requirement for two advanced elective courses in biochemistry. If one does not wish to take so much biochemistry, one should major in chemistry and use electives to take the desired number of biochemistry courses. &nbsp;</p>
+<h3 class="program-overview-subhead-2">Lower-Division Requirements</h3>
+				<ol>
+			      <li>General      chemistry, including laboratory (CHEM 6A-B-C or 6AH, 6BH, 6CH, and 7LM or      7L)</li>
+                    <li>Calculus      (MATH 20A-B-C-D)</li>
+                    <li>Physics      (PHYS 2A-B and either 2C or 2D) </li>
+                    <li>Physics      laboratory (PHYS 2CL [recommended], 2BL or 2DL)</li>
+                    <li>Organic      chemistry, including laboratory (CHEM 40A or 40AH, 40B or 40BH, 40C or      40CH, and 43A or 43AM) </li>
+		
+                </ol>
+		<h3 class="program-overview-subhead-2">Upper-Division Requirements </h3>
+				<ol>
+                  <li>Two      quarters of physical chemistry (CHEM 126-127 recommended, or CHEM 130, 131,      and 132)</li>
+                  <li>One      quarter of inorganic chemistry (CHEM 120A)</li>
+                  <li>Three      quarters of biochemistry (CHEM 114AC)</li>
+                  <li>Five      advanced laboratory courses (CHEM 100A, 143B, 105A, either 108 or 109 and      one additional chemistry lab from the following: CHEM 100B, 105B, 108 or      109, 123, 143C, or 143D)</li>
+                  <li>Two restricted      elective courses from the following list: CHEM 113, 114D, 116, 118, 125,      157, 164, 165, 167, 168. Other biochemistry-related courses may be      approved by petition.</li>
+                  <li>One      additional elective course chosen from among all of the upper-division courses      offered by the Department of Chemistry and Biochemistry (except non-letter      graded courses) or from the following list of courses offered by the      Division of Biological Sciences (some biology courses will require      additional course work to fulfill prerequisites): BICD 100, BICD 110, BICD      140, BIMM 114, BIMM 120, BIPN 100, BIPN 102, BIPN 140. Other electives,      including CHEM 195 and CHEM 199, may be approved by petition.</li>
+                </ol>
+				<h3>Major Specific Information</h3>
+                <p>Sample academic plans are available at <a href="http://plans.ucsd.edu" target="_blank">plans.ucsd.edu</a> or on the UC San Diego Department of Chemistry and Biochemistry website: <a href="https://chemistry.ucsd.edu/undergraduate/majors-minor/index.html" target="new">https://chemistry.ucsd.edu/undergraduate/majors-minor/index.html</a>.</p>
+        <p class="anchor-parent"><a class="anchor" id="ch25"></a></p><h2 class="program-overview-subhead-1">Chemistry Major, BS (CH25)</h2>
+				<h3>Unit Requirements for the Major</h3>
+                <table border="1" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="205">
+                      <p><strong>Lower-division   units</strong></p></td>
+                    <td width="72"><p align="center">62</p></td>
+                  </tr>
+                  <tr>
+                    <td width="205"><p><strong>Upper-division   units</strong></p></td>
+                    <td width="72"><p align="center">56–60</p></td>
+                  </tr>
+                  <tr>
+                    <td width="205"><p><strong>Total   units required for the major*</strong></p></td>
+                    <td width="72"><p align="center">118–122</p></td>
+                  </tr>
+        </table>
+                <p>* See &ldquo;<a href="../front/GradReqs.html" target="new">Graduation Requirements in the UC San Diego Colleges</a>&rdquo; for complete graduation requirements in each college.</p>
+                <h3>Major Summary </h3>
+<p>The chemistry major provides a broad introduction in biochemistry, organic, physical, and inorganic chemistry. This major will enable a student to pursue further studies in chemistry or in related fields of science, medicine, or engineering. </p>
+<h3 class="program-overview-subhead-2">Lower-Division Requirements</h3>
+				<ol>
+			      <li>General      chemistry, including laboratory (CHEM 6A-B-C or 6AH, 6BH, 6CH, and 7LM or      7L)</li>
+                    <li>Calculus      (MATH 20A-B-C-D)</li>
+                    <li>Physics      (PHYS 2A-B and either 2C or 2D) </li>
+                    <li>Physics      laboratory (PHYS 2CL [recommended], 2BL or 2DL)</li>
+                    <li>Organic      chemistry, including laboratory (CHEM 40A or 40AH, 40B or 40BH, 40C or      40CH, and 43A or 43AM) </li>
+		
+                </ol>
+             
+        <h3 class="program-overview-subhead-2">Upper-Division Requirements </h3>
+        <ol>
+          <li>Three      quarters of physical chemistry (CHEM 130, 131, and 132)</li>
+            <li>Two      quarters of inorganic chemistry (CHEM 120A-B)</li>
+            <li>One      quarter of biochemistry (CHEM 114A)</li>
+            <li>Five advanced      laboratory courses (CHEM 100A, 143B, 105A and two of the following: CHEM 100B,      105B, 108, 109, 123, 143C, or 143D)</li>
+            <li>Three      additional four-unit upper-division courses offered by the Department of Chemistry      and Biochemistry. CHEM 195 or 199 (four units) may be petitioned to fulfill      one elective.</li>
+        </ol>
+        <h3>Major Specific Information</h3>
+        <p>Sample academic plans are available at <a href="http://plans.ucsd.edu" target="_blank">plans.ucsd.edu</a> or on the UC San Diego Department of Chemistry and Biochemistry website: <a href="https://chemistry.ucsd.edu/undergraduate/majors-minor/index.html">https://chemistry.ucsd.edu/undergraduate/majors-minor/index.html</a>.</p>
+        <p class="anchor-parent"><a class="anchor" id="ch34"></a></p><h2 class="program-overview-subhead-1">Environmental Chemistry Major, BS (CH34)</h2>
+				<h3>Unit Requirements for the Major</h3>
+                <table border="1" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="205"><p>
+                      <strong>Lower-division   units</strong></p></td>
+                    <td width="72"><p align="center">58</p></td>
+                  </tr>
+                  <tr>
+                    <td width="205"><p><strong>Upper-division   units</strong></p></td>
+                    <td width="72"><p align="center">53–57</p></td>
+                  </tr>
+                  <tr>
+                    <td width="205"><p><strong>Total   units required for the major*</strong></p></td>
+                    <td width="72"><p align="center">111–115</p></td>
+                  </tr>
+        </table>
+                <p>* See &ldquo;<a href="../front/GradReqs.html" target="_blank">Graduation Requirements in the UC San Diego Colleges</a>&rdquo; for complete graduation requirements in each college.</p>
+<p>Students have an option of earning a BS in environmental chemistry with or without ACS-Certification.  The ACS-Certified version is
+				  recommended for those who intend to apply to graduate school
+				  in chemistry. The noncertified program is designed to prepare
+				  students to enter the industrial, governmental, or legal workforce,
+				  or to continue studies in some of the environmental sciences. </p>
+		<h3 class="program-overview-subhead-2">Lower-Division Requirements </h3>
+				<ol>
+                  <li>General      chemistry, including laboratory (CHEM 6A-B-C or 6AH, 6BH, 6CH, and 7LM or      7L)</li>
+                  <li>Calculus      (MATH 20A-B-C-D)</li>
+                  <li>Physics      (PHYS 2A-B and either 2C or 2D) </li>
+                  <li>Physics      laboratory (PHYS 2CL [recommended], 2BL or 2DL)</li>
+                  <li>Organic      chemistry, including laboratory (CHEM 40A or 40AH, 40B or 40BH, and 43A or      43AM) </li>
+				
+                </ol>
+                
+<h3 class="program-overview-subhead-2">Upper-Division Requirements </h3>
+				<ol>
+                  <li>Physical      chemistry (CHEM 130, 131, and 132 recommended, or CHEM 126-127) </li>
+                  <li>Three advanced      laboratory courses (CHEM 100A-B, and 105A)</li>
+                  <li>Two      quarters of environmental chemistry (CHEM 171 and 172)</li>
+					<li>Atmospheric      chemistry (CHEM 173) and marine chemistry (CHEM 174)</li></ol>
+	
+                <ul type="disc">
+					<li>Electives:      Any four with at least two upper-division from among the following: CHEM 114A,      120A, 40C, 143C, BILD 1, 2, 3, BIEB 121, 140, 144, 176, ESYS 101, SIO 50,      101, 102, 103, 144, MATH 183. Other courses, including four units of CHEM 195      or 199, may be considered by petition. (When choosing electives, pay      special attention to whether the forty-eight-unit upper-division residency      requirement has been met for the major requirements.) <br><br>
+						Nonscience elective courses used to meet general-education requirements or as free electives might be chosen from among: ECON 1, 2, 3, 131, 132, 135, HIUS 105, 154, PHIL 148, 164, POLI 10, 160AA, 162, SOCI 121, 149, 185, USP 2, 101, 102, 124, 144, 170, 171, 173, 180. </li>
+                
+	    </ul>
+<h4>For ACS Certification</h4>
+                <ol start="1" type="1">
+                  <li>Increase electives by one to a total of five</li>
+                  <li>For three of the electives, choose CHEM 40C, 114A, and
+                    120A</li>
+                  <li>For two of the electives, choose two labs from among CHEM 143B-C-D, 108, 109, 123, 105B        </li>
+                </ol>
+                <h3>Major Specific Information</h3>
+        <p>Sample academic plans are available at <a href="http://plans.ucsd.edu" target="_blank">plans.ucsd.edu</a> or on the UC San Diego Department of Chemistry and Biochemistry website: <a href="https://chemistry.ucsd.edu/undergraduate/majors-minor/index.html" target="_blank">https://chemistry.ucsd.edu/undergraduate/majors-minor/index.html.</a></p>
+        <div>
+          <div> </div>
+        </div>
+        <p class="anchor-parent"><a class="anchor" id="ch36"></a></p><h2 class="program-overview-subhead-1">Molecular Synthesis Major, BS (CH36)</h2>
+				<h3>Unit Requirements for the Major</h3>
+                <table border="1" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="205">
+                      <p><strong>Lower-division   units</strong></p></td>
+                    <td width="72"><p align="center">62</p></td>
+                  </tr>
+                  <tr>
+                    <td width="205"><p><strong>Upper-division   units</strong></p></td>
+                    <td width="72"><p align="center">52–57</p></td>
+                  </tr>
+                  <tr>
+                    <td width="205"><p><strong>Total   units required for the major*</strong></p></td>
+                    <td width="72"><p align="center">114–119</p></td>
+                  </tr>
+        </table>
+                <p>* See &ldquo;<a href="../front/GradReqs.html" target="_blank">Graduation Requirements in the UC San Diego Colleges</a>&rdquo; for complete graduation requirements in each college.</p>
+                <h3>Major Summary</h3>
+<p>The molecular synthesis major offers a thorough training in all aspects
+				  of the molecular synthesis of organic, inorganic, and biological
+				  substances, along with a fundamental understanding of their structure and
+				  reactivity. This major provides an excellent preparation for employment
+				  in biotechnology, diagnostic, electronic, and pharmaceutical enterprises
+				  as well as for graduate programs in organic, bioorganic, and inorganic
+				  chemistry.				</p>
+				<h3 class="program-overview-subhead-2">Lower-Division Requirements</h3>
+				<ol>
+                  <li>General      chemistry, including laboratory (CHEM 6A-B-C or 6AH, 6BH, 6CH, and 7LM or      7L)</li>
+                  <li>Calculus      (MATH 20A-B-C-D)</li>
+                  <li>Physics      (PHYS 2A-B and either 2C or 2D) </li>
+                  <li>Physics      laboratory (PHYS 2CL [recommended], 2BL or 2DL)</li>
+                  <li>Organic      chemistry, including laboratory (CHEM 40A or 40AH, 40B or 40BH, 40C or      40CH, and 43A or 43AM) </li>
+		</ol>
+              
+               
+		<h3 class="program-overview-subhead-2">Upper-Division Requirements </h3>
+				<ol>
+                  <li>Two      quarters of physical chemistry (CHEM 126, 127)</li>
+                  <li>Two      quarters of inorganic chemistry (CHEM 120A-B)</li>
+                  <li>One      quarter of biochemistry (CHEM 114A)</li>
+                  <li>Five advanced      laboratory courses (CHEM 100A, 143B, 105A, and two of 143C, 143D, 123)</li>
+                  <li>Synthetic      methods (CHEM 152)</li>
+                  <li>Structural      or mechanistic organic chemistry (CHEM 154 or 156)</li>
+                  <li>Bioorganic      or bioinorganic chemistry (CHEM 125 or 157)</li>
+                  <li>One additional      restricted elective course from the following: CHEM 114B-C, 155, 185, or      199 (by petition)</li>
+                </ol>
+				<h3>Major Specific Information</h3>
+        <p>Sample academic plans are available at <a href="http://plans.ucsd.edu" target="_blank">plans.ucsd.edu</a> or on the UC San Diego Department of Chemistry and Biochemistry website: <a href="https://chemistry.ucsd.edu/undergraduate/majors-minor/index.html" target="_blank">https://chemistry.ucsd.edu/undergraduate/majors-minor/index.html</a>.
+		</p>
+        <p class="anchor-parent"><a class="anchor" id="ch35"></a></p><h2 class="program-overview-subhead-1">Pharmacological Chemistry Major, BS (CH35)</h2>
+				<h3>Unit Requirements for the Major</h3>
+                <table border="1" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="205">
+                      <p><strong>Lower-division   units</strong></p></td>
+                    <td width="72"><p align="center">70</p></td>
+                  </tr>
+                  <tr>
+                    <td width="205"><p><strong>Upper-division   units</strong></p></td>
+                    <td width="72"><p align="center">53–58</p></td>
+                  </tr>
+                  <tr>
+                    <td width="205"><p><strong>Total   units required for the major*</strong></p></td>
+                    <td width="72"><p align="center">123–128</p></td>
+                  </tr>
+        </table>
+                <p>* See &ldquo;<a href="../front/GradReqs.html" target="_blank">Graduation Requirements in the UC San Diego Colleges</a>&rdquo; for complete graduation requirements in each college.</p>
+                <h3>Major Summary</h3>
+                <p>The pharmacological chemistry major provides a strong background in chemistry. The major is intended primarily to prepare students for pharmacy school (PharmD). As for any professional school, students will need to supplement this program with other courses to meet all entrance requirements. Many pharmacy schools require a course in Economics (usually Econ 1 or 3) and a course in public speaking. Many pharmacy schools also require a year of biology with lab. Students may elect an upper-division biology lab or they may consult with pharmacy schools as to their requirements. Students fulfilling their elective requirements with appropriate courses should be prepared for graduate school in biochemistry or other areas of science. Degree recipients would also be prepared for jobs in the biotechnology and chemical industries. </p>
+				<p>Advanced Placement: Pharmacological chemistry students are encouraged to complete a full year of general chemistry and a full year of lower-division biology. Some pharmacy programs may not accept tests such as the Advanced Placement exam to satisfy these requirements. </p>
+<h3 class="program-overview-subhead-2">Lower-Division Requirements </h3>
+				<ol>
+                  <li>Biology      (BILD 1 and 2)</li>
+                  <li>General      chemistry, including laboratory (CHEM 6A-B-C or 6AH, 6BH, 6CH, and 7LM or      7L)</li>
+                  <li>Calculus      (MATH 20A-B-C-D)</li>
+                  <li>Physics      (PHYS 2A-B and either 2C or 2D) </li>
+                  <li>Physics      laboratory (PHYS 2CL [recommended], 2BL or 2DL)</li>
+                  <li>Organic      chemistry, including laboratory (CHEM 40A or 40AH, 40B or 40BH, 40C or      40CH, and 43A or 43AM) </li>
+				</ol>
+                
+		<h3 class="program-overview-subhead-2">Upper-Division Requirements </h3>
+				<ol start="1" type="1">
+				  <li>Two      quarters of physical chemistry (CHEM 126 and 127 recommended; or CHEM 130,      131, and 132)</li>
+				  <li>Three      quarters of biochemistry (CHEM 114A-B-C) </li>
+				  <li>Three      advanced laboratory courses (CHEM 100A, 143B and either 108, 109, or 143C)</li>
+				  <li>One      quarter of pharmacology and toxicology (CHEM 118)</li>
+	   
+                  <li>One quarter of medicinal chemistry (CHEM 167)</li>
+                  <li>One quarter of drug synthesis and design (CHEM 168)</li>
+               
+                  <li>One elective      course chosen from among all the upper-division courses offered by the      Department of Chemistry and Biochemistry, or the Division of Biology, or      other preapproved courses that may fulfill admission requirements to pharmacy      school. Must be taken for a letter grade, except four units of CHEM 195 or      CHEM 199 may be considered by petition.</li>
+                </ol>
+        <h4>For ACS Certification</h4>
+                <ol>
+                  <li><span dir="LTR"> </span>CHEM 120A and 105A are required</li>
+                  <li><span dir="LTR"> </span>Must complete one additional laboratory course from among the following: CHEM 100B, 105B, 123, or 143C/108/109 (if not already taken as part of the requirements above)</li>
+                </ol>
+                <h3>Major Specific Information</h3>
+        <p>Sample academic plans are available at <a href="http://plans.ucsd.edu" target="_blank">plans.ucsd.edu</a> or on the UC San Diego Department of Chemistry and Biochemistry website: <a href="https://chemistry.ucsd.edu/undergraduate/majors-minor/index.html" target="_blank">https://chemistry.ucsd.edu/undergraduate/majors-minor/index.html</a>.&nbsp;
+        </p>
+                <p class="anchor-parent"><a class="anchor" id="minor"></a></p><h2>Minor Program </h2>
+                <p>A minor in chemistry consists of three lower-division lecture courses, followed by a minimum of four upper-division courses, including at least one laboratory course. Lower-division course requirements may not be satisfied by advanced placement credit, although transfer units may be used to satisfy lower-division minor requirements. </p>
+                <p>Students may apply two upper-division chemistry courses required by their major toward the minor. Students who wish to minor in chemistry should have their course work plans approved in advance by the Department of Chemistry and Biochemistry Student Affairs Office. Upper-division courses for the minor must be taken at UC San Diego in the Department of Chemistry and Biochemistry, and must be taken for a letter grade. The minimum overall GPA requirement for the minor is 2.0. </p>
+                <p>Chemistry and biochemistry minors can include a range of upper-division courses across different discipline areas of chemistry such as organic, biochemistry, inorganic, physical, pharmacological, and environmental. Alternatively, chemistry and biochemistry minors can also choose an area of focus by selecting upper-division courses in one disciplinary area such as:</p>
+                <ul type="disc">
+                  <li>CHEM      152-154-156-157 and 143B (organic)</li>
+                  <li>CHEM      114A-B-C-D and 108 (biochemistry)</li>
+                  <li>CHEM      114A-B-C, 116, and 108 (biochemistry) </li>
+                  <li>CHEM      120A-B, 125, 161, and 123&nbsp;(inorganic) </li>
+                  <li>CHEM      130-131-132, 105A, and 100A (physical) </li>
+                  <li>CHEM      114A-B-C, 118, and 143B (pharmacological) </li>
+                  <li>CHEM      171-172-173-174 and 143B (environmental) </li>
+        </ul>
+        <h2 class="program-overview-subhead-1">Honors</h2>
+				<p>The Department of Chemistry and Biochemistry offers an Honors Program
+				  to those students who have demonstrated excellence in any of the majors.
+				  Students are eligible to apply for Departmental Honors at graduation if they have met all of the following: </p>
+				<ol>
+                  <li>Achieved      an overall GPA of 3.2 or higher.</li>
+                  <li>Achieved      a major GPA of 3.4 or higher. </li>
+                  <li>Completed      a minimum of two quarters of CHEM 199 (eight units). A student who has      successfully petitioned to use a CHEM 199 course to fulfill elective      credit toward their major may not also use those four units to fulfill the      honors requirements as well. </li>
+                  <li>Presented      an oral report about their research before a group of at least three      faculty. This can be at an undergraduate research conference, such as the      ACS-SA Undergraduate Research Symposium held in the Department of      Chemistry and Biochemistry each spring. Obtained faculty signatures to      submit with the honors application form. </li>
+		</ol>
+                
+		<p>Students who are interested in the Honors Program should contact the Chemistry and Biochemistry Student Affairs Office in 4010 York Hall. </p>
+		<h2>Advising Information</h2>
+        <p>The chemistry Academic Advising office serves undergraduate student majors and students enrolled in chemistry courses. For more information about advising services in the Department of Chemistry and Biochemistry, please visit:<br>
+          <a href="https://chemistry.ucsd.edu/undergraduate/academic-advising/index.html" target="_blank">https://chemistry.ucsd.edu/undergraduate/academic-advising/index.html</a>.</p>
+        <h2 class="program-overview-subhead-1">Study Abroad </h2>
+				<p>Majors are encouraged to explore the programs that allow students to study abroad or at other US universities for a term or longer. Consider especially the UC Education Abroad Program (EAP) and UC San Diego&rsquo;s Opportunities Abroad Program (OAP). Subject to approval by our faculty, courses taken through EAP/OAP may be accepted for credit toward the major. Students interested in studying abroad,&nbsp;should see a departmental program adviser to discuss appropriate courses and programs for their plan of study. More information can be found on the Department of Chemistry and Biochemistry undergraduate program Study Abroad page: <a href="https://chemistry.ucsd.edu/undergraduate/courses/study-abroad.html" target="_blank">https://chemistry.ucsd.edu/undergraduate/courses/study-abroad.html</a>.		</p>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

@@ -1,0 +1,738 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Structural Engineering</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Structural Engineering </h1>
+<p class="courseFacLink">[ <a href="../curric/SE-ug.html">undergraduate
+      program</a> | <a href="../courses/SE.html">courses</a> | <a href="../faculty/SE.html">faculty</a> ]</p>
+<p class="program-contact-info">STUDENT AFFAIRS<br />
+ 340 Structural and Materials Engineering Building<br><a href="http://structures.ucsd.edu" target="_blank">http://structures.ucsd.edu</a></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem -->
+ <p>The Department of Structural Engineering offers programs leading to the degrees of master of science (MS) and doctor of philosophy (PhD) in structural engineering (SE). In addition, an MS in structural engineering with specialization in structural health monitoring and nondestructive evaluation (MS SHM&amp;NDE) is offered. The graduate program is aimed at training a select number of highly skilled professionals in structural engineering with the academic and engineering credentials to assume leadership roles in industry and academia. </p>
+<p>The MS program is intended to provide students with additional fundamental knowledge as well as specialized advanced knowledge in selected structural engineering aspects over and above the undergraduate degree course work. </p>
+				<p>The doctor of philosophy (PhD) degree program is intended to prepare students for careers in teaching, research, or practice in their chosen professional specialties. The PhD program requires a departmental comprehensive examination, a PhD candidacy examination, a PhD dissertation based on new and unique research, and a dissertation defense. </p>
+				<p>Both degrees offer opportunities for training in one or more of the six primary research focus areas within the SE department: (1) Civil Structures, (2) Advanced Composites and Aerospace Structural Systems, (3) Geotechnical Engineering, (4) Structural Health Monitoring, Prognosis, and Validated Simulations, (5) Mechanics and Materials, and (6) Computational Mechanics. </p>
+<p>Admission to the UC San Diego graduate program in structural engineering
+				  requires at least a BS in engineering, physical sciences,
+				  or mathematics with an overall upper-division GPA of 3.0. Applicants
+				  must provide three letters of recommendation and recent GRE
+				  general test scores. International applicants whose native
+				  language is not English are required to demonstrate proficiency
+				  in English by taking the TOEFL test. The minimum TOEFL score
+				  required is 550 (paper-based) and 80
+				  (internet-based text [iBt]). Based on the candidate&#8217;s choice,
+				  qualifications, and career objectives, admission to the program
+				  is in one of two categories: MS or PhD. </p>
+				<p>Applicants seeking enrollment in SE courses via UC Extension&#8217;s concurrent
+				  registration program are advised to refer to the<em> “</em><a href="../front/GradAdmission.html#transcredit">Graduate
+				  Studies Transferring Credit</a><em>”</em> section of the<em> UC San Diego General Catalog</em> for clarification. </p>
+				<h2>Bachelor’s/Master’s Program </h2>
+                <p>The department offers a bachelor’s/master’s program
+                  to enable students to complete both the BS and MS 
+                  in an accelerated timeframe. Undergraduate students in the
+                  Department of Structural Engineering who have at least 148
+                  quarter units with a cumulative GPA of 3.5 or higher are eligible
+                  to apply. Admission to the bachelor’s/master’s degree program
+                  is not automatic. Student applications are reviewed and the
+                  final decision is made by the Department of Structural Engineering.
+                  Acceptance into this program is an honor that carries with
+                  it practical benefits—the graduate application process is simplified
+                  (no GREs required) and advanced students are given access to
+                  graduate level courses. Upon acceptance as an undergraduate
+                  into the program, a faculty member will be assigned who will
+                  serve as the student’s adviser. Interested students should
+                  contact the Structural Engineering Student Affairs Office.
+                  Students must fulfill all requirements for the BS 
+                  prior to being formally admitted to graduate status.		</p>
+        <h2 class="program-overview-subhead-1">Master&#8217;s Degree Program </h2>
+				<p>The MS program is intended to provide the student with additional
+				  fundamental knowledge as well as specialized advanced knowledge in selected
+				  structural engineering aspects over and above the undergraduate degree
+				  course work. Two plans, the MS thesis plan and the MS comprehensive
+				  examination plan, are offered. The MS thesis plan is designed for those
+				  students with an interest in research prior to entering the structural
+				  engineering profession or prior to entering a doctoral degree program.
+				  The MS thesis plan involves course work leading to the completion and
+				  defense of a master’s thesis. The MS comprehensive examination plan involves
+				  course work and requires the completion of a written comprehensive examination
+				  covering multiple courses that the student has taken. The MS comprehensive
+				  examination will be comprehensive and cover two focus sequences and at
+				  least one additional technical elective that the student has taken. The
+				  examination must be completed no later than the end of the eighth week
+			    of the quarter the student intends to graduate.                </p>
+				<p>MS students will be required to complete two out of seven core course electives. The courses are SE 200, SE 201A, SE 202, SE 203, SE 241, SE 271, and SE 233 (or SE 276A). They can be counted toward a focus sequence or a technical elective.</p>
+<p>MS students must complete forty-eight units of credit for graduation. For the MS comprehensive examination plan all forty-eight units of credit must consist of regular courses (twelve courses). For the MS thesis plan, thirty-six units (nine courses) from regular courses are required, in addition to twelve units of graduate research for the master&#8217;s thesis. For both MS plans, students are required to complete a minimum of two sequences from the following focus areas: </p>
+				<ol>
+				  <li>Structural Analysis </li>
+				  <li>Structural Design  </li>
+				  <li>Computational Mechanics and Finite Elements</li>
+				  <li>Earthquake Engineering </li>
+				  <li>Geotechnical Engineering</li>
+				  <li>Aerospace and Advanced  Composites </li>
+				  <li> Solid Mechanics</li>
+			      <li>Structural Health Monitoring </li>
+		
+                </ol>
+<p>A sequence is composed of three regular courses from the same focus area. The courses comprising the focus sequences are listed in the table in this section. To meet the specific needs of some students, other focus areas may be developed by a student in consultation with his or her adviser, but these must be preapproved by the SE Graduate Affairs Committee. To allow for greater flexibility in the program, the remaining credits required from courses may be earned by completing additional focus sequences, parts of focus sequences, or other appropriate courses. Students may elect to take other appropriate technical electives (with the approval of their adviser and the SE Graduate Affairs Committee). In special cases where an undergraduate course may be used, the arrangement must be preapproved by both the academic adviser and the Graduate Affairs Committee. Units obtained in SE 290 and 298 may not be applied toward course work requirements. No more than four units of SE 296 may be applied toward course work requirements and only with prior approval of the SE Graduate Affairs Committee. </p>
+<p>The department also offers a seminar course each quarter dealing with current research topics in structural engineering (SE 290). Students must take SE 290 every quarter in the first year and are strongly recommended to take it for at least one quarter in every subsequent year.</p>
+				<h3 class="program-overview-subhead-2">Focus Sequences </h3>
+				<h4 class="program-overview-subhead-4">Structural Analysis </h4>
+				<p class="course-list-overview">SE 201A. Advanced Structural Analysis</p>
+				<p class="course-list-overview">SE 201B. Nonlinear Structural Analysis </p>
+				<p class="course-list-overview">SE 202. Structural Stability </p>
+				<p class="course-list-overview">SE 203. Structural Dynamics </p>
+				<p class="course-list-overview">SE 204. Advanced Structural Dynamics </p>
+				<p class="course-list-overview">SE 205. Nonlinear Mechanical Vibrations </p>
+				<p class="course-list-overview">SE 206. Random Vibrations </p>
+				<p class="course-list-overview">SE 215. Cable Structures</p>
+				<p class="course-list-overview">SE 224. Structural Reliability and Risk Analysis</p>
+				<p class="course-list-overview">SE 233. Computational Techniques in Finite Elements</p>
+				<h4 class="program-overview-subhead-4">Structural Design</h4>
+				<p class="course-list-overview">SE 151B. Design of Prestressed Concrete</p>
+<p class="course-list-overview">SE 211. Advanced RC/PC Design</p>
+				<p class="course-list-overview">SE 212. Advanced Structural Steel Design</p>
+				<p class="course-list-overview">SE 213. Bridge Design</p>
+				<p class="course-list-overview">SE 214. Masonry Structures</p>
+        <p class="course-list-overview">SE 220. Seismic Isolation and Energy Dissipation</p>
+<p class="course-list-overview">SE 223. Advanced Seismic Design of Structures</p>
+<p class="course-list-overview">SE 224. Structural Reliability and Risk Analysis</p>
+<p class="course-list-overview">SE 254. FRP Rehabilitation of Civil Structures</p>
+				<h4>Computational Mechanics and Finite Elements</h4>
+                <p class="course-list-overview">SE 233. Computational Techniques in Finite Elements</p>
+                <p class="course-list-overview">SE 276A. Finite Element Methods in Solid Mechanics I</p>
+                <p class="course-list-overview">SE 276B. Finite Element Methods in Solid Mechanics II</p>
+        <p class="course-list-overview">SE 276C. Finite Element Methods in Solid Mechanics III</p>
+<p class="course-list-overview">SE 277. Error Control in Finite Element Analysis</p>
+                <p class="course-list-overview">SE 278A. Finite Element Methods for Computational Fluid Dynamics</p>
+                <p class="course-list-overview">SE 278B. Computational Fluid-Structure Interaction</p>
+                <p class="course-list-overview">SE 279. Meshfree Methods for Linear and Nonlinear Mechanics </p>
+                <p class="course-list-overview">SE 280. Finite Element Computations in Solid Mechanics </p>
+                <h4 class="program-overview-subhead-4">Earthquake Engineering</h4>
+				<p class="course-list-overview">SE 203. Structural Dynamics</p>
+				<p class="course-list-overview">SE 206. Random Vibrations</p>
+				<p class="course-list-overview">SE 220. Seismic Isolation and Energy Dissipation</p>
+<p class="course-list-overview">SE 221. Earthquake Engineering</p>
+				<p class="course-list-overview">SE 222. Geotechnical Earthquake Engineering</p>
+				<p class="course-list-overview">SE 223. Advanced Seismic Design of Structures</p>
+				<p class="course-list-overview">SE 225. Probabilistic Seismic Hazard Analysis</p>
+<p class="course-list-overview">SE 243. Soil Structure Interaction</p>
+				<h4 class="program-overview-subhead-4">Geotechnical Engineering</h4>
+				<p class="course-list-overview">SE 222. Geotechnical Earthquake Engineering</p>
+				<p class="course-list-overview">SE 241. Advanced Soil Mechanics</p>
+				<p class="course-list-overview">SE 242. Advanced Foundation Engineering</p>
+				<p class="course-list-overview">SE 243. Soil Structure Interaction</p>
+				<p class="course-list-overview">SE 244. Numerical Methods in Geomechanics </p>
+				<p class="course-list-overview">SE 246. Unsaturated Soil Mechanics</p>
+<p class="course-list-overview">SE 247. Ground Improvement</p>
+				<p class="course-list-overview">SE 248. Engineering Properties of Soils</p>
+				<p class="course-list-overview">SE 249. Rock Mechanics</p>
+<p class="course-list-overview">SE 250. Stability of Earth Slopes and Retaining Walls </p>
+				<h4 class="program-overview-subhead-4">Aerospace and Advanced Composites</h4>
+				<p class="course-list-overview">SE 251A. Processing Science of Composites</p>
+<p class="course-list-overview">SE 251B. Mechanical Behaviors of Polymers and Composites</p>
+				<p class="course-list-overview">SE 252. Experimental Mechanics and NDE </p>
+<p class="course-list-overview">SE 253A. Mechanics of Laminated Composite Structures I</p>
+				<p class="course-list-overview">SE 253B. Mechanics of Laminated Composite Structures II</p>
+				<p class="course-list-overview">SE 253C. Mechanics of Laminated Anisotropy Plates and Shells</p>
+				<p class="course-list-overview">SE 254. FRP Rehabilitation of Civil Structures</p>
+				<p class="course-list-overview">SE 260A. Aerospace Structural Mechanics I</p>
+				<p class="course-list-overview">SE 260B. Aerospace Structural Mechanics II</p>
+				<p class="course-list-overview">SE 262. Aerospace Structures Repair</p>
+				<p class="course-list-overview">SE 285. Structural Optimization</p>
+				<p class="course-list-overview">SE 286. Design Optimization for Additive Manufacturing</p>
+<h4 class="program-overview-subhead-4">Solid Mechanics</h4>
+				<p class="course-list-overview">SE 202. Structural Stability</p>
+				<p class="course-list-overview">SE 234. Plates and Sheels</p>
+<p class="course-list-overview">SE 235. Wave Propagation in Elastic Media</p>
+<p class="course-list-overview">SE 252. Experimental Mechanics and NDE</p>
+				<p class="course-list-overview">SE 270. Fracture Mechanics</p>
+<p class="course-list-overview">SE 271. Solid Mechanics for Structural and Aerospace Engineering</p>
+				<p class="course-list-overview">SE 272. Theory of Elasticity</p>
+				<p class="course-list-overview">SE 273. Anelasticity</p>
+				<h4 class="program-overview-subhead-4">Structural Health Monitoring</h4>
+				<p class="course-list-overview">SE 202. Structural Stability</p>
+				<p class="course-list-overview">SE 204. Advanced Structural Dynamics</p>
+<p class="course-list-overview">SE 205. Nonlinear Mechanical Vibrations</p>
+				<p class="course-list-overview">SE 224. Structural Reliability and Risk Analysis</p>
+				<p class="course-list-overview">SE 206. Random Vibrations</p>
+				<p class="course-list-overview">SE 252. Experimental Mechanics and NDE </p>
+				<p class="course-list-overview">SE 263. Nondestructive Evaluation</p>
+				<p class="course-list-overview">SE 264. Sensors/Data Acquisition for SE</p>
+<p class="course-list-overview">SE 265. Structural Health Monitoring Principles</p>
+				<p class="course-list-overview">SE 266. Smart and Multi-functional Materials</p>
+				<p class="course-list-overview">SE 267. Sensor and Data Acquisition</p>
+				<p class="course-list-overview">SE 268. Structural System Testing and Model Correlation</p>
+				<p class="course-list-overview">SE 269. Validation and Verification of Computation Models I</p>
+				<p class="course-list-overview">SE 275. Hydrodynamic Loading of Offshore Structures</p>
+<p class="basic-offset-top-only">Students taking the Solid Mechanics focus sequence are required to take SE 271, SE 272, and one of these courses: SE 273, SE 252, or SE 235. </p>
+				<p>SE 207 Topics in Structural Engineering will be acceptable to use toward
+				  a focus sequence requirement pending petition and approval of the Graduate
+			    Affairs Committee (GAC).</p>
+		<p>The thesis defense is the final examination for students enrolled in the MS thesis plan and must be conducted after completion of all course work. Upon completion of the research project, the student writes a thesis that must be successfully defended in an oral examination and public presentation conducted by a committee composed of three faculty members. A complete copy of the student&#8217;s thesis must be submitted to each member of the MS thesis committee (comprised of a minimum of three faculty) at least two weeks before the defense. </p>
+				<h2>MS in Structural Engineering with Specialization in Health Monitoring and Nondestructive Evaluation (SHM&amp;NDE)</h2>
+                <p>The master of science in structural engineering with specialization in structural health monitoring and nondestructive evaluation (SHM&amp;NDE) provides highly interdisciplinary knowledge incorporating three broad technology areas: (1) sensing technology, (2) data interrogation, and (3) modeling and analysis. The intersections and integration of these technology areas are fundamental to supporting structural health monitoring and nondestructive evaluation, which may be defined as the process of making an uncertainty-quantified assessment, based on appropriate analyses of in-situ measured data, about the current ability of a structural component or system to perform its intended design function(s) successfully. This discipline within structural, civil, mechanical, and aerospace engineering is a fundamental capability that supports &ldquo;design-to-retirement&rdquo; life cycle management of systems.                </p>
+                <p>Two degree options in SHM&amp;NDE will be offered: MS thesis option and MS comprehensive examination option. Students in both plans must complete thirty-six units of credit for graduation. For both options, students must complete two core courses, SE 263, Nondestructive Evaluation, and SE 265, Structural Health Monitoring Principles (eight total units). Additionally, the MS SHM&amp;NDE thesis plan involves regular course work (twenty units) and graduate research (eight units) leading to the completion and defense of a master&rsquo;s thesis. Correspondingly, the MS comprehensive examination plan involves regular course work (twenty-four units) and a mentored independent study (SE 296) capstone course. The comparative distribution of units for each of the two degree options is shown in the table below:</p>
+                <table border="1" cellspacing="0" cellpadding="0" width="472">
+                  <tr>
+                    <td width="121" valign="top"><p>
+						<strong>Requirement</strong></p></td>
+                    <td width="180" valign="top"><p><strong>Thesis option (units)</strong></p></td>
+                    <td width="171" valign="top"><p><strong>Comprehensive option (units)</strong></p></td>
+                  </tr>
+                  <tr>
+                    <td width="121" valign="top"><p>Core course</p></td>
+                    <td width="180" valign="top"><p>SE 263. Nondestructive   Evaluation (<strong>4</strong>) <br>
+                      SE 265. Structural   Health Monitoring Principles (<strong>4</strong>)</p></td>
+                    <td width="171" valign="top"><p>SE 263. Nondestructive   Evaluation (<strong>4</strong>) <br>
+                      SE 265. Structural   Health Monitoring Principles (<strong>4</strong>)</p></td>
+                  </tr>
+                  <tr>
+                    <td width="121" valign="top"><p>Capstone   experience</p></td>
+                    <td width="180" valign="top"><p>No requirement</p></td>
+                    <td width="171" valign="top"><p>SE 296. Independent   Study or approved equivalent (<strong>4</strong>) </p></td>
+                  </tr>
+                  <tr>
+                    <td width="121" valign="top"><p>Thesis research</p></td>
+                    <td width="180" valign="top"><p>SE 299. Graduate   Research (<strong>8</strong>)</p></td>
+                    <td width="171" valign="top"><p>No requirement</p></td>
+                  </tr>
+                  <tr>
+                    <td width="121" valign="top"><p>Focus sequence 1</p></td>
+                    <td width="180" valign="top"><p>One from Focus   Area 1 (<strong>4</strong>)</p></td>
+                    <td width="171" valign="top"><p>One from Focus   Area 1 (<strong>4</strong>)</p></td>
+                  </tr>
+                  <tr>
+                    <td width="121" valign="top"><p>Focus sequence 2</p></td>
+                    <td width="180" valign="top"><p>Two from Focus   Area 2 (<strong>8</strong>)</p></td>
+                    <td width="171" valign="top"><p>Two from Focus   Area 2 (<strong>8</strong>)</p></td>
+                  </tr>
+                  <tr>
+                    <td width="121" valign="top"><p>Focus sequence 3</p></td>
+                    <td width="180" valign="top"><p>Two from Focus   Area 3 (<strong>8</strong>)</p></td>
+                    <td width="171" valign="top"><p>Two from Focus   Area 3 (<strong>8</strong>)</p></td>
+                  </tr>
+                  <tr>
+                    <td width="121" valign="top"><p>Technical elective</p></td>
+                    <td width="180" valign="top"><p>No requirement</p></td>
+                    <td width="171" valign="top"><p>One from Technical   Elective (<strong>4</strong>)</p></td>
+                  </tr>
+                  <tr>
+                    <td width="121" valign="top"><p><strong>Total units</strong></p></td>
+                    <td width="180" valign="top"><p><strong>36</strong></p></td>
+                    <td width="171" valign="top"><p><strong>36</strong></p></td>
+                  </tr>
+        </table>
+                <p>Many courses currently offered within the Jacobs School of Engineering may be grouped into the three focus areas comprising each technology area described above, as shown in the following list: </p>
+                <h3>A. Sensing Technology (Focus Area 1)</h3>
+                <p class="course-list-overview">SE 252. Experimental Mechanics and NDE </p>
+                <p class="course-list-overview">SE 264. Sensors and Data Acquisition for Structural Engineering</p>
+                <p class="course-list-overview">SE 266. Smart and Multifunctional Materials</p>
+                <p class="course-list-overview">SE 268. Structural System Testing and Model Correlation</p>
+                <p class="course-list-overview">SE 286. Design Optimization for Additive Manufacturing</p>
+<p class="course-list-overview">CSE 237A. Introduction to Embedded Computing</p>
+                <p class="course-list-overview">ECE 257B. Principles of Wireless Networks</p>
+        <h3>B. Data Interrogation (Focus Area 2)</h3>
+                <p class="course-list-overview">SE 207. Diagnostic Imaging </p>
+                <p class="course-list-overview">ECE 251A. Digital Signal Processing I</p>
+                <p class="course-list-overview">ECE 251B. Digital Signal Processing II</p>
+                <p class="course-list-overview">ECE 251C. Filter Banks and Wavelets</p>
+                <p class="course-list-overview">ECE 253. Fundamentals of Digital Image Processing</p>
+                <p class="course-list-overview">ECE 254. Detection Theory</p>
+                <p class="course-list-overview">SE 268. Structural System Testing and Model Correlation</p>
+                <p class="course-list-overview">MAE 283A. Parametric Identification: Theory and Methods</p>
+                <p class="course-list-overview">CSE 254. Statistical Learning</p>
+                <p class="course-list-overview">CSE 255. Data Mining and Predictive Analytics</p>
+                <p class="course-list-overview">CSE 250A. Principles of Artificial Intelligence: Probabilistic Reasoning and Learning</p>
+                <p class="course-list-overview">CSE 250B. Principles of Artificial Intelligence: Learning Algorithms</p>
+                <p class="course-list-overview">ECE 271A. Statistical Learning I</p>
+                <p class="course-list-overview">ECE 271B. Statistical Learning II</p>
+                <p class="course-list-overview">SE 207. Signal Processing for Structural Engineering</p>
+<h3>C. Modeling and Analysis (Focus Area 3)</h3>
+                <p class="course-list-overview">SE 207. Validation and Verification of Computational Models </p>
+                <p class="course-list-overview">SE 202. Structural Stability</p>
+                <p class="course-list-overview">SE 203. Structural Dynamics</p>
+                <p class="course-list-overview">SE 205. Nonlinear Mechanical Vibrations</p>
+                <p class="course-list-overview">SE 206. Random Vibrations</p>
+                <p class="course-list-overview">SE 224. Structural Reliability and Risk Analysis</p>
+                <p class="course-list-overview">SE 233. Computational Techniques in Finite Elements <u>or</u> SE 276A. Finite Elements in Solid Mechanics I</p>
+                <p class="course-list-overview">SE 235. Wave Propagation in Elastic Media <u>or</u> MAE 238. Stress Waves in Solids</p>
+                <p class="course-list-overview">SE 236. Wave Propagation in Continuous Structural Elements</p>
+                <p class="course-list-overview">SE 253A. Mechanics of Laminated Composite Structures I</p>
+                <p class="course-list-overview">SE 262. Aerospace Structures Repair</p>
+                <p class="course-list-overview">SE 254. FRPs in Civil Structures</p>
+                <p class="course-list-overview">SE 268. Structural System Testing and Model Correlation</p>
+        <p>Additionally, the technical elective course required for the comprehensive option may be chosen from any of the focus area lists above (provided it is not being counted as a focus area requirement), or from this additional preapproved list of courses:</p>
+                
+            <p class="course-list-overview">SE 200. Applied   Mathematics in Structural Engineering</p>
+            <p class="course-list-overview">SE 253B.   Mechanics of Laminated Composite Structures II</p>
+            <p class="course-list-overview">MAE 273A.   Dynamic Behavior of Materials</p>
+            <p class="course-list-overview">SE 201A.   Advanced Structural Analysis</p>
+            <p class="course-list-overview">SE 260. Aerospace   Structural Mechanics I</p>
+            <p class="course-list-overview">ECE 250.   Random Processes</p>
+            <p class="course-list-overview">SE 204. Advanced   Structural Dynamics</p>
+            <p class="course-list-overview">SE 276B.   Finite Elements in Solid Mechanics II</p>
+            <p class="course-list-overview">ECE 241D.   Array Processing</p>
+            <p class="course-list-overview">SE 234. Plates   and Shells</p>
+            <p class="course-list-overview">MAE 208.   Mathematics for Engineers</p>
+            <p class="course-list-overview">ECE   255AN. Information Theory</p>
+            <p class="course-list-overview">MAE 272.   Imperfections in Solids</p>
+            <p class="course-list-overview">ECE 272A.   Stochastic Processes in Dynamic Systems</p>
+                     <p class="course-list-overview">ECE 275A.   Parameter Estimation I</p>
+                     <p class="course-list-overview">CSE 250C.   Machine Learning Theory </p>
+                <p>For the MS thesis option, the eight-unit graduate research (SE 299) culminates with the preparation of a written research thesis. The thesis must be successfully defended in an oral examination and public presentation conducted by a committee composed of three faculty members. The committee will consist of three faculty members, one with expertise in each of the three focus areas. A complete copy of the student&rsquo;s thesis must be submitted to each member of the MS thesis committee at least two weeks prior to the defense.                </p>
+                <p>For the MS comprehensive option, the four-unit independent study (SE 296) must be conducted as a capstone experience project. This project is intended to provide a mentored project whereby students integrate knowledge learned from their technology areas into solving a problem from structural health monitoring/prognosis or nondestructive evaluation. The specific deliverables associated with the capstone project experience will be proposed by the student together with the SE 296 mentor and will be approved by the director of the MS program by the end of the quarter preceding the one in which the student intends to register in SE 296. The deliverables will be delivered to the SE 296 mentor, assessed by the mentor, and both the deliverables and assessment will be submitted to the director of the MS program for final approval. </p>
+                <p>Because of the inherent interdisciplinary nature of the MS SHM&amp;NDE program, research within SE 296 or SE 299 may be conducted at outside locations (industry or government facilities). In this case a scientist or engineer on location, with an adjunct faculty appointment at UC San Diego, will be identified as the SE 296 mentor or the SE 299 adviser and who will also be a member of the thesis committee.</p>
+                <p>All students in this degree program, for both degree options, must register in SE 290, Seminar, for any two quarters while enrolled in the program.</p>
+                <h2>MS in Geotechnical Engineering</h2>
+                <p>The MS program is intended to provide students with additional fundamental knowledge as well as specialized advanced knowledge in geotechnical engineering over and above that available in the BS in structural engineering at UC San Diego (SE 181, SE 182, and SE 184). Students seeking to pursue the MS program in geotechnical engineering should have an undergraduate degree in structural or civil engineering. Further, students are required to take SE 181 and SE 182, or their equivalents at another university, as a prerequisite to pursuing the MS degree in geotechnical engineering. Exceptions to this will not be granted, though SE 182 may be taken concurrently with other MS course work with instructor and adviser approval. </p>
+                <p>The MS program includes required core courses and technical elective courses. MS students must complete forty-eight units of graduate course credit for graduation (twelve courses). Students must obtain approval from their adviser and the SE Graduate Affairs Committee on proposed course work to complete the degree. Although there are no foreign language requirements with the MS program in geotechnical engineering, CCGA recognizes that foreign language competence may be an important element of graduate education of doctoral programs. Two MS plans are offered—the MS comprehensive examination plan and the MS thesis plan. All MS students will be assigned an adviser upon entering the MS program who can provide guidance on selecting between these plans. Students may switch advisers after the first quarter. Students must choose between the MS comprehensive examination plan and the MS thesis plan by the end of the second quarter of study.</p>
+        <p>The MS comprehensive examination plan requires forty-eight units (twelve courses) of regular course work and completion of a written comprehensive examination covering the course work. The comprehensive examination must be taken no later than the end of the eighth week of the quarter for which the student intends to graduate. The comprehensive examination will be prepared and assessed by the student&rsquo;s adviser and may include an examination on topics related to the selected course work or a written report on a subject that integrates two or more of the courses in the program. In addition to the forty-eight units, students must take SE 290 every quarter in the first year for the MS comprehensive examination plan and are strongly recommended to take it for at least one quarter in the subsequent year. The MS thesis plan is designed for students with an interest in research prior to entering a professional career or a doctoral degree program. For this plan, thirty-six units (nine courses) of regular course work are required, along with twelve units of graduate research (SE 299) for work on an MS thesis. The thesis defense is the final examination for students enrolled in the MS thesis plan and must be taken no later than the end of the eighth week of the quarter for which the student intends to graduate. The thesis must be defended in a public presentation with an oral examination conducted by a committee composed of three faculty members. A complete copy of the thesis must be submitted to the committee at least two weeks prior to the defense. In addition to the forty-eight units, students must take SE 290 every quarter in the first year for the MS thesis plan and are strongly recommended to take it for at least one quarter in the subsequent year.</p>
+                <h3>Core Courses</h3>
+                <p>MS students in geotechnical engineering must complete the following four core courses:</p>
+                <table border="1" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="316" valign="top"><p>SE 241. Advanced Soil Mechanics</p></td>
+                    <td width="316" valign="top"><p>SE 250. Stability of Earth Slopes and   Retaining Walls</p></td>
+                  </tr>
+                  <tr>
+                    <td width="316" valign="top"><p>SE 242. Advanced Foundation Engineering</p></td>
+                    <td width="316" valign="top"><p>SE 248. Engineering Properties of Soils</p></td>
+                  </tr>
+        </table>
+                <h3>Geotechnical Technical Electives</h3>
+                <p>Students must select with approval from the Graduate Affairs Committee at least four courses (MS comprehensive examination plan) or three courses (MS thesis plan) from the following list of geotechnical technical electives. Guidance on selection of the technical electives is provided later.</p>
+                <table border="1" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="316" valign="top"><p>SE 222. Geotechnical Earthquake Engineering</p></td>
+                    <td width="316" valign="top"><p>SE 246. Unsaturated Soil Mechanics</p></td>
+                  </tr>
+                  <tr>
+                    <td width="316" valign="top"><p>SE 226. Groundwater Engineering</p></td>
+                    <td width="316" valign="top"><p>SE 247. Ground Improvement</p></td>
+                  </tr>
+                  <tr>
+                    <td width="316" valign="top"><p>SE 243. Soil-Structure Interaction</p></td>
+                    <td width="316" valign="top"><p>SE 249. Rock Mechanics</p></td>
+                  </tr>
+                  <tr>
+                    <td width="316" valign="top"><p>SE 244. Numerical Methods in Geomechanics</p></td>
+                    <td width="316" valign="top"><p>SE 207. Soil Dynamics</p></td>
+                  </tr>
+        </table>
+                <h3>Other Technical Electives</h3>
+                <p>Students may select with approval from the Graduate Affairs Committee any from the following list of other technical electives to meet the twelve required courses beyond the required core courses, geotechnical technical electives, and research graduate credits (if applicable). It should be noted that some of the technical electives have prerequisites that must be fulfilled as noted in the lists below. Guidance on selection of the technical electives is provided below.</p>
+        <table border="1" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="313" valign="top"><p>
+						SE 201A. Advanced Structural Analysis</p></td>
+                    <td width="313" valign="top"><p>SE 272. Theory of Elasticity</p></td>
+                  </tr>
+                  <tr>
+                    <td width="313" valign="top"><p>SE 203. Structural   Dynamics (Prerequisite: SE 201A)</p></td>
+                    <td width="313" valign="top"><p>SE 274. Nonlinear Finite Element Methods</p></td>
+                  </tr>
+                  <tr>
+                    <td width="313" valign="top"><p>SE 206. Random Vibrations (Prerequisite: SE 203)</p></td>
+                    <td width="313" valign="top"><p>SE 276A. Finite Element Methods in Solid Mechanics I</p></td>
+                  </tr>
+                  <tr>
+                    <td width="313" valign="top"><p>SE 211. RC/PC Design</p></td>
+                    <td width="313" valign="top"><p>SE 276B. Finite Element Methods in Solid Mechanics II</p></td>
+                  </tr>
+                  <tr>
+                    <td width="313" valign="top"><p>SE 212. Steel Design</p></td>
+                    <td width="313" valign="top"><p>SE 276C. Finite Element Methods in Solid Mechanics III</p></td>
+                  </tr>
+                  <tr>
+                    <td width="313" valign="top"><p>SE 213. Bridge Design</p></td>
+                    <td width="313" valign="top"><p>SIO 225. Physics of Earth Materials</p></td>
+                  </tr>
+                  <tr>
+                    <td width="313" valign="top"><p>SE 220. Seismic Isolation and Energy Dissipation (Prerequisite:   SE 201A)</p></td>
+                    <td width="313" valign="top"><p>SIO 226. Introduction to Marine Geophysics</p></td>
+                  </tr>
+                  <tr>
+                    <td width="313" valign="top"><p>SE 221. Earthquake Engineering (Prerequisite: SE 201A)</p></td>
+                    <td width="313" valign="top"><p>SIO 227A. Introduction to Seismology</p></td>
+                  </tr>
+                  <tr>
+                    <td width="313" valign="top"><p>SE 223. Advanced Seismic Design of Structures</p></td>
+                    <td width="313" valign="top"><p>SIO 227B. Advanced Seismology</p></td>
+                  </tr>
+                  <tr>
+                    <td width="313" valign="top"><p>SE 224. Structural Reliability and Risk Analysis</p></td>
+                    <td width="313" valign="top"><p>SIO 239. Introduction to the Rheology of Solid Earth</p></td>
+                  </tr>
+                  <tr>
+                    <td width="313" valign="top"><p>SE 235. Wave Propagation in Elastic Media</p></td>
+                    <td width="313" valign="top"><p>SIO 240. Marine Geology</p></td>
+                  </tr>
+        </table>
+                <h3>Suggested Course Sequences</h3>
+                <p>The following course sequences are included to provide guidance in selecting technical electives based on common themes among the technical electives. Although a maximum of eight technical electives (3–4 geotechnical technical electives and 4–5 other technical electives) are required beyond the four required core courses, more classes may be listed for each of the suggested focus sequences based on the common themes. It should be noted that some of the technical electives have prerequisites that must be fulfilled as noted in the lists below.                </p>
+                <h4>Geotechnical Engineering:</h4>
+                <p>Students following this course sequence will gain an in-depth understanding of both geotechnical fundamentals and soil-structure interaction phenomena. Students following this course sequence may also choose technical electives to gain expertise in related topics in geology.</p>
+                <table border="1" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="312" valign="top"><p>SE 248. Engineering Properties of Soils </p></td>
+                    <td width="312" valign="top"><p>SE 244. Numerical Methods in Geomechanics </p></td>
+                  </tr>
+                  <tr>
+                    <td width="312" valign="top"><p>SE 249. Rock Mechanics</p></td>
+                    <td width="312" valign="top"><p>SE 247. Ground Improvement</p></td>
+                  </tr>
+                  <tr>
+                    <td width="312" valign="top"><p>SE 207. Soil Dynamics</p></td>
+                    <td width="312" valign="top"><p>SIO 225. Physics of Earth Materials</p></td>
+                  </tr>
+                  <tr>
+                    <td width="312" valign="top"><p>SE 246. Unsaturated Soil Mechanics </p></td>
+                    <td width="312" valign="top"><p>SIO 226. Introduction to Marine Geophysics</p></td>
+                  </tr>
+                  <tr>
+                    <td width="312" valign="top"><p>SE 222. Geotechnical Earthquake Engineering </p></td>
+                    <td width="312" valign="top"><p>SIO 239. Introduction to the Rheology of Solid Earth</p></td>
+                  </tr>
+                  <tr>
+                    <td width="312" valign="top"><p>SE 226. Groundwater Engineering</p></td>
+                    <td width="312" valign="top"><p>SIO 240. Marine Geology</p></td>
+                  </tr>
+        </table>
+                <h4>Geotechnical Earthquake Engineering:</h4>
+                <p>Students following this course sequence will still gain an understanding of geotechnical fundamentals and soil-structure interaction but will also gain specialization in different aspects of geotechnical and structural earthquake engineering.</p>
+                <table border="1" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="316" valign="top"><p>SE 201A. Advanced Structural Analysis</p></td>
+                    <td width="316" valign="top"><p>SE 223. Advanced Seismic Design of Structures </p></td>
+                  </tr>
+                  <tr>
+                    <td width="316" valign="top"><p>SE 203. Structural   Dynamics (Prerequisite: SE 201A) </p></td>
+                    <td width="316" valign="top"><p>SE 235. Wave Propagation in Elastic Media</p></td>
+                  </tr>
+                  <tr>
+                    <td width="316" valign="top"><p>SE 206. Random Vibrations (Prerequisite: SE 203) </p></td>
+                    <td width="316" valign="top"><p>SE 243. Soil-Structure Interaction</p></td>
+                  </tr>
+                  <tr>
+                    <td width="316" valign="top"><p>SE 207. Soil Dynamics</p></td>
+                    <td width="316" valign="top"><p>SE 244. Numerical Methods in Geomechanics </p></td>
+                  </tr>
+                  <tr>
+                    <td width="316" valign="top"><p>SE 220. Seismic Isolation and Energy Dissipation (Prerequisite:   SE 201A) </p></td>
+                    <td width="316" valign="top"><p>SIO 227A. Introduction to Seismology</p></td>
+                  </tr>
+                  <tr>
+                    <td width="316" valign="top"><p>SE 221. Earthquake Engineering (Prerequisite: SE 201A)</p></td>
+                    <td width="316" valign="top"><p>SIO 227B. Advanced Seismology</p></td>
+                  </tr>
+                  <tr>
+                    <td width="316" valign="top"><p>SE 222. Geotechnical Earthquake Engineering </p></td>
+                    <td width="316" valign="top"><p>&nbsp;</p></td>
+                  </tr>
+        </table>
+                <h4>Geomechanics:</h4>
+                <p>Students following this course sequence will still gain an understanding of geotechnical fundamentals and soil-structure interaction but will also gain specialization in computational techniques that can be applied to the study of geotechnical and structural engineering problems.</p>
+                <table border="1" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="316" valign="top"><p>SE 248. Engineering Properties of Soils</p></td>
+                    <td width="316" valign="top"><p>SE 274. Nonlinear Finite Element Methods</p></td>
+                  </tr>
+                  <tr>
+                    <td width="316" valign="top"><p>SE 249. Rock Mechanics</p></td>
+                    <td width="316" valign="top"><p>SE 276A. Finite Element Methods in Solid Mechanics I</p></td>
+                  </tr>
+                  <tr>
+                    <td width="316" valign="top"><p>SE 207. Soil Dynamics</p></td>
+                    <td width="316" valign="top"><p>SE 276B. Finite Element Methods in Solid Mechanics II</p></td>
+                  </tr>
+                  <tr>
+                    <td width="316" valign="top"><p>SE 226. Groundwater Engineering</p></td>
+                    <td width="316" valign="top"><p>SE 276C. Finite Element Methods in Solid Mechanics III </p></td>
+                  </tr>
+                  <tr>
+                    <td width="316" valign="top"><p>SE 235. Wave Propagation in Elastic Media</p></td>
+                    <td width="316" valign="top"><p>SIO 225. Physics of Earth Materials</p></td>
+                  </tr>
+                  <tr>
+                    <td width="316" valign="top"><p>SE 243. Soil-Structure Interaction</p></td>
+                    <td width="316" valign="top"><p>SIO 226. Introduction to Marine Geophysics</p></td>
+                  </tr>
+                  <tr>
+                    <td width="316" valign="top"><p>SE 244. Numerical Methods in Geomechanics</p></td>
+                    <td width="316" valign="top"><p>SIO 239. Introduction to the Rheology of Solid Earth</p></td>
+                  </tr>
+                  <tr>
+                    <td width="316" valign="top"><p>SE 272. Theory of Elasticity</p></td>
+                    <td width="316" valign="top"><p>SIO 240. Marine Geology</p></td>
+                  </tr>
+        </table>
+                <h4>Geotechnical and Structural Engineering:</h4>
+                <p>Students following this course sequence will still gain an understanding of geotechnical fundamentals and soil-structure interaction but will also gain skills necessary to pursue a joint career in geotechnical and structural engineering.</p>
+                <table border="1" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="316" valign="top"><p>SE 201A. Advanced Structural Analysis</p></td>
+                    <td width="316" valign="top"><p>SE 222. Geotechnical Earthquake Engineering</p></td>
+                  </tr>
+                  <tr>
+                    <td width="316" valign="top"><p>SE 248. Engineering Properties of Soils</p></td>
+                    <td width="316" valign="top"><p>SE 224. Structural Reliability and Risk Analysis</p></td>
+                  </tr>
+                  <tr>
+                    <td width="316" valign="top"><p>SE 249. Rock Mechanics</p></td>
+                    <td width="316" valign="top"><p>SE 235. Wave Propagation in Elastic Media</p></td>
+                  </tr>
+                  <tr>
+                    <td width="316" valign="top"><p>SE 211. RC/PC Design</p></td>
+                    <td width="316" valign="top"><p>SE 243. Soil-Structure Interaction</p></td>
+                  </tr>
+                  <tr>
+                    <td width="316" valign="top"><p>SE 212. Steel Design</p></td>
+                    <td width="316" valign="top"><p>SE 244. Numerical Methods in Geomechanics</p></td>
+                  </tr>
+                  <tr>
+                    <td width="316" valign="top"><p>SE 213. Bridge Design (Prerequisite: SE   201A)</p></td>
+                    <td width="316" valign="top"><p>SE 247. Ground Improvement</p></td>
+                  </tr>
+        </table>
+                <h2>Master of Advanced Studies</h2>
+                <h3>Simulation-Based Engineering (SBE)</h3>
+                <p>The Department of Structural Engineering offers the master of advanced studies (MAS) in simulation-based engineering (SBE). The degree requires thirty-six units of work, including a capstone team project. This program is for part-time students with an adequate background in engineering. All the requirements can be completed in two years, with one or two courses taken each quarter. The MAS-SBE is not currently accepting applications.</p>
+<p><strong>Final Project Capstone Requirement, No Thesis</strong></p>
+                <p>In the MAS-SBE program, an &ldquo;alternative plan&rdquo; requirement is satisfied by a four-unit capstone project requirement.</p>
+                <p><strong>Required Courses</strong></p>
+                <p>Students entering the MAS program in structural engineering for a degree in simulation-based engineering will take courses in the Departments of Structural Engineering and Mechanical and Aerospace Engineering.</p>
+                <p>The program requires eight four-unit core courses totaling thirty-two units and one four-unit capstone team project course SBE 279, Applications of Simulation-Based Engineering, for a total of thirty-six units.</p>
+<p>All courses must be completed with an average grade of B and no grade below B–. The courses required of all students are as follows:</p>
+                <p class="course-list-overview">SBE 233. Computational Techniques in Finite Elements</p>
+                <p class="course-list-overview">SBE 276A. Finite Element Methods in Solid Mechanics I</p>
+                <p class="course-list-overview">SBE 276B. Finite Element Methods in Solid Mechanics II</p>
+                <p class="course-list-overview">SBE 278A. Finite Element Methods in Fluid Mechanics</p>
+                <p class="course-list-overview">SBE 276C. Finite Element Methods in Solid Mechanics III</p>
+                <p>Three <em>elective </em>SE/MAE courses drawn from the following list (twelve units) that students may choose according to their field of interest. These courses are regular courses attended by MS and PhD students.</p>
+                <p class="course-list-overview">SE 278B. Computational Fluid-Structure Interaction</p>
+                <p class="course-list-overview">SE 269. Validation and Verification of Computational Models</p>
+                <p class="course-list-overview">SE 277. Error Control in Finite Element Analysis</p>
+                <p class="course-list-overview">MAE 261. Cardiovascular Fluid Mechanics</p>
+                <p class="course-list-overview">SE 253A. Mechanics of Laminated Composite Structures I</p>
+                <p class="course-list-overview">SE 253B. Mechanics of Laminated Composite Structures II</p>
+                <p class="course-list-overview">MAE 229A. Mechanical Properties</p>
+                <p class="course-list-overview">MAE 273A. Dynamic Behavior of Materials </p>
+                <h2>Master of Advanced Studies</h2>
+                <h3>Structural Health Monitoring (SHM)</h3>
+                <p>The Department of Structural Engineering offers the master of advanced studies (MAS) degree in structural health monitoring (SHM). The degree requires thirty-six units of work, including a capstone team project. This program is for part-time students with an adequate background in engineering. All the requirements can be completed in two years, with one or two courses taken each quarter. The MAS-SHM is not currently accepting applications.</p>
+                <p><strong>Final Project Capstone Requirement, No Thesis</strong><br>
+        In the MAS-SHM Program, an &ldquo;alternative plan&rdquo; requirement is satisfied by a two two-unit course capstone project requirement.</p>
+                <p><strong>Required Courses</strong><br>
+                  Students entering the MAS program in structural engineering for a degree in structural health monitoring will undertake courses in the Departments of Structural Engineering and Electrical and Computer Engineering.</p>
+                <p>The program requires eight four-unit core courses totaling thirty-two units and two two-unit capstone team project courses for a total of thirty-six units.</p>
+                <p>All courses must be completed with an average grade of B and no grade below B–. The courses required of all students are as follows:</p>
+                <p class="course-list-overview">SHM 203. Structural Dynamics and Vibration </p>
+                <p class="course-list-overview">SHM 224. Structural Reliability and Risk Modeling </p>
+                <p class="course-list-overview">SHM 233. Computational Techniques in Finite Element </p>
+                <p class="course-list-overview">SHM 252. Sensing and Nondestructive Evaluation Methods </p>
+                <p class="course-list-overview">SHM 267. Validation and Verification of Computational Models </p>
+                <p class="course-list-overview">SHM 270. Introduction to Digital Signal Processing</p>
+                <p class="course-list-overview">SHM 271. Digital Signal Processing I </p>
+                <p class="course-list-overview">SHM 229. Mechanical Properties</p>
+        <p class="course-list-overview">SHM 265A-B. Integrated Structural Health Monitoring—Capstone Course </p>
+        <h2 class="program-overview-subhead-1">Doctoral Degree Program </h2>
+				<p>The PhD program is intended to prepare students for a variety of careers in research, teaching and advanced professional practice in the broad sense of structural engineering, encompassing civil and aerospace structures, earthquake and geotechnical engineering, composites, and engineering mechanics. Depending on the student&rsquo;s background and ability, research is initiated as soon as possible. All students, in consultation with their advisers, develop course programs that will prepare them for the departmental comprehensive examination and for their dissertation research. However, these programs of study and research must be planned to meet the time limits established to advance to candidacy and to complete the requirements for the degree. Doctoral students who have passed the departmental comprehensive examination may take any course for an S/U grade, with the exception of any course that the student&rsquo;s departmental comprehensive or PhD candidacy examination committee stipulates must be taken in order to remove a deficiency. It is strongly recommended that all structural engineering graduate students take a minimum of two courses (other than research) per academic year after passing the departmental comprehensive examination. </p>
+<p>The department also offers a seminar course each quarter dealing with current research topics in structural engineering (SE 290). Students must take SE 290 every quarter in the first year of graduate study if they are planning to obtain an MS degree, and it is strongly recommended to take it for at least one quarter in every subsequent year.</p>
+<p>All doctoral students will be required to take SE 200, Applied Mathematics in Structural Engineering, prior to taking the departmental comprehensive exam.</p>
+				<p><strong>Doctoral examinations: </strong>A structural engineering PhD student is required to pass three examinations. The first is a <strong>departmental comprehensive examination </strong>that should be taken within three to six quarters of full-time graduate study and requires a 3.5 GPA. This examination is intended to determine the student&rsquo;s ability to successfully pursue a research project at a level appropriate for the doctoral degree. It is administered by at least four faculty, three of whom must be in structural engineering. The student is responsible for material pertaining to four focus areas. One focus area can be satisfied by course work, provided that all courses in that area have been taken at UC San Diego, the grade in each course is B or better, and the overall GPA in that area is at least 3.5. In order to insure appropriate breadth, the focus areas should consist of the following: (a) two focus areas within structural engineering which are closely related to the student&rsquo;s research interests, (b) one focus area within structural engineering that is not directly related to the student&rsquo;s area of research, and (c) one minor focus area outside the Department of Structural Engineering. An update list of sample focus areas for PhD students is available in the structural engineering Graduate Handbook. Minor areas too closely related to the major areas will not be approved by the SE Graduate Affairs Committee. The Solid Mechanics Focus Sequence, which is jointly taught by the Department of Structural Engineering and the Department of Mechanical and Aerospace Engineering, cannot be used to satisfy the outside structural engineering requirement. Students intending to specialize in the emerging areas of structural health monitoring, damage prognosis, and validated simulations are advised to take courses in the focus areas of structural health monitoring and elective courses MAE 283, MAE 261, ECE 251AN, ECE 251BN, ECE 254, and CSE 291, which can be used to satisfy the outside structural engineering requirement. </p>
+<p>Since the examination areas must be approved by the Structural Engineering Graduate Affairs Committee, students are advised to seek such approval well before their expected examination date, preferably while planning their graduate studies. Although students are not required to take particular courses in preparation for the departmental comprehensive examination, the scope of the examination in each area is associated with a set of three graduate courses, generally in focus areas offered or approved by the department. A list of focus areas is available in the <em>Structural Engineering Graduate Handbook</em>. A candidate can develop a sense of the level of knowledge expected to be demonstrated during the examination by studying the appropriate syllabi and/or discussing the course content with faculty experienced in teaching the courses involved. The departmental comprehensive examination may be a written or an oral examination, at the discretion of the committee. </p>
+<p><strong>Teaching experience</strong> is required of all structural engineering PhD students prior to taking the PhD candidacy examination. Teaching experience is defined as lecturing one hour per week in either a problem-solving section or laboratory session, for one quarter in an undergraduate course designated by the department. The requirement can be fulfilled by serving as a teaching assistant or by taking SE 501 for academic credit. Students must contact the Student Affairs Office to plan for completion of this requirement. </p>
+<p>The <strong>PhD candidacy examination</strong> is the second examination required of structural engineering doctoral students. In preparation for the PhD candidacy examination, students must have completed the departmental comprehensive examination and the departmental teaching experience requirement, obtained a faculty research adviser, have identified a topic for their dissertation research, and have made initial progress in that research. At the time of application for advancement to candidacy, a doctoral committee responsible for the remainder of the student&rsquo;s graduate program is appointed by the Graduate Council. In accordance with Academic Senate Regulations 715(D): &ldquo;A doctoral committee of five or more members shall be appointed by the dean of Graduate Studies under the authority of the Graduate Council. The committee members shall be chosen from at least two departments, and at least two members shall represent academic specialties that differ from the student&rsquo;s chosen specialty. In all cases, each committee must include one tenured UC San Diego faculty member from outside the student&rsquo;s major department.&rdquo; The committee conducts the PhD candidacy examination, during which students must demonstrate the ability to engage in dissertation research. This involves the presentation of a plan for the dissertation research project. A short, written document describing the research plan must be submitted to each member of the committee at least two weeks before the PhD candidacy examination. The committee may ask questions directly or indirectly related to the research project and general questions that it determines to be relevant. Upon successful completion of this examination, students are advanced to candidacy and are awarded the candidate of philosophy degree. The PhD candidacy examination is an oral examination.</p>
+<p><strong class="myriad-pro-semibold">The dissertation defense</strong> is the final PhD examination. Upon completion of the dissertation research project, the student writes a dissertation that must then be successfully defended in an oral examination and public presentation conducted by the doctoral committee. A complete copy of the student&#8217;s dissertation must be submitted to each member of the doctoral committee at least four weeks before the defense. While the copy of the dissertation handed to the committee is expected to be complete and in final form, it should be noted that students are expected to make changes in the text per direction of the committee as a result of the defense. This examination cannot be conducted earlier than three quarters after the date of advancement to doctoral candidacy. Acceptance of the dissertation by the Office of Graduate Studies and the university librarian represents the final step in completion of all requirements for the PhD. </p>
+				<p><strong class="myriad-pro-semibold">PhD time limit policy. </strong>Precandidacy status is limited to four years. Doctoral students are eligible for university support for six years. The defense and submission of the doctoral dissertation must be within seven years.</p>
+				<p><strong class="myriad-pro-semibold">Evaluations.</strong> In the spring of each year, the department faculty members evaluate each doctoral student&#8217;s overall performance in course work, research, and prospects for financial support for future years. A written assessment is given to the student after the evaluation. If a student&#8217;s work is found to be inadequate, the faculty may determine that the student cannot continue in the graduate program.</p>
+        <h3>PhD in Structural Engineering with Specialization in Computational Science</h3>
+		<p>See &ldquo;<a href="../curric/MATH-gr.html#csme">PhD in Mathematics with Specialization in Computational Science</a>&rdquo; for more information.</p>
+				<p>The UC San Diego campus offers a new comprehensive PhD specialization in computational science that will be available to doctoral candidates in participating academic departments at UC San Diego.</p>
+				<p>This PhD specialization is designed to allow students to obtain training in their chosen field of science, mathematics, or engineering with additional training in computational science integrated into their graduate studies. Prospective students must apply and be admitted into the PhD program in structural engineering and then be admitted to the CSME program.</p>
+				<p>Areas of research in the Department of Structural Engineering will include computational mechanics, computational techniques in finite elements, error control in finite element analysis, nonlinear finite element methods, and finite element methods in solid and fluid mechanics, and fluid-structure interaction. Each faculty member works with graduate student on the listed research topics.</p>
+				<p>The specialization in computational science requires that students complete all home requirements for the structural engineering PhD. Students are required to pass the departmental qualifying examination, PhD candidacy examination, teaching requirement, and a final defense of the thesis. The qualifying and elective courses for the CSME can be used as part of the advanced course requirement, which is the same as for the structural engineering PhD. </p>
+				<h4>Requirements for the PhD in Structural Engineering with Specialization in Computational Science</h4>
+				<p>Qualifying requirements: In addition to the home department qualifying exam requirements, PhD students must take the final exams in three qualifying exam courses from the list below. Courses taken to satisfy the qualifying requirements will not count toward the elective requirements.</p>
+				<p class="course-list-overview">MATH 275 or MAE 290B (Numerical PDEs)</p>
+				<p class="course-list-overview">PHYS 244 or CSE 260 (Parallel Computing)</p>
+				<p class="course-list-overview">Course to be selected from List A</p>
+				<p>Students coming with an MS may be able to petition to replace the MATH 275 or MAE 290B with an equivalent class taken at their MS institution.</p>
+				<h5>List A: CSME Qualifying Exam Courses</h5>
+                <ol>
+                  <li>MATH 270A, B, or C. Numerical Analysis</li>
+                  <li>MATH 271A, B, or C. Numerical Optimization</li>
+                  <li>MATH 272A, B, or C. Numerical Partial Differential Equations</li>
+                  <li>MATH 273A, B, or C. Advanced Techniques in Computational Mathematics</li>
+                  <li>MAE 223. Computational Fluid Mechanics</li>
+                  <li>MAE 232/SE 276A, B or C (Computational Solids Mechanics)</li>
+                  <li>MAE 280A or B. Linear Systems Theory</li>
+                  <li>MAE 294A. Introduction to Applied Mathematics</li>
+                  <li>PHYS 221 AB. Nonlinear Dynamics</li>
+                  <li>PHYS 243. Stochastic Methods</li>
+                  <li>SE 233. Computational and Technical Aspects of Finite Element Methods</li>
+                  <li>CHEM 285. Introduction to Computational Chemistry</li>
+                  <li>Additional courses to be determined by the executive committee or allowed by petition</li></ol>
+                <p>
+                Elective requirements: To encourage PhD students to both broaden themselves in an area of science or engineering as well as to obtain more specialized training in specific areas of computational science, students will be required to take and pass three elective courses from the following approved List B (four units per course). The executive committee may approve the use of courses not appearing on the following list on a case-by-case basis. Courses taken to satisfy the elective requirements will not count toward the qualifying requirements.</p>
+                <h5>List B: Relevant Elective Graduate Courses in Mathematics, Science, and Engineering</h5>
+                <ol>
+                  <li>Any course appearing on List A above</li>
+                  <li>PHYS 241. Computational Physics I</li>
+                  <li>PHYS 242. Computational Physics II</li>
+                  <li>MAE 222. Flow Control</li>
+                  <li>MAE 261. Cardiovascular Fluid Mechanics</li>
+                  <li>SE 277. Error Control in Finite Element Methods</li>
+                  <li>SE 278A. Computational Fluid Dynamics</li>
+                  <li>SE 278B. Computational Fluid-Structure Interaction</li>
+                  <li>CHEM 215. Modeling Biological Macromolecules</li>
+                  <li>BGGN 260. Neurodynamics</li>
+                  <li>ECE 272. Dynamical Systems under Uncertainty</li>
+                  <li>CSE 250A or B. Principles of Artificial Intelligence</li>
+                  <li>MATH 210A, B, or C. Mathematical Methods in Physics and Engineering</li>
+                  <li>Additional courses to be determined by executive committee or allowed by petition</li>
+                  </ol>
+                <p>
+        Program policies: The following is a list of policies for the PhD specialization with regard to proficiency, qualifying, and elective requirements.</p>
+        <ul>
+                  <li>Proficiency in computer engineering must be demonstrated by the end of the first year.
+                  </li>
+                  <li>The qualifying exams must be passed by the end of the second year or, on petition, by end of the third year.</li>
+                  <li>The qualifying exams can be attempted repeatedly but no more than once per quarter per subject.</li>
+                  <li>The qualifying exams in the home department and the CSME qualifying exams must all be passed before the student is permitted to take the candidacy exam (Senate Exam).</li>
+                  <li>Two electives outside the home department must be taken.</li>
+                  <li>The two electives can be taken at any time before defending the thesis.</li>
+                  <li>One of the electives may be taken Pass/Fail; the other must be taken for a letter grade.<br>
+          </ul>
+                    <h3>Structural Engineering Seminar</h3>
+                    <p>The department offers a biweekly seminar on topics of current interest in structural engineering and on departmental research programs. Students are expected to register and attend the colloquium.</p>
+                    <p><em>Students have an option of obtaining credit for a structural engineering graduate course by taking the final examination without participating in any class exercises. They must, however, officially register for the course and notify the instructor and the Department of Structural Engineering graduate affairs office of their intention no later than the first week of the course.</em>
+                      </li>
+                      </ol>
+                      </li>
+                      </ul>
+                    </p>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

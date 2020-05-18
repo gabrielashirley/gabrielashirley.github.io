@@ -1,0 +1,240 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Third World Studies Courses</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" --> 
+        <h1 class="noTopMargin">Third World Studies</h1>
+        <p> <span class="courseFacLink">[ <a href="../curric/TWS.html">program</a> | <a href="../courses/TWS.html"> </a><a href="../faculty/TWS.html">faculty</a> ]</span></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/Course Name and Disclaimer.lbi" -->
+<h2>Courses</h2>
+<p class="course-disclaimer"><em>For course descriptions not found in the </em>UC
+  San Diego General Catalog 2019&#8211;20<em>, please contact the department
+  for more information.</em></p><!-- #EndLibraryItem -->
+<p class="course-note">See listings also under the Departments of <a href="ANTH.html">Anthropology</a>, <a href="HIST.html">History</a>, <a href="LIT.html">Literature</a>, <a href="POLI.html">Political Science</a>, and <a href="SOC.html">Sociology</a> for other Third World area offerings. </p>
+				<h2 class="course-subhead-1">Lower Division </h2>
+				<p class="anchor-parent"><a class="anchor" id="tws20" name="tws20" /></a></p><p class="course-name">TWS 20. Introduction to Third World Studies (4)</p>
+                <p class="course-descriptions">This introductory course examines historical and theoretical debates on the Third World. Especially important are socioeconomic, political, as well as cultural processes, as they are key factors to understanding the Third World across the globe.</p>
+                <p class="anchor-parent"><a class="anchor" id="tws21" name="tws21" /></a></p><p class="anchor-parent"><a class="anchor" id="tws22" name="tws22" /></a></p><p class="anchor-parent"><a class="anchor" id="tws23" name="tws23" /></a></p><p class="anchor-parent"><a class="anchor" id="tws24" name="tws24" /></a></p><p class="anchor-parent"><a class="anchor" id="tws25" name="tws25" /></a></p><p class="anchor-parent"><a class="anchor" id="tws26" name="tws26" /></a></p><p class="course-name">TWS 21-22-23-24-25-26.
+		  Third World Literatures (4-4-4-4-4-4) </p>
+				<p>An introduction to the cultures of various Third World countries through
+				  close reading of selected literary texts. TWS 21 focuses on African literature,
+				  TWS 22 deals with Latin American literature, TWS 23 examines Chinese literature,
+				  TWS 24 examines Caribbean literature, TWS 25 focuses on Middle Eastern
+				  literature, and TWS 26 treats literature of the Indian Subcontinent. Topics
+				  will vary each quarter. (F,W,S)				</p>
+				<h2 class="course-subhead-1">Upper Division </h2>
+				<p class="anchor-parent"><a class="anchor" id="tws132" name="tws132" /></a></p><p class="course-name">TWS 132. Literature and Third World Societies (4) </p>
+				<p class="course-descriptions">This course will investigate novelistic and dramatic treatments of European society in the era of nineteenth-century imperialism, Third World societies under the impact of colonialism, and the position of national minorities inside the United States to the present day. Attention will center on the interplay between the aesthetic merits and social-historical-philosophical content of the works read.</p>
+				<p class="anchor-parent"><a class="anchor" id="tws190" name="tws190" /></a></p><p class="course-name">TWS 190. Undergraduate Seminars (4) </p>
+				<p class="course-descriptions">Seminars will be organized on the basis of topics with readings, discussions, and papers. Specific subjects to be covered will change each quarter depending on particular interest of instructors or students. May be repeated for credit. </p>
+				<p class="anchor-parent"><a class="anchor" id="tws197" name="tws197" /></a></p>
+				<p class="course-name">TWS 197. Fieldwork (4) </p>
+				<p class="course-descriptions">In an attempt to explore and study some unique processes and aspects of community life, students will engage in research in field settings. Topics to be researched may vary, but in each case the course will provide skills for carrying out these studies. </p>
+				<p class="anchor-parent"><a class="anchor" id="tws198" name="tws198" /></a></p><p class="course-name">TWS 198. Directed Group Studies (2 or 4) </p>
+				<p class="course-descriptions">Directed group study on a topic or in a field not included in the regular department curriculum, by special arrangement with a faculty member. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="tws199" name="tws199" /></a></p><p class="course-name">TWS 199. Independent Study (2 or 4) </p>
+				<p class="course-descriptions">Tutorial, individual guided reading and research projects (to be arranged between student and instructor) in an area not normally covered in courses currently being offered in the department. (P/NP grades only.) <strong class="italic">Prerequisites:</strong> upper-division standing and consent of instructor. (F,W,S) </p>
+				<p class="basic-offset-top-only">Third World studies offerings in other departments:</p>
+				<h3 class="course-subhead-2">Anthropology</h3>
+				<p class="course-list-courses">ANSC 136. Traditional Chinese Society </p>
+				<p class="course-list-courses">ANSC 137. Chinese Popular Religion </p>
+				<p class="course-list-courses">ANSC 142. Anthropology of Latin America</p>
+				<p class="course-list-courses">ANSC 165. Contemporary South Asia</p>
+				<h3 class="course-subhead-2">Ethnic Studies</h3>
+				<p class="course-list-courses">ETHN 142. Medicine, Race, and the Global Politics of Inequality</p>
+				<h3 class="course-subhead-2">History </h3>
+				<p class="course-list-courses">HIAF 111. Modern Africa since 1880 </p>
+				<p class="course-list-courses">HIAF 112. West Africa since 1880</p>
+				<p class="course-list-courses">HIAF 113. Small Wars and the Global Order: Africa and Asia</p>
+				<p class="course-list-courses">HIAF 120. History of South Africa </p>
+				<p class="course-list-courses">HIAF 161. Special Topics in African History </p>
+				<p class="course-list-courses">HIEA 113. The Fifteen-Year War in Asia and the Pacific </p>
+				<p class="course-list-courses">HIEA 130. End of the Chinese Empire: 1800–1911 </p>
+				<p class="course-list-courses">HIEA 131. China in War and Revolution: 1911–1949 </p>
+				<p class="course-list-courses">HIEA 132. Mao&rsquo;s China, 1949–1976 </p>
+				<p class="course-list-courses">HIEA 137. Women and Family in Chinese History </p>
+				<p class="course-list-courses">HILA 100D. Latin America: Colonial Transformation </p>
+				<p class="course-list-courses">HILA 101. Nation-State Formation, Ethnicity, and Violence in Latin America </p>
+				<p class="course-list-courses">HILA 102. Latin America in the Twentieth Century </p>
+				<p class="course-list-courses">HILA 113D. Lord and Peasant in Latin America </p>
+				<p class="course-list-courses">HILA 114. Dictatorships in Latin America </p>
+				<p class="course-list-courses">HILA 115. The Latin American City: A History </p>
+				<p class="course-list-courses">HILA 120. History of Argentina </p>
+				<p class="course-list-courses">HILA 121A. History of Brazil through 1889</p>
+				<p class="course-list-courses">HILA 122. From Colony to Socialist Republic: Cuba </p>
+				<p class="course-list-courses">HILA 126. From Columbus to Castro: Caribbean Culture and Society</p>
+				<p class="course-list-courses">HILA 131. Mexico from Conquest to Modern Nation-Building </p>
+				<p class="course-list-courses">HILA 132. Modern Mexico: From Revolution to Drug War Violence </p>
+				<p class="course-list-courses">HILA 161. History of Women in Latin America </p>
+				<p class="course-list-courses">HILA 162. Special Topics in Latin American History </p>
+				<p class="course-list-courses">HINE 114. History of the Islamic Middle East </p>
+				<h3 class="course-subhead-2">Literature </h3>
+				<p class="course-subhead-3">English </p>
+				<p class="course-list-courses">LTEN 188. Contemporary Caribbean Literature </p>
+				<p class="course-list-courses">LTEN 189. Twentieth Century Postcolonial Literatures </p>
+				<p class="course-subhead-3">Spanish (texts read in Spanish) </p>
+				<p class="course-list-courses">LTSP 130B. Development of Latin American Literature </p>
+				<p class="course-list-courses">LTSP 133. Contemporary Latin American Literature</p>
+				<p class="course-list-courses">LTSP 134. Literature of the Southern Cone </p>
+				<p class="course-list-courses">LTSP 135A. Mexican Literature before 1910</p>
+				<p class="course-list-courses">LTSP 135B. Modern Mexican Literature</p>
+				<p class="course-list-courses">LTSP 136. Andean Literatures </p>
+				<p class="course-list-courses">LTSP 137. Caribbean Literature </p>
+				<p class="course-list-courses">LTSP 140. Latin American Novel </p>
+				<p class="course-list-courses">LTSP 141. Latin American Poetry </p>
+				<p class="course-list-courses">LTSP 142. Latin American Short Story </p>
+				<p class="course-list-courses">LTSP 172. Indigenista Themes in Spanish American Literature </p>
+				<p class="course-subhead-3">Literatures of the World 
+			    (texts read in English) </p>
+				<p class="course-list-courses">LTAF 110. African Oral Literature </p>
+				<p class="course-list-courses">LTAF 120. Literature and Film of Modern Africa </p>
+				<p class="course-list-courses">LTAM 110. Latin American Literature in Translation </p>
+				<p class="course-list-courses">LTAM 111. Comparative Caribbean Discourse</p>
+				<p class="course-list-courses">LTEA 100A. Classical Chinese Poetry in Translation </p>
+				<p class="course-list-courses">LTEA 100B. Modern Chinese Poetry in Translation </p>
+				<p class="course-list-courses">LTEA 110C. Contemporary Chinese Fiction in Translation </p>
+				<p class="course-list-courses">LTCS 133. Globalization and Culture</p>
+				<h3 class="course-subhead-2">Political Science </h3>
+				<p class="course-list-courses">POLI 130H. Vietnam: The Politics of Intervention </p>
+				<p class="course-list-courses">POLI 134A. Comparative Politics of Latin America</p>
+				<p class="course-list-courses">POLI 134B. Politics in Mexico </p>
+				<p class="course-list-courses">POLI 134D. Selected Topics in Latin American Politics </p>
+				<p class="course-list-courses">POLI 134N. Politics in Central America </p>
+				<p class="course-list-courses">POLI 144AB. Selected Topics in International Political Economy </p>
+				<p class="course-list-courses">POLI 146A. The U.S. and Latin America: Political and Economic Relations </p>
+				<p class="course-list-courses">POLI 150A. Politics of Immigration				</p>
+				<h3 class="course-subhead-2">Sociology</h3>
+				<p class="course-list-courses">SOCI 139. Social Inequality: Class, Race, and Gender				</p>
+				<p class="course-list-courses">SOCI 158. Islam in the Modern World </p>
+				<p class="course-list-courses">SOCI 179. Social Change </p>
+				<p class="course-list-courses">SOCI 182. Ethnicity and Indigenous Peoples in Latin America</p>
+				<p class="course-list-courses">SOCI 185. Globalization and Social Development </p>
+				<p class="course-list-courses">SOCI 187. African Societies through Film </p>
+				<p class="course-list-courses">SOCI 188D. Latin America: Society and Politics </p>
+				<p class="course-list-courses">SOCI 188G. Chinese Society </p>
+            
+                <p class="course-list-courses">SOCI 188J. Change in Modern South Africa </p>
+		<p class="course-note">Students wishing to include additional related courses from these and other departments should consult a Third World studies adviser. </p>
+<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

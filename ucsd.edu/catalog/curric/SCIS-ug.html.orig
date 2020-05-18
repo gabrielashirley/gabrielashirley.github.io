@@ -1,0 +1,188 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Science Studies—Science, Technology, and Society Minor</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Science Studies—Science, Technology, and Society Minor</h1>
+<div>
+  <div> </div>
+</div>
+<p class="courseFacLink">[ <a href="SCIS-gr.html">graduate
+      program</a> | <a href="../courses/SCIS.html">courses</a> | <a href="../faculty/SCIS.html">faculty</a> ]</p>
+<p class="program-contact-info">1003 Humanities and Social Sciences Building<br>
+  Institute of Arts and Humanities,
+  Muir College<br />
+    <a href="http://sciencestudies.ucsd.edu/" target="_blank">http://sciencestudies.ucsd.edu/</a></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h2>The Minor</h2>
+<p>The science, technology, and society minor is designed to provide students with an understanding of how scientific knowledge and technological development interact with social values, norms, and institutions. The classes bring together students from the natural sciences, social sciences, arts, and humanities in an in depth, critical exploration of urgent questions about our increasingly techno-scientific society. Students primarily interested in the natural sciences and engineering will have an opportunity to explore the social, political, and ethical implications of their selected fields of specialization while students focused in the humanities and social sciences will have a chance to study the processes, products. and effects of science and technology from multiple disciplinary perspectives. The minor builds on UC San Diego’s world-famous graduate program in science studies, and the classes are taught by faculty drawn from the Departments of History, Sociology, Philosophy, and Communication. What unites these disparate disciplinary perspectives is a critical and analytical approach to questions of truth, power, expertise, agency, and legitimacy as they relate to science and society.</p>
+<p>To complete the minor, students will take a total of seven elective courses (twenty-eight units), at least five of which must be upper-division, from the list below. Within their selection of seven classes, they will be required to take at least one course in three out of the minor&rsquo;s four subfields—philosophy, history, sociology, communication—to assure that they will be exposed to at least some of the wide methodological range that characterizes the field of science studies.</p>
+<p>Students interested in either taking science studies courses or completing the minor are encouraged to discuss their interests and develop a course of study with an affiliated faculty member of the program at their earliest convenience. </p>
+<p>For further information, please contact the minor program’s coordinator at the Science Studies Office (HSS 1003) at (858) 534-0491 or <a href="mailto:ssadmin@ucsd.edu">ssadmin@ucsd.edu</a>.</p>
+<h3>List of Courses</h3>
+<p> (arranged by subfields)</p>
+<h4>Communication</h4>
+<p class="course-list-overview">COMM 106I. CI: Internet Industry</p>
+<p class="course-list-overview">COMM 108E. Politics of Bodies: Embodiment in Theory and Practice</p>
+<p class="course-list-overview">COMM 112M. IM: Communication and Social Machines</p>
+<p class="course-list-overview">COMM 112T. Interaction and Mediation: Interaction with Technology</p>
+<p class="course-list-overview">COMM 166. Surveillance, Mediation, and the Risk Society</p>
+<p class="course-list-overview">COMM 172. Advanced Studies in Mediation and Interaction</p>
+<h4>Critical Gender Studies</h4>
+<p class="course-list-overview">CGS 2A. Gender and Institutions (Medicine)</p>
+<h4>Culture, Art, and Technology</h4>
+<p class="course-list-overview">CAT 1. Culture, Art, and Technology 1</p>
+<h4>Ethnic Studies</h4>
+<p class="course-list-overview">ETHN 102. Science, Technology, and Society: Race, Gender, Class</p>
+<p class="course-list-overview">ETHN 157. Madness and Urbanization</p>
+<h4>History</h4>
+<p class="course-list-overview">HISC 106. The Scientific Revolution</p>
+<p class="course-list-overview">HISC 107. The Emergence of Modern Science</p>
+<p class="course-list-overview">HISC 108. Life Sciences in the Twentieth Century</p>
+<p class="course-list-overview">HISC 115. History of Modern Medicine</p>
+<p class="course-list-overview">HISC 116. History of Bioethics</p>
+<p class="course-list-overview">HISC 131. Science, Technology, and Law</p>
+<p class="course-list-overview">SIO 296. Science, Conflict, and Policy</p>
+<h4>Philosophy</h4>
+<p class="course-list-overview">PHIL 32. Philosophy and the Rise of Modern Science</p>
+<p class="course-list-overview">PHIL 145. Philosophy of Science</p>
+<p class="course-list-overview">PHIL 146. Philosophical Foundations of Physics</p>
+<p class="course-list-overview">PHIL 148. Philosophy and the Environment</p>
+<p class="course-list-overview">PHIL 152. Philosophy of Social Science</p>
+<h4>Sociology</h4>
+<p class="course-list-overview">SOCI 134E. The Making of Modern Medicine</p>
+<p class="course-list-overview">SOCI 135. Medical Sociology</p>
+<p class="course-list-overview">SOCI 136E. Sociology of Mental Illness: A Historical Approach</p>
+<p class="course-list-overview">SOCI 136F. Sociology of Mental Illness in Contemporary Society</p>
+<p class="course-list-overview">SOCI 138. Genetics and Society</p>
+<p class="course-list-overview">SOCI 166. Sociology of Knowledge</p>
+<p class="course-list-overview">SOCI 167. Science and War</p>
+<p class="course-list-overview">SOCI 168E. Sociology of Science</p>
+<p class="course-list-overview">SOCI 171. Technology and Society </p>
+<h4>Urban Studies</h4>
+<p class="course-list-overview">USP 149. Madness and Urbanization</p>
+<h4>Visual Arts</h4>
+<p class="course-list-overview">VIS 159. History of Art and Technology</p>
+
+<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

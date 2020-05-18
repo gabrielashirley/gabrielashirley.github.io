@@ -1,0 +1,347 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Biological Sciences, Division of</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Biological Sciences, Division of</h1>
+<p class="sectionNav">[ <span class="courseFacLink"><a href="../curric/BIOL-ug.html">undergraduate
+      program</a> | <a href="../courses/BIOL.html">courses</a> | <a href="../faculty/BIOL.html">faculty</a> ]</span></p>
+				<p class="program-contact-info">STUDENT AND INSTRUCTIONAL SERVICES OFFICE<br>
+			    Pacific Hall, First Floor<br>
+			    (858) 534-0557</p>
+		<p class="program-contact-info">FINANCIAL AND ADMINISTRATIVE OFFICES<br>
+			    Urey Hall Annex  <br>
+	    DEAN&rsquo;S OFFICE<br>
+	    Natural Sciences Building, Sixth Floor <br />
+      <a href="http://biology.ucsd.edu/" target="_blank">http://biology.ucsd.edu/<br>
+      <br>
+      </a>		<!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --></p><h2 class="program-overview-subhead-1">Contiguous Bachelor&#8217;s/Master&#8217;s
+          Degree Program</h2>
+				<p>A contiguous program leading to a bachelor of science and a master
+				  of science in biology is offered to those undergraduate
+				  students who are enrolled in any of the major programs offered
+				  by the Division of Biological Sciences at UC San Diego. Qualified
+				  students are able to obtain the MS within one year
+				  following receipt of the BS. Students interested in
+				  applying to this program should meet with the BS/MS adviser
+				  in the Biology Student and Instructional Services Office <em>before</em> the
+			    end of their junior year. </p>
+<p>The program is open only to UC San Diego Biological Sciences undergraduates. The Division of Biological Sciences does not have financial aid available for students enrolled in this program. Students participating in the master&rsquo;s program may apply to serve as an instructional assistant. For details, deadlines, and other information, please visit the <a href="http://biology.ucsd.edu/education/undergrad/student-opp/instructional-asst/" target="_blank">biological sciences instructional assistants web page</a>. </p>
+<div>
+  <div> </div>
+</div>
+<h3 class="program-overview-subhead-2">Eligibility and Enrollment</h3>
+				<p>To be eligible, students must have completed the first two quarters of their junior year in residence at UC San Diego and must have an overall UC GPA of at least 3.0. Students&#8217; major GPA should be at least 3.3. Students must demonstrate excellent performance in upper-division biology core courses during their undergraduate program to be eligible to enroll in biology graduate core courses. </p>
+				<p>It is the responsibility of the prospective BS/MS student to select
+				  a faculty member who would be
+				  willing to serve as the student’s adviser and in whose laboratory the student
+				  would complete at least twenty-four units of research over a two-year period.
+				  The units of research that must be completed during the student’s senior
+				  undergraduate year must be taken <em>in addition</em> to the requirements
+				  for the bachelor’s degree. These units will count toward the requirements
+				  for the master’s degree only. Students must complete six consecutive quarters
+				  of research to fulfill the research component of the program. Any deviation
+				  from this plan, such as a break in enrollment for one or more quarters,
+			    will be cause for the student to be dropped from the program. </p>
+                <p>Students who have been approved (by both the Division of Biological
+                  Sciences and the UC San Diego Office of Graduate Admissions) for the
+                  program must enroll in a Special Studies Course, BISP 193 or BISP 199 (senior
+                  year) and BGGN 271 (graduate year only), for each and every
+                  quarter of participation in the BS/MS program. Students
+                  can obtain the appropriate course code and departmental authorization at
+                  the Biology Student and Instructional Services Office. </p>
+<p>Research work (BGGN 271) will be credited toward the BS/MS program requirements only if it is completed during the time a student is officially enrolled at UC San Diego and has paid tuition for that quarter. </p>
+				<h3 class="program-overview-subhead-2">Requirements for the Master of Science</h3>
+				<ol>
+					<li> Completion of six consecutive quarters of research with the same mentor during the senior
+					  undergraduate year and the graduate period. </li>
+					<li> Completion of at least thirty-six units of graduate course work (BGGN
+					  200-level or higher, or approved [via petition] graduate courses offered
+					  by related departments at a similar level) during the graduate year. The
+					  course of study must be approved by the faculty adviser. </li>
+					<li> Twelve of the thirty-six units must be in courses other than BGGN 271.
+					  (BGGN 297 and BGGN 299 may not be used to satisfy this requirement.) </li>
+					<li> Maintenance of a grade point average (both overall and in the major)
+					  of at least 3.0 for all course work, both cumulatively and for each quarter
+					  of enrollment in the BS/MS program. If the student&#8217;s GPA falls
+					  below 3.0 (for either overall or in the major), he or she will be automatically
+				    dropped from the program. </li>
+				    <li>Completion      of a thesis, with an oral presentation to, and approval of, a three-member      thesis committee. The research adviser and thesis committee chair must be      a ladder rank or adjunct faculty member in the Division of Biological      Sciences, except in cases where the research project has an educational      theme (initiated via enrollment in BISP 193), where the adviser and      committee chair may be a teaching professor in the Division of Biological      Sciences who has been approved for this role by the Academic Senate. The      thesis committee must contain at least two Academic Senate faculty from      the Division of Biological Sciences; no more than one adjunct faculty can      serve on the committee. If an adjunct faculty serves as chair of the      thesis committee, one of the biology faculty members must serve as cochair. </li>
+	
+                  <li>At least three complete, separate, and consecutive quarters of residency
+                    as a graduate student that will commence the quarter
+                    immediately following the quarter in which the BS is awarded.
+                    (Note: The
+                    summer session is not considered an official quarter
+                    during the graduate year.) </li>
+                  <li>Students who have been approved for the BS/MS program
+                    must provide the Office of Graduate Admissions with a
+                    copy of their official UC San Diego transcripts with the BS
+                    posted, prior to the commencement of the graduate
+                  year in the program.				</li>
+				</ol>
+				<p class="anchor-parent"><a class="anchor" id="doctoral"></a></p><h2 class="program-overview-subhead-1">The Doctoral Program</h2>
+				<p>Graduate studies for a PhD in the Division of Biological Sciences in affiliation with the Salk Institute for Biological Studies are oriented mainly toward the development of the capacity for independent research and for teaching in the biological sciences. </p>
+				<p>The requirements for entrance to graduate study in the Division of Biological Sciences are flexible, but a strong background in mathematics, chemistry, and physics is recommended. </p>
+				<p>Formal course work and opportunities for dissertation research include most basic areas of experimental biology, with emphasis in the general areas of biochemistry, biophysics, cancer biology, cell biology, conservation, developmental biology, ecology, behavior, and evolution, genetics, immunology, molecular biology, neurobiology, plant molecular biology, plant systems biology, quantitative biology, signal transduction, systems biology, and virology.</p>
+<p>During the first year of graduate study, each student undertakes a research project in the laboratory of each of four to six different faculty members and is expected to spend a major portion of his or her academic time on this project. The laboratories are selected by the student in consultation with the first-year adviser to provide a broad view of the research interests of the division. The student is also expected to enroll in the first-year graduate biology sequence, which includes a &ldquo;boot camp&rdquo; that helps develop fundamental lab skills in biology, as well as courses on bioinformatics, biostatistics, and methods and logic in biological sciences. Students are also required to complete course and practicum requirements as part of the Graduate Instructional Apprentice program. Development of teaching skills is a key goal for students in our doctoral program. Students will serve three times as an instructional assistant (IA) and enroll in a course on teaching and mentoring. This course has an in-class component led by a faculty member with expertise in evidence-based teaching methods, and an apprentice-teaching component supervised by a biology course instructor. Doctoral students must receive a satisfactory evaluation from all instructors in whose courses they serve as IAs. This part of our program aims to prepare doctoral students for future careers that involve teaching and mentoring. </p>
+<p>A program
+  of further study, including seminars and courses appropriate to a student’s
+  background and interests, is arranged through consultation between the
+  student and the faculty. Much reliance is placed on informal instruction
+  through early and close association of the student with the faculty and
+  research staff, and through regular seminars. After becoming familiar with
+  the research activities of the faculty through the laboratory rotation
+  program, the student begins work on a thesis research problem of his or
+  her choice no later than the end of the first year. The student is free
+  to choose, for the thesis adviser, a regular member of the UC San Diego faculty or
+  an adjunct member of the Division of Biological Sciences faculty. The student
+  is required to have completed a two-part examination in order to be admitted
+  to candidacy for the PhD. The purpose of the examinations is for
+  the student to demonstrate competence in the field of major interest and
+  in related fields of biology. The major remaining requirement for the PhD is the satisfactory completion of a dissertation consisting of original
+  research carried out under the guidance of a faculty member. </p>
+<p>Close collaboration with members of the Department of Chemistry and Biochemistry is a vital and stimulating aspect of the biology program. Additional strength and breadth in biology are gained by collaborating with the Department of Marine Biology of the Scripps Institution of Oceanography, with The Scripps Research Institute, and with the Salk Institute for Biological Studies. </p>
+				<h3 class="program-overview-subhead-2">Divisional PhD Time Limit Policies</h3>
+				<p>Students must be advanced to candidacy by the end of four years. Total university support cannot exceed seven years. Total registered time at UC San Diego cannot exceed seven years. </p>
+				<h3 class="program-overview-subhead-2">Joint Doctoral Program with San Diego State University</h3>
+				<p>The Division of Biological Sciences at UC San Diego participates in a joint graduate
+				  program with the Department of Biology at San Diego State University, primarily
+				  in the areas of cell and molecular biology, and leading to the PhD in biology. Graduate student participants in the joint doctoral program
+			    are required to spend one year enrolled at UC San Diego. </p>
+<p>Information regarding admission is found in the current edition of the San Diego State University Graduate Bulletin. </p>
+<h2>Specialization in Anthropogeny</h2>
+<p><a href="http://carta.anthropogeny.org/training/specialization-track" target="_blank">http://carta.anthropogeny.org/training/specialization-track</a></p>
+<p>A transdisciplinary graduate specialization in anthropogeny is available
+  for doctoral students in the Division of Biological Sciences. The aim of the
+  specialization is to provide graduate students the opportunity to specialize
+  their research and education in addressing the origins of the human phenomenon.
+  The student’s research will be related to one of the oldest questions known
+  to humankind, namely, the origins of humans and humanity. This specialization
+  is not a stand-alone program, but will provide graduate students the opportunity
+  to interact and communicate with peers in radically different disciplines throughout
+  the duration of their PhD projects. Such communication across disciplines
+  from the outset is key to fostering a capacity for interdisciplinary language
+  skills and conceptual flexibility. </p>
+<h3>Admission to the Specialization</h3>
+<p>Students are admitted into the Division of Biological Sciences doctoral program.
+  During the early stages of their program, currently enrolled biology students
+  with an interest in human origins are eligible to apply for admission to the
+  specialization in anthropogeny. Selected applicants will have the opportunity
+  to enroll in the specialization.</p>
+<h3>Specialization Requirements</h3>
+<p>Students pursuing this specialization must satisfy the requirements of both
+  the biology doctoral program and the specialization in anthropogeny. For the
+  anthropogeny specialization, students will be required to take a series of
+  courses and participate in research rounds over four years of study. It is
+  advised that students begin their course work in their second year. </p>
+<ol>
+  <li>Course work: Introduction to Anthropogeny (BIOM 225) and Advanced Anthropogeny
+    (BIOM 229) are each taken once, in the winter and spring of the students’
+    second year. Current Topics in Anthropogeny (BIOM 218) is to be taken for six quarters (twice per academic year). </li>
+  <li>Research Rounds: Monthly seminars during which all participating students
+    talk about their respective research.</li>
+</ol>
+<h3>Degree Requirements (Qualifying Examination, Dissertation)</h3>
+<p>Biological sciences students in the anthropogeny specialization must meet
+  the departmental requirement for advancement to candidacy. In addition, students
+  must meet internal deadlines, mentoring provisions, and proposal standards
+  of the anthropogeny specialization track.</p>
+<p>PhD students must complete a dissertation, which meets all requirements
+  of the biological sciences program. In addition, it is expected that the PhD
+  dissertation is broadly related to human origins and will be interdisciplinary
+  in nature.</p>
+<h3>Time Limits</h3>
+<p>Students admitted to the specialization in anthropogeny must meet the time
+  limit requirements as all other doctoral students in the Division of Biological
+  Sciences. It is expected that students will retain the same time to degree
+  as students not pursuing this specialization. Additional course load consists
+  only of two regular courses (two quarters, twenty lectures each). The third
+  proposed course takes place only three times a year, from Friday noon to Saturday
+  evening.</p>
+<h2>Specialization in Multiscale Biology</h2>
+<p><a href="http://interfaces.ucsd.edu/" target="_blank">http://interfaces.ucsd.edu/</a></p>
+<p>The UC San Diego campus offers a PhD specialization in
+  Multiscale Biology available to doctoral candidates in participating
+  programs spanning four divisions: Biological Sciences, Physical Sciences,
+  Jacobs School of Engineering, and Health Sciences at UC San Diego.</p>
+<p>The PhD specialization is designed to allow students to obtain standard
+  basic training in their chosen field within the biological sciences, physical
+  sciences, engineering, and health sciences with training in integrative and
+  quantitative analysis across multiple scales of biological organization from
+  molecule to organism in health and disease into their graduate studies. It
+  trains a new cadre of PhD scientists and provides a unique interdisciplinary
+  education at the interfaces between the biological, medical, physical, and
+  engineering sciences.</p>
+<p>The specific objectives of this program are</p>
+<ol>
+  <li><strong>Focused collaboration</strong> across nine graduate degree programs
+    at UC San Diego to train a new generation of cross-disciplinary scientists </li>
+  <li><strong>State-of-the-art interdisciplinary training</strong> through
+    a new technology-centered hands-on graduate laboratory course curriculum</li>
+  <li><strong>Novel emphasis on research</strong> aimed at integrative and
+    quantitative analysis across multiple scales of biological organization from
+    molecule to organism in health and disease</li>
+</ol>
+<p>Prospective students must apply and be admitted into the PhD program in biological sciences described previously.  (For more information, see the <a href="http://biology.ucsd.edu/education/grad/index.html" target="_blank">Biological
+  Sciences Graduate Program</a> and/or the <a href="http://interfaces.ucsd.edu/" target="_blank">Interfaces
+  Graduate Training Program</a>.) </p>
+<h2>Specialization in Quantitative Biology</h2>
+<p>A specialization in Quantitative Biology (Q-Bio) spanning four divisions—Biological Sciences, Physical Sciences, Jacobs School of Engineering, and Health Sciences—is available to doctoral candidates in the Division of Biological Sciences. This PhD specialization is designed to train students to develop and apply quantitative theoretical and experimental approaches to studying fundamental principles of living systems. The core of this specialization comprises one year of theory courses and one year of lab courses.</p>
+<h3>Admission to the Specialization and Course Requirements</h3>
+<p>Prospective students should apply to and are admitted into the Division of Biological Sciences doctoral program. Admitted students must complete the core sequence within Biological Sciences. In addition, they must complete two additional Q-Bio courses and a one-year laboratory course sequence during their first two years in the specialization. Students will complete laboratory rotations during their first year. For more information students should contact the Biological Sciences&rsquo; Graduate Student and Instructional Services Office.</p>
+<h2>Specialization in Interdisciplinary Environmental Research </h2>
+<p>A graduate specialization in Interdisciplinary Environmental Research (PIER) is available for select doctoral students in biology. PIER students seek solutions to today’s environmental challenges. </p>
+<p>The PhD specialization is designed to allow students to obtain standard training in their chosen field and an opportunity to interact with peers in different disciplines throughout the duration of their doctoral projects. Such communication across disciplines is key to fostering a capacity for interdisciplinary &ldquo;language&rdquo; skills and conceptual flexibility.</p>
+<h3>Specialization Requirements<br>
+</h3>
+<ul type="disc">
+  <li>Complete all course work, dissertation, and other      requirements of<strong> </strong>the biological science      doctorate<strong>  </strong></li>
+  <li>16-unit interdisciplinary boot camp (summer, SIO 295S–295LS)</li>
+  <li>8 units from a secondary field (outside the home      department) </li>
+  <li>6 units (3 quarters) Interdisciplinary      Environmental Research Forum (SIO 296)</li>
+  <li>At least one chapter of the dissertation will be      broadly related to environmental research and will be interdisciplinary in      nature. </li>
+</ul>
+<h3>Application Requirements</h3>
+<p><em>We advise students to begin PIER in their second<strong><font color="red"> </font></strong>year upon completion of core biology course requirements.</em></p>
+<p>The following items should be combined into a single PDF document and submitted to <a href="mailto:cmbc@ucsd.edu">cmbc@ucsd.edu</a>.</p>
+<ul type="disc">
+  <li>Student’s CV</li>
+  <li>Half-page abstract of proposed thesis work </li>
+  <li>Up to one-page statement of student’s interest in      interdisciplinary environmental research including career goals</li>
+  <li>Nomination letter from adviser acknowledging      student’s academic ability and interdisciplinary environmental interest. The      letter must include a commitment for summer stipend support.</li></ul>
+<h3>
+  Admission to the Specialization</h3>
+<p>Students are admitted into the biological sciences doctoral program. Admission to PIER is a competitive process with six to eight students granted admission each year from across ten participating UC San Diego departments. Selected applicants will have the opportunity to enroll in the specialization. <br>
+  <strong></strong>
+</p>
+<h3>PIER Fellowships</h3>
+<p>When funding is available, all applicants will be considered for one year of PIER Fellowship support.  </p>
+<div>
+  <div> </div>
+  <div> </div>
+</div>
+        <!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

@@ -1,0 +1,193 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" --> 
+<title>Data Science</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+		<h1>Data Science </h1>
+		<p class="sectionNav"><span class="courseFacLink">[ <a href="../faculty/DSC.html">faculty</a> | <a href="../curric/DSC.html">program</a> ]</span></p>
+		<p>        
+		<!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+        <p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+        <!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/Course Name and Disclaimer.lbi" -->
+<h2>Courses</h2>
+<p class="course-disclaimer"><em>For course descriptions not found in the </em>UC
+  San Diego General Catalog 2019&#8211;20<em>, please contact the department
+  for more information.</em></p><!-- #EndLibraryItem --><h2>Lower Division </h2>
+		<p class="anchor-parent"><a class="anchor" id="dsc10" name="dsc10" /></a></p><p class="course-name">DSC 10. Principles of Data Science (4)</p>
+        <p class="course-descriptions">This introductory course develops computational thinking and tools necessary to answer questions that arise from large-scale datasets. This course emphasizes an end-to-end approach to data science, introducing programming techniques in Python that cover data processing, modeling, and analysis. <strong><em>Prerequisites:</em></strong> none. </p>
+	<p class="anchor-parent"><a class="anchor" id="dsc20" name="dsc20" /></a></p><p class="course-name">DSC 20. Programming and Basic Data Structures for Data Science (4)</p>
+        <p class="course-descriptions">Provides an understanding of the structures that underlie the programs, algorithms, and languages used in data science by expanding the repertoire of computational concepts introduced in DSC 10 and exposing students to techniques of abstraction. Course will be taught in Python and will cover topics including recursion, higher-order functions, function composition, object-oriented programming, interpreters, classes, and simple data structures such as arrays, lists, and linked lists. <strong><em>Prerequisites:</em></strong> DSC 10.</p>
+<p class="anchor-parent"><a class="anchor" id="dsc30" name="dsc30" /></a></p><p class="course-name">DSC 30. Data Structures and Algorithms for Data Science (4) </p>
+        <p class="course-descriptions">Builds on topics covered in DSC 20 and provides practical experience in composing larger computational systems through several significant programming projects using Java. Students will study advanced programming techniques including encapsulation, abstract data types, interfaces, algorithms and complexity, and data structures such as stacks, queues, priority queues, heaps, linked lists, binary trees, binary search trees, and hash tables. <strong><em>Prerequisites:</em></strong> DSC 20.</p>
+<p class="anchor-parent"><a class="anchor" id="dsc40a" name="dsc40a" /></a></p><p class="course-name">DSC 40A. Theoretical Foundations of Data Science I (4)</p>
+        <p class="course-descriptions">This course, the first of a two-course sequence (DSC 40A-B), will introduce the theoretical foundations of data science. Students will become familiar with mathematical language for expressing data analysis problems and solution strategies, and will receive training in probabilistic reasoning, mathematical modeling of data, and algorithmic problem solving. DSC 40A will introduce fundamental topics in machine learning, statistics, and linear algebra with applications to data analysis. DSC 40A-B connect to DSC 10, 20, and 30 by providing the theoretical foundation for the methods that underlie data science. <strong><em>Prerequisites:</em></strong> DSC 10, MATH 20C or MATH 31BH, and MATH 18 or MATH 20F or MATH 31AH. Restricted to students within the DS25 major. All other students will be allowed as space permits.</P>
+<p class="anchor-parent"><a class="anchor" id="dsc40b" name="dsc40b" /></a></p><p class="course-name">DSC 40B. Theoretical Foundations of Data Science II (4)</p>
+        <p class="course-descriptions">This course will introduce the theoretical foundations of data science. Students will become familiar with mathematical language for expressing data analysis problems and solution strategies, and will receive training in probabilistic reasoning, mathematical modeling of data, and algorithmic problem-solving. DSC 40B introduces fundamental topics in combinatorics, graph theory, probability, and continuous and discrete algorithms with applications to data analysis. DSC 40A-B connect to DSC 10, 20, and 30 by providing the theoretical foundation for the methods that underlie data science. <strong><em>Prerequisites:</em></strong> DSC 40A. Restricted to students within the DS25 major. All other students will be allowed as space permits.</p>
+<p class="anchor-parent"><a class="anchor" id="dsc80" name="dsc80" /></a></p><p class="course-name">DSC 80. The Practice and Application of Data Science (4)</p>
+        <p class="course-descriptions">The marriage of data, computation, and inferential thinking, or &ldquo;data science,&rdquo; is redefining how people and organizations solve challenging problems and understand the world. This course bridges lower- and upper-division data science courses as well as methods courses in other fields. Students master the data science life-cycle and learn many of the fundamental principles and techniques of data science spanning algorithms, statistics, machine learning, visualization, and data systems. <strong><em>Prerequisites:</em></strong> DSC 30 and DSC 40A.</p>
+        <p class="anchor-parent"><a class="anchor" id="dsc90" name="dsc90" /></a></p><p class="course-name">DSC 90. Seminar in Data Science (2)</p>
+        <p class="course-descriptions">Students will learn about a variety of topics in data science through interactive presentations from faculty and industry professionals. <strong><em>Prerequisites:</em></strong>&nbsp;DSC 10. Restricted to students within the DS25 major. All other students will be allowed as space permits.</p>
+        <p class="anchor-parent"><a class="anchor" id="dsc95" name="dsc95" /></a></p><p class="course-name">DSC 95. Tutor Apprenticeship in Data Science (2)</p>
+        <p class="course-descriptions">Students will receive training in skills and techniques necessary to be effective tutors for data science courses. Students will also gain practical experience in tutoring students on data science topics. <strong><em>Prerequisites:</em></strong>&nbsp;DSC 10. Students must have applied for and been accepted as a tutor for a DSC course for the first time; enrollment in DSC 95 is required for these students.</p>
+        <p class="anchor-parent"><a class="anchor" id="dsc96" name="dsc96" /></a></p><p class="course-name">DSC 96. Workshop in Data Science (2)</p>
+        <p class="course-descriptions">Students will explore topics and tools relevant to the practice of data science in a workshop format. The instructor works with students on guided projects to help students acquire knowledge and skills to complement their course work in the core data science classes. Topics vary from quarter to quarter. Students are strongly recommended to enroll in either DSC 10 or DSC 20 concurrently. <strong><em>Prerequisites:</em></strong>&nbsp;Restricted to students within the DS25 major. All other students will be allowed as space permits.</p>
+        <p class="anchor-parent"><a class="anchor" id="dsc97" name="dsc97" /></a></p><p class="course-name">DSC 97. Internship in Data Science (2 or 4)</p>
+        <p class="course-descriptions">Individual research on a topic related to data science, by special arrangement with and under the direction of a UC San Diego faculty member, in connection with an internship at an organization. Internship work will inform but not necessarily define the research topic. The research topic is expected to promote the study of the principles and techniques involved in the internship work. May be taken for credit up to two times. <strong><em>Prerequisites:</em></strong>&nbsp;MATH 20C or MATH 31BH and MATH 18 or MATH 31AH and DSC 20 and DSC 40A. Completion of thirty units at UC San Diego with a university GPA of 3.0. Special Studies Form, consent of the instructor, and approval of the department required. Priority enrollment is given to data science majors DS25. Restricted to freshman and sophomore level students.</p>
+        <p class="anchor-parent"><a class="anchor" id="dsc98" name="dsc98" /></a></p><p class="course-name">DSC 98. Directed Group Study in Data Science (2 or 4)</p>
+        <p class="course-descriptions">Students will investigate a topic in data science through directed reading, discussion, and project work under the supervision of a faculty member. May be taken for credit up to two times. <strong><em>Prerequisites:</em></strong>&nbsp;MATH 20C or MATH 31BH and MATH 18 or MATH 31AH and DSC 20 and DSC 40A. Completion of thirty units at UC San Diego with a university GPA of 3.0. Special Studies Form, consent of the instructor, and approval of the department required. Priority enrollment is given to data science majors DS25. Restricted to freshman and sophomore level students.</p>
+        <p class="anchor-parent"><a class="anchor" id="dsc99" name="dsc99" /></a></p><p class="course-name">DSC 99. Independent Study in Data Science (2 or 4)</p>
+        <p class="course-descriptions">Students will participate in independent study or research in data science under the direction of a UC San Diego faculty member. May be taken for credit up to two times. <strong><em>Prerequisites:</em></strong>&nbsp;MATH 20C or MATH 31BH and MATH 18 or MATH 31AH and DSC 20 and DSC 40A. Completion of thirty units at UC San Diego with a university GPA of 3.0. Special Studies Form, consent of the instructor, and approval of the department required. Priority enrollment is given to data science majors DS25. Restricted to freshman and sophomore level students.</p>
+        <h2>Upper Division </h2>
+        <p class="anchor-parent"><a class="anchor" id="dsc100" name="dsc100" /></a></p><p class="course-name">DSC 100. Introduction to Data Management (4)</p>
+        <p class="course-descriptions">This course is an introduction to storage and management of large-scale data using classical relational (SQL) systems, with an eye toward applications in data science. The course covers topics including the SQL data model and query language, relational data modeling and schema design, elements of cost-based query optimizations, relational data base architecture, and database-backed applications. <strong><em>Prerequisites: </em></strong>DSC 80 and DSC 40B.</p>
+        <p class="anchor-parent"><a class="anchor" id="dsc102" name="dsc102" /></a></p><p class="course-name">DSC 102. Systems for Scalable Analytics (4)</p>
+        <p class="course-descriptions">This course introduces the principles of computing systems and infrastructure for scaling analytics to large datasets. Topics include memory hierarchy, distributed systems, model selection, heterogeneous datasets, and deployment at scale. The course will also discuss the design of systems such as MapReduce/Hadoop and Spark, in conjunction with their implementation. Students will also learn how dataflow operations can be used to perform data preparation, cleaning, and feature engineering. <strong><em>Prerequisites: </em></strong>DSC 100.</p>
+        <p class="anchor-parent"><a class="anchor" id="dsc104" name="dsc104" /></a></p><p class="course-name">DSC 104. Beyond Relational Data Management (4)</p>
+        <p class="course-descriptions">The course will introduce a variety of No-SQL data formats, data models, high-level query languages, and programming abstractions representative of the needs of modern data analytic tasks. Topics include hierarchical graph database systems, unrestricted graph database systems, array databases, comparison of expressive power of the data models, and parallel programming abstractions, including Map/Reduce and its descendants. <strong><em>Prerequisites: </em></strong>DSC 102.</p>
+        <p class="anchor-parent"><a class="anchor" id="dsc106" name="dsc106" /></a></p><p class="course-name">DSC 106. Introduction to Data Visualization (4)</p>
+        <p class="course-descriptions">Data visualization helps explore and interpret data through interaction. This course introduces the principles, techniques, and algorithms for creating effective visualizations. The course draws on the knowledge from several disciplines including computer graphics, human-computer interaction, cognitive psychology, design, and statistical graphics and synthesizes relevant ideas. Students will design visualization systems using D3 or other web-based software and evaluate their effectiveness. It is highly recommended that students take MATH 189 prior to taking DSC 106. <strong><em>Prerequisites: </em></strong>DSC 80.</p>
+        <p class="anchor-parent"><a class="anchor" id="dsc120" name="dsc120" /></a></p><p class="course-name">DSC 120. Signal Processing for Data Analysis (4)</p>
+        <p class="course-descriptions">This course will focus on ideas from classical and modern signal processing, with the main themes of sampling continuous data and building informative representations using orthonormal bases, frames, and data dependent operators. Topics include sampling theory, Fourier analysis, lossy transformations and compression, time and spatial filters, and random Fourier features and connections to kernel methods. Sources of data include time series and streaming signals and various imaging modalities. <strong><em>Prerequisites: </em></strong>MATH 18 or MATH 31AH and MATH 20C and DSC 40B.</p>
+        <p class="anchor-parent"><a class="anchor" id="dsc170" name="dsc170" /></a></p><p class="course-name">DSC 170. Spatial Data Science and Applications (4)</p>
+        <p class="course-descriptions">Spatial data science is a set of concepts and methods that deal with accessing, managing, visualizing, analyzing, and reasoning about spatial data in applications where location, shape and size of objects, and their mutual arrangement are important. This upper-division course explores advanced data science concepts for spatial data, introducing students to principles and techniques of spatial data analysis, including geographic information systems, spatial big data management, and geostatistics. <strong><em>Prerequisites: </em></strong>DSC 80.</p>
+        <p class="anchor-parent"><a class="anchor" id="dsc180a" name="dsc180a" /></a></p><p class="course-name">DSC 180A. Data Science Project I (4)</p>
+        <p class="course-descriptions">In this two-course sequence students will investigate a topic and design a system to produce statistically informed output. The investigation will span the entire lifecycle, including assessing the problem, learning domain knowledge, collecting/cleaning data, creating a model, addressing ethical issues, designing the system, analyzing the output, and presenting the results. 180A deals with research, methodology, and system design. Students will produce a research summary and a project proposal. <strong><em>Prerequisites: </em></strong>DSC 102 and MATH 189 and CSE 151 or CSE 158.</p>
+        <p class="anchor-parent"><a class="anchor" id="dsc180b" name="dsc180b" /></a></p><p class="course-name">DSC 180B. Data Science Project II (4)</p>
+        <p class="course-descriptions">In this two-course sequence students will investigate a topic and design a system to produce statistically informed output. The investigation will span the entire lifecycle, including assessing the problem, learning domain knowledge, collecting/cleaning data, creating a model, addressing ethical issues, designing the system, analyzing the output, and presenting the results. 180B will consist of implementing the project while studying the best practices for evaluation. <strong><em>Prerequisites: </em></strong>DSC 106 and DSC 180A.</p>
+        <p class="anchor-parent"><a class="anchor" id="dsc190" name="dsc190" /></a></p><p class="course-name">DSC 190. Topics in Data Science (4)</p>
+        <p class="course-descriptions">Topics of special interest in data science. Topics vary from quarter to quarter. May be taken for credit up to two times. <strong><em>Prerequisites: </em></strong>Restricted to junior and senior level students. Department and instructor approval is required to monitor enrollment and to ensure that students have the sufficient educational background for a given topic.</p>
+        <p class="anchor-parent"><a class="anchor" id="dsc191" name="dsc191" /></a></p><p class="course-name">DSC 191. Seminar in Data Science (1 or 2)</p>
+        <p class="course-descriptions">A seminar course on topics of current interest in data science. Topics may vary from quarter to quarter. May be taken for credit three times. <strong><em>Prerequisites: </em></strong>Restricted to junior and senior level students. Department and instructor approval is required to monitor enrollment and to ensure that students have the sufficient educational background for a given topic.</p>
+        <p class="anchor-parent"><a class="anchor" id="dsc197" name="dsc197" /></a></p><p class="course-name">DSC 197. Data Science Internship (4)</p>
+        <p class="course-descriptions">Directed study and research at laboratories/institutions outside of campus. <strong><em>Prerequisites: </em></strong>Restricted to junior and senior level students. Consent of the instructor and approval of the department. An application for Special Studies must be filed with the Registrar&rsquo;s office after approval from the instructor and the department chair.</p>
+        <p class="anchor-parent"><a class="anchor" id="dsc198" name="dsc198" /></a></p><p class="course-name">DSC 198. Directed Group Study in Data Science (2 or 4)</p>
+        <p class="course-descriptions">Data science topics whose study involves reading and discussion by a small group of students under supervision of a faculty member. May be taken for credit up to two times. <strong><em>Prerequisites: </em></strong>Restricted to junior and senior level students. Consent of the instructor and approval of the department. Department stamp required. An application for Special Studies must be filed with the Registrar&rsquo;s office after approval from the instructor and the department chair.</p>
+        <p class="anchor-parent"><a class="anchor" id="dsc199" name="dsc199" /></a></p><p class="course-name">DSC 199. Independent Study for Data Science Undergraduates (2 or 4)</p>
+        <p class="course-descriptions">Independent reading or research on a topic related to data science by special arrangement with a faculty member. May be taken for credit up to two times. <strong><em>Prerequisites: </em></strong>Restricted to junior and senior level students. Consent of the instructor and approval of the department. An application for Special Studies must be filed with the Registrar&rsquo;s Office after approval from the instructor and the department chair.</p>
+        <p class="anchor-parent"><a class="anchor" id="dsc500" name="dsc500" /></a></p><p class="course-name">DSC 500. Teaching Assistantship (2 or 4)</p>
+        <p class="course-descriptions">A course in which teaching assistants are aided in learning proper teaching methods by means of supervision of their work by the faculty: handling of discussions, preparation and grading of examinations and other written exercises, and student relations. Number of units for credit depends on number of hours devoted to class or section assistance. May be taken for credit up to seventy-two units. <strong><em>Prerequisites: </em></strong>DSC 500 is for selected teaching assistants only; therefore, consent of instructor is required.</p>
+        <p class="anchor-parent"><a class="anchor" id="dsc599" name="dsc599" /></a></p><p class="course-name">DSC 599. Teaching Methods in Data Science (2)</p>
+        <p class="course-descriptions">Training in teaching methods in the field of data science. This course examines theoretical and practical communication and teaching techniques particularly appropriate to data science. <strong><em>Prerequisites: </em></strong>Consent of faculty required. Only graduate students who are TAing for the first time in the data science program are eligible to enroll. </p>
+
+        <!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

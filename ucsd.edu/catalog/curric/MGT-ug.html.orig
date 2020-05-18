@@ -1,0 +1,303 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Management, Rady School of</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Management, Rady School of</h1>
+<p class="sectionNav"><span class="courseFacLink">[ <a href="MGT-gr.html">graduate program</a> |  <a href="../courses/MGT.html">courses</a> | <a href="../faculty/MGT.html">faculty</a> ]</span></p>
+<p><a href="http://rady.ucsd.edu" target="_blank" class="program-contact-info">http://rady.ucsd.edu</a> </p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h2>The Undergraduate Program</h2>
+                <h3>The Accounting Minor</h3>
+                <p>The Rady School of Management’s accounting minor is designed
+                  to provide students a breadth of understanding of accounting
+                  theory, practices, and applications. The minor will appeal
+                  to students who envision careers in the accounting profession.
+                  Because of accounting’s broad application, these careers would
+                  span across public accounting firms, corporate accounting departments,
+                  and governmental, nonprofit, and nongovernmental organizations.
+                  For many students, this will be their first step in achieving
+                  a Certificate in Public Accounting, CPA.</p>
+                <h4 class="program-overview-subhead-2">Accounting Minor Requirements</h4>
+                <p>The accounting minor will consist of seven courses that cover
+                  the key accounting principles, processes, and applications.
+                  Required courses include two lower-division courses and five
+                  upper-division courses.</p>
+                <h5>Lower-Division Courses</h5>
+                <ul>
+                  <li>MGT 4. Financial Accounting or Econ 4. Financial Accounting</li>
+                  <li>MGT 5. Managerial Accounting</li>
+                </ul>
+                <h5>Upper-Division Courses</h5>
+                <ul>
+                  <li>MGT 131A. Intermediate Accounting A</li>
+                  <li>MGT 131B. Intermediate Accounting B</li>
+                  <li>MGT 132. Auditing</li>
+                  <li>MGT 135. Federal Taxation—Companies</li>
+                  <li>MGT 136. Advanced Accounting</li>
+                </ul>
+        <p>In order to count toward the minor, all courses must be taken
+                  for a letter grade and students must earn a C– or better in
+                  each course. Lower-division transfer credits for courses that
+                  are clearly equivalent in scope and content to lower-division
+                  courses required for the accounting minor will be accepted
+                  from regionally accredited United States institutions and from
+                  foreign institutions recognized by the Rady School of Management.</p>
+                <h5>CPA Accounting Requirements</h5>
+                <p>A student who completes nine Rady accounting courses (the seven courses required for the minor plus two electives) will have met part of the accounting educational requirement for CPA licensure—thirty-six quarter units in accounting subjects. The CPA education requirements changed effective January 1 2014, and include additional educational requirements. Find more information here: <a href="https://www.dca.ca.gov/cba/" target="_blank">https://www.dca.ca.gov/cba/</a>. </p>
+<div>
+      <div> </div>
+      </div>
+<h3>The Business Minor</h3>
+                <p>The Rady School of Management&rsquo;s business minor is designed to provide students the breadth of understanding of business theory and a depth of ability with business practices and applications. This minor will appeal to students who envision careers that require an understanding of the basic principles and practices of business. Because of business&rsquo;s broad application, UC San Diego students with a minor in business will be well prepared to assume entry and intermediate positions in the business functions of a vast number large and small for-profit companies, governmental agencies, nonprofit organizations, and nongovernmental entities. Additionally, graduates pursuing careers not directly related to formal business functions, but still impacted by business practices, will bring a much-valued perspective to their initial employment.</p>
+                <h4>Business Minor Requirements</h4>
+                <p>To fulfill the requirements of the business minor, students must take five required courses (twenty units) and two electives (or the equivalent of eight units). A maximum of two lower-division courses may be applied toward the minor.   The required courses are</p>
+                <ul>
+                  <li>MGT 16. Personal Ethics at Work or MGT 166: Business Ethics and Corporate Responsibility</li>
+                  <li>MGT 45. Principles of Accounting <em>(This course is designed for nonaccounting minors. Students who have taken both ECON 4/MGT 4 and MGT 5 may substitute those for this requirement.)</em></li>
+                  <li>MGT 103. Product Marketing and Management </li>
+                  <li>MGT 181. Enterprise Finance </li>
+                  <li>MGT 112. Global Business Strategy </li>
+                </ul>
+                <p>Acceptable elective courses are</p>
+                <ul>
+                  <li>MGT 12. Personal Financial Management</li>
+                  <li>MGT 16. Personal Ethics at Work (if MGT 166 taken for the core requirement)</li>
+                  <li>MGT      18. Managing Diverse Teams</li>
+                  <li>MGT 105. Product Promotion and Brand Management</li>
+                  <li>MGT 106. Sales and Sales Management</li>
+                  <li>MGT 121A. Innovation to Market A</li>
+                  <li>MGT 121B. Innovation to Market B</li>
+                  <li>MGT      162. Negotiation</li>
+              
+                  <li>MGT 164. Organizational Leadership</li>
+                  <li>MGT 166. Business Ethics and Corporate Responsibility (if MGT 16 taken for the core requirement)</li>
+                  <li>MGT 172. Business Project Management</li>
+                  <li>MGT 174. Supply Chain Management</li>
+                  <li>MGT 183. Financial Investments</li>
+                  <li>MGT 184. Money and Banking</li>
+                  <li>MGT 185. Investment Banking </li>
+                  
+                  <li>MGT 198. Directed Group Study</li>
+                  <li>MGT 199. Independent Research Project</li>
+                  <li>AIP 197. Internship (with department approval)</li>
+                  <li>BISP 194. Introduction to Biotech (with departmental approval, when topics apply)</li>
+                  <li>COMM 106F. Cultural Industries: The Film Industry </li>
+                  <li>COMM 106I. Cultural Industries: Internet Industry</li>
+                  <li>COMM 109D. Mass Communication: Advertising and Society</li>
+                  <li>COMM 110G. Language, Literacy, and Communication: Communication in Organizations</li>
+                  <li>COMM 162. Advanced Studies in Cultural Industries </li>
+                  <li>ENG 100A. Principles of Team Engineering </li>
+                  <li>ENG 100B. Engineering Leadership </li>
+                  <li>ENG 201. Venture Mechanics</li>
+                  <li>ENG 202. Enterprise Dynamics </li>
+                  <li>ENG 203. Applied Innovation</li>
+                  <li>MATH 193A. Actuarial Mathematics</li>
+                  <li>MATH 194. Mathematics of Finance</li>
+                  <li>PSYC 178. Organizational Psychology</li>
+                  <li>SOCI 121. Economy and Society </li>
+                  <li>SOCI 132. Gender and Work </li>
+                  <li>SOCI 140FL. Law and the Workplace</li>
+                  <li>SOCI 148E. Inequality and Jobs</li>
+                </ul>
+      
+        <p>All courses taken for the business minor must be taken for taken for a letter grade. Students must earn at least a C– in each course used for the minor. Lower-division transfer credits for courses that are clearly equivalent in scope and content to lower-division Rady School courses required for the business minor will be accepted from regionally accredited United States institutions and from foreign institutions recognized by the Rady School of Management. Upper-division courses applied toward the business minor will not count toward major requirements for another department. </p>
+                <h5>Specializations</h5>
+        <p>While not a formal requirement, if students choose to, they can take electives in the same functional area and thus have a &ldquo;mini-concentration.&rdquo; These mini-concentrations include the following: </p>
+        <ul>
+                  <li>Entrepreneurship: MGT 121A, MGT 121B, ENG 201, ENG 202, ENG 203, BISP 194 (by department approval)</li>
+                  <li>Finance: MGT 183, MGT 184, MGT 185, MGT 12, MATH 193A, MATH 194</li>
+                  <li>Marketing: MGT 105, MGT 106, COMM 106I, COMM 109D</li>
+                  <li>Organizational Behavior: MGT 18, MGT 162, MGT 164, ENG 100A, SOCI 148E, SOCI 140F, SOCI 121, SOC 132, COMM 106F, COMM 103F, PSYC 178</li>
+                  <li>Operations: MGT 174, MGT 172, COMM 162, ENG 100B		</li>
+        </ul>
+        <h3>The Entrepreneurship and Innovation Minor</h3>
+        <p>The Rady School of Management&rsquo;s Entrepreneurship and Innovation (E&amp;I) minor is designed to provide students with a breadth of understanding of business and entrepreneurship theory, practices, and applications. The E&amp;I minor will appeal to creative and ambitious undergraduate UC San Diego students who envision launching and managing their own business or entering careers in innovation-driven fields. There are five main goals for the overall curriculum that will be pursued programmatically: </p>
+        <ol>
+          <li> Cover a broad context of the application of entrepreneurship and business principles. </li>
+          <li>Develop a comprehensive view of innovation within and operations of both established businesses and start-up business operations. </li>
+          <li>Be application-oriented and provide experiential learning opportunities. </li>
+          <li>Provide course work in a unique area not available elsewhere on campus. </li>
+          <li>Through course work and faculty guidance, help innovative students cultivate and expand on their business ideas. </li>
+        </ol>
+        <p>The curriculum includes a two-course practicum requirement, MGT 121A and 121B Innovation to Market, that will give students the opportunity to apply their knowledge of entrepreneurial theories and innovative thinking strategies in a classroom setting. </p>
+        <h4>Entrepreneurship and Innovation Minor Requirements</h4>
+        <p>The E&amp;I minor will consist of twenty-eight total units that span the various key fundamentals of innovation development and operations. Students will be required to complete two practicum courses (eight units), three core courses (twelve units), and eight units of elective course work to be chosen from a list of options. Of the twenty-eight units required for the minor, at least twenty units must be upper division.</p>
+        <p>Practicum requirement (eight units):</p>
+        <ul>
+          <li>MGT 121A. Innovation to Market A (4)</li>
+          <li>MGT 121B. Innovation to Market B (4)</li>
+        </ul>
+        <p>Core courses (twelve units):</p>
+        <ul>
+          <li>MGT 103. Product Marketing and Management (4)</li>
+          <li>MGT 187.* New Venture Finance (4)</li>
+          <li>MGT 16 or MGT 166. Personal Ethics at Work or Business Ethics and Corporate Social Responsibility (4)</li>
+        </ul>
+        <p>Electives (eight units) will be selected from:</p>
+        <ul>
+          <li>MGT 105. Product Promotion and Brand Management (4)</li>
+          <li>MGT 106. Sales and Sales Management (4)</li>
+          <li>MGT 164. Organizational Leadership (4)</li>
+          <li>MGT 162. Negotiations (2)</li>
+          <li>MGT 128 and MGT 128R.** Innovation in Service Enterprises (4)</li>
+          <li>MGT 167.* Social Entrepreneurship (4)</li>
+          <li>MGT 491A. Venture Capital Management (4) (undergraduates may enroll in this course with department and instructor approval)</li>
+          <li>ENG 100A. Team Engineering (2)</li>
+          <li>ENG 100B. Engineering Leadership (2)</li>
+          <li>ENG 100D. Design for Development (4)</li>
+          <li> ENG 100L. Team Engineering Laboratory (2)</li>
+          <li>ENG 202. Enterprise Dynamics (4)</li>
+          <li>ENG 207. Corporate Entrepreneurship for Global Competitiveness (4)</li>
+          <li>MAE 154. Product Design and Entrepreneurship (4)</li>
+          <li>CSE 190. Successful Entrepreneurship for Microsystems (4)</li>
+          <li> BISP 194. Intro to Biotech Business (2)</li>
+        </ul>
+        <p>All courses taken for the E&amp;I minor must be taken for a letter grade. Students must earn at least a C– in each course used for the minor. Lower-division transfer credits for courses that are clearly equivalent in scope and content to lower-division Rady School courses required for the E&amp;I minor will be accepted from regionally accredited US institutions and from foreign institutions recognized by the Rady School of Management. Upper-division courses applied toward the E&amp;I minor will not count toward major requirements for another department.        </p>
+        <h3>The Supply Chain Minor</h3>
+        <p>Rady&rsquo;s Supply Chain minor curriculum combines theoretical concepts and practical skills that allow students to focus on value creation, managing relationships with diverse people in diverse functions, industries, global locations, and leveraging technology and data analytics to create the best supply chains. Globalization, technology, and changing customer expectations push the profession to seek people who can pioneer the intersections of the supply chain with the Internet of Things, social media, the cloud, and data security. The minor consists of twenty-eight total units that span the various key fundamentals of the industry.  </p>
+        <h4>Supply Chain Minor Requirements</h4>
+        <p>To fulfill the requirements of the Supply Chain minor, students must take five required courses (twenty units) and eight units of elective course work to be chosen from a select list of options. </p>
+        <p>Core Courses (twenty units)</p>
+        <ul>
+          <li>MGT 45. Principles of Accounting (4)</li>
+          <li>MGT 153. Business Analytics (4)</li>
+          <li>MGT 171. Operations Management (4)</li>
+          <li>MGT 175. Supply Chain Management (4)</li>
+          <li>MGT 176. Strategic Cost Management (4)
+            </li>
+            
+          </li>
+        </ul>
+        <p>Elective Courses (eight units)</p>
+        <ul type="disc">
+          <li>MGT 128. Innovation in Service Enterprises (4)</li>
+          <li>MGT 162. Negotiations (2)</li>
+          <li>MGT 166. Business Ethics and Corporate Social Responsibility (4)</li>
+          <li>MGT 172. Business Project Management (4)</li>
+          <li>MGT 177. Analytics and Spreadsheet Modeling in Supply Chain      Management (4) </li>
+          <li>MGT 179. Topics in Supply Chain Management (2) </li>
+        </ul>
+        <p>All courses taken for the Supply Chain minor must be taken for a letter grade. Students must earn at least a C– in each course used for the minor. Lower-division transfer credits for courses that are clearly equivalent in scope and content to lower-division Rady School courses required for the Supply Chain minor will be accepted from regionally accredited US institutions and from foreign institutions recognized by the Rady School of Management. </p>
+        <!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

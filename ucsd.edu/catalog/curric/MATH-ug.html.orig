@@ -1,0 +1,546 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Mathematics</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Mathematics </h1>
+<p class="sectionNav"><span class="courseFacLink">[ <a href="../curric/MATH-ug.html"> </a><a href="../curric/MATH-gr.html">graduate
+      program</a> | <a href="../courses/MATH.html">courses</a> | <a href="../faculty/MATH.html">faculty</a> ]</span></p>
+<p class="program-contact-info">John Muir College<br>
+  Applied Physics and Mathematics
+  Building, Room 7409<br />
+  <a href="http://math.ucsd.edu" target="_blank">http://math.ucsd.edu</a></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h2 class="program-overview-subhead-1">The Undergraduate Program </h2>
+				<p>The mathematics department offers a wide range of courses in pure and applied mathematics for its majors and for students in other disciplines. The department offers seven majors leading to the BS: mathematics, applied mathematics, mathematics—computer science, joint major in mathematics and economics, mathematics—scientific computation, mathematics—applied science and probability and statistics, and one leading to the BA: mathematics—secondary education. In addition, students can minor in mathematics or mathematics education. The department also has an Honors Program for exceptional students in any of the eight majors. See the sections on major programs and the other areas mentioned above as well as the course descriptions at the end of this section for more specific information about program requirements and the courses offered by the department. You may visit our website, <a href="http://math.ucsd.edu" target="_blank">http://math.ucsd.edu</a>, for more information, including course web pages, career advising, and research interests of our faculty. </p>
+<h3 class="program-overview-subhead-2">First-Year Courses </h3>
+				<p>Entering students must take the Mathematics Placement Exam (MPE) prior to orientation unless they have an appropriate score on an AP calculus exam, an appropriate score (600 for MATH 1A; 650 for MATH 20A) on the SAT II Math Level 2 exam, an appropriate score on the International Baccalaureate Higher Level Mathematics Exam, credit by means of a foreign exam (e.g. GCE), or transferable college credit in calculus. The purpose of the MPE is to recommend placement for entering students in MATH 3C, 4C, 10A, or 20A. Students can also receive placement into MATH 18 (Linear Algebra). For more information about the MPE (test dates, test description, sample exams, online practice tests), see the Mathematics Testing and Placement website, <a href="http://mathtesting.ucsd.edu" target="_blank">http://mathtesting.ucsd.edu</a>. </p>
+				<p>Prerequisites for MATH 3C, 4C, 10A-B-C, 18, 20A-B-C-D-E, and 31AH-BH-CH are enforced through <a href="http://tritonlink.ucsd.edu" target="_blank">TritonLink</a>. Students need to ensure that test scores and transferable college credit are submitted to the Registrar prior to enrollment through <a href="http://tritonlink.ucsd.edu" target="_blank">TritonLink</a>. </p>
+				<p>MATH 3C is the department&#8217;s preparatory course for the MATH 10 sequence, providing a review of algebraic skills, facility in graphing, and working with exponential and logarithmic functions. </p>
+				<p>MATH 4C is the department&#8217;s preparatory course for the MATH 20 sequence, providing a brief review of college algebra followed by an introduction to trigonometry and a more advanced treatment of graphing and functions. </p>
+				<p>MATH 10A-B-C is one of three calculus sequences. The students in this sequence have completed a minimum of two years of high school mathematics. This sequence is intended for majors in liberal arts and the social and life sciences. It fulfills the mathematics requirements of Revelle College and the option of the general-education requirements of Muir College. Completion of two quarters fulfills the requirement of Marshall College and the option of Warren College and Eleanor Roosevelt College. </p>
+				<p>MATH 18 (formerly numbered MATH 20F) is our lower-division course in linear algebra. This course sits outside the traditional calculus sequence (either 10A-B-C or 20A-B-C) and can be taken concurrent with any of these courses.</p>
+<p>The second first-year calculus sequence, MATH 20A-B-C, is taken mainly
+				  by students who have completed four years of high school mathematics
+				  or have taken a college level precalculus course such as MATH
+				  4C. This sequence fulfills all college level requirements met
+				  by MATH 10A-B-C and is required of many majors, including
+				  chemistry and biochemistry, bioengineering, cognitive science,
+				  economics, mathematics, molecular biology, psychology, MAE,
+				  CSE, ECE, and physics. Students with adequate backgrounds in
+				  mathematics are strongly encouraged to take MATH 20 since
+				  it provides the foundation for MATH 20D and 20E, which are required
+	    for some science and engineering majors.</p>
+<p>Certain transfers between the MATH 10 and MATH 20 sequences are possible, but such transfers should be carefully discussed with an adviser. Able students who begin the MATH 10 sequence and who wish to transfer to the MATH 20 sequence, may follow one of three paths: </p>
+				<ol>
+				  <li>Follow MATH 10A with MATH 20A, with two units of credit given
+				    for MATH 20A. This option is not available if the student
+			      has credit for MATH 10B or MATH 10C. </li>
+				  <li>Follow MATH 10B with MATH 20B, receiving two units of credit for
+			      MATH 20B. </li>
+				  <li>Follow MATH 10C with MATH 20B, receiving two units of credit for
+			      MATH 20B and two units of credit for MATH 20C (if taken). </li>
+	    </ol>
+		<p>Credit will not be given for courses taken simultaneously from the MATH 10 and the MATH 20 sequence. </p>
+				<p>The department also offers a three-quarter Honors Calculus sequence in Multivariable and Vector Calculus and Linear Algebra. This sequence, MATH 31AH-BH-CH, is designed for well-prepared students who have both a strong aptitude and a deep interest in mathematics and who wish to undertake a challenging series of courses. The sequence has a prerequisite of a score of 5 on the AP Calculus BC exam. These demanding, proof-based courses cover the material in MATH 18, 20C, and 20E respectively—and entering students with a 5 on the Calculus BC exam should consider starting in the Honors sequence if their major (or minor) program requires them to take, at least, MATH 18 and 20A-B-C. Math majors who complete the entire three-quarter honors sequence will have also satisfied the requirement of MATH 109 for their major program. They would be able to replace MATH 109 with any four-unit upper-division mathematics elective course.</p>
+				<h3 class="program-overview-subhead-2">Major Programs </h3>
+				<p>The department offers seven different majors leading to the BS: (1) mathematics, (2) applied mathematics, (3) mathematics—computer science, (4) joint major in mathematics and economics, (5) mathematics—scientific computation, (6) mathematics-applied science, and (7) probability and statistics, and one leading to the BA: (1) mathematics—secondary education. The specific emphases and course requirements for these majors are described in the following sections. All majors must obtain a minimum 2.0 grade point average in the upper-division courses used to satisfy the major requirements. Further, the student must receive a grade of C– or better in any course to be counted toward fulfillment of the major requirements. Any mathematics course numbered 100–194 may be used as an upper-division elective. (<strong>Note:</strong> 195, 196, 197, 198, 199, and 199H cannot be used toward any mathematics major.) All courses used to fulfill the major must be taken for a letter grade. No more than three upper-division courses taken externally from UC San Diego can be counted toward any major. Special exceptions may be considered via petition. </p>
+<p>It is strongly recommended that all mathematics majors review their programs at least annually with a departmental adviser, and that they consult with the Advising Office in AP&amp;M 6016 before making any changes to their programs. Current course offering information for the entire academic year is maintained on the department&#8217;s web page at <a href="http://math.ucsd.edu" target="_blank">http://math.ucsd.edu</a>. Special announcements are also emailed to all majors. </p>
+				<p>Students who plan to go on to complete a PhD in mathematics should be
+	    advised that only the best and most motivated students are admitted. Many graduate schools expect that students will have completed a full sequence of abstract algebra (MATH 100A-B-C) as well as a full sequence of analysis (MATH 140A-B-C). The advanced Graduate Record Exam (GRE) often has questions that pertain to material covered in the last quarter of analysis or algebra. In addition, it is advisable that students consider Summer Research Experiences for Undergraduates. This is a program funded by the National Science Foundation to introduce students to math research while they are still undergraduates. In their senior year or earlier, students should consider taking some graduate courses so that they are exposed to material taught at a higher level. In their junior year, students should begin to think of obtaining letters of recommendation from professors who are familiar with their abilities. </p>
+				<p><strong>Note: </strong>MATH 20D and 20E do not need to be taken in order. Math majors are strongly advised to take 18 as early as possible (i.e., it can be taken concurrent with 20A, 20B, or 20C). </p>
+				<h3 class="program-overview-subhead-2">Education Abroad </h3>
+				<p>Students may be able to participate in the UC Education Abroad Program
+				  (EAP) and UC San Diego&#8217;s Opportunities Abroad Program (OAP) while
+				  still making progress toward the major. Students interested
+				  in this option should contact the Study Abroad UC San Diego office in
+				  the Matthews Quad Building and discuss their plans with the mathematics advising
+		  officer before going abroad. </p>
+				<p>The department must approve courses taken abroad. Information on EAP/OAP
+				  can be found in the “<a href="EAP.html">Education Abroad Program</a>”
+				  section of the<em> UC San Diego
+				  General Catalog
+</em> and the website <a href="http://studyabroad.ucsd.edu/" target="_blank">http://studyabroad.ucsd.edu/</a>. </p>
+				<h3 class="program-overview-subhead-2">Major in Mathematics </h3>
+				<p>The upper-division curriculum provides programs for mathematics majors as well as courses for students who will use mathematics as a tool in the biological, physical and behavioral sciences, and the humanities. </p>
+				<h4 class="program-overview-subhead-3">Required Courses</h4>
+				<h5 class="program-overview-subhead-4">Lower Division</h5>
+				<ol>
+				  <li>One of the following sequences:</li>
+				  <ol class="lower-alpha"><li class="lower-alpha">Linear Algebra and Calculus: MATH 18 and 20A-B-C-D-E</li>
+				  <li class="lower-alpha">Honors Calculus: MATH 31AH-BH-CH, MATH 20D</li>
+	    </ol></ol>
+<h5 class="program-overview-subhead-4">Upper Division</h5>
+				<ol start=2>
+				  <li>Mathematical Reasoning: MATH 109 (<strong>Note: </strong>Students
+				    completing MATH 31AH-BH-CH may substitute a four-unit upper-division mathematics
+			      elective for MATH 109.)<br><br></li>
+				  <li>One of the following sequences:</li>
+				  <ol class="lower-alpha">
+				    <li>Foundations of Real Analysis: MATH 140A-B</li>
+				  <li>Introduction to Analysis: MATH 142A-B and MATH 120A (MATH 140A-B-C recommended
+			      for graduate school)</li></ol>
+				  <li>One of the following sequences:</li>
+				  <ol class="lower-alpha">
+				    <li class="lower-alpha">Abstract Algebra: MATH 100A-B</li>
+				  <li>Modern Applied Algebra: MATH 103A-B and MATH 102 (MATH 100A-B-C
+			      recommended for graduate school)</li></ol>
+				  <li>Upper-division electives to complete thirteen four-unit courses,
+				    chosen from any mathematics course numbered between 100 and
+				    194 (including those taken from the requirements listed above) </li>
+	    </ol>
+<p class="basic-offset-top-only">As with all departmental requirements, more advanced courses on the same material may be substituted with written approval from the departmental adviser. </p>
+				<p>To be prepared for a strong major curriculum, students should complete the last three quarters of the 20 sequence and MATH 109 before the end of their sophomore year. Either MATH 140A-B or 100A-B should be taken during the junior year. </p>
+				<h3 class="program-overview-subhead-2">Major in Applied Mathematics </h3>
+				<p>A major in applied mathematics is also offered. The program is intended for students planning to work on the interface between mathematics and other fields. </p>
+				<h4 class="program-overview-subhead-3">Required Courses </h4>
+				<h5 class="program-overview-subhead-4">Lower Division </h5>
+				<ol>
+				  <li>One of the following sequences:</li>
+				 <ol class="lower-alpha"> <li>Linear Algebra and Calculus: MATH 18 and 20A-B-C-D-E</li>
+				  <li>Honors Calculus: MATH 31AH-BH-CH, MATH 20D</li></ol>
+				  <li>Programming (one of the following): </li>
+				  <ol class="lower-alpha">
+				  <li>CSE 8A-B (Intro to Computer Sci: Java) </li>
+				  <li>CSE 11 (Intro to Computer Sci: Java, Accelerated Pace) </li>
+				  <li>ECE 15 (Engineering Computation) </li></ol>
+	    </ol>
+<h5 class="program-overview-subhead-4">Upper Division </h5>
+				<p>A total of thirteen upper-division courses are required:</p>
+				<ol start=3>
+				  <li>Mathematical Reasoning: MATH 109 (<strong>Note: </strong>Students
+				    completing MATH 31AH-BH-CH may substitute a four-unit upper-division mathematics
+			      elective for MATH 109.)</li>
+				  <li> Linear Algebra: MATH 102 or MATH 170A</li>
+			      <li>Analysis:      MATH 140A-B or MATH 142A-B </li>
+                    <li>Probability      or Statistical Methods: MATH 180A or MATH 183</li>
+                    <li>Two of      the following sequences:</li>
+                    <ol start="1" type="1">
+                      <li>Combinatorics:       MATH 154 or 158, and MATH 184 or 188</li>
+                      <li>Differential       Equations: MATH 110 and MATH 130</li>
+                      <li>Numerical       Methods: Any three from MATH 170A-B-C, 175, 179</li>
+                      <li>Optimization:       MATH 171A-B</li>
+                      <li>Probability:       MATH 180A-B-C</li>
+                      <li>Statistics:       MATH 181A-B, or any two from MATH 181D, 181F, 185, or 189</li>
+                    </ol>
+				
+                  
+                  <li>Upper-division electives to complete at least thirteen
+                    four-unit courses, chosen from any mathematics course numbered
+                    between 100 and 194 (including those taken from the requirements
+                    listed above) except </li>
+                  <ol class="lower-alpha"><li>Up to twelve units may be taken from outside the department in an approved
+                    applied mathematical area. A petition specifying the courses to be used
+                    must be approved by an applied mathematics adviser. </li>
+                    <li>MAE 107, ECON 120A-B-C, and MATH 195-199 cannot be counted toward the thirteen required courses. </li></ol>
+                </ol>
+<p class="basic-offset-top-only">To be prepared for a strong major curriculum, students should complete the last three quarters of the 20 sequence and MATH 109 before the end of their sophomore year. </p>
+				<h3 class="program-overview-subhead-2">Major in Mathematics—Scientific Computation </h3>
+				<p>This major is designed for students with a substantial interest in scientific computation. The program is a specialized applied mathematics program with a concentration in computer solutions of scientific problems. </p>
+				<h4 class="program-overview-subhead-3">Required Courses </h4>
+				<h5 class="program-overview-subhead-4">Lower Division </h5>
+				<ol>
+				  <li>One of the following sequences:</li>
+				 <ol class="lower-alpha"> <li>Linear Algebra and Calculus: MATH 18 and 20A-B-C-D-E</li>
+				  <li>Honors Calculus: MATH 31AH-BH-CH, MATH 20D</li></ol>
+				  <li>Computer Programming: ECE 15 and (CSE 8A-B or CSE 11) </li>
+				  <li>Basic Computation: MATH 15A (or CSE 20) and MATH 15B (or CSE 21)
+			      and CSE 12 </li>
+	    </ol>
+<h5 class="program-overview-subhead-4">Upper Division </h5>
+<p>A total of fifteen upper-division courses are required:</p>
+<ol start=4>
+    <li>Mathematical Reasoning: MATH 109 (<strong>Note: </strong>Students
+				    completing MATH 31AH-BH-CH may substitute a four-unit upper-division
+    mathematics elective for MATH 109.)</li>
+    <li>Linear Algebra: MATH 102 </li>
+    <li>Probability and Statistics: MATH 183 or 180A-181A (<b>Note: </b>No credit
+    for MATH 183 if MATH 180A or 181A taken prior or concurrently.) </li>
+    <li> Analysis: MATH 140A-B or 142A-B </li>
+    <li> Numerical Analysis: MATH 170A-B-C or MATH 170A-B, MATH 175 </li>
+    <li> Optimization: MATH 171A-B </li>
+    <li> Scientific Computing: MATH 179 </li>
+    <li> <p>Additional elective upper-division courses to total fifteen chosen from the following: MATH 110, 114, 120A-B, 130, 152, 155A-B, 170C, 175, or 185. </p>
+      At least fifteen upper-division mathematics
+      courses are required for the major, except </li>
+    <ol class="lower-alpha">
+	  <li>Up to three upper-division courses may be taken
+				      outside the department in an approved scientific computation area in
+				      the sciences or engineering. A petition specifying the courses to be
+        used must be approved by a mathematics—scientific computation adviser.  </li>
+	  <li>MAE 107, ECON 120A-B-C, MATH 195, 196, 197, 199, and 199H cannot
+    be counted toward the thirteen four-unit upper-division courses.</li></ol>
+    </ol>
+<h3 class="program-overview-subhead-2">Major in Mathematics—Probability and Statistics </h3>
+				
+				<p>This major is designed for students with a substantial interest in probability theory and statistics. It is useful preparation for many fields of employment as well as graduate school.</p>
+				<h4 class="program-overview-subhead-3">Required Courses</h4>
+				<h5 class="program-overview-subhead-4">Lower Division </h5>
+				<ol>
+				  <li>One of the following sequences:</li>
+				  <ol class="lower-alpha"><li>Linear Algebra and Calculus: MATH 18 and 20A-B-C-D-E</li>
+				  <li>Honors Calculus: MATH 31AH-BH-CH, MATH 20D</li></ol>
+				  <li> Programming (one of the following):</li>
+				  <ol class="lower-alpha">
+				    <li>CSE 8A-B (Java)</li>
+				  <li>CSE 11 (Java: Accelerated Pace)</li>
+				  <li>ECE 15 (Engineering Computation)</li></ol>
+	    </ol>
+<h5 class="program-overview-subhead-4">Upper Division </h5>
+<p>A total of fourteen upper-division courses are required:</p>
+<ol start=3>
+  <li> Mathematical Reasoning: MATH 109 (<strong>Note:</strong> Students
+    completing MATH 31AH-BH-CH may substitute a four-unit upper-division mathematics
+    elective for MATH 109.)</li>
+  <li>Linear Algebra: MATH 102</li>
+  <li>Analysis/Advanced Calculus: MATH 140A-B or MATH 142A-B</li>
+  <li> Probability: MATH 180A-B-C</li>
+  <li>Mathematical Statistics: MATH 181A-B</li>
+  <li>Applied/Computational Statistics: MATH 185 or MATH 189</li>
+  <li>One additional course from the following: MATH 181C-D-E-F, 185, 189, 194</li>
+  <li>
+    <p>Upper-division electives to complete fourteen upper-division courses
+      from the following list: MATH 100A-B-C, 103A-B, 110, 111A-B, 112A-B, 114, 120A-B, 130, 140C, 144, 146, 148, 152, 154, 155A, 158, 170A-B-C, 171A-B, 174, 175, 179, 181C-D-E-F, 184, 185, 187A, 188, 189, 190A, 193A-B, 194</p>
+    <p>At least fourteen four-unit upper-division mathematics courses are required,
+      except</p></li>
+  <ol class="lower-alpha"><li>Two upper-division electives may be outside the
+    department in an approved applied mathematical area. A petition approved
+    by a math adviser is required.
+    </li>
+    <li>MAE 107, ECON 120A-B-C, MATH 195-199 cannot be counted toward the
+    upper-division requirements. </li></ol>
+</ol>
+<p class="basic-offset-top-only">To be prepared for a strong major curriculum, students should complete the last three quarters of the 20 sequence and MATH 109 before the end of their sophomore year.</p>
+				<h3 class="program-overview-subhead-2">Major in Mathematics—Applied Science </h3>
+				<p>This major is designed for students with a substantial interest in mathematics and its applications to a particular field such as physics, biology, chemistry, biochemistry, cognitive science, computer science, economics, management science, or engineering. </p>
+				<h4 class="program-overview-subhead-3">Required Courses</h4>
+				<h5 class="program-overview-subhead-4">Lower Division </h5>
+				<ol>
+				  <li>One of the following sequences:</li>
+				  <ol class="lower-alpha"><li>Linear Algebra and Calculus: MATH 18 and 20A-B-C-D-E</li>
+				  <li>Honors Calculus: MATH 31AH-BH-CH, MATH 20D</li></ol>
+				  <li>Programming (one of the following is required): </li>
+				 <ol class="lower-alpha"> <li>CSE 8A-B (Intro to Computer Sci: Java) </li>
+				  <li>CSE 11 (Intro to Computer Sci: Java, Accelerated Pace) </li>
+				  <li>ECE 15 (Engineering Computation)</li></ol>
+	    </ol>
+<h5 class="program-overview-subhead-4">Upper-Division </h5>
+<p>A total of fourteen upper-division courses are required (seven courses from the Department of Mathematics and seven courses from one or two other departments):</p>
+<h5 class="program-overview-subhead-4"><em>Mathematics Requirements </em></h5>
+				<ol start=3>
+				  <li> Mathematical Reasoning: MATH 109 (<strong>Note: </strong>Students
+				    completing MATH 31AH-BH-CH may substitute a four-unit upper-division mathematics
+			      elective for MATH 109.)</li>
+				  <li>Linear Algebra: MATH 102 or MATH 170A </li>
+				  <li> Analysis: MATH 140A-B or 142A-B</li>
+				  <li>Any two-quarter, upper-division
+				    math sequence</li>
+				  <li>Upper-division electives to complete at least seven four-unit courses,
+				    chosen from any mathematics course numbered between 100 and
+				    194 (including those taken from the requirements listed above)</li>
+	    </ol>
+<h5 class="program-overview-subhead-4"><em>Applied Science Requirements</em></h5>
+				<ol start=8>
+				  <li>Seven upper-division courses selected from one or two other departments
+				    (these cannot be from mathematics). At least three of these
+				    seven upper-division courses must require calculus as a prerequisite.  </li>
+	    </ol>
+<p>Students must submit an individual plan for approval in advance by a mathematics
+  department adviser, and all subsequent changes to the plan must be approved
+  by a mathematics department adviser. </p>
+				<h3 class="program-overview-subhead-2">Major in Mathematics—Computer Science </h3>
+				<p>Graduates of this program will be mathematically oriented computer scientists who have specialized in the mathematical aspects and foundations of computer science or in the computer applications of mathematics. </p>
+				<p>A mathematics—computer science major is not allowed to also minor in computer science in the Department of Computer Science and Engineering. </p>
+<p>The detailed curriculum is given in the list below: </p>
+		<h4 class="program-overview-subhead-3">Required Courses </h4>
+				<h5 class="program-overview-subhead-4">Lower Division </h5>
+				<ol>
+				  <li>One of the following sequences:</li>
+				  <ol class="lower-alpha"><li>Linear Algebra and Calculus: MATH 18 and 20A-B-C-D-E</li>
+				  <li>Honors Calculus: MATH 31AH-BH-CH, MATH 20D</li></ol>
+				  <li>CSE 8A-B Introduction to Computer Science:
+				    Java, or CSE 11 Introduction to Computer Science: Java (Accelerated) </li>
+				  <li>Basic Data Structures and Object-Oriented Design: CSE 12 </li>
+                  <li>Software      Tools and Techniques Laboratory: CSE 15L</li>
+
+                  <li>Computer Organization and Systems Programming: CSE 30 </li>
+                </ol>
+<h5 class="program-overview-subhead-4">Upper Division</h5>
+<p>A total of fourteen upper-division courses are required:</p>
+<ol start=6>
+    <li>Mathematical Reasoning: MATH 109 (<strong>Note: </strong>Students
+				    completing MATH 31AH-BH-CH may substitute a four-unit upper-division
+    mathematics elective for MATH 109.)</li>
+    <li>Modern Applied Algebra: MATH 103A-B or Modern Algebra: MATH 100A-B </li>
+    <li>Theory of Computability: CSE 105 (<strong>Note:</strong> CSE 21 or MATH 184A or MATH 100A or MATH 103A must be taken prior to CSE 105.) </li>
+    <li>Intro to Probability: MATH 180A or 183 </li>
+    <li>Discrete      Math or Combinatorics: MATH 154 or 158 or MATH 184 or 188  </li>
+      <li>Computer      Implementations of Data Structures: CSE 100 (<strong>Note: </strong>CSE 21      or MATH 184A must be taken prior to CSE 100.) </li>
+      <li>Design      and Analysis of Algorithms: CSE 101 </li>
+      <li>Eight      units from MATH 170A-B-C, 171A-B, 174, 175, 179 </li>
+      <li>Eight      units from MATH 152, 154, 155A-B, 157, 158, 160A-B, 168A, 184, 185, 187A-B, 188, 189, CSE 110, 120-121, 130, 131, 140-140L, 141-141L, 167</li>
+      <li>Eight      additional units from any course in list #13 or #14 above or MATH 102, 104A-B, 110, 111A-B, 114, 120A-B, 130, 140A-B, 142A-B, 150A-B, 181A-B-C-D-E-F</li>
+	
+    </ol>
+		<h3 class="program-overview-subhead-2">Joint Major in Mathematics and Economics </h3>
+				<p>Majors in mathematics and the natural sciences often feel the need for a more formal introduction to issues involving business applications of science and mathematics. Extending their studies into economics provides this application and can provide a bridge to successful careers or advanced study. Majors in economics generally recognize the importance of mathematics to their discipline. Undergraduate students who plan to pursue doctoral study in economics or business need the more advanced mathematics training prescribed in this major. </p>
+				<p>This major is considered to be excellent preparation for PhD study in economics and business administration, as well as for graduate studies for professional management degrees, including the MBA. The major provides a formal framework making it easier to combine study in the two fields. </p>
+				<p>Course requirements of the Joint Major in Mathematics and Economics consist principally of the required courses of the pure mathematics major and the economics/management science major. </p>
+				<h4 class="program-overview-subhead-3">Required Courses </h4>
+				<h5 class="program-overview-subhead-4">Lower Division </h5>
+				<ol>
+				  <li>One of the following sequences:</li>
+				  <ol class="lower-alpha"><li>Linear Algebra and Calculus: MATH 18 and 20A-B-C-D (MATH 20E is not required.)</li>
+				  <li>Honors Calculus: MATH 31AH-BH, MATH 20D</li></ol>
+				  <li> Intro. to Economics: ECON 1 and 3</li>
+	    </ol>
+<h5 class="program-overview-subhead-4">Upper Division </h5>
+				<p>A total of fifteen upper-division courses are required (with a minimum of seven from each department—mathematics and economics) </p>
+<ol start=3>
+    <li>Mathematical Reasoning: MATH 109 (<strong>Note: </strong>Students
+				    completing MATH 31AH-BH-CH may substitute a four-unit upper-division
+    mathematics elective for MATH 109.)</li>
+    <li>One of the following: Applied Linear Algebra: MATH 102, Numerical
+    Linear Algebra: MATH 170A, Abstract Algebra: MATH 100A-B </li>
+    <li>One of the following: Foundations of Real Analysis: MATH 140A, Introduction to Analysis: MATH 142A </li>
+    <li>One of the following: Ordinary Differential Equations: MATH 130A,
+				    Foundations of Real Analysis: MATH 140B, Introduction to Analysis: Math
+    142B </li>
+    <li>Microeconomics: ECON 100A-B-C </li>
+    <li>Econometrics: ECON 120A-B-C or MATH 180A and ECON 120B-C or 
+    MATH 180A, 181A-B and ECON 120C </li>
+    <li>One of the following:</li>
+    <ol class="lower-alpha"><li>Macroeconomics: ECON 110A-B</li>
+    <li>Mathematical Programming: Numerical Optimization: MATH 171A-B</li></ol>
+    <p>or two courses from the following: </p>
+    <ol class="lower-alpha"><li>Decisions Under Uncertainty: ECON 171</li>
+	  <li>Introduction to Operations Research: ECON 172A-B, (<b>Note:</b> 172A is a
+    prerequisite for 172B-C.)</li></ol>
+    </ol>
+<p class="basic-offset-top-only">Other courses which are strongly recommended are MATH 130B, 181B, 193A-B and 194 and ECON 109, 113, 175, and 178. </p>
+				<h3 class="program-overview-subhead-2">Major in Mathematics—Secondary Education </h3>
+				<p>This major offers excellent preparation for teaching mathematics in secondary schools. Students interested in earning a California teaching credential from UC San Diego should contact the Education Studies Program (EDS) for information regarding prerequisites and requirements. It is recommended you contact EDS as early as possible. </p>
+				<h4 class="program-overview-subhead-3">Required Courses </h4>
+                <h5 class="program-overview-subhead-4">Lower Division				</h5>
+                <ol>
+				  <li>One of the following sequences:</li>
+				 <ol class="lower-alpha"> <li>Linear Algebra and Calculus: MATH 18 and 20A-B-C-D-E.</li>
+				  <li>Honors Calculus: MATH 31AH-BH-CH, MATH 20D</li></ol>
+	    </ol>
+<p>Recommended: </p>
+				<ol start=2>
+				  <li>One of the following programming courses/sequences:</li>
+				  <ol class="lower-alpha"><li> Introduction to Computer Science: Java: CSE 8A-B or CSE 11</li>
+				  <li>Engineering      Computation: ECE 15 </li></ol>
+        </ol>
+<h5 class="program-overview-subhead-4">Upper Division</h5>
+<p>A total of thirteen upper-division courses are required:</p>
+<ol start=3>
+    <li>Mathematical Reasoning: MATH 109 (<strong>Note: </strong>Students
+				    completing 31AH-BH-CH may substitute a four-unit upper-division mathematics
+    elective for MATH 109.)</li>
+    <li>Number Theory: MATH 104A or 105</li>
+    <li>History of Mathematics: MATH 163 </li>
+    <li>Practicum      in Learning/Research: EDS 129A-B-C (can use EDS 136 and EDS 138 instead of      EDS 129A) for K–12 mathematics teaching or EDS 136-140-141 for K–12 mathematics      research</li>
+		
+    <li>One of the following: Computer Graphics:
+                    MATH 155A, Numerical Linear Algebra: MATH 170A, Intro.
+    to Cryptography: MATH 187A</li>
+    <li>One of the following: Intro. to Probability: MATH 180A, Statistical
+    Methods: MATH 183 </li>
+    <li> One of the following: Differential Geometry: MATH 150A, Geometry for Secondary Teachers: MATH 153, Foundations of Topology I: MATH 190A </li>
+    <li>One of the following: Abstract Algebra: MATH 100A, Applied Linear
+    Algebra: MATH 102, Modern Applied Algebra: MATH 103A </li>
+    <li>One of the following: Foundations of Real Analysis: MATH 140A, Introduction to Analysis: MATH 142A </li>
+    <li>
+      Upper-division courses must total thirteen courses. Upper-division
+      courses must include at least one two-quarter sequence from
+      the following list: <br />
+      100A-B; 103A-B, 103A-102; 104A-B; 110-120A; 110-130; 112A-B; 120A-B; 120A-130; 140A-B; 142A-B; 150A-B; 154-184; 154-188; 155A-B; 158-184; 158-188; 160A-B; 170A-B; 170A-175; 170A-171A; 170A-179; 171A-B; 180A-B; 180A-181A; 190A-B; 193A-B</li>
+    </ol>
+<h3 class="program-overview-subhead-2">Minor in Mathematics </h3>
+				<p>The minor in mathematics consists of seven or more courses. At least four of these courses must be upper-division courses taken from the UC San Diego Department of Mathematics. Acceptable lower-division courses are MATH 18 (or 31AH), 20D, and 20E (or 31CH).</p>
+				<p>MATH 195, 196, 197, 198, 199, and 199H are not acceptable courses for the mathematics minor. A grade of C– or better (or P if the Pass/Not Pass option is used) is required for all courses used to satisfy the requirements for a minor. There is no restriction on the number of classes taken with the P/NP option. No more than eight units of upper-division courses may overlap between major and minor programs.  </p>
+				<h3 class="program-overview-subhead-2">Minor in Mathematics Education</h3>
+				<p>The mathematics education minor offered through the Education Studies program is intended for students interested in understanding how people learn mathematics, including: students considering K-12 teaching as a career; students interested in teaching at the college level; and students who are interested in becoming better, more reflective learners. All majors are welcome, but the Calculus 10 or 20 sequence is a prerequisite for two of the upper-division courses required for the minor. For more information contact Education Studies: <a href="http://eds.ucsd.edu/explore/undergraduate/minors.html" target="_blank">http://eds.ucsd.edu/explore/undergraduate/minors.html.</a></p>
+<h3 class="program-overview-subhead-2">Mathematics Honors Program </h3>
+				<p>The Department of Mathematics offers an honors program for those students who have demonstrated excellence in the major. Successful completion of the honors program entitles the student to graduate with departmental honors (see Department Honors in the Academic Regulations section). </p>
+				<h4 class="program-overview-subhead-3">For Mathematics, Applied Mathematics, Mathematics—Scientific Computation, Mathematics—Applied Science, Mathematics—Secondary Education, Mathematics—Computer Science, and Probability and Statistics Majors </h4>
+				<h5 class="program-overview-subhead-4">Requirements for admission to the
+				  program are</h5>
+				<ol>
+				  <li>Junior standing </li>
+				  <li>An overall GPA of 3.0 or higher </li>
+				  <li>A GPA in the major of 3.5 or higher </li>
+				  <li> Completion of MATH 109 (Mathematical Reasoning) or MATH 31CH (Honors
+				    Vector Calculus) and at least one of MATH 100A, 103A, 140A,
+			      or 142A. (Completion of additional major courses is strongly recommended.) </li>
+	    </ol>
+		<p class="basic-offset-top-only">Applications to the program should be made the spring quarter before the student is at senior standing. </p>
+				<p>Completion of the honors program requires the following: </p>
+				<ol>
+				  <li>At least one quarter of the student colloquium, MATH 196 (<b>Note:</b> MATH 196 is only offered in the fall quarter.) </li>
+				  <li>The minimum 3.5 GPA in the major must be maintained </li>
+				  <li>An Honors Thesis. The research and writing of the thesis will be
+				    conducted over at least two quarters of the junior/senior
+				    years under the supervision of a faculty adviser. This research will
+				    be credited as eight to twelve units of MATH 199H. The completed thesis
+				    must be approved by the department&#8217;s Honors Committee, and presented orally
+			      at the Undergraduate Research Conference or another appropriate occasion. </li>
+	    </ol>
+        <p>The department&rsquo;s Honors Committee will determine the level of honors to be awarded, based on the student&rsquo;s GPA in the major and the quality of the honors work. Applications for the mathematics department&rsquo;s Honors Program can be obtained at the mathematics department Undergraduate Affairs Office (AP&amp;M 7409) or the Mathematics Advising Office. Completed applications can be returned to the Mathematics Advising Office. </p>
+        <h4 class="program-overview-subhead-3">For Joint Mathematics and Economics Majors</h4>
+				<h5 class="program-overview-subhead-4">To graduate with honors requires the following:</h5>
+				<ol>
+				  <li>At least one quarter of the Student Colloquium, MATH 196 (<b>Note:</b> MATH 196 is only offered in the fall quarter.) </li>
+				  <li>At least one Economics honors course: ECON 100AH, 100BH, 110AH, 110BH,
+				    120AH, 120BH, 120CH. <b>Note:</b> Enrollment in these honors classes
+				    is by special permission; check with the undergraduate advisers in the
+			      Economics Student Services Office (SH 245). </li>
+				  <li>An Honors Thesis. The research and writing of the thesis will be
+				    conducted over two quarters of the senior year under the
+				    supervision of a faculty adviser. The completed thesis must be approved
+				    by the Joint Mathematics and Economics Honors Committee, which comprises
+				    the Mathematics Honors Committee and the Economics Honors Committee,
+				    and presented orally at the Undergraduate Research Conference or another
+				    appropriate occasion. </li>
+				  <ol class="lower-alpha">
+				    <li>If the student is a declared major in the mathematics
+				      department (MA33), this thesis will be credited as eight units of MATH
+				      199H. Enrollment in MATH 199H is by special permission; check with
+				      the advisers in the mathematics department Undergraduate Affairs Office
+			        (AP&amp;M 7409) or the Mathematics Advising Office.</li>
+				  <li>If the student is a declared major in the economics department (EN28),
+				    the student must enroll in ECON 191A-B. Enrollment in Econ
+				    191 is by special permission; check with the undergraduate advisers in
+			      the Economics Student Services Office (SH 245).</li></ol>
+				  <li>A minimum GPA of 3.0 overall, 3.5 in the upper-division courses required
+				    for the major and a 3.5 in the following four classes: MATH 196, Economics
+			      Honors class and either ECON 191A-B or two quarters of MATH 199H. </li>
+	    </ol>
+<p>The Joint Mathematics and Economics Honors Committee will determine the level of honors to be awarded, based on the student&#8217;s GPA in the major and the quality of the honors work.</p>
+				<h3 class="program-overview-subhead-2">Duplication of Credit </h3>
+				<p>Information on duplication of credit (both full and partial) can be found in the course descriptions. It is the student&#8217;s responsibility to be aware of the credit restrictions listed.</p>
+				<h4 class="program-overview-subhead-3">Faculty Advisers </h4>
+		  <p>Advisers change yearly. Contact the undergraduate office at (858) 534-3590 for current information. </p><!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

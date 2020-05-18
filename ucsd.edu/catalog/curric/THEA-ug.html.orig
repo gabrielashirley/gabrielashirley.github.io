@@ -1,0 +1,391 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Theatre and Dance</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Theatre and Dance </h1>
+<p class="sectionNav"> <span class="courseFacLink">[ <a href="../curric/THEA-ug.html"> </a><a href="../curric/THEA-gr.html">graduate
+      program</a> | <a href="../courses/THEA.html">courses</a> | <a href="../faculty/THEA.html">faculty</a> ]</span></p>
+<p class="program-contact-info">202 Galbraith Hall, Revelle College<br />
+(858) 534-3619<br />
+<a href="http://theatre.ucsd.edu" target="_blank">http://theatre.ucsd.edu</a> </p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h2 class="program-overview-subhead-1">The Undergraduate Program </h2>
+				<p>The curriculum of the Department of Theatre and Dance is based on the belief that a good undergraduate education in theatre or dance should provide the student with a solid background in dramatic literature and the aesthetics and history of theatrical performance as well as exposure to the different artistic components of theatrical art—performance, playwriting, design, and choreography. </p>
+				<p>In addition to providing an integrated program for students desiring a theatre or dance major, the curriculum provides a sequence of courses to fulfill the fine arts and/or humanities requirements for Muir College; courses fulfilling Warren College&#8217;s program of concentration requirements; courses to fulfill Revelle, Thurgood Marshall, and Eleanor Roosevelt Colleges&#8217; fine arts requirements; public speaking courses to fulfill requirements in the Schools of Engineering and Pharmacy; and elective courses for the general student desiring experience in theatre or dance. </p>
+				<p>Any student who has been accepted to the University of California San Diego is eligible to declare theatre or dance as a major, double major, or minor. Auditions are not required. Continuing UC San Diego students who are changing their major to theatre or dance must file a Change of Major form with the UC San Diego Registrar&#8217;s Office. </p>
+				<h3 class="program-overview-subhead-2">Department of Theatre and Dance Advising </h3>
+				<p>The department&#8217;s undergraduate faculty advisers can provide guidance and answers to students&#8217; questions concerning specific course content, transfer course work, honors research projects, academic success, production, auditioning procedures, postgraduate opportunities, and departmental policy changes. </p>
+				<p>The undergraduate coordinator can answer students&#8217; questions regarding major requirements, procedural matters, class enrollment, and the petition process, and give referrals to faculty and other campus resources for specific information. </p>
+				<p>Undergraduate student representatives are another important resource for theatre and dance majors. The student reps organize quarterly meetings at which students and faculty discuss departmental issues and concerns. </p>
+				<p>The department regularly communicates with the majors and minors, as well as other students involved in classes and productions, through the campus email and listserv systems. Students are strongly urged to check their campus email accounts for timely messages or to make arrangements with Academic Computing Services to have campus email forwarded to any other email account they may use. Additionally, a handbook containing useful information is available in the department office, Room 202, Galbraith Hall. </p>
+				<h3 class="program-overview-subhead-2">Programs Abroad</h3>
+				<p>The department encourages students to enrich their undergraduate experience
+				  by studying abroad. Students majoring in theatre and/or dance
+				  are encouraged to participate in the Education Abroad Program
+				  (EAP) and to investigate other options of foreign study through
+				  the Opportunities Abroad Program (OAP). By petition, credits
+				  earned through EAP/OAP can fulfill UC San Diego degree and major requirements.
+				  Please visit the Study Abroad UC San Diego website at <a href="http://studyabroad.ucsd.edu/" target="_blank">http://studyabroad.ucsd.edu/ </a>for
+				  further details. Financial aid is applicable and special study
+		  abroad scholarships are readily available. </p>
+				<p>The Department of Theatre and Dance will accept a maximum of three courses per semester abroad, and students are encouraged to take courses abroad that will fulfill major elective requirements. Please meet with the undergraduate coordinator prior to the EAP/OAP application deadline. </p>
+				<h3 class="program-overview-subhead-2">The Theatre Major </h3>
+				<p>The theatre major provides a student with a solid artistic and academic background. The required lower-division courses equip the student with the skills and knowledge necessary for more advanced work in each of the areas of study. The major is structured to respond to the needs of students who seek a broad-based liberal arts education in theatre as well as those who plan to pursue their studies at the graduate level with the aim of acquiring either an MFA or a PhD degree. Students should meet with the department&#8217;s undergraduate coordinator during the quarter in which they declare a theatre major in order to plan an appropriate individual course of study. </p>
+				<p>The major requirements are those published in the catalog in effect for the first quarter that a first-year student attends UC San Diego; transfer students will be held to the catalog requirements two years previous to their first quarter at UC San Diego. Any student in good standing may declare a theatre major by completing a Change of Major form and delivering it to the Registrar&#8217;s Office. A department stamp is not required. </p>
+				<h3 class="program-overview-subhead-2">The Dance Major </h3>
+				<p>The dance major offers students an opportunity to specialize their training in the creative, aesthetic, and conceptual discipline of dance as a contemporary art form, within the context of a broad undergraduate education. The dance major allows students to study a range of techniques and dance practices that include traditional and contemporary forms, world dance, somatic movement approaches, dance making, history, and theory. Our program emphasizes innovation and interdisciplinary collaboration, encourages hybridization of dance vocabularies, and aims to push forward the boundaries of dance as a culturally and aesthetically diverse art form. Integral to the practice and appreciation of dance is relationship, interaction, and exchange with others, both physically and intellectually. Our program fosters an open, respectful, imaginative, inventive, and noncompetitive approach to all areas of practice, and encourages students to be self-motivated, rigorous, proactive, and reflective to prepare them for the demands of a variety of professional careers. </p>
+                <p>Dance students have the opportunity to perform in two fully produced dance concerts in each academic year:<em> WinterWorks</em> in winter quarter features choreography by faculty and guest artists. In spring quarter, students perform in the experimental choreographic works of other students in the <em>New Directions</em> concert. </p>
+                <p>The major requirements are those published in the catalog in effect for the first quarter that a first-year student attends UC San Diego; transfer students will be held to the catalog requirements two years previous to their first quarter at UC San Diego. Any student in good standing may declare a theatre major online through <a href="http://tritonlink.ucsd.edu" target="_blank">TritonLink</a>. A department stamp is not required. </p>
+<h3 class="program-overview-subhead-2">The Theatre-Dance Double Major </h3>
+				<p>The double major in theatre and dance provides students with a solid academic and artistic base in both theatre and dance disciplines. Furthermore, requirements for this double major will create stronger and more experienced directors (for their exposure to choreography), choreographers (for their exposure to directing), actors (for the poise and strength they will attain from dance), and dancers (for having confronted text and character). </p>
+				<p>Students should meet with the department&#8217;s undergraduate coordinator as soon as practical (but no later than the quarter in which they declare the major) in order to plan an appropriate individual course of study. </p>
+				<p>Double majors should complete the Petition for Double Major form obtained from their college and submit it to the department for review and approval. </p>
+				<h3 class="program-overview-subhead-2">The Theatre Minor</h3>
+				<p>The theatre minor consists of seven theatre courses, one of which is the Practicum. It is recommended that students declare the theatre minor as soon as possible as priority enrollment in the Practicums is given to majors and minors. </p>
+				<h3 class="program-overview-subhead-2">The Dance Minor</h3>
+				<p>The dance minor consists of seven courses, one of which is the Practicum. The dance minor will provide a balanced educational experience for the student who has a strong interest in dance but who wishes to major in another area of study. The minor provides movement courses in ballet, jazz, hip-hop, contemporary, and various world dance perspectives. It is recommended that students declare the dance minor as soon as possible as priority enrollment in Practicum is given to majors and minors.</p>
+				<h3 class="program-overview-subhead-2">Satisfying Your Major Requirements </h3>
+				<p>Fifty percent of all course work required for the theatre or dance major (including both upper- and lower-division courses) must be taken at UC San Diego, regardless of approved transfer work and petitions. Theatre practicum (TDPR) classes completed elsewhere do not satisfy the theatre and dance department&#8217;s requirements unless they have been formally petitioned and approved. Only one practicum class from another institution may be petitioned. All courses required for the major or minor must be taken for a letter grade. A theatre and dance department course for which a student earns a grade lower than C– will not satisfy any of the department&#8217;s graduation requirements. Four units of Instructional Assistance (TDGE 195, P/NP credit) may be used as an upper-division elective for the theatre major, double major, or minor. Courses taken outside the Department of Theatre and Dance will not satisfy core or elective major requirements. </p>
+				<h3 class="program-overview-subhead-2">Major Requirements </h3>
+				<p>Theatre majors are required to complete ten lower-division courses. Dance majors are required to complete three lower-division courses. All lower-division courses should be satisfied before starting upper-division course work in the respective areas. </p>
+				<p>Theatre and dance majors and minors should complete a Practicum course—TDPR 6—within three quarters of declaring their major or minor. Theatre majors should plan to complete their second Practicum requirement as soon as possible thereafter, as space in these classes is limited. The second Practicum course must be in an area different from the initial Practicum course.</p>
+				<p>Theatre History 10, 21, 22, and 23 are prerequisites for most upper-division theatre history and theory courses. Introduction to Acting (TDAC 1), Theatre Design (TDDE 1), and Theatre Playwriting (TDPW 1) are all prerequisites for any upper-division course work in their respective areas. Students should take these classes as soon as possible after declaring their major. Prerequisites ensure that students are properly prepared for the work required. </p>
+				<h4 class="program-overview-subhead-3">The Theatre Major </h4>
+				<p>Please refer to the major requirements section for an overview of the theatre major.</p>
+		<h5 class="program-overview-subhead-4">Lower-Division Requirements </h5>
+				<ol>
+				  <li>Two courses selected from<br />
+			        <span class="course-list-overview">TDPR 6. Theatre Practicum<br />
+			        </span></li>
+				  <li>Each of the following: <br />
+			        <span class="course-list-overview">TDHT 10. Introduction to Play Analysis<br />
+			      TDHT 21. Ancient and Medieval Theatre<br />
+		          TDHT 22. Theatre 1500–1900<br />
+			      TDHT 23. Twentieth-Century Theatre</span></li>
+				  <li><strong>TDGE 1. Introduction to Theatre </strong></li>
+				  <li>Each of the area threshold classes: <br>
+                  <ol class="lower-alpha">
+				  <li class="course-list-overview">TDAC 1. Introduction to Acting</li>
+				  <li class="course-list-overview">TDDE 1. Introduction to Design</li>
+				  <li class="course-list-overview">TDPW 1. Introduction to Playwriting
+				    </li></ol><p>
+                  <strong>Note:</strong> The threshold
+				    classes listed above must be completed before taking upper-division courses
+			      in their respective areas. </p></li></ol>
+				  
+				    <h5 class="program-overview-subhead-4">Upper-Division Requirements </h5>
+			      
+<ol start=5><li>One upper-division four-unit acting course </li>
+				  <li>One upper-division four-unit design course </li>
+				  <li>One upper-division four-unit directing course </li>
+				  <li>One upper-division four-unit playwriting course </li>
+				  <li>One upper-division four-unit stage management course </li>
+				  <li>Three upper-division four-unit theatre history courses </li>
+				  <li> Four upper-division four-unit theatre electives </li></ol>
+	    
+<p class="basic-offset-top-only"><strong>Note:</strong> TDGE 197 and 199 may not be used as upper-division electives by theatre majors unless approved by petition. </p>
+				<h4 class="program-overview-subhead-3">The Dance Major </h4>
+		<h5 class="program-overview-subhead-4">Lower-Division Requirements </h5>
+				<ol>
+			      <li class="course-list-overview">TDDM 1. Introduction to Dance Making</li>
+                    <li class="course-list-overview">TDDM 5. Site Specific Dance and      Performance</li>
+                    <li class="course-list-overview">TDHD 20. Looking at Dance</li>
+                    <li class="course-list-overview">TDHD 21. Dance Pioneers of the Twentieth-      and Twenty-First Centuries</li>
+                    <li class="course-list-overview">TDMV 20. Movement Laboratory</li>
+                    <li class="course-list-overview">TDPR 6. Theatre Practicum</li>
+                    <li class="course-list-overview">TDTR 10. Introduction to Dancing</li>
+                    <li class="course-list-overview">TDTR 15. Dance Movement and Analysis</li>
+                    <li class="course-list-overview">TDTR 20. Dance on Film </li>
+		
+                </ol>
+				<h5 class="program-overview-subhead-4">Upper-Division Requirements </h5>
+				<ol start=10>
+				  <li class="course-list-overview">
+				    TDTR 104. Dance Theory and Pedagogy </li>
+					<li class="course-list-overview">TDDM 100. Dance Making 1</li>
+					<li class="course-list-overview">TDDM 101. Dance Making 2</li>
+				  <li>One dance history course chosen from: <br>
+				      <span class="course-list-overview">TDHD 175. Cultural Perspectives on World Dance<br>
+						  TDHD 176. Dance History—Special Topics<br></span></li>
+				  <li>Four core movement courses chosen from: (<em>the courses below may be repeated up to six times for credit</em>) <br>
+				      <span class="course-list-overview">TDMV 120. Intermediate Contemporary Dance<br>
+						  TDMV 122. Advanced Contemporary Dance </p></span></li>
+                 
+                      <li>Four elective courses chosen from: (<em>the courses below may be repeated up to      three times for credit</em>) <br>
+                        <span class="course-list-overview">TDMV 110. Intermediate Ballet<br>
+                        TDMV 111. Advanced Ballet<br>
+                        TDMV 112. Advanced Ballet for Contemporary Dance</br>
+                    TDMV 123. Contact Improvisation<br>
+                      TDMV 133. Advanced Jazz<br>
+                      TDMV 141. Advanced Dances of the World<br>
+                      TDMV 142. Latin Dance of the World<br>
+                      TDMV 143. West African Dance <br>
+                      TDMV 144. Asian Dance <br>
+                      TDMV 146. Intermediate Latin Dances of the World<br>
+                      TDMV 148. Intermediate Hip-Hop<br>
+						  TDMV 149. Advanced Hip-Hop</span></li>
+	    </ol>
+				<h4 class="program-overview-subhead-3">Theatre and Dance Double Major </h4>
+		<h5 class="program-overview-subhead-4">Lower-Division Requirements </h5>
+				<ol>
+				  <li><span class="course-list-overview">TDPR 6. Theatre Practicum</span></li>
+				  <li><strong>TDAC 1. Introduction to Acting </strong></li>
+				  <li><strong>TDDM 1. Introduction to Dance Making</strong></li>
+				  <li><span class="course-list-overview">TDDE 1. Introduction to Design</span></li>
+				  <li><span class="course-list-overview">TDPW 1. Introduction to Playwriting</span></li>
+        </ol>
+				<h5 class="program-overview-subhead-4">Upper-Division Requirements </h5>
+				<ol start=6>
+				  <li>One upper-division four-unit acting course </li>
+				  <li>One upper-division four-unit design course </li>
+				  <li>One upper-division four-unit directing course </li>
+				  <li>One upper-division four-unit playwriting course </li>
+				  <li>One upper-division four-unit stage management course </li>
+				  <li>Six upper-division four-unit theatre and dance history courses
+				    (TDHT 114 required as one of the six upper-division history
+				    courses) </li>
+			      <li><strong>TDTR 104. Dance Theory and      Pedagogy </strong></li>
+                  <li><strong>TDDE 121. Theatre Process: Lighting </strong></li>
+                  <li><strong>TDDM 100. Dance Making 1</strong></li>
+                    <li><strong>TDDM 101. Dance Making 2</strong></li>
+                    <li>Two movement courses in <strong>TDMV      122. Advanced Contemporary Dance</strong></li>
+                    <li>Two<strong> </strong>advanced movement courses from any of the following:<br>
+                     
+                      <span class="course-list-overview"> TDMV 111. Advanced Ballet <br>
+                      TDMV 123. Contact Improvisation <br>
+                      TDMV 133. Advanced Jazz<br>
+					  TDMV 149. Advanced Hip-Hop</span></li>
+				
+                  <li>One elective movement      course from any of the following: </br>
+                    <span class="course-list-overview"> 
+                    TDMV 142. Latin Dance of the World<br>
+                  TDMV 143. West African Dance <br>
+                  TDMV 144. Asian Dance <br>
+                  TDMV 146. Intermediate Latin Dances of the World</br>
+                    </span>
+              
+        </ol>
+				<p class="basic-offset-top-only"><strong>Note: </strong>TDGE 197 and 199 may not be used as upper-division electives by theatre and dance majors unless approved by petition. </p>
+				<h3 class="program-overview-subhead-2">The Theatre Minor </h3>
+				<p>Minors must be declared online at <a href="http://tritonlink.ucsd.edu" target="_blank">TritonLink</a>. Minor courses may not be taken on a Pass/Not Pass basis. </p>
+<p>The minor requirements are those published in the catalog in effect for the first quarter that a first-year student attends UC San Diego; transfer students will be held to the catalog requirements two years previous to their first quarter at UC San Diego. </p>
+		<h4 class="program-overview-subhead-3">Lower-Division Requirements </h4>
+				<ol>
+				  <li>One course from <br />
+			        <span class="course-list-overview">TDPR 6. Theatre Practicum</span></li>
+				  <li>One course from the following list: <br />
+				    <span class="course-list-overview">TDHT 21. Ancient Medieval Theatre<br />
+			      TDHT 22. Theatre 1500–1900<br />
+			      TDHT 23. Twentieth-Century Theatre<br />
+			      TDAC 1. Introduction to Acting<br />
+			      TDDE 1. Introduction to Design<br />
+			      TDPW 1. Introduction to Playwriting </span></li>
+	    </ol>
+				<h4 class="program-overview-subhead-3">Upper-Division Requirements </h4>
+				<ol start=3>
+				  <li>Any five four-unit, upper-division theatre courses chosen from the
+				    following subjects: TDAC, TDDE, TDDR, TDGE, TDHT, TDPR, TDPW. </li>
+	    </ol>
+<h3 class="program-overview-subhead-2">The Dance Minor </h3>
+				<p>Minors must be declared online at <a href="http://www.ucsd.edu/current-students/index.html" target="_blank">TritonLink.</a> Minor courses may not be taken on a Pass/Not Pass basis. </p>
+<p>The minor requirements are those published in the catalog in effect for the first quarter that a first-year student attends UC San Diego; transfer students will be held to the catalog requirements two years previous to their first quarter at UC San Diego. </p>
+				<h4 class="program-overview-subhead-3">Dance Minor Requirements </h4>
+		<h5 class="program-overview-subhead-4">Lower-Division Requirements </h5>
+				<ol>
+				  <li><span class="course-list-overview">TDPR 6. Theatre Practicum</span></li>
+				  <li><strong>TDTR 10. Introduction to Dance</strong></li>
+	    </ol>
+				<h5 class="program-overview-subhead-4">Upper-Division Requirements </h5>
+				<ol start=3>
+				  <li>One dance making course from the following:<br />
+		            <span class="course-list-overview">TDDM 100. Dance Making 1<br>
+					  TDDM 101. Dance Making 2 </br>
+		            </span>
+				 
+                  
+                  <li>Two contemporary movement      courses from the following: (e<em>ach      class may be taken up to six times for credit)</em><br>
+                    <span class="course-list-overview">TDMV 120. Intermediate Contemporary Dance<br>
+                    TDMV 122. Advanced Contemporary Dance </span></li>
+				
+                  <li>Two elective movement courses from the following: (<em>each class may be taken up to three times for credit)</em><br />
+                  <span class="course-list-courses">TDMV 110. Intermediate      Ballet<br>
+                    TDMV 111. Advanced Ballet<br>
+                    TDMV 112. Advanced Ballet for Contemporary Dance<br> 
+                TDMV 123. Contact Improvisation<br>
+                  TDMV 133. Advanced Jazz<br>
+                  TDMV 141. Advanced Dances of the World<br>
+                  TDMV 142. Latin Dance of the World<br>
+                  TDMV 143. West African Dance <br>
+                  TDMV 144. Asian Dance <br>
+                  TDMV 146. Intermediate Latin Dances of the World<br>
+                  TDMV 148. Intermediate Hip-Hop<br>
+					  TDMV 149. Advanced Hip-Hop</p></span></li>
+           
+                </ol>
+				<h4 class="program-overview-subhead-3">Honors Program </h4>
+				<p>The department offers a special program of advanced study for outstanding undergraduates majoring in theatre or dance. Successful completion of the Honors Program enables the student to graduate With Highest Distinction (A+), With High Distinction (A), or With Distinction (A–), depending upon performance in the program. </p>
+		<h4 class="program-overview-subhead-3">Eligibility </h4>
+				<ol>
+				  <li>Junior standing (ninety units or more completed) </li>
+				  <li>3.7 GPA or better in the major </li>
+				  <li>3.5 GPA or better overall, which student must maintain until final
+				    graduation </li>
+				  <li>Completion of at least four upper-division theatre courses </li>
+				  <li>Recommendation of a faculty sponsor who is familiar with the student&#8217;s
+				    work </li>
+	    </ol>
+				<h4 class="program-overview-subhead-3">Guidelines</h4>
+				<p>Application to the Honors Program may be made upon completion of ninety units or no later than the fifth week of the quarter preceding the final two quarters before graduation. The Undergraduate Committee will consider the application and, if approved, the student and the principal adviser will have the responsibility of proposing an Honors Thesis Committee to the Undergraduate Committee for final approval. </p>
+				<p>Students are required to take TDGE 196A, Honors Studies in Theatre, and 196B, Honors Thesis in Theatre, in addition to the thirteen upper-division required courses for the major. TDGE 196A-B are to be taken consecutively and may not be taken concurrently. </p>
+				<h4 class="program-overview-subhead-3">Placement and Proficiency for Dance Majors </h4>
+				<p>The technical command and the expansion of a vocabulary of movement are essential to the dancer&#8217;s creative expression. The faculty advise new students in dance to participate in beginning dance in all areas for a minimum of one year, as well as enrolling in TDTR 10, Introduction to Dance. These courses are designed to give the student the basic information needed to move on to the intermediate level. Students should remain in this level for a minimum of one year unless the instructor encourages them to move up to the advanced level. All students are required to audition and be approved by the faculty to be enrolled in advanced dance courses. If you come to UC San Diego with a background in dance and would like to take an advanced class, you need to audition in the class of your choice on the first day of the class meeting so that the teacher can accept you in the class or recommend another more appropriate class. </p>
+				<h4 class="program-overview-subhead-3">Undergraduate Student Petitions </h4>
+				<p>Undergraduate student petitions are required whenever an exception to a rule is being requested. They are required for major or minor requirement substitutions, substitution of courses from other departments or institutions, late course adding or dropping, or requesting a retroactive incomplete grade. Students should submit petitions for course substitutions well in advance of taking the course. If they have difficulty with the form, students should have the Department of Theatre and Dance undergraduate coordinator assist them with the petition process to ensure that the petition is complete and well documented. </p>
+				<h4 class="program-overview-subhead-3">Receiving Transfer Credit </h4>
+				<p>Students must petition the department to substitute courses taken in another department or institution for courses required by the Department of Theatre and Dance. The following procedures and guidelines will help students with the transfer petition process. </p>
+				<p>First, review the Department of Theatre and Dance residency requirement. It is generally a good idea to petition a course before taking it. The Department of Theatre and Dance undergraduate coordinator will review petitions for all transfer courses. Students may obtain a General Undergraduate Student Petition form on <a href="http://tritonlink.ucsd.edu" target="_blank">TritonLink</a>. A detailed syllabus for the course to be evaluated must be attached to the completed petition form. Any petition relating to courses within the Department of Theatre and Dance should be dropped off at the main office during normal business hours. </p>
+				<p>Transfer credits must be accepted by the Admissions Office at the appropriate level and for the appropriate number of units for the substitution to be effective. Upper-division credit cannot be given for lower-division work. Course work done at a junior college can only transfer to UC San Diego as lower-division credit. </p>
+				<h4 class="program-overview-subhead-3">Theatre and Dance Performance and Production Opportunities </h4>
+				<p>The Department of Theatre and Dance produces undergraduate productions throughout the academic year. These productions range in scale from student directed “black box” productions to full-scale faculty directed undergraduate productions on the main stage. Every effort is made to provide a faculty directed opportunity for undergraduates each quarter. </p>
+				<p>Each of these productions is staged with undergraduate actors and dancers. Historically, where there are design assignments to be made (sets, costumes, lights, sound), those assignments are given to qualified undergraduates. Upper-division credit is available for students involved in the design or staging of department productions. Students may not work on department productions unless they are formally enrolled in a related class. Information regarding design and advanced crew opportunities is typically available from the design faculty or may be posted on the bulletin board in the lobby of Galbraith Hall as opportunities arise. </p>
+				<h5>Studio Projects </h5>
+        <p>Studio projects are independent productions that are produced by students in department space. Students may submit proposals for studio projects one quarter in advance to the production manager. The studio project policy is subject to revision on a quarterly basis. Please check at the front desk for details and deadlines. </p>
+                <h5 class="program-overview-subhead-4">Undergraduate Audition Policy </h5>
+				<p>Undergraduates are encouraged to audition for all shows produced in the
+				  department. Auditions are typically held in the quarter preceding the staging
+				  of a production. Audition announcements will be posted on the bulletin
+				  board in the lobby of Galbraith Hall. Undergraduates who have completed
+				  or are currently enrolled in TDAC 1, Introduction to Acting are eligible
+				  to audition. Qualified undergraduates may audition for roles in graduate
+				  productions as they are available. </p>
+				<h5 class="program-overview-subhead-4">UC San Diego Dance Repertory </h5>
+				<p>This repertory is open to dance students through auditions. The company will perform lecture-demonstrations, and performances, and teach master classes in the community or at other UC campuses. </p>
+				<h5 class="program-overview-subhead-4">Annual Dance Concerts </h5>
+				<p>Two undergraduate dance concerts are presented each year. In winter quarter&rsquo;s <em>winterWORKS</em> concert, students perform choreography created by professional faculty and guest artists in Mandell Weiss Center for the Performing Arts, Forum Theatre, or the Potiker Theatre. In spring quarter&rsquo;s <em>New Directions</em> student dance concert, students perform the faculty-directed experimental choreographic works for other students at the Potiker Theatre. In addition, smaller productions, student cabarets, and honors thesis projects take place in our intimate Studio Theatre, located in the dance facility. Undergraduate students also have opportunities to perform in works created by our MFA dance students as part of the second-year <em>gradWORKS </em>and third-year <em>thesisWORKS</em> productions. Auditions are held at the beginning of the quarter for all productions. Students interested in performing in the winter concert must audition for a specific repertory class taught by the faculty or guest choreographer with whom they wish to work. Students who are then cast must enroll in both the appropriate Dance Repertory (TDPF 160, 161, 162) and Studies in Performance (TDPF 163). Students interested in performing in the spring concert must audition at the beginning of spring quarter; if cast, students must enroll in Studies in Performance (TDPF 160, 161, 162). Students participating in either dance production are required to be concurrently attending a technique class. Students who wish to choreograph for the spring concert must have completed or be concurrently enrolled in a choreography class. </p>
+<h5 class="program-overview-subhead-4">Ushering </h5>
+				<p>A fantastic and simple way for students to become involved with the Department of Theatre and Dance is to be a volunteer usher. When a student volunteers, he or she will receive a complimentary ticket and a guaranteed seat to a predetermined performance in exchange for carrying out easy but important front-of-house tasks (such as tearing tickets, seating patrons, or handing out programs). Ushering is fun and easy—no experience is required and all majors are welcome. </p>
+				<p>To inquire about usher availability, contact the Department of Theatre and Dance promotions manager at <a href="mailto:promotions@ucsd.edu">promotions@ucsd.edu</a> and put the word “USHER” (in all caps) in the subject line. Someone will respond to your inquiry with more information in a timely manner. </p>
+				<h5 class="program-overview-subhead-4">Comps </h5>
+				<p>Declared theatre or dance majors are eligible to receive one free complimentary ticket per departmental production. The complimentary tickets are on a first-come-first-served basis. Majors need to come into the department office and fill out a complimentary request form at least forty-eight hours prior to the performance. Majors will be notified through email if the request cannot be filled. For the complete Complimentary Ticket Policy, please visit our website (<a href="http://theatre.ucsd.edu" target="_blank">http://theatre.ucsd.edu</a>) or come into the office. </p><!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

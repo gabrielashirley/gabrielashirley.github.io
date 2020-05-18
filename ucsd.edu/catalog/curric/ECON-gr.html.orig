@@ -1,0 +1,355 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Economics</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+	<style type="text/css">
+<!--
+p.program-contact-info {}
+-->
+    </style>
+	<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Economics </h1>
+<p class="sectionNav"> <span class="courseFacLink">[ <a href="../curric/ECON-ug.html">undergraduate
+      program</a> | <a href="../courses/ECON.html">courses</a> | <a href="../faculty/ECON.html">faculty</a> ]</span></p>
+<p class="program-contact-info">ECONOMICS STUDENT SERVICES:<br />
+  245 Sequoyah Hall<br />
+  <a href="http://economics.ucsd.edu" target="_blank">http://economics.ucsd.edu</a></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><p class="anchor-parent"><a class="anchor" id="grad"></a></p><h2 class="program-overview-subhead-1">The Graduate Program </h2>
+<p>The department offers a PhD degree in economics, designed to provide a solid, analytically oriented training in microeconomics, macroeconomics, econometrics, and advanced specialties. Since the program is structured as a doctoral program, only students who intend to pursue a doctorate should apply.</p>
+<p>The main economics PhD requirements are that a student pass qualifying exams in microeconomics, macroeconomics, econometrics, select courses of specialization, and prepare an acceptable dissertation. </p>
+<p>Details of the PhD program are available on the internet at the department website at <a href="http://economics.ucsd.edu/" target="_blank">http://economics.ucsd.edu</a>. Residence and other campuswide regulations are described in the graduate studies section of this catalog. </p>
+<h3>PhD Graduate Admissions in Economics</h3>
+<p>Information about applying to the graduate program in economics can be found on the department&rsquo;s website at <a href="http://economics.ucsd.edu">http://economics.ucsd.edu</a>, and also at the&nbsp;<u><a href="https://apply.grad.ucsd.edu/home" target="_blank">Graduate Division</a></u> website at <a href="https://apply.grad.ucsd.edu">https://apply.grad.ucsd.edu</a>. Should you have additional questions not covered by the information or resources listed here, please email us at <u><a href="mailto:econ-phdadmissions@ucsd.edu">econ-phdadmissions@ucsd.edu</a></u>.</p>
+<p>Applications are only accepted for fall quarter.</p>
+<p>The doctoral program starts in the fall quarter, and application submissions open in September of the prior year.</p>
+<h4>Basic Requirements</h4>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="250" valign="top"><p><strong>Admissions Tests</strong></p></td>
+    <td valign="top"><p>GRE General Test is required.</p></td>
+  </tr>
+  <tr>
+    <td width="250" valign="top"><p><strong>English Proficiency Exams</strong><br>
+      (international   applicants only)</p></td>
+    <td valign="top"><p>A test of English language proficiency is required for international   applicants whose native language is not English and who have not studied full   time for one uninterrupted academic year at a university-level institution in   which English is the language of instruction and in a country where English   is a dominant language.</p>
+      <p>The following test(s) are accepted by this department:<br>
+      <ul>
+      <li>TOEFL (Test of English as   a Foreign Language), with minimum internet-based test score of 85</li>
+      <li>IELTS (International English Language Testing System), with minimum score of band   7.0</li>
+      <li>PTE (Pearson Test of English), with overall minimum academic score of 65</li></ul></p></td>
+  </tr>
+  <tr>
+    <td width="250" valign="top"><p><strong>Letters of Recommendation</strong></p></td>
+    <td valign="top"><p>Minimum of three recommendations required.</p></td>
+  </tr>
+  <tr>
+    <td width="250" valign="top"><p><strong>Statement of Purpose</strong></p></td>
+    <td valign="top"><p>Statement of Purpose required, 2,500 word limit.</p></td>
+  </tr>
+  <tr>
+    <td width="250" valign="top"><p><strong>Resume/CV</strong></p></td>
+    <td valign="top"><p>Including your resume as part of your application is optional but   recommended.</p></td>
+  </tr>
+</table>
+<h4>Financial Support</h4>
+<p>Financial support is determined by the admissions committee for the first year. In subsequent years, all graduate students receive funding contingent on normal progress in the program. The typical package includes a teaching assistantship, fee remission, and tuition scholarship (for nonresidents).</p>
+<h4>Typical Program</h4>
+<p>A math review course (ECON 205) is offered prior to fall quarter. This is an intensive review of analysis, single and multi-variable calculus, and optimization<strong>, </strong>and is designed to prepare entering students for their first year of study. Entering students with confidence in their mathematical skills are not required to take the course. However, all students are required to pass the final exam in the class.</p>
+<p>Throughout the duration of the program each student is required to maintain full-time enrollment status, at least twelve units, to be eligible for any form of <a href="http://economics.ucsd.edu/graduate-program/financial-support/index.html">financial support</a>. Excellent supplements to the schedule of core and elective courses to ensure full-time enrollment status are ECON 202A-B-C, ECON 212A-B-C, ECON 235A-B-C, ECON 291, ECON 297, ECON 299, and ECON 500A-B-C.</p>
+<p>All core and elective courses taken to fulfill program requirements must be taken for a letter grade (unless otherwise specified below). Economics course titles and descriptions are <a href="http://www.ucsd.edu/catalog/courses/ECON.html" target="_blank">online</a>.</p>
+<h4>Typical Progression</h4>
+<table border="0" cellspacing="0" cellpadding="0" width="668" align="top">
+  <tr>
+    <td width="668" colspan="4"><p><strong>First Year: Core   Courses</strong><strong> </strong></p></td>
+  </tr>
+  <tr>
+    <td width="209"><p>Fall Quarter</p>
+      <ul type="disc">
+        <li>ECON 200A: Microeconomics</li>
+        <li>ECON 210A: Macroeconomics</li>
+        <li>ECON 220A: Introductory Econometrics</li>
+        <li>ECON 280: Computing</li>
+      </ul></td>
+    <td width="222"><p>Winter Quarter</p>
+      <ul type="disc">
+        <li>ECON 200B: Microeconomics</li>
+        <li>ECON 210B: Macroeconomics</li>
+        <li>ECON 220B: Introductory Econometrics</li>
+      </ul></td>
+    <td width="234"><p>Spring Quarter</p>
+      <ul type="disc">
+        <li>ECON 200C: Microeconomics</li>
+        <li>ECON 210C: Macroeconomics</li>
+        <li>ECON 220C: Introductory Econometrics</li>
+      </ul></td>
+    <td width="3"><p>&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="668" colspan="4"><p><strong>Second Year: Core   Courses and Electives</strong><strong> </strong></p></td>
+  </tr>
+  <tr>
+    <td width="209"><p>Fall Quarter</p>
+      <ul type="disc">
+        <li>ECON 220D: Econometrics course</li>
+        <li>Elective courses</li>
+      </ul></td>
+    <td width="222"><p>Winter Quarter</p>
+      <ul type="disc">
+        <li>ECON 220E: Econometrics course</li>
+        <li>Elective courses</li>
+      </ul></td>
+    <td width="234"><p>Spring Quarter</p>
+      <ul type="disc">
+        <li>ECON 220F: Econometrics course</li>
+        <li>Elective courses</li>
+      </ul></td>
+    <td width="3"><p>&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="668" colspan="4"><p><strong>Third Year</strong><strong> </strong></p></td>
+  </tr>
+  <tr>
+    <td width="209"><p>Fall Quarter</p>
+      <ul type="disc">
+        <li>ECON 285: Pre-Candidacy Presentation*</li>
+        <li>ECON 296: Original Research Paper****</li>
+        <li>Elective courses</li>
+      </ul></td>
+    <td width="222"><p>Winter Quarter</p>
+      <ul type="disc">
+        <li>Complete electives</li>
+        <li>Optional—ECON 291: Advanced Field Advising and/or ECON 297:        Independent Study**</li>
+      </ul></td>
+    <td width="234"><p>Spring Quarter</p>
+      <ul type="disc">
+        <li>ECON 285: Pre-Candidacy Presentation*</li>
+        <li>ECON 296: Original Research Paper****</li>
+        <li>ECON 286: Graduate Research Presentation Workshop***</li>
+      </ul></td>
+    <td width="3"><p>&nbsp;</td>
+  </tr>
+</table>
+<h4>Elective Requirements</h4><p class="anchor-parent"><a class="anchor" id="General"></a></p>
+<p><strong>General requirements for all doctoral students: </strong></p>
+<ul type="disc">
+  <li>Seven elective courses are required in order      to advance to candidacy.</li>
+  <li><strong>All seven courses must be taken for a      letter grade (A, B, C, etc.).</strong></li>
+  <li>Cumulative GPA of 3.5 or better must be earned      in these seven courses.</li>
+  <li>Students must elect two fields of economics      for advanced study.</li>
+  <li>Each field requires completion of two to three      graduate courses.</li>
+  <li>Students are to complete all seven of these      courses by the end of their third year.</li>
+  <li>Students should strive to complete their field      requirements in the second year.</li>
+</ul>
+<p>Students may enroll in independent study or relevant courses from other departments. However, in general, these courses cannot be counted among the seven electives.</p>
+<h4>Qualifying Examinations</h4>
+<p>Written qualifying exams in each of the three core fields (microeconomics, macroeconomics, and econometrics) are required and are offered each year at the end of spring quarter and again at the end of summer session. Each exam is administered and graded separately. To continue in the doctoral program, all three exams must be passed by the end of spring quarter of the student’s second year in the program. No exceptions will be made to this policy.</p>
+<p>In preparation for the qualifying exams, the department expects a student to be competent relative to existing knowledge on the subject. The specific guide to subject matter needed for competence in a field is the body of topics covered in the first-year courses in that field. More information on qualifying exams can be found on the department&rsquo;s website at <a href="http://economics.ucsd.edu" target="_blank">http://economics.ucsd.edu</a>. </p>
+<h4>Advancement to Candidacy (CPHIL Degree)</h4>
+<p>To attain candidacy, the student must complete an oral examination covering the topic of the proposed thesis before the members of their doctoral committee. The prerequisites for applying for the candidacy exam are</p>
+<ul type="disc">
+  <li>Pass the qualifying examinations      (microeconomics, macroeconomics, and econometrics)</li>
+  <li>Complete a computation course (ECON 280)</li>
+  <li>Complete advanced econometrics courses (ECON      220D–F)</li>
+  <li>Complete an empirical project (as part of ECON      220F)</li>
+  <li>Complete the <a href="http://economics.ucsd.edu/graduate-program/phd-in-economics/elective-requirements.html" target="_blank">elective requirements</a></li>
+  <li>Complete a third-year original paper and      presentation (ECON 285/296)</li>
+  <li>Complete the graduate research presentation      workshop (ECON 286)</li>
+</ul>
+<p>It is expected that students will advance to candidacy before the start of the fourth year.</p>
+<p>Papers should be submitted to the committee for review at least four weeks before the CPHIL examination date. Students must notify the department graduate coordinator of their doctoral committee members at least one month before the CPHIL date.</p>
+<h4>Dissertation</h4>
+<p>By the end of the second year, a student has passed the qualifying examinations, has selected a dissertation topic, and conducts background study on the topic. The normal mechanisms for topic development are</p>
+<ul type="disc">
+  <li>Elective courses</li>
+  <li>Participation in workshops and colloquia</li>
+  <li>Consultation with the dissertation committee</li>
+</ul>
+<p>After completing a dissertation acceptable to the committee, a student will present a final oral examination on the dissertation. The presentation is open to the public; family, friends, and classmates may be invited to attend.</p>
+<h3>Master of Arts in Economics</h3>
+<p>The Department of Economics does not offer a master’s program. Students in the doctoral program may apply for the MA upon completion of the degree requirements below, usually following the first year of study in the doctoral program.</p>
+<h4>History of the Degree</h4>
+<p>The MA degree meets the needs of three types of students:</p>
+<ul type="disc">
+  <li>Students who, though capable of satisfactory      academic performance, decide not to continue their studies toward the PhD.</li>
+  <li>Students advised by the department not to      continue in the doctoral program but who have mastered certain basic      segments.</li>
+  <li>Students who will continue in the program but      need an MA degree for summer or part-time jobs.</li>
+</ul>
+<p><em>The MA is not a degree that students in the doctoral program routinely obtain in the course of their doctoral work; it is strictly incidental to the program. The university will not award an MA in economics if one has been awarded by another department or institution in similar fields.</em></p>
+<h4>Requirements</h4>
+<p>To qualify for the master&rsquo;s degree, a student must have been admitted to the doctoral program. The requirements for the degree are</p>
+<ol start="1" type="1">
+  <li>Complete, with at least a B average,      thirty-six units in upper-division undergraduate or doctoral level      economics courses, of which at least twenty-four units must come from the      core first-year doctoral sequence (ECON 200, 210, 220).</li>
+  <li>Complete one of the following:</li>
+  <ol start="1" type="1">
+    <li>Receive at least a master’s pass in two core       doctoral qualifying exams.</li>
+    <li>Receive at least a master’s pass in one of       the core doctoral qualifying exams, and a B+ average in the first-year       courses in a second core field.</li>
+    <li>Receive at least a master’s pass or receive       a B+ average in one core field and write an independent paper approved by       three economics faculty members (one outside faculty member allowed) as a       master&rsquo;s thesis.</li>
+  </ol>
+</ol>
+<p><em>A minimum of one quarter must elapse between application for candidacy for the MA degree and the filing of the final report for the award of the degree. Forms turned in by the end of the second week of the quarter may be conferred at the end of that quarter.</em></p>
+<h4>Department FAQs: </h4>
+<p><em><a href="http://economics.ucsd.edu/graduate-program/faqs.html" target="_blank">http://economics.ucsd.edu/graduate-program/faqs.html</a></em></p>
+<h3 class="program-overview-subhead-2">Departmental PhD Time Limit Policies </h3>
+				<p>Students must be advanced to candidacy by the end of five years. Total
+				  university support cannot exceed six years. Total registered
+				  time at UC San Diego cannot exceed seven years. Students will
+				  not be permitted to continue beyond the precandidacy and total
+				  registered time limits. Students will not be permitted to receive
+				  UC San Diego administered financial support beyond the support limit. </p>
+				<h3>PhD in Economics with a Specialization in Interdisciplinary Environmental Research </h3>
+				<p>A graduate specialization in Interdisciplinary Environmental Research (PIER) is available for select doctoral students in economics. PIER students seek solutions to today’s environmental challenges. <strong> </strong></p>
+		<p>The PhD specialization is designed to allow students to obtain standard training in their chosen field and an opportunity to interact with peers in different disciplines throughout the duration of their doctoral projects. Such communication across disciplines is key to fostering a capacity for interdisciplinary &ldquo;language&rdquo; skills and conceptual flexibility.</p>
+				<h4>Specialization Requirements<br>
+        </h4>
+        <ul type="disc">
+                  <li>Complete      all course work, dissertation, and other requirements of<strong> </strong>the economics PhD<strong> </strong></li>
+                  <li>16-unit      interdisciplinary boot camp (summer SIO 295S–295LS)</li>
+                  <li>8      units from a secondary field (outside the home department) </li>
+                  <li>6      units (3 quarters) Interdisciplinary Environmental Research Forum (SIO 296)</li>
+                  <li>At      least one chapter of the dissertation will be broadly related to      environmental research and will be interdisciplinary in nature. </li>
+        </ul>
+        <h4>Application Requirements</h4>
+                  </em></strong>
+                  <p>We advise students to begin PIER in their third year upon completion of core economics<strong> </strong>course requirements. The following items should be combined into a single PDF document and submitted to <a href="mailto:cmbc@ucsd.edu" target="_blank">cmbc@ucsd.edu</a>.
+        </p>
+                  </p>
+
+                <ul type="disc">
+                  <li>Student’s      CV</li>
+                  <li>Half-page      abstract of proposed thesis work </li>
+                  <li>Up to one-page      statement of student’s interest in interdisciplinary environmental      research including career goals. </li>
+                  <li>Nomination      letter from adviser acknowledging student’s academic ability and      interdisciplinary environmental interest. The letter must include a      commitment for summer stipend support.<br>
+                  </li>
+        </ul>
+                <h4>Admission to the Specialization </h4>
+                <p>Students are admitted into the economics doctoral program. Admission to PIER is a competitive process with 6–8 students granted admission each year from across ten participating UC San Diego departments. Selected applicants will have the opportunity to enroll in the specialization. <br>
+</p>
+                <h4>PIER Fellowships</h4>
+                <p>When funding is available, all applicants will be considered for one year of PIER Fellowship support.  <br>
+                </p>
+                <div>
+                  <div> </div>
+                </div>
+        <!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

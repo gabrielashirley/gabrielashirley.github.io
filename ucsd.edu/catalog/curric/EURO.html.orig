@@ -1,0 +1,311 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>European Studies</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">European Studies </h1>
+<p class="courseFacLink">[ <a href="../faculty/EURO.html">faculty</a> ]</p>
+<p class="program-contact-info">CAESAR Programs Advising<br>
+  Institute of Arts and Humanities<br>
+  Humanities and Social Sciences Building, 1105<br>
+  (858) 534-4551<br>
+  <a href="mailto:caesar@ucsd.edu">caesar@ucsd.edu</a><br>
+  <a href="http://caesar.ucsd.edu/european/index.html" target="_blank">http://caesar.ucsd.edu/european/index.html</a></p>
+<!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h3 class="program-overview-subhead-2">The European Studies Minor </h3>
+				<p>The European Studies minor is for students with strong European interests or who plan to study in Europe on an Education Abroad Program (EAP) or Opportunities Abroad Program (OAP) but also those who seek to complement their major with the study of Europe as a political, cultural, and economic entity. To receive a minor in European Studies, a student must complete seven four-unit courses (twenty-eight units).</p>
+				<h4 class="program-overview-subhead-3">(A) Language requirement</h4>
+				<p>ALL minors must demonstrate basic proficiency in a single European language other than English by completing four quarters of language instruction (or equivalent). Students may also complete this requirement by demonstrating advanced language ability on a proficiency exam. Students completing the language requirement through waiver (700 or better on SAT II language, score of 4 or better on AP language), or proficiency exam will fulfill the language component of the minor by completing one of these requirements but no course credit will be applied toward the (seven) courses required for the minor.</p>
+				<p>Up to TWO four-unit courses in foreign language can be included in the seven courses required for the minor. These may be lower-division courses.</p>
+				<h4 class="program-overview-subhead-3">(B) Additional course requirements</h4>
+				<ol>
+				  <li>The remaining five to seven courses (depending on the number of
+				    language courses applied to the minor) must include at least
+				    three courses on Europe as a whole including one course in
+				    each of the two broad tracks.</li>
+				  <ol class="lower-alpha"><li>Economics and Politics</li>
+				  <li>Culture and Society</li></ol>
+				  <p>(See course listings for each track.) </p>
+				  <li>At least one of the track courses should be in the Department
+				    of History. </li>
+				  <li>No more than three courses in any one department.</li>
+				  <li>All courses applied to the minor must receive a letter
+				    grade of C– or better.</li>
+				  <li>Upper-division courses may include up to two 198 and
+				    199 courses and up to three courses from UC Education Abroad
+				    Program (EAP) and UC San Diego&#8217;s Opportunities Abroad Program
+				    (OAP) with the approval of the minor adviser.</li>
+				  <li>Minors in European Studies are encouraged to participate
+				    in the UC Education Abroad Program (EAP) and UC San Diego&#8217;s
+				    Opportunities Abroad Program (OAP). Students should consult
+				    with the faculty director before going abroad to determine
+				    which courses will be approved for minor credit.</li>
+	    </ol>
+<h5 class="program-overview-subhead-4">TRACKS IN THE EUROPEAN STUDIES MINOR</h5>
+				<p class="course-note">Courses preceded by an asterisk are petitionable for credit toward the minor as content warrants.</p>
+				<h3 class="course-subhead-1">Economics and Politics</h3>
+				<h4 class="course-subhead-2">Communication</h4>
+				<p class="course-list-courses">COMM 104E. Comparative Media Systems: Europe</p>
+				<h4 class="course-subhead-2">History</h4>
+				<p class="course-list-courses">HIEU 109. European Nationalism from a Historical Perspective</p>
+				<p class="course-list-courses">HIEU 113. Rule, Conflict, and Dissent in the Middle Ages</p>
+				<p class="course-list-courses">HIEU 126. Age of Expansion: Europe and the World, 1400–1600</p>
+				<p class="course-list-courses">HIEU 128. Europe Since 1945</p>
+				<p class="course-list-courses">HIEU 141. European Diplomatic History, 1870–1945</p>
+				<p class="course-list-courses">HIEU 146. Fascism, Communism, and the Crisis of Liberal Democracy: Europe 1919–1945</p>
+				<h4 class="course-subhead-2">Philosophy</h4>
+				<p class="course-list-courses">PHIL 166. Classics in Political Philosophy </p>
+				<p class="course-list-courses">PHIL 167. Contemporary Political Philosophy </p>
+				<h4 class="course-subhead-2">Political Science </h4>
+				<p class="course-list-courses">POLI 110A. Citizens and Saints: Political Thought from Plato to Augustine</p>
+				<p class="course-list-courses">POLI 110B. Sovereigns, Subjects, and the Modern State: Political Thought from Machiavelli to Rousseau (4)</p>
+				<p class="course-list-courses">POLI 110C. Revolution and Reaction: Political Thought from Kant to Nietzsche</p>
+				<p class="course-list-courses">POLI 110DA. Freedom and Discipline: Political Thought in the Twentieth Century</p>
+				<p class="course-list-courses">POLI 120A. Political Development of Western Europe</p>
+				<p class="course-list-courses">POLI 120H. European Integration</p>
+				<p class="course-list-courses">POLI 126AA. Fundamentals of Political Economy: Modern Capitalism</p>
+				<p class="course-list-courses">POLI 126AB. Politics and Economics in Eastern Europe</p>
+				<h4 class="course-subhead-2">Sociology </h4>
+				<p class="course-list-courses">Soc/B 111A. Human Rights—Principles and Problems</p>
+				<p class="course-list-courses">Soc/B 111B. Human Rights—Practices and Cases</p>
+				<p class="course-list-courses">SOCI 177. International Terrorism</p>
+                <div>
+                  <div></div>
+        </div>
+                <h3 class="course-subhead-1">Culture and Society		</h3>
+        <h4 class="course-subhead-2">History</h4>
+				<p class="course-list-courses">HIEU 110. The Rise of Europe</p>
+				<p class="course-list-courses">HIEU 111. Europe in the Middle Ages</p>
+				<p class="course-list-courses">HIEU 125. Reformation Europe</p>
+				<p class="course-list-courses">HIEU 130. Europe in the Eighteenth Century</p>
+				<p class="course-list-courses">HIEU 133. Gender in Antiquity and the Early Medieval Mediterranean</p>
+				<p class="course-list-courses">HIEU 136A. European Society and Social Thought, 1688–1870</p>
+				<p class="course-list-courses">HIEU 136B. European Society and Social Thought, 1870–1989</p>
+				<p class="course-list-courses">HIEU 142. European Intellectual History, 1780–1870</p>
+				<p class="course-list-courses">HIEU 143. European Intellectual History, 1870–1945</p>
+                <p class="course-list-courses">HIEU 147. Women and Gender in Early Modern Europe</p>
+                <p class="course-list-courses">HIEU 148: Women and Gender from the Enlightenment to the Victorian
+                  Eras</p>
+                <p class="course-list-courses">HIEU 149. History of Women in Europe: 1870 to the Present</p>
+        <div>
+          <div> </div>
+                </div>
+                <p class="course-list-courses">HIEU 163/263. Special Topics in Medieval History</p>
+				<p class="course-list-courses">HIEU 165/265. Special Topics in Early Modern Spain</p>
+				<p class="course-list-courses">HIEU 171/271. Special Topics in Twentieth-Century Europe</p>
+				<p class="course-list-courses">HIEU 174/274. The Holocaust: A Psychological Approach</p>
+				<p class="course-list-courses">HIEU 180/280. Topics in European Women&#8217;s History</p>
+				<p class="course-list-courses">HISC 101A. Science in the Greek and Modern World</p>
+				<p class="course-list-courses">HISC 101B. Medieval Science in the Latin West, ca. 500–1500</p>
+				<p class="course-list-courses">HISC 101C. Early Modern Science</p>
+				<p class="course-list-courses">HISC 106. The Scientific Revolution</p>
+				<p class="course-list-courses">HISC 107. The Emergence of Modern Science</p>
+				<h4 class="course-subhead-2">Linguistics</h4>
+                <p class="course-list-courses">*LIGN 141. Language Structures</p>
+                <p class="course-list-courses">*LIGN 150. Historical Linguistics				</p>
+                <h4 class="course-subhead-2">Literature </h4>
+				<p class="course-list-courses">LTEU 139. Marx/Nietzsche/Freud </p>
+				<p class="course-list-courses">LTTH 115. Introduction to Critical Theory</p>
+        <h4 class="course-subhead-2">Music</h4>
+				<p class="course-list-courses">MUS 4. Introduction to Western Music</p>
+				<p class="course-list-courses">MUS 112. Topics in European Music Before 1750</p>
+				<p class="course-list-courses">MUS 113. Topics in Classical, Romantic, and Modern Music</p>
+				<p class="course-list-courses">*MUS 114. Music of the Twentieth Century</p>
+				<p class="course-list-courses">*MUS 115. Women in Music</p>
+				<p class="course-list-courses">MUS 120A-B-C. Survey of Music History and Literature</p>
+				<p class="course-list-courses">*ICAM 150. History of Art and Technology</p>
+				<h4 class="course-subhead-2">Philosophy</h4>
+				<p class="course-list-courses">PHIL 13. Introduction to Philosophy: Ethics </p>
+				<p class="course-list-courses">PHIL 14. Introduction to Philosophy: Metaphysics </p>
+				<p class="course-list-courses">PHIL 15. Introduction to Philosophy: Theory of Knowledge </p>
+				<p class="course-list-courses">PHIL 31. History of Philosophy: Ancient Philosophy </p>
+				<p class="course-list-courses">PHIL 32. History of Philosophy: The Origins of Modern Philosophy </p>
+				<p class="course-list-courses">PHIL 33. History of Philosophy: Philosophy in the Age of Enlightenment </p>
+				<p class="course-list-courses">PHIL 102. Hellenistic Philosophy </p>
+				<p class="course-list-courses">PHIL 104. The Rationalists </p>
+				<p class="course-list-courses">PHIL 105. The Empiricists </p>
+				<p class="course-list-courses">PHIL 108. Nineteenth-Century Philosophy</p>
+				<p class="course-list-courses">*PHIL 111. Contemporary Work in Epistemology and Metaphysics </p>
+				<p class="course-list-courses">*PHIL 126. Topics in the History of Logic </p>
+				<p class="course-list-courses">*PHIL 145. Philosophy of Science </p>
+				<p class="course-list-courses">*PHIL 146. Philosophy of Physics </p>
+				<p class="course-list-courses">PHIL 153. Philosophy of History </p>
+				<p class="course-list-courses">PHIL 161. Topics in the History of Ethics</p>
+				<p class="course-list-courses">PHIL 166. Classics in Political Philosophy </p>
+				<p class="course-list-courses">*PHIL 167. Contemporary Political Philosophy</p>
+				<p class="course-list-courses">*PHIL 169. Feminism and Philosophy </p>
+				<p class="course-list-courses">*PHIL 170. Philosophy and Race </p>
+				<p class="course-list-courses">PHIL 175. Aesthetics </p>
+				<p class="course-list-courses">*PHIL 177. Philosophy and Literature </p>
+				<p class="course-list-courses">PHIL 180. Phenomenology </p>
+				<p class="course-list-courses">PHIL 181. Existentialism </p>
+				<p class="course-list-courses">PHIL 182. Marx and Marxism</p>
+				<p class="course-list-courses">PHIL 183. Topics in Continental Philosophy </p>
+				<h4 class="course-subhead-2">Religion, Program for the Study of </h4>
+				<p class="course-list-courses">RELI 110A. The Modern Study of Religion: Religion in Modernity </p>
+				<p class="course-list-courses">RELI 112. Texts and Contexts: The Holy Book
+			    in Islam   </p>
+		<div>
+		  <div> </div>
+		</div>
+<p class="course-list-courses">*RELI 131. Topics in Religion and Sexuality</p>
+				<p class="course-list-courses">*RELI 132. Topics in Orthodoxy and Heterodoxy </p>
+				<p class="course-list-courses">*RELI 141. Public Sphere and Religion </p>
+				<p class="course-list-courses">*RELI 142. Secularization and Religion </p>
+				<p class="course-list-courses">*RELI 188. Special Topics in Religion </p>
+				<p class="course-list-courses">*RELI 189. Seminar in Religion </p>
+				<h4 class="course-subhead-2">Sociology </h4>
+				<p class="course-list-courses">SOCI 20. Social Change in the Modern World</p>
+                <p class="course-list-courses">SOCI 100. Classical Sociological Theory</p>
+                <p class="course-list-courses">SOC/A 102. Contemporary Sociological Theory</p>
+                <p class="course-list-courses">SOCI 106. Comparative and Historical Methods</p>
+        <p class="course-list-courses">SOCI 106M. Holocaust Diaries</p>
+                <p class="course-list-courses">SOCI 178. The Holocaust				</p>
+                <h4 class="course-subhead-2">Theatre and Dance </h4>
+				<p class="course-list-courses">*TDHT 101/201. Topics in Dramatic Literature
+				  and Theatre History</p>
+				<p class="course-list-courses">TDHD 171. Dance History I (Ancient to 1900)</p>
+				<p class="course-list-courses">TDHD 172. Dance History II (1900 to 1960)</p>
+				<p class="course-list-courses">TDHD 173. Dance History III (1960 to Present)</p>
+				<h4 class="course-subhead-2">Visual Arts </h4>
+				<p class="course-list-courses">VIS 20. Introduction to Art History</p>
+				<p class="course-list-courses">VIS 22. Formations of Modern Art</p>
+				<p class="course-list-courses">VIS 84. History of Film</p>
+				<p class="course-list-courses">VIS 113AN. History of Criticism I: Early Modern</p>
+				<p class="course-list-courses">VIS 113BN. History of Criticism II: Early Twentieth Century (1900–1950)</p>
+				<p class="course-list-courses">VIS 113CN. History of Criticism III: Contemporary (1950–Present)</p>
+				<p class="course-list-courses">VIS 117B. Theories of Representation</p>
+				<p class="course-list-courses">VIS 120C. Late Antique Art</p>
+				<p class="course-list-courses">VIS 121AN. The Idea of Medieval Art</p>
+				<p class="course-list-courses">VIS 121B. Castles, Cathedrals, and Cities</p>
+				<p class="course-list-courses">VIS 121C. Art and Gender in the Middle Ages and Renaissance</p>
+				<p class="course-list-courses">VIS 121D. The Illuminated Manuscript in the Middle Ages</p>
+				<p class="course-list-courses">VIS 122AN. Renaissance Art</p>
+				<p class="course-list-courses">VIS 122CN. Defining High Renaissance Art</p>
+				<p class="course-list-courses">VIS 123CN. Early Print Culture: The First Media Revolution</p>
+				<p class="course-list-courses">VIS 124AN. Baroque Art</p>
+				<p class="course-list-courses">VIS 125A. Twentieth-Century Art</p>
+				<p class="course-list-courses">*VIS 151. History of the Experimental Film</p>
+				<p class="course-list-courses">*VIS 158. Histories of Photography</p>  <!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

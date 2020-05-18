@@ -1,0 +1,292 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Japanese Studies</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Japanese Studies </h1>
+<p class="sectionNav"><span class="alphabreak"> <span class="courseFacLink">[ <a href="../curric/JAPN.html"> </a> <a href="../courses/JAPN.html">courses</a> | <a href="../faculty/JAPN.html">faculty</a> ]</span></span></p>
+<p class="program-contact-info">Muir College<br>
+  Humanities and Social Sciences Building, Room 1001<br />
+  <a href="http://japan.ucsd.edu" target="_blank">http://japan.ucsd.edu</a> </p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem -->
+  <p class="basic-offset-top-only">The Program in Japanese Studies coordinates a variety of campus offerings dealing with the language, history, culture, and political economy of Japan. The program is especially strong in the area of modern and contemporary Japan. In addition to courses available in the Departments of Anthropology, Economics, History, Linguistics, Literature, Music, Political Science, and Sociology, qualified undergraduates also may enroll in Japan-related courses in the School of Global Policy and Strategy with consent of instructors. </p>
+				<h2 class="program-overview-subhead-1">The Major </h2>
+				<h3 class="program-overview-subhead-2">A. Lower-Division Requirement <br />(9 courses) </h3>
+				<ol>
+				  <li>Japanese language: two years of lower-division courses or the transferred equivalent from<br />
+				    JAPN 10A-B-C<br />
+			      JAPN 20A-B-C </li>
+			      <li>East      Asian History:<br>
+				      HILD 10-11-12</li>
+		
+                  <li>The language requirement may be waived by demonstrating the equivalent
+                    proficiency through exam. </li>
+                </ol>
+<h3 class="program-overview-subhead-2">B. Upper-Division Requirement <br />(12 courses) </h3>
+				<ol>
+				  <li>Japanese language: six upper-division language courses or the transferred
+				    equivalent from<br />
+				    JAPN 100A-B-C<br />
+				    JAPN 130A-B-C<br />
+				    JAPN 140A-B-C<br />
+				    JAPN 150A-B-C<br />
+				    Students may petition to include three upper-division language courses taken abroad under the Education Abroad Program (EAP) or Opportunities Abroad Program (OAP).
+                    <div>
+                      <div> </div>
+                      <div> </div>
+                    </div>
+				  </li>
+				  <li>JAPN 190: Selected Topics in Contemporary
+				    Japanese Studies. This is a seminar-style course focusing
+				    on selected topics in contemporary interdisciplinary studies
+				    of Japan. <strong class="italic">Prerequisites:</strong> upper-division
+				    standing; student must complete a minimum of one upper-division
+				    Japanese studies approved course, or consent of instructor.</li>
+				  <li>The remaining five courses must be taken from two or more different
+				    disciplines. </li>
+				<ol class="lower-alpha">  <li>Students may petition to include two nonlanguage upper-division courses
+				    taken abroad under EAP or OAP. </li>
+				  <li>Students may include one 199 (Special Studies) course. </li></ol>
+			      <li>All upper-division courses must be taken for a letter grade, with
+				      the exception of JAPN 199. Beginning in fall 2010, students
+			        who declare for the Japanese studies major and minor will be allowed
+			        no more than one course with a D grade to count toward the program
+			        requirements. This new requirement will not apply to students who
+			        declared their major or minor prior to fall 2010.</li>
+			      <li>The language requirement
+			        can be waived by demonstrating the equivalent proficiency
+			        through exam. The required number of courses must be fulfilled by
+			        taking other nonlanguage upper-division courses. </li>
+        </ol>
+<h3 class="program-overview-subhead-2">C. Honors Program </h3>
+				<ol>
+				  <li>Junior standing or higher. </li>
+				  <li>A GPA of 3.5 or better in the major. </li>
+				  <li>Overall GPA of 3.2 or better. </li>
+				  <li>Completion of at least four upper-division nonlanguage courses
+				    approved by the Program in Japanese Studies. </li>
+				  <li>Recommendation of a faculty sponsor familiar with the student&#8217;s
+				    work. </li>
+	    </ol>
+		<p>Students who qualify for honors take a two-quarter sequence JAPN 196A-B (fall and winter quarters preferred) of directed study during which they define a research project, carry out the research, and complete an honors thesis. </p>
+				<p>The completed honors thesis will be evaluated by a committee consisting of the student&#8217;s thesis adviser and one other faculty member appointed by the Program in Japanese Studies director. </p>
+				<h2 class="program-overview-subhead-1">The Minor </h2>
+				<p>A minor in Japanese studies consists of at least fifteen units of Japanese
+				  language (lower or upper division) and at least sixteen units
+				  of upper-division nonlanguage course work taken from two or more departments.
+				  Students may use one nonlanguage course taken abroad. All courses to be
+				  used for the minor must be approved by the Program in Japanese Studies
+				  and must be taken for a letter grade. Beginning in fall 2010, students
+				  who declare for the Japanese studies major and minor will be allowed no
+				  more than one course with a D grade to count toward the program requirement.
+				  This new requirement will not apply to students who declared their major
+				  or minor prior to fall 2010. Students who are already beyond first- and
+				  second-year language levels will be placed in one of our upper-division
+				  Japanese language courses, Written Japanese (100A-B-C), Third-Year Japanese
+				  (130A-B-C), Fourth-Year Japanese (140A-B-C), or Advanced Japanese (150A-B-C)
+				  and will be required to take four upper-division language courses and three
+				  upper-division nonlanguage courses. The language requirement can be waived
+				  by demonstrating the equivalent proficiency through exam. The required
+				  number of courses must be fulfilled by taking other nonlanguage, upper-division
+				  courses. As a rule for all scenarios, all courses must be taken for a letter grade to earn a minor in Japanese studies. </p>
+				<h3>Upper-Division Courses Applicable for the Japanese Studies Major and/or Minor Offered by Various Departments </h3>
+                <p>For a description of the courses listed below, see the appropriate departmental listing. All graduate-level courses require consent of the instructor/department for undergraduate students. Some departmental offerings have content that varies from year to year. In those cases, the Japanese Studies Program approval via student petition is given only when content relates primarily to Japan.</p>
+                <h4>Anthropology</h4>
+                <p>ANSC 166. Film and Culture in Asia</p>
+                <h4>Communication</h4>
+                <p>COMM 106C. History through Comics—Japan <br>
+                  COMM 113. Intermediate Topics in Communication</p>
+                <h4>History </h4>
+                <p>HIEA 111. Japan: Twelfth through Mid-Nineteenth Century <br>
+                  HIEA 112. Japan: From Mid-Nineteenth Century through US Occupation <br>
+                  HIEA 113. The Fifteen-Year War in Asia and the Pacific <br>
+                  HIEA 114. Postwar Japan <br>
+                  HIEA 115. Social and Cultural History of Twentieth-Century Japan <br>
+                  HIEA 116. Japan-U.S. Relations<br>
+                  HIEA 117. Ghosts in Japan<br>
+                  HIEA 119. Religion and Pop Culture in East Asia (Same as SOCI 162R)<br>
+                  HIEA 125. Women and Gender in East Asia<br>
+                  HIEA 144. Topics in East Asian History*<br>
+                  HIEA 150. Modern Korea, 1800–1945<br>
+                  HIEA 160. Colloquium on Modern Japanese History <br>
+                  HIEA 180. Topics in Modern Korean History* </p>
+                <h4>Japanese Studies </h4>
+                <p>JAPN 190. Selected Topics in Contemporary Japanese Studies </p>
+                <h4>Economics</h4>
+                <p>ECON 163. Japanese Economy </p>
+                <h4>Literature </h4>
+                <p>LTEA 130. Earlier Japanese Literature in Translation <br>
+                  (Quarter offerings will vary among A. General Literature; B. Poetry; C. Prose Fiction; D. Drama; and E. Essays, Travelogues, Diaries, etc.) </p>
+                <p>LTEA 132. Later Japanese Literature in Translation <br>
+                  (Quarter offerings will vary among A. General Literature; B. Poetry; C. Prose Fiction; D. Drama and Film; and E. Essays, Criticism, etc.) </p>
+                <p>LTEA 134. A Single Japanese Author (in translation) <br>
+                  LTEA 136. Special Topics in Japanese Literature <br>
+                  LTEA 138. Japanese Films<br>
+LTWL 155. Gender Studies*<br>
+                  LTCS 110. Popular Culture*<br>
+                  LTCS 115. Performance Culture*<br>
+                  LTCS 118. Comedy*<br>
+                  LTCS 120. Historical Perspectives on Culture*<br>
+                  LTCS 125. Cultural Perspectives on Immigration and Citizenship*<br>
+                  LTCS 130. Gender, Race/Ethnicity, Class, and Culture*<br>
+                  LTCS 131. Topics in Queer Cultures/Queer Subcultures*<br>
+                  LTCS 132. Special Topics in Social Identities and the Media*<br>
+                  LTCS 133. Globalization and Culture*<br>
+                  LTCS 135. Interdisciplinary Approaches to Lesbian, Gay, Bisexual, and Transgender Studies*<br>
+                  LTCS 141. Special Topics in Race and Empire*<br>
+                  LTCS 145. National Cultures in Colonial and Postcolonial Contexts*<br>
+                  LTCS 150. Topics in Cultural Studies*<br>
+                  LTCS 160. Cultural Studies Approaches to Popular Music*<br>
+                  LTCS 170. Visual Culture* </p>
+                <h4>Music </h4>
+                <p>Check with the program’s office as to whether these courses may be used toward a Japanese studies minor.</p>
+                <p>MUS 111. World Music <br>
+                  MUS 116. Popular Music Studies Seminar* </p>
+                <h4>Political Science </h4>
+                <p>POLI 113B. Chinese and Japanese Political Thought I<br>
+                  POLI 113C. Chinese and Japanese Political Thought II<br>
+                  POLI 132B. Modernity and Identity in East Asia <br>
+                  POLI 133A. Japanese Politics: A Developmental Perspective <br>
+                  POLI 133D. Japanese Foreign Policy <br>
+                  POLI 133DD. Comparative Analysis of East Asian Institutions<br>
+                  POLI 133G. Postwar U.S.-Japan Relations </p>
+                <h4>Sociology </h4>
+                <p>SOCI 123. Japanese Culture Inside/Out<br>
+                SOCI 162R. Religion and Popular Culture in East Asia (same as HIEA 119) </p>
+                <h4>Theatre and Dance </h4>
+                <p>TDGE 126. Storytelling and Design in Animation</p>
+                <h4>Visual Arts </h4>
+                <p>VIS 127N. Twentieth-Century Art in China and Japan<br>
+                  VIS 127P. Arts of Japan<br>
+                  VIS 128E. Topics in Art History of Asia*</p>
+                <h4>School of Global Policy and Strategy </h4>
+                <p>GPPS 400. International Relations of Asia—Pacific<br>
+                  GPIM 411. Business and Management in Japan<br>
+                  GPPS 416. Postwar Politics in Japan <br>
+                  GPPS 460. The Politics of U.S.-Japan Economic Relations<br>
+                  GPEC 471. Japanese Economy<br>
+                  GPPS 478. Japanese Foreign Policy </p>
+                <p>Courses marked with an asterisk (*) may require departmental approval via student petition. </p>
+      <!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

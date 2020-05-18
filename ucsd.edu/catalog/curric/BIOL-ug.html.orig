@@ -1,0 +1,536 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Biological Sciences, Division of</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Biological Sciences, Division of</h1>
+<p class="sectionNav">[ <a href="#major">major</a> | <a href="#minor">minor</a> | <span class="courseFacLink"><a href="../curric/BIOL-gr.html">graduate
+      program</a> | <a href="../courses/BIOL.html">courses</a> | <a href="../faculty/BIOL.html">faculty</a> ]</span></p>
+				<p class="program-contact-info">STUDENT AND INSTRUCTIONAL SERVICES OFFICE<br />
+				  Pacific Hall, First Floor<br />
+	    (858) 534-0557</p>
+				<p class="program-contact-info">FINANCIAL AND ADMINISTRATIVE OFFICES<br>
+				  Urey Hall Annex</p>
+				<p class="program-contact-info">DEAN&rsquo;S OFFICE<br>
+	    Natural Sciences Building, Sixth Floor </p>
+				<p class="program-contact-info"><a href="http://biology.ucsd.edu/" target="_blank">http://biology.ucsd.edu/</a></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h3 class="program-overview-subhead-2">Division of Biological Sciences Undergraduate Admissions</h3>
+                <p>Because of the large number of students interested in biological sciences undergraduate programs, and the limited resources available to accommodate this demand, the university has declared all majors in the Division of Biological Sciences as capped.</p>
+                <p>Transfer Major Preparation will be required beginning in fall 2017 and is being implemented in an attempt to ensure academic preparedness, success, and timely graduation. Transfer Major Preparation will impact any transfer student admitted fall 2017 or later who is hoping to declare a biology major.</p>
+        <p>Refer to the UC San Diego Division of Biological Sciences website for specific details and requirements for capped status and Transfer Major Preparation (<a href="http://biology.ucsd.edu" target="_blank">http://biology.ucsd.edu</a>).</p>
+        <h3 class="program-overview-subhead-2">Division of Biological Sciences Residency Requirement</h3>
+				<p>To receive a bachelor of science from UC San Diego, all students, including transfer students, must complete at least forty-eight or more units of upper-division course work within the major. </p>
+				<p>To receive a bachelor of science in biological sciences from UC San Diego, all students must complete at least twenty units of upper-division course work in the Division of Biological Sciences with a grade of C– or better. This course work must directly apply to the student&rsquo;s biology major requirements and must be taken while officially enrolled at UC San Diego. Courses completed outside of the UC San Diego Division of Biological Sciences will not be counted toward the residency requirement. </p>
+<h3 class="program-overview-subhead-2">Satisfactory Progress </h3>
+				<p>All students admitted into a biology major must maintain satisfactory progress in order to remain in a biology program. If the GPA in biology courses for such a student falls below 2.0, he or she will be placed on probation during the quarter after the average fell below the line. If the GPA is not brought above the 2.0 level during the quarter on probation, the student will be dropped from the major. </p>
+				<h3>Prerequisites/Restrictions </h3>
+				<p>Prerequisites and restrictions are enforced in all courses offered by the Division of Biological Sciences. UC San Diego students are expected to have completed all prerequisites and met all restrictions, prior to enrolling in any biology course. Please review the division&rsquo;s web page at <a href="http://biology.ucsd.edu/education/undergrad/course/prereq.html" target="_blank">http://biology.ucsd.edu/education/undergrad/course/prereq.html</a> for the most current information.</p>
+<h3 class="program-overview-subhead-2">Readmission to a Biology Major </h3>
+				<p>Students who were absent for six quarters or more, and who have been readmitted to UC San Diego, must adhere to the major requirements in effect at the time of readmission or those subsequently established.</p>
+				<p>Readmitted students may petition to follow the major requirements in effect at the time they left UC San Diego. These petitions will be reviewed on a case-by-case basis. </p>
+				<h3 class="program-overview-subhead-2">Grade Requirements for the Majors</h3>
+				<p>Minimum grade requirements for all biology majors:</p>
+				<ul>
+				    <li>All      courses required and used toward any biology major requirements must be taken for a letter grade of C– or better.</li>
+				
+                   <li class="list-level-1">The minimum grade requirement applies to all lower-division, upper-division, required courses taken in other departments, as well as courses transferred and used toward major requirements.</li>
+                  <li class="list-level-1">Exceptions will be made only for those required courses that have a P/NP only grading option (i.e.,      BISP 193, 195, 196, 197, and 199).</li>
+                </ul>
+<p>The minimum GPA requirement (for both the major and overall UC) for graduation is 2.0. The biology major GPA calculation is based on upper-division courses required for the major. Upper-division courses from other UCs, other UC San Diego departments, and EAP that have been approved via petition to count toward the major are counted into the major GPA. Other transfer courses do not count toward the UC or major GPA. </p>
+<h3 class="program-overview-subhead-2">Students with Transfer Credit</h3>
+				<p>All courses (including prerequisites) taken at other institutions must be reviewed by the Division of Biological Sciences before they can be applied toward any major requirement. Students must obtain approval from the Biological Sciences Student and Instructional Services office (1128 Pacific Hall) prior to taking courses outside of UC San Diego.</p>
+<p>The Division of Biological Sciences requires that students take the full content equivalencies to UC San Diego series in biology, math, chemistry, and physics. The Division of Biological Sciences will follow the respective department&rsquo;s recommendations for equivalency. In some cases, attaining full content equivalency will require a student to complete more than two semesters in a subject. If the courses a student took do not provide full content equivalency, he or she will be required to complete the lacking material at UC San Diego or at another institution where the material is equivalent. </p>
+<h3 class="program-overview-subhead-2">Study Abroad </h3>
+				<p>The Division of Biological Sciences strongly encourages students to participate in the Education Abroad Program (EAP) or the UC San Diego Opportunities Abroad Program (OAP). It is very important that students who plan to participate in the UC EAP or the UC San Diego OAP plan early. For most EAP programs, it is strongly recommended that biology majors complete biochemistry (BIBC 100 or 102) and genetics (BICD 100) and their prerequisites before going abroad. For more information, please visit <a href="http://studyabroad.ucsd.edu" target="_blank">http://studyabroad.ucsd.edu</a> and <a href="http://biology.ucsd.edu/" target="_blank">http://biology.ucsd.edu</a>. </p>
+<p class="anchor-parent"><a class="anchor" id="ssc"></a></p><h3 class="program-overview-subhead-2">Special Studies Courses</h3>
+				<p>For information on requirements, deadlines, and application procedures for special studies courses, please visit <a href="http://biology.ucsd.edu" target="_blank">http://biology.ucsd.edu</a>.</p>
+<p>How to apply special studies courses toward a biology major:</p>
+<ul>
+          <li>One      quarter of BISP 195 may apply as an upper-division elective for any      biology major.</li>
+          <li>One      quarter of BISP 193, 196, 197, or 199 may count toward the upper-division elective requirement for any biology major. </li>
+
+  <li>One      quarter of BISP 196, 197, or 199 (four units) may count as an upper-division biology lab for ecology, behavior, and evolution; general biology; human biology; microbiology; molecular and cell biology; and neurobiology majors. </li>
+</ul>
+          <p>Subsequent quarters of BISP 193, 195, 196, 197, or 199 may be applied toward college and university requirements.          </p>
+          <p>Students who use a BISP 196, 197, or 199 to satisfy a lab requirement cannot also use subsequent quarters of BISP 193, 196, 197, or 199 to satisfy an upper-division elective requirement.</p>
+          <h4 class="program-overview-subhead-3">BISP 193. Biology Education Research</h4>
+          <p>Biology education research is intended to provide interested and qualified students with an opportunity to participate and work closely with faculty in novel research that examines issues such as the science of learning, evidence of effective teaching, and equity and inclusion in the classroom. Participants earn two or four units of upper-division credit. Eligible students must have accrued at least ninety units, achieve an overall UC GPA of at least 2.5, and have submitted a completed application, including research plan, by the stated deadline. Students must apply to work with specific biology faculty. For more information, deadlines, and to access the application for BISP 193, please visit <a href="http://biology.ucsd.edu" target="_blank">http://biology.ucsd.edu</a>. Reference the previous section, &ldquo;<a href="#ssc">Special Studies Courses</a>,&rdquo; for information on how the credit may apply toward major requirements. </p>
+
+          <h4 class="program-overview-subhead-3">BISP 195. Undergraduate Instructional Apprenticeship in Biological Sciences  </h4>
+				<p>Undergraduate Instructional Apprenticeship in Biological Sciences allows students to obtain exploratory experience in teaching biological sciences. Participants earn four units of upper-division credit through service as an undergraduate instructional apprentice (UGIA), assigned to an undergraduate biological sciences course.  Participation is limited to selected applicants with a minimum of ninety units complete and a minimum UC GPA of 3.0. Reference the previous section, &ldquo;<a href="http://stage-pubs.ucsd.edu/GenCatStage/061318/curric/BIOL-ug.html#ssc">Special Studies Courses</a>,&rdquo; for information on how the credit may apply toward major requirements. </p>
+<h4 class="program-overview-subhead-3">BISP 196. Honors Thesis Program in Biological Sciences </h4>
+		<p>Eligible applicants must be declared in one of the biology majors offered through the Division of Biological Sciences and have a minimum 3.6 major and overall UC grade point average by the end of their junior year. This program covers the senior year of undergraduate study (fall, winter, and spring). Required course work for the honors thesis program is to be taken in addition to major requirements for graduation.  </p>
+				<p>The program involves completion of a total of twelve units (four units each quarter) of senior thesis research (BISP 196) taken during three consecutive quarters: fall, winter, and spring. Research is conducted under the supervision of an eligible faculty member at UC San Diego. If there are any questions as to which faculty members are eligible, students should consult with Biology Student and Instructional Services. </p>
+				<p>Completion of the program requires a final written thesis by the student and a poster session with an oral presentation to a suitable group of faculty and students, including the Honors thesis adviser. The completed thesis is due by Friday of Week 10 in spring quarter. The thesis will be reviewed by the Honors thesis faculty adviser and must meet approval prior to distinction being granted.    </p>
+				<p>Students who complete the program satisfactorily and achieve a minimum 3.25 major GPA at the time of graduation will have Distinction recorded on their transcript. This program is the only way to earn Distinction through the Division of Biological Sciences. Students who fail to make satisfactory progress will be dropped from the program. Students may also withdraw voluntarily from the program. Grades for BISP 196 are P/NP only. Reference the previous section, &ldquo;<a href="http://stage-pubs.ucsd.edu/GenCatStage/061318/curric/BIOL-ug.html#ssc">Special Studies Courses</a>,&rdquo; for information on how the credit may apply toward major requirements. </p>
+                <div>
+                  <div> </div>
+        </div>
+<h4 class="program-overview-subhead-3">Application to the Honors Thesis Program</h4>
+				<ol>
+		            <li>Students      interested in the program and who are eligible as of spring quarter of      their junior year (the fourth quarter prior to graduation) must identify      an eligible UC San Diego faculty member willing to act in the capacity of principal      investigator (PI). </li>
+                      <li>After a      PI is selected, the student and the PI must complete the online Special Studies application and research update (available on the biology website) by the stated deadlines. All deadlines are strictly enforced.</li>
+				
+                  <li>If      initial eligibility requirements are met, the application will be      submitted to the Honors thesis faculty adviser for review.</li>
+                  <li>If the      student is approved for admission to the program, the student will be      automatically enrolled in BISP 196 during the first or second week of the quarter      in which the research is to be conducted.</li>
+                </ol>
+		<p>A new Special Studies application, research plan, and research update are required each quarter for continued participation in the program. The research update is a written report in which the student summarizes the data obtained in the previous quarter. A brief oral interview with the Honors thesis faculty adviser on this report can also be expected. If the progress made appears reasonable for an honors student, then the BISP 196 application will be approved. If not, the student may be dropped from the program.</p>
+		<p>All required components of the program must be submitted by the stated deadline. Submitting late or incomplete work will result in removal from the program or failure to earn distinction.</p>
+<h4 class="program-overview-subhead-3">BISP 197. Biology Internship Program </h4>
+				<p>The Biology Research Internship Program is a partnership between the UC San Diego Division of Biological Sciences and the Academic Internship Program. The program provides opportunities for students to gain academic credit for research-based internships in approved labs at various institutes and organizations in the local area. The mission is to provide biology majors with an opportunity to participate in research in an industrial setting. We believe that working as an intern in the private sector will enrich a student&rsquo;s educational experience. Students will gain valuable insight into the relationship between theory and practice, and hence, a better understanding of the relevance of course work in their major. Most importantly, students will learn the importance of outstanding oral and written communication skills. This course may be counted toward the upper-division elective requirement for a biology major, providing that no other special studies courses (193, 196, or 199) have already been counted toward the major. Reference the previous section, &ldquo;<a href="http://stage-pubs.ucsd.edu/GenCatStage/061318/curric/BIOL-ug.html#ssc">Special Studies Courses</a>,&rdquo; for information on how the credit may apply toward major requirements. </p>
+<p>To enroll in BISP 197, students must have accrued at least ninety quarter-units with an overall UC GPA of at least 2.5.</p>
+<h4 class="program-overview-subhead-3">BISP 199. Individual Research for Undergraduates </h4>
+				<p>Individual Research for Undergraduates is intended to provide interested and qualified students with an opportunity to participate and work closely with faculty in active biological science-based research projects that augment the curricular focus of the division. Eligible students must have accrued at least ninety units, achieved an overall UC GPA of at least 2.5, and have submitted a completed online application, including a research plan, by the stated deadline. Students may apply to work with any individual with a UC San Diego faculty teaching title; however, applications are subject to review by the Division of Biological Sciences. Reference the previous section, &ldquo;<a href="http://stage-pubs.ucsd.edu/GenCatStage/061318/curric/BIOL-ug.html#ssc">Special Studies Courses</a>,&rdquo; for information on how the credit may apply toward major requirements. </p>
+<h4 class="program-overview-subhead-3">AIP 197. Academic Internship Program </h4>
+				<p>Because the undergraduate research conducted through the Academic Internship Program is generally done at a site not affiliated with the UC San Diego Division of Biological Sciences, students who wish to request that an AIP 197 course be counted toward their major must submit an Undergraduate Petition for their request. Biology faculty will review the student’s research and ascertain the project’s compatibility with the student’s academic goals and major requirements. Please be advised that submission of a petition does not guarantee approval for an AIP 197 to count toward major requirements. If an AIP 197 course is approved for the student’s major, no other special studies course (BISP 193, 196, 197, or 199) can be used toward the major. For further information, please see <a href="http://aip.ucsd.edu" target="_blank">http://aip.ucsd.edu</a>. </p>
+		<p class="anchor-parent"><a class="anchor" id="atc"></a></p><h3>Advanced Topics Courses</h3>
+        <h4>BIBC, BICD, BIEB, BIMM, BIPN, and BISP 194. Advanced Topics in Modern Biology </h4>
+                <p>The Division of Biological Sciences offers a number of two-unit upper-division seminar courses (numbered 194) designed to provide students with an opportunity to extend what they have learned in upper-division courses by analyzing existing knowledge and contemporary thinking in a particular biological sciences field. Students should consult the quarterly <a href="https://act.ucsd.edu/scheduleOfClasses/scheduleOfClassesStudent.htm" target="_blank">Schedule of Classes</a> and the <a href="http://biology.ucsd.edu/education/undergrad/index.html" target="_blank">biology website</a> for topics and descriptions. </p>
+                <p>Students may receive credit for up to four Advanced Topics in Modern Biology (194) courses, as long as the content varies. Students may enroll in up to four 194 courses in any given term.</p>
+        <p>In order to apply 194 course(s) to major elective requirements, the course(s) must address a different topic and the 194 course(s) must be taken for a letter grade of C– or better.</p>
+<p class="anchor-parent"><a class="anchor" id="major"></a></p><h2 class="program-overview-subhead-1">Majors in Biological Sciences</h2>
+				<p>For more information, please see the department web page,<a href="http://biology.ucsd.edu" target="_blank"> http://biology.ucsd.edu</a>. </p>
+				<p>The undergraduate curriculum in the Division of Biological Sciences emphasizes biological processes and systems examined at molecular, biochemical, cellular, organismal, and ecosystem scales. With a solid foundation of understanding in these areas, future careers and further training in any area of biology is possible, from genetic counseling to biotechnology, from medicine to epidemiology, from veterinary science to environmental policy. The UC San Diego campus is a world-class life science research institution surrounded by others in close vicinity including the Salk Institute of Biological Studies, the La Jolla Institute of Allergy and Immunology, the Scripps Research Institute, and the Craig Venter Institute. Together these institutions offer our students opportunities for research participation that are among the very richest in the nation. </p>
+		<p>The division offers seven different majors, each with a distinct focus. They are (1) biology with a specialization in bioinformatics, (2) ecology, behavior, and evolution, (3) general biology, (4) human biology, (5) microbiology, (6) molecular and cell biology, and (7) neurobiology. All of these majors share a common core of requirements reflecting our philosophy that a foundation of knowledge in certain areas is essential for more specialized knowledge in any area of biology. Beyond the shared requirements, each major has a different set of requirements tailored to the theme of the major, providing students the opportunity to choose the courses of greatest interest to them. The bachelor of science granted in each of these majors will be so designated. </p>
+<p>The Student and Instructional Services Office (1128 Pacific Hall) administers
+				  the undergraduate biology program for all six colleges. For complete details
+				  regarding policies and procedures pertaining to the biology programs, please
+			    contact Biology Student and Instructional Services.                </p>
+<div>
+    <div> </div>
+        </div>
+<h3 class="program-overview-subhead-2">Bioinformatics Specialization in the Division of Biological Sciences</h3>
+		<p>The bioinformatics major offers rigorous, interdisciplinary training in the rapidly growing and evolving field of bioinformatics within the Division of Biological Sciences. Bioinformatics uses computational approaches to analyze biological data (e.g., large scale genomic, proteomic, and metabolomic datasets) to investigate living organisms and their communities. An understanding of the qualitative and quantitative biological data that are accruing, and the tools used to analyze them, requires substantial mastery of biology, chemistry, mathematics, physics, and computer science. The interdisciplinary bioinformatics specialization will be offered by two other departments (computer science and engineering and bioengineering). All three versions of the bioinformatics specialization share a common set of core requirements, and also have distinct requirements reflecting each unit&rsquo;s academic focus. The bioinformatics specialization offered by the Division of Biological Sciences is aimed at a student interested in applying, and to some extent developing, tools of bioinformatics for the study of biological systems. Students will receive a bachelor of science degree in biology with a specialization in bioinformatics. This degree will prepare students for graduate studies in biological and biomedical sciences, and provide excellent training for work in the biomedical, pharmaceutical, biotechnology, and bioinformatics industries. </p>
+<h4 class="program-overview-subhead-2">Lower-Division Requirements (sixty-six or seventy units total)</h4>
+				<ul>
+                  <li>Mathematics      (MATH 18, 20A-B-C)</li>
+                  <li>General      Chemistry (CHEM 6A-B)</li>
+                  <li>Organic      Chemistry (CHEM 40A-B)</li>
+                  <li>Physics      (PHYS 2A-B-C*)</li>
+                  <li>Biology      (BILD 1, 3, and 4)</li>
+                  <li>Computer      Science (CSE 11 or CSE 8A-B, and CSE 12, and CSE 21*)		</li>
+				</ul>
+		<h4 class="program-overview-subhead-2">Upper-Division Requirements (forty-eight units total)</h4>
+		<ol>
+          <li>Advanced      Data Structure (CSE 100*)</li>
+          <li>Design      and Analysis of Algorithms (CSE 101)</li>
+          <li>One of      the following biochemistry courses: Structural Biochemistry (BIBC 100) or Biochemical      Structure and Function (CHEM 114A), or Metabolic Biochemistry (BIBC 102),      or Biochemical Energetics and Metabolism (CHEM 114B) </li>
+          <li>Genetics      (BICD 100)</li>
+          <li>Molecular      Biology (BIMM 100)</li>
+          <li>Molecular      Sequence Analysis (BIMM 181)</li>
+          <li>Biological      Databases (BIMM 182)</li>
+          <li>Applied      Genomic Technologies (BENG 183)</li>
+          <li>Bioinformatics      Lab (CSE 185)</li>
+          <li>Probability      and Statistics (MATH 186)</li>
+          <li>Major      electives totaling at least eight units. A major elective is defined as an      upper-division biology course taken through the UC San Diego Division of      Biological Sciences. BIEB 146 (Genome Diversity and Dynamics) and BIMM 172      (Genome Science) are recommended. By exception, Biology Meets Computing      (CSE 180) may be applied to the major elective requirement. This course is      also recommended, and interested students are advised to take this prior      to other upper-division courses.</li>
+		</ol>
+       
+				<p class="note">*These courses have additional prerequisites and/or corequisites that are not required for the major. Please contact the respective department to inquire about prerequisite and corequisite enforcement.</p>
+              
+		
+                <p>The following Scripps Institution of Oceanography courses may be taken and applied to requirement eleven above: SIO 121, 123, 124, 125, 126, 127, 128, 129, 131, 132, 133, 134, 138, 147, 181, and 189. </p>
+<p>Students are required to meet the Division of Biological Sciences residency requirement. For more information on the residency requirement, please see the previous section, &ldquo;Division of Biological Sciences Residency Requirement.&rdquo;</p>
+<p>For more information on how Biological Sciences 193, 195, 196, 197, or 199 courses can be applied to major requirements, please see the previous section, &ldquo;<a href="#ssc">Special Studies Courses</a>.&rdquo; </p>
+         
+<h3 class="program-overview-subhead-2">Ecology, Behavior, and Evolution Major</h3>
+<p>The ecology, behavior, and evolution major includes the fields of population biology, ecology, conservation biology, animal behavior, population genetics, biogeography, and evolution. These fields have in common a focus on evolutionary processes and whole organisms in relation to each other and to their environments. Because organismal biology spans such a wide variety of topics, this major has been designed to provide the basic fundamentals while allowing maximum flexibility within the general topic areas. Research careers in ecology, behavior, and evolution can be found in universities, government agencies, and the biotechnology industry. More applied careers are equally varied: recent graduates now work in forestry and wildlife management, as ecological consultants for US and foreign governments and private industry, as teachers, or in new fields such as ecological medicine and epidemiology, environmental design and planning, restoration ecology, and conservation biology. </p>
+<h4 class="program-overview-subhead-2">Lower-Division Requirements (fifty-one or fifty-four units total)</h4>
+<ul>
+  <li>Biology      (BILD 1, 2, 3, and 4)</li>
+  <li>General      Chemistry (CHEM 6A-B-C)</li>
+  <li>Mathematics      (MATH 10A-B and 11 <u>OR</u> 20A-B and 11) </li>
+  <li>Physics      (PHYS 1A/1AL, 1B/1BL, and 1C/1CL <u>OR</u> 2A-B-C)	</li>
+</ul>
+<h4 class="program-overview-subhead-2">Upper-Division Requirements (forty-eight units total)</h4>
+        <ol start="1" type="1">
+          <li>Genetics      (BICD 100)</li>
+            <li>Introductory      Ecology (BIEB 102)</li>
+            <li>Evolution      (BIEB 150)</li>
+            <li>Four upper-division      BIEB courses (at least four units each)</li>
+            <li>BIEB      lab or field course: Complete one upper-division BIEB lab course (at least      four units) offered by the UC San Diego Division of Biological Sciences.</li>
+          <li>Upper-division      biology lab: Complete one upper-division lab course (at least four units)      offered by the UC San Diego Division of Biological Sciences. BISP      196/197/199 (at least four units) may count toward this requirement. An      EBE lab not already used for the EBE lab requirement may be used. </li>
+			<li>Major electives totaling at least eight to twelve units depending on the course options used for requirement four and six (a total of forty-eight upper-division units is required for completion of the major). A major elective is defined as an upper-division biology course taken through the UC San Diego Division of Biological Sciences.</li></ol>
+
+		<p>EBE-related courses offered in other departments may be applicable. Students intending to apply a course offered outside of the Division of Biological Sciences to major requirements should consult with the Student and Instructional Services Office <em><strong>prior</strong></em> to enrollment for applicability. </p>
+		<p>The following Scripps Institution of Oceanography courses may be taken and applied to requirement four above: SIO 123, 125, 126, 127, 129, 131, 132, 134, 147, 181, and 189. </p>
+		<p>The following Scripps Institution of Oceanography courses may be taken and applied to requirement seven above if not already utilized for another requirement: SIO 121, 123, 124, 125, 126, 127, 128, 129, 131, 132, 133, 134, 138, 147, 181, and 189. <br>
+		</p>
+		<p>
+    The UC California Ecology and Conservation program provides another attractive alternative to gaining field experience. For more information, consult <a href="https://ucnrs.org/teaching/cec/" target="_blank">https://ucnrs.org/teaching/cec/</a>.</p>
+  
+</ol>                  
+        <p>Students are required to meet the Division of Biological Sciences residency requirement. For more information on the residency requirement, please see the previous section, &ldquo;Division of Biological Sciences Residency Requirement.&rdquo;</p>
+<p>For more information on how Biological Sciences 193, 195, 196, 197, or 199 courses can be applied to major requirements, please see the previous section, &ldquo;<a href="#ssc">Special Studies Courses</a>.&rdquo; </p>
+        </p>
+     
+        <h3 class="program-overview-subhead-2">General Biology Major</h3>
+<p>The general biology major is intended for students with broad interests who wish to acquire knowledge and skills in multiple disciplinary areas within biological sciences. Students in this major take a core set of foundational courses at both lower- and upper-division levels that span the full spectrum of biology subdisciplines, and thereafter have the freedom to choose upper-division electives based upon their interests. These may be focused in one or two areas of interest to the student or may continue to explore multiple subdisciplines. The general biology major will prepare students for careers and postgraduate studies in a wide variety of fields including health professions, biological research in academic, government, and industry settings, teaching and other science communication-oriented fields, science-oriented businesses, and science policy administration. </p>
+<h4 class="program-overview-subhead-2">Lower-Division Requirements (sixty-five or sixty-six units total)</h4>
+		<ul>
+		          <li>Biology      (BILD 1, 2, 3, and 4)</li>
+                    <li>General      Chemistry (CHEM 6A-B-C and 7L)</li>
+                    <li>Organic      Chemistry (CHEM 40A-B)</li>
+                    <li>Mathematics      (MATH 10A-B and 11 <u>OR</u> 20A-B, and 11) </li>
+                    <li>Physics      (PHYS 1A/1AL, 1B/1BL, and 1C/1CL <u>OR</u> 2A-B-C, and 2BL or 2CL or 2DL)                </li>
+		</ul>
+		<h4 class="program-overview-subhead-2">Upper-Division Requirements (forty-eight units total)</h4>
+                <ol>
+                  <li>One of      the following biochemistry courses: Structural Biochemistry (BIBC 100), or      Biochemical Structure and Function (CHEM 114A), or Metabolic Biochemistry      (BIBC 102), or Biochemical Energetics and Metabolism (CHEM 114B)</li>
+                  <li>Genetics      (BICD 100)</li>
+                  <li>One      four-unit BIEB course (BIEB 102 or BIEB 150 recommended)</li>
+                  <li>Molecular      Biology (BIMM 100)</li>
+                  <li>Human      Physiology I (BIPN 100)</li>
+                  <li>Upper-division      lab course(s) (select one of the following options):</li>
+                  <ul type="circle">
+                    <li>Complete       one upper-division six-unit lab:  Animal       Physiology Lab (BIPN 105).</li>
+                    <li>Complete       two upper-division lab courses (at least four units each) offered by the       UC San Diego Division of Biological Sciences. One BISP 196/197/199 (at       least four units) may count toward this requirement.</li>
+                  </ul>
+                  <li>Major      electives totaling at least twenty or twenty-two units depending on the      lab option used for requirement six (a total of forty-eight upper-division      units is required for completion of the major). A major elective is      defined as an upper-division biology course taken through the UC San Diego      Division of Biological Sciences.                 </li></ol>
+                
+               
+              
+		<p>The following Scripps Institution of Oceanography courses may be taken and applied to requirement seven above: SIO 121, 123, 124, 125, 126, 127, 128, 129, 131, 132, 133, 134, 138, 147, 181, and 189.</p>
+		<p>Students are required to meet the Division of Biological Sciences residency requirement. For more information on the residency requirement, please see the previous section, &ldquo;Division of Biological Sciences Residency Requirement.&rdquo;</p>
+<p>For more information on how Biological Sciences 193, 195, 196, 197, or 199 courses can be applied to major requirements, please see the previous section, &ldquo;<a href="#ssc">Special Studies Courses</a>.&rdquo; </p>
+<h3 class="program-overview-subhead-2">Human Biology Major</h3>
+				<p>The human biology major provides a program of study in human physiology and biochemistry and the molecular basis of disease. Students in this major will develop a fundamental understanding of diverse aspects of human biology, from the physiology of organ systems to the genetic and biochemical workings of cells. Human physiology and human disease core options provide necessary breadth, while still allowing students the flexibility to focus their study in areas of interest. The human biology major provides a strong starting point for entry into postgraduate programs in the health sciences, including but not limited to those in schools of medicine, dentistry, pharmacy, veterinary medicine, public health, physical therapy, and nursing. The major also provides a foundation for careers in research, teaching, and many occupations in life science-oriented businesses.</p>
+<h4 class="program-overview-subhead-2">Lower-Division Requirements (sixty-nine or seventy units total)</h4>
+				<ul>
+                  <li>Biology      (BILD 1, 2, 3, and 4)</li>
+                  <li>General      Chemistry (CHEM 6A-B-C and 7L)</li>
+                  <li>Organic      Chemistry (CHEM 40A-B and 43A)</li>
+                  <li>Mathematics      (MATH 10A-B and 11 <u>OR</u> 20A-B and 11) </li>
+                  <li>Physics      (PHYS 1A/1AL, 1B/1BL, and 1C/1CL <u>OR</u> 2A-B-C, and 2BL or 2CL or 2DL)				</li>
+				</ul>
+				<h4 class="program-overview-subhead-2">Upper-Division Requirements (forty-eight units total)</h4>
+		<ol>
+          <li>Metabolic      Biochemistry (BIBC 102) or Biochemical Energetics and Metabolism (CHEM      114B)</li>
+          <li>Genetics      (BICD 100)</li>
+          <li>Cell      Biology (BICD 110)</li>
+          <li>Molecular      Biology (BIMM 100)</li>
+          <li>Human      Physiology I (BIPN 100)</li>
+          <li>Three      human physiology and human disease core courses. At least one course must be taken from each group:</li>
+		
+          <p class="program-overview-subhead-6">Human Physiology</p>
+          <ul>
+            <li>Nutrition (BIBC 120)</li>
+            
+            <li>Embryos,       Genes, and Development (BICD 130)</li>
+            <li>Immunology       (BICD 140)</li>
+            <li>Circadian       Rhythms—Biological Clocks (BIMM 116)</li>
+            <li>Human       Physiology II (BIPN 102)</li>
+            <li>Biology and Medicine       of Exercise (BIPN 108)</li>
+            <li>Endocrinology       (BIPN 120)</li>
+            <li>Human       Reproduction (BIPN 134)</li>
+            <li>Cellular       Neurobiology (BIPN 140)</li>
+          </ul>
+          <p class="program-overview-subhead-6">Human Disease
+          </p>
+          
+            <ul type="circle">
+              <li>AIDS,       Science, and Society (BICD 136)</li>
+              <li>Genome       Diversity and Dynamics (BIEB 146)</li>
+              <li>Evolution       of Infectious Diseases (BIEB 152)</li>
+              <li>Molecular       Basis of Human Disease (BIMM 110)</li>
+              <li>Virology       (BIMM 114)</li>
+              <li>Pharmacology       (BIMM 118)</li>
+              <li>Medical       Microbiology (BIMM 124)</li>
+              <li>Biology       of Cancer (BIMM 134)</li>
+              <li>Diseases       of the Nervous System (BIPN 150)</li>
+              <li>The       Healthy and Diseased Brain (BIPN 152) </li>
+            </ul>
+<br>
+          <li>Upper-division lab course(s) (select one of the following options): </li>
+          <ul type="circle">
+            <li>Complete       one upper-division six-unit lab:  Animal       Physiology Lab (BIPN 105)</li>
+            <li>Complete       two upper-division lab courses (at least four units each). One of these must be BIBC 103, BICD 101, BICD 145, BIMM 101, BIMM 121, or BIMM 143. The other lab can be any other upper-division lab course offered by the UC San Diego Division of Biological Sciences or BISP 196/197/199 (at least four units).</li>
+          </ul>
+          
+          
+          <li>Major      electives totaling at least eight or ten units depending on the lab option      used for requirement seven (a total of forty-eight upper-division units is      required for completion of the major). A major elective is defined as an      upper-division biology course taken through the UC San Diego Division of      Biological Sciences. </li>
+		</ol>
+      
+       
+		<p>The following Scripps Institution of Oceanography courses may be taken and applied to this requirement eight above: SIO 121, 123, 124, 125, 126, 127, 128, 129, 131, 132, 133, 134, 138, 147, 181, and 189. </p>
+					<p>Students are required to meet the Division of Biological Sciences residency requirement. For more information on the residency requirement, please see the previous section, &ldquo;Division of Biological Sciences Residency Requirement.&rdquo;</p>
+<p>For more information on how Biological Sciences 193, 195, 196, 197, or 199 courses can be applied to major requirements, please see the previous section, &ldquo;<a href="#ssc">Special Studies Courses</a>.&rdquo; </p>
+
+<h3 class="program-overview-subhead-2">Microbiology Major </h3>
+<p>The microbiology major encompasses a wide range of topics from human health to biotechnology, synthetic biology to microbiomes, and biofuels to bioremediation. This major provides students with a solid background in biochemistry, genetics, molecular biology, and basic microbiology, and then allows them to tailor their studies for an emphasis in general, medical, biotechnological, or environmental microbiology. The microbiology major provides a foundation for careers in a variety of fields including health care, epidemiology, clinical diagnostics, food microbiology, microbial fermentation, environmental testing, health and environmental public policy, biotechnology, bioenergy, and biomanufacturing. The microbiology major will also provide an excellent foundation for graduate studies in microbiology, virology, infectious diseases, biotechnology, and related fields, as well as for medical, dental, nursing, veterinary, and pharmacy school.  </p>
+				<h4 class="program-overview-subhead-2">Lower-Division Requirements (sixty-five or sixty-six units total)</h4>
+				<ul>
+			      <li>Biology      (BILD 1, 3, and 4) </li>
+                  <li>General      Chemistry (CHEM 6A-B-C and 7L)</li>
+                  <li>Organic      Chemistry (CHEM 40A-B and 43A)</li>
+                  <li>Mathematics      (MATH 10A-B and 11 <u>OR</u> 20A-B and 11)</li>
+                  <li>Physics      (PHYS 1A/1AL, 1B/1BL, and 1C/1CL <u>OR</u> 2A-B-C, and 2BL or 2CL or 2DL)				</li>
+				</ul>
+				<h4 class="program-overview-subhead-2">Upper-Division Requirements (forty-eight units total)</h4>
+				<ol>
+                  <li>One of      the following biochemistry courses: Structural Biochemistry (BIBC 100), or      Biochemical Structure and Function (CHEM 114A), or Metabolic Biochemistry      (BIBC 102), or Biochemical Energetics and Metabolism (CHEM 114B)</li>
+                  <li>Genetics      (BICD 100)</li>
+                  <li>Molecular      Biology (BIMM 100)</li>
+                  <li>Microbiology      (BIMM 120)</li>
+                  <li>Laboratory      in Microbiology (BIMM 121)</li>
+                  <li>Microbial      Genetics (BIMM 122)</li>
+                  <li>Three      courses from the following list of core electives:</li>
+                  <ul type="disc">
+                    <li>Immunology       (BICD 140)</li>
+                    <li>Genome       Diversity and Dynamics (BIEB 146)</li>
+                    <li>Evolution       (BIEB 150)</li>
+                    <li>Evolution       of Infectious Diseases (BIEB 152)</li>
+                    <li>Virology       (BIMM 114)</li>
+                    <li>Medical       Microbiology (BIMM 124)</li>
+                    <li>Genome       Science (BIMM 172)</li>
+                    <li>Biology       Meets Computing (CSE 180)</li>
+                  </ul>
+                  <li>Upper-division      biology lab: one upper-division lab course (at least four units) offered      by the UC San Diego Division of Biological Sciences. BISP 196/197/199 (at      least four units) may count toward this requirement.</li>
+				
+                  <li>Major      electives totaling at least six or eight units. A major elective is defined as an      upper-division biology course taken through the UC San Diego Division of      Biological Sciences. </li>
+                </ol>
+
+            
+        <p>The following Scripps Institution of Oceanography courses may be taken and applied to requirement nine above: SIO 121, 123, 124, 125, 126, 127, 128, 129, 131, 132, 133, 134, 138, 147, 181, and 189. </p>
+<p>Students are required to meet the Division of Biological Sciences residency requirement. For more information on the residency requirement, please see the previous section, &ldquo;Division of Biological Sciences Residency Requirement.&rdquo;</p>
+<p>For more information on how Biological Sciences 193, 195, 196, 197, or 199 courses can be applied to major requirements, please see the previous section, &ldquo;<a href="#ssc">Special Studies Courses</a>.&rdquo; </p>
+<div>
+      <div> </div>
+      </div>
+<h3 class="program-overview-subhead-2">Molecular and Cell Biology Major</h3>
+<p>The molecular and cell biology major emphasizes instruction in the basic molecular principles that allow organisms to live, grow, and adapt to their environment. Students will learn to apply concepts from biochemistry, molecular biology, genetics, and cell biology to a diverse array of questions ranging from how plants move toward light to the molecular basis of cancer. Students will also be exposed to interdisciplinary approaches to biology, such as bioinformatics, which combines genetics, molecular biology, and computer science. The broad scope of the molecular and cell biology major makes it ideal for students interested in a wide variety of careers including medicine, postgraduate training in basic or translational research, biotechnology, science writing and policy, public health, and science education.</p>
+<h4 class="program-overview-subhead-2">Lower-Division Requirements (sixty-five or sixty-six units total)</h4>
+				<ul>
+			      <li>Biology      (BILD 1, 3, and 4)</li>
+                  <li>General      Chemistry (CHEM 6A-B-C and 7L)</li>
+                  <li>Organic      Chemistry (CHEM 40A-B and 43A)</li>
+                  <li>Mathematics      (MATH 10A-B and 11 <u>OR</u> 20A-B and 11)</li>
+                  <li>Physics      (PHYS 1A/1AL, 1B/1BL, and 1C/1CL <u>OR</u> 2A-B-C, and 2BL or 2CL or 2DL) </li>
+				</ul>
+<h4 class="program-overview-subhead-2">Upper-Division Requirements (forty-eight units total)</h4>
+				<ol>
+                  <li>Structural      Biochemistry (BIBC 100) or Biochemical Structure and Function (CHEM 114A)</li>
+                  <li>Metabolic      Biochemistry (BIBC 102) or Biochemical Energetics and Metabolism (CHEM      114B)</li>
+                  <li>Genetics      (BICD 100)</li>
+                  <li>Cell      Biology (BICD 110)</li>
+                  <li>Molecular      Biology (BIMM 100)</li>
+                  <li>Three      of the following core electives:</li>
+                  <ul type="disc">
+                    <li>Nutrition       (BIBC 120)</li>
+                    <li>Genetic       Inquiry (BICD 102)</li>
+                    <li>Stem       Cells and Regeneration (BICD 112)</li>
+                    <li>Embryos,       Genes, and Development (BICD 130)</li>
+                    <li>Immunology       (BICD 140)</li>
+                    <li>Genome       Diversity and Dynamics (BIEB 146)</li>
+                    <li>Evolution       of Infectious Diseases (BIEB 152)</li>
+                    <li>Population       Genetics (BIEB 156)</li>
+                    <li>Molecular       Basis of Human Disease (BIMM 110)</li>
+                    <li>Regulation       of Eukaryotic Gene Expression (BIMM 112)</li>
+                    <li>Virology       (BIMM 114)</li>
+                    <li>Pharmacology       (BIMM 118)</li>
+                    <li>Microbiology       (BIMM 120)</li>
+                    <li>Microbial       Genetics (BIMM 122)</li>
+                    <li>Biology       of Cancer (BIMM 134)</li>
+                    <li>Electron       Microscopy of Macromolecules (BIMM 162) </li>
+                    <li>Genome       Science (BIMM 172)</li>
+                    <li>Cellular       Neurobiology (BIPN 140)</li>
+                    <li>Biology       Meets Computing (CSE 180)</li>
+                    <li>Physics       of the Cell (PHYS 177) </li>
+                    <li>Marine       Natural Products (SIO 124)</li>
+                  </ul>
+                  <li>Upper-division      lab course (select one of the following): Biochemical Techniques (BIBC      103) or Recombinant DNA Techniques (BIMM 101)</li>
+                  <li>Upper-division      lab elective: one upper-division lab course (at least four units) offered      by the UC San Diego Division of Biological Sciences. BISP 196/197/199 (at      least four units) may count toward this requirement.</li>
+                  <li>Major      electives totaling at least six or eight units depending on the lab option      used for requirement eight (a total of forty-eight upper-division units is      required for completion of the major). A major elective is defined as an      upper-division biology course taken through the UC San Diego Division of      Biological Sciences. </li>
+				</ol>
+    
+		<p>The following Scripps Institution of Oceanography courses may be taken and applied to requirement nine above: SIO 121, 123, 124, 125, 126, 127, 128, 129, 131, 132, 133, 134, 138, 147, 181, and 189. </p>
+		<p>Students are required to meet the Division of Biological Sciences residency requirement. For more information on the residency requirement, please see the previous section, &ldquo;Division of Biological Sciences Residency Requirement.&rdquo;</p>
+<p>For more information on how Biological Sciences 193, 195, 196, 197, or 199 courses can be applied to major requirements, please see the previous section, &ldquo;<a href="#ssc">Special Studies Courses</a>.&rdquo;</p>
+<div>
+  <div> </div>
+</div>
+<h3 class="program-overview-subhead-2">Neurobiology Major </h3>
+<p>The neurobiology major provides an interdisciplinary study of the nervous system, with the ultimate goal to understand higher brain function in health and disease. The nervous system can be studied at multiple levels of analysis including molecular and cellular biology, electrophysiology, brain systems, behavior and cognition, and computational network modeling. The major is designed to combine fundamental courses in biology, neurophysiology, and cellular neurobiology, with the option for students to tailor their neurobiology studies toward particular areas of interest. Graduates are prepared for advanced study in biological sciences, particularly neuroscience, medicine, business or law, writing and publishing, government and policy, global health, as well as professions in education and biotechnology. </p>
+				<h4 class="program-overview-subhead-2">Lower-Division Requirements (sixty-nine or seventy units total)</h4>
+				<ul>
+                  <li>Biology      (BILD 1, 2, 3, and 4)</li>
+                  <li>General      Chemistry (CHEM 6A-B-C and 7L)</li>
+                  <li>Organic      Chemistry (CHEM 40A-B and 43A)</li>
+                  <li>Mathematics      (MATH 10A-B and 11 <u>OR</u> 20A-B and 11) (MATH 18 is recommended for      those with an interest in computational neurobiology.)</li>
+                  <li>Physics      (PHYS 1A/1AL, 1B/1BL, and 1C/1CL <u>OR</u> 2A-B-C, and 2BL or 2CL or 2DL) </li>
+				</ul>
+                <h4 class="program-overview-subhead-2">Upper-Division Requirements (forty-eight units total)</h4>
+				<ol>
+                  <li>Metabolic      Biochemistry (BIBC 102) or Biochemical Energetics and Metabolism (CHEM      114B)</li>
+                  <li>Genetics      (BICD 100)</li>
+                  <li>Molecular      Biology (BIMM 100)</li>
+                  <li>Human      Physiology I (BIPN 100)</li>
+                  <li>Cellular      Neurobiology (BIPN 140)</li>
+                  <li>Three      of the following core elective courses: </li>
+                    <ul type="disc">
+                      <li>Animal       Behavior and Communication (BIEB 166)</li>
+                      <li>Systems       Neurobiology (BIPN 142)</li>
+                      <li>Developmental       Neurobiology (BIPN 144) </li>
+                      <li>Computational       Cellular Neurobiology (BIPN 146) </li>
+                      <li>Computational       Systems Neurobiology (BIPN 147)</li>
+                      <li>Cellular       Basis of Learning and Memory (BIPN 148)</li>
+                      <li>Diseases       of the Nervous System (BIPN 150)</li>
+                      <li>The       Healthy and Diseased Brain (BIPN 152)</li>
+                      <li>Neuroanatomy       (BIPN 160)</li>
+                      <li>Brain,       Behavior, and Evolution (BIPN 189)</li>
+                      <li>Methods       in Human Comparative Neuroscience (ANBI 112)</li>
+                      <li>Biophysics       of Neurons and Networks (PHYS 178) </li>
+                    </ul>
+                    <li>Neurobiology      Laboratory (BIPN 145)</li>
+                    <li>Upper-division      biology lab: one upper-division lab      course (at least four units) offered by the UC San Diego Division of      Biological Sciences. BISP      196/197/199 (at least four units) may count toward this requirement.</li>
+                    <li>Major      electives totaling at least six or eight units depending on the lab option      used for requirement eight (a total of forty-eight upper-division units is      required for completion of the major). A major elective is defined as an      upper-division biology course taken through the UC San Diego Division of      Biological Sciences. </li>
+				</ol>
+           
+           
+		<p>The following Scripps Institution of Oceanography courses may be taken and applied to requirement nine above: SIO 121, 123, 124, 125, 126, 127, 128, 129, 131, 132, 133, 134, 138, 147, 181, and 189. </p>
+		<p>Students are required to meet the Division of Biological Sciences residency requirement. For more information on the residency requirement, please see the previous section, &ldquo;Division of Biological Sciences Residency Requirement.&rdquo;</p>
+<p>For more information on how Biological Sciences 193, 195, 196, 197, or 199 courses can be applied to major requirements, please see the previous section, &ldquo;<a href="#ssc">Special Studies Courses</a>.&rdquo; </p>
+<div>
+      <div> </div>
+      </div>
+<div>
+      <div> </div>
+      </div>
+<p class="anchor-parent"><a class="anchor" id="minor"></a></p><h2 class="program-overview-subhead-1">Minor in Biological Sciences</h2>
+				<p>To receive a minor from the Division of Biological Sciences, a student must complete at least twenty-eight units of course work, of which at least twenty units must be upper division. </p>
+<h4 class="program-overview-subhead-2">Lower-Division Requirements <br>
+	</h4>
+		<p>BILD 1 and 3 or BILD 10 and 3 </p>
+				<h4 class="program-overview-subhead-2">Upper-Division Requirements </h4>
+				<p>Any upper-division biology courses offered by the Division of Biological Sciences at UC San Diego.</p>
+        <ul type="disc">
+                  <li>All courses must be taken for a letter grade, with the exception      of AP credit and BISP 193, 195, 196, 197, or 199.</li>
+                  <li>Students may use one of the following courses toward the minor:      BISP 193, 195, 196, 197, or 199.</li>
+                  <li>The minimum GPA requirement for the biology minor is 2.0 in the      upper‐division courses.</li>
+                  <li>All courses must be completed with a letter grade of C–&nbsp;or better.</li>
+                  <li>Students may apply one (1) upper-division transferable biology      course from another institution, after obtaining approval from the UC San      Diego Division of Biological Sciences.</li>
+                  <li>Students may not minor and major in the Division of Biological      Sciences.&nbsp;&nbsp;</li>
+                  <li>Students may apply the equivalent of two upper‐division courses (a maximum of eight units) to fulfill the requirements      for a minor that have also been used to satisfy the requirements of a      major.</li>
+        </ul>
+        <!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

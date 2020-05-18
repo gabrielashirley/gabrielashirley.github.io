@@ -1,0 +1,933 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Education Studies</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Education Studies</h1>
+<p class="sectionNav"><span class="courseFacLink">[ <a href="../curric/EDS-ug.html">undergraduate
+      program</a> | <a href="../courses/EDS.html">courses</a> | <a href="../faculty/EDS.html">faculty</a> ]</span></p>
+<p class="program-contact-info">University Center<br>
+  Pepper Canyon Hall, Third Floor<br />
+  <a href="http://eds.ucsd.edu" target="_blank">http://eds.ucsd.edu </a></p>
+<!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><p class="anchor-parent"><a class="anchor" id="grad"></a></p><h2 class="program-overview-subhead-1">Graduate Programs </h2>
+				<h3 class="program-overview-subhead-2">Master of Education (MEd)/Credential Program </h3>
+				<p>The MEd articulates with the Preliminary Multiple Subject, Preliminary Single Subject, and Preliminary Education Specialist—Multiple Subject credential programs. It is a rigorous fifteen- to twenty-four-month professional degree program designed specifically to prepare preservice elementary, secondary, and special education teachers earning their initial teaching credential at UC San Diego.  This course of study allows candidates to earn a Preliminary California Teaching Credential and the MEd degree from UC San Diego prior to entering the teaching profession. The program seeks applicants with strong subject matter preparation and clear career intentions. </p>
+<h4 class="program-overview-subhead-3">MEd/Credential Admissions Process </h4>
+				<p><strong>The application deadline for the MEd/Credential programs is usually the beginning of February.</strong> All applicants must apply online at <a href="http://eds.ucsd.edu" target="_blank">http://eds.ucsd.edu.</a></p>
+				<p>Applicants interested in financial aid should complete the FAFSA application by March 2, and may contact Graduate Student Financial Services at (858) 534-4480. </p>
+				<p>Each applicant is carefully reviewed for admission by a committee. The selection committee ensures that applicants have completed the prerequisite program requirements for admission and evaluates each applicant on the basis of the following criteria: </p>
+				<ol class="upper-alpha">
+				  <li>A strong interest in multicultural approaches to education; a strong
+				    desire to improve the quality of American education; a strong
+				    desire to develop self-activated learners; </li>
+				  <li>Experience working with children in educational environments, especially
+				    with students from diverse backgrounds; </li>
+				  <li>Participation in public service activities; </li>
+				  <li>Academic excellence in their undergraduate and graduate studies. </li>
+	    </ol>
+<p>For more information about the entire application process please visit the Department of Education Studies (EDS)  website at <a href="http://eds.ucsd.edu" target="_blank">http://eds.ucsd.edu</a>. </p>
+<h3 class="program-overview-subhead-2">MEd/Preliminary Multiple Subject (Elementary) Credential </h3>
+				<p>Students working toward any major at UC San Diego may complete the prerequisite educational foundation courses for the MEd/Multiple Subject Credential Program and admission requirements while they are undergraduates. </p>
+<p>Candidates who have already received a bachelor of arts or science from
+				  any University of California campus, or an appropriate equivalent
+				  degree from another institution, must apply for graduate status
+				  as an MEd Preliminary Multiple Subject Credential student. </p>
+				<p>Students applying for admission to the UC San Diego graduate credential program must contact EDS for information on the required prerequisite course requirements.				</p>
+				<h4 class="program-overview-subhead-3">Admissions Requirements for the Multiple Subject Preliminary Credential </h4>
+                <ol>
+                  <li>A 3.0 cumulative GPA is required from the institution
+                    awarding the bachelor&#8217;s degree. </li>
+                  <li>Subject Matter Competence: This requirement is satisfied
+                    by providing evidence of satisfactory completion of the California
+                    Subject Examinations for Teachers (CSET). </li>
+                  <li>Basic skills:      Evidence of passing the California Basic Educational Skills Test (CBEST), or CSET      Writing Skills exam, satisfies this requirement. Other options to meet the      California Basic Educational Skills requirement:  </li>
+             
+                  <ul type="circle">
+
+                        <li>Satisfactory       scores on the SAT, ACT, and AP exams; California State University (CSU) Early Assessment Program (EAP) Placement Test; or the Entry-Level Mathematics (ELM) Placement Test and English Placement Test (EPT).  Please       see an EDS adviser for more information.</li>
+       
+                    <li>Passage       of a basic skills examination from another state. Certain states are       excluded. Please see an EDS adviser for more information.</li>
+                  </ul>
+                  
+                  
+                  <li>US Constitution requirement: This requirement is satisfied
+                    by either</li>
+                  
+                  
+                  <ul type="circle">
+                    <li>Completion       of a course covering the provisions and principles of the US Constitution       (must be approved by EDS; contact an EDS adviser for more information).  
+                      <div>
+                        <div> </div>
+                      </div>
+                    </li>
+                    <li>Completion       of a BA/BS degree from a CSU.
+                   
+                    <li>Passage       of an appropriate exam offered through an accredited university. Contact an       EDS adviser for information. </li>
+                    <li>A       score of 3 or better on the AP US History or AP US Government   
+                      
+and       Politics exam.</li>
+                    </ul>
+                  
+                  <li>Sensitivity to second language learning: Applicants
+                    must demonstrate, through course work or equivalent experience,
+                    an informed sensitivity to the challenges of second language
+                    learning and acquisition. This can be fulfilled in one of
+                    three ways: </li>
+                  <ul><li>Completion of nine quarter units of college course work
+                    in a single language that is not the applicant&#8217;s native
+                    language, or </li>
+                    <li>Completion of three years of secondary school course work
+                      in a language other than English. The course work must be
+                      taken in grades seven through twelve, with at least a B average,
+                    or </li>
+                    <li>Demonstration of an “equivalent experience” in a second
+                      language situation. Applicants who wish to satisfy this requirement
+                      by one of the three options listed below must submit an essay
+                      that describes the length and circumstances of the experience,
+                      including at least three specific examples of situations
+                      that helped you gain personal knowledge and appreciation
+                      of issues surrounding second language acquisition in a diverse
+                      cultural setting. The three equivalent experience options
+                    are</li>
+                    <ul><li>The applicant has lived for prolonged period of time in
+                      a country where the language spoken was not native to the
+                      applicant, and where the applicant was continuously required
+                      to speak that second language (e.g., Peace Corps). </li>
+                      <li>The applicant has had an extended experience immersed in
+                       a multilingual community in his/her native country. </li>
+                  <li>The applicant was raised in a multilingual community.</li></ul></ul>
+                  <li>Official scores on the Graduate Record Exam (GRE)
+                    general test.</li>
+                  <li>Satisfactory completion of the education foundations
+                    prerequisites for the Multiple Subject Credential (contact
+                    EDS for the current prerequisite requirements).</li>
+                  
+                </ol>
+                <p><em><a href="#bilingual">For candidates interested in teaching in bilingual settings, please see the Bilingual Authorization Program section below</a></em><a href="#bilingual">.                </a></p>
+                <h4 class="program-overview-subhead-3">Multiple Subject Professional Preparation </h4>
+				<p>The professional preparation component of the Preliminary Multiple Subject credential consists of fifteen courses and fifteen weeks of student teaching in elementary school classrooms. </p>
+				<p>A typical student schedule for the Multiple Subject Professional Preparation Program is shown in Table 1. </p>
+				<p class="table-sample-schedule-head">Table 1: The Professional Preparation Program for the MEd/Preliminary Multiple Subject Credential</p>
+<table class="sample-program">
+<tr class="coloredRow">
+<th><p><strong>FALL</strong></p></th>
+<th><p><strong>WINTER</strong></p></th>
+<th><p><strong>SPRING</strong></p></th>
+<th><p><strong>SUMMER</strong></p></th>
+</tr>
+<tr>
+<td><p>EDS 351 (4)</p></td>
+<td><p>EDS 361B (6)</p></td>
+<td><p>EDS 361C (4)</p></td>
+<td><p>EDS 204 (4)</p></td>
+</tr>
+<tr>
+<td><p>EDS 361A (6)</p></td>
+<td><p>EDS 369A (9)</p></td>
+<td><p>EDS 369B (9)</p></td>
+<td><p>EDS 206 (4)</p></td>
+</tr>
+<tr>
+<td><p>EDS 190 (4)</p></td>
+<td><p>EDS 205A (2)</p></td>
+<td><p>EDS 382 (4)</p></td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><p>EDS 201 (4)</p></td>
+<td>&nbsp;</td>
+<td><p>EDS 205B (2)</p></td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><p>EDS 203 (4)</p></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><p>EDS 250 (4)</p></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td colspan="4"><p><strong>For Bilingual Authorization Candidates</strong></p></td>
+</tr>
+<tr>
+<td><p>EDS 352A (2)</p></td>
+<td><p>EDS 352B (2)</p></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+<h3 class="program-overview-subhead-2">MEd/Education Specialist—Multiple Subject Dual Credential Program</h3>
+<p>Students working toward any major at UC San Diego may complete the prerequisite admission requirements and educational foundations for the MEd/Education Specialist—Multiple Subject Dual Credential Program courses while they are undergraduates. </p>
+<p>Candidates who have already received a bachelor of arts or science from any University of California campus, or an appropriate equivalent degree from another institution, must apply for graduate status as an MEd/Preliminary Education Specialist—Multiple Subject Dual Credential student. </p>
+<p>Students applying for admission to the UC San Diego graduate credential program must contact EDS for information on the required prerequisite course requirements. </p>
+<h4 class="program-overview-subhead-2">Admissions Requirements for the Education Specialist—Multiple Subject Preliminary Dual Credential Program </h4>
+<ol start="1" type="1">
+  <li>A 3.0      cumulative GPA is required from the institution awarding the bachelor&rsquo;s      degree. </li>
+  <li>Subject      Matter Competence: This requirement is satisfied by providing evidence of      satisfactory completion of the California Subject Examinations for      Teachers (CSET). </li>
+    <li>Basic skills:      Evidence of passing the California Basic Educational Skills Test (CBEST), or CSET Writing Skills exam, satisfies this requirement. Other options to meet the California Basic Educational Skills requirement:   </li>
+    <ul type="circle">
+      <li>Satisfactory       scores on the SAT, ACT, and AP exams; California State University (CSU) Early Admissions Program (EAP) Placement Test; or the Entry-Level Mathematics (ELM) Placement Test and English Placement Test (EPT).    
+        Please see an EDS adviser for more information.</li>
+      <li>Passage       of a basic skills examination from another state. Certain states are       excluded. Please see an EDS adviser for more information.</li>
+    </ul>
+<li> US Constitution requirement: This requirement is satisfied by either</li>
+<ul type="circle">
+<li>Completion       of a course covering the provisions and principles of the US Constitution (must be approved by EDS; contact an EDS adviser for more information).</li>
+    <li>Completion       of a BA/BS degree from a California State University (CSU).</li>
+    <li>Passage       of an appropriate exam offered through an accredited university. Contact       an EDS adviser for information. </li>
+    <li>A       score of 3 or better on the US History or AP US Government   
+      and       Politics exam.</li>
+		</ul>
+
+  <li>Sensitivity      to second language learning: Applicants must demonstrate, through course      work or equivalent experience, an informed sensitivity to the challenges      of second language learning and acquisition. This can be fulfilled in one      of three ways: </li>
+  <ul type="circle">
+    <li>Completion       of nine quarter units of college course work in a single language that is       not the applicant&rsquo;s native language, or </li>
+    <li>Completion       of three years of secondary school course work in a language other than       English. The course work must be taken in grades seven through twelve,       with at least a B average, or </li>
+    <li>Demonstration       of an &ldquo;equivalent experience&rdquo; in a second language situation. Applicants       who wish to satisfy this requirement by one of the three options listed       below must submit an essay that describes the length and circumstances of       the experience, including at least three specific examples of situations       that helped you gain personal knowledge and appreciation of issues       surrounding second language acquisition in a diverse cultural setting.       The three equivalent experience options are</li>
+    <ul type="square">
+      <li>The        applicant has lived for a prolonged period of time in a country where        the language spoken was not native to the applicant, and where the        applicant was continuously required to speak that second language (e.g.,        Peace Corps). </li>
+      <li>The        applicant has had an extended experience immersed in a multilingual        community in his or her native country. </li>
+      <li>The        applicant was raised in a multilingual community.</li>
+      </ul>
+  </ul>
+  <li>Official      scores on the Graduate Record Exam (GRE) general test. </li>
+  <li>Satisfactory      completion of the education foundations prerequisites for the Education      Specialist—Multiple Subject Dual Credential (contact EDS for the current      prerequisite requirements).</li>
+</ol>
+<p><em><a href="http://stage-pubs.ucsd.edu/GenCatStage/020817/curric/EDS-gr.html#bilingual" target="_blank">For candidates interested in teaching in bilingual settings, please see the Bilingual Authorization Program section below</a></em><a href="http://stage-pubs.ucsd.edu/GenCatStage/020817/curric/EDS-gr.html#bilingual">. </a></p>
+<h4 class="program-overview-subhead-2">Education Specialist—Multiple Subject Professional Preparation </h4>
+<p>The professional preparation component of the Preliminary Education Specialist—Multiple Subject dual credential program consists of twenty courses and twenty-five weeks of practice teaching in elementary school, special, and general education classrooms. </p>
+<p>Students in the MEd/Preliminary Education Specialist—Multiple Subject dual credential program are eligible to be interviewed in the second summer for a paid internship or student teaching position in a local school for the following fall quarter. Availability of internship positions is not guaranteed, though EDS attempts to facilitate internship positions for all Education Specialist—Multiple Subject dual credential students. Students who do not receive an internship position will do their practicum as student teachers instead. Interns are responsible for teaching classes under the guidance of an EDS supervisor and an on-site support-provider. Interns are typically hired as full- or part-time teachers and receive a salary from the school district commensurate with the teaching assignment.</p>
+<p>A typical student schedule for the Preliminary Education Specialist—Multiple Subject Dual Credential Professional Preparation Program is shown in Table 2. </p>
+<p>Table 2: Preliminary Education Specialist—Multiple Subject Dual Credential Professional Preparation Program</p>
+<table class="sample-program">
+<tr class="coloredRow">
+
+   <th><p><strong>FALL</strong></p></th>
+<th><p><strong>WINTER</strong></p></th>
+<th><p><strong>SPRING</strong></p></th>
+<th><p><strong>SUMMER</strong></p></th>
+   <th><p><strong>FALL</strong></p></th>
+  </tr>
+  <tr>
+    <td><p>EDS 351 (4)</p></td>
+    <td><p>EDS 361B (6)</p></td>
+    <td><p>EDS 361C (4)</p></td>
+    <td ><p>EDS 204 (4)</p></td>
+    <td ><p>EDS 359 (9)</p></td>
+  </tr>
+  <tr>
+    <td><p>EDS 361A (6)</p></td>
+    <td><p>EDS 369A (9)</p></td>
+    <td><p>EDS 369B (9)</p></td>
+    <td ><p>EDS 206 (4)</p></td>
+    <td ><p>EDS 384 (4)</p></td>
+  </tr>
+  <tr>
+    <td><p>EDS 190 (4)</p></td>
+    <td><p>EDS 205A (2)</p></td>
+    <td><p>EDS 382 (4)</p></td>
+    <td ></td>
+    <td ><p>&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p>EDS 201 (4)</p></td>
+    <td><p>&nbsp;EDS 343B (4)</p></td>
+    <td><p>EDS 205B (2)</p></td>
+    <td ></td>
+    <td ><p>&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p>EDS 203 (4)</p></td>
+    <td></td>
+    <td><p>&nbsp;EDS 343C (4)</p></td>
+    <td ></td>
+    <td ><p>&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p>EDS 250 (4)<br>
+      EDS 343A (4)</p></td>
+    <td></td>
+    <td></td>
+    <td ></td>
+    <td ><p>&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td colspan="5"><p><strong>For Bilingual Authorization Candidates</strong></p></td>
+  
+  </tr>
+  <tr>
+    <td><p>EDS 352A (2)</p></td>
+    <td><p>EDS 352B (2)</p></td>
+    <td></td>
+    <td ></td>
+    <td ><p>&nbsp;</p></td>
+  </tr>
+</table>
+
+<h3 class="program-overview-subhead-2">MEd/Preliminary Single Subject (Secondary) Credential </h3>
+				<p>Students working toward the following majors at UC San Diego may complete the prerequisite educational foundation courses for the MEd/Single Subject Credential Program and admission requirements while they are undergraduates: </p>
+                <ol start="1" type="1">
+                  <ul type="circle">
+                    <li>English:       Any UC San Diego literature or linguistics major, or equivalent. </li>
+                    <li>Mathematics:       Any UC San Diego mathematics, engineering, or computer science major, or       equivalent. </li>
+                    <li>Science:       Biology, chemistry, geosciences, or physics; or any UC San Diego natural       science major, or equivalent.</li>
+                    <li>World       Language: Any UC San Diego language or literature major, or equivalent. <strong>Note:</strong> The major must be in the language the candidate wishes to teach.</li>
+                  </ul>
+                </ol>
+                <p>Candidates who have already received a bachelor of arts or science from any University of California campus, or an appropriate equivalent degree from another institution, must apply for graduate status as an MEd Preliminary Single Subject Credential student. </p>
+                <p>Students applying for admission to the UC San Diego graduate credential program must contact EDS for information on the required prerequisite course requirements. </p>
+<h4 class="program-overview-subhead-3">Admissions Requirements for the Single Subject Preliminary Credential </h4>
+				<ol>
+                  <li>A 3.0 cumulative GPA is required from the      institution awarding the bachelor&rsquo;s degree. </li>
+                  <li>Subject Matter Competence: This requirement is satisfied by either</li>
+                  <ul type="circle">
+                    <li>Providing evidence of satisfactory completion of the appropriate       sections of the California Subject Examinations for Teachers (CSET) or </li>
+                    <li>Having completed the entire subject matter preparation program (for       mathematics and life sciences candidates only).</li>
+                  </ul>
+		
+                  <li>Basic skills: Evidence of passing the California Basic Educational Skills Test (CBEST), or CSET Writing Skills exam, satisfies this      requirement. Other options to meet the California Basic Educational Skills      requirement:  </li>
+                  <ul type="circle">
+                    <li>Satisfactory scores on       the SAT, ACT, and AP exams; California State University (CSU) Early Admissions Program (EAP) Placement Test; or the Entry-Level Mathematics (ELM) Placement Test and English Placement Test (EPT).    
+                    
+Please see an EDS adviser for more information.</li>
+                    <li>Passage of a basic skills       examination from another state. Certain states are excluded. Please see       an EDS adviser for more information.</li>
+                  </ul>
+                  <li>US Constitution      requirement: This requirement is satisfied by either</li>
+                  <ul type="circle">
+                    <li>Completion of a course       covering the provisions and principles of the US Constitution (must be       approved by EDS; contact an EDS adviser for more information).</li>
+                    <li>Completion of a BA/BS       degree from a CSU.  
+                      <div>
+                        <div> </div>
+                        <div> </div>
+                      </div>
+                    </li>
+                    <li>Passage of an appropriate       exam offered through an accredited university. Contact an EDS adviser for       information. </li>
+                    <li>A score of 3 or better on       the AP US History or AP US Government and Politics exam.</li>
+                  </ul>
+                  
+                  <li>Sensitivity to second language learning: Applicants must demonstrate,
+                    through course work or equivalent experience, an informed sensitivity
+                    to the challenges of second language learning and acquisition. This can
+                    be fulfilled in one of three ways: </li>
+                  <ul> <li>Completion of nine quarter units of college course work in a single
+                    language that is not the applicant&#8217;s native language or </li>
+                    <li>Completion of three years of secondary school course work in a language
+                      other than English. The course work must be taken in grades seven through
+                     twelve, with at least a B average or </li>
+                    <li>Demonstration of an “equivalent experience” in a second language situation.
+                      Applicants who wish to satisfy this requirement by one of the three options
+                      listed below must submit an essay that describes the length and circumstances
+                      of the experience, including at least three specific examples of situations
+                      that helped you gain personal knowledge and appreciation of issues surrounding
+                      second language acquisition in a diverse cultural setting. The three
+                     equivalent experience options are: </li>
+                    <ul><li>The applicant has lived for a prolonged period of time in a country
+                      where the language spoken was not native to the applicant, and where
+                      the applicant was continuously required to speak that second language
+                      (e.g., Peace Corps). </li>
+                      <li>The applicant has had an extended experience immersed in a multilingual
+                      community in his/her native country. </li>
+                  <li>The applicant was raised in a multilingual community. </li></ul></ul>
+                  <li>Official scores on the Graduate Record Exam (GRE) general test. </li>
+                  <li>Satisfactory completion of the education foundations prerequisites
+                    for the Single Subject Credential (contact EDS for the current prerequisite
+                    requirements). </li>
+                </ol>
+        <p><em><a href="#bilingual">For candidates interested in teaching in bilingual settings, please see the Bilingual Authorization Program section below</a></em><a href="#bilingual">.</a></p>
+        <h4 class="program-overview-subhead-3">Single Subject Professional Preparation </h4>
+				<p>Students engage in an intensive program of professional preparation, including five teaching methods courses in the summer prior to the internship, and seminars offered throughout the academic year that address classroom management techniques and strategies for dealing with individual teaching situations. </p>
+				<p>Students admitted to the MEd/Preliminary Single Subject Credential Program are eligible to be interviewed in the summer for a paid internship or student teaching position in a local middle or high school for the following school year. Availability of internship positions is not guaranteed, though EDS attempts to facilitate internship positions for all Single Subject students. Students who do not receive an internship position will do their practicum as student teachers instead. Interns are responsible for teaching classes in their subject area under the guidance of an EDS supervisor and an on-site support-provider. Interns are typically hired as part-time teachers and receive a salary from the school district commensurate with the number of sections taught. </p>
+				<p>A typical student schedule for the Preliminary Single Subject Professional Preparation Program is shown in Table 3. </p>
+<p class="table-sample-schedule-head">Table 3: The Professional Preparation Program for the MEd/Preliminary Single Subject Credential </p>
+<table class="sample-program">
+<tr class="coloredRow">
+<th><p><strong>SUMMER</strong></p></th>
+<th><p><strong>FALL</strong></p></th>
+<th><p><strong>WINTER</strong></p></th>
+<th><p><strong>SPRING</strong></p></th>
+<th><p><strong>SUMMER <span class="smallText">(2)</span></strong></p></th>
+</tr>
+<tr>
+<td><p>EDS 372 373<br />
+374 or 375 (4)</p></td>
+<td><p>EDS 379A (8)</p></td>
+<td><p>EDS 379B (8)</p></td>
+<td><p>EDS 379C (8)</p></td>
+<td><p>EDS 204 (4) </p></td>
+</tr>
+<tr>
+<td><p>EDS 376 (4)</p></td>
+<td><p>EDS 351 (4)</p></td>
+<td><p>EDS 381 (4)</p></td>
+<td><p>EDS 382 (4)</p></td>
+<td><p>EDS 206 (4)</p></td>
+</tr>
+<tr>
+<td><p>EDS 201 (4)</p></td>
+<td><p>&nbsp;</p></td>
+<td><p>EDS 205A (2)</p></td>
+<td><p>EDS 205B (2)</p></td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><p>EDS 203 (4)</p></td>
+<td>&nbsp;</td>
+<td><p>&nbsp;</p></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><p>EDS 250 (4)</p></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td colspan="5"><p><strong>For Bilingual Authorization Candidates</strong></p></td>
+</tr><tr>
+<td><p>&nbsp;</p></td>
+<td><p>EDS 352A (2)</p></td>
+<td><p>EDS 352B (2)</p></td>
+<td>&nbsp;</td>
+<td><p>&nbsp;</p></td>
+</tr></table>
+<p class="anchor-parent"><a class="anchor" id="bilingual"></a></p><h3>Bilingual Authorization Program for MEd/Credential Candidates</h3>
+<p>The Bilingual Authorization Program (BLA) at the Department of Education Studies prepares graduate EDS students admitted into the MEd/Multiple, Single-Subject, and Education Specialist—Multiple Subject Teaching Credential Programs to add a Bilingual Authorization in eight different languages.</p>
+<ol start="1" type="1">
+  <li>Prerequisites      for recommendation for a Bilingual Authorization (Spanish, Asian, and Middle-Eastern      Languages). The Bilingual Authorization is designed to prepare teachers      who have sufficient bilingual skills to effectively teach in both English      and the language of emphasis. Candidates must demonstrate proficiency in      the language and culture of emphasis as well as bilingual methodology by      exam (CSET: LOTE), completion of course work, or a combination of course      work and exam. Students interested in applying for admission to the      Bilingual Authorization program must demonstrate the following competencies      prior to recommendation for the Authorization:</li>
+  <ul type="circle">
+    <li><em>Language competence:</em><br>
+      <em>Spanish:</em> Option 1) Completion       of the EDS Spanish Language Assessment, with a score of at least       Intermediate-High (students must receive a score of Advanced prior to       being recommended for the Bilingual Authorization). EDS coordinates these       exams; please contact the program in January prior to your application to       the credential program; OR, Option 2) Satisfactory scores on the CSET:       LOTE Test III in Spanish. <em>Asian and Middle-Eastern Languages (Arabic, Cantonese,       Filipino, Japanese, Korean, Mandarin, and Vietnamese): </em>Satisfactory score on the appropriate CSET:       LOTE Language exam subtest.</li>
+    <li><em>Cultural knowledge:</em><br>
+      <em>All languages: </em>Option 1) One       history course and one culture course covering topics related to the       experiences of speakers of the language of emphasis. Courses must be       upper-division and of at least four quarter units each; OR, Option 2)       Satisfactory score on CSET: LOTE Exam V for the language of emphasis.</li>
+    <li><em>Methodological knowledge:<br>
+      </em><span class="italic">Spanish, Asian, and Middle-Eastern Languages:</span> EDS 125, EDS 352A, and EDS 352B</li>
+    </ul>
+</ol>
+<ol start="2" type="1">
+  <li>A      desire to teach in a bilingual setting.</li>
+</ol>
+<p><strong>Note: </strong>A grade of B– or higher is required for all Bilingual Authorization courses. </p>
+<h3 class="program-overview-subhead-2">The Master of Arts in Teaching and Learning: Curriculum Design </h3>
+<p>The MA in Teaching and Learning (Curriculum Design) offers professional pre-K through postsecondary educators an extensive overview of principles of educational research and curriculum design. </p>
+				<p>A key feature of the MA program is the integration of research and practice. MA students remain full-time practitioners for the duration of the program. They design, implement, and evaluate curricular innovations in their own classrooms. The culmination of the MA work is a thesis describing the rationale, development, and effectiveness of these innovations. </p>
+				<h5 class="program-overview-subhead-4">Examples of MA Research Projects </h5>
+				<p>The topics of the MA theses in past years are varied, and have included: multimedia approaches to secondary biology and chemistry instruction; writing revision among emergent writers; building partnerships between families and schools; activities which link home and school experiences in the content areas of reading and writing, mathematics, science, and social studies; improved integration of curriculum and assessment; motivation and art; using technology for mathematics and geography teaching; and embedding ESL in native-language instruction. </p>
+<h4 class="program-overview-subhead-3">The MA Course of Study (Teaching and Learning: Emphasis in Curriculum Design) </h4>
+				<p>The MA program requirements consist of forty quarter units of course work, including the master&#8217;s thesis. Courses are usually offered for four quarter units of credit, and are typically offered one night per week, from 5:00–8:00 p.m. Core course work comprises twenty-eight units, with the remaining twelve units consisting of elective course work. </p>
+				<p>A typical program consists of</p>
+        <h5 class="program-overview-subhead-6">First Summer </h5>
+				<ul>
+			    <li class="list-level-1">EDS 231. Advanced Instructional Practices or <br />EDS 232. Special Topics in Education (offered alternating summers) </li>
+					<li class="list-level-1">EDS 229. Introduction to Educational Resources </li>
+				</ul>
+				<h5 class="program-overview-subhead-6">Fall, Winter, and Spring</h5>
+				<ul>
+			    <li class="list-level-1">EDS 230A-B-C. Research in Curriculum Design </li>
+					<li class="list-level-1">EDS 233A-B. Topics in Education Research and Design </li>
+					<li class="list-level-1">EDS 290. Research Practicum </li>
+				</ul>
+				<h5 class="program-overview-subhead-6">Second Summer</h5>
+				<ul>
+			    <li class="list-level-1">EDS 231. Advanced Instructional Practices or <br />EDS 232. Special Topics in Education (offered alternating summers) </li>
+					<li class="list-level-1">EDS 295. MA Thesis </li>
+				</ul>
+				<h4 class="program-overview-subhead-3">Admission Requirements </h4>
+				<p>Admission to the MA program in teaching and learning at UC San Diego is competitive. Factors considered by the selection committee include</p>
+				<ul>
+					<li class="list-level-1">Teaching experience </li>
+					<li class="list-level-1">Professional development activities </li>
+					<li class="list-level-1">Experience and interest in curriculum design </li>
+					<li class="list-level-1">Academic record </li>
+				</ul>
+				<p>The MA program is ideal for classroom teachers who wish to engage in an intensive professional development experience in which they gain knowledge of the research literature on teaching and learning, and who wish to develop their expertise as teacher-researchers and curriculum and instruction leaders.</p>
+				<p>Admission to graduate standing at UC San Diego requires a minimum cumulative GPA of 3.0 for any prior graduate work, and for the bachelor’s degree. Official scores from the GRE are also required. <strong>The application deadline is February 1.</strong> The MA in Teaching and Learning: Emphasis in Curriculum Design is not currently accepting applications.</p>
+<h3 class="program-overview-subhead-2">The Master of Arts in Teaching and Learning: Bilingual Education (ASL-English) </h3>
+				<p>The Department of Education Studies (EDS) at UC San Diego offers a Master of Arts in Teaching and Learning: Bilingual Education (ASL-English), the California Preliminary Multiple Subject Teaching Credential with a Bilingual Authorization in American Sign Language for elementary school teachers, and the Preliminary Education Specialist: Deaf and Hard-of-Hearing Credential. This program of study includes extensive practicum experience combined with the latest research and innovation in bilingual education and deaf education. Students in the program participate in research and development on the leading edge of bilingual, multicultural education for deaf and hard-of-hearing children. </p>
+<p>In keeping with its aim of training teachers who will be able to meet the needs of deaf and hard-of-hearing children from various language and cultural backgrounds, EDS requires fluency in ASL for acceptance into the program. EDS&#8217;s teacher training program is designed to prepare teachers to work in various types of school settings from residential school classrooms to local public school classrooms for deaf and hard-of-hearing children. EDS recognizes that deaf and hard-of-hearing children need teachers who are bilingual and knowledgeable about the role of culture in human development. </p>
+<h4>Program of Study for the Preliminary Education Specialist: Deaf and Hard-of-Hearing Credential, the Preliminary Multiple Subject Teaching Credential, and the Master of Arts in Teaching and Learning: Bilingual Education (ASL-English) </h4>
+<p>Students complete a program of study resulting in the California Deaf and Hard-of-Hearing Specialist Credential at the elementary level. Students also qualify for the Preliminary Multiple Subject Credential with a Bilingual Authorization in American Sign Language. </p>
+<p>This program of study consists of courses in bilingual education theory, methods, and applications to deaf education in addition to intensive classroom practice. During the second year of study the focus is on designing, implementing and evaluating a research-based project. This integration of research and practice is central to the goal of the MA program to develop teachers as researchers. </p>
+				<p>The complete program of study includes Professional Preparation course work and the Master of Arts specific course requirements. Both must be complete in order to receive the teaching credentials and the Master of Arts in Teaching and Learning: Bilingual Education (ASL-English). Please see an EDS adviser for a typical course of study, which would include all required courses.</p>
+				<h5>Professional Preparation Courses</h5>
+        <p class="course-list-overview">EDS 115. Cognitive Development and Education (4)</p>
+        <p class="course-list-overview">EDS 117. Language, Culture, and Education (4)</p>
+        <p class="course-list-overview">EDS 125. History, Politics, and Theory of Bilingual Education (4)</p>
+        <p class="course-list-overview">EDS 128A-B. Introduction to Teaching and Learning (4-4)</p>
+        <p class="course-list-overview">EDS 139. Practicum in Teaching and Learning (2-2)</p>
+<p class="course-list-overview">EDS 190. Research Practicum (4)</p>
+        <p class="course-list-overview">EDS 250. Equitable Educational Research Practice (4)</p>
+        <p class="course-list-overview">EDS 342A-B-C. ASL-English Bilingual Education Practices (4-4-4)</p>
+        <p class="course-list-overview">EDS 349. Deaf Education Specialist Student Teaching Practicum (9)</p>
+        <p class="course-list-overview">EDS 351.Teaching the English Language Learning (4)</p>
+        <p class="course-list-overview">EDS 361 A-B-C. Innovative Instructional Practices (6-6-4)</p>
+        <p class="course-list-overview">EDS 369 A-B. Multiple Subject Student Teaching Practicum (9-9)</p>
+        <p><span class="course-list-overview">EDS 382. Inclusive Education Practices (4)</span><br>
+        </p>
+        <h5>Master of Arts Course Requirements</h5>
+        <p class="course-list-overview">EDS 201. Introduction to Resources for Teaching and Learning (4)</p>
+        <p class="course-list-overview">EDS 203. Technology, Teaching, and Learning (4)</p>
+        <p class="course-list-overview">EDS 240 A-B-C. Research in ASL-English Bilingual Education (4-4-4)</p>
+        <p class="course-list-overview">EDS 290. Research Practicum (2)</p>
+        <p><span class="course-list-overview">EDS 295. MA Thesis (4)</span><br>
+        </p>
+        <p>This MA course requirement should include fourteen units of electives, which are automatically satisfied by the completion of the Professional Preparation courses. </p>
+        <p>Table 4: MA in Teaching and Learning: Bilingual Education (ASL-English)</p>
+        <table border="0" cellpadding="0">
+          <tr>
+            <td width="36" rowspan="9" valign="top"><p align="center"><strong>&nbsp;</strong></p>
+              <p><strong>YR 1</strong></p></td>
+            <td width="76"><p align="center"><strong>SUMMER</strong><strong></strong></p></td>
+            <td width="88"><p align="center"><strong>FALL</strong><strong></strong></p></td>
+            <td width="82"><p align="center"><strong>WINTER</strong><strong></strong></p></td>
+            <td width="82"><p align="center"><strong>SPRING</strong><strong></strong></p></td>
+            <td width="75"><p align="center"><strong>SUMMER </strong><strong></strong></p></td>
+          </tr>
+          <tr>
+            <td width="76"><p>EDS 115 (4)</p></td>
+            <td width="88"><p>EDS 201 (4)*</p></td>
+            <td width="82"></td>
+            <td width="82"><p>EDS 342C (4)</p></td>
+            <td width="75"></td>
+          </tr>
+          <tr>
+            <td width="76"><p>EDS 117 (4)</p></td>
+            <td width="88"><p>EDS 203 (4)*</p></td>
+            <td width="82"><p>EDS 342B (4)</p></td>
+            <td width="82"><p>EDS 361C (4)</p></td>
+            <td width="75"></td>
+          </tr>
+          <tr>
+            <td width="76"><p>EDS 125 (4)</p></td>
+            <td width="88"><p>EDS 351 (4)</p></td>
+            <td width="82"><p>EDS 361B (6)</p></td>
+            <td width="82"><p>EDS 369B (9)</p></td>
+            <td width="75"></td>
+          </tr>
+          <tr>
+            <td width="76"><p>EDS 128A/B (4-4)</p></td>
+            <td width="88"><p>EDS 342A (4)</p></td>
+            <td width="82"><p>EDS 369A (9)</p></td>
+            <td width="82"><p>EDS 382 (4)</p></td>
+            <td width="75"></td>
+          </tr>
+          <tr>
+            <td width="76"><p>EDS 139 (2-2)</p></td>
+            <td width="88"><p>EDS 361A (6)</p></td>
+            <td width="82"></td>
+            <td width="82"></td>
+            <td width="75"></td>
+          </tr>
+          <tr>
+            <td width="76"><p>&nbsp;</p></td>
+            <td width="88"><p>EDS 190 (4)</p></td>
+            <td width="82"><p>&nbsp;</p></td>
+            <td width="82"><p>&nbsp;</p></td>
+            <td width="75"><p>&nbsp;</p></td>
+          </tr>
+          <tr>
+            <td width="76"><p>&nbsp;</p></td>
+            <td width="88"><p>EDS 250 (4)</p></td>
+            <td width="82"><p>&nbsp;</p></td>
+            <td width="82"><p>&nbsp;</p></td>
+            <td width="75"><p>&nbsp;</p></td>
+          </tr>
+          <tr>
+            <td width="76"></td>
+            <td width="88"></td>
+            <td width="82"></td>
+            <td width="82"></td>
+            <td width="75"></td>
+          </tr>
+          <tr>
+            <td width="36" rowspan="2" valign="top"><p><strong>YR 2</strong></p></td>
+            <td width="76"><p>&nbsp;</p></td>
+            <td width="88"><p>EDS 240A (4)</p></td>
+            <td width="82"><p>EDS 240B (4)</p></td>
+            <td width="82"><p>EDS 240C (4)</p></td>
+            <td width="75"><p>EDS 295 (4)</p></td>
+          </tr>
+          <tr>
+            <td width="76"><p>&nbsp;</p></td>
+            <td width="88"><p>&nbsp;</p></td>
+            <td width="82"><p>EDS 290 (6)</p></td>
+            <td width="82"><p>EDS 349 (9)</p></td>
+            <td width="75"><p>&nbsp;</p></td>
+          </tr>
+        </table>
+        <p>*Early fall courses (They start prior to the official start of fall quarter, usually late August/early September.)</p>
+        <h4 class="program-overview-subhead-3">Admission Requirements </h4>
+				<p>Candidates will apply for graduate admission to the foundation component of this program. Upon satisfactory completion of the prerequisite component, students will advance to the professional/master&#8217;s component, which requires two years of study. The following are the minimum eligibility requirements for admission to the graduate prerequisite component. The application deadline for the MA/ASL program is usually the beginning of March. All applicants must apply online at <a href="http://eds.ucsd.edu" target="_blank">http://eds.ucsd.edu</a>.</p>
+                <ol>
+                  <li>A bachelor&#8217;s degree with a 3.0 cumulative GPA. </li>
+                  <li>Official      scores on the Graduate Record Exam (GRE) general test.</li>
+               
+                  <li>Subject      matter competence: This requirement is satisfied by providing evidence of      satisfactory completion of the California Subject Examinations for      Teachers (CSET). </li>
+                    <li>Basic skills:      Evidence of passing the California Basic Educational Skills Test (CBEST), or CSET Writing Skills exam,  satisfies this      requirement. Other options to meet the California Basic Educational Skills      requirement:  </li>
+                    <ul type="circle">
+                      <li>Satisfactory scores on       the SAT, ACT, and AP exams; California State University (CSU) Early Assessment Program (EAP) placement test; or the Entry-Level Mathematics (ELM) Placement Test and English Placement Test (EPT).   Please see an EDS adviser for more information.</li>
+                      <li>Passage       of a basic skills examination from another state. Certain states are       excluded. Please see an EDS adviser for more information.</li>
+                    </ul>
+                    <li>US      Constitution requirement: This requirement is satisfied by either</li>
+                    <ul type="circle">
+                      <li>Completion of a course       covering the provisions and principles of the US Constitution (must be       approved by EDS; contact an EDS adviser for more information).</li>
+                      <li>Completion of a BA/BS       degree from a CSU.</li>
+                      <li>Passage of an appropriate       exam offered through an accredited university; contact an EDS adviser for       information. </li>
+                      <li>A score of 3 or better on       the AP US History or AP US Government and Politics exam.</li>
+                    </ul>
+               
+                  <li>Official Graduate Application and fee. </li>
+                  <li>Statement of Purpose and reference letters. </li>
+                  <li>Fluency in American Sign Language. </li>
+                  <li>Knowledge and experience of the social and cultural
+                    life of deaf people. </li>
+                  <li>A desire to teach deaf children of varying language
+                    and cultural backgrounds. </li>
+                  <li>Admission to graduate standing at UC San Diego requires a minimum
+                    cumulative GPA of 3.0 for any prior graduate work, and for
+                    the bachelor&#8217;s degree. Official scores from the GRE
+                    verbal, analytic, and quantitative sections are also required. </li>
+                </ol>
+        <h3 class="program-overview-subhead-2">Doctor of Philosophy (PhD) in Education </h3>
+                <p>The Department of Education Studies&rsquo; doctorate in education aims to transform education in diverse contexts. The PhD program prepares students to investigate issues of equity in all aspects of the educational process, including equity related to students of color from linguistically and economically diverse communities, as well as other traditionally underserved communities such as those with exceptional physical, emotional, and cognitive development. As we are committed to transforming education in diverse settings, we also need to take an inclusive approach to our definition of diversity. The PhD in education prepares students to be researchers who work with diverse populations, policy-makers, and stakeholders to transform and create more equitable educational opportunities for systemically marginalized students.<br>
+                   <br>
+                  Students with a PhD in education will have the following skills and knowledge:
+         </p>
+                <ul>
+                  <li><span dir="LTR"> </span>The ability to understand complex educational problems specifically related to equity in educational experiences through interdisciplinary study and collaborative inquiry</li>
+                  <li><span dir="LTR"> </span>A strong working knowledge of research methods that can be employed to interrogate, support, and enhance education policy and practice in education toward more equitable opportunities for systematically marginalized students</li>
+                  <li><span dir="LTR"> </span>A deep understanding of theoretical frameworks investigating equity, diversity, and culture in the context of education</li>
+                  <li><span dir="LTR"> </span>The knowledge and skills to support equitable schooling for marginalized students and families and work proactively with schools, communities, and institutions</li>
+                  <li><span dir="LTR"> </span>The ability to effectively teach and mentor a diverse student body at the university level</li>
+                  <li><span dir="LTR"> </span>The ability to use technology as a tool for teaching, learning, research, collaborative scholarship, the dissemination of information, and coalition building among disparate communities</li>
+                </ul>
+                <p>The PhD in education is designed for students with some prior experience working in teaching and learning settings broadly conceptualized as well as in research. Students with a master&rsquo;s degree prior to entry are especially well prepared for the program, although an MA is not an admission requirement.</p>
+                <p><strong>Minimum requirements:</strong> The minimum requirements for admission to the PhD program are</p>
+                <ul>
+                  <li><span dir="LTR"> </span>Current specified requirements of the Graduate Division</li>
+                  <li><span dir="LTR"> </span>Minimum cumulative upper-division grade point average of 3.0 for all undergraduate academic work, and a minimum grade point average of 3.0 for all graduate academic work</li>
+                  <li><span dir="LTR"> </span>Graduate Record Examination (GRE) scores within the past five years</li>
+                  <li><span dir="LTR"> </span>Statement of purpose</li>
+                  <li><span dir="LTR"> </span>Resume/CV</li>
+                  <li><span dir="LTR"> </span>Sample of academic writing</li>
+                  <li><span dir="LTR"> </span>Three reference letters</li>
+                  <li><span dir="LTR"> </span>Experience working in culturally and linguistically diverse communities</li>
+        </ul>
+                <p><strong>Preferred course work and experience:</strong></p>
+                <ul>
+                  <li><span dir="LTR"> </span>Master&rsquo;s degree in a related field</li>
+                  <li><span dir="LTR"> </span>Introductory courses in education and social sciences</li>
+                  <li><span dir="LTR"> </span>Introductory research methods</li>
+                  <li><span dir="LTR"> </span>Preschool, K–12, or college classroom teaching experience</li>
+                </ul>
+                <p>All applications for admission will be reviewed and discussed by the entire PhD faculty. Admissions decisions will be based upon student academic performance, professional and work experience, and the fit between student and faculty interests.  <br>
+                   <br>
+                  For more detailed and updated information about the admissions criteria and process, see the departmental website.</p>
+        <h4>Foreign Language </h4>
+                <p>Although we have no foreign language requirement, we expect our students to be familiar with the languages of the linguistically diverse communities in which they will be conducting research and collaborating with school personnel and other members of the community. Specific language requirements for the degree will depend upon the research setting in which a student will be conducting research, and thus this requirement will be determined on a case-by-case basis in consultation with the doctoral committee. Students who need to acquire or improve their linguistic competences prior to conducting research will be referred to language learning resources on campus, such as the Linguistics Language Program, UC San Diego Extension, or other departments on campus, such as history or literature, offering advanced course work in languages.</p>
+                <h4>Program of Study </h4>
+                <p>Our signature pedagogy is <em>problem immersion:</em> we ask students to read research and learn methodologies in the service of understanding real-world education settings and contexts in underserved communities. In the spirit of design research, graduate students will be embedded in contexts in which they are working closely with individuals who are working toward success with diverse student populations.</p>
+                <p>The program has been designed to give doctoral students ample opportunities to conduct research that advances educational change and greater equity for students from racially, economically, and socially marginalized communities. Students will work closely with their faculty adviser and other program faculty members to learn how to cultivate relationships with research participants and to understand the complexities of research in underserved communities, which function under particular histories of access to education and social, economic, and political contexts. Given the histories of different contexts, the communities are defined by cultural, social, political, geographic, and virtual and economic ties.<br>
+                   <br>
+                  During the first two years of the program, students will take required courses in foundational areas and in rigorous research methods, as well as elective courses. Students will also participate in ongoing Research Apprenticeship Courses (RAC) in which students are immersed in faculty research and faculty support students&rsquo; development as researchers. The apprenticeship course, led by EDS faculty conducting research and/or engaging in practice in the field of education, grounds students in problem-based research from the beginning of their doctoral program.<br>
+                   <br>
+                  With faculty guidance, students will choose their particular area of focus and select elective courses in education and in other departments accordingly. Ideally, students will defend their dissertation proposal at the end of the third year. During the fourth and fifth years, as appropriate, students will work with their dissertation adviser and other faculty committee members to move through all phases of the dissertation. At this stage the research apprenticeship courses will serve to support students&rsquo; dissertation writing and cultivate their abilities to communicate with various political and social populations who are considered stakeholders in education.</p>
+                <h5>Foundational Courses (nine courses—thirty-six units)</h5>
+                <p><em>Foundational Core Courses</em>                 
+        <p>Students will take three department foundational core courses covering designated areas of focus: transforming learning environments, transforming inequities in student outcomes, and transforming educational systems and policy. All core courses combine theory and empirical research with a design-based focus on investigating equity and diversity in educational contexts. Foundational courses are designed to provide students with a common scholarly orientation, building on the strengths of the PhD faculty and assisting students in determining their own area of focus within the framework of transforming education for a diverse society.<br>
+        <p class="course-list-overview">
+          EDS 251. Transforming Learning Environments (4)</p>
+                <p class="course-list-overview">EDS 252. Transforming Inequities in Student Outcomes (4)</p>
+                <p class="course-list-overview">EDS 253. Transforming Educational Systems and Policy (4)</p>
+                <h5>Foundational Research Design and Methods (six courses—twenty-four units)</h5>
+                <p>Students will take research courses in a range of quantitative and qualitative methodologies. Students will have a foundation in qualitative, quantitative, and mixed methods and then a specialization in quantitative, qualitative, or mixed methodologies. The students will take six required research methods courses in which design-based approaches are woven throughout. </p>
+                <p>Students will take two introductory and two advanced qualitative and quantitative analysis courses in addition to two methods specialization courses in either qualitative, quantitative, or mixed methods approaches.  </p>
+                <p><em>Introductory Analysis Courses (two courses—eight units)</em></p>
+                <p class="course-list-overview">EDS 254. Introduction to Research Design and Quantitative Data Analysis (4) </p>
+        <p class="course-list-overview">EDS 264. Introduction to Qualitative Analysis (4) </p>
+                <p><em>Advanced Analysis Courses (two courses—eight units)</em> </p>
+                <p class="course-list-overview">EDS 255. Advanced Quantitative Data Analysis (4)</p>
+                <p class="course-list-overview">EDS 288B. Advanced Research and Evaluation Methods (4)</p>
+                <h5>Research Methods Specialization (two courses—eight units) </h5>
+                <p>Through the required qualitative and quantitative methods courses, students will develop a breadth of understanding of research methods and design. Through the research methods specialization courses, students will develop more depth in qualitative or quantitative methods (or both) via two additional courses. Courses from other departments may also be substituted with adviser approval.</p><p class="course-list-overview">EDS 256. Introduction to Mixed Methods Research Design and Analysis (4)</p>
+                <p class="course-list-overview">EDS 265. Special Topics in Qualitative Methods (4)</p>
+                <p><span class="course-list-overview">EDS 266. Special Topics in Quantitative Methods (4)</span></p>
+                  <h5>Electives: Area of Focus and Cognates (five courses—twenty units)</h5>
+                <p>Students will complete five content elective courses including EDS and non-EDS courses.</p>
+                  <h6>Area of focus electives (two courses—eight units)</h6>
+                <p>Together with their faculty adviser, students will identify an area of focus based on the foundational course topics to develop depth as transformative researchers in a specific area. Students will take two courses in their area of focus within EDS.</p>
+                <h6>
+                Cognate electives (two courses—eight units)</h6>
+                <p>As part of the EDS commitment to cultivating new researchers, the cognate serves as a means to encourage doctoral students to design interdisciplinary research models that reflect the multiple dynamics of communities and social contexts to inform a social justice framework in education studies. The students, in conjunction with their faculty adviser, will choose at least two courses from other UC San Diego departments. Students will then seek permission to take the course from the instructor and the host department. Cognate courses may satisfy area of focus course requirements or may serve as an open elective. Examples of cognate areas include but are not limited to the following departments: ethnic studies, sociology, communication, cognitive science, psychology, and anthropology. The student will be required to have a faculty member from his or her cognate area serve on his or her dissertation committee.</p>
+                <h6>Additional elective (one course—four units)</h6>
+                <p>One additional elective will be selected with guidance from the student&rsquo;s adviser within EDS or outside of EDS.</p>
+                <h5>Other Courses</h5>
+                <p class="course-list-courses">EDS 296. Research Apprenticeship Course (ongoing two to four units each quarter). </p>
+                <p>The Research Apprenticeship Course (RAC) will be led by individual education studies faculty members and designed around the current academic needs of his or her research team and student advisees introducing them to transformational research and practice in education at the local and/or national level. The Research Apprenticeship Course (RAC) is a variable unit course, taken for Pass/Not Pass credit, and repeated each quarter the student is enrolled and actively engaged with a faculty mentor on campus. The RAC provides a formal process for faculty/student mentoring and includes engagement in team research. Each RAC may conceptualize and conduct research that may result in presentations at key educational conferences and meetings and published papers. The RAC also provides support for dissertation writing.<br>
+                   <br>
+                  <em>First Year RAC. </em>During the first quarter of the first year, students will enroll in four units of RAC, designed to introduce them to transformational research and practice in education. During winter and spring quarters students attend the RAC of their faculty mentor. Over the two quarters they will visit at least four other RAC meetings and four different research settings to become acquainted with the variety of research settings, approaches, and topics representing EDS faculty research. This first year will provide students an opportunity to begin to form a relationship with a community educational research setting to collaborate in their dissertation project.<br>
+                   <br>
+                  <em>Second Year RAC (three courses—two units each quarter). </em>During the second year, the doctoral student will identify a specific group or formal organization (e.g., community organization, school/district, nonprofit educational organization, service organization, geographically distributed virtual community) to collaborate with on a design-based research project to help the organization nurture greater educational equity and access. The goals and outcomes for the research project will be a collaborative effort between the student, the faculty mentor, and the organization. This field experience provides a hands-on opportunity for students to develop research skills and dispositions for conducting quality research.<br>
+                   <br>
+                  <em>Third Year and Beyond RAC (2–4).</em> During the third year and beyond, the RAC will focus on dissertation development and research within the context of the design-based project. The RAC will continue to support the development of students in their overall dissertation research.</P>
+                  <p class="course-list-courses">EDS 259. Communicating Research (2)</p>
+                <p>An important departure from traditional graduate programs is the two-credit course to instruct students on how to communicate their scholarship to audiences beyond the academy. In the age of open access debates, universities are exploring new ways to demonstrate the relevance of research directly to nonacademic audiences. However, merely giving nonacademic audiences the opportunity to access academic scholarship does not resolve the challenges of understanding the literature. As part of the EDS commitment to education reform and change, the students will learn different avenues and tools for communicating their scholarship to education stakeholders, actively participate in discussion of education equity and access, and co-construct meaningful partnerships with educational stakeholders.</p>
+                <p class="course-list-courses">EDS 299. Dissertation Research (1–12)</p>
+                <p>Directed research on dissertation topic for students who have been admitted to candidacy for the PhD degree. May be repeated for credit.</p>
+                <h4>Research Review: Qualifying Examination </h4>
+                <p>The written research review is designed to assess the student’s ability to work in a scholarly and professional way with substantive knowledge in their area of interest. To successfully meet the research review benchmark, a student must submit a scholarly review of a research manuscript of publishable quality. The manuscript should demonstrate the student&rsquo;s knowledge of theory and research in a particular topic related to transforming education in a diverse society.</p>
+                <p>To prepare for the research review, students meet with their faculty advisers to develop a reading list to guide the manuscript. The topic and scope will be articulated with the faculty adviser. The student develops the preliminary reading list on the topic and the topic adviser may add, delete, or modify the reading list to help produce a topic that is appropriate in focus and scope.</p>
+                <p>The review will be submitted by the end of the second year and will be reviewed by potential dissertation committee members. The following criteria will be applied:</p>
+                <ul>
+                  <li><span dir="LTR"> </span><em>Pass</em>: Student is ready to progress toward a doctorate and the development of a dissertation proposal.</li>
+                  <li><span dir="LTR"> </span><em>MA Pass</em>: Student is ready to complete the project at a level expected for MA students but is not ready for doctoral-level work. Students may complete and file thesis for a terminal master&rsquo;s degree if they do not already hold one.</li>
+                  <li><span dir="LTR"> </span><em>Fail</em>: Student is not ready to progress in graduate studies.</li>
+                </ul>
+                <h4>The Dissertation Proposal </h4>
+                <p>Students may advance to candidacy in their third or fourth year of the PhD program, at the conclusion of their course work. The successful defense of their dissertation proposal before the dissertation committee constitutes the advancement to candidacy. In addition, students need to meet the qualifying exam<a href="http://grad.ucsd.edu/progress/degree-completion.html" target="_blank"> procedures</a> set forth by the Graduate Division and outlined above. The dissertation committee will be composed of five faculty members including at least one tenured faculty member from another department. Additional dissertation committee members from outside universities will be considered on a case-by-case basis.</p>
+                <p>The dissertation proposal should be a plan of action for a rigorous research study and must include the following elements: abstract, introduction, statement of the problem, research questions, theoretical framework, review of literature, and research design and methodology. The dissertation proposal is viewed as a fluid plan that may take on new directions in a given changing context.</p>
+                  <h5>Dissertation</h5>
+                <p>The dissertation is a culminating project that reflects the student&rsquo;s academic scholarship growth during the program. The project is designed with the dissertation chair and committee. Students are required to incorporate technology into their final reports and their final presentations. Our students will learn how to use presentation software and visualization tools to make powerful presentations. Members of the research population, education stakeholders, and community members will be invited to attend the final presentations and participate in an active discussion with the presenter. In addition to preparing a dissertation, students are encouraged to explore varied formats to convey findings from their dissertation study which align with the communities and populations they seek to serve through their scholarship.</p>
+                <h4>Final Examination</h4>
+                <p>The oral defense of the completed dissertation serves as the final exam.</p>
+                <h4>Relationship of Master&rsquo;s and Doctoral Programs</h4>
+                <p>A master&rsquo;s degree is not required for entrance into the PhD program. Students who complete the PhD program will receive only a PhD. However, those students who do not complete the degree, but have completed the doctoral written qualifying examination will have the opportunity to receive a terminal master&rsquo;s degree if they do not already hold one.</p>
+                <h4>Normative Time of Matriculation to Degree</h4>
+                <p>Precandidacy time limit—four years<br>
+                  Normative time to degree—five years<br>
+                  Support time limit—six years<br>
+                  Total registered time—six years</p>
+        <h3>Specialization in Critical Gender Studies</h3>
+                <p>Students in the doctoral (PhD) program in education may apply for a specialization in critical gender studies to complement their course work and research in education studies. </p>
+                <p>The Critical Gender Studies Program is built on the intellectual foundations of intersectional feminist thought and queer studies, and incorporates the interdisciplinary methodologies, intersectional frameworks, and transformational epistemologies central to contemporary gender and sexuality studies. The graduate specialization in critical gender studies provides specialized training in gender and sexuality for students currently enrolled in a UC San Diego doctoral (PhD) program. Through advanced course work in critical gender studies and its affiliated departments,&nbsp;graduate students in the specialization develop an understanding of gender as necessarily linked to other social formations, including sexuality, race, nation, religion, (dis)ability, and structures of capital.&nbsp;At the same time,&nbsp;doctoral (PhD) students engaging&nbsp;gender and sexuality studies&nbsp;have the opportunity to develop their work among peers who take up similar questions in their scholarship.</p>
+                <p>Admitted students are required to complete five courses in addition to their home department&rsquo;s core requirements, consisting of two core courses and three electives. The core courses are Advanced Studies in Critical Gender Studies (CGS 200), to be taken shortly after admission to the specialization, and Practicum in Critical Gender Studies (CGS 299), to be taken in the student&rsquo;s final two years of dissertation writing. Electives may be chosen from a list of preapproved seminars in participating departments (students may petition other courses with significant gender/sexuality studies content) and may be taken at any time during the student&rsquo;s tenure at UC San Diego. Admitted students must also include at least one member of their dissertation committee from the list of CGS core or affiliate faculty.</p>
+                <p>For more information about the graduate specialization in critical gender studies, please visit&nbsp;<u><a href="http://cgs.ucsd.edu/" target="_blank">http://cgs.ucsd.edu</a></u>.</p>
+<div>
+    <div> </div>
+    <div> </div>
+    <div> </div>
+    <div> </div>
+    </div>
+        <h3 class="program-overview-subhead-2">Doctor of Education (EdD) in Educational Leadership </h3>
+				<p>The doctor of education in Educational Leadership is offered through a
+				  partnership between UC San Diego and California State University, San
+				  Marcos (CSUSM). The program is designed as a professional degree
+				  for P-12 and postsecondary educators who will develop advanced
+				  leadership and research skills related to their own institutional settings.
+				  Students are typically mid-career working professional educators who attend
+				  classes on weeknights and weekends over a thirty-six-month period. Students
+				  take courses designed to develop four specific leadership capacities: (1)
+				  leadership for learning; (2) leadership for a diverse society; (3) leadership
+				  for organizational change; and (4) leadership for organizational development.
+				  This program prepares leaders for culturally, linguistically,
+				  and economically diverse educational settings. Students will conduct research
+				  on professional practice within their own institutions, addressing specific
+				  local problems that have national implications for teaching and learning,
+				  school reform, and professional development. Students completing the program
+				  will receive a joint degree from UC San Diego and CSUSM. </p>
+				<p>The following is a typical course of study taught by UC San Diego and CSUSM faculty: </p>
+				<h5 class="program-overview-subhead-5">Year 1 </h5>
+        <h6 class="program-overview-subhead-6">Winter </h6>
+				<ul>
+			    <li class="list-level-1">EDS 280. Re-Thinking Leadership</li>
+					<li class="list-level-1">EDS 287A. Educational Research and Evaluation Design</li>
+					<li class="list-level-1">EDS 291A. Leadership Research Practicum </li>
+				</ul>
+				<h6 class="program-overview-subhead-6">Spring </h6>
+				<ul>
+				  <li><span dir="LTR"> </span>EDS 282. Leadership for a Diverse Society </li>
+                  <li><span dir="LTR"> </span>EDS 287B. Educational Research and Evaluation Design </li>
+                  <li><span dir="LTR"> </span>EDS 291B. Leadership Research Practicum </li>
+
+				</ul>
+				<h6 class="program-overview-subhead-6">Summer </h6>
+				<ul>
+				  <li><span dir="LTR"> </span>EDS 281. Leadership for Learning </li>
+                  <li><span dir="LTR"> </span>EDS 287C. Educational Research and Evaluation Design </li>
+                  <li><span dir="LTR"> </span>EDS 291C. Leadership Research Practicum </li>
+
+				</ul>
+				<h6 class="program-overview-subhead-6">Fall </h6>
+				<ul>
+				  <li><span dir="LTR"> </span>EDS 283. Leadership for Organizational Change </li>
+                  <li><span dir="LTR"> </span>EDS 292. Qualifying Paper Preparation </li>
+				</ul>
+				<h5 class="program-overview-subhead-5">Year 2 </h5>
+        <h6 class="program-overview-subhead-6">Winter </h6>
+				<ul>
+				  <li><span dir="LTR"> </span>EDS 287C. Ed Leadership and Evaluation Design </li>
+                  <li><span dir="LTR"> </span>EDS 288B. Research Methods and Evaluation </li>
+                  <li><span dir="LTR"> </span>EDS 293A. Advanced Leadership Practicum </li>
+				</ul>
+				<h6 class="program-overview-subhead-6">Spring </h6>
+				<ul>
+				  <li><span dir="LTR"> </span>EDS 288A. Advanced Research and Evaluation Methods—Quant A </li>
+                  <li><span dir="LTR"> </span>EDS 288C. Advanced Research and Evaluation Methods—Quant B </li>
+                  <li><span dir="LTR"> </span>EDS 293B. Advanced Leadership Practicum </li>
+				</ul>
+				<h6 class="program-overview-subhead-6">Summer </h6>
+				<ul>
+				  <li><span dir="LTR"> </span>EDS 286. Advanced Topics </li>
+                  <li><span dir="LTR"> </span>EDS 290. Proposal Development </li>
+				</ul>
+				<h6 class="program-overview-subhead-6">Fall </h6>
+				<ul>
+				  <li><span dir="LTR"> </span>EDS 285. Leadership for the Future  </li>
+                  <li><span dir="LTR"> </span>EDS 286. Advanced Topics in Leadership</li>
+				</ul>
+				<h5 class="program-overview-subhead-5">Year 3 </h5>
+        <h6 class="program-overview-subhead-6">Winter </h6>
+				<ul>
+			      <li><span dir="LTR"> </span>EDS 299. Dissertation Research </li>
+                  <li><span dir="LTR"> </span>EDS 289A. Dissertation Writing Seminar </li>
+                  <li><span dir="LTR"> </span>EDS 294A. Colloquium on Educational Leadership </li>
+				</ul>
+				<h6 class="program-overview-subhead-6">Spring </h6>
+				<ul>
+				  <li><span dir="LTR"> </span>EDS 299. Dissertation Research </li>
+                  <li><span dir="LTR"> </span>EDS 289B. Dissertation Writing Seminar </li>
+                  <li><span dir="LTR"> </span>EDS 294B. Colloquium on Educational Leadership </li>
+				</ul>
+				<h6 class="program-overview-subhead-6">Summer </h6>
+				<ul>
+				  <li><span dir="LTR"> </span>EDS 299. Dissertation Research </li>
+                  <li><span dir="LTR"> </span>EDS 289C. Dissertation Writing Seminar </li>
+				</ul>
+				<h6 class="program-overview-subhead-6">Fall </h6>
+				<ul>
+				  <li><span dir="LTR"> </span>EDS 299. Dissertation Research </li>
+                  <li><span dir="LTR"> </span>EDS 289D. Dissertation Writing Seminar </li>
+				</ul>
+				<h4 class="program-overview-subhead-3">Admission Requirements </h4>
+				<p>See the EDS website for current admission requirements. <strong>The application
+			    deadline is July 31.</strong></p>
+<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

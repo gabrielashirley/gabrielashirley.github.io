@@ -1,0 +1,970 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Scripps Institution of Oceanography Courses</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopMargin">Scripps Institution of Oceanography</h1>
+<p><span class="courseFacLink">[ <a href="../curric/SIO-ug.html">undergraduate
+  program</a> | <a href="../curric/SIO-gr.html">graduate program</a> | <a href="../faculty/SIO.html">faculty</a> ]</span></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/Course Name and Disclaimer.lbi" -->
+<h2>Courses</h2>
+<p class="course-disclaimer"><em>For course descriptions not found in the </em>UC
+ San Diego General Catalog 2019&#8211;20<em>, please contact the department
+ for more information.</em></p><!-- #EndLibraryItem --><h2 class="course-subhead-1">Lower Division </h2>
+				<p class="anchor-parent"><a class="anchor" id="sio1" name="sio1" /></a></p><p class="course-name">SIO 1. The Planets (4)</p>
+				<p class="course-descriptions">Space exploration has revealed an astonishing
+				 diversity among the planets and moons in our solar system. The planets
+				 and their histories will be compared to gain insight and a new perspective
+	    on planet Earth. <strong class="italic">Prerequisites:</strong> none. </p>
+				
+				<p class="anchor-parent"><a class="anchor" id="sio3" name="sio3" /></a></p><p class="course-name">SIO 3. Life in the Oceans (4)</p>
+				<p class="course-descriptions">An introduction to the wide variety of organisms that live in the oceans, the habitats they occupy, and how species interact with each other and their environment. Included will be examinations of adaptations, behavior, ecology, and a discussion of local and global resource management and conservation issues. This course is designed for nonbiology majors. <strong class="italic">Prerequisites:</strong> none.</p>
+				<p class="anchor-parent"><a class="anchor" id="sio10" name="sio10" /></a></p><p class="course-name">SIO 10. The Earth (4)</p>
+				<p class="course-descriptions">An introduction to structure of the Earth
+				 and the processes that form and modify it. Emphasizes material
+				 that is useful for understanding geological events as reported
+				 in the news and for making intelligent decisions regarding
+				 the future of our environment. <strong class="italic">Prerequisites:</strong> none.
+	    </p>
+				<p class="anchor-parent"><a class="anchor" id="sio10gs" name="sio10gs" /></a></p><p class="course-name">SIO 10GS. The Earth (In Iceland) (4)</p>
+				<p class="course-descriptions">This Global Seminar course will provide an introduction to planet Earth and the processes that shape it. Topics to be covered include Earth layers, materials, plate tectonics, weathering and erosion, and coastal processes. The geology of Iceland will be a specific emphasis and will thus be used as a lens through which to learn about the Earth. Program or material fee may apply.<em><strong> Prerequisites: </strong></em>students must apply and be accepted to the Global Seminars Program.</p>
+<p class="anchor-parent"><a class="anchor" id="sio12" name="sio12" /></a></p><p class="course-name">SIO 12. History of the Earth and Evolution (4)</p>
+				<p class="course-descriptions">Evolution of the Earth from its origin in the early solar system to formation of continents and ocean basins, and how the planet became habitable. It examines the geologic record of evolution, extinction, plate tectonics, and climate changes through time. <strong class="italic">Prerequisites:</strong> none. </p>
+				<p class="anchor-parent"><a class="anchor" id="sio15" name="sio15" /></a></p><p class="course-name">SIO 15. Natural Disasters (4)</p>
+				<p class="course-descriptions">Introduction to environmental perils and their impact on everyday life. Geological and meteorological processes, including earthquakes, volcanic activity, large storms, global climate change, mass extinctions throughout Earth&#8217;s history, and human activity that causes and prevents natural disasters. <strong class="italic">Prerequisites:</strong> none. </p>
+				<p class="anchor-parent"><a class="anchor" id="sio16" name="sio16" /></a></p><p class="course-name">SIO 16. Geology of the National Parks (4)</p>
+				<p class="course-descriptions">An introduction to fundamental concepts of
+				 geology and environmental science through the lens of the national park
+				 system. Topics covered include the geologic time scale; plate tectonics;
+				 igneous, metamorphic, and sedimentary processes; geomorphology; climate
+				 change; and environmental degradation. <strong class="italic">Prerequisites:</strong> none.
+	    </p>
+				<p class="anchor-parent"><a class="anchor" id="sio20" name="sio20" /></a></p><p class="course-name">SIO 20. The Atmosphere (4)</p>
+				<p class="course-descriptions">Descriptive introduction to meteorology and climate studies. Topics include global and wind and precipitation patterns, weather forecasting, present climate and past climate changes (including droughts, El Niño events), greenhouse gas effects, ozone destruction, the “little ice age,” acid rain. <strong class="italic">Prerequisites:</strong> none. </p>
+				<p class="anchor-parent"><a class="anchor" id="sio25" name="sio25" /></a></p><p class="course-name">SIO 25. Climate Change and Society (4)</p>
+				<p class="course-descriptions">Climate change is one of the most complex
+				 and critical issues affecting societies today. This course
+				 will present the scientific evidence for climate change and
+				 its impacts and consider governmental policy responses and possible adaptation
+				 strategies. <strong class="italic">Prerequisites:</strong> none.
+	    </p>
+				<p class="anchor-parent"><a class="anchor" id="sio30" name="sio30" /></a></p><p class="course-name">SIO 30. The Oceans (4)</p>
+				<p class="course-descriptions">Presents modern ideas and descriptions of the physical, chemical, biological, and geological aspects of oceanography, and considers the interactions between these aspects. Intended for students interested in the oceans, but who do not necessarily intend to become professional scientists. <strong class="italic">Prerequisites:</strong> none. </p>
+				<a name="sio35" id="sio35"></a></p><p class="course-name">SIO 35. Water (4)</p>
+				<p class="course-descriptions">This course will examine the properties of water that make it unique and vital to living things. Origin of water on Earth and neighboring planets will be explored. Socially relevant issues concerning water use and contamination will be covered. <strong class="italic">Prerequisites:</strong> none. </p>
+				<p class="anchor-parent"><a class="anchor" id="sio40" name="sio40" /></a></p><p class="course-name">SIO 40. Life and Climate on Earth (4)</p>
+				<p class="course-descriptions">Explores life on Earth and its relationship
+				 to the environment—past, present, and future. Topics include
+				 origins of life, earth history, elemental cycles, global climate
+				 variability and human impacts on our environment. <strong class="italic">Prerequisites:</strong> none.
+	    </p>
+				<p class="anchor-parent"><a class="anchor" id="sio45" name="sio45" /></a></p><p class="course-name">SIO 45. Volcanoes (4)</p>
+				<p class="course-descriptions">This class will provide students with an introduction to volcanoes, including the mechanisms, products, and hazards associated with various types of volcanic eruptions. A key area of emphasis will be the impact of volcanism on human societies. <strong class="italic">Prerequisites:</strong> none. </p>
+				<p class="anchor-parent"><a class="anchor" id="sio45gs" name="sio45gs" /></a></p><p class="course-name">SIO 45GS. Volcanoes (4)</p>
+				<p class="course-descriptions">This class will provide students with an introduction to volcanoes, including the mechanisms, products, and hazards associated with various types of volcanic eruptions. A key area of emphasis will be the impact of volcanism on human societies. <strong class="italic">Prerequisites:</strong> students must apply for and be accepted to the Global Seminars Program.</p>
+				<p class="anchor-parent"><a class="anchor" id="sio46gs" name="sio46gs" /></a></p><p class="course-name">SIO 46GS. Global Volcanism (4)</p>
+				<p class="course-descriptions">This global seminar course will focus on European volcanism—past, present, and future. Students will learn in detail about the volcanoes of Europe, including their geologic origins, eruptive styles, and histories. A special focus will be on the impact of volcanic hazards on the people, cultures, and societies of this heavily populated region. Notable volcanoes and historical eruptions (Vesuvius and Pompeii, Mt. Etna, Santorini, Campi Flegrei) will be discussed in detail. Program or materials fees may apply. <strong class="italic">Prerequisites:</strong> students must apply for and be accepted to the Global Seminars Program.</p>
+<p class="anchor-parent"><a class="anchor" id="sio50" name="sio50" /></a></p><p class="course-name">SIO 50. Introduction
+				 to Earth and Environmental Sciences (6)</p>
+				<p class="course-descriptions">This course is an introduction to how our planet works, focusing on the formation and evolution of the solid earth, and the processes affecting both its surface and interior. Laboratories and substantial field component complement and extend the lecture material. Program and/or materials fees may apply. <strong class="italic">Prerequisites:</strong> none.  </p>
+				<p class="anchor-parent"><a class="anchor" id="sio60" name="sio60" /></a></p><p class="course-name">SIO 60. Experiences in Oceanic and Atmospheric Sciences (4)</p>
+				<p class="course-descriptions">Oceanic and atmospheric sciences are introduced through a series of modules where students learn basic principles in the classroom and then have hands-on experiences demonstrating these principles. The course will include trips to the beach, the Ellen Browning Scripps Memorial Pier, and laboratories at Scripps Institution of Oceanography. <strong class="italic">Prerequisites: </strong>none. </p>
+<p class="anchor-parent"><a class="anchor" id="sio87" name="sio87" /></a></p><p class="course-name">SIO 87. Freshman Seminar (1)</p>
+				<p class="course-descriptions">The Freshman Seminar Program is designed to provide the new students with the opportunity to explore and intellectual topic with a faculty member in a small setting. Topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering freshmen. (P/NP grades only). </p>
+				<p class="anchor-parent"><a class="anchor" id="sio90" name="sio90" /></a></p><p class="course-name">SIO 90. Undergraduate Seminar (1)</p>
+				<p class="course-descriptions">Perspectives on ocean sciences. This seminar introduces students to exciting and current research topics in ocean science as presented by faculty and researchers at Scripps Institution of Oceanography. Formerly ERTH 90. <strong class="italic">Prerequisites:</strong> none.</p>
+				<p class="anchor-parent"><a class="anchor" id="sio96" name="sio96" /></a></p><p class="course-name">SIO 96. Frontiers in the Earth Sciences (2)</p>
+				<p class="course-descriptions">An introduction to current research in the earth sciences. Background in science not required but may be useful for some topics. Areas covered vary from year to year. <strong class="italic">Prerequisites:</strong> none.</p>
+				<p class="anchor-parent"><a class="anchor" id="sio99" name="sio99" /></a></p><p class="course-name">SIO 99. Independent Study (2 or 4)</p>
+				<p class="course-descriptions">Independent reading or research on a problem by special arrangement with a faculty member. <strong class="italic">Prerequisites:</strong> lower-division standing, completion of thirty units of UC San Diego undergraduate study, a minimum UC San Diego GPA of 3.0, and a completed and approved Special Studies form, UC San Diego Application for Enrollment Special Studies Courses 97, 98, 99.</p>
+				<h2 class="course-subhead-1">Upper Division </h2>
+				<p class="anchor-parent"><a class="anchor" id="sio100" name="sio100" /></a></p><p class="course-name">SIO 100. Introduction to Field Methods (4)</p>
+				<p class="course-descriptions">Mapping and interpretation of geologic units. Fieldwork is done locally, and the data are analyzed in the laboratory. There will be one mandatory weekend field trip to Anza Borrego State Park. Program and/or materials fees may apply. <strong class="italic">Prerequisites:</strong> SIO 50 or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="sio101" name="sio101" /></a></p><p class="course-name">SIO 101. California Coastal Oceanography (4)</p>
+				<p class="course-descriptions">This course emphasizes oceanographic connections
+				 between physical and climate forcing and marine ecosystem responses using
+				 examples from and activities in the California coastal environment. The
+				 approach is inquiry-based, combining classroom and experiential learning
+				 to build critical and quantitative thinking and research insights and abilities. <strong class="italic">Prerequisites:</strong> CHEM
+	    6A or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="sio102" name="sio102" /></a></p><p class="course-name">SIO 102. Introduction to Geochemistry (4)</p>
+				<p class="course-descriptions">An introduction to the chemical composition and evolution of the Earth and solar system. Applications of chemical methods to elucidate the origin and geologic history of the Earth and the planets, evolution of oceans and atmosphere, and human environmental impacts. <strong class="italic">Prerequisites:</strong> SIO 50, CHEM 6A-B-C, or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="sio103" name="sio103" /></a></p><p class="course-name">SIO 103. Introduction to Geophysics (4)</p>
+				<p class="course-descriptions">An introduction to the structure and composition
+				 of the solid earth. Topics include seismology, the gravity
+				 and magnetic fields, high-pressure geophysics, and concepts
+				 in geodynamics. Emphasis is on global geophysics, i.e., on
+				 the structure and evolution of the planet. <strong class="italic">Prerequisites:</strong> MATH
+				 20A-B-C-D and PHYS 2A-B-C, SIO 50, or consent of instructor.
+	    SIO 160 recommended. </p>
+				<p class="anchor-parent"><a class="anchor" id="sio104" name="sio104" /></a></p><p class="anchor-parent"><a class="anchor" id="siog255" name="siog255" /></a></p>
+		<p class="course-name">SIO 104/SIOG 255. Paleobiology and History of Life (6)</p>
+				<p class="course-descriptions">An introduction to the major biological transitions
+				 in Earth history from the origins of metabolism and cells
+				 to the evolution of complex societies. The nature and limitations
+				 of the fossil record, patterns of adaptation and diversity, and the tempo
+				 and mode of biological evolution. Laboratories and substantial field component
+				 complement and extend the lecture material. Program and/or
+				 materials fees may apply. <strong class="italic">Prerequisites:</strong> undergraduate:
+				 BILD 3 or consent of instructor. Graduate: graduate-level standing
+				 or consent of instructor. Graduate students, additionally,
+	    will give oral presentation or research paper. </p>
+				<p class="anchor-parent"><a class="anchor" id="sio105" name="sio105" /></a></p><p class="course-name">SIO 105. Sedimentology and Stratigraphy (4)</p>
+				<p class="course-descriptions">This course will examine sedimentary environments
+				 from mountain tops to the deep sea across a variety of time scales. The
+				 focus is to develop the skills to interpret stratigraphy and read the history
+				 of the Earth that it records. Laboratories and substantial field component
+				 complement and extend lecture material. Program and/or course materials
+				 fees may apply. <strong class="italic">Prerequisites:</strong> SIO 50 or
+	    consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="sio106" name="sio106" /></a></p><p class="course-name">SIO 106. Introduction to Hydrogeology (4)</p>
+				<p class="course-descriptions">An introduction to the theory and practice of hydrogeology, emphasizing current concepts of aquifer and water properties and practical considerations related to groundwater quality, groundwater flow, and sustainability of groundwater reservoirs. <strong class="italic">Prerequisites:</strong> SIO 50, MATH 20C, PHYS 2C, and CHEM 6C; upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="sio108" name="sio108" /></a></p><p class="course-name">SIO 108. Introduction to Paleoclimatology (4)</p>
+				<p class="course-descriptions">An introduction to basic principles and applications of paleoclimatology, the study of climate and climate changes that occurred prior to the period of instrumental records. A review of processes and archives of climate data will be investigated using examples from Earth history. <strong class="italic">Prerequisites:</strong> ESYS 102 or SIO 50 or SIO 12 or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="sio109" name="sio109" /></a></p><p class="course-name">SIO 109. Bending the Curve: Climate Change Solutions (4)</p>
+				<p class="course-descriptions">(Cross-listed with POLI 117). This course will focus on scalable solutions for carbon neutrality and climate stability. The course adopts climate change mitigation policies, technologies, governance, and actions that California, the UC system, and cities around the world have adopted as living laboratories and challenges students to identify locally and globally scalable solutions. Students may only receive credit for one of the following: POLI 117, POLI 117R, SIO 109, or SIO 109R.</p>
+				<p class="anchor-parent"><a class="anchor" id="sio109r" name="sio109r" /></a></p><p class="course-name">SIO 109R. Bending the Curve Online: Climate Change Solutions (4)</p>
+				<p class="course-descriptions">(Cross-listed with POLI 117R). This online course focuses on developing urgent climate change solutions that integrate technology, policy and governance, finance, land-use, and social/educational dimensions. Students may only receive credit for one of the following: POLI 117, POLI 117R, SIO 109, or SIO 109R.</p>
+<p class="anchor-parent"><a class="anchor" id="sio110" name="sio110" /></a></p><p class="course-name">SIO 110. Introduction to GIS and GPS for Scientists (4)</p>
+				<p class="course-descriptions">A hands-on introduction to science applications
+				 of geographic information systems and global positioning system. Students
+				 acquire data through GPS field surveys, design and construct GIS using
+				 ESRI&#8217;s ArcGIS software, analyze spatial data, and present the results
+				 in a web-based environment. <strong class="italic">Prerequisites:</strong> upper-division
+	    standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="sio111" name="sio111" /></a></p><p class="course-name">SIO 111.
+				 Introduction to Ocean Waves (4)</p>
+				<p class="course-descriptions">The linear theory of ocean surface waves, including: group velocity, wave dispersion, ray theory, wave measurement and prediction, shoaling waves, giant waves, ship wakes, tsunamis, and the physics of the surf zone. Cross-listed with PHYS 111. <strong class="italic">Prerequisites:</strong> PHYS 2A–C or PHYS 4A–C and MATH 20A–E, or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="sio113" name="sio113" /></a></p><p class="course-name">SIO 113. Introduction to Computational Earth Science (4)</p>
+				<p class="course-descriptions">Computers are used in the geosciences to understand complex natural systems. This course includes beginning programming with a user-friendly language (Python). <strong class="italic">Prerequisites:</strong> SIO 50 or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="sio114" name="sio114" /></a></p><p class="course-name">SIO 114. The Science and Analysis of Environmental Justice (4)</p>
+				<p class="course-descriptions">Introduction to the scientific basis and critical analysis of environmental justice, with an emphasis on case studies, activism, and community engagement. This course will prepare students to critique and develop scientific models, research designs, and measurements consistent with environmental justice. Students may not receive credit for ETHN 136 and SIO 114. <strong class="course-name"><em>Prerequisites:</em></strong> upper-division standing or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="sio115" name="sio115" /></a></p><p class="course-name">SIO 115. Ice and the Climate System (4)</p>
+    <p class="course-descriptions">This course examines the Earth’s cryosphere, including glaciers,
+     ice sheets, ice caps, sea ice, lake ice, river ice, snow, and
+     permafrost. We cover the important role of the cryosphere in
+     the climate systems and its response to climate change. <strong class="italic">Prerequisites:</strong> MATH
+     20A–D and PHYS 2A–C or consent of instructor. </p>
+    <p class="anchor-parent"><a class="anchor" id="sio116" name="sio116" /></a></p><p class="course-name">SIO 116. Climate Change and Global Health: Understanding the Mechanisms (4)</p>
+    <p class="course-descriptions">This course will introduce students to the public health effects of global climate change. The course will begin by understanding the climate change phenomena and explaining the direct and indirect links between climate change and human health, including the public health impacts of infectious diseases, atmospheric air pollution, and extreme weather events. The second part of the course will be dedicated to adaption and mitigation solutions with a particular focus on vulnerable populations. Students may not receive credit for SIO 116 and SIO 116GS. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+<p class="anchor-parent"><a class="anchor" id="sio116gs" name="sio116gs" /></a></p><p class="course-name">SIO 116GS. Climate Change and Global Health: Understanding the Mechanisms (4)</p>
+    <p class="course-descriptions">This course will introduce students to the public health effects of global climate change. The course will begin by understanding the climate change phenomena and explaining the direct and indirect links between climate change and human health, including the public health impacts of infectious diseases, atmospheric air pollution, and extreme weather events. The second part of the course will be dedicated to adaption and mitigation solutions with a particular focus on vulnerable populations. Students may not receive credit for SIO 116GS and SIO 116. Program or materials fees may apply. <strong class="italic">Prerequisites:</strong> students must apply for and be accepted to the Global Seminars Program.</p>
+<p class="anchor-parent"><a class="anchor" id="sio117" name="sio117" /></a></p><p class="course-name">SIO 117.
+    The Physical Basis of Global Warming (4)</p>
+  <p class="course-descriptions">Introduction to the processes behind global warming, including
+     the physics of the greenhouse effect, controls on greenhouse
+     gases, atmospheric and oceanic circulation, climate feedbacks,
+     relationship to natural climate variability, and global environmental
+     issues related to global warming. <strong class="italic">Prerequisites:</strong> MATH
+     20D and PHYS 2C or consent of instructor. </p>
+  <p class="anchor-parent"><a class="anchor" id="sio118gs" name="sio118gs" /></a></p><p class="course-name">SIO 118GS. Responding to Climate Change: Possible Solutions (4)</p>
+  <p class="course-descriptions">This course will be taught in Dharamsala, India, and explores societal solutions to climate change. Course topics include mitigation and adaptation policies, including a guide to design, implement, and evaluate an adaptation policy, and the public health cobenefits of addressing climate change. <strong class="italic">Prerequisites:</strong> students must apply for and be accepted to the Global Seminars Program.</p>
+<p class="anchor-parent"><a class="anchor" id="sio119" name="sio119" /></a></p><p class="course-name">SIO 119. Physics and Chemistry of the Oceans (4)</p>
+  <p class="course-descriptions">Basic physical and chemical processes that influence the biology of the oceans, such as ocean circulation, ocean acidification, carbonate chemistry, trace metal chemistry. <strong class="italic">Prerequisites:</strong> PHYS 1C or 2C, CHEM 6C, or consent of instructor. 
+  </p>
+  <p class="anchor-parent"><a class="anchor" id="sio120" name="sio120" /></a></p><p class="course-name">SIO 120. Introduction to Mineralogy (4)</p>
+<p class="course-descriptions">Application of mineralogical and x-ray crystallographic techniques in earth sciences. Topics include symmetry, crystal structure, chemical, and physical properties of minerals with special emphasis on the common rock-forming minerals. Laboratory component includes polarizing microscope and x-ray powder diffraction methods. <strong class="italic">Prerequisites:</strong> SIO
+ 50, or consent of instructor. </p>
+<p class="anchor-parent"><a class="anchor" id="sio121" name="sio121" /></a></p><p class="course-name">SIO 121. Biology of the Cryosphere (4)</p>
+<p class="course-descriptions">The cryosphere comprises sea ice, glaciers, snow, and other frozen environments. Changing rapidly in the face of global climate change, these environments host unique and highly adapted ecosystems that play an important role in the global earth system. In this course we will explore the physiology and ecology of organisms in the cryosphere and peripheral habitats. A special emphasis will be placed on sea ice as a habitat archetype, but glacier, snow, and permafrost will also be covered.<strong> <em>Prerequisites:</em></strong> BILD 1, BILD 2, BILD 3, or consent of instructor. </p>
+<p class="anchor-parent"><a class="anchor" id="sio121gs" name="sio121gs" /></a></p><p class="course-name">SIO 121GS. Geology of the Alps (4)</p>
+<p class="course-descriptions">This global seminar course will examine the geology of the Alps range. Students will develop an in-depth understanding of the geology, tectonics, and geomorphology of this fascinating, beautiful, and geologically complex region. The course will focus closely on the tectonics of the region and the subsequent geologic processes that have shaped it (e.g., glaciation) since the late Mesozoic Alpine Orogeny. Classroom study will be strongly augmented with local and regional field excursions. Program or materials fees may apply. <strong class="italic">Prerequisites:</strong> SIO 10 or SIO 50. Students must apply for and be accepted to the Global Seminars Program.</p>
+<p class="anchor-parent"><a class="anchor" id="sio122" name="sio122" /></a></p><p class="course-name">SIO 122. Ecological Developmental Biology (4)</p>
+<p class="course-descriptions">This course will explore the rapidly expanding field of ecological developmental biology which focuses on how factors such as temperature, nutrition, microbes, predators, and hormones influence development epigenetically. Emphasis will be given to the genetic basis of responses to the environment, drawn from studies in aquatic and terrestrial animals and plants. Topics include phenotypic plasticity, teratogenesis, symbiosis, endocrine disruptors, sex determination, and genetic assimilation. Recommended preparation: BICD 100. <em><strong>Prerequisites: </strong></em>BILD 3, or consent of instructor. </p>
+<p class="anchor-parent"><a class="anchor" id="sio123" name="sio123" /></a></p><p class="course-name">SIO 123. Microbial Environmental Systems Biology (4)</p>
+<p class="course-descriptions">Environmental systems biology is the study of the genomic basis for patterns of microbial diversity and adaptation in relation to habitat. This course introduces the microbial genome as a unit of study and surveys introductory principles in microbial genomics and bioinformatics that underlie a range of contemporary research in diverse marine habitats, such as the deep sea and polar regions, as well as studies of biomedical importance, including the human microbiome.<strong class="italic"> Prerequisites:</strong> BICD 100 or consent of instructor.</p>
+<p class="anchor-parent"><a class="anchor" id="sio124" name="sio124" /></a></p><p class="course-name">SIO 124. Marine Natural Products (4)</p>
+<p class="course-descriptions">This course will provide a detailed introduction to marine natural products. It will survey the organisms that produce these compounds and introduce how they are made (biosynthesis), isolated and identified (natural products chemistry), why they are made (chemical ecology), and how they are exploited for useful purposes including drug discovery (marine biotechnology). It will leave students with a fundamental understanding of the latest techniques employed in natural product research. <strong class="italic">Prerequisites: </strong>CHEM 6C and BILD 1 or BILD 3 or consent of instructor.</p>
+<p class="anchor-parent"><a class="anchor" id="sio125" name="sio125" /></a></p><p class="course-name">SIO 125. Biomechanics of Marine Life (4)</p>
+<p class="course-descriptions">An introduction to the physical basis of the biological world. This course explores how the physical principles of solids and fluids underlay the functional morphology, ecology, and adaptations of all living things, with emphasis on marine organisms. <strong class="italic">Prerequisites:</strong> BILD 3 and PHYS 1C or PHYS 2C, or consent of instructor.</p>
+<p class="anchor-parent"><a class="anchor" id="sio126" name="sio126" /></a></p>
+<p class="course-name">SIO 126. Marine Microbiology (4)</p>
+<p class="course-descriptions">The role of microorganisms in the oceans; metabolic diversity; methods in marine microbiology; interactions of microbes with other microbes, plants and animals; biochemical cycling, pollution and water quality; microbe-mineral interactions; extremophiles. (Students may not receive credit for both SIO 126 and BIMM 126.) <strong class="italic">Prerequisites:</strong> BILD 1 or consent of instructor. </p>
+<p class="anchor-parent"><a class="anchor" id="sio127" name="sio127" /></a></p><p class="course-name">SIO 127. Marine Molecular Ecology (4)</p>
+<p class="course-descriptions">This course will survey the application of molecular methods to address diverse questions concerning the ecology and evolutionary biology in marine organisms. Focus will be on genetic and genomic approaches that are providing new insights into how marine organisms adapt to their physical and biotic environments. <strong class="italic">Prerequisites:</strong> BILD 3 and BICD 100, or consent of instructor.</p>
+<p class="anchor-parent"><a class="anchor" id="sio128" name="sio128" /></a></p><p class="course-name">SIO 128. Microbial Life in Extreme Environments (4)</p>
+<p class="course-descriptions">Microorganisms turn up in the strangest places. This course examines the exotic and bizarre in the microbial world, including the super-sized, the rock and cloud builders, the survivors, and those present at the limits of life.<strong class="italic"> Prerequisites:</strong> BILD 1 or BILD 2 or BILD 3, or consent of instructor.</p>
+<p class="anchor-parent"><a class="anchor" id="sio129" name="sio129" /></a></p><p class="course-name">SIO 129. Marine Chemical Ecology (4)</p>
+<p class="course-descriptions">This class explores the chemistry of marine life involved in the chemical adaptations of defense and communication. The class examines all of the marine taxa from microbes to higher plants and animals.<strong class="italic"> Prerequisites:</strong> CHEM 140C or consent of instructor.</p>
+<p class="anchor-parent"><a class="anchor" id="sio130" name="sio130" /></a></p><p class="course-name">SIO 130. Scientific Diving (4)</p>
+<p class="course-descriptions">This course includes theoretical and practical training to meet Scripps Institution of Oceanography and AAUS standards for scientific diving authorization and involves classroom, field, and ocean skin and scuba diving sessions. Topics include scientific diving programs and policy; physics and physiology of diving; decompression theory; dive planning; navigation; search and recovery; equipment and environmental considerations; subtidal sampling techniques; hazardous marine life; diving first aid; and diver rescue. Please see course preparation requirements here: <a href="https://scripps.ucsd.edu/scidive/training" target="_blank">https://scripps.ucsd.edu/scidive/training</a>. P/NP grades only. Program or materials fees may apply. <strong class="italic">Prerequisites:</strong> department approval required.</p>
+<p class="anchor-parent"><a class="anchor" id="sio131" name="sio131" /></a></p><p class="course-name">SIO 131. Parasitology (6)</p>
+<p class="course-descriptions">An ecological approach to parasitology. Students will gain the intellectual and practical foundation required to undertake parasitological research. Lectures will cover ecological/evolutionary concepts and the biology of various parasitic taxa. In labs, students will learn how to survey hosts for parasites, collect and identify parasites, perform infection experiments, and collect and analyze data. Students will also develop scholarship skills by delving into the scientific literature. <strong class="italic">Prerequisites:</strong> BILD 3 and BILD 2 or SIO 183, or SIO 184, or SIO 188, or consent of instructor. </p>
+<p class="anchor-parent"><a class="anchor" id="sio132" name="sio132" /></a></p><p class="course-name">SIO 132. Introduction to Marine Biology (4)</p>
+<p class="course-descriptions">Overview of marine organisms and their adaptations to sea life. Selected examples of physiological, behavioral, and evolutionary adaptations in response to the unique challenges of a maritime environment. (Students may not receive credit for both SIO 132 and BIEB 132.) <strong class="italic">Prerequisites:</strong> BILD 3 or consent of instructor. </p>
+<p class="anchor-parent"><a class="anchor" id="sio133" name="sio133" /></a></p><p class="course-name">SIO 133. Marine Mammal Biology (4)</p>
+<p class="course-descriptions">Introduction to the biology, ecology, evolution, and conservation status of marine mammals. Description of marine mammal taxa (mysticetes, odontocetes, pinnipeds, sirenians), their anatomy, physiology, ecology, and behavior. Impacts of whaling, fisheries interactions, and other anthropogenic threats. <strong class="italic">Prerequisites: </strong>BILD 3 and upper-division standing or consent of instructor. </p>
+<p class="anchor-parent"><a class="anchor" id="sio135" name="sio135" /></a></p><p class="course-name">SIO 134. Introduction to Biological Oceanography (4)</p>
+<p class="course-descriptions">Basics for understanding the ecology of marine communities. The approach is process-oriented, focusing on major functional groups of organisms, their food-web interactions and community response to environmental forcing, and contemporary issues in human and climate influences. (Students may not receive credit for both SIO 134 and BIEB 134.) <strong class="italic">Prerequisites: </strong>BILD 3 and upper-division standing or consent of instructor. </p>
+<p class="anchor-parent"><a class="anchor" id="sio135" name="sio135" /></a></p><p class="anchor-parent"><a class="anchor" id="siog236" name="siog236" /></a></p>
+<p class="course-name">SIO 135/SIOG 236. Satellite Remote Sensing (4)</p>
+<p class="course-descriptions">Satellite remote sensing provides global observations
+ of Earth to monitor environmental changes in land, oceans, and ice. Overview,
+ physical principles of remote sensing, including orbits, electromagnetic radiation,
+ diffraction, electro-optical, and microwave systems. Weekly labs explore remote
+ sensing data sets. Graduate students will also be required to write a term
+ paper and do an oral presentation. <strong class="italic">Prerequisites:</strong> undergraduate:
+ PHYS 2A-B or PHYS 4A-B-C, or consent of instructor. Graduate: graduate-level
+ standing or consent of instructor. </p>
+<p class="anchor-parent"><a class="anchor" id="sio136" name="sio136" /></a></p>
+<p class="course-name">SIO 136. Marine Biology Laboratory (6)</p>
+<p class="course-descriptions">Introductory laboratory course in current principles and techniques applicable to research problems in marine biology. Field component includes introduction to intertidal, salt marsh, or other marine ecosystems. Program or materials fees may apply. <strong class="italic">Prerequisites:</strong> BILD 3, SIO 132, and SIO 134, or consent of instructor. </p>
+<p class="anchor-parent"><a class="anchor" id="sio137" name="sio137" /></a></p><p class="course-name">SIO 137. Ecosystems and Fisheries (4)</p>
+<p class="course-descriptions">This course introduces students to the broad ecological processes and approaches that are fundamental to studying the dynamics of exploited populations, food webs, and ecosystems. The basics of fisheries oceanography are covered, with a synergistic focus on internations between key members of an ecosystem. A diversity of ecosystems will be discussed but the focus will be on the open ocean and deep sea. <em><strong>Prerequisites: </strong></em>SIO 134 or consent of instructor.</p>
+<p class="anchor-parent"><a class="anchor" id="sio138" name="sio138" /></a></p><p class="course-name">SIO 138. The Coral Reef Environment (4)</p>
+<p class="course-descriptions">Assessment of the physical, chemical, and biological interactions that define the coral reef system; essential geography and evolutionary history of reefs; natural and human perturbations to the coral reef ecosystem; aspects of reef management and sustainability. <strong class="italic">Prerequisites:</strong> BILD 3, MATH 10A or MATH 20A, CHEM 6B, or consent of instructor. </p>
+<p class="anchor-parent"><a class="anchor" id="sio139" name="sio139" /></a></p><p class="course-name">SIO 139. Current Research in Marine Biology Colloquium (2)</p>
+<p class="course-descriptions">Provides an introduction to current research topics and developments in marine biology and biological oceanography. Faculty members from Scripps Institution of Oceanography will offer perspectives in these areas. Students will practice scientific research and communication skills. P/NP grades only. <strong class="italic">Prerequisites: </strong>upper-division standing or consent of instructor. </p>
+<p class="anchor-parent"><a class="anchor" id="sio141" name="sio141" /></a></p>
+<p class="course-name">SIO 141/CHEM 174.
+	    Chemical Principles of Marine Systems (4)</p>
+				<p class="course-descriptions">Introduction to the chemistry and distribution
+				 of the elements in seawater, emphasizing basic chemical principles such
+				 as electron structure, chemical bonding, and group and periodic properties
+				 and showing how these affect basic aqueous chemistry in marine systems. <strong class="italic">Prerequisites:</strong> CHEM
+	    6C or 6CH, or consent of instructor. 				</p>
+				<p class="anchor-parent"><a class="anchor" id="sio143" name="sio143" /></a></p><p class="course-name">SIO 143. Ocean Acidification (4)</p>
+				<p class="course-descriptions">This course covers the fundamentals of ocean acidification, including the chemical background; past and future changes in ocean chemistry; biological and biogeochemical consequences, including organism and ecosystem function; biodiversity; biomineralization; carbonate dissolution; and the cycling of carbon and nitrogen in the oceans. <strong class="italic">Prerequisites:</strong> MATH 10C, PHYS 1C, CHEM 6C, or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="sio144" name="sio144" /></a></p><p class="anchor-parent"><a class="anchor" id="siog252a" name="siog252a" /></a></p>
+		<p class="course-name">SIO 144/SIOG 252A. Introduction to Isotope Geochemistry (4)</p>
+<p class="course-descriptions">Radioactive and stable isotope studies in geology
+ and geochemistry, including geochronology, isotopes as tracers of magmatic
+ processes, cosmic-ray produced isotopes as tracers in the crust and weathering
+ cycle, isotopic evolution of the crust and mantle. <strong class="italic">Prerequisites:</strong> undergraduate:
+				 SIO 50, 102, and 120 or consent of instructor. Graduate:
+ graduate-level standing or consent of instructor. Graduate level requires student presentation.
+</p>
+<p class="anchor-parent"><a class="anchor" id="sio146" name="sio146" /></a></p><p class="course-name">SIO 146. Methods in Cell and Developmental Biology of Marine Organisms Lab (6)</p>
+<p class="course-descriptions">This laboratory course will introduce students to modern concepts and techniques in molecular, cellular, and developmental biology, through authentic research projects using echinoderm, mollusk, and coral species. In addition to designing and performing experiments, students will learn to evaluate data, work with DNA sequences, quantify results with statistics, prepare figures, read primary research literature, write and review scientific research articles, and give scientific presentations.<em> <strong>Prerequisites:</strong></em><strong> </strong>BILD 2 or consent of instructor.</p>
+<p class="anchor-parent"><a class="anchor" id="sio147" name="sio147" /></a></p><p class="course-name">SIO 147. Applications of Phylogenetics (6)</p>
+<p class="course-descriptions">Overview of the computer-based methods for constructing phylogenetic trees using morphological and molecular data. Lectures and labs cover evolutionary and ecological transformations, biodiversity measurements, biogeography, systematic and taxonomy. An independent project and presentation are required. (Students may not receive credit for both SIO 147 and BIEB 147.) <strong class="italic">Prerequisites: </strong>BILD 3 or consent of instructor.</p>
+<p class="anchor-parent"><a class="anchor" id="sio150" name="sio150" /></a></p><p class="course-name">SIO 150. Physics and Chemistry of Planetary Interiors (4)</p>
+				<p class="course-descriptions">Quantitative study of the physical and chemical processes operating within planetary interiors that control the evolution of planets on geological time scales. Comparative planetology of Earth, Venus, Mars, and other terrestrial planets and satellites will focus on how the formation, differentiation, and evolution of their interiors are expressed as tectonics and volcanism on their surfaces. <strong class="italic">Prerequisites:</strong> MATH 20D, PHYS 2C, CHEM 6C or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="sio152" name="sio152" /></a></p>
+				<p class="course-name">SIO 152. Petrology and Petrography (6)</p>
+<p class="course-descriptions">Mineralogic, chemical, textural and structural properties of igneous, metamorphic, and sedimentary rocks; their origin and relations to evolution of the Earth&#8217;s crust and mantle. Laboratory emphasizes hand specimens and microscopic studies of rocks in thin sections. <strong class="italic">Prerequisites:</strong> SIO 50 and SIO 120 or consent of instructor. </p>
+<p class="anchor-parent"><a class="anchor" id="sio153" name="sio153" /></a></p><p class="course-name">SIO 153. Geomorphology (4)</p>
+<p class="course-descriptions">Geomorphology is the study of the dynamic interface across which the atmosphere, water, biota, and tectonics interact to transform rock into landscapes with distinctive features crucial to the function and existence of water resources, natural hazards, climate, biogeochemical cycles, and life. In this class, we will study many of the Earth surface processes that operate on spatial scales from atomic particles to continents and over time scales of nanoseconds to millions of years. <strong><em>Prerequisites:</em></strong> SIO 50 or consent of instructor.   </p>
+<p class="anchor-parent"><a class="anchor" id="sio155" name="sio155" /></a></p>
+				<p class="course-name">SIO 155. Whole Earth Geochemistry (4)</p>
+		<p class="course-descriptions">A geochemical overview of Earth materials and chemical processes involved in the Earth’s evolution. Topics include formation and differentiation of the Earth, linkages between the solid Earth and the atmosphere/hydrosphere, and isotope and trace element composition of igneous and metamorphic rocks. <strong class="italic">Prerequisites: </strong>SIO 102 or consent of instructor. </p>
+<p class="anchor-parent"><a class="anchor" id="sio160" name="sio160" /></a></p><p class="course-name">SIO 160. Introduction to Tectonics (4)</p>
+				<p class="course-descriptions">The theory of plate tectonics attempts to explain how forces within the Earth give rise to continents, ocean basins, mountain ranges, earthquake belts, and most volcanoes. In this course we will learn how plate tectonics works. <strong class="italic">Prerequisites:</strong> SIO 50 or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="sio162" name="sio162" /></a></p><p class="course-name">SIO 162. Structural Geology (4)</p>
+				<p class="course-descriptions">Principles of stratigraphy and structural geology applicable to field geologic studies. Discussion and laboratory exercises. Two to three field trips required. Program and/or materials fees may apply. <strong class="italic">Prerequisites:</strong> SIO 100 or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="sio164" name="sio164" /></a></p><p class="course-name">SIO 164. Underwater Archaeology: From Atlantis to Science (4)</p>
+				<p class="course-descriptions">Underwater archaeology provides access to ancient environmental and cultural data concerning human adaptation to climate and environmental change. Provides an overview of methods, theories, and practice of marine archaeology including—environmental characteristics of coastal and underwater settings; the nature of ports, navigation, maritime culture, submerged landscapes, shipbuilding; methods of research in underwater settings; and legislative issues regarding underwater and coastal heritage. Students may not receive credit for both ANAR 164 and SIO 164.</p>
+				<p class="anchor-parent"><a class="anchor" id="sio166" name="sio166" /></a></p><p class="course-name">SIO 166. Introduction to Environmental Archaeology—Theory and Method of Socioecodynamics and Human Paleoecology (4)</p>
+				<p class="course-descriptions">Introduction to the multidisciplinary tools for paleoenvironmental analysis—from ecology, sedimentology, climatology, zoology, botany, chemistry, and others—and provides the theory and method to investigate the dynamics between human behavior and natural processes. This socioecodynamic perspective facilitates a nuanced understanding of topics such as resource overexploitation, impacts on biodiversity, social vulnerability, sustainability, and responses to climate change. Students may not receive credit for ANAR 166 and SIO 166. <strong><em>Prerequisites:</em></strong> upper-division standing. </p>
+<p class="anchor-parent"><a class="anchor" id="sio167" name="sio167" /></a></p><p class="course-name">SIO 167. Geoarchaeology in Theory and Practice (6)</p>
+				<p class="course-descriptions">As specialists in human timescales, archaeologists are trained to identify subtle details that are often imperceptible for other geoscientists. This course is designed to train archaeologists to identify the natural processes affecting the archaeological record, and geoscientists to identify the influence of human behavior over land surfaces. The course, which includes lectures, laboratory training, and field observations, focuses on the articulation of sedimentology and human activity. Students may not receive credit for both ANAR 167 and SIO 167. <strong class="italic">Prerequisites: </strong>ANTH 3 and SIO 50 or consent of instructor. </p>
+<p class="anchor-parent"><a class="anchor" id="sio170" name="sio170" /></a></p>
+				<p class="course-name">SIO 170. Introduction to Volcanology (4) 
+				</p>
+				<p class="course-descriptions">This class will introduce students to the fundamentals of the science of volcanology. Topics explored will include the processes and products of various types of volcanism, magma genesis, eruptive mechanisms, in addition to volcanic monitoring, hazards and mitigation. Students may not receive credit for both SIO 170 and SIO 170GS.  <strong class="italic">Prerequisites:</strong> SIO 100 and CHEM 6A or CHEM 6AH,  or consent of instructor. </p>
+				
+<p class="anchor-parent"><a class="anchor" id="sio170gs" name="sio170gs" /></a></p><p class="course-name">SIO 170GS. Introduction to Volcanology (4) </p>
+				<p class="course-descriptions">This class will introduce students to the fundamentals of the science of volcanology. Topics explored will include the processes and products of various types of volcanism, magma genesis, eruptive mechanisms, in addition to volcanic monitoring, hazards, and mitigation. Students may not receive credit for both SIO 170 and SIO 170GS. Program or material fee may apply. <strong><em>Prerequisites:</em></strong> Students must apply and be accepted to the Global Seminars Program.  </p>
+<p class="anchor-parent"><a class="anchor" id="sio170l" name="sio170l" /></a></p>
+		<p class="course-name">SIO 170L. Introduction to Volcanology—Field Experience (1–4)</p>
+				<p class="course-descriptions">This course teaches fundamental aspects of physical and chemical volcanology through a one- to two-week field study experience prior to the start of the quarter. Subjects are introduced in lectures and reinforced and expanded upon in field exercises. Additional fees may be required for travel expenses. Program or materials fees may apply. May be taken for credit two times. <strong class="italic">Prerequisites:</strong> SIO 170 or consent of instructor; department approval required.</p>
+				<p class="anchor-parent"><a class="anchor" id="sio171" name="sio171" /></a></p><p class="course-name">SIO 171. Introduction to Physical Oceanography (4)</p>
+		<p class="course-descriptions">A physical description of the sea at the upper-division level, with emphasis on currents, waves, and turbulent motions that are observed in the ocean, and on the physics governing them. <strong class="italic">Prerequisites:</strong> MATH 20C and PHYS 2C or PHYS 4C, or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="sio172" name="sio172" /></a></p><p class="course-name">SIO 172. Physics of the Atmosphere (4)</p>
+		<p class="course-descriptions">This course provides an understanding of the physical principles governing the behavior of the Earth&rsquo;s atmosphere, with emphasis on the thermal structure and composition of the atmosphere, air masses and fronts, and atmospheric thermodynamics, fluid dynamics, and radiation.<strong class="italic"> Prerequisites:</strong> MATH 20C and PHYS 2C, or consent of instructor.</p>
+				<a name="sio173" id="sio173"></a></p><p class="course-name">SIO 173. Dynamics of the Atmosphere and Climate (4)</p>
+				<p class="course-descriptions">Introduction to the dynamical principles governing the atmosphere and climate using observations, numerical models, and theory to understand atmospheric circulation, weather systems, severe storms, marine layer, Santa Ana winds, El Niño, climate variability, and other phenomena. <strong class="italic">Prerequisites:</strong> MATH 20E and PHYS 2C, or consent of instructor.</p>
+				<a name="sio174" id="sio174"></a></p><p class="course-name">SIO 174. Chemistry of the Atmosphere and Oceans (4)</p>
+				<p class="course-descriptions">An introduction to chemical compounds and their biogeochemical cycles in the oceans and atmosphere, with emphasis on climate issues like ocean acidification, greenhouse gases and the carbon cycle, other biogeochemical cycles, chlorofluorocarbons and the ozone hole, urban pollutants and their photochemistry, and aerosol particles and their effects on clouds. <span class="italic"><strong>Prerequisites:</strong> </span>CHEM 6C or CHEM 6CH and MATH 20C or MATH 31BH or consent of instructor.</p>
+				<a name="sio175" id="sio175"></a></p><p class="course-name">SIO 175. Analysis of Oceanic and Atmospheric Data (4)</p>
+				<p class="course-descriptions">Oceanic and atmospheric observations produce large data sets whose understanding requires analysis using computers. This course will include an introduction to Matlab for the purpose of analyzing data. Students will use modern data sets from the ocean and atmosphere to learn statistical data analysis. <span class="italic"><strong>Prerequisites:</strong></span> MATH 18 or MATH 20F or MATH 31AH or consent of instructor.</p>
+				<a name="sio176" id="sio176"></a></p><p class="course-name">SIO 176. Observational Physical Oceanography (4)</p>
+				<p class="course-descriptions">This course gives an introduction to the methods and measurements used by observational physical oceanographers. Topics covered include sensors such as conductivity-temperature-depth (CTD), acoustic Doppler current profiler (ADCP), platforms such as autonomous gliders and ships, and services such as satellite measurements. This course includes a research project. <span class="italic"><strong>Prerequisites:</strong></span> SIO 171 or consent of instructor.</p>
+				<a name="sio177" id="sio177"></a></p><p class="course-name">SIO 177. Fluid Dynamics (4)</p>
+				<p class="course-descriptions">This course gives an introduction to ocean and atmosphere fluid properties, statics, and kinematics; fluid conservation laws; irrotational flow; Bernoulli equation; gravity waves; shallow water equations; geophysical applications. <span class="italic"><strong>Prerequisites:</strong> </span>PHYS 2A and MATH 20D and MATH 20E or consent of instructor.</p>
+				<a name="sio178" id="sio178"></a></p><p class="course-name">SIO 178. Geophysical Fluid Dynamics (4)</p>
+				<p class="course-descriptions">This course provides an introductory look at physical principles governing ocean currents and atmospheric flow. Topics may include large-scale circulation, ocean eddies, atmospheric storms systems, coastal upwelling, equatorial dynamics, and internal waves. <span class="italic"><strong>Prerequisites:</strong></span> PHYS 2C and SIO 177 and MATH 18 or MATH 20F or MATH 31AH or consent of instructor.</p>
+				<a name="sio179" id="sio179"></a></p><p class="course-name">SIO 179. Ocean Instruments and Sensors (4)</p>
+				<p class="course-descriptions">Apply modern and classic techniques for analysis of seawater, introducing concepts of signal transduction, calibration, and measurement quality control. Emphasis will be placed on computer automation to perform basic functions including instrument control, data storage, and on-the-fly calculations. Students will apply techniques from several branches of engineering to the marine sciences. Students may not receive credit for both SIO 179 and SIO 190 with the same subtitle. Recommended preparation: PHYS 2A-C or PHYS 4A-C. <strong><em>Prerequisites</em></strong><em><strong>:</strong></em> CHEM 6A or CHEM 6AH or PHYS 2A or PHYS 4A or consent of instructor.</p>
+<a name="sio180" id="sio180"></a></p>
+		<p class="course-name">SIO 180. Communicating Science to Informal Audiences (4)</p>
+    <p class="course-descriptions">Students develop fundamental science communication and instructional skills through the understanding and application of learning theory, interpretive techniques, and pedagogical practices, which occur in the context of communicating ocean science concepts to a diverse audience at Birch Aquarium at Scripps. <span class="italic"><strong>Prerequisites</strong></span><strong><em>:</em></strong> CHEM 6A or SIO 50 or BILD 1 or consent of instructor. </p>
+    <p class="anchor-parent"><a class="anchor" id="sio181" name="sio181" /></a></p><p class="course-name">SIO 181. Marine Biochemistry (4)</p>
+    <p class="course-descriptions">Biochemical mechanisms of adaptation in organisms to the marine environment. Special emphasis will be on the effects of pressure, temperature, salinity, oxygen, and light on the physiology and biochemistry. (Students may not receive credit for both SIO 181 and BIBC 130.) <strong class="italic">Prerequisites:</strong> none. </p>
+<p class="anchor-parent"><a class="anchor" id="sio182" name="sio182" /></a></p>
+<p class="course-name">SIO 182. Environmental
+	    and Exploration Geophysics (4)</p>
+<p>Theory and practice of nonseismic geophysics for groundwater, environmental, and exploration purposes. Lectures are supplemented by collection of gravity, magnetic, and resistivity data; data analysis; and report writing. Includes an introduction to Matlab as a tool for geophysical data interpretation. <strong><em>Prerequisites:</em></strong> MATH 20D and PHYS 2C, or consent of instructor. </p>
+<p class="anchor-parent"><a class="anchor" id="sio183" name="sio183" /></a></p>
+<p class="course-name">SIO 183. Phycology: Marine Plant Biology (6)</p>
+<p class="course-descriptions">Lecture and laboratory course emphasizing the biology, ecology and taxonomy of marine plants and seaweeds. Laboratory work mainly involves examination, slide preparation and dissection of fresh material collected locally. An oral presentation on a current research topic is required. Program or course fee may apply. <strong class="italic">Prerequisites: </strong>BILD 3 or consent of instructor. </p>
+<p class="anchor-parent"><a class="anchor" id="sio182b2" name="sio182b" /></a></p>
+  <p class="course-name">SIO 184. Marine Invertebrates (6) </p>
+  <p class="course-descriptions">Course emphasizing the diversity, evolution and functional morphology of marine invertebrates. Laboratory work involves examination of live and prepared specimens. An oral presentation and a paper on current research topic is required. Program or course fee may apply. <span class="italic"><strong>Prerequisites:</strong></span> BILD 3 or consent of instructor. </p>
+  <a name="sio185" id="sio185"></a></p>
+  <p class="course-name">SIO 185. Marine Microbiology Laboratory (5)</p>
+  <p class="course-descriptions">Techniques and theory in marine microbiology. Students perform experiments concerning (a) enrichment, enumeration, and identification, and (b) metabolic and physiochemical adaptations, along with an independent project. Students may not receive credit for both SIO 126L and SIO 185. <strong class="italic">Prerequisites:</strong> BILD 1 and SIO 132 or SIO 134 or consent of instructor.</p>
+  <a name="sio187" id="sio187"></a></p><p class="course-name">SIO 187. Statistical Methods in Marine Biology (4)</p>
+  <p class="course-descriptions">Introduction to statistical inference. Emphasis on constructing statistics for specific problems in marine biology. Topics include probability, distributions, sampling, replication, and experimental design. Students may not receive credit for both SIO 187 and BIEB 100. <strong class="italic">Prerequisites: </strong>BILD 3 or consent of instructor.
+  </p>
+  <a name="sio188" id="sio188"></a></p><p class="course-name">SIO 188. Biology of Fishes (5)</p>
+  <p class="course-descriptions">The comparative evolution, morphology, physiology, and ecology of fishes. Special emphasis on local, deep-sea, and pelagic forms in laboratory. <strong class="italic">Prerequisites: </strong>BILD 3 or consent of instructor. </p>
+  <a name="sio189" id="sio189"></a></p><p class="course-name">SIO 189. Pollution, Environment and Health (4)</p>
+     <p class="course-descriptions">The goal is to understand the scope of the pollution problem facing the planet. Students will learn the properties of chemicals in the environment and survey the biological mechanisms that determine their accumulation and toxicity. <strong class="italic">Prerequisites:</strong> CHEM 6C and BILD 1 or 3 or consent of instructor. </p>
+<p class="anchor-parent"><a class="anchor" id="sio190" name="sio190" /></a></p><p class="course-name">SIO 190. Special Topics in Earth, Oceans, and Atmosphere (4)</p>
+<p class="course-descriptions">A seminar course designed to treat emerging or topical subjects in the earth, ocean, or atmospheric sciences. Involves lectures, reading from the literature, and student participation in discussion. Topics vary from year to year. May be taken for credit two times. Enrollment by consent of instructor. <strong class="italic">Prerequisites:</strong> upper-division standing, a minimum UC San Diego GPA of 3.0 or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="sio192" name="sio192" /></a></p><p class="course-name">SIO 192. Senior Seminar
+				 in Scripps Institution of Oceanography (1) </p>
+				<p class="course-descriptions">The Senior Seminar Program is designed to allow Scripps Institution of Oceanography senior undergraduates to meet with faculty members in a small group setting to explore an intellectual topic in Scripps Oceanography (at the upper-division level). Topics will vary from quarter to quarter. Senior Seminars may be taken for credit up to four times, with a change in topic, and permission of the department. Enrollment is limited to twenty students, with preference given to seniors. </p>
+				<p class="anchor-parent"><a class="anchor" id="sio194" name="sio194" /></a></p>
+				<p class="course-name">SIO 194. Research Seminar in Washington, DC (4)</p>
+				<p class="course-descriptions">Course attached to a six- to eight-unit internship taken by students participating in the UCDC Program. Involves weekly seminar meetings with faculty and teaching assistant and a substantial research paper. <strong class="italic">Prerequisites:</strong> departmental approval. Participation in the UCDC Program during quarter enrolled in seminar. </p>
+				<p class="anchor-parent"><a class="anchor" id="sio195" name="sio195" /></a></p><p class="course-name">SIO 195. Methods of Teaching Earth Sciences (4)</p>
+				<p class="course-descriptions">Introduction to teaching earth sciences class section in a lower-division class, hold office hours, assist with examinations. This course counts only once toward the major. <strong class="italic">Prerequisites:</strong> junior or senior earth sciences major with GPA of 3.0 or an A in the course, overall GPA of 3.0 or higher, ninety units or more, and consent of instructor, plus department stamp. </p>
+				<p class="anchor-parent"><a class="anchor" id="sio196" name="sio196" /></a></p><p class="course-name">SIO 196. Honors Thesis Research (4)</p>
+				<p class="course-descriptions">Course is for student participants in the senior honors thesis research program. Students complete individual research on a problem by special arrangement with, and under the direction of, a Scripps Institution of Oceanography faculty member. May be taken for credit two times. <strong class="italic">Prerequisites:</strong> completed ninety units of courses, including twelve units of SIO courses. Achieved a GPA of 3.3 overall and 3.5 in SIO courses. Submitted to Scripps Steering Committee, and had approved, an honors thesis research proposal. Department stamp.</p>
+				<p class="anchor-parent"><a class="anchor" id="sio197" name="sio197" /></a></p><p class="course-name">SIO 197. Earth Science Internship (2 or 4)</p>
+				<p class="course-descriptions">The earth science internship program is designed to complement the program&#8217;s academic curriculum with practical field experience. <strong class="italic">Prerequisites:</strong> completion of ninety units with a GPA of 2.5, and a completed and approved Special Studies form, UC San Diego Application for Enrollment Special Studies Courses 197, 198, 199, and department stamp. </p>
+				<p class="anchor-parent"><a class="anchor" id="sio197ba" name="sio197ba" /></a></p><p class="course-name">SIO 197BA. Birch Aquarium Internship (4)</p>
+				<p class="course-descriptions">This internship will examine basic science learning theory and interpretive techniques best suited for learners in an aquarium or informal learning setting. Students will demonstrate learned skills by facilitating floor-based interactions and conducting visitor surveys that influence aquarium exhibit design and guest experiences. Interested students should contact the Scripps undergraduate office for application instructions. P/NP grades only. <strong class="italic">Prerequisites:</strong> upper-division standing and department stamp required. </p>
+				<p class="anchor-parent"><a class="anchor" id="sio198" name="sio198" /></a></p><p class="course-name">SIO 198. Directed Group Study (2–4)</p>
+				<p class="course-descriptions">This course covers a variety of directed group studies in areas not covered by formal Scripps Oceanography courses. (P/NP grades only.) <strong class="italic">Prerequisites:</strong> consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="sio199" name="sio199" /></a></p><p class="course-name">SIO 199. Independent Study for Undergraduates (4)</p>
+				<p class="course-descriptions">Independent reading or research on a problem. By special arrangement with a faculty member. (P/NP grades only.)<br>
+				</p>
+				<h2 class="course-descriptions">Graduate Courses    </h2>
+				<h3 class="course-subhead-1">BS/MS Course</h3>
+    <p class="anchor-parent"><a class="anchor" id="siog228" name="siog228" /></a></p>
+    <p class="course-name">SIOG 228. Research Seminar (2)</p>
+    <p class="course-descriptions">A three-quarter required sequence for BS/MS earth sciences students to prepare students for thesis writing. <strong class="italic">Prerequisites:</strong> current
+     earth sciences BS/MS student. Department stamp required. </p>
+    <h3 class="course-subhead-1">Graduate </h3>
+    <p>The SIO Department offers graduate courses across three broad curricular areas:</p>
+    <ul>
+     <li>Climate-Ocean-Atmosphere Program (COAP)</li>
+     <li>Geosciences of Earth, Oceans, and Planets (GEO)</li>
+     <li>Ocean Biosciences Program (OBP)</li>
+    </ul>
+    <p>Graduate courses are organized under the following course prefixes:</p>
+    <ul>
+     <li>SIOC: COAP courses</li>
+     <li>SIOG: GEO courses</li>
+     <li>SIOB: OBP courses</li>
+     <li>SIO: courses not specific to one program</li>
+    </ul>
+  <p class="anchor-parent"><a class="anchor" id="sioc200a" name="sioc200a" /></a></p>
+  <p class="course-name">SIOC 200A. Computational Ocean Acoustics and Signal Processing I (4)</p>
+    <p class="course-descriptions">Overview of ocean acoustics. Acoustics Wave Equation with some analytic solution techniques. Ray Methods. Introduction to Spectral and Normal Modes methods. Introduction to beamforming, including matched field processing. Computer programs will be constructed on all subjects covered. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. Kuperman </p>
+    <p class="anchor-parent"><a class="anchor" id="sioc200b" name="sioc200b" /></a></p>
+    <p class="course-name">SIOC 200B. Computational
+     Ocean Acoustics and Signal Processing II (4)</p>
+    <p class="course-descriptions">Continuation of SIOC 200A. Range dependent propagation models, including adiabatic and coupled mode models and parabolic equations. More advanced topics in matched field processing. <strong class="italic">Prerequisites:</strong> graduate standing and SIOC 200A or SIO 200A or consent of instructor. Kuperman </p>
+    <p class="anchor-parent"><a class="anchor" id="sioc200c" name="sioc200c" /></a></p>
+    <p class="course-name">SIOC 200C. Computational
+     Ocean Acoustics and Signal Processing III (4)</p>
+    <p class="course-descriptions">Continuation of SIOC 200B. Modeling interference such as ambient noise. Time domain methods. Matched field tomography, nonlinear optimization methods, and geophysical inversion. <strong class="italic">Prerequisites:</strong> graduate standing and SIOC 200B or SIO 200B or consent of instructor. Kuperman </p>
+    <p class="anchor-parent"><a class="anchor" id="sioc201" name="sioc201" /></a></p>
+    <p class="course-name">SIOC 201. Geological Record of Climate Change (4)</p>
+    <p class="course-descriptions">Introduction to geological archives; the tools for paleoclimate reconstruction and a sampling of important issues from the geological record, including the development of “greenhouse” and “icehouse” worlds, the origin and evolution of glacial cycles, and the origin of “millennial scale” climate variability. <strong class="italic">Prerequisites:</strong> chemistry and physics required for graduate admission to SIO, SIO 101 or equivalent, or consent of instructor. Charles </p>
+    <p class="anchor-parent"><a class="anchor" id="sioc202a" name="sioc202a" /></a></p><p class="anchor-parent"><a class="anchor" id="sioc202b" name="sioc202b" /></a></p>
+    <p class="course-name">SIOC 202A–B. Fundamentals of Wave Physics (4–4)</p>
+    <p class="course-descriptions">This two-quarter sequence is designed to introduce a broad background of students to basic principles of wave physics, including generation, propagation, dispersion, refraction, diffraction, reflection, waveguides, etc. A variety of wave motions of environmental relevance, including acoustic, ocean surface and internal (SIOC 202A), optical and seismic (SIOC 202B) are used to illustrate these principles. In-class experiments, data collection, and analysis exercises are incorporated. <strong class="italic">Prerequisites:</strong> calculus and partial differential equations. Kuperman, Melville, Stramski, Gerstoft </p>
+    <p class="anchor-parent"><a class="anchor" id="sioc203a" name="sioc203a" /></a></p>
+    <p class="course-name">SIOC 203A. Introduction to Applied Mathematics I (4)</p>
+      <p class="course-descriptions">Review of exact methods for ordinary differential equations. Expansions about regular and irregular singular points. Introduction to asymptotic expansions. Approximate methods for nonlinear differential equations. Regular and singular perturbation theory. Additional topics depending upon the interests of the instructor. Coscheduled with MAE 294BA. <strong class="italic">Prerequisites:</strong> MATH 110, MATH 120A, or consent of instructor. </p>
+        <p class="anchor-parent"><a class="anchor" id="sio203b" name="sio203b" /></a></p>
+        <p class="course-name">SIOC 203B. Introduction to Applied Mathematics II (4)</p>
+        <p class="course-descriptions">Asymptotic methods: method of steepest descent (if not covered in I) WKB, method of multiple scales, boundary layer theory. Elements of complex analysis. Coscheduled with MAE 294B. <strong class="italic">Prerequisites:</strong> MAE 294A or SIOC 203A or SIO 203A or consent of instructor. </p>
+        <p class="anchor-parent"><a class="anchor" id="sioc203c" name="sioc203c" /></a></p>
+        <p class="course-name">SIOC 203C. Introduction to Applied Mathematics III (5)</p>
+        <p class="course-descriptions">Partial differential equations: characteristics, similarity solutions, Green&#8217;s functions, images, wave equation, diffusion equation, Laplace&#8217;s equation. Applications to continuum mechanics, potential fields, and transport phenomena such as diffusion, linear and nonlinear waves, Burger’s equation, shocks, and other topics. Other topics according to the interests of the instructor. Coscheduled with MAE 294C. <strong class="italic">Prerequisites: </strong>graduate standing and MAE 294B or SIOC 203B or SIO 203B or SIOC 215B or SIO 215B or consent of instructor. W. Young </p>
+        <p class="anchor-parent"><a class="anchor" id="sioc204" name="sioc204" /></a></p>
+        <p class="course-name">SIOC 204. Underwater Acoustics (4)</p>
+        <p class="course-descriptions">Theory of radiation, transmission, and scattering
+         of sound with special application to ocean acoustics. <strong class="italic">Prerequisites:</strong> graduate
+         standing or consent of instructor. Buckingham </p>
+        <p class="anchor-parent"><a class="anchor" id="sioc205" name="sioc205" /></a></p><p class="course-name">SIOC 205. Estuarine and Coastal Processes (4)</p>
+        <p class="course-descriptions">The course focuses on estuarine and coastal physical dynamics and biogeochemical/ecosystem impacts. Topics are adjusted for student interest, but include turbulence and the bottom boundary layer, tides (origin and propagation), estuary types, tidally averaged dynamics, temporal variation, stratification, lateral processes and fronts, dispersion mechanisms, sediment transport, estuarine productivity (nutrients, oxygen, and eutrophication), estuarine ecosystems, river plumes, and coastal upwelling. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. (Letter grades only.) Giddings </p>
+<p class="anchor-parent"><a class="anchor" id="sioc206" name="sioc206" /></a></p>
+        <p class="course-name">SIOC 206. Land Surface Hydrology (4)</p>
+        <p class="course-descriptions">Advanced introduction to natural processes that govern water occurrence and transport over the land surface. Principles of global hydrologic cycle and land-surface water balance, runoff and fluvial geomorphology, infiltration and subsurface water flow, evaporation and plant transpiration. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. </p>
+        <p class="anchor-parent"><a class="anchor" id="sioc207a" name="sioc207a" /></a></p>
+        <p class="course-name">SIOC 207A. Fundamentals of Digital Signal Processing (4)</p>
+        <p class="course-descriptions">Discussion of discrete-time signals and systems, Discrete-Time Fourier Transform (DFT) and window functions, Fast Fourier Transform (FFT), design of Finite Impulse Response (FIR) and Infinite Impulse Response (IIR) digital filters and their implementations, finite word length effects, applications to data acquisition and analysis. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. Hodgkiss </p>
+        <p class="anchor-parent"><a class="anchor" id="sioc207b" name="sioc207b" /></a></p>
+        <p class="course-name">SIOC 207B. Digital Signal Processing I (4)</p>
+        <p class="course-descriptions">Discrete random signals; conventional (FFT
+         based) spectral estimation. Coherence and transfer function
+         estimation; model-based spectral estimation; linear prediction and AR modeling,
+         Levinson-Durbin algorithm and lattice filters, minimum variance spectrum
+         estimation. Coscheduled with ECE 251A.&nbsp;(Recommended prerequisites: ECE 153 in addition to
+        either ECE 161 or 161A and SIOC 207A or SIO 207A or equivalent background.) <span class="italic"><b>Prerequisites:</b></span> graduate standing or consent of instructor. Hodgkiss, Rao </p>
+        <p class="anchor-parent"><a class="anchor" id="sioc207c" name="sioc207c" /></a></p>
+        <p class="course-name">SIOC 207C. Digital Signal Processing II (4)</p>
+        <p class="course-descriptions">Adaptive filter theory, estimation errors
+         for recursive least squares and gradient algorithms, convergence
+         and tracking analysis of LMS, RLS, and Kalman filtering algorithms,
+         comparative performance of Wiener and adaptive filters, transversal
+         and lattice filter implementations, performance analysis for equalization,
+         noise canceling, and linear prediction applications. Coscheduled 
+        with ECE 251B. (Recommended Prerequisites: ECE 251A or ECE 251AN.) <strong><em>P</em><span class="italic">rerequisites:</span></strong> graduate standing ECE 251A (for ECE 251B); SIOC 207B or SIO 207B (for SIOC 207C). Hodgkiss </p>
+        <p class="anchor-parent"><a class="anchor" id="sioc207d" name="sioc207d" /></a></p>
+        <p class="course-name">SIOC 207D. Array Processing (4)</p>
+        <p class="course-descriptions">The coherent processing of data collected
+         from sensors distributed in space for signal enhancement and noise rejection
+         purposes or wavefield directionality estimation. Conventional and adaptive
+         beamforming. Matched field processing. Sparse array design and processing
+         techniques. Applications to acoustics, geophysics, and electromagnetics.
+        Coscheduled with ECE 251D. (Recommended Prerequisites: ECE251A or ECE 251AN.) <strong class="italic">Prerequisites:</strong> graduate standing; ECE 251C (for ECE 251D); SIOC 207C or SIO 207C (for SIOC 207D). Hodgkiss </p>
+        <p class="anchor-parent"><a class="anchor" id="sioc208" name="sioc208" /></a></p>
+        <p class="course-name">SIOC 208. Seminar in Applied Ocean Sciences (1)</p>
+        <p class="course-descriptions">Topics in applied ocean sciences. One-hour seminar. (S/U grades only). Staff </p>
+        <p class="anchor-parent"><a class="anchor" id="sioc209" name="sioc209" /></a></p>
+        <p class="course-name">SIOC 209. Special Topics (1–4)</p>
+        <p class="course-descriptions">Within the next few years, lectures on various special subjects will be offered by members of the staff. The emphasis will be on topics that reveal the interdependence of the biological, chemical, geological, and physical processes operating in the oceans. (S/U grades permitted.) Staff </p>
+        <p class="anchor-parent"><a class="anchor" id="sioc210" name="sioc210" /></a></p>
+        <p class="course-name">SIOC 210. Physical Oceanography (4)</p>
+        <p class="course-descriptions">Physical description of the sea; physical properties of seawater, methods and measurements, boundary processes, regional oceanography. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. Talley </p>
+        <p class="anchor-parent"><a class="anchor" id="sioc211a" name="sioc211a" /></a></p>
+        <p class="course-name">SIOC 211A. Ocean Waves I (4)</p>
+        <p class="course-descriptions">Propagation and dynamics of waves in the ocean,
+         including the effects of stratification, rotation, topography,
+         wind, and nonlinearity. <strong class="italic">Prerequisites:</strong> graduate
+         standing or consent of instructor. Hendershott
+        </p>
+        <p class="anchor-parent"><a class="anchor" id="sioc211b" name="sioc211b" /></a></p>
+        </p>
+        <p class="course-name">SIOC 211B. Ocean Waves II (4)</p>
+        <p>Propagation and dynamics of waves in the ocean, including the effects of stratification, rotation, topography, wind, and nonlinearity. <strong class="italic">Prerequisites:</strong> graduate standing and SIOC 211A or SIO 211A and SIOC 214A or SIO 214A or consent of instructor. Melville </p>
+        <p class="anchor-parent"><a class="anchor" id="sioc212a" name="sioc212a" /></a></p>
+        <p class="course-name">SIOC 212A. Geophysical Fluid Dynamics I (4)</p>
+        <p class="course-descriptions">The equations of motions for rotating stratified
+         flow and their application to the atmospheric and oceanic dynamics;
+         Ekman layer dynamics, potential vorticity dynamics, the quasigeostrophic
+         approximation, theories of the wind-driven oceanic circulation,
+         theories of the atmospheric Hadley circulation, geostrophic
+         adjustment, and baroclinic instability. <strong class="italic">Prerequisites:</strong> graduate
+         standing or consent of instructor.
+         MacKinnon </p>
+        <a name="sioc212b" id="sioc212b"></a></p>
+        <p class="course-name">SIOC 212B. Geophysical Fluid Dynamics II (5)</p>
+        <p class="course-descriptions">The equations of motion for rotating stratified flow and their
+         application to the atmospheric and oceanic dynamics; Ekman
+         layer dynamics, potential vorticity dynamics, the quasigeostrophic
+         approximation, theories of the wind-driven oceanic circulation,
+         theories of the atmospheric Hadley circulation, geostrophic
+        adjustment, and baroclinic instability. <span class="italic"><strong>Prerequisites</strong></span><strong>:</strong> graduate standing and SIOC 212A or SIO 212A and SIOC 214A or SIO 214A or consent of instructor. Cessi </p>
+        <p class="anchor-parent"><a class="anchor" id="sioc213" name="sioc213" /></a></p>
+        <p class="course-name">SIOC 213. Turbulence and Mixing (4)</p>
+        <p class="course-descriptions">Mixing mechanisms, their identification, description, and modeling. Introduction to turbulence, semi-empirical theories, importance of coherent structures, effects of stratification and rotation on turbulent structure, entrainment and mixing. (S/U grades permitted.) <em><strong>Prerequisites:</strong> </em>graduate standing or consent of instructor. Armi</p>
+        <p class="anchor-parent"><a class="anchor" id="sioc214a" name="sioc214a" /></a></p>
+        <p class="course-name">SIOC 214A. Introduction to Fluid Mechanics (4)</p>
+        <p class="course-descriptions">A survey of classical problems in fluid mechanics
+         and approximate techniques of analysis. Topics include conservation
+         equations, straight laminar flows, low and high Reynolds number
+         laminar flow, stability of laminar flows, turbulent flow. <strong class="italic">Prerequisites:</strong> graduate
+         standing or consent of instructor. Hendershott </p>
+        <p class="anchor-parent"><a class="anchor" id="sioc214b" name="sioc214b" /></a></p>
+        <p class="course-name">SIOC 214B. Environmental Fluid Dynamics (4)</p>
+        <p class="course-descriptions">Single-layer flows with a free surface;
+         two-layer flows, including exchange flows in harbors, estuaries,
+         seas, and buildings. Continuously stratified flows with meteorological
+         and oceanographic applications. Topographic effects, plumes, jets, and
+         thermals. Planetary boundary layers. <strong class="italic">Prerequisites:</strong> graduate
+         standing or consent of instructor. Armi </p>
+        <a name="sioc215a" id="sioc215a"></a></p>
+        <p class="course-name">SIOC 215A. Applied Mathematics for
+         Oceanographers I (4)</p>
+        <p class="course-descriptions">Intended for first-year graduate students who seek a quantitative
+         way to describe how the ocean works: vector analysis, complex
+         quantities, Fourier and Laplace transforms, ordinary differential
+         equations, nonhomogeneous ordinary differential equations,
+         initial and boundary value problems, Heat and Laplace equations. <span class="italic"><b>Prerequisites:</b></span> graduate standing or consent of instructor. </p>
+        <a name="sioc215b" id="sioc215b"></a></p>
+        <p class="course-name">SIOC 215B. Applied Mathematics for Oceanographers II (4)</p>
+        <p class="course-descriptions">An introduction to the mathematical description of waves,
+         beginning with a description of the linear oscillator, and
+         followed by normal modes, the flexible string, membranes, water
+         waves, ray theory, method of characteristics, and basic linear
+         algebra. <span class="italic"><b>Prerequisites:</b></span> graduate standing and SIOC 215A or SIO 215A or consent
+         of instructor. </p>
+        <a name="sioc215c" id="sioc215c"></a></p>
+        <p class="course-name">SIOC 215C. Applied Mathematics for Oceanographers III (4)</p>
+        <p class="course-descriptions">An introduction to Perturbation theory, including regular
+         and singular expansions, Poincare’s method, two-scale method,
+         the WKB approximation and boundary layer theory. <span class="italic"><b>Prerequisites:</b></span> graduate standing and SIOC 215A or SIO 215A and SIOC 215B or SIO 215B or consent of instructor. </p>
+        <p class="anchor-parent"><a class="anchor" id="sioc216a" name="sioc216a" /></a></p>
+        <p class="course-name">SIOC 216A. Introduction
+         to the Physics of Complex Systems (4)</p>
+        <p class="course-descriptions">Emergent complex behavior in nonlinear, dissipative, open dynamical systems will be investigated by studying fundamental properties and their manifestation in examples drawn from the physical and biological sciences. Topics to include fractals, chaos, self-organization, artificial life, and neural networks. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. (S/U grades permitted.) Werner </p>
+        <p class="anchor-parent"><a class="anchor" id="sioc216b" name="sioc216b" /></a></p><p class="course-name">SIOC 216B. Applied Complexity (4)</p>
+        <p class="course-descriptions">A project-based course focusing on applying methods from the study of complex systems to messy, real-world physical, biological, or social problems. Projects will encompass choosing a problem, writing a proposal, carrying out research, writing up and presenting results, and working collaboratively. <strong class="italic">Prerequisites:</strong> SIO 216 or SIOC 216 or SIOC 216A and graduate standing or consent of instructor. Werner </p>
+<p class="anchor-parent"><a class="anchor" id="sioc217a" name="sioc217a" /></a></p>
+        <p class="course-name">SIOC 217A. Atmospheric and Climate Sciences I (4)</p>
+        <p class="course-descriptions">Thermodynamics and statics of dry and moist air, atmospheric composition, Earth radiation budget, vertical structure of the atmosphere, global energy balance, thermodynamic feedbacks in the climate system. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. (Letter grades only.) Russell </p>
+        <p class="anchor-parent"><a class="anchor" id="sioc217b" name="sioc217b" /></a></p>
+        <p class="course-name">SIOC 217B. Atmospheric and Climate Sciences II (4)</p>
+        <p class="course-descriptions">Fluid dynamics of the atmosphere; derivation of governing equations from the laws of physics, scale analysis, conservation principles, theoretical and observed structure of midlatitude synoptic systems; gradient wind and thermal wind approximations, geostrophic and quasigeostrophic approximations; potential vorticity, Rossby waves, climate and weather phenomena such as jet streams and cyclones. <strong class="italic">Prerequisites:</strong> graduate standing and SIOC 217A or SIO 217A or consent of instructor. Eisenman </p>
+        <p class="anchor-parent"><a class="anchor" id="sioc217c" name="sioc217c" /></a></p>
+        <p class="course-name">SIOC 217C. Atmospheric and Climate Sciences III (4)</p>
+        <p class="course-descriptions">Radiative, physical, and dynamical processes that govern the mean state, variability, and change of the atmosphere and climate, including greenhouse gases, clouds and aerosols, convection and precipitation, general circulation, and coupled atmosphere-ocean interactions. <strong class="italic">Prerequisites:</strong> graduate standing and SIOC 217A or SIO 217A and SIOC 217B or SIO 217B, or consent of instructor. Norris </p>
+        <p class="anchor-parent"><a class="anchor" id="sioc217d" name="sioc217d" /></a></p>
+        <p class="course-name">SIOC 217D. Atmospheric and Climate Sciences IV (4)</p>
+        <p class="course-descriptions">Atmospheric chemistry that impacts climate change, including photochemical reactions, ozone chemistry, and aerosol evolution in the troposphere and stratosphere. Atmospheric applications of catalytic cycles, heterogeneous chemistry, and microphysical processes will include the ozone hole, urban smog, and aerosol-cloud interactions. <strong class="italic">Prerequisites:</strong> SIOC 217A or SIO 217A and SIOC 217B or SIO 217B and SIOC 217C or SIO 217C. Russell </p>
+        <p class="anchor-parent"><a class="anchor" id="sioc218" name="sioc218" /></a></p>
+        <p class="course-name">SIOC 218. Cloud Dynamics and Climate (4)</p>
+        <p class="course-descriptions">Cloud identification, cloud properties, dynamical processes governing formation and dissipation of different cloud types, impact of clouds on radiation flux and climate.<strong class="italic"> Prerequisites:</strong> graduate standing and SIOC 217A or SIO 217A and SIOC 217B or SIO 217B. Nongraduate students may enroll with consent of instructor.</p>
+        <p class="anchor-parent"><a class="anchor" id="sioc218a" name="sioc218a" /></a></p>
+        <p class="course-name">SIOC 218A. Observational Techniques in Oceanography (4)</p>
+        <p class="course-descriptions">The course teaches practical knowledge of oceanographic methods, sensors, and platforms, with a focus on physical observations. Uses mixture of lectures, online information, lab demonstrations, practical exercises, student presentations, and manufacturers&rsquo; visits.<strong class="italic"> Prerequisites:</strong> graduate standing; basic knowledge of physical oceanography and physical principles. For graduate students in an oceanographic discipline, and graduate or third- or fourth-year undergraduate students in physics or engineering with an interest in ocean observations.</p>
+        <p class="anchor-parent"><a class="anchor" id="sioc218b" name="sioc218b" /></a></p>
+        <p class="course-name">SIOC 218B. Observational Techniques in Oceanography: At-Sea Practicum (4)</p>
+        <p class="course-descriptions">Practicum focused on preparing for and carrying out on-site fieldwork using state-of-the art methods (e.g., executing mooring-based data collection with physical, chemical, biological sensors). Teaches ship/deck skills, sensor and mooring preparation, cruise planning/execution, data analysis, cruise-report preparation.<strong class="italic"> Prerequisites:</strong> graduate standing; basic knowledge of oceanography and data analysis. For graduate students in an oceanographic discipline, and graduate students in physics or engineering with an interest in ocean observations.</p>
+        <p class="anchor-parent"><a class="anchor" id="sioc219" name="sioc219" /></a></p>
+        <p class="course-name">SIOC 219. Special Topics in Physical Oceanography (1–4)</p>
+        <p class="course-descriptions">Example topics are case histories and methods in physical oceanography, theories of the ocean circulation, numerical methods in large-scale ocean and atmospheric models, and natural electromagnetic phenomena in the earth and the oceans. (S/U grades permitted.) Staff </p>
+        <p class="anchor-parent"><a class="anchor" id="sioc220" name="sioc220" /></a></p>
+        <p class="course-name">SIOC 220. Observations
+         of Large-Scale Ocean Circulation (4)</p>
+        <p class="course-descriptions">General circulation of the oceans; tropical, subtropical, and high-latitude current systems of the Atlantic, Indian, and Pacific Oceans and marginal seas; ocean heat flux and thermohaline circulations; observational basis of large-scale dynamics. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. (S/U grades permitted.) Roemmich </p>
+        <p class="anchor-parent"><a class="anchor" id="sioc221a" name="sioc221a" /></a></p>
+        <p class="course-name">SIOC 221A. Analysis of Physical Oceanographic Data (A) (4)</p>
+        <p class="course-descriptions">Fundamental elements of analysis of geophysical and oceanographic time series, including sampling problems, least squares techniques, spectral analysis, interpretation of series, design of experiments. <strong class="italic">Prerequisites:</strong> consent of instructor. Pinkel </p>
+        <p class="anchor-parent"><a class="anchor" id="sioc221b" name="sioc221b" /></a></p>
+        <p class="course-name">SIOC 221B. Analysis of Physical Oceanographic Data (B) (4)</p>
+        <p class="course-descriptions">Techniques for analysis of physical oceanographic data involving many simultaneous processes, including probability densities, sampling errors, spectral analysis, empirical orthogonal functions, correlation, linear estimation, objective mapping. <strong class="italic">Prerequisites:</strong> SIOC 221A or SIO 221A or consent of instructor. (S/U grades permitted.) Rudnick </p>
+        <p class="anchor-parent"><a class="anchor" id="sioc221c" name="sioc221c" /></a></p>
+        <p class="course-name">SIOC 221C. Data Analysis Laboratory (4)</p>
+        <p class="course-descriptions">This course is to give students practical experience with analysis techniques. Students complete three projects. Topics include empirical orthogonal functions, objective mapping, complex demodulation, inference of geostrophic flow, minimization of CTD salinity spiking, isolation of wind-driven currents, wavelets. <strong class="italic">Prerequisites:</strong> SIOC 221A or SIO 221A and SIOC 221B or SIO 221B or consent of instructor. (S/U grades only.) Gille </p>
+        <p class="anchor-parent"><a class="anchor" id="sioc222" name="sioc222" /></a></p><p class="course-name">SIOC 222. Underwater Bioacoustics (4)</p>
+        <p class="course-descriptions">Introductory course to familiarize a broad spectrum of participants to underwater sound and its relationship to underwater animals. Basic physics of sound propagation, use of sound to study underwater animals, and the sounds made by the animals themselves for echolocation and communication will be covered. <strong><em>Prerequisites:</em></strong> graduate standing or consent of instructor.</p>
+        <p class="anchor-parent"><a class="anchor" id="sioc223" name="sioc223" /></a></p><p class="course-name">SIOC 223. Proposal Writing and Oceanographic Experiment Design (4)</p>
+        <p class="course-descriptions">Students will use concepts developed in class to develop ideas for an observational experiment, culminating in the writing of a NSF-style proposal and oral presentation of the proposed project. This effort will include identification of a tractable scientific problem, background research, development of an appropriate measurement program, and the writing of a compelling science proposal. Course will provide an opportunity to synthesize scientific, technical, and practical concepts presented in class. <strong><em>Prerequisites:</em></strong> graduate standing or consent of instructor.</p>
+        <p class="anchor-parent"><a class="anchor" id="sioc224" name="sioc224"/></a></p><p class="course-name">SIOC 224. Numerical Modeling of the Climate System (4)</p>
+        <p class="course-descriptions">Introduction to the methods used in numerical models of the ocean and atmosphere; survey of numerical methods, introduced in the context of a series of example problems; overview of the equations represented in general circulation models (GCMs) of the atmosphere and ocean, and additional numerical methods used in these models; adjoint methods for state estimation, analysis of GCM output, and other related topics. <em><strong>Prerequisites:</strong></em> graduate standing or consent of instructor.</p>
+        <p class="anchor-parent"><a class="anchor" id="sioc225" name="sioc225"/></a></p><p class="course-name">SIOC 225. Ice Sheet-Ocean Interactions (4)</p>
+        <p class="course-descriptions">Melting of glaciers and ice shelves by the ocean has emerged as a driver of rapid ice loss from Greenland and Antarctica, and hence sea level rise. In turn, melting of Greenland and Antarctica impacts ocean circulation and marine ecosystems. This interdisciplinary course covers basic glacier and ice sheet dynamics, fjord and ice shelf cavity circulation, melting of ice in the ocean and the current state of observations, models and theories of ice sheet ocean interactions at both hemispheres. Recommended preparation: Some introduction to physical oceanography and introductory calculus is helpful. The course is designed for an interdisciplinary group of students. <strong><em>Prerequisites:</em></strong> graduate standing or consent of instructor.</p>
+<p class="anchor-parent"><a class="anchor" id="sioc235" name="sioc235"/></a></p><p class="course-name">SIOC 235. Ocean-Atmosphere Interaction and Climate (4)</p>
+        <p class="course-descriptions">The class discusses ocean-atmosphere interaction dynamics that cause climate to vary in space and time, and form the physical basis for predicting year-to-year climate variability and projecting future climate change in the face of global warming.<strong class="italic"> Prerequisites:</strong> graduate standing, SIO 210 or SIOC 210 and SIO 211A or SIO 211B or SIO 212A or SIO 212B or SIO 217A or SIO 217B or SIOC 211A or SIOC 211B or SIOC 212A or SIOC 212B or SIOC 217A or SIOC 217B or consent of instructor.</p>
+        <p class="anchor-parent"><a class="anchor" id="sioc237a" name="sioc237a"/></a></p><p class="course-name">SIOC 237A. Introduction to Ocean Optics (4)</p>
+        <p class="course-descriptions">Overview of ocean optics. Concepts in radiometry. Inherent and apparent optical properties. Radiative transfer equation. Light absorption and scattering by seawater constituents. Optics of air-water interface. Light fields within and leaving the ocean. Optics of marine particles. Measurement methods and instrumentation. Recommended preparation: basic physics and differential calculus. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. Stramski </p>
+        <p class="anchor-parent"><a class="anchor" id="sioc237b" name="sioc237b"/></a></p><p class="course-name">SIOC 237B. Ocean Color Remote Sensing (4)</p>
+        <p class="course-descriptions">Overview of ocean color satellite missions. Concepts in radiometry. Inherent and apparent optical properties. Radiative transfer equation. Solar radiation and elements of atmospheric optics. Propagation of light across the sea surface and within the ocean. Light absorption and scattering by seawater. Water-leaving radiance and remote-sensing reflectance. Ocean color algorithms and applications. Recommended preparation: basic physics and differential calculus. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. (S/U grades permitted.) Stramski </p>
+        <p class="anchor-parent"><a class="anchor" id="sioc237c" name="sioc237c"/></a></p><p class="course-name">SIOC 237C. Optical-Biological Interactions in the Ocean (4)</p>
+        <p class="course-descriptions">This is a course on the interactions of underwater light with marine plankton and animals. Topics include basic physics of interaction of light and matter, optical properties of marine plankton, optical and biological effects associated with interactions of light with marine organisms, and optical methods and their applications to the study of ocean biology. Course meetings consist of approximately 75 percent lectures by instructor and 25 percent student presentations and discussions of selected papers. Renumbered from SIO 237C. Students will not receive credit for SIOC 237C and SIO 237C. Recommended preparation: basic physics and biology. (Letter grades only.) Stramski </p>
+        <p class="anchor-parent"><a class="anchor" id="sioc238" name="sioc238"/></a></p><p class="course-name">SIOC 238. Sensor Networks (4)</p>
+        <p class="course-descriptions">Characteristics of chemical, biological, seismic, and other physical sensors; signal processing techniques supporting distributed detection of salient events; wireless communication and networking protocols supporting formation of robust sensor fabrics; current experience with low power, low cost sensor deployments. Renumbered from SIO 238. Students may not receive credit for SIOC 238 and SIO 238. May be coscheduled with MAE 149 and ECE 156. <strong class="italic">Prerequisites:</strong> upper-division standing and approval of instructor, or graduate student in science or engineering. (S/U grades permitted.) Hodgkiss </p>
+        <p class="anchor-parent"><a class="anchor" id="sioc241" name="sioc241"/></a></p><p class="course-name">SIOC 241. Advanced Signal Processing for Structural Vibrations and Acoustics (4)</p>
+        <p class="course-descriptions">Review basic fluid and elastic wave propagation in infinite and finite media. Introduce signal and array-processing methods for localization, medium inversion, and nondestructive testing based on the underwater, seismic, and radar literature. Renumbered from SIO 241, students will not receive credit for SIOC 241 and SIO 241. Recommended preparation: calculus through differential equations, linear algebra; Matlab experience strongly desired. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. Kuperman </p>
+<p class="anchor-parent"><a class="anchor" id="sioc250" name="sioc250"/></a></p><p class="course-name">SIOC 250. Advanced Atmospheric Dynamics (4)<br>
+   </p>
+        <p class="course-descriptions">Advanced topics in atmospheric dynamics not covered in the SIO 217 sequence, including baroclinic instability, mechanisms driving the general circulation of the troposphere and stratosphere, tropical waves, hurricanes and mesoscale phenomena, teleconnections, and spatially coherent patterns of variability.<strong class="italic"> Prerequisites:</strong> SIOC 212A or SIO 212A or SIOC 217B or SIO 217B or consent of instructor.</p>
+        <p class="anchor-parent"><a class="anchor" id="sioc251" name="sioc251"/></a></p>
+        <p class="course-name">SIOC 251. Radiation in the Atmosphere (4)</p>
+        <p class="course-descriptions">This graduate-level core course in radiation provides an introduction to basic laws, radiative transfer under clear sky conditions, scattering by individual particles, multiple scattering, radiative properties of clouds and aerosols, the global energy budget, and applications to satellite meteorology. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. (Letter grades only.) Evan </p>
+<p class="anchor-parent"><a class="anchor" id="sioc254" name="sioc254"/></a></p><p class="course-name">SIOC 254. Science of Climate Change (4)</p>
+        <p class="course-descriptions">This course will provide the scientific basis for understanding climate change. The focus will be on the twentieth century and understanding the various natural and anthropogenic factors and feedback processes that are contributing to the observed climate changes, including extreme events. The students will develop a climate model and explore ways to slow down future changes.<strong class="italic"> Prerequisites:</strong> SIOC 217A or SIO 217A or consent of instructor.</p>
+        <p class="anchor-parent"><a class="anchor" id="sioc261" name="sioc261"/></a></p><p class="course-name">SIOC 261. Nearshore Physical Oceanography (4)</p>
+        <p class="course-descriptions">This course will cover the basic physics of the nearshore region spanning the surf zone to the inner shelf. Topics covered will include wave shoaling, shoaling and breaking, radiation stress and vortex force formalisms, wave setup, wave driven currents in the surf zone and inner shelf, undertow, infragravity waves, basics of sediment transport, and transport and mixing. <strong><em>Prerequisites:</em></strong> SIOC 202A or SIOC 211A or SIOC 214A or consent of instructor.</p>
+<p class="anchor-parent"><a class="anchor" id="sioc267" name="sioc267"/></a></p>
+        <p class="course-name">SIOC 267. Biogeochemistry (4) </p>
+        <p class="course-descriptions">Examines quantitatively the impact of the biota on the chemistry of the atmosphere and ocean. Emphasis given to isotopes as tracers of biogeochemical processes. Attention given to paleoclimatic and paleoatmospheric data from ice cores to reveal mechanisms.<span class="italic"> <strong>Prerequisites: </strong></span>graduate standing or consent of instructor. Severinghaus, R. Keeling </p>
+        <p class="anchor-parent"><a class="anchor" id="sioc290s" name="sioc290s"/></a></p>
+        <p class="course-name">SIOC 290S. Climate Math and Science (6)</p>
+        <p class="course-descriptions">The course will introduce key physical and biogeochemical concepts needed to understand the Earth’s climate system. The overview will provide a foundation for examining the physical evidence of climate change. Mathematical methods will be presented to reinforce the scientific concepts. Students will complete group papers and presentations and lead discussions on assigned readings. SIOC 290S is a required course in the curriculum of the master of advanced studies—climate science and policy. (Letter grades only.) <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor.</p>
+        <p class="anchor-parent"><a class="anchor" id="sioc291s" name="sioc291s"/></a></p><p class="course-name">SIOC 291S. Introduction to Climate Policy (6)</p>
+        <p class="course-descriptions">The course will focus on policy solutions to climate change and introduce key topics in state, national, and international environmental law and policy. The energy system as well as energy policy will be examined, providing essential foundation for understanding California&rsquo;s renewable energy policy goals and how we may get there. Students will complete group papers and presentations and lead discussions on assigned readings. This course will include a one-week field trip (Letter grades only.) <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor.</p>
+        <p class="anchor-parent"><a class="anchor" id="sioc292" name="sioc292"/></a></p><p class="course-name">SIOC 292. Introduction to Climate Science and Policy (4)</p>
+        <p class="course-descriptions">This course explores the interaction between climate science, policy, and the larger culture. (S/U grades permitted). <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor.</p>
+        <p class="anchor-parent"><a class="anchor" id="sioc293" name="sioc293"/></a></p><p class="course-name">SIOC 293. Ocean-Atmosphere Processes and Climate Variability (4)</p>
+        <p class="course-descriptions">We will examine the general structure of the ocean and atmosphere and consider processes and interactions that contribute to climate variability. We will describe dominant climate modes of variability, such as ENSO, and evaluate processes driving climate changes on longer timescales, such as ice ages and deglaciation. Finally, we will explore how climate system processes and feedbacks modulate the impacts of anthropogenic greenhouse gases, and how they may be impacted in a warming climate. <strong><em>Prerequisites:</em></strong> SIOC 290S and graduate standing or consent of instructor.</p>
+<p class="anchor-parent"><a class="anchor" id="sioc296" name="sioc296"/></a></p>
+        <p class="course-name">SIOC 296. Climate Science and Policy Forum (1)</p>
+        <p class="course-descriptions">This required course for MAS-CSP students will focus on the development of MAS Capstone Projects and discussions covering climate science and policy issues, including informal student presentations on political, economic, historical, educational, and natural science issues related to climate science and policy. (Letter grades only.) May be taken for credit three times. <strong class="italic">Prerequisites:</strong> graduate standing.</p>
+        <p class="anchor-parent"><a class="anchor" id="sioc299" name="sioc299"/></a></p><p class="course-name">SIOC 299. Climate Science and Policy Capstone Project (6–10)</p>
+        <p class="course-descriptions">Building on the knowledge and experience gained from the entire curriculum of the master’s in climate science and policy (MAS-CSP) program, students will design and present a specific climate science and policy project. May be taken for credit one time for a maximum of ten units. (S/U grades only.) <strong class="italic">Prerequisites:</strong> graduate standing. Only students registered in MAS-CSP program.</p>
+        <p class="anchor-parent"><a class="anchor" id="sio222" name="sio222" /></a></p><p class="course-name">SIOG 222. Introduction to Industry Reflection Seismic Methods (4)</p>
+        <p class="course-descriptions">Seismic methods history; land and marine seismic sources and receivers; seismic wave types; basics of reflection data processing and imaging; vertical seismic profiling; well logs, 1-D synthetics, seismic-well ties; reflection data facies and fluids interpretation in geological settings; emerging reflection seismic methods. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. (S/U grades permitted.) Srnka, Leonard</p>
+<p class="anchor-parent"><a class="anchor" id="sio223ga" name="sio223ga" /></a></p>
+        <p class="course-name">SIOG 223A. Geophysical Data Analysis I (4)</p>
+        <p class="course-descriptions">Probability and statistics and their application to make inferences from geophysical data: point processes, distributions, maximum likelihood estimation, hypothesis testing and confidence intervals, least squares, density estimation, interpolation and smoothing. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor.  </p>
+                <p class="anchor-parent"><a class="anchor" id="sio223gb" name="sio223gb" /></a></p>
+                <p class="course-name">SIOG 223B. Geophysical Data Analysis II (4)</p>
+                <p class="course-descriptions">Analysis of geophysical measurements, especially time series, Fourier theory digital signal processing, and spectral analysis. <strong class="italic">Prerequisites:</strong> graduate standing and SIOG 223A or SIO 223A or consent of instructor. Agnew </p>
+                <p class="anchor-parent"><a class="anchor" id="siog224" name="siog224" /></a></p>
+                <p class="course-name">SIOG 224. Internal Constitution of the Earth (4)</p>
+                <p class="course-descriptions">An examination of current knowledge about the composition and state of the Earth’s interior revealed by geophysical observations. Seismic velocity and mass density distributions; equations of state; phase changes; energy balance and temperatures; constraints on composition from extraterrestrial samples and exposed rocks; spherical and aspherical variations of properties. Recommended preparation: calculus and differential equations, basic chemistry and physics. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor.  Masters, Stegman  </p>
+                <p class="anchor-parent"><a class="anchor" id="siog225" name="siog225" /></a></p>
+                <p class="course-name">SIOG 225. Physics of Earth Materials (4)</p>
+                <p class="course-descriptions">Mathematics and physics of continuous media, focusing on geophysical problems. Topics include deformation, stress, conservation laws, elasticity, attenuation, viscoelasticity, fracture mechanics, and porous media. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. Agnew, Fialko  </p>
+                <p class="anchor-parent"><a class="anchor" id="sio226" name="sio226" /></a></p>
+                <p class="course-name">SIOG 226. Introduction to Marine Geophysics (4)</p>
+                <p class="course-descriptions">Methods of exploration geophysics with emphasis on those useful at sea. Magnetic and gravitational potential field methods, multibeam echo sounding reflection and refraction seismology will be covered. Recent papers from the literature will also be read and discussed. Recommended preparation: differential equations; at least one geology course. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor.  (S/U grades permitted.) Dorman, Chadwell  </p>
+                <p class="anchor-parent"><a class="anchor" id="siog227a" name="siog227a" /></a></p>
+                <p class="course-name">SIOG 227A. Introduction to Seismology (4)</p>
+                <p class="course-descriptions">Introduction to seismometers and seismograms; stress and strain; potentials and the wave equation; geometrical ray theory and travel times in layered media; representation of seismic sources; WKBJ and synthetic seismograms; seismic hazards and other applications of seismology. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor.  (S/U grades permitted.) Shearer  </p>
+                <p class="anchor-parent"><a class="anchor" id="siog227b" name="siog227b" /></a></p>
+                <p class="course-name">SIOG 227B. Advanced Seismology I (4)</p>
+        <p class="course-descriptions">Introduction to low-frequency digital data; continuum mechanics and the equations of motion; free oscillation solutions; construction of Earth models; excitation of free-oscillations and source mechanism retrieval; array processing of long-period data; modelling aspherical structure; surface waves. <strong class="italic">Prerequisites:</strong> SIOG 227A or SIO 227A or consent of instructor. (S/U grades permitted.) Masters </p>
+                <p class="anchor-parent"><a class="anchor" id="siog227c" name="siog227c" /></a></p>
+        <p class="course-name">SIOG 227C. Advanced Seismology II (4)</p>
+                <p class="course-descriptions">High-frequency wave propagation; methods for computing synthetic seismograms, including WKBJ, reflectivity and finite differences; body-wave spectra; attenuation of body waves; source physics; reflection and refraction seismology; seismic tomography. <strong class="italic">Prerequisites:</strong> SIOG 227A or SIO 227A and SIOG 227B or SIO 227B or consent of instructor. (S/U grades permitted.) Staff  </p>
+                <p class="anchor-parent"><a class="anchor" id="siog229" name="siog229" /></a></p>
+                <p class="course-name">SIOG 229. Gravity and Geomagnetism (4)</p>
+                <p class="course-descriptions">Introduction to potential theory, with applications to gravity and geomagnetism. Topics include the geoid, spherical harmonics, Laplace&#8217;s equation, the Dirichlet problem on a sphere, and Fourier methods. Gravity anomalies and geomagnetic field modeling and sources are discussed; also, paleomagnetic observations. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. (S/U grades permitted.) C. Constable  </p>
+                <p class="anchor-parent"><a class="anchor" id="siog230" name="siog230" /></a></p>
+                <p class="course-name">SIOG 230. Introduction to Inverse Theory (4)</p>
+                <p class="course-descriptions">Solution of linear and nonlinear inverse problems in geophysics by optimization techniques such as norm minimization and linear programming. Construction of models by regularization; inference by bounding functionals. Illustrations from gravity, geomagnetism, and seismology. <strong class="italic">Prerequisites:</strong> graduate
+        standing or consent of instructor. (S/U grades permitted.) C. Constable  </p>
+                <p class="anchor-parent"><a class="anchor" id="siog231" name="siog231" /></a></p>
+                <p class="course-name">SIOG 231. Introduction to EM Methods in Geophysics (4)</p>
+                <p class="course-descriptions">Introduction to electromagnetic methods for both global geophysics and applied/exploration methods. Covers history of EM induction, conduction in rocks, binary mixing laws, self potential, induced polarization, DC resistivity, magnetotellurics, geomagnetic depth sounding, elementary inverse methods, global conductivity structure, and marine EM methods. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. (S/U grades permitted.) S. Constable  </p>
+                <p class="anchor-parent"><a class="anchor" id="siog232" name="siog232" /></a></p>
+                <p class="course-name">SIOG 232. Ethical and Professional Science (2)</p>
+                <p class="course-descriptions">Review and group discussion of professional behavior and survival skills in the earth and ocean sciences, including ethics, data management, plagiarism, authorships, preparing proposals, public speaking, conflict of interest, working with industry. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. (S/U grades only.) C. Constable, S. Constable </p>
+                <p class="course-descriptions"><p class="anchor-parent"><a class="anchor" id="siog233" name="siog233" /></a></p></p>
+                <p class="course-name">SIOG 233. Introduction to Computing at SIO (4)</p>
+                <p class="course-descriptions">Introduction to the SIO computing environment
+                  and common software tools in geophysics and other disciplines.
+                  Topics include UNIX, Matlab, Postscript, GMT, LaTex, HTML,
+                  and a scientific programming language such as C or Fortran90. <strong class="italic">Prerequisites:</strong> graduate
+                  standing or consent of instructor. (S/U grades permitted.)
+        Shearer, Tauxe  </p>
+                <p class="anchor-parent"><a class="anchor" id="siog234" name="siog234" /></a></p>
+                <p class="course-name">SIOG 234. Geodynamics (4)</p>
+                <p class="course-descriptions">A general course on the dynamics and kinematics of the solid earth based on the text of Turcotte and Schubert. Topics include plate tectonics, heat flow, lithospheric cooling, flexure, viscous flow, gravity, crustal dynamics, and other related topics. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. (S/U grades permitted.) Sandwell  </p>
+                <a name="siog236" id="siog2"></a></p>
+                <p class="course-name">SIOG 236. Satellite Remote Sensing (4)</p>
+                <p class="course-descriptions">Satellite remote sensing provides global observations of Earth to monitor environmental changes in land, oceans, and ice. Overview physical principles of remote sensing, including orbits, electromagnetic radiation, diffraction, electro-optical, and microwave systems. Weekly labs explore remote sensing data sets. Graduate students will also be required to write a term paper and do an oral presentation. Coscheduled with SIO 135. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. Sandwell  </p>
+                <p class="anchor-parent"><a class="anchor" id="siog237" name="siog237" /></a></p><p class="course-name">SIOG 237. Space Geodesy (2)</p>
+                <p class="course-descriptions">This course covers topics in space geodesy related to the recovery and interpretation of crustal deformation measured by the Global Positioning System (GPS) as well as Interferometric Synthetic Aperture Radar (InSAR). The topics rotate yearly depending on the needs of the mostly geophysics graduate students. The course involves weekly meetings and discussions of papers. Students are also encouraged to participate in optional field trips to perform geodetic surveys. <strong><em>Prerequisites: </em></strong>graduate standing or consent of instructor. (S/U grades only)</p>
+<p class="anchor-parent"><a class="anchor" id="siog238" name="siog238" /></a></p><p class="course-name">SIOG 238. Numerical Methods for Partial Differential Equations (4)</p>
+                <p class="course-descriptions">The course will discuss main numerical methods used to solve boundary and initial value problems involving partial differential equations, such as finite differences, finite elements, and boundary elements. The emphasis will be on practical implementation of the commonly used tools and algorithms. Examples from geophysical applications will be provided. Recommended preparation: calculus and linear algebra. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. (S/U grades permitted.) Fialko </p>
+<p class="anchor-parent"><a class="anchor" id="siog239" name="siog239" /></a></p>
+                <p class="course-name">SIOG 239. Special Topics in Geophysics (1–4)</p>
+                <p class="course-descriptions">Special course offerings by staff and visiting scientists. Example topics are seismic source theory, geophysical prospecting methods, dislocation theory and seismic mechanisms, tectonic interpretation of geodetic data, and dynamo theory. (S/U grades permitted.) Staff  </p>
+                <p class="anchor-parent"><a class="anchor" id="siog240" name="siog240" /></a></p>
+                <p class="course-name">SIOG 240. Marine Geology (4)</p>
+                <p class="course-descriptions">Introduction to the geomorphology, sedimentation, stratigraphy, volcanism, structural geology, tectonics, and geological history of the oceans. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. Castillo, Charles, Gee  </p>
+                <p class="anchor-parent"><a class="anchor" id="siog241" name="siog241" /></a></p><p class="course-name">SIOG 241. Geological Field Methods for Geophysicists (1)</p>
+                <p>This course is intended for precandidacy geophysics students who have little practical geological experience. We will learn to use: Brunton compasses, GPS, topographic and geological maps and airphotos, and proper note-taking habits. We will explore the geology of Fossil Canyon (near Ocotillo), learn to determine age relationships and how to read the rock record for clues about the geological history of the area, including the opening of the Gulf of California. <span class="italic"><strong>Prerequisites:</strong> </span><span class="course-descriptions">graduate standing or consent of instructor. Tauxe </span></p>
+                <p class="anchor-parent"><a class="anchor" id="siog242" name="siog242" /></a></p><p class="course-name">SIOG 242. Rates and Dates: Applications of Modern Geochronology Methods (4)</p>
+                <p class="course-descriptions">This course is designed to give students an understanding of the science behind numerical dating techniques in geological, archaeological, and environmental science contexts. This course will provide a background in the physics of radioactive decay and natural radiation sources and the geochemistry necessary for measurement that are critical to radiometric dating methods, and nonradiometric alternatives. <strong><em>Prerequisites:</em></strong> graduate standing.</p>
+<p class="anchor-parent"><a class="anchor" id="siog243" name="siog243" /></a></p><p class="course-name">SIOG 243. Material Characterization (4)</p>
+                <p class="course-descriptions">Survey course in materials characterization geared in the earth, environmental, planetary, oceanographic, and biological sciences. Emphasis placed on surface analysis techniques. The course will introduce theoretical framework for spectroscopy, diffraction, and imaging methods used in structural and compositional characterization of materials. Techniques covered include SEM, TEM, IR, and Raman spectroscopy, laser ablation ICP-MS, etc. A term project will incorporate hands-on experience using SEM. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. (S/U grades permitted.) Van Allen</p>
+<p class="anchor-parent"><a class="anchor" id="siog244" name="siog244" /></a></p>
+                <p class="course-name">SIOG 244. Shape and Structure of the Ocean Floor (4)</p>
+                <p class="course-descriptions">Description and explanation of the structural geomorphology of oceanic crust, and of the tectonic and volcanic processes responsible for it. Description and interpretation of deep-sea sedimentary landforms (e.g., deep-sea fans, drifts, bedforms) and of the bottom currents that shape them. Offered in alternate years. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor.  Lonsdale  </p>
+                <p class="anchor-parent"><a class="anchor" id="siog245" name="siog245" /></a></p>
+                <p class="course-name">SIOG 245. Marine Sediments-Paleo Proxies (4)</p>
+                <p class="course-descriptions">On the chemical and isotopic records of marine sediments and implications for the history of seawater chemistry and paleoceanography. Will concentrate on the isotopic systems: Li, B, C, O, S, Sr, and Nd, in marine phases that reliably preserve the records, and on associated diagenetic problems. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. (S/U grades permitted.) Kastner  </p>
+                <p class="anchor-parent"><a class="anchor" id="siog246" name="siog246" /></a></p>
+                <p class="course-name">SIOG 246. Global Tectonics and Basin Formation (4)</p>
+                <p class="course-descriptions">Plate tectonics of the crust and upper mantle, examining a variety of environments from ridge crests to continental margins, including plate interiors, with an emphasis on basin formation in these tectonic settings. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor.  Cande, Driscoll  </p>
+                <p class="anchor-parent"><a class="anchor" id="siog247" name="siog247" /></a></p>
+                <p class="course-name">SIOG 247. Rock Magnetism and Paleomagnetism (4)</p>
+                <p class="course-descriptions">Rock magnetism and acquisition of magnetic remanence in geological materials as well as laboratory procedures and data analysis (isolating remanence components and statistical approaches). The paleomagnetic literature will be used to illustrate applications in geological and geophysical problems. Recommended preparation: one year each of college-level physics and geology; mathematics through calculus. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor.  (S/U grades permitted.) Tauxe </p>
+                <p class="anchor-parent"><a class="anchor" id="siog249" name="siog249" /></a></p>
+                <p class="course-name">SIOG 249. Special Topics in Marine Geology (1–4)</p>
+                <p class="course-descriptions">Special course offerings by staff and visiting scientists. (S/U grades only.) Staff  </p>
+                <a name="siog251" id="siog251"></a></p>
+                <p class="course-name">SIOG 251. Whole Earth Geochemistry  (4)</p>
+                <p class="course-descriptions">A geochemical overview of Earth materials and chemical processes involved in the Earth’s evolution. Topics include formation and differentiation of the Earth, linkages between the solid Earth and the atmosphere/ hydrosphere, and isotope and trace element composition of igneous and metamorphic rocks. Graduate students, additionally, must submit a term paper in one aspect of work discussed during the quarter to be presented orally in class. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. Hilton  </p>
+                <a name="siog252A" id="siog252A"></a></p>
+                <p class="course-name">SIOG 252A. Introduction to Isotope Geochemistry (4)</p>
+                <p class="course-descriptions">Radioactive and stable isotope studies in geology and geochemistry, including geochronology, isotopes as tracers of magmatic processes, cosmic-ray produced isotopes as tracers in the crust and weathering cycle, isotopic evolution of the crust and mantle. Graduate level requires student presentation. Conjoined with SIO 144. <strong class="italic">Prerequisites:</strong> graduate-level standing or consent of instructor. Castillo, Keeling  </p>
+                <p class="anchor-parent"><a class="anchor" id="siog252b" name="siog252b" /></a></p>
+                <p class="course-name">SIOG 252B. Advanced Isotope Geochemistry I (4)</p>
+                <p class="course-descriptions">An advanced treatment of noble gas and stable isotope geochemistry. Offered in alternate years with SIO 252C. <strong class="italic">Prerequisites:</strong> SIOG 252A or SIO 252A. Castillo, Keeling  </p>
+                <p class="anchor-parent"><a class="anchor" id="siog252c" name="siog252c" /></a></p>
+                <p class="course-name">SIOG 252C. Advanced Isotope Geochemistry II (4)</p>
+                <p class="course-descriptions">An advanced treatment of radiogenic and cosmogenic isotope geochemistry. Offered in alternate years with SIO 252B. <strong class="italic">Prerequisites:</strong> SIOG 252A or SIO 252A and SIOG 252B or SIO 252B.   </p>
+                <p class="anchor-parent"><a class="anchor" id="siog253" name="siog253" /></a></p>
+                <p class="course-name">SIOG 253. Interactions
+                  of Oceanic Plates and the California Margin (4) </p>
+                <p class="course-descriptions">How the geology of Alta and Baja California has been shaped, especially in the past 30MYR, by changing patterns of ocean plates and microplates that have subducted beneath the North American Margin, slid obliquely past it, and captured continental crust. <strong class="italic">Prerequisites:</strong> graduate standing, or consent of instructor. Lonsdale </p>
+                <a name="siog255" id="sio6"></a></p>
+                <p class="course-name">SIOG 255. Paleobiology and History of Life (6)</p>
+                <p class="course-descriptions">An introduction to the major biological transitions in Earth history from the origins of metabolism and cells to the evolution of complex societies. The nature and limitations of the fossil record, patterns of adaptation and diversity, and the tempo and mode of biological evolution. Laboratories and substantial field component complement and extend lecture material. Program and/or materials fees may apply. Graduate students, additionally, will give oral presentation or research paper. Coscheduled with SIO 104. <strong class="italic">Prerequisites:</strong> graduate-level standing or consent of instructor. R. Norris  </p>
+                <p class="anchor-parent"><a class="anchor" id="siog255a" name="siog255a" /></a></p>
+                <p class="course-name">SIOG 255A. Topics in Paleobiology and History of Life (3)</p>
+                <p class="course-descriptions">Lecture topics on the major transitions in the evolutionary history of life, including origin of metabolisms, microbes, major eukaryote radiations, ecosystems, and societies. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor.  R. Norris </p>
+                <p class="anchor-parent"><a class="anchor" id="siog257" name="siog257" /></a></p>
+                <p class="course-name">SIOG 257. Seminar in Petrology (4)</p>
+                <p class="course-descriptions">Discussion of current research in petrology and mineralogy. (S/U grades permitted.)   </p>
+                <p class="anchor-parent"><a class="anchor" id="siog260" name="siog260" /></a></p>
+                <p class="course-name">SIOG 260. Marine Chemistry (4)</p>
+                <p class="course-descriptions">Chemical description of the sea; the distribution of chemical species in the world oceans, and their relationships to physical, biological, and geological processes. Aluwihare, Barbeau, Dickson, Martz  </p>
+                <p class="anchor-parent"><a class="anchor" id="siog261" name="siog261" /></a></p>
+                <p class="course-name">SIOG 261. Introduction to Rheology of Solid Earth  (4)</p>
+                <p class="course-descriptions">This course provides a framework for understanding the intrinsic properties of rocks (mineralogy, diffusion, deformation). It explores fundamental aspects of geological processes with an emphasis on the interpretation of geophysical data. The course focuses on micro-, rock-, and planet-scale mechanisms. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. A. Pommier </p>
+                <p class="anchor-parent"><a class="anchor" id="siog263" name="siog263" /></a></p>
+                <p class="course-name">SIOG 263. Aqueous Chemistry (4)</p>
+                <p class="course-descriptions">This course emphasizes the chemical principles that control basic aqueous chemistry in marine systems. The focus will be to show that the geochemistry of the various elements in sea water and biological systems can be understood as a consequence of basic general chemical concepts such as electron structure, chemical bonding, and group and periodic properties. Recommended preparation: undergraduate chemistry equivalent to UC San Diego CHEM 6 sequence. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor.  Dickson  </p>
+                 <p class="anchor-parent"><a class="anchor" id="siog267" name="siog267" /></a></p><p class="course-name">SIOG 267. Marine Chemistry Laboratory (4)</p>
+                <p class="course-descriptions">Applies modern and classic techniques for analysis of seawater chemistry, introducing concepts of signal transduction, calibration, and measurement quality control, instrument communications, data processing. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. T. Martz </p>
+<p class="anchor-parent"><a class="anchor" id="siog268" name="siog268" /></a></p>
+                <p class="course-name">SIOG 268. Seminar in
+                  Geochemistry and Marine Chemistry (2)</p>
+                <p class="course-descriptions">Student seminars on topics related to geochemistry and the chemistry of the marine environment. (S/U grades only.)  Staff </p>
+                <p class="anchor-parent"><a class="anchor" id="siog269" name="siog269" /></a></p>
+                <p class="course-name">SIOG 269. Special Topics in Marine Chemistry (1–4)</p>
+                <p class="course-descriptions">Special course offerings by staff and visiting scientists. (S/U grades permitted.) Staff  </p>
+                <p class="anchor-parent"><a class="anchor" id="siog270" name="siog270" /></a></p><p class="course-name">SIOG 270. The Archaeology of Climate Change—Social Adaptation and Vulnerability in Temporal Perspective (4)</p>
+                <p class="course-descriptions">(Cross-listed with ANTH 270.) This seminar studies the dynamics of climate change and human responses through time. Topics include research methods in socioecodynamics, human responses to change in different sociopolitical and economic contexts, and lessons from the past that can inform the present. Students may not receive credit for ANTH 270 and SIOG 270. <span class="italic"><strong>Prerequisites:</strong></span> graduate standing or consent of instructor. (S/U grades permitted.) Staff </p>
+                <p class="anchor-parent"><a class="anchor" id="siog275" name="siog275" /></a></p><p class="course-name">SIOG 275. Paleoethnobotany (6)</p>
+                <p class="course-descriptions">(Cross-listed with ANTH 275.) This course provides an introduction to the fundamentals of practicing archaeobotany. How do archaeobotanists identify ancient plant remains in sites and how can we use this information to understand human subsistence and forestry regimes, animal feeding patterns, and climate change? Program or materials fees may apply. Students may not receive credit for ANTH 275 and SIOG 275. <em><strong>Prerequisites:</strong></em> graduate standing or consent of instructor. (S/U grades permitted.) Staff </p>
+<p class="anchor-parent"><a class="anchor" id="siob242a" name="siob242a" /></a></p><p class="course-name">SIOB 242A. Marine Biotechnology I: Tools and Methods (4)</p>
+                <p class="course-descriptions">The course will explore cutting-edge techniques as it applies to genomics, transcriptomics, proteomics, metabolomics, and the bioinformatics needed to analyze such data sets. Next generation sequencing, state-of-the-art mass spectrometry, and NMR techniques and bioinformatic challenges. Students may not receive credit for SIO 242A and SIO 242. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. Gaasterland, L. Gerwick </p>
+                <p class="anchor-parent"><a class="anchor" id="siob242b" name="siob242b" /></a></p><p class="course-name">SIOB 242B. Marine Biotechnology II: Applications (4)</p>
+                <p class="course-descriptions">This course will explore the diverse biotechnological applications of marine science. Topics will include natural product drug discovery, biomaterials, nanotechnology, synthetic biology, aquaculture, and extremophiles. Students may not receive credit for SIO 242B and SIO 242. <strong class="italic">Prerequisites: </strong>SIOB 242A or SIO 242A or consent of instructor. Bartlett, Jensen </p>
+                <p class="anchor-parent"><a class="anchor" id="siob242c" name="siob242c" /></a></p><p class="course-name">SIOB 242C. Marine Biotechnology III: Introduction to Bioinformatics (4)</p>
+                <p class="course-descriptions">Introduction to Unix commands and scripting techniques required for command line interaction with open source bioinformatics tools, including installation, configuration, and use for genome and transcriptome sequencing and assembly, gene expression analysis, and DNA- and RNA-binding protein binding site identification through ChIPseq. Emphasis is on how the bioinformatics tools work, how to use them, and their application to DNA and RNA data sets. Recommended preparation: prior programming skills will help the student gain more from the course. Students may not receive credit for SIO 242C if they have previously taken SIO 242.<strong class="italic"> Prerequisites: </strong>SIOB 242A or SIO 242A and SIOB 242B or SIO 242B or consent of instructor.</p>
+                <p class="anchor-parent"><a class="anchor" id="siob243" name="siob243" /></a></p><p class="course-name">SIOB 243. Ecological and Medicinal Aspects of Natural Products (2)</p>
+                <p class="course-descriptions">This course will provide the foundation of the natural products sciences, including ethnobotanical uses of plants, ecological interactions and contemporary drug screening programs, and will increase awareness of the pervasiveness of natural products in pharmaceutical and other commercial products. Students may not receive credit for SPPS 281 and SIOB 243. W. Gerwick </p>
+<p class="anchor-parent"><a class="anchor" id="siob262" name="siob262" /></a></p><p class="course-name">SIOB 262. Marine Chemical Biology Seminar (2)</p>
+                <p class="course-descriptions">Students will give seminars on current research topics that span the interface of marine chemistry and marine biology. Topics will include natural products chemistry, biotechnology, biogeochemistry, and biochemistry relating to marine systems. May be taken for credit eighteen times. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. (S/U grades only.) Fenical, W. Gerwick, Moore  </p>
+                <p class="anchor-parent"><a class="anchor" id="siob264" name="siob264" /></a></p><p class="course-name">SIOB 264. Special Topics in Marine Natural Products Chemistry (4)</p>
+                <p class="course-descriptions">This course provides the foundation for advanced study in the field of marine natural products chemistry. Topics vary from the history of natural products to the organic chemistry of terpenes, alkaloids, acetogenins, and other natural product classes. Varying by topic quarterly, this class is given each quarter and may be repeated. <strong class="italic">Prerequisites:</strong> one-year general organic chemistry. (S/U grades only.) Fenical, W. Gerwick, Moore  </p>
+                <p class="anchor-parent"><a class="anchor" id="siob265" name="siob265" /></a></p><p class="course-name">SIOB 265. Marine Chemical Ecology (4)</p>
+                <p class="course-descriptions">Chemistry is the language by which most marine organisms communicate with each other and the environment. While we have yet to learn how to interpret much of this dialogue, it has become clear that natural products play pivotal roles in virtually every biotic process and interaction in the ocean. This course will broadly address the topic of marine chemical ecology, both at the macro-organism and microbiological scales. <strong><em>Prerequisites:</em></strong> graduate standing or consent of instructor.</p>
+<p class="anchor-parent"><a class="anchor" id="siob269" name="siob269" /></a></p><p class="course-name">SIOB 269. Interdisciplinary Forum for Environmental Research (2)</p>
+                <p class="course-descriptions">This course provides students from diverse disciplines with a common language to address problems related to the environment and conservation. The purpose is to promote collaboration and communications across departments and the course is open to all graduate students. Students who take the course for credit are expected to serve in the coordinating group to invite speakers and promote events across campus. May be taken for credit up to three times. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. (S/U grades only.) Staff </p>
+<p class="anchor-parent"><a class="anchor" id="siob270" name="siob270" /></a></p>
+                <p class="course-name">SIOB 270. Pelagic Ecology (4)</p>
+                <p class="course-descriptions">An analysis of the concepts and theories used to explain the biological events observed in the water column. Alternate years. <strong class="italic">Prerequisites:</strong> SIOC 210 or SIO 210 and SIOB 280 or SIO 280 or consent of instructor. Ohman, A. Allen  </p>
+                <p class="anchor-parent"><a class="anchor" id="siob270a" name="siob270a" /></a></p>
+                <p class="course-name">SIOB 270A. Fisheries Oceanography (4)</p>
+                <p class="course-descriptions">Aspects of marine ecology relevant to the
+                  reproduction, survival, and distribution of commercially important
+                  marine species. Alternate years only. <strong class="italic">Prerequisites:</strong> graduate
+        standing or consent of instructor.&nbsp;Checkley  </p>
+                <p class="anchor-parent"><a class="anchor" id="siob271" name="siob271" /></a></p>
+                <p class="course-name">SIOB 271. Marine Zooplankton (5)</p>
+                <p class="course-descriptions">Lectures and laboratories treating the morphological, behavioral, and life history variations of the principal phyla of planktonic invertebrates and heterotrophic protists. Constraints of life at low Reynolds numbers; principles of allometry; growth processes of heterotrophic organisms. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. (S/U grades permitted.) Ohman  </p>
+                <p class="anchor-parent"><a class="anchor" id="siob272" name="siob272" /></a></p>
+                <p class="course-name">SIOB 272. Advanced Statistical Techniques (4)</p>
+                <p class="course-descriptions">An interactive overview of statistical methods, focusing on approaches common within the life sciences. Emphasis on the conceptual and logical basis of statistical methods. Topics include treatment of controlled experimental data through to model fitting and exploration of observational data. Recommended preparation: SIO 187, BIEB 100, or equivalent introductory statistics/ biostatistics course. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. Sandin </p>
+                <p class="anchor-parent"><a class="anchor" id="siob273" name="siob273" /></a></p>
+                <p class="course-name">SIOB 273. Professional Ethics in Science (2–4)</p>
+                <p class="course-descriptions">A seminar on the historical and contemporary ethics and ethos of scientific research, based on published documents. Given in alternate years. <span class="italic"><strong>Prerequisites: </strong></span>graduate standing and consent of instructor. Department stamp required. Dayton, Leichter  </p>
+                <p class="anchor-parent"><a class="anchor" id="siob273a2" name="siob273a" /></a></p>
+                <p class="course-name">SIOB 274. Natural History Below the Tides (4)</p>
+                <p class="course-descriptions">Exposure to local underwater habitats by scuba with basic material to comply with AAUS certification. Lectures and shore dives in local coastal habitats (protected bay and outer coast sites). Aids students in diving research by providing experience with SIO scientists.<strong class="italic"> Prerequisites: </strong>department stamp required. Students must qualify to take the SIO dive course. This includes a physical exam as well as swimming and diving proficiency. Dayton, Leichter <strong></strong></p>
+                <p class="anchor-parent"><a class="anchor" id="siob275a" name="siob275a" /></a></p>
+                <p class="course-name">SIOB 275A. Benthic Ecology (4)</p>
+                <p class="course-descriptions">Evolution and maintenance of benthic communities from the terrestrial margins to the deep sea. Special emphasis will be placed on physical and biological scaling and processes determining patterns of distribution and abundance; interrelationships between community structure and population phenomena, including trophic relationships, reproductive and recruitment patterns, succession, and life history biology. Offered in alternate years with SIOB 275B. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. (S/U grades permitted.) Leichter, Levin   </p>
+                <p class="anchor-parent"><a class="anchor" id="siob275b" name="siob275b" /></a></p>
+                <p class="course-name">SIOB 275B. Natural History of Coastal Habitats (6)</p>
+                <p class="course-descriptions">The purpose of this class is to develop skills in natural history observation, appreciate the origins of natural diversity in the coast, desert, and mountain Southwest, and discuss the preservation and management of natural ecosystems. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. (S/U grades permitted.) Dayton, R. Norris  </p>
+                <p class="anchor-parent"><a class="anchor" id="siob276" name="siob276" /></a></p>
+                <p class="course-name">SIOB 276. Quantitative
+                  Theory of Populations and Communities (4)</p>
+                <p class="course-descriptions">An introduction to the quantitative tools and conceptual issues underlying the study of the dynamics and structure of ecological systems. Recommended preparation: three quarters of calculus. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. (S/U grades permitted.) Sugihara  </p>
+                <p class="anchor-parent"><a class="anchor" id="siob276l" name="siob276l" /></a></p>
+                <p class="course-name">SIOB 276L. Quantitative Ecology Project Lab (4) </p>
+                <p class="course-descriptions">A laboratory complement to SIOB 276, to apply quantitative tools to conceptual issues underlying the study of the dynamics and structure of ecological systems.<strong class="italic"> Prerequisites: </strong>graduate standing, SIOB 276 or SIO 276 and consent of instructor. Department stamp. Sugihara </p>
+                <p class="anchor-parent"><a class="anchor" id="siob277" name="siob277" /></a></p>
+                <p class="course-name">SIOB 277. Deep-Sea Biology (4)</p>
+                <p class="course-descriptions">The ecology, zoogeography, taxonomy, and
+                  evolution of deep-sea organisms, with emphasis on the benthos. Course includes
+                  one day cruise to the San Diego Trough to examine deep sea organisms (700–1200
+                  meters) (two-hour steam from Point Loma). Offered alternate years. <strong class="italic">Prerequisites:</strong> graduate
+        standing or consent of instructor. Levin  </p>
+                <p class="anchor-parent"><a class="anchor" id="siob278" name="siob278" /></a></p>
+                <p class="course-name">SIOB 278. Seminar in Ocean Biosciences (2)</p>
+                <p class="course-descriptions">Presentations of reports, review of literature, and discussion of current research in the marine biological and oceanographic sciences. (S/U grades permitted.) Staff  </p>
+                <p class="anchor-parent"><a class="anchor" id="siob279" name="siob279" /></a></p>
+                <p class="course-name">SIOB 279. Ecology Seminar in Biological Oceanography  (1)</p>
+                <p class="course-descriptions">Weekly seminar for students in the biological oceanography curricular group. Lectures given by visiting scientists, resident staff, and students. May be taken for credit eighteen times. <strong class="italic">Prerequisites:</strong> graduate standing. (S/U grades only)  Staff  </p>
+                <p class="anchor-parent"><a class="anchor" id="siob280" name="siob280" /></a></p>
+                <p class="course-name">SIOB 280. Biological Oceanography (4)</p>
+                <p class="course-descriptions">The biology and ecology of marine plankton, nekton, and benthos. Emphasis will be on processes regulating species, community, and ecosystem patterns and changes, including productivity, trophic relationships and species interactions with the physical, chemical, and geological environment. One or more field trips. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor.  Franks or Checkley, Levin  </p>
+                <p class="anchor-parent"><a class="anchor" id="siob281" name="siob281" /></a></p>
+                <p class="course-name">SIOB 281. Marine Physiology (4)</p>
+                <p class="course-descriptions">Biochemical and physiological mechanisms of adaptation of organisms to the marine environment. Special emphasis is on biological responses to temperature, salinity, carbon dioxide, pH and bicarbonate levels. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. Tresguerres</p>
+                <p class="anchor-parent"><a class="anchor" id="siob282" name="siob282" /></a></p>
+                <p class="course-name">SIOB 282. Phytoplankton Diversity (4)</p>
+                <p class="course-descriptions">Molecular, biochemical, ecological, and evolutionary perspectives on the diversity of eukaryotic and prokaryotic phytoplankton. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. Palenik  </p>
+                <p></p>
+                <p class="anchor-parent"><a class="anchor" id="siob283" name="siob283" /></a></p>
+                <p class="course-name">SIOB 283. Phycology: Marine Plant Biology (5)</p>
+                <p class="course-descriptions">Lecture and laboratory course emphasizing the biology, ecology and taxonomy of marine plants and seaweeds. Laboratory work mainly involves examination, slide preparation and dissection of fresh material collected locally. An oral presentation on a current research topic is required. Program or course fee may apply. Graduate students, additionally, are required to write a research paper. Offered in alternate years. May be coscheduled with SIO 183. Renumbered from SIO 283. Students may not receive credit for SIO 283 and SIOB 283. Program or materials fees may apply. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. J. Smith </p>
+                <p class="anchor-parent"><a class="anchor" id="siob284" name="siob284" /></a></p></a></p>
+                <p class="course-name">SIOB 284. Marine Invertebrates (6)</p>
+                <p class="course-descriptions">Course emphasizing the diversity, evolution and function morphology of marine invertebrates. Laboratory work involves examination of live and prepared specimens. An oral presentation on a current research topic is required. Graduate level additionally requires a research paper with extensive literature review and critical analyses. Program or course fee may apply.  <strong class="italic">Prerequisites: </strong>graduate standing or consent of instructor. Rouse </p>
+                <p class="anchor-parent"><a class="anchor" id="siob285" name="siob285" /></a></p>
+                <p class="course-name">SIOB 285. Physical-Biological Interactions (4)</p>
+                <p class="course-descriptions">Physical and biological processes affecting growth and patchiness of plankton. Concepts and equations from physical oceanography will be presented and explored in a biological context. Ideas will be treated both theoretically and with examples from the literature. <strong class="italic">Prerequisites:</strong> SIOC 210 or SIO 210 or consent of instructor. Franks  </p>
+                <p class="anchor-parent"><a class="anchor" id="siob286" name="siob286" /></a></p>
+                <p class="course-name">SIOB 286. Marine Science, Economics, and Policy (4)</p>
+                <p class="course-descriptions">This course investigates global issues in marine conservation and potential policy solutions. The approach is interdisciplinary, fast-paced, and discussion oriented. Students will become acquainted with sufficient background in marine biology, ecology, marine and conservation economics, international law, and policy as preparation for participation in discussion on real-world issues in marine conservation. Topics and instructors change each quarter. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. (S/U grades permitted.) Staff </p>
+                <p class="anchor-parent"><a class="anchor" id="siob287a" name="siob287a" /></a></p>
+                <p class="course-name">SIOB 287A. Marine Microbial Ecology (4)</p>
+                <p class="course-descriptions">Recent developments in the study of marine bacteria. Emphasis will be on biochemical and physiological adaptations of marine bacteria to the ocean environment. Bacterial metabolism, growth, and death will also be discussed in the context of trophic interactions and flows of material and energy in marine ecosystems. Molecular biology techniques used in the study of bacterial ecology will also be discussed. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. (S/U grades permitted.) Azam  </p>
+                <p class="anchor-parent"><a class="anchor" id="siob287b" name="siob287b" /></a></p>
+                <p class="course-name">SIOB 287B. Microbial Physiology (4)</p>
+        <p class="course-descriptions">Prokaryotic cell biology will be discussed primarily from physiological and biochemical standpoints with focus on conceptual understanding, integration, and mechanism. Topics will vary from year to year but will include the following themes: bioenergetics, cell polarity, cell adhesion, the molecular basis of morphogenesis and differentiation, prokaryotic motility and behavior, rotary and linear molecular machines, bacterial organelles, pheromones and messengers, circadian rhythms, biological warfare, and bioremediation. Recommended preparation: BIBC 102, Metabolic Biochemistry; BICD 110, Cell Biology; BIMM 100, Molecular Biology, or equivalent background.  <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. </p>
+                <p class="anchor-parent"><a class="anchor" id="siob289" name="siob289" /></a></p>
+        <p class="course-name">SIOB 289. Pollution, Environment, and Health (4)</p>
+                <p class="course-descriptions">The goal is to understand the scope of the pollution problem facing the planet. Students will learn the properties of chemicals in the environment and survey the biological mechanisms that determine their accumulation and toxicity. Graduate students will also be required to write a research paper. <strong class="italic">Prerequisites:</strong><strong> </strong>graduate standing or consent of instructor. Hamdoun</p>
+                <p class="anchor-parent"><a class="anchor" id="siob290" name="siob290" /></a></p>
+                <p class="course-name">SIOB 290. Marine Biology (4)</p>
+                <p class="course-descriptions">An introduction to the field of marine biology, especially to the diversity of marine organisms at all taxonomic levels and their adaptations to the marine environment. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. N. Holland  </p>
+                <p class="anchor-parent"><a class="anchor" id="siob291" name="siob291" /></a></p>
+                <p class="course-name">SIOB 291. Biology Graduate Research Presentations (2)</p>
+                <p class="course-descriptions">Graduate students in the biological sciences present research in a seminar or poster format. Class participants provide oral and written feedback on presentations. Required of second through fourth year students in the marine biology curricular group. Open to all SIO graduate students.  (S/U grades only.)  </p>
+                <a name="siob292" id="siob292"></a></p>
+                <p class="course-name">SIOB 292. Communicating Science to Informal Audiences (4)</p>
+                <p class="course-descriptions">Graduate science students will develop fundamental communication and instructional skills through the understanding and application of learning theory, interpretive techniques, and pedagogical practices, including the development of an education/outreach plan to support a competitive research proposal. May be coscheduled with SIO 180. Renumbered from SIO 292. Students may not receive credit for SIO 292 and SIOB 292. <strong> <span class="italic">Prerequisites:</span></strong><span class="italic"></span> graduate standing
+        or consent of instructor. </p>
+                <p class="anchor-parent"><a class="anchor" id="siob293" name="siob293" /></a></p>
+                <p class="course-name">SIOB 293. Applications of Phylogenetics (6)</p>
+                <p class="course-descriptions">Overview of the computer-based methods for constructing phylogenetic trees using morphological and molecular data. Lectures and labs cover evolutionary and ecological transformations, biodiversity measurements, biogeography, systematics and taxonomy. An independent project and presentation are required. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. Rouse </p>
+                <p class="anchor-parent"><a class="anchor" id="siob294" name="siob294" /></a></p>
+                <p class="course-name">SIOB 294. Biology of Fishes (5)</p>
+                <p class="course-descriptions">The comparative evolution, morphology, physiology, and ecology of fishes. Special emphasis on local, deep-sea, and pelagic forms in laboratory. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. Hastings  </p>
+                <p class="anchor-parent"><a class="anchor" id="siob295" name="siob295" /></a></p><p class="course-name">SIOB 295. Behavior and Ecology of Fishes (4)</p>
+                <p class="course-descriptions">The course will review recent literature on the behavior and ecology of fishes with emphasis on phylogenetic interpretations of character evolution and/or implications for conservation biology. Topics covered may include habitat selection, foraging strategies, reproductive biology, ontogeny of behavior, speciation, radiations, macroecological patterns, specialized behaviors. Course is a mixture of lectures on the background of topics and student presentations. <strong><em>Prerequisites:</em></strong> graduate standing or consent of instructor. Hastings </p>
+<p class="anchor-parent"><a class="anchor" id="siob296" name="siob296" /></a></p>
+                <p class="course-name">SIOB 296. Special Topics in Ocean Biosciences  (1–5)</p>
+                <p class="course-descriptions">Example topics are reproduction in marine animals, adaptation to marine environments, larval biology, marine fisheries, macromolecular evolution, physical chemical topics in physiology, philosophy of science. <strong class="italic">Prerequisites:</strong> graduate standing. (S/U grades permitted.) Staff  </p>
+                <p class="anchor-parent"><a class="anchor" id="siob297" name="siob297" /></a></p>
+                <p class="course-name">SIOB 297. Marine Biology Seminar (1)</p>
+                <p class="course-descriptions">Lectures given by visiting scientists and resident staff and students. May be taken for credit eighteen times. <strong class="italic">Prerequisites:</strong> graduate standing. (S/U grades only.) Staff  </p>
+                <p class="anchor-parent"><a class="anchor" id="siob298" name="siob298" /></a></p>
+                <p class="course-name">SIOB 298. Special Studies in Marine Sciences (1–4)</p>
+                <p class="course-descriptions">Reading and laboratory study of special topics under the direction of a faculty member. Exact subject matter to be arranged in individual cases. <strong class="italic">Prerequisites:</strong> graduate standing. (S/U grades permitted.) Staff                 </p>
+                <p class="anchor-parent"><a class="anchor" id="sio295s" name="sio295s" /></a></p><p class="course-name">SIO 295S. Introduction to Marine Biodiversity and Conservation—Seminar (8)</p>
+                <p class="course-descriptions">Lectures on ecological, economic, social, and legal issues related to marine biodiversity and case studies on socioeconomic and legal issues. Students are expected to attend field trips at sea and to various sites around San Diego County as a part of the corequisite course. Students who have taken SIO 295 may not receive credit for SIO 295S. <em><strong>Corequisites:</strong></em> SIO 295LS. <strong class="italic">Prerequisites:</strong> MAS students only; consent of instructor.  </p>
+                <p class="anchor-parent"><a class="anchor" id="sio295ls" name="sio295ls" /></a></p><p class="course-name">SIO 295LS. Introduction to Marine Biodiversity and Conservation—Lab (8)</p>
+                <p class="course-descriptions">Laboratory work on major biological taxa, field trips on biodiversity in situ, computer labs for informatic tools. Students are expected to attend field trips at sea and to various sites around San Diego County as a part of the course. Students who have taken SIO 295L may not receive credit for SIO 295LS. <em><strong>Corequisites:</strong></em> SIO 295S. <strong class="italic">Prerequisites:</strong> MAS students only; consent of instructor.  </p>
+                <p class="anchor-parent"><a class="anchor" id="sio299" name="sio299" /></a></p>
+        <p class="course-name">SIO 299. Research (1–12)</p>
+                <p class="course-descriptions">(S/U grades only.) Staff (F,W,S)</p>
+                <p class="anchor-parent"><a class="anchor" id="sio500" name="sio500" /></a></p>
+                <p class="course-name">SIO 500. Teaching Apprenticeship (1–4)</p>
+                <p class="course-descriptions">This practicum for graduate students provides experience in teaching undergraduate oceanography courses. <strong class="italic">Prerequisites:</strong> department approval. (S/U grades only.) Staff 		</p>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 
