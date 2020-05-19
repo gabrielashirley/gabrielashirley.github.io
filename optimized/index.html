@@ -50,13 +50,6 @@
   c.type = 'text/css';
   var godefer3 = document.getElementsByTagName('link')[0];
   godefer3.parentNode.insertBefore(c, godefer3);
-  
-  var d = document.createElement('link');
-  d.rel = 'stylesheet';
-  d.href = '_resources/css/custom.css';
-  d.type = 'text/css';
-  var godefer4 = document.getElementsByTagName('link')[0];
-  godefer4.parentNode.insertBefore(d, godefer4);
 
   var e = document.createElement('link');
   e.rel = 'stylesheet';
@@ -85,9 +78,9 @@
   h.type = 'text/css';
   var godefer8 = document.getElementsByTagName('link')[0];
   godefer8.parentNode.insertBefore(h, godefer8);
-
-  
   </script>
+
+<link href="_resources/css/custom.css" rel="stylesheet" type"text/css">
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!--[if lt IE 9]>
@@ -2442,7 +2435,7 @@
 
 <script defer src="_resources/js/vendor/responsive-tabs.js"></script>
 
-<script defer type="text/javascript">
+<script type="text/javascript">
   (function($) {
     fakewaffle.responsiveTabs(['xs']);
   })(jQuery);
