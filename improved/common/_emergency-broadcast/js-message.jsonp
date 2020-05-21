@@ -1,0 +1,2 @@
+
+showEmergencyMessage({'emergency': true,'title':'COVID-19 Updates','summary':'Visit UC San Diego&#8217;s Coronavirus portal for the latest information for the campus community.','updates':'<h3 class=\"updates-h\">Updates:</h3><div class=\"update-container\"> COVID-19 updates for the UC San Diego Community can be found at <a href=\"https://coronavirus.ucsd.edu\" title=\"Official COVID-19 information website\">https://coronavirus.ucsd.edu</a></div>'});
