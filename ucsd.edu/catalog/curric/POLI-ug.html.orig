@@ -1,0 +1,293 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Political Science</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Political Science </h1>
+<p class="sectionNav">[ <a href="#minor">minor</a> | <span class="courseFacLink"> <a href="../curric/POLI-gr.html">graduate
+      program</a> | <a href="../courses/POLI.html">courses</a> | <a href="../faculty/POLI.html">faculty</a> ]</span></p>
+<p class="program-contact-info">Social Science Building<br />
+    <a href="http://polisci.ucsd.edu" target="_blank">http://polisci.ucsd.edu</a>
+    </p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h2 class="program-overview-subhead-1">The Major Program </h2>
+				<p>Political science addresses some of the fundamental problems facing human society. Questions concerning world peace, government policies aimed at achieving economic stability and growth, the management of environmental quality, control over political competition, the possibility of using law to affect social and political change, and the gap between the rich and poor in the United States and abroad are all on the research agenda of contemporary political scientists. The general purpose of the major is to address these and other issues systematically, and, simultaneously, to raise the broad theoretical questions that can help students relate today&#8217;s political debates to those debates about politics that have kept a theoretical tradition alive for over 2,000 years. </p>
+				<p>Students may major in political science as a general program of study, or they may concentrate in one of seven areas: (1) American politics, (2) comparative politics, (3) data analytics, (4) international relations, (5) political theory, (6) public law, and (7) public policy. All majors in political science, with the exception of the data analytics major, must satisfy the following sixteen courses: POLI 30 (Political Inquiry), three of the following four lower-division courses (POLI 10 or 10D, 11 or 11D, 12 or 12D, and 13 or 13D) and twelve upper-division courses. Data analytics majors must satisfy the following sixteen courses: POLI 5D, Data Analytics for the Social Sciences; POLI 30D, Political Inquiry; two of the following four lower-division courses (POLI 10 or 10D, 11 or 11D, 12 or 12D, and 13 or 13D) and twelve upper-division courses. (<em>Note: </em>POLI 5D is allowable only for the data analytics major. Lower-division courses POLI 27, POLI 28, POLI 40, POLI 197I, and POLI 197SD may not be used to satisfy requirements in the political science major or minor.) Students may not receive credit for both POLI 5 and POLI 5D; for both POLI 10 and POLI 10D; for both 11 and 11D; 12 and 12D; 13 and 13D; 30 and 30D. Moreover, as stated below, students majoring in one of the seven concentrations must satisfy that field&rsquo;s specific lower- and upper-division requirements. All courses taken for a political science major must be taken for a letter grade and a grade of C– or better must be earned.</p>
+        <div>
+                  <div> </div>
+        </div>
+<h3 class="program-overview-subhead-2">Requirements for Major in Political Science without an Area of Concentration </h3>
+<h4>Major in Political Science, BA</h4>
+<ol>
+    <li>Three of the four lower-division courses from POLI 10 or 10D, 11 or 11D, 12 or 12D, 13 or 13D</li>
+				  <li>POLI 30 or 30D</li>
+				  <li>Any twelve upper-division political science courses </li>
+	    </ol>
+		<h3 class="program-overview-subhead-2">Requirements for Majors in Political Science with an Area of Concentration </h3>
+				<h4 class="program-overview-subhead-3">Major in Political Science/American Politics, BA</h4>
+				<ol>
+				  <li>Lower division required: POLI 10 or 10D (in addition to two other lower-division courses from 11 or 11D, 12 or 12D, 13 or 13D)  </li>
+				  <li>POLI 30 or 30D</li>
+				  <li>Five upper-division American courses: <ol class="lower-alpha">
+				  <li class="lower-alpha">at least two of which must be from the 100 sequence: 100A-B-C, 100DA, 100E, 100F, 100G, 100H, 100J, 100K, 100M, 100N, 100O, 100Q, 100V, 100W, 100Y</li>
+				  <li class="lower-alpha">the additional courses for the American concentration must be chosen
+				    from 101E, 102C-D-E-F-G, 102J-K-L, 103A-B-C, 104A-B-C-D, 104F, 104G, 104I, 104L-M-N, 104P, 105A-B, 108   
+				    <div>
+				      <div> </div>
+			        </div>
+                  </li>
+				  </ol></li>
+					<li>Seven additional upper-division POLI courses</li></ol>
+<h4 class="program-overview-subhead-3">Major in Political Science/Comparative Politics, BA</h4>
+		<ol>
+				  <li>Lower division required: POLI 11 or 11D (in addition to two other lower-division courses from 10 or 10D, 12 or 12D, 13 or 13D)  </li>
+				  <li>POLI 30 or 30D</li>
+				  <li>Five upper-division courses, including<br>
+				    <ol class="lower-alpha">
+				  <li>at least one from the following thematic courses: 120J, 120Q, 122, 122D, 123, 124, 124A, 125, 125A, 125E, 126, 126AA, 127, 128, 129, 131, 135, 136, 136A, 136C, 137, 137A, 150A</li>
+				  <li>and at least one each from any two of the following four regional areas:<br />
+				    Africa: 120M, 120N, 120P, 120Q <br>
+Asia:
+				    121, 121B, 130B, 131C, 133A, 133D, 133G, 133J  
+
+<br />
+				    Europe:
+			        120A-B-C-D-E, 120G, 120H, 120I-J, 126AB, 130AA, 130AD  
+				   
+<br />
+			        Latin
+			      America: 134AA, 134B, 134D; 134I; 134J</li>
+				  <li>The other two can be any comparative politics courses numbered POLI 120–139. </li>
+				    </ol>
+				  </li><li>Seven additional upper-division POLI courses</li>
+	    </ol>
+        <h4>Major in Political Science/Data Analytics, BS  </h4>
+        <ol start="1" type="1">
+          <li>Lower      division required: POLI 5 or 5D (in addition to two other lower-division      courses from 10 or 10D, 11 or 11D, 12 or 12D, 13 or 13D) </li>
+          <li>POLI 30      or 30D</li>
+          <li>Five      of the following: 100F, 118, 137, 168, 170A, 171, 172, 173, 179</li>
+          <li>Seven      additional upper-division POLI courses</li>
+        </ol>
+        <h4 class="program-overview-subhead-3">Major in Political Science/International Relations, BA</h4>
+				<ol>
+				  <li>Lower division required: POLI 12 or 12D (in addition to two other lower-division courses from 10 or 10D, 11 or 11D, 13 or 13D)  </li>
+				  <li>POLI 30 or 30D</li>
+				  <li>Five upper-division IR courses with at least one each from the following
+				    two groups  (the other three can be any upper-division IR courses): 
+				    <ol class="lower-alpha">
+				    
+				        <li>Foreign Policy/National and International Security: 124, 140B-C-D, 142A, 142D, 142I-J-K-L-M-N-O-P-Q, 143A, 145A, 146A, 150A, 153</li>
+				        <li> Political Economy/Theory of International Relations: 126AA-AB, 140A, 142L, 144, 144AB, 144D-E-F, 145C, 146A, 151  </li>
+				     
+			      </ol></li>
+				  <li>Seven additional upper-division POLI courses</li>
+	    </ol>
+<h4 class="program-overview-subhead-3">Major in Political Science/Political Theory, BA</h4>
+				<ol>
+				  <li>Three of four lower-division courses from POLI 10 or 10D, 11 or 11D, 12 or 12D, 13 or 13D</li>
+				  <li>POLI 30 or 30D</li>
+				  <li>110A-B-C </li>
+			      <li>And at      least two additional courses from 110DA, 110EA, 110EB, 110EC, 110ED, 110G,      110H, 110J, 110K, 110M, 110N, 110T, 111B, 111D, 112A, 112C, 113A-B-C,      114B, 115A, 116A, 117, 118, 119A </li><li>Seven additional upper-division POLI courses</li>
+		</ol>
+               
+<h4 class="program-overview-subhead-3">Major in Political Science/Public Law, BA</h4>
+				<ol>
+				  <li>Lower division required: POLI 10 or 10D (in addition to two other lower-division courses from 11 or 11D, 12 or 12D, 13 or 13D)  </li>
+				  <li>POLI 30 or 30D</li>
+			      <li>Complete      five upper-division public law courses, of which:</li>
+                    <ol start="1" type="1">
+                      <ol start="1" type="a">
+                        <li>At least three must be        chosen from the following: POLI 104A, 104B, 104C, 104D, 104E, 104F,        104G, 104I, 104J, 104K, 104L, 104M, 104N, or 104P.</li>
+                        <li>Two additional courses        from the following: POLI 100A, 100B, 100M, 102D, 102L, 104A, 104B, 104C,        104D, 104E, 104F, 104G, 104I, 104J, 104K, 104L, 104M, 104N, or 104P.</li>
+                      </ol>
+                    </ol>
+		</ol><ol start="4" type="1">
+                  <li>Seven additional upper-division POLI courses</li> 
+                </ol>
+		<h4 class="program-overview-subhead-3">Major in Political Science/Public Policy, BA</h4>
+				<ol>
+				  <li>Lower division required: POLI 10 or 10D (in addition to two other lower-division courses from 11 or 11D, 12 or 12D, 13 or 13D)  </li>
+				  <li>POLI 30 or 30D</li>
+				  <li>160AA </li>
+			      <li>Public      Policy—One of the following: 160AB, 162, 163, 164, 168, 170A, 171, 172</li>
+		
+                  <li>American/Policy—Two      of the following: 100A-B-C, 100E, 100H, 100J, 100M, 100N, 100O, 100Q,      100V, 100W, 100Y</li>
+				
+                  <li>Politics—One      of the following: 101E, 102C,      102E, 102L, 103A, 103B, 103C, 142A, 142J, 150A, 165 </li>
+				
+                  <li>Seven additional upper-division POLI courses</li>
+                </ol>
+		<p>Two upper-division courses in a field may be substituted for that field&#8217;s lower-division course. However, these courses cannot also be used to satisfy the upper-division course requirements for a concentration of that field. </p>
+				<p>Since course offerings change from year to year, students are strongly advised to consult the department for the latest listing of courses before preregistration. </p>
+				<p>Agreements signed between UC San Diego and several community colleges allow students to apply some community college courses toward lower-division course requirements for the major. Courses taken elsewhere may be credited toward the major. Please check with an undergraduate student affairs adviser for more information on credit for courses taken elsewhere. </p>
+<p>Students who pass the Advanced Placement (AP) Tests in American or Comparative Politics may petition to be exempted from taking POLI 10 or 10D or 11 or 11D (respectively). Effective fall 2004, students must pass with a score of 5 to be exempted from taking POLI 10 or 10D or 11 or 11D. </p>
+<p>At least ten courses in political science must be taken in residence at UC San Diego. A total maximum of six courses may be taken elsewhere and applied toward the major. This applies to transfer students, students who pass the AP exam(s), as well as students who study abroad on the Education Abroad Program (EAP) or the Opportunities Abroad Program (OAP). Students planning to transfer course work completed elsewhere are urged to consult an undergraduate student affairs adviser. </p>
+				<p>Double majors who include political science as one of their two majors must fulfill the requirements of both programs. Please consult an undergraduate student affairs adviser for more information. </p>
+				<p>Students must maintain an overall 2.0 GPA in the major. To be counted toward satisfying the requirements for the major, upper- and lower-division courses must be completed with a C– or better grade. Courses taken to satisfy requirements for the major may not be taken Pass/Not Pass with the exception of a maximum of two independent study courses (POLI 199). </p>
+				<p>Honors candidates for departmental honors are required to take POLI 191A and POLI 191B  in which they write a senior thesis. To be admitted to the Honors Seminar a student must be of senior standing in the first quarter of the seminar, have a minimum GPA of 3.6 in political science, have completed all lower-division requirements including POLI 30 and five upper-division courses. Also, students must have an adviser prior to enrolling in the Honors Seminar. These courses may be counted toward the upper-division requirement. </p>
+				<h3 class="program-overview-subhead-2">Career Guidance </h3>
+				<p>The premise of our educational philosophy is that the best professional preparation for productive careers that we can provide is one that is broad, theoretical, and only indirectly related to the current job market. Our majors graduate into a wide range of career options. </p>
+				<p>Many political science majors at UC San Diego will seek admission to a law school. Although law schools make no recommendation concerning the usefulness of any undergraduate major, a BA or BS in political science should be seen as a useful complement to a law degree. Students who take courses in American government, policy analysis, and law and politics find that they develop a keen understanding of the role of law in the general political process. This helps students understand the limits and possibilities of the legal process in fostering change or in preserving the status quo. This same curriculum provides a solid foundation for a career in journalism. Students with any specific questions regarding law are advised to consult with career services. </p>
+				<p>Increasingly, political science majors are preparing for careers in business or as policy analysts in both the public and private sectors. Many of these students pursue advanced degrees in public policy or study for a master&#8217;s in business administration. Students interested in this option should look into public policy, American, or comparative politics as an area of concentration. Some political science majors are interested in careers in international organization or diplomacy. These students should look into international relations as an area of concentration. In addition, a broad array of courses in comparative politics is essential for anyone interested in a career of international service. Students who focus on the data analytics concentration will undergo rigorous training in the study of probability, data collection, hypothesis testing, computation, and visual display of data as it applies to political and social science problems. The knowledge a student gains from this curriculum is in demand from a variety of employers, internship coordinators, and graduate programs who seek individuals possessing a strong foundation in quantitative and data analytics skills.</p>
+				<p>A political science major offers excellent preparation for teaching in the elementary schools. If you are interested in earning a California teaching credential from UC San Diego, contact the Education Studies Program for information about the prerequisite and professional preparation requirements. It is recommended that you contact the Education Studies Program as early as possible in your academic career. </p>
+				<p>The Department of Political Science consistently aims to connect its academic curriculum and related cocurricular opportunities with highly sought-after skills and knowledge from employers and academia alike to ensure that students pursuing any one of the eight majors in political science will be successful in their postgraduate endeavors.</p>
+<p>Students interested in majoring or minoring in political science should
+				  stop by the Department of Political Science Office, SSB 301,
+  or visit our website at <a href="http://polisci.ucsd.edu" target="_blank">http://polisci.ucsd.edu</a>. </p>
+				<h3 class="program-overview-subhead-2">Study Abroad </h3>
+				<p>Political science majors are encouraged to participate in the UC Education Abroad Program (EAP) and UC San Diego&#8217;s Opportunities Abroad Program (OAP). Information on EAP/OAP is given in the “<a href="EAP.html">Education
+	    Abroad Program</a>” section of the <em>UC San Diego General Catalog</em>. Interested students should contact the Study Abroad UC San Diego office near Matthews Quad and visit its website at <a href="http://studyabroad.ucsd.edu/" target="_blank">http://studyabroad.ucsd.edu/</a>. Financial aid can be used for EAP/OAP study, and special study-abroad scholarships are also available. </p>
+        <h4>Global Concentration in Political Science</h4>
+				<p>Political science majors who study abroad and satisfy specified requirements may add the Global Concentration in Political Science. The Global Concentration in Political Science capitalizes on students&rsquo; study abroad experience, language skills, and UC San Diego&rsquo;s global content courses. Increasingly, employers highly value global and international experiences and having the global concentration would allow you to showcase global competency within your political science major. This is a transcripted concentration, meaning it will reflect on your transcript, but not on your final diploma. </p>
+<p>This concentration requires</p>
+                <ul type="disc">
+                  <li>A minimum of eight units      earned through study abroad, of which a minimum of four units would count      toward the major</li>
+                  <li>Demonstration of      proficiency in a second language through the fourth quarter of      university-level instruction</li>
+                  <ul type="circle">
+                      <li>Students who are bilingual and biliterate,       or have been taught extensively in another language, could satisfy the       requirement by providing appropriate documentation. Contact your college       with questions about this requirement. </li>
+                  </ul>
+
+                  <li>A minimum of two courses with department- or program-identified global content. UC San Diego political science courses with global content: POLI 11D, POLI 12D, and all political science courses numbered 120–159 taken at UC San Diego will satisfy this requirement. Political science courses that fall outside of this list, such as course work completed abroad, would need to be petitioned individually on a case-by-case basis.  </li>
+                </ul>
+                <p>Interested students should see an adviser in the department for additional information.</p>
+<p class="anchor-parent"><a class="anchor" id="minor"></a></p><h2 class="program-overview-subhead-1">Minor in Political Science </h2>
+				<h3>Political Science Minor </h3>
+                <p>The guidelines for the political science minor are as follows: seven political science courses (not including POLI 5D, 27, 28, 40, 197SD, and 197I) with a minimum of five upper-division courses. All courses taken toward the minor must be taken for a letter grade and a grade of C– or better must be earned. The only exceptions to this are the following courses in which a P/NP grading option is the only option: POLI 198 RA and POLI 199. For these courses, a student must earn a &ldquo;Pass&rdquo; grade.</p>
+        <h3>Political Science/Data Analytics Minor</h3>
+                <p>Effective fall 2019, the Department of Political Science offers a new minor in political science/data analytics.  </p>
+                <p>The political science/data analytics minor has a rigorous curriculum offering courses in statistical inference, probability, data collection and management, hypothesis testing, computation, game theory, and visual display of data. These skills are increasingly sought after by employers, internship coordinators, and post-graduate programs, and will enable students majoring in disciplines other than political science to gain this methodological training specifically as it applies to political and social problems.  </p>
+                <p>The student must complete a total of seven political science courses (twenty-eight units), including two lower-division courses (eight units) and five upper-division courses (twenty units). All courses for the minor must be taken for a letter grade with a minimum passing grade of C–. </p>
+                <p>Specific requirements for the minor include:</p>
+                <ol>
+                  <li><span dir="LTR"> </span>POLI 5 or POLI 5D* (prerequisite for POLI 171 and POLI 172)</li>
+                  <li><span dir="LTR"> </span>POLI 30 or 30D* (prerequisite for POLI 171 and POLI 172)</li>
+                  <li>A minimum of five&nbsp;of the following upper-division courses:&nbsp;POLI 100F, POLI 118, POLI 137, POLI 168, POLI 170A, POLI 171, POLI 172, POLI 173, POLI 179
+                  </li>
+        </ol>
+                <h3 class="program-overview-subhead-2">Interdisciplinary Minor </h3>
+				<p>The Department of Political Science takes part in one interdisciplinary minor offered at UC San Diego; the law and society minor offers students the opportunity to examine the role of the legal system in society. Students should note that Law and Society 101, Contemporary Legal Issues, may be used in fulfilling the twelve upper-division course requirement for the political science major. Warren College has administrative oversight for the minor; if you have any questions or want more information, please see an adviser in the Warren Interdisciplinary Programs Office.</p>
+<h2 class="program-overview-subhead-1">Research </h2>
+				<p>The Department of Political Science is home to some of the leading scholars in the field representing a broad spectrum of backgrounds, methodologies, and approaches. Each year our faculty lead a number of active speaker series and ongoing research projects in the department including the Africanist Group, American Politics Speaker Series, Center for the Study of African Political Economy, Comparative Politics Speaker Series, Human Natures Group, International Relations Speaker Series, Political Theory Workshop, Political Economy Lunch Group, Project on International Affairs, and the Race Workshop. The political science community at UC San Diego spans campus through its connections with a number of important research centers and programs including: Center for Global Justice, California Institute for Telecommunications and Information Technology, Center for Iberian and Latin American Studies, Center for Comparative Immigration Studies, Center for U.S.-Mexican Studies, Dimensions of Culture, International Studies Program, Institute on Global Conflict and Cooperation, International Migration Studies Program, and the Urban Studies and Planning Program. </p>
+        <p>Unique research opportunities for undergraduates in our department include the Local Internship Research Program, Research Apprenticeship Program, Senior Honors Program, Study Abroad, UCDC internship program, and the UC Center in Sacramento internship program. Please see an adviser in the department for more information about each program.&nbsp; </p>
+<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

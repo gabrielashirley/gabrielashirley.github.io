@@ -1,0 +1,201 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Neurosciences Courses</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" --> 
+        <h1 class="noTopMargin">Neurosciences</h1>
+        <p><span class="courseFacLink">[ <a href="../curric/NEU.html">program</a> | <a href="../courses/NEU.html"> </a><a href="../faculty/NEU.html">faculty</a> ]</span></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/Course Name and Disclaimer.lbi" -->
+<h2>Courses</h2>
+<p class="course-disclaimer"><em>For course descriptions not found in the </em>UC
+  San Diego General Catalog 2019&#8211;20<em>, please contact the department
+  for more information.</em></p><!-- #EndLibraryItem --><h2 class="course-subhead-1">Undergraduate </h2>
+				<p class="anchor-parent"><a class="anchor" id="neu199" name="neu199" /></a></p><p class="course-name">NEU 199. Independent Research (2 or 4)</p>
+				<p class="course-descriptions">Laboratory research under the supervision of individual members of the faculty of the neurosciences department in one or a combination of neurosciences disciplines, e.g., neuroanatomy, neurophysiology, neurochemistry, neuropharmacology. (P/NP grades only.) (F,W,S) </p>
+				<h2 class="course-subhead-1">Graduate </h2>
+				<p class="anchor-parent"><a class="anchor" id="neu200a" name="neu200a" /></a></p><p class="anchor-parent"><a class="anchor" id="neu200b" name="neu200b" /></a></p><p class="anchor-parent"><a class="anchor" id="neu200c" name="neu200c" /></a></p><p class="course-name">NEU 200A-B-C. Basic Neuroscience (4-4-4)</p>
+				<p class="course-descriptions">These courses are designed for graduate students in the neurosciences and other departments that are part of the interdisciplinary program (i.e., Biology, Cog Sci, Psychology). These courses have been designed to cover as much basic neuroscience as possible in three quarters of study. It will combine two three-hour meetings each week with a 1.5 hour lecture and a 1.5 hour discussion of papers. These will be required courses for all first-year neurosciences graduate students. Biology will cross-list courses under Biology headings, making it a requirement of first-year Biology graduate students. <strong class="italic">Prerequisites:</strong> graduate student or consent of instructor. (F,W,S) </p>
+				<p class="anchor-parent"><a class="anchor" id="neu210" name="neu210" /></a></p>
+				<p class="course-name">NEU 210. Neurobiology Boot Camp (4)</p>
+				<p class="course-descriptions">For incoming doctoral students in neurobiology, computational neurosciences, and neurosciences. During the first two weeks in September, students commit to ten to fifteen hours per day in lectures and laboratories in electrophysiology, cellular anatomy, molecular biology, optical imaging, and computational neurobiology. Students also attend weekly seminars during fall quarter. <strong class="italic">Prerequisites:</strong> graduate standing only. For students in the following major codes: BI77, BI79, NE75, NE78. </p>
+				<p class="anchor-parent"><a class="anchor" id="neu221" name="neu221" /></a></p><p class="course-name">NEU 221. Advanced Topics in Neurosciences (2)</p>
+				<p class="course-descriptions">Specialized advanced topic areas in neurosciences will be addressed in an interactive seminar course format. A different specific topic will be considered each quarter as announced in advance. Students will each present an aspect of the topic area and participate in discussions. <strong class="italic">Prerequisites:</strong> graduate student or consent of instructor. (F,W,S) </p>
+				<p class="anchor-parent"><a class="anchor" id="neu225" name="neu225" /></a></p><p class="course-name">NEU 225. Statistical Methods and Experimental Design (2)</p>
+				<p class="course-descriptions">This is a practical course designed to emphasize the relationships between experimental design, statistical methods, and biomedical research. The assumptions behind the statistical tests, their appropriate use, and examples of misuse will be discussed. <strong class="italic">Prerequisites:</strong> registered student in SOM graduate program or approval of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="neu241" name="neu241" /></a></p><p class="course-name">NEU 241. Ethics and Survival Skills in Academia (3)</p>
+				<p class="course-descriptions">This course will cover “ethical” issues in academia, including dishonesty, plagiarism, attribution, sexual misconduct, etc. We will also discuss “survival” issues, including job hunting, grant preparation, journal reviews, writing letters of recommendation, mentoring, etc. (W) </p>
+				<p class="anchor-parent"><a class="anchor" id="neu243" name="neu243" /></a></p><p class="course-name">NEU 243. Physiological Basis of Human Information (2)</p>
+				<p class="course-descriptions">Psychological processes including attention, perception, and memory will be studied in connection with event-related potentials of the human brain. The interrelations among psychological and physiological events will be explored in order to arrive at unified concepts of human information processing. <strong class="italic">Prerequisites:</strong> Neurosci 238 or Psych. 231, and consent of instructor. (S/U grades only.) (F) </p>
+				<p class="anchor-parent"><a class="anchor" id="neu259" name="neu259" /></a></p><p class="course-name">NEU 259. Workshop in Electron Microscopy (4)</p>
+				<p class="course-descriptions">This course is to introduce graduate students in the neurosciences to research methods used in electron microscopy (EM) through one hour of formal lecture, one hour of seminar, three hours of demonstration, and three hours of supervised laboratory work per week. Students will become familiar with sectioning EM, scanning EM, and freeze-fracture EM. <strong class="italic">Prerequisites:</strong> graduate-student standing in neurosciences doctoral program and consent of instructor. Enrollment limited. (S/U grades only.) (F) </p>
+				<p class="anchor-parent"><a class="anchor" id="neu260" name="neu260" /></a></p>
+				<p class="course-name">NEU 260. Light and Electron Microscopy of Cells and Tissue (4)</p>
+				<p class="course-descriptions">Students will review basic principles of light and electron microscopy and learn a variety of basic and advanced microscopy methods through lecture and hands-on training. Each student will have his or her own project. Additional supervised instrument time is available. <strong class="italic">Prerequisites: </strong>consent of instructor. (F)</p>
+				<p class="anchor-parent"><a class="anchor" id="neu265" name="neu265" /></a></p><p class="course-name">NEU 265. Mechanisms of Pain (2)</p>
+		<p class="course-descriptions">Anatomical and pharmacological substrates activated following tissue or nerve injury will be discussed. Changes in afferents and spinal cord, including increased expressions of channels and receptors, during chronic pain states will be emphasized. Clinical relevance and treatment will be included. (S/U grades only.) (F)</p>
+				<p class="anchor-parent"><a class="anchor" id="neu266" name="neu266" /></a></p><p class="course-name">NEU 266. Development of Neural Circuits (4)</p>
+				<p class="course-descriptions">Course focuses on developmental processes during formation of neural circuits. Molecular, genetic, cellular mechanisms controlling neurogenesis, neuronal differentiation, positioning (migration), axon/dendrite patterning, and synapse formation will be discussed. Role of neural activity shaping circuit formation will be explored. <strong class="italic">Prerequisites:</strong> graduate standing only. For students in the following major codes: NE75, NE78, BI77, BI79, or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="neu268" name="neu268" /></a></p><p class="course-name">NEU 268. Molecular and Cellular Neurobiology (4)</p>
+				<p class="course-descriptions">Molecular and cellular approaches to the study of the nervous system are advancing neurobiology at an increasingly rapid pace. This graduate-level course will address the latest molecular advances in the areas of: 1) synapse formation, neurotransmitter release, and neurotransmitter receptors; 2) nerve growth factors, their receptors, and neuronal apoptosis; 3) transcriptional regulation in the brain and peripheral nervous system; 4) cell culture, transgenic, and knock-out mouse model systems; 5) the molecular bases of genetic, psychiatric, and degenerative diseases of the nervous system; and 6) the current molecular knowledge of vision, sensory transduction, circadian rhythms, learning, memory, and behavior.</p>
+				<p class="anchor-parent"><a class="anchor" id="neu270a" name="neu270a" /></a></p><p class="course-name">NEU 270A. Neurobiology of Disease: Mechanisms of Neurodegeneration (4)</p>
+		<p class="course-descriptions">This course will blend research and clinical perspectives to allow comprehensive learning of CNS diseases. For each two-week disease block, students will read, present, and discuss current research publications which will be paired with a lecture by a research scientist who will describe the major features of each disorder, hypothesis being explored, and the state of therapeutics. The following session will involve a physician presenting an adult patient with the condition, and students will have the opportunity to ask questions of both the physician and the patient. Priority enrollment given to PhD and MD students. MS and undergraduate enrollment permission to be granted by the instructor.</p>
+                <p class="anchor-parent"><a class="anchor" id="neu270b" name="neu270b" /></a></p><p class="course-name">NEU 270B. Neurobiology of Disease: Neurodevelopmental Disorders (4)</p>
+        <p class="course-descriptions">This course will blend research and clinical perspectives to allow comprehensive learning of CNS neurodevelopmental disorders. For each two-week block, students will read, present, and discuss current research publications which will be paired with a lecture by a research scientist who will describe the major features of each disorder, hypothesis being explored, and the state of therapeutics. The following session will involve a physician presenting an adult patient with the condition, and students will have the opportunity to ask questions of both the physician and the patient. Priority enrollment given to PhD and MD students. MS and undergraduate enrollment permission to be granted by the instructor.</p>
+        <p class="anchor-parent"><a class="anchor" id="neu276" name="neu276" /></a></p><p class="course-name">NEU 276. Neuroscience Research Rounds (1)</p>
+				<p class="course-descriptions">Neurosciences group faculty members and graduate students will present and discuss ongoing research. Attendance will be mandatory for first- and second-year graduate students. Faculty, advanced graduate students, medical students, postdoctoral trainees, and other interested parties are encouraged to attend. (F,W,S) </p>
+				<p class="anchor-parent"><a class="anchor" id="neu277" name="neu277" /></a></p><p class="course-name">NEU 277. Neuropsychopharmacology (4)</p>
+				<p class="course-descriptions">An examination of the molecular and biochemical bases of drug and transmitter action. The course is devoted to receptor mechanisms, neuropharmacology, and drug action on excitable tissues. <strong class="italic">Prerequisites:</strong> graduate standing. (S) </p>
+				<p class="anchor-parent"><a class="anchor" id="neu280" name="neu280" /></a></p><p class="course-name">NEU 280. Minor Proposition (4)</p>
+				<p class="course-descriptions">This intensive writing course offers graduate students in the neurosciences the opportunity to propose and defend an original research project. Students are required to select a research problem in the neurosciences and propose and experimental approach for solving it. <strong class="italic">Prerequisites:</strong> neurosciences PhD majors only; NE75, NE78 and NE80. (S/U grades only.)</p>
+				<p class="anchor-parent"><a class="anchor" id="neu285" name="neu285" /></a></p>
+				<p class="course-name">NEU 285. Clinical Trails:
+		  Issues and Dilemmas in Clinical Trials (2)</p>
+				<p class="course-descriptions">This course provides a methodological perspective on clinical trials. Topics will include ethics, design of Phase I–IV trials, randomization/blinding, bias, and sample-size power. Lectures will also cover “application” with eminent UC San Diego trialists describing conduct, design, and statistical issues of specific studies. <strong class="italic">Prerequisites:</strong> medical or graduate student standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="neu296" name="neu296" /></a></p>
+				<p class="course-name">NEU 296. Neurosciences Research Rotation (1–12)</p>
+				<p class="course-descriptions">Independent study. (S/U grades only.) (F,W,S) </p>
+				<p class="anchor-parent"><a class="anchor" id="neu298" name="neu298" /></a></p>
+				<p class="course-name">NEU 298. Neurosciences
+		  Independent Study Project (ISP) (1–12)</p>
+				<p class="course-descriptions"><strong class="italic">Prerequisites:</strong> approved ISP proposal. (F,W,S) </p>
+				<p class="anchor-parent"><a class="anchor" id="neu299" name="neu299" /></a></p>
+				<p class="course-name">NEU 299. Neurosciences Research (1–12)</p>
+				<p class="course-descriptions">Independent study. (S/U grades only.) (F,W,S) </p>
+				<p class="anchor-parent"><a class="anchor" id="neu401" name="neu401" /></a></p><p class="course-name">NEU 401. Neurology
+		  General Clinical Selective Clerkship (7)</p>
+				<p class="course-descriptions">Provides opportunities for practical application of neurological skills to the understanding and treatment of a variety of clinical disorders of the nervous system. <strong class="italic">Prerequisites:</strong> successful completion of first two years of medical school. (F,W,S) </p>
+				<p class="anchor-parent"><a class="anchor" id="neu426" name="neu426" /></a></p><p class="course-name">NEU 426. Subintern Pediatric Neurology (7)</p>
+				<p class="course-descriptions">Subinterns are responsible for the primary care of hospitalized pediatric neurology patients under direct resident and attending physician supervision. Students will perform procedures such as lumbar puncture and participate in night call, daily teaching round, neurology grand rounds, and journal clubs.  <strong class="italic">Prerequisites:</strong> Neurology 401 or consent of instructor. (F,W,S) </p>
+				<p class="anchor-parent"><a class="anchor" id="neu427" name="neu427" /></a></p><p class="course-name">NEU 427. Neurology Outpatient (7)</p>
+				<p class="course-descriptions">The student will rotate through the general and subspecialty (stroke, epilepsy, headache, nerve, and muscle) neurology clinics based at UC San Diego Medical Center, Perlman, VAMC, and Children&#8217;s Hospital. There are lectures and clinical conferences. <strong class="italic">Prerequisites:</strong> Neurosciences 401 or equivalent. (F,W,S) </p>
+				<p class="anchor-parent"><a class="anchor" id="neu496" name="neu496" /></a></p>
+				<p class="course-name">NEU 496. Clinical Independent Study (1–21)</p>
+				<p class="course-descriptions">Independent clinical study for medical students (S/U grades only.) (F,W,S) </p>
+				<p class="anchor-parent"><a class="anchor" id="neu500" name="neu500" /></a></p>
+				<p class="course-name">NEU 500. Apprenticeship Teaching (1–4)</p>
+				<p class="course-descriptions">Participation in the department teaching program is required of all students working toward a PhD. In general, students are not expected to teach in the first year, but are required to serve as teaching assistants or tutors for one quarter at any time during their subsequent years of training. The amount of teaching required is equivalent to the duties expected of a 50 percent assistant for one quarter. <strong class="italic">Prerequisites:</strong> neurosciences graduate students. (S/U grades only.) (F,W,S) </p>
+				<p class="anchor-parent"><a class="anchor" id="neug240" name="neug240" /></a></p><p class="course-name">NEUG 240. Mathematical Foundations for Computational Neuroscience (3)</p>
+				<p class="course-descriptions">This course teaches mathematical concepts in neuroscience to students inexperienced in computation and mathematics. Topics from linear algebra, calculus, information theory, digital signal processing, graph theory, and machine learning will be covered. An optional weekly tutorial will teach computing basics. Priority enrollment is given to PhD students. MS students may enroll with instructor approval. Calculus AB is recommended but not required.        </p>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

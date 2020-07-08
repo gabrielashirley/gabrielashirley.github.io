@@ -1,0 +1,1405 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Psychology</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" --> 
+<h1 class="noTopBottomMargin">Psychology </h1>
+<p class="sectionNav"><span class="courseFacLink"> [ <a href="../curric/PSYC-ug.html"> </a><a href="../curric/PSYC-gr.html">graduate
+      program</a> | <a href="../courses/PSYC.html">courses</a> | <a href="../faculty/PSYC.html">faculty</a> ]</span></p>
+<p class="program-contact-info">1533 Mandler Hall<br />            
+  <a href="http://psychology.ucsd.edu" target="_blank">http://psychology.ucsd.edu</a></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h2 class="program-overview-subhead-1">The Undergraduate Program </h2>
+				<h3 class="program-overview-subhead-2">Major Programs </h3>
+				<p>The UC San Diego Department of Psychology emphasizes research in the experimental and theoretical analysis of human and animal behavior, and the study of the mind. Students who major in psychology can expect to develop knowledge in a broad range of content areas, as well as basic skills in experimental and analytic procedures. We offer courses in all major areas of experimental psychology, with areas of specialization in clinical psychology, cognitive psychology, developmental psychology, psychology of human health, sensation and perception, and social psychology; a major in business psychology; and a joint major with the Department of Cognitive Science, in cognitive and behavioral neuroscience. Students who are interested in considering a major in psychology, or who have declared a major are highly encouraged to consult with the Psychology Student Affairs Office to ensure full understanding of the major requirements.</p>
+				<p>Degrees offered include:</p>
+                <ul>
+                  <li><a href="https://psychology.ucsd.edu/undergraduate-program/majors-effective-fall-2018/ba_degree_2018.html" target="_blank">Psychology Bachelor of Arts</a></li>
+                  <li><a href="https://psychology.ucsd.edu/undergraduate-program/majors-effective-fall-2018/bs_degree_2018.html" target="_blank">Psychology Bachelor of Science</a></li>
+                  <li><a href="https://psychology.ucsd.edu/undergraduate-program/majors-effective-fall-2018/clinical_2018.html" target="_blank">Psychology Bachelor of Science with a Specialization in Clinical Psychology</a></li>
+                  <li><a href="https://psychology.ucsd.edu/undergraduate-program/majors-effective-fall-2018/cognitive_2018.html" target="_blank">Psychology Bachelor of Science with a Specialization in Cognitive Psychology</a></li>
+                  <li><a href="https://psychology.ucsd.edu/undergraduate-program/majors-effective-fall-2018/developmental_2018.html" target="_blank">Psychology Bachelor of Science with a Specialization in Developmental Psychology</a></li>
+                  <li><a href="https://psychology.ucsd.edu/undergraduate-program/majors-effective-fall-2018/human_health_2018.html" target="_blank">Psychology Bachelor of Science with a Specialization in Human Health</a></li>
+                  <li><a href="https://psychology.ucsd.edu/undergraduate-program/majors-effective-fall-2018/sensation_perception_2018.html" target="_blank">Psychology Bachelor of Science with a Specialization in Sensation and Perception</a></li>
+                  <li><a href="https://psychology.ucsd.edu/undergraduate-program/majors-effective-fall-2018/social_2018.html" target="_blank">Psychology Bachelor of Science with a Specialization in Social Psychology</a></li>
+                  <li><a href="https://psychology.ucsd.edu/undergraduate-program/majors-effective-fall-2018/business_2018.html" target="_blank">Business      Psychology Bachelor of Science</a></li>
+              
+                  <li><a href="https://psychology.ucsd.edu/undergraduate-program/majors-effective-fall-2018/cbn_2018.html" target="_blank">Cognitive      and Behavioral Neuroscience Bachelor of Science</a></li>
+                </ul>
+                <div>
+                  <div> </div>
+                </div>
+
+    
+                <p>Students majoring in psychology must have departmental approval for electives taken outside the department. We recommend consulting the Department of Psychology before enrolling in courses offered by other departments. It is recommended that all students seek additional advising from faculty and advising staff to determine whether additional course work in mathematics, programming, physical or biological sciences, philosophy, or in any other discipline may be valuable, given students&rsquo; specific academic or professional goals after graduation.</p>
+        <h4 class="program-overview-subhead-2">Lower-Division Course Requirements for the BA </h4>
+				<p>Experimental psychology uses scientific tools and concepts: knowledge of formal systems such as logic or calculus, probability theory, computer science, chemistry, biology, physics, and statistics. Accordingly, students in upper-division courses must have an adequate background in these topics. Prerequisites for individual courses are specified in the catalog. </p>
+<p>Lower-division courses for the major should be completed by the end of the sophomore year. Meeting these requirements will guarantee an adequate background for the topics of the upper-division psychology courses.</p>
+<h5>Lower-Division Requirements (twenty-four units)</h5>
+<p><strong>Two Natural Science Courses</strong> (choose two of the following)</p>
+<ul>
+  <li>BILD: 1, 2, 3, 10, 12**, 20, 26 (BILD 22 is NOT accepted.)</li>
+  <li>CHEM 4*, 6A, 6B, 6C, 11*, 12, 13<br>
+<span class="note">*Only one of CHEM 4 or 11 can be taken for credit.</span></li>
+
+    <li>COGS:      17**</li>
+    <li>PHYS:      1A, 1B, 1C, 2A, 2B, 2C, 10, 11</li>
+    <li>PSYC:      2**<br>
+	<span class="note">**Only one of BILD 12, COGS 17, or PSYC 2 may be counted toward this requirement.</span></li>
+</ul>
+
+<p> <strong>Two Formal Skills</strong> <strong>Courses</strong></p>
+<ul>
+	<li>PSYC 70<br>
+  And choose one of the following: </li>
+  <li>MATH 10A      or 20A</li>
+
+  <li>PHIL 10 or 12 <br>
+    <span class="note">Students who are interested in fields that may require calculus are advised to take the MATH 10 series.</span></li>
+</ul>
+<p><strong>One Computer Programming Course</strong> (choose one of the following)</p>
+<ul>
+  <li>COGS      18*</li>
+  <li>CSE      3, 5A, 7*, 8A, 8B, 11, 12</li>
+  <li>ECE      15*</li>
+  <li>MAE 5, 8* <br>
+<span class="note">*Preferred computer programming courses critical for the success of students who plan to pursue research careers in psychology.</span></li></ul>
+<p><strong>One Statistics Course </strong>(choose one of the following)</p>
+<ul>
+  <li>PSYC 60 (preferred)</li>
+  <li>BENG 100</li>
+  <li>BIEB 100</li>
+  <li>COGS 14B</li>
+  <li>ECON 120A</li>
+  <li>MATH 11, 181A, 183, 186
+  </li></ul>
+<h4>BA Psychology Upper-Division Course Requirements </h4>
+<h5>Upper-Division Requirements (forty-eight units)</h5>
+<p><strong>Four Psychology Core Courses </strong>(choose four of the following)<strong></strong></p>
+<ul type="disc">
+  <li>PSYC:      100, 101, 102, 104, 105, 106, 108<strong></strong></li>
+</ul>
+<p><strong>Eight Upper-Division Psychology Elective  Courses</strong> (choose eight of the following)<strong></strong></p>
+<ul type="disc">
+  <li>PSYC      100–193</li>
+  <li>PHIL      137*, 149*<br>
+	  <span class="note">*Only one of these courses can count toward the psychology elective requirement.</span></li>
+
+</ul>
+<h5>Suggested Four-Year Plan: BA Psychology</h5>
+<table border="0" cellpadding="0" cellspacing="0" class="sample-program">
+  <tr>
+    <td valign="top" class="Normal"><p><strong>FALL</strong></p></td>
+    <td valign="top" class="Normal"><p><strong>WINTER</strong></p></td>
+    <td valign="top" class="Normal"><p><strong>SPRING</strong></p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p><strong>Year 1</strong></p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 natural science</p></td>
+    <td valign="top" class="Normal"><p>1 natural science</p></td>
+    <td valign="top" class="Normal"><p>1 formal skills</p></td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" class="Normal"><p><strong>Year 2</strong></p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>PSYC 60</p></td>
+    <td valign="top" class="Normal"><p>PSYC 70</p></td>
+    <td valign="top" class="Normal"><p>1 computer programming</p></td>
+  </tr>
+  <strong></strong>
+  <tr>
+    <td valign="top" class="Normal"><p><strong>Year 3</strong></p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 PSYC core</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC core</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 PSYC core</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC core</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p><strong>Year 4</strong></p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+  </tr>
+</table>
+<p>In addition to major requirements, students must complete college and university general-education requirements to graduate.</p>
+<h5>Major Regulations</h5>
+<ul type="disc">
+  <li>Classes      toward this major must be taken for a letter grade. The only exceptions      are natural science, computer programming, formal skills, PSYC 195 (up to      one by petition), and AIP 197 (up to one by petition).</li>
+  <li>Graduate      courses (2XX) are not generally accepted for credit toward the major, but      petitions for exceptions will be considered.</li>
+  <li>A      maximum of three upper-division psychology courses may be taken outside UC      San Diego.</li>
+  <li>A      grade-point average of at least 2.0 in the upper-division major courses is      required for graduation.</li>
+</ul>
+
+<h4>Lower-Division Course Requirements for all BS Majors in Psychology</h4>
+<p>This includes the following majors:</p>
+<ul>
+  <li>Psychology Bachelor of Science</li>
+  <li>Psychology Bachelor of Science with a Specialization in Clinical Psychology</li>
+  <li>Psychology Bachelor of Science with a Specialization in Cognitive Psychology</li>
+  <li>Psychology Bachelor of Science with a Specialization in Developmental Psychology</li>
+  <li>Psychology Bachelor of Science with a Specialization in Human Health</li>
+  <li>Psychology Bachelor of Science with a Specialization in Sensation and Perception</li>
+  <li>Psychology Bachelor of Science with a Specialization in Social Psychology</li>
+</ul>
+<p>Experimental psychology uses scientific tools and concepts: knowledge of formal systems such as logic or calculus, probability theory, computer science, chemistry, biology, physics, and statistics. Accordingly, students in upper-division courses must have an adequate background in these topics. Prerequisites for individual courses are specified in the catalog. </p>
+<p>Lower-division courses for the major should be completed by the end of the sophomore year. Meeting these requirements will guarantee an adequate background for the topics of the upper-division psychology courses.</p>
+<h5>Lower Division Requirements (thirty-two units)</h5>
+<p><strong>Three Natural Science Courses</strong> (choose three of the following)</p>
+<ul>
+  <li>BILD:      1, 2, 3, 10, 12**, 20, 26 (BILD 22 is NOT accepted.)</li>
+
+  <li>CHEM 4*, 6A, 6B, 6C, 11*, 12, 13<br>
+    <span class="note">*Only one of CHEM 4 or 11 can be taken for credit.</span></li>
+  
+    <li>COGS:      17**</li>
+    <li>PHYS:      1A, 1B, 1C, 2A, 2B, 2C, 10, 11</li>
+    <li>PSYC:      2**<br>
+
+		<span class="note">**Only one of BILD 12, COGS 17, or PSYC 2 may be counted toward this requirement.</span></li></ul>
+
+<p> <strong>Three Formal Skills Courses</strong></p>
+<ul>
+  <li>PSYC 70</li>
+  <li>MATH 10A or 20A</li>
+  <li>MATH 10B or 20B<br>
+    <span class="note">*Students who are interested in fields that may require advanced calculus are advised to take the MATH 20 series.</span></li>
+</ul>
+<p><strong>One Computer Programming Course</strong> (choose one of the following)</p>
+<ul>
+  <li>COGS 18*</li>
+  <li>CSE 5A, 7*, 8A, 8B, 11, 12</li>
+  <li>ECE 15*</li>
+  <li>MAE 5, 8*<br>
+<span class="note">*Preferred computer programming courses critical for the success of students who plan to pursue research careers in psychology.</span></li></ul>
+
+<p><strong>One Statistics Course </strong>(choose one of the following)</p>
+<ul>
+  <li>PSYC 60 (preferred)</li>
+  <li>BENG 100</li>
+  <li>BIEB 100</li>
+  <li>COGS 14B </li>
+  <li>ECON 120A</li>
+  <li>MATH 11, 181A, 183, 186	 
+  </li></ul>
+<h5>Major Regulations</h5>
+<ul type="disc">
+  <li>Classes      toward this major must be taken for a letter grade. The only exceptions      are natural science, computer programming, formal skills, PSYC 99, PSYC      195 (up to one by petition), AIP 197 (up to one by petition), and PSYC 199. </li>
+  <li>Graduate      courses (2XX) are not generally accepted for credit toward the major, but      petitions for exceptions will be considered.</li>
+  <li>A      maximum of three upper-division psychology courses may be taken outside UC      San Diego.</li>
+  <li>A      grade-point average of at least 2.0 in the upper-division major courses is      required for graduation.</li>
+</ul>
+<h4>Research Requirement for All BS Majors in Psychology <em>(eight units)</em></h4>
+<p>This includes the following majors:</p>
+<ul type="disc">
+  <li>Psychology      Bachelor of Science</li>
+  <li>Psychology      Bachelor of Science with a Specialization in Clinical Psychology</li>
+  <li>Psychology      Bachelor of Science with a Specialization in Cognitive Psychology</li>
+  <li>Psychology      Bachelor of Science with a Specialization in Developmental Psychology</li>
+  <li>Psychology      Bachelor of Science with a Specialization in Human Health</li>
+  <li>Psychology      Bachelor of Science with a Specialization in Sensation and Perception</li>
+  <li>Psychology      Bachelor of Science with a Specialization in Social Psychology</li>
+</ul>
+<p>The research requirement may be satisfied in the lower division, in the upper division, or partially in the lower division and partially in the upper division.</p>
+<h4>Two Research Experience Courses</h4>
+<ul type="disc">
+  <li>PSYC      71, 81, 99**, 114, 115A, 115B, 116, 117, 121, 140, 193L, 194A-B-C*, 199**<br>
+	  <span class="note">*Successful completion of PSYC 194A-B-C fully satisfies the research      requirement.</span><br>
+	<span class="note">**If the research experience requirement is fully satisfied by PSYC 99 and/or PSYC 199, one of these must culminate in a research paper approved by the faculty adviser and submitted to the Psychology Student Affairs Office no later than 3:00 p.m. Thursday of the final exam week of the student&rsquo;s graduating quarter.</span></li>
+</ul>
+
+<h4>BS Psychology Upper-Division Course Requirements</h4>
+<h5>Upper-Division Requirements (forty-eight units)</h5>
+<p><strong>Four Psychology Core Courses </strong>(choose four of the following)<strong></strong></p>
+<ul type="disc">
+  <li>PSYC      100, 101, 102, 104, 105, 106, 108</li>
+</ul>
+<p><strong>Eight Upper-Division Psychology Courses</strong> (choose eight of the following)<strong></strong></p>
+<ul type="disc">
+  <li>PSYC      100–193</li>
+</ul>
+<h5>Suggested Four-Year Plan: BS Psychology</h5>
+<table border="0" cellpadding="0" cellspacing="0" class="sample-program">
+  <tr>
+    <td valign="top" class="Normal"><p><strong>FALL</strong></p></td>
+    <td valign="top" class="Normal"><p><strong>WINTER</strong></p></td>
+    <td valign="top" class="Normal"><p><strong>SPRING</strong></p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p><strong>Year 1</strong></p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>MATH 10A or 20A</p></td>
+    <td valign="top" class="Normal"><p>MATH 10B or 20B</p></td>
+    <td valign="top" class="Normal"><p>1 computer programming</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 natural science</p></td>
+    <td valign="top" class="Normal"><p>1 natural science</p></td>
+    <td valign="top" class="Normal"><p>1 natural science</p></td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" class="Normal"><p><strong>Year 2</strong></p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>PSYC 60</p></td>
+    <td valign="top" class="Normal"><p>PSYC 70</p></td>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+  </tr>
+  <strong></strong>
+  <tr>
+    <td valign="top" class="Normal"><p><strong>Year 3</strong></p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 PSYC core</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC core</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 PSYC core</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC core</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC research</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p><strong>Year 4</strong></p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 PSYC research</p></td>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+  </tr>
+		</table><p>In addition to major requirements, students must complete college and university general-education requirements to graduate.</p>
+		<h4>BS Psychology with a Specialization in Clinical Psychology Upper-Division Course Requirements</h4>
+<p>The clinical psychology specialization provides instruction in the psychological and physiological causes of and treatments for mental illness in children and adults. </p>
+<h5>Upper-Division Requirements (forty-eight units)</h5>
+<p><strong>One Psychology Core Course in Specialization</strong></p>
+<ul type="disc">
+  <li>PSYC      100</li>
+</ul>
+<p><strong>Three Additional Psychology Core Courses </strong>(choose three of the following)<strong></strong></p>
+<ul type="disc">
+  <li>PSYC      101, 102, 104, 105, 106, 108
+  </li>
+</ul>
+<p><strong>Three Upper-Division Psychology Courses in Specialization</strong> (choose three of the following)<strong></strong></p>
+<ul type="disc">
+  <li>PSYC      116, 124, 125, 132, 133, 134, 151, 154, 155, 168, 172, 184, 188, 190</li>
+</ul>
+<p><strong>Five Additional Upper-Division Psychology Courses</strong> (choose five of the following)<strong></strong></p>
+<ul type="disc">
+  <li>PSYC      100–193</li>
+</ul>
+<h5>Suggested Four-Year Plan: BS Psychology with a Specialization in Clinical Psychology</h5>
+<table border="0" cellpadding="0" cellspacing="0" class="sample-program">
+  <tr>
+    <td valign="top" class="Normal"><p><strong>FALL</strong></p></td>
+    <td valign="top" class="Normal"><p><strong>WINTER</strong></p></td>
+    <td valign="top" class="Normal"><p><strong>SPRING</strong></p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p><strong>Year 1</strong></p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>MATH 10A or 20A</p></td>
+    <td valign="top" class="Normal"><p>MATH 10B or 20B</p></td>
+    <td valign="top" class="Normal"><p>1 computer programming</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 natural science</p></td>
+    <td valign="top" class="Normal"><p>1 natural science</p></td>
+    <td valign="top" class="Normal"><p>1 natural science</p></td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" class="Normal"><p><strong>Year 2</strong></p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>PSYC 60</p></td>
+    <td valign="top" class="Normal"><p>PSYC 70</p></td>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+  </tr>
+  <strong></strong>
+  <tr>
+    <td valign="top" class="Normal"><p><strong>Year 3</strong></p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>PSYC 100</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC core</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 PSYC core</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC core</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC research</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p><strong>Year 4</strong></p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 PSYC area of specialization</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC area of specialization</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC area of specialization</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 PSYC research</p></td>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+  </tr>
+</table>
+<p>In addition to major requirements, students must complete college and university general-education requirements to graduate.</p>
+<h4>BS Psychology with a Specialization in Cognitive Psychology Upper-Division Course Requirements</h4>
+<p>Cognitive psychology includes understanding reasoning, thinking, language, judgment, and decision making in adults and children (including attention, memory, and visual and auditory information processing). </p>
+<h5>Upper-Division Requirements (forty-eight units)</h5>
+<p><strong>One Psychology Core Course in Specialization</strong></p>
+<ul type="disc">
+  <li>PSYC      105</li>
+</ul>
+<p><strong>Three Additional Psychology Core Courses </strong>(choose three of the following)<strong></strong></p>
+<ul type="disc">
+  <li>PSYC      100, 101, 102, 104, 106, 108<strong></strong></li>
+</ul>
+<p><strong>Three Upper-Division Psychology Courses in Specialization</strong> (choose three of the following)<strong></strong></p>
+<ul type="disc">
+  <li>PSYC      114, 115A, 115B, 123, 128, 129, 137, 141, 142, 144, 145, 146, 148, 152, 156, 161, 170, 171, 174, 176, 187, 191</li>
+</ul>
+<p><strong>Five Additional Upper-Division Psychology Courses</strong> (choose five of the following)<strong></strong></p>
+<ul type="disc">
+  <li>PSYC 100–193</li>
+</ul>
+<h5>Suggested Four-Year Plan: BS Psychology with a Specialization in Cognitive Psychology</h5>
+<table border="0" cellpadding="0" cellspacing="0" class="sample-program">
+  <tr>
+    <td valign="top" class="Normal"><p><strong>FALL</strong></p></td>
+    <td valign="top" class="Normal"><p><strong>WINTER</strong></p></td>
+    <td valign="top" class="Normal"><p><strong>SPRING</strong></p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p><strong>Year 1</strong></p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>MATH 10A or 20A</p></td>
+    <td valign="top" class="Normal"><p>MATH 10B or 20B</p></td>
+    <td valign="top" class="Normal"><p>1 computer programming</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 natural science</p></td>
+    <td valign="top" class="Normal"><p>1 natural science</p></td>
+    <td valign="top" class="Normal"><p>1 natural science</p></td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" class="Normal"><p><strong>Year 2</strong></p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>PSYC 60</p></td>
+    <td valign="top" class="Normal"><p>PSYC 70</p></td>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+  </tr>
+  <strong></strong>
+  <tr>
+    <td valign="top" class="Normal"><p><strong>Year 3</strong></p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>PSYC 105</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC core</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 PSYC core</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC core</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC research</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p><strong>Year 4</strong></p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 PSYC area of specialization</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC area of specialization</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC area of specialization</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 PSYC research</p></td>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+  </tr>
+</table>
+<p></p>
+<p>In addition to major requirements, students must complete college and university general-education requirements to graduate.</p>
+<h4>BS Psychology with a Specialization in Developmental Psychology Upper-Division Course Requirements</h4>
+<p>Developmental psychology entails all aspects of human development with emphases on social and personality development, perceptual development, and language acquisition. This specialization also includes the study of developmental psychopathology. </p>
+<h5>Upper-Division Requirements (forty-eight units)</h5>
+<p><strong>One Psychology Core Course in Specialization</strong></p>
+<ul type="disc">
+  <li>PSYC      101</li>
+</ul>
+<p><strong>Three Additional Psychology Core Courses </strong>(choose three of the following)<strong></strong></p>
+<ul type="disc">
+  <li>PSYC      100, 102, 104, 105, 106, 108</li>
+</ul>
+<p><strong>Three Upper-Division Psychology Courses in Specialization</strong> (choose three of the following)<strong></strong></p>
+<ul type="disc">
+  <li>PSYC      136, 146, 147, 152, 156, 158, 168, 172, 180, 187, 190</li>
+</ul>
+<p><strong>Five Additional Upper-Division Psychology Courses</strong> (choose five of the following)<strong></strong></p>
+<ul type="disc">
+  <li>PSYC 100–193</li>
+</ul>
+<h5>Suggested Four-Year Plan: BS Psychology with a Specialization in Developmental Psychology</h5>
+<table border="0" cellpadding="0" cellspacing="0" class="sample-program">
+  <tr>
+    <td valign="top" class="Normal"><p><strong>FALL</strong></p></td>
+    <td valign="top" class="Normal"><p><strong>WINTER</strong></p></td>
+    <td valign="top" class="Normal"><p><strong>SPRING</strong></p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p><strong>Year 1</strong></p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>MATH 10A or 20A</p></td>
+    <td valign="top" class="Normal"><p>MATH 10B or 20B</p></td>
+    <td valign="top" class="Normal"><p>1 computer programming</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 natural science</p></td>
+    <td valign="top" class="Normal"><p>1 natural science</p></td>
+    <td valign="top" class="Normal"><p>1 natural science</p></td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" class="Normal"><p><strong>Year 2</strong></p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>PSYC 60</p></td>
+    <td valign="top" class="Normal"><p>PSYC 70</p></td>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+  </tr>
+  <strong></strong>
+  <tr>
+    <td valign="top" class="Normal"><p><strong>Year 3</strong></p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>PSYC 101</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC core</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 PSYC core</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC core</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC research</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p><strong>Year 4</strong></p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 PSYC area of specialization</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC area of specialization</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC area of specialization</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 PSYC research</p></td>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+  </tr>
+</table>
+<p>In addition to major requirements, students must complete college and university general-education requirements to graduate.</p>
+<h4>BS Psychology with a Specialization in Human Health Upper-Division Course Requirements</h4>
+<p>Health psychology focuses on understanding how psychological, biological, and environmental factors interact to jointly influence human health. Topics include addiction, impulsive behavior, and issues related to cognitive control.</p>
+<h5>Upper-Division Requirements (forty-eight units)</h5>
+<p><strong>Three Psychology Core Courses in Specialization</strong></p>
+<ul type="disc">
+  <li>PSYC      100, 101, 104</li>
+</ul>
+<p><strong>One Additional Psychology Core Course </strong>(choose one of the following)<strong></strong></p>
+<ul type="disc">
+  <li>PSYC      102, 105, 106, 108</li>
+</ul>
+<p><strong>Three Upper-Division Psychology Courses in Specialization</strong> (choose three of the following)<strong></strong></p>
+<ul type="disc">
+  <li>PSYC      123, 124, 130, 132, 133, 134, 154, 155, 168, 169, 171, 172, 179, 181, 184, 188, 191</li>
+</ul>
+<p><strong>Five Additional Upper-Division Psychology Courses</strong> (choose five of the following)<strong></strong></p>
+<ul type="disc">
+  <li>PSYC      100–193</li>
+</ul>
+<h5>Suggested Four-Year Plan: BS Psychology with a Specialization in Human Health</h5>
+<table border="0" cellpadding="0" cellspacing="0" class="sample-program">
+  <tr>
+    <td valign="top" class="Normal"><p><strong>FALL</strong></p></td>
+    <td valign="top" class="Normal"><p><strong>WINTER</strong></p></td>
+    <td valign="top" class="Normal"><p><strong>SPRING</strong></p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p><strong>Year 1</strong></p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>MATH 10A or 20A</p></td>
+    <td valign="top" class="Normal"><p>MATH 10B or 20B</p></td>
+    <td valign="top" class="Normal"><p>1 computer programming</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 natural science</p></td>
+    <td valign="top" class="Normal"><p>1 natural science</p></td>
+    <td valign="top" class="Normal"><p>1 natural science</p></td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" class="Normal"><p><strong>Year 2</strong></p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>PSYC 60</p></td>
+    <td valign="top" class="Normal"><p>PSYC 70</p></td>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+  </tr>
+  <strong></strong>
+  <tr>
+    <td valign="top" class="Normal"><p><strong>Year 3</strong></p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>PSYC 100</p></td>
+    <td valign="top" class="Normal"><p>PSYC 101</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 PSYC core</p></td>
+    <td valign="top" class="Normal"><p>PSYC 104</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC research</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p><strong>Year 4</strong></p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 PSYC area of specialization</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC area of specialization</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC area of specialization</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 PSYC Research</p></td>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+  </tr>
+</table>
+
+<p>In addition to major requirements, students must complete college and university general-education requirements to graduate.</p>
+<h4>BS Psychology with a Specialization in Sensation and Perception Upper-Division Course Requirements</h4>
+<p>Sensation and perception is the study of how our sense organs and brain allow us to construct our consciously experienced representation of the environment. Experiments using computer-controlled stimuli are used to test models of sensory or perceptual processes. Processes of particular interest include color vision, motion perception, and auditory illusions and paradoxes. </p>
+<h5>Upper-Division Requirements (forty-eight units)</h5>
+<p><strong>One Psychology Core Course in Specialization</strong></p>
+<ul type="disc">
+  <li>PSYC      102</li>
+</ul>
+<p><strong>Three Additional Psychology Core Courses </strong>(choose three of the following)<strong></strong></p>
+<ul type="disc">
+  <li>PSYC      100, 101, 104, 105, 106, 108</li>
+</ul>
+<p><strong>Three Upper-Division Psychology Courses in Specialization</strong> (choose three of the following)<strong></strong></p>
+<ul type="disc">
+  <li>PSYC      128, 129, 138, 150, 159, 169, 174, 182</li>
+</ul>
+<p><strong>Five Additional Upper-Division Psychology Courses</strong> (choose five of the following)<strong></strong></p>
+<ul type="disc">
+  <li>PSYC      100–193</li>
+</ul>
+<h5>Suggested Four-Year Plan: BS Psychology with a Specialization in Sensation and Perception</h5>
+<table border="0" cellpadding="0" cellspacing="0" class="sample-program">
+  <tr>
+    <td valign="top" class="Normal"><p><strong>FALL</strong></p></td>
+    <td valign="top" class="Normal"><p><strong>WINTER</strong></p></td>
+    <td valign="top" class="Normal"><p><strong>SPRING</strong></p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p><strong>Year 1</strong></p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>MATH 10A or 20A</p></td>
+    <td valign="top" class="Normal"><p>MATH 10B or 20B</p></td>
+    <td valign="top" class="Normal"><p>1 computer programming</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 natural science</p></td>
+    <td valign="top" class="Normal"><p>1 natural science</p></td>
+    <td valign="top" class="Normal"><p>1 natural science</p></td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" class="Normal"><p><strong>Year 2</strong></p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>PSYC 60</p></td>
+    <td valign="top" class="Normal"><p>PSYC 70</p></td>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+  </tr>
+  <strong></strong>
+  <tr>
+    <td valign="top" class="Normal"><p><strong>Year 3</strong></p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>PSYC 102</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC core</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 PSYC core</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC core</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC research</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p><strong>Year 4</strong></p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 PSYC area of specialization</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC area of specialization</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC area of specialization</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 PSYC research</p></td>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+  </tr>
+</table>
+<p>In addition to major requirements, students must complete college and university general-education requirements to graduate.</p>
+<h4>BS Psychology with a Specialization in Social Psychology Upper-Division Course Requirements</h4>
+<p>Social psychology is the study of human behavior in social situations. The specialization focuses on topics including emotion, aggression, and social cognition. It also encompasses applied social psychology, including psychology and the law and behavioral medicine. </p>
+<h5>Upper-Division Requirements (forty-eight units)</h5>
+<p><strong>One Psychology Core Course in Specialization</strong></p>
+<ul type="disc">
+  <li>PSYC      104</li>
+</ul>
+<p><strong>Three Additional Psychology Core Courses </strong>(choose three of the following)<strong></strong></p>
+<ul type="disc">
+  <li>PSYC      100, 101, 102, 105, 106, 108<strong></strong></li>
+</ul>
+<p><strong>Three Upper-Division Psychology Courses in Specialization</strong> (choose three of the following)<strong></strong></p>
+<ul type="disc">
+  <li>PSYC      114, 130, 137, 139, 141, 147, 152, 153, 155, 157, 158, 162, 164, 172, 176, 178, 187, 190</li>
+</ul>
+<p><strong>Five Additional Upper-Division Psychology Courses</strong> (choose five of the following)<strong></strong></p>
+<ul type="disc">
+  <li>PSYC      100–193</li>
+</ul>
+<h5>Suggested Four-Year Plan: BS Psychology with a Specialization in Social Psychology</h5>
+<table border="0" cellpadding="0" cellspacing="0" class="sample-program">
+  <tr>
+    <td valign="top" class="Normal"><p><strong>FALL</strong></p></td>
+    <td valign="top" class="Normal"><p><strong>WINTER</strong></p></td>
+    <td valign="top" class="Normal"><p><strong>SPRING</strong></p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p><strong>Year 1</strong></p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>MATH 10A or 20A</p></td>
+    <td valign="top" class="Normal"><p>MATH 10B or 20B</p></td>
+    <td valign="top" class="Normal"><p>1 computer programming</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 natural science</p></td>
+    <td valign="top" class="Normal"><p>1 natural science</p></td>
+    <td valign="top" class="Normal"><p>1 natural science</p></td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" class="Normal"><p><strong>Year 2</strong></p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>PSYC 60</p></td>
+    <td valign="top" class="Normal"><p>PSYC 70</p></td>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+  </tr>
+  <strong></strong>
+  <tr>
+    <td valign="top" class="Normal"><p><strong>Year 3</strong></p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>PSYC 104</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC core</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 PSYC core</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC core</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC research</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p><strong>Year 4</strong></p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 PSYC area of specialization</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC area of specialization</p></td>
+    <td valign="top" class="Normal"><p>1 PSYC area of specialization</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+    <td valign="top" class="Normal"><p>1 UD PSYC elective</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>1 PSYC research</p></td>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+  </tr>
+</table>
+
+				<p>In addition to major requirements, students must complete college and university general-education requirements to graduate.</p>
+                <h4>BS Business Psychology</h4>
+        <p>The BS in business psychology develops skills to understand and apply psychological principles to personal, social, and organizational issues. Students will study aspects of human behavior in the workplace, such as how consumers choose, how people work, and how they make decisions in groups and business settings. Students may choose to complete a twelve-unit concentration in marketing, STEM, or operations.  </p>
+        <p><strong>Lower-Division Course Requirements for the BS in Business Psychology</strong></p>
+        <p>Business psychology entails a strong foundation of statistical and research methods training, as well as knowledge of formal systems such as calculus, computer programming, and understanding of natural science and how it applies to larger individual and organizational structures and functions. Accordingly, students in upper-division courses must have an adequate background in these topics. Prerequisites for individual courses are specified in the catalog.</p>
+                <p>Lower-division courses for the major should be completed by the end of the sophomore year. Meeting these requirements will provide an adequate background for the topics of upper-division business psychology courses.</p>
+                <h5>Lower-Division Requirements (forty units)</h5>
+                <p><strong>Three Natural Science Courses</strong> (choose three of the following)</p>
+                <ul type="disc">
+                  <li>BILD:      1, 2, 3, 10, 12**, 20, 26 (BILD 22 is NOT accepted.)</li>
+                  <li>CHEM      4*, 6A, 6B, 6C, 11*, 12, 13<br>
+					  <span class="note">*Only one of CHEM 4 or 11 can be taken for credit.</span></li>
+                  <li>COGS:      17**</li>
+                  <li>PHYS:      1A, 1B, 1C, 2A, 2B, 2C, 10, 11</li>
+                  <li>PSYC:      2**<br>
+					  <span class="note">**Only one of BILD 12, COGS 17, or PSYC 2 may be counted toward this requirement.</span></li>
+        </ul>
+              
+                <p>&nbsp;<strong>Three Formal Skills</strong> <strong>Courses</strong></p>
+                <ul type="disc">
+                  <li>MATH      10A or 20A</li>
+                  <li>MATH      10B or 20B</li>
+                  <li>PSYC      70<br>
+					  <span class="note">*Students who are interested in fields that may require advanced calculus      are advised to take the MATH 20 series.</span></li>
+        </ul>
+                <p><strong>One Computer Programming Course</strong> (choose one of the following)</p>
+                <ul type="disc">
+                  <li>COGS      18*</li>
+                  <li>CSE      5A, 7*, 8A, 8B, 11, 12</li>
+                  <li>ECE      15*</li>
+                  <li>MAE 5,      8*<br>
+                    *Preferred computer programming courses critical for the success of      students who plan to pursue research careers in psychology.</li>
+                </ul>
+                <p><strong>One Statistics Course </strong>(choose one of the following)</p>
+                <ul type="disc">
+                  <li>PSYC      60 (preferred)</li>
+                  <li>MGT 3</li>
+                  <li>BENG      100</li>
+                  <li>BIEB      100</li>
+                  <li>COGS      14B </li>
+                  <li>ECON      120A</li>
+                  <li>MATH      11, 181A, 183, 186 </li>
+                </ul>
+                <p><strong>Two Business Fundamentals Courses</strong></p>
+        <ul type="disc">
+                  <li>MGT 16</li>
+                  <li>MGT 18</li>
+                </ul>
+                <h5>Research Requirement for BS in Business Psychology <em>(eight units)</em></h5>
+                <p><strong>Two Research Experience Courses</strong><br>
+        Choose one of the options below:</p>
+                <ul type="disc">
+                  <li>MGT 52      and MGT 153</li>
+                  <li>2 PSYC      199s*</li>
+                  <li>2 MGT      199s*</li>
+                  <li>1 PSYC      199 and 1 MGT 199*</li>
+                  <li>PSYC      194A-B-C</li>
+                </ul>
+                <p>*If the two research courses are 199s, at least one of them must culminate in a research paper approved by the faculty adviser and be submitted to the Psychology Student Affairs Office no later than 3:00 p.m. Thursday of the final exam week of the student&rsquo;s graduating quarter. Business psychology students are encouraged to seek 199s with Rady faculty.</p>
+                <h4>BS Business Psychology Upper-Division Course Requirements</h4>
+                <h5>Upper-Division Requirements (forty-four units)</h5>
+                <p><strong>Two Psychology Core Courses in Business Psychology</strong></p>
+                <ul>
+                  <li>PSYC 104</li>
+                  <li>PSYC 105</li>
+        </ul>
+                <p><strong>Two Additional Psychology Core Courses </strong>(choose two of the following)</p>
+        <ul type="disc">
+                  <li>PSYC      100, 101, 102, 106, 108</li>
+                </ul>
+        <p><strong>Three to Four Business Courses  </strong>(choose twelve units of the following)</p>
+                <p>Students may choose to take electives in the same functional area and thus have a concentration in marketing, STEM, or operations. Alternatively, they may choose to elect courses spanning areas, opting for no concentration.  </p>
+                <p><strong>Marketing Concentration</strong></p>
+                <ul type="disc">
+                  <li>MGT 103. Product Marketing and      Management</li>
+                  <li>MGT 105. Product Promotion and Brand      Management</li>
+                  <li>MGT 106. Sales and Sales Management</li>
+                  <li>MGT 129.* Interpersonal Communication at      Work (two units)</li>
+                  <li>MGT 154. Advanced Business Research</li>
+                  <li>MGT 162. Negotiation (two units)</li>
+                  <li>MGT 164. Business and Organizational      Leadership</li>
+        </ul>
+                <p><strong>STEM Concentration</strong></p>
+                <ul>
+                  <li><span dir="LTR"> </span>MGT 121A. Innovation to Market A</li>
+                  <li><span dir="LTR"> </span>MGT 121B. Innovation to Market B</li>
+                  <li><span dir="LTR"> </span>MGT 127. Innovation and Technology Strategy</li>
+                  <li><span dir="LTR"> </span>MGT 128. Innovation in Service Enterprises</li>
+                  <li><span dir="LTR"> </span>MGT 129.* Developing an Entrepreneurial Workforce (two units)</li>
+                  <li><span dir="LTR"> </span>MGT 129.* Interpersonal Communication at Work (two units)</li>
+                  <li><span dir="LTR"> </span>MGT 154. Advanced Business Research (proposed)</li>
+                  <li><span dir="LTR"> </span>MGT 162. Negotiation (two units)</li>
+                  <li><span dir="LTR"> </span>MGT 164. Business and Organizational Leadership</li>
+                  <li><span dir="LTR"> </span>MGT 167. Social Entrepreneurship&nbsp;</li>
+                  <li><span dir="LTR"> </span>MGT 172. Business Project Management</li>
+                  <li><span dir="LTR"> </span>MGT 173. Project Management Health Services</li>
+                </ul>
+                <p><strong>Operations Concentration</strong></p>
+        <ul>
+                  <li><span dir="LTR"> </span>MGT 117. Business Law</li>
+                  <li><span dir="LTR"> </span>MGT 129.* Interpersonal Communication at Work (two units)</li>
+                  <li><span dir="LTR"> </span>MGT 154. Advanced Business Research (proposed)</li>
+                  <li><span dir="LTR"> </span>MGT 162. Negotiation (two units)</li>
+                  <li><span dir="LTR"> </span>MGT 164. Business and Organizational Leadership</li>
+                  <li><span dir="LTR"> </span>MGT 171. Production and Service Operations Management </li>
+                  <li><span dir="LTR"> </span>MGT 174. Operations Management</li>
+                  <li><span dir="LTR"> </span>MGT 175. Supply Chain Management<br>
+					  <span class="note">*These are topics courses for which only the specific topics listed above will be counted toward the major.</span></li>
+                </ul>
+                <p><strong>Three Additional Psychology Electives in Business Psychology </strong>(choose three of the following)</p>
+                <ul>
+                  <li><span dir="LTR"> </span>PSYC 120. Learning and Motivation</li>
+                  <li><span dir="LTR"> </span>PSYC 129. The Logic of Perception</li>
+                  <li><span dir="LTR"> </span>PSYC 130. Delay of Gratification</li>
+                  <li><span dir="LTR"> </span>PSYC 137. Social Cognition</li>
+                  <li><span dir="LTR"> </span>PSYC 143. Control and Analysis of Human Behavior</li>
+                  <li><span dir="LTR"> </span>PSYC 147. Gender</li>
+                  <li><span dir="LTR"> </span>PSYC 148.&nbsp;Psychology of Judgment and Decision Making*</li>
+                  <li><span dir="LTR"> </span>PSYC 151. Tests and Measurement*</li>
+                  <li><span dir="LTR"> </span>PSYC 152. Conceptions of Intelligence</li>
+                  <li><span dir="LTR"> </span>PSYC 153. Psychology of Emotion</li>
+                  <li><span dir="LTR"> </span>PSYC 154.&nbsp;Behavior Modification</li>
+                  <li><span dir="LTR"> </span>PSYC 157. Happiness</li>
+                  <li><span dir="LTR"> </span>PSYC 158.&nbsp;Interpersonal Relationships</li>
+                  <li><span dir="LTR"> </span>PSYC 161. Engineering Psychology</li>
+                  <li><span dir="LTR"> </span>PSYC 162.&nbsp;Psychology and the Law</li>
+                  <li><span dir="LTR"> </span>PSYC 173. Psychology of Food and Behavior</li>
+                  <li><span dir="LTR"> </span>PSYC 176.&nbsp;Creativity </li>
+                  <li><span dir="LTR"> </span>PSYC 178. Industrial/Organizational Psychology*</li>
+                  <li><span dir="LTR"> </span>PSYC 184. Choice and Self-Control</li>
+                  <li><span dir="LTR"> </span>PSYC 187. Development of Social Cognition<br>
+					  <span class="note">*Students must choose at least one of these courses.</span></li>
+        </ul>
+                  <p><strong>One Open Elective in Psychology</strong> (choose one of the following)</p>
+                <ul type="disc">
+                  <li>PSYC      100–193</li>
+                </ul>
+                <h5>Suggested Four-Year Plan: BS Business Psychology</h5>
+        <table border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="264" valign="top"><p><strong>FALL</strong></p></td>
+                    <td width="137" valign="top"><p><strong>WINTER</strong></p></td>
+                    <td width="137" valign="top"><p><strong>SPRING</strong></p></td>
+                  </tr>
+                  <tr>
+                    <td width="264" valign="top"><p><strong>Year 1</strong></p></td>
+                    <td width="137" valign="top"><p>&nbsp;</p></td>
+                    <td width="137" valign="top"><p>&nbsp;</p></td>
+                  </tr>
+                  <tr>
+                    <td width="264" valign="top"><p>MATH 10A or 20A</p></td>
+                    <td width="137" valign="top"><p>MATH 10B or 20B</p></td>
+                    <td width="137" valign="top"><p>1 computer programming</p></td>
+                  </tr>
+                  <tr>
+                    <td width="264" valign="top"><p>1 natural science</p></td>
+                    <td width="137" valign="top"><p>1 natural science</p></td>
+                    <td width="137" valign="top"><p>1 natural science</p></td>
+                  </tr>
+                  <tr>
+                    <td width="264" colspan="2" valign="top"><p><strong>Year 2</strong></p></td>
+                    <td width="137" valign="top"><p>&nbsp;</p></td>
+                  </tr>
+                  <tr>
+                    <td width="264" valign="top"><p>PSYC 60</p></td>
+                    <td width="137" valign="top"><p>PSYC 70</p></td>
+                    <td width="137" valign="top"><p>MGT 18</p></td>
+                  </tr>
+                  <tr>
+                    <td width="264" valign="top"><p>MGT 16</p></td>
+                    <td width="137" valign="top"></td>
+                    <td width="137" valign="top"></td>
+                  </tr>
+                  <tr>
+                    <td width="264" valign="top"><p><strong>Year 3</strong></p></td>
+                    <td width="137" valign="top"><p>&nbsp;</p></td>
+                    <td width="137" valign="top"><p>&nbsp;</p></td>
+                  </tr>
+                  <tr>
+                    <td width="264" valign="top"><p>PSYC 104</p></td>
+                    <td width="137" valign="top"><p>PSYC 105</p></td>
+                    <td width="137" valign="top"><p>1 Bus PSYC MGT</p></td>
+                  </tr>
+                  <tr>
+                    <td width="264" valign="top"><p>1 PSYC core</p></td>
+                    <td width="137" valign="top"><p>1 PSYC core</p></td>
+                    <td width="137" valign="top"><p>1 Bus PSYC elective</p></td>
+                  </tr>
+                  <tr>
+                    <td width="264" valign="top"></td>
+                    <td width="137" valign="top"></td>
+                    <td width="137" valign="top"><p>1 Research</p></td>
+                  </tr>
+                  <tr>
+                    <td width="264" valign="top"></td>
+                    <td width="137" valign="top"></td>
+                    <td width="137" valign="top"></td>
+                  </tr>
+                  <tr>
+                    <td width="264" valign="top"><p><strong>Year 4</strong></p></td>
+                    <td width="137" valign="top"><p>&nbsp;</p></td>
+                    <td width="137" valign="top"><p>&nbsp;</p></td>
+                  </tr>
+                  <tr>
+                    <td width="264" valign="top"><p>1 Bus PSYC MGT</p></td>
+                    <td width="137" valign="top"><p>1 Bus PSYC MGT </p></td>
+                    <td width="137" valign="top"><p>1 UD PSYC elective</p></td>
+                  </tr>
+                  <tr>
+                    <td width="264" valign="top"><p>1 Bus PSYC elective</p></td>
+                    <td width="137" valign="top"><p>1 Research</p></td>
+                    <td width="137" valign="top"><p>1 Bus PSYC elective</p></td>
+                  </tr>
+                </table>
+                <p>In addition to major requirements, students must complete college and university general-education requirements to graduate.</p>
+                <h5>Major Regulations</h5>
+        <ul type="disc">
+                  <li>Classes      toward this major must be taken for a letter grade. The only exceptions      are natural science, computer programming, formal skills, PSYC 195 (up to      one by petition), AIP 197 (up to one by petition), PSYC 199, and MGT 199. </li>
+                  <li>Graduate      courses (2XX) are not generally accepted for credit toward the major, but      petitions for exceptions will be considered.</li>
+                  <li>A      maximum of three upper-division courses toward the major may be taken      outside UC San Diego.</li>
+                  <li>A      grade-point average of at least 2.0 in the upper-division major courses is      required for graduation.                </li>
+        </ul>
+        <h4>BS Cognitive and Behavioral Neuroscience (CBN)</h4>
+                <p>The BS in cognitive and behavioral neuroscience (CBN) is a major jointly administered by the Departments of Psychology and Cognitive Science. Cognitive and behavioral neuroscience seeks to determine, understand, and examine the links between neural activity and perception (e.g., color vision, attention), basic behaviors (e.g., appetitive drives such as hunger and sleep), and higher level cognitive function (e.g., working memory and executive function) using multiple tools ranging from single-unit physiology to functional magnetic resonance imaging (fMRI) and electroencephalography (EEG). </p>
+        <p><strong>Lower-Division Course Requirements for the BS in CBN </strong></p>
+                <p>Cognitive and behavioral neuroscience uses scientific tools and concepts—knowledge of formal systems such as calculus, computer programming, understanding of basic neurobiology, and additional knowledge in chemistry, biology, physics, and statistics. Accordingly, students in upper-division courses must have an adequate background in these topics. Prerequisites for individual courses are specified in the catalog. </p>
+                <p>Lower-division courses for the major should be completed by the end of the sophomore year. These requirements will guarantee an adequate background for the topics of the upper-division CBN courses.</p>
+        <h5>Lower-Division Requirements (thirty-six units)</h5>
+                <p><strong>Three Natural Science Courses</strong></p>
+                <ul type="disc">
+                  <li>COGS      17</li>
+                </ul>
+                <p>Plus choose two of the following</p>
+        <ul type="disc">
+                  <li>BILD      1, 2, 3, 10, 20, 26 (BILD 12 and 22 are NOT      accepted.)</li>
+                  <li>CHEM      4*, 6A, 6B, 6C, 11*, 12, 13<br>
+              
+                <span class="note">*Only one of CHEM 4 or 11 can be taken for credit.</span></li>
+             
+                  <li>PHYS      1A, 1B, 1C, 2A, 2B, 2C, 10, 11</li>
+        </ul>
+                <p>&nbsp;<strong>Four Formal Skills</strong> <strong>Courses</strong></p>
+                <ul type="disc">
+                  <li>MATH      10A or 20A*</li>
+                  <li>MATH      10B or 20B*</li>
+                  <li>MATH 10C      OR 20C*</li>
+                  <li>PSYC      70 or COGS 14A
+                    <br>
+                    <span class="note"></br>
+        *Preferred calculus courses critical for the success of students who plan to pursue mathematically intensive areas of CBN.</span></li></ul></p>
+                <p><strong>One Computer Programming Course</strong> (choose one of the following)</p>
+                <ul type="disc">
+                  <li>COGS      18*</li>
+                  <li>CSE      7*, 8A, 8B, 11, 12<br>
+                    <span class="note">*Preferred computer programming courses critical for the success of students who plan to pursue research careers in cognitive science or psychology.</span></li>
+                </ul>
+                </p>
+               
+                <p><strong>One Statistics Course </strong>(choose one of the following)</p>
+                <ul type="disc">
+                  <li>PSYC      60</li>
+                  <li>COGS      14B </li>
+                </ul>
+                <p>By petition, MATH 11 will be accepted for the major.</p>
+                <h5>Upper-Division Requirements (fifty-six units)</h5>
+                <p><strong>Four CBN Core Courses </strong></p>
+                <ul type="disc">
+                  <li>COGS      107A</li>
+                  <li>PSYC 102      or COGS 101A</li>
+                  <li>PSYC      106 or COGS 107B</li>
+                  <li>PSYC      108 or COGS 107C</li>
+                </ul>
+<p><strong>Two Research Experience Courses </strong>(choose two of the following)</p>
+                <ul type="disc">
+                  <li>PSYC 114, 115A, 115B,      116, 117, 121, 140, 193L, 194A-B-C*, 199**</li>
+                  <li>COGS      102B, 102C, 118B, 119, 120, 121, 153, 160 (must pre-approve), 189, 190A-B-C*,      199**<br>
+					  <span class="note">*Successful completion of either COGS 190A-B-C or PSYC 194A-B-C fully satisfies the research experience requirement.</span><br>
+				  <span class="note">**If the two research courses are 199s, at least one of them must culminate in a research paper approved by the faculty adviser and be submitted to the corresponding department's Student Affairs Office prior to graduation. Please see the corresponding department for more information.</span></li>
+                </ul>
+                <ul type="disc">
+                  <div></div>
+                </ul>
+                <p><strong>Six Upper-Division Courses in CBN</strong> (choose six of the following)</p>
+<ul type="disc">
+      <li>PSYC      116, 122, 123, 125, 132, 133, 144, 150, 159, 169, 170, 171, 179, 181, 189</li>
+        <li>COGS      115, 119, 154, 163, 164, 169, 171, 172, 174, 175, 176, 177, 178, 179, 180,      184</li>
+        <li>HDP      110</li>
+</ul>
+
+                <p><strong>Two Additional Upper-Division Elective Courses</strong> (choose two of the following)</p>
+<ul type="disc">
+      <li>PSYC 100, 101, 104, 105,      110-193</li>
+        <li>COGS 101B, 101C, 102A,      102B, 102C, 109-189</li>
+</ul>
+<h5>Suggested Four-Year Plan: BS Cognitive and Behavioral Neuroscience (CBN)</h5>
+                <table border="0" cellpadding="0" cellspacing="0" class="sample-program">
+                  <tr>
+                    <td valign="top" class="Normal"><p><strong>FALL</strong></p></td>
+                    <td valign="top" class="Normal"><p><strong>WINTER</strong></p></td>
+                    <td valign="top" class="Normal"><p><strong>SPRING</strong></p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top" class="Normal"><p><strong>Year 1</strong></p></td>
+                    <td valign="top" class="Normal">&nbsp;</td>
+                    <td valign="top" class="Normal">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td valign="top" class="Normal"><p>MATH 10A or 20A</p></td>
+                    <td valign="top" class="Normal"><p>MATH 10B or 20B</p></td>
+                    <td valign="top" class="Normal"><p>MATH 10C or 20C</p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top" class="Normal"><p>COGS 17</p></td>
+                    <td valign="top" class="Normal"><p>1 natural science</p></td>
+                    <td valign="top" class="Normal"><p>1 natural science</p></td>
+                  </tr>
+                  <tr>
+                    <td colspan="2" valign="top" class="Normal"><p><strong>Year 2</strong></p></td>
+                    <td valign="top" class="Normal">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td valign="top" class="Normal"><p>PSYC 60 or COGS 14B</p></td>
+                    <td valign="top" class="Normal"><p>PSYC 70 or COGS 14A</p></td>
+                    <td valign="top" class="Normal"><p>1 computer programming</p></td>
+                  </tr>
+                  <strong></strong>
+                  <tr>
+                    <td valign="top" class="Normal"><p><strong>Year 3</strong></p></td>
+                    <td valign="top" class="Normal">&nbsp;</td>
+                    <td valign="top" class="Normal">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td valign="top" class="Normal"><p>COGS 107A</p></td>
+                    <td valign="top" class="Normal"><p>1 CBN core</p></td>
+                    <td valign="top" class="Normal"><p>1 CBN core</p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top" class="Normal"><p>1 CBN core</p></td>
+                    <td valign="top" class="Normal"><p>1 CBN elective</p></td>
+                    <td valign="top" class="Normal"><p>1 CBN elective</p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+                    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+                    <td valign="top" class="Normal"><p>1 CBN research</p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top" class="Normal"><p><strong>Year 4</strong></p></td>
+                    <td valign="top" class="Normal">&nbsp;</td>
+                    <td valign="top" class="Normal">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td valign="top" class="Normal"><p>1 CBN elective</p></td>
+                    <td valign="top" class="Normal"><p>1 CBN elective</p></td>
+                    <td valign="top" class="Normal"><p>1 CBN elective</p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top" class="Normal"><p>1 CBN elective</p></td>
+                    <td valign="top" class="Normal"><p>1 additional elective</p></td>
+                    <td valign="top" class="Normal"><p>1 additional elective</p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top" class="Normal"><p>1 CBN research</p></td>
+                    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+                    <td valign="top" class="Normal"><p>&nbsp;</p></td>
+                  </tr>
+                </table>
+                <h5>Major Regulations</h5>
+                <ul type="disc">
+                  <li>Statistics      must be taken for a letter grade. All lower-division courses must be      passed with a minimum grade of a C– or P. </li>
+                  <li>All      upper-division courses numbered 100–193 must be taken for a letter grade      and a minimum grade of C– is required for the course to count toward the      major.</li>
+                  <li>Courses      taken Pass/Not Pass cannot be used to satisfy the upper-division major      requirement. </li>
+                  <li>Excluded      from credit toward the major are graduate seminars (2XX). </li>
+                  <li>A      maximum of three upper-division courses toward the CBN major may be taken outside      UC San Diego.</li>
+                  <li>A      grade-point average of at least 2.0 in the upper-division major courses is      required for graduation. </li>
+                </ul>
+                <h3 class="program-overview-subhead-2">Honors Program</h3>
+				<p>Students are encouraged to participate in the department&rsquo;s honors program, which is strongly recommended for all students interested in graduate school. A minimum overall GPA of 3.3 (transfer GPA of 3.5 for transfer students) is a prerequisite. Admission is granted by application in the fall quarter of the junior year (Deadline: mid-November, see department website for exact date).  This program is composed of the following courses:				</p>
+				<ol>
+				  <li>Junior Year</br>
+		            <p>Winter:</p></li>
+				  <ul>
+				    <li>Junior Honors Research Seminar (PSYC 110)</li>
+				    <li>Advanced Statistics and Research Methods (PSYC 111A)</li>
+			      </ul><p>Spring:</p><ul><li>Advanced Statistics and Research Methods (PSYC 111B)</li>
+		          </ul>
+				
+				  <li>Senior Year: A yearlong independent research project (PSYC 194A-B-C)
+				    under the mentorship of a faculty adviser. This research culminates in an honors thesis and poster presentation during the spring quarter.
+				    <br>
+				  </li>
+	 <li>For the BS with honors: Because all BS degrees in the psychology department already require two research experiences, there is no additional laboratory requirement to participate in the honors program. PSYC 194A-B-C fulfills one of the two research experiences required for all BS degrees in the department.</li>	</ol>
+              
+<p>Successful completion of the honors program requires a minimum grade of A– in PSYC 194A, PSYC 194B, and PSYC 194C, and a minimum GPA of 3.5 in the upper-division courses taken for the major.</p>
+<h3 class="program-overview-subhead-2">Minor Program </h3>
+				<p>The minor in psychology consists of seven four-unit courses from the Department
+				  of Psychology course offerings, of which at least twenty units
+				  (five four-unit courses) must be upper division. At least four upper-division
+				  courses must be taken at UC San Diego for a letter grade. Psychology 199 (Independent
+		  Study) may count for one upper-division course toward the minor. </p>
+				<p>If PSYC 60 (Statistics) is chosen as one of the lower-division courses, it must be taken for a letter grade. To declare or change your minor, use the minor tool on <a href="http://tritonlink.ucsd.edu" target="_blank">TritonLink</a>. A grade point average of at least 2.0 is required for graduation. </p>
+		<h3>Transfer Credit </h3>
+                <p>Lower- or upper-division psychology courses may be transferable for use in a psychology major or minor. A petition is required for any course not listed on assist.org. Full instructions can be found on the <a href="http://psychology.ucsd.edu/undergraduate-program/courses/petitions.html" target="_blank">psychology website</a>.  </p>
+                <p>Only upper-division courses from four-year universities will be considered by petition toward upper-division requirements in the psychology majors or minor.</p>
+
+<h3 class="program-overview-subhead-2">Education Abroad </h3>
+				<p>Students are often able to participate in the UC Education Abroad Program (EAP) and UC San Diego&rsquo;s Opportunities Abroad Program (OAP) while still making progress toward the major. Students considering this option should discuss their plans with the Department of Psychology Student Affairs Office before going abroad. Courses taken abroad must be approved by the Department of Psychology in order to be applied to the major. Students may receive credit for a maximum of three upper-division psychology courses from their courses taken abroad. Information on EAP/OAP is detailed in the Education Abroad Program section of the <em>UC San Diego General Catalog</em>. Interested students should contact the Study Abroad UC San Diego office.</p>
+	  <!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

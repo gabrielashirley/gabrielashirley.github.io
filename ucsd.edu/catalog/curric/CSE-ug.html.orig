@@ -1,0 +1,536 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Computer Science and Engineering (CSE)</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Computer Science and Engineering (CSE) </h1>
+<p class="sectionNav"><span class="courseFacLink">[ <a href="../curric/CSE-gr.html">graduate
+      program</a> | <a href="../courses/CSE.html">courses</a> | <a href="../faculty/CSE.html">faculty</a> ]</span></p>
+<p class="program-contact-info">Earl Warren College<br>
+  Engineering Building, Unit 3B<br>
+  Undergraduate Affairs, Room 1200D<br />
+  Graduate Affairs, Room 1200D<br />
+  <a href="http://cse.ucsd.edu" target="_blank">http://cse.ucsd.edu </a></p>
+<!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h2 class="program-overview-subhead-1">The Undergraduate Program</h2>
+		<h4>Computer Science and Engineering Undergraduate Admissions</h4>
+		<p>Because of the large number of students interested in computer science undergraduate programs, and the limited resources available to accommodate this demand, the university has declared all majors in the Department of Computer Science and Engineering as &ldquo;capped&rdquo;: BA computer science, BS computer science, BS computer engineering, and BS computer science with specialization in bioinformatics.</p>
+		<p>Admission directly into one of CSE&rsquo;s capped majors is limited for freshmen, effective fall 2013. Students will be selected by the UC San Diego Office of Undergraduate Admissions based on the students&rsquo; holistic review scores and availability of slots in the Department of Computer Science and Engineering. All potential freshmen must indicate on the UC application if they wish to major in computer science or computer engineering.</p>
+		<p>Admission directly into one of CSE&rsquo;s capped majors is limited for transfer students, effective fall 2015. New transfer students will be selected by the UC San Diego Office of Undergraduate Admissions based on the students&rsquo; holistic review scores and availability of slots in the Department of Computer Science and Engineering. All potential transfer students must indicate on the UC application if they wish to major in computer science or computer engineering.</p>
+		<p>Admission to CSE&rsquo;s capped majors is limited for all continuing UC San Diego students, effective fall 2015.  </p>
+<h4>Continuing Students</h4>
+		<p>UC San Diego students who wish to change from another major into one of CSE&rsquo;s capped majors may apply to the Department of Computer Science and Engineering for admission into the BA computer science, BS computer science, BS computer engineering, or BS computer science with specialization in bioinformatics major. </p>
+<h5>Eligibility requirements: </h5>
+        <ol start="1" type="1">
+          <li>Minimum of eight&nbsp;units of courses      completed at UC San Diego for a letter grade, drawn from the following      screening courses: CSE 8B or CSE 11, CSE 12, CSE 15L, CSE 20, CSE 21, CSE 30, and CSE      100.</li>
+          <li>All of the following eligibility courses (or their      accepted equivalent) must have been completed prior to application: CSE 8B      or 11, CSE 12, CSE 15L, and CSE 20.</li>
+          <li>Students      must receive a 3.3 GPA in screening courses taken at UC San Diego. </li>
+        </ol>
+        
+        <h5>Application process:</h5>
+        <p>Students may apply in any quarter after they have completed the above eligibility requirements. Students who meet the 3.3 GPA cutoff for screening courses will be entered into a lottery. Students will be randomly selected until the open number of seats in CSE are filled. Students may apply for the lottery a maximum of two times throughout their entire education at UC San Diego. </p>
+        <h5>Transfer Student Preparation for Success</h5>
+        <p>To reduce the amount of time needed to complete degree requirements, transfer students should complete as many prerequisite courses as possible before starting at UC San Diego. A 3.0 GPA in these courses is recommended.        </p>
+        <ul>
+          <li>Calculus I—for Science and Engineering (MATH 20A)</li>
+          <li>Calculus II—for Science and Engineering (MATH 20B)</li>
+          <li>Calculus and Analytic Geometry (MATH 20C)</li>
+          <li>Differential Equations (MATH 20D)—required for BS computer engineering only</li>
+          <li>Linear Algebra (MATH 18)</li>
+          <li>Complete      calculus-based physics series (PHYS 2A-B-C)—required for BS computer      engineering only </li>
+      
+          <li>Highest level of introductory computer programming language (i.e. Java, C or C++) course offerings at the community college</li>
+        </ul>
+        <h4 class="program-overview-subhead-3">Degree and Program Options </h4>
+				<p>The Department of Computer Science and Engineering (CSE) offers four degree programs: the BS degree in computer science, the BA degree in computer science, the BS degree in computer engineering, and the BS degree in computer science with a specialization in bioinformatics. All major requirements for each degree program must be completed with a C– or better, except for courses offered Pass/No Pass only.</p>
+				<p>All CSE programs of study provide a broad and rigorous curriculum and are designed to provide students with the strong academic education and technical training necessary for placement in the competitive high-tech job market as well as for advanced studies in graduate school.</p>
+				<p>The CSE department encourages students to explore opportunities outside the classroom. Students may apply to be tutors and readers in CSE courses, which are excellent opportunities to interact more closely with faculty and gain communication and training skills. Independent research is recommended, and CSE students participate in research projects with graduate students and faculty from CSE, the San Diego Supercomputer Center, Calit2&rsquo;s Qualcomm Institute, and other departments across campus. The department has strong ties with the local and national high-tech industry, where students can earn course credit through internship positions that allow them to apply their academic knowledge toward exciting commercial technologies. </p>
+				<p>Please note that DS25 majors may not double major in any CSE major, nor may they minor in CSE.</p>
+<h3 class="program-overview-subhead-2">BS Computer Science Program </h3>
+				<p>The lower-division course requirements are designed to provide a strong foundation in mathematics, physics, programming methodology and skills, and computer organization. Upper-division core courses deal with the theory and design of algorithms, hardware, and software. Electives allow students to gain additional breadth and/or depth in computer science and engineering.</p>
+				<p>Recommended high school preparation includes mathematics courses so that students can take freshman calculus in their first quarter. Courses in high school physics and computer programming are helpful preparation but are not required.</p>
+                <p>The BS in computer science requires a total of 124 units for the BS computer science program (not including the general-education requirements).</p>
+<h4 class="program-overview-subhead-3">1. Lower-Division Requirements </h4>
+				<p>Students are expected to complete the following fifty-two units by the
+			    end of their sophomore year.</p>
+				<ol>
+				  <li><em><strong>Computer Science and Engineering:</strong></em> CSE 8B or CSE 11, CSE 12, CSE 15L, CSE 20 or MATH 15A, CSE 21 or MATH 15B, and CSE 30 (twenty-two units)</li>
+				  <li><strong><em>Computer Science and Engineering:</em></strong> minimum of two units chosen from CSE 3, CSE 4GS, CSE 5A, CSE 6GS, CSE 7, CSE 8A, MAE 8, MAE 9, COGS 9, COGS 10, COGS 18, ECE 15, NANO 15, CENG 15, CSE 80, CSE 86, CSE 90, CSE 91, CSE 95, CSE 99,  or any CSE upper-division course not used to fulfill other degree requirements. Students who choose to take a four-unit course for this requirement will be required to complete 126 units for the BS computer science program (not including the general-education requirements)</li>
+				  <li><strong><em>Mathematics:</em></strong> MATH 20A, MATH 20B, MATH 20C, and either MATH 18 or MATH 20F (sixteen units)</li>
+				  <li><strong><em>General Science:</em></strong> Two courses chosen from PHYS 2A, PHYS 2B, PHYS 4A, PHYS 4B, CHEM 6A or CHEM 6AH, CHEM 6B or CHEM 6BH, BILD 1, BILD 2, BILD 3, and BICD 100  (eight units)</li>
+				  <li><strong><em>Probability and Statistics: </em><em></em></strong>MATH 183 or ECE 109 or ECON 120A or CSE 103 (four units)
+				  </li>
+				</ol>
+				
+				<h4 class="program-overview-subhead-3">2. Upper-Division Requirements </h4>
+				<p>Students must complete seventy-two upper-division units: forty-four units of core courses and twenty-eight units of cluster and elective courses.</p>
+        <ol>
+                  <li><strong><em>Core Courses</em></strong><em><strong>:</strong></em></li>
+                  <ul type="circle">
+                    <li>Data       structures and programming: CSE 100 </li>
+                    <li>Algorithms/theory:       CSE 101 and CSE 105 </li>
+                    <li>Software       engineering: CSE 110 </li>
+                    <li>Hardware/architecture:       CSE 140 and CSE 141, along with CSE 140L and CSE141L</li>
+                    <li>Systems/networks:       CSE 120 or CSE 123 or CSE 124</li>
+                    <li>PL/databases:       CSE 130 or CSE 132A </li>
+                    <li>Security/cryptography:       CSE 107 or CSE 127 </li>
+                 
+                        <li>Learning/vision/graphics:       CSE 150A or CSE 151A or CSE 151B or CSE 152 or CSE 153 or CSE 158 or CSE       167</li>
+                   
+                  </ul>
+                 
+       
+        <p>Students are expected to complete the majority of these courses by the end of their junior year.</p>
+        
+          
+		</ol><ol start="2"> <li number="2"><strong><em>Electives:</em></strong> Seven courses (twenty-eight units) subject to the following constraints:<br>
+            
+            <ul type="circle">
+                 
+                      <li>A       minimum of twenty units of computer science-related courses, which may       include courses listed under the &ldquo;Core Courses&rdquo; requirement but not already       used by the student to satisfy the &ldquo;Core Courses&rdquo; requirement area. The       following courses may be applied to the twenty unit minimum:</li>
+                      <ol start="1" type="1">
+                        <li>Computer        Science and Engineering</li>
+                        <ul type="disc">
+                          <li>Any         CSE upper-division course between CSE 100–190 that is not being used         for another major requirement, with the exception of CSE 180/180R.</li>
+                          <li>Undergraduate         students may petition to use graduate level course work toward their         elective requirements.</li>
+                          <li>Students         may use twelve units of CSE 190 toward CSE elective credit. CSE 190 topics         may vary from quarter to quarter. May be repeated for credit a maximum         of three times (maximum of twelve units; courses must be taken for a         different topic). The graduate         analogue, CSE 291, applies to this twelve unit maximum, as well.</li>
+                        </ul>
+                        <li>Cognitive        Science</li>
+                         <ul type="disc">
+                          <li>COGS         108, COGS 118C, COGS 120, COGS 121, COGS 123, COGS 124, COGS 160, COGS         185, COGS 187A-B, COGS 189</li>
+                        </ul>
+                        <li>Education        Studies</li>
+                         <ul type="disc">
+                          <li>EDS         124AR, EDS 124BR</li>
+                        </ul>
+                        <li>Engineering        (Global Ties)</li>
+                         <ul type="disc">
+                          <li>Students         may use up to eight units of ENG 100D/L courses toward upper division         CSE Elective/Technical Elective credits (as part of the twelve unit         maximum of Special Studies courses—CSE 197, 198, 199, 199H)</li>
+                          <li>Students         must take ENG 100L twice (two units each time) to receive credit for         one elective credit [Technical Elective or upper division CSE Elective         (not exceeding the twelve units of special studies courses)]; students may         no longer combine this course with another two-unit or six-unit course</li>
+                          <li>Students         may request to have their degree audit updated by contacting the <a href="http://vac.ucsd.edu/">Virtual Advising Center</a>.</li>
+                        </ul>
+                      </ol>
+             
+            
+              
+              
+              
+              <li>A       maximum of twelve units of P/NP courses may count, chosen from: a maximum       of eight units of CSE 198 or 199 or 199H; a maximum of four units of CSE       197.</li>
+              
+              <li>A maximum of two courses (eight units) of non-CSE courses, referred to as technical electives on the student&rsquo;s degree audit. An approved list of technical electives may be found on the <a href="http://cse.ucsd.edu" target="_blank">CSE website</a>. Students may petition for other courses not on the list.</li>
+            </ul>
+        </ol>
+                
+                    <h5>Notes for Selecting and Scheduling Classes for BS Computer Science</h5>
+                    <ol>
+                      <li>All courses must be taken for a letter grade, except those offered P/NP only.</li>
+                      <li>See the <a href="http://cse.ucsd.edu" target="_blank">CSE website</a> for a sample four-year plan of study.</li>
+                      <li>Students should read &ldquo;<a href="http://cse.ucsd.edu/undergraduate/courses/cse-course-placement-advice" target="_blank">CSE Course Placement Advice</a>&rdquo; on the<a href="http://cse.ucsd.edu" target="_blank"> CSE website</a> for assistance in determining which CSE course to take first, CSE 8A, CSE 8B, or CSE 11.</li>
+                      <li>Computer Science Advanced Placement Credit: A Exam (Java Programming), two units. Score of 4 exempts CSE 8A, and students should take CSE 11.</li>
+                      <li>CSE 8B or CSE 11 may be taken concurrently with CSE 20/MATH 15A. Please obtain department approval for enrollment permission for CSE 20/MATH 15A by submitting a course preauthorization request. </li>
+                      <li>CSE 15L must be taken concurrently with CSE 12.</li>
+                      <li>CSE 140 must be taken concurrently with CSE 140L.</li>
+                      <li>CSE 141 must be taken concurrently with CSE 141L.</li>
+                      <li>Once a graduate course is used for an undergraduate degree, that course may not be reused for a graduate degree. </li>
+                    </ol>
+        <h3 class="program-overview-subhead-2">BS Computer Engineering Program		</h3>
+        <p>The BS computer engineering program is jointly administered by the Departments
+				  of Computer Science and Engineering and Electrical and Computer Engineering.
+				  The curriculum is the same in both departments. Students wishing to take the computer engineering program must be admitted
+				  to one of the departments. </p>
+				<p>The lower-division computer engineering program is designed to provide a strong foundation in mathematics, physics, electrical engineering, programming methodology and skills, and computer organization. Upper-division core courses deal with the theory and design of algorithms, hardware and software, as well as electronic systems. Students can gain additional breadth and/ or depth in computer science and engineering by an appropriate selection of technical electives. </p>
+				<p>Recommended high school preparation includes mathematics courses so that students can take freshman calculus in their first quarter. Courses in high school physics and computer programming are helpful preparation but are not required.</p>
+<p>The BS computer engineering program requires a total of 136 units (not including
+			    the general-education requirements).  </p>
+<h4 class="program-overview-subhead-3">1. Lower-Division Requirements </h4>
+				<p>Students are expected to complete the following sixty-eight units by the
+				  end of their sophomore year. </p>
+				<ol>
+				  <li><em><strong>Computer Science and Engineering: </strong></em>CSE 8B or CSE 11, CSE 12, CSE 15L, CSE 20 or MATH 15A, CSE 21 or MATH 15B, and CSE 30 (twenty-four units)</li>
+<li><strong><em>Computer Science and Engineering:</em></strong> minimum of two units chosen from CSE 3, CSE 4GS, CSE 5A, CSE 6GS, CSE 7, CSE 8A, MAE 8, MAE 9, COGS 9, COGS 10, COGS 18, ECE 15, NANO 15, CENG 15, CSE 80, CSE 86, CSE 90, CSE 91, CSE 95, CSE 99,  or any CSE upper-division course not used to fulfill other degree requirements. Students who choose to take a four-unit course for this requirement will be required to complete 138 units for the BS computer science program (not including the general-education requirements).</li>
+				  <li><strong><em>Mathematics:</em></strong> MATH 20A, MATH 20B, MATH 20C, MATH 20D, and either MATH 18 or MATH 20F (twenty units) </li>
+				  <li><strong><em>Physics</em></strong><em><strong>: </strong></em>PHYS 2A, PHYS 2B, PHYS 2C (twelve units). MATH 20A is a prerequisite for PHYS 2A. Students whose performance on the Department of Mathematics placement test permits them to start with MATH 20B or a higher course may take PHYS 2A in the fall quarter of the freshman year; all others will take PHYS 2A in the winter quarter of the freshman year. Students who received high grades in both calculus and physics in high school may substitute the major&rsquo;s sequence, PHYS 4A-B-C, for PHYS 2A-B-C.</li>
+				  <li><strong><em>Electrical Engineering</em></strong><em>: </em>ECE 35, ECE 45, and ECE 65 (twelve units)</li>
+        </ol>
+				<h4 class="program-overview-subhead-3">2. Upper-Division Requirements </h4>
+				<p>Students must complete sixty-eight upper-division units: twenty-eight units of CSE core courses, two units of ECE core courses, and twenty-eight units of elective courses.</p>
+<ol>
+              <li><strong><em>Core CSE Courses:</em> </strong>CSE 100 or MATH 176, CSE 101 or MATH 188, CSE 110, CSE 120, 140, 140L, 141, and 141L (twenty-eight units) </li>
+              <li><strong><em>Core ECE Courses</em></strong><em><strong>:</strong></em> ECE 101, ECE 108, and ECE 109 (twelve units)</li>
+              <li><strong><em>Electives</em></strong><em><strong>:</strong></em> Seven courses (twenty-eight units) must be completed.</li>
+             <ul> 
+               <ul>
+                 <li>One elective must be either ECE 111 or ECE 118 (four units)</li>
+                 <li>Minimum of five courses (twenty units) chosen from ECE or CSE upper-division or graduate courses. Please note that CSE 180/180R may not be used to fulfill this requirement.</li>
+                
+                       <li>A        maximum of twelve units of P/NP courses may count, chosen from: a        maximum of eight units of CSE 198 or 199 or 199H; a maximum of four        units of CSE 197.</li>
+                    
+                 <li>A maximum of four units of non-CSE courses, referred to as technical electives on the student&rsquo;s degree audit. An approved list of technical electives may be found on the <a href="http://cse.ucsd.edu" target="_blank">CSE website</a>. Students may petition for other courses not on the list</li>
+               </ul>
+      </ol>            
+                <h5 class="program-overview-subhead-4">Notes for Selecting and Scheduling Classes for BS Computer Engineering</h5>
+				<ol>
+				  <li>All courses must be taken for a letter grade unless they are offered P/NP only.</li>
+				  <li>See the <a href="http://cse.ucsd.edu" target="_blank">CSE website</a> for a sample four-year plan of study.</li>
+				  <li>Students should read &ldquo;<a href="http://cse.ucsd.edu/undergraduate/courses/cse-course-placement-advice" target="_blank">CSE Course Placement Advice</a>&rdquo; on the <a href="http://cse.ucsd.edu" target="_blank">CSE website</a> for assistance in determining which CSE course to take first: CSE 3A, CSE 8A, CSE 8B, or CSE 11.</li>
+				  <li>Effective fall 2014, CSE 8A (three units) and 8AL (one unit) were combined into one course: CSE 8A (four units).</li>
+	    
+				  <li>Computer      Science Advanced Placement Credit: A Exam (Java Programming) (two units). Score      of 4 exempts CSE 8A; students should take CSE 11.</li>
+				  <li>CSE 8B      or CSE 11 may be taken concurrently with CSE 20/MATH 15A. Please obtain      department approval for enrollment permission for CSE 20/MATH 15A by submitting a course preauthorization request.</li>
+				  <li>CSE      15L must be taken concurrently with CSE 12.</li>
+				  <li>CSE 140      must be taken concurrently with CSE 140L.</li>
+				  <li>CSE      141 must be taken concurrently with CSE 141L.</li>
+	    </ol>
+              
+                
+<h3 class="program-overview-subhead-2">BS Computer Science with a Specialization in Bioinformatics </h3>
+				<p>The explosion in biological knowledge spawned by the various genome projects has created entirely new fields and industries, and a need for trained computational biologists who are familiar with biology, mathematics, and computer sciences. The computer science and engineering department offers rigorous, interdisciplinary training in the new and rapidly evolving field of bioinformatics. </p>
+				<p>Bioinformatics refers to advanced computational and experimental methods that model the flow of information (genetic, metabolic, and regulatory) in living systems to provide an integrated understanding of the system properties of organisms. </p>
+				<p>This interdisciplinary major also is offered by the Division of Biological Sciences and the Department of Bioengineering. </p>
+				<p>The BS computer science with a specialization in bioinformatics program requires a total of 153 units (not including the general-education requirements).</p>
+<h4 class="program-overview-subhead-3">1. Lower-Division Requirements </h4>
+				<p>Students are expected to complete the following sixty units by the end of their sophomore year. All classes must be taken for a letter grade.</p>
+<ol>
+  <li><strong><em>Computer Science and Engineering</em>: </strong>CSE 8B or 11, CSE 12, CSE 15L, CSE 21, and CSE 30 (eighteen units)<strong></strong></li>
+  <li><strong><em>Mathematics</em>: </strong>MATH 18, MATH 20A-B-C (sixteen units) </li>
+  <li><strong><em>Chemistry</em>: </strong>CHEM 6A-B, (eight units)</li>
+  <li><em><strong>Organic      Chemistry:</strong></em> CHEM 40A (four units)</li>
+
+  <li><strong><em>Biology</em>: </strong>BILD 1, BILD 3, and BILD 4 (ten units) </li>
+  <li><strong><em>Physics</em>: </strong>PHYS 2A (four units)
+    <div>
+      <div> </div>
+      </div>
+  </li>
+</ol>
+		<h4 class="program-overview-subhead-3">2. Upper-Division Requirements </h4>
+				<p>Students must complete sixty-eight upper-division units. All courses must be taken for a letter grade unless offered P/NP only.</p>
+<ol>
+      <li>CSE 100 or MATH 176 (four units)</li>
+      <li>CSE 101 or MATH 188 (four units)</li>
+      <li>CHEM 114A or BIBC 102 (four units) </li>
+      <li>BICD 100 (four units) </li>
+      <li>BIMM 100 (four units) </li>
+      <li>BIMM 101 (four units) </li>
+      <li>Six upper-division electives (twenty-four units) chosen from:</li>
+       
+        <ul type="circle">
+      
+                <li>A       minimum of five courses (twenty units) chosen from any CSE upper-division       course between CSE 100–190 that is not being used for another major       requirement, with the exception of CSE 180/180R.</li>
+                <li>One       course (four units) may be an upper-division non-CSE course. Please see       the department website for approved technical electives.</li>
+                <li>A       maximum of four units of special studies course work may count from the       following: CSE 197, 198, 199, 199H, ENG 100D, or ENG 100L.</li>
+      </ul>
+      
+      <li>The bioinformatics series, comprising the following five courses (twenty units):</li>
+     
+        <ul type="circle">
+          <li>CSE       181 or BIMM 181 or BENG 181 (four units) </li>
+          <li>CSE       182 or BIMM 182 or BENG 182 (four units) </li>
+          <li>BENG       183&nbsp;(four units) </li>
+          <li>CSE       185 (four units) </li>
+          <li>MATH 186 (four units) </li>
+        </ul> 
+      </ol>
+        <h5>Notes for Selecting and Scheduling Classes for Bioinformatics Specialization</h5>
+        <ol>
+                  <li>See the <a href="http://cse.ucsd.edu" target="_blank">CSE website</a> for a sample four-year plan of study.</li>
+                  <li>Students should read &ldquo;<a href="http://cse.ucsd.edu/undergraduate/courses/cse-course-placement-advice" target="_blank">CSE Course Placement Advice</a>&rdquo; on the <a href="http://cse.ucsd.edu" target="_blank">CSE website</a> for assistance in determining which CSE course to take first: CSE 3A, CSE 8A, CSE 8B, or CSE 11.</li>
+                  <li>Effective fall 2014, CSE 8A (three units) and 8AL (one unit) were combined into one course: CSE 8A (four units).</li>
+                  <li>Computer      Science Advanced Placement Credit: A Exam (Java Programming) (two units). Score      of 4 exempts CSE 8A; students should take CSE 11.</li>
+                  <li>CSE 8B      or CSE 11 may be taken concurrently with CSE 20/MATH 15A. Students may      enroll in SE 20 after they are enrolled in CSE 8B or CSE 11; students on      the wait list for CSE 8B or CSE 11 will not be allowed to add CSE 20.</li>
+        </ol>
+       
+           
+<h3 class="program-overview-subhead-2">BA Computer Science Program </h3>
+		<p>The BA computer science program gives students more latitude in designing their course of study. The lower-division program is designed to provide a strong foundation in mathematics, physics, programming methodology and skills, and computer organization. Upper-division core courses deal with the theory and design of algorithms, hardware, and software. Students can gain additional breadth and/or depth in computer science and engineering by an appropriate selection of electives. By requiring fewer electives, the BA computer science program serves those students desiring more time for undergraduate studies outside their major subject.</p>
+				<p>The department requires a total of 116 units for the BA computer science program (not including the general-education requirements). </p>
+				<h4 class="program-overview-subhead-3">1. Lower-Division Requirements </h4>
+				<p>Students are expected to complete the following forty-eight units by the
+				  end of their sophomore year. </p>
+				<ol>
+				  <li><strong><em>Computer Science and Engineering</em>: </strong>CSE 8B or CSE 11, CSE 12, CSE 15L, CSE 20 or MATH 15A, CSE 21 or MATH 15B, and CSE 30 (twenty-two units)</li>
+				  <li><strong><em>Computer Science and Engineering</em>:</strong> Two units chosen from CSE 3, CSE 4GS, CSE 5A, CSE 6GS, CSE 7, CSE 8A, MAE 8, MAE 9, COGS 9, COGS 10, COGS 18, ECE 15, NANO 15, CENG 15, CSE 80, CSE 86, CSE 90, CSE 91, CSE 95, CSE 99,  or any CSE upper-division course not used to fulfill other degree requirements. Students who choose to take a four-unit course for this requirement will be required to complete 118 units for the BS computer science program (not including the general-education requirements).</li>
+				  <li><strong><em>Mathematics</em>:</strong> MATH 20A, MATH 20B, MATH 20C, and either MATH 18 or MATH 20F (sixteen units) </li>
+				  <li><strong><em>General Science:</em></strong> Two courses chosen from PHYS 2A, PHYS 2B, PHYS 4A, PHYS 4B, CHEM 6A or CHEM 6AH, CHEM 6B or CHEM 6BH, BILD 1, BILD 2, BILD 3, and BICD 100 (eight units)</li>
+	    </ol>
+		<h4 class="program-overview-subhead-3">2. Upper-Division Requirements </h4>
+				<p>Students must complete sixty-eight upper-division units: forty units of core courses and twenty-eight units of elective courses.</p>
+        <ol>
+                  <li><strong><em>Core Courses: </em></strong>CSE 100 or MATH 176; CSE 101 or MATH 188; CSE 105 or MATH 166; CSE 110; CSE 120, 130, 131, 140, 140L, 141, and 141L (forty units). Students are expected to complete the majority of these courses by the end of their junior year.</li>
+                  <li><strong><em>Electives </em></strong>(twenty-eight units):</li>
+                <ul>  <li>A minimum of twenty units of CSE upper-division or graduate courses, depending on the cluster. Please note that CSE 180/180R may not be used to fulfill this requirement.</li>
+                  
+                      <li>A       maximum of twelve units of P/NP courses may count, chosen from: a maximum       of eight units of CSE 198 or 199 or 199H; a maximum of four units of CSE       197.</li>
+                 
+                  <li>A maximum of eight units of non-CSE courses, referred to as technical electives on the student&rsquo;s degree audit. An approved list of technical electives may be found on the <a href="http://cse.ucsd.edu" target="_blank">CSE website</a>. Students may petition for other courses not on the list.</li>
+                </ul>
+        </ol>
+                <h5>Notes for Selecting and Scheduling Classes for BA Computer Science</h5>
+                <ol>
+                  <li>All courses must be taken for a letter grade, except those offered P/NP only.</li>
+                  <li>Students should read &ldquo;<a href="http://cse.ucsd.edu/undergraduate/courses/cse-course-placement-advice" target="_blank">CSE Course Placement Advice</a>&rdquo; on the <a href="http://cse.ucsd.edu" target="_blank">CSE website</a> for assistance in determining which CSE course to take first: CSE 8A, CSE 8B or CSE 11.</li>
+                  <li>Computer Science Advanced Placement Credit: A Exam (Java Programming) (two units). Score of 4 exempts CSE 8A, and students should take CSE 11.</li>
+                  <li>CSE 8B or CSE 11 may be taken concurrently with CSE 20/MATH 15A. Please obtain department approval for enrollment permission for CSE 20/MATH 15A by submitting a course preauthorization request.</li>
+                  <li>CSE 15L must be taken concurrently with CSE 12.</li>
+                  <li>CSE 140 must be taken concurrently with CSE 140L.</li>
+                  <li>CSE 141 must be taken concurrently with CSE 141L.</li>
+                  <li>Once a graduate course is used for an undergraduate degree, that course may not be reused for a graduate degree.</li>
+                </ol>
+        <p class="anchor-parent"><a class="anchor" id="electives"></a></p><h3 class="program-overview-subhead-2">Electives </h3>
+				<p>The discipline of computer science and engineering interacts with a number of other disciplines in a mutually beneficial way. These disciplines include mathematics, electrical engineering, and cognitive science. The following is a list of upper-division courses from these and other disciplines that can be counted as technical electives. </p>
+				<h4 class="program-overview-subhead-3">Restrictions</h4>
+				<ol >
+				  <li>At most four units of CSE 197 may be used toward technical
+				    elective requirements. </li>
+				  <li>CSE 195 cannot be used toward course requirements.</li>
+				  <li>Undergraduate students must get instructor&#8217;s permission and
+				    departmental stamp to enroll in a graduate course. </li>
+				  <li>Students may not get duplicate credit for equivalent courses. </li>
+				  <li>The <span class="italic">UC San Diego General Catalog</span> should be consulted for equivalency
+				    information and any restrictions placed on the courses. </li>
+				  <li>Additional restrictions are noted below. Any deviation from this
+				    list must be petitioned. </li>
+	    </ol>
+<h5 class="program-overview-subhead-4">Computer Science with a Specialization
+  in Bioinformatics</h5>
+				<p>Students must petition department for technical elective credit not on approved list. </p>
+<h5 class="program-overview-subhead-4">Mathematics</h5>
+				<p>All upper-division courses except MATH 168A (MATH 183—Computer Engineering majors only), 184A, and 195–199. </p>
+				<p>If a student has completed CSE 167, then he or she cannot get elective credit for MATH 155A. Students may receive elective credit for only one of the following courses: MATH 174, MATH 173, PHYS 105A-B, CENG 100, MAE 107. No credit for any of these courses will be given if MATH 170A-B-C is taken. Students may receive credit for either one of the following: MATH 166 or CSE 105 (but not both), MATH 176 or CSE 100 (but not both). </p>
+				<p>Credit will be given for only one of the following: ECE 109 or MATH 183 or ECON 120A. </p>
+				<h5 class="program-overview-subhead-4">Electrical and Computer Engineering</h5>
+				<p>All ECE upper-division courses except 195–199. </p>
+				<p>Students may not get credit for both CSE 123 and ECE 158A or CSE 143 and ECE 165. Credit will be given for only one of the following: ECE 109 or MATH 183 or ECON 120A. </p>
+				<h5 class="program-overview-subhead-4">Cognitive Science</h5>
+				<p>Sensation and Perception 101A, Learning, Memory, and Attention 101B, Language 101C, Distributed Cognition 102A, Cognitive Ethnography 102B, Cognitive Engineering 102C, Neuroanatomy and Physiology 107A, Systems Neuroscience 107B, Cognitive Neuroscience 107C, Programming Methods for Cognitive Science 108D, Neural Network Models of Cognitive I 108E, Advanced Programming Methods for Cognitive Science 108F, Human Computer Interaction 120, Human Computer Interaction Programming 121, Natural and Artificial Symbolic Representational Systems 170, Neural Network Models of Cognition II 181, Representation, Search, and the Web 188. </p>
+				<p>Students may not get credit for both CSE 150 and Advanced Programming Methods for Cognitive Science 108F. </p>
+				<h5 class="program-overview-subhead-4">Mechanical and Aerospace Engineering</h5>
+				<p>All upper-division MAE courses except MAE 140 (ONLY Computer Science majors
+			    may take MAE 140) and 195–199. </p>
+<p>Students may receive elective credit for only one of the following courses: MATH 174, MATH 173, PHYS 105A-B, CENG 100, MAE 107. Students may only get credit for one of the two courses, CSE 167 or MAE 152. </p>
+				<h5 class="program-overview-subhead-4">Economics </h5>
+				<p>Microeconomics 100A-B-C, Game Theory 109, Macroeconomics 110A-B-C, Mathematical Economics 113, Econometrics 120A-B-C, Applied Econometrics 121, Decisions Under Uncertainty 171, Introduction to Operations Research 172A-B, Economic and Business Forecasting 178. </p>
+				<p>Credit will be given for only one of the following: ECE 109 or MATH 183 or ECON 120A. </p>
+				<h5 class="program-overview-subhead-4">Linguistics</h5>
+				<p>Phonetics 110, Phonology I 111, Phonology II 115, Morphology 120, Syntax I 121, Syntax II 125, Semantics 130, Mathematical Analysis of Language 160, Computers and Language 163, Computational Linguistics 165, Principles of Discourse and Dialog 169, Psycholinguistics 170, Language and the Brain 172, and Sociolinguistics 175. </p>
+				<h5 class="program-overview-subhead-4">Engineering</h5>
+				<p>Principles of Team Engineering 100A and Team Engineering Laboratory 100L. Students are eligible to receive eight units of technical elective credit for completing a combination of ENG 100A (two units) and ENG 100L (two units). Students must complete one quarter of ENG 100 for two units, and two quarters of ENG 100L for a total of four units. Students may complete two more ENG 100L courses (four units) to receive one more technical elective. </p>
+<h5 class="program-overview-subhead-4">Music</h5>
+				<p>Computer Music II 172, Audio Production: Mixing and Editing 173. </p>
+				<h5 class="program-overview-subhead-4">Psychology</h5>
+				<p>Introduction to Engineering Psychology 161. </p>
+				<h5><strong>Rady School of Management</strong></h5>
+				<p>Product Marketing and Management 103, Business: Enterprise Creations and Management 110, Innovation to Market A 121A, Organizational Leadership 164, Ethic and Corporate Responsibility 166, Business Project Management 172, and Enterprise Finance 181.</p>
+<h3 class="program-overview-subhead-2">CSE Honors Program</h3>
+                <p>The CSE Honors Program encourages eligible undergraduate students
+                  to perform advanced study in their major. Students in the honors
+                  program work closely with faculty on an undergraduate research
+                  project, typically completed over two quarters. As a result,
+                  the honors program is excellent preparation for further study
+                  in a graduate program. Students who complete the honors program
+                  also have an honors distinction officially bestowed upon them
+                  upon graduation.</p>
+                <p>The CSE Honors Program does not increase the units required for graduation in a CSE major. Students participating in the Honors Program may apply eight units in CSE 199H for the equivalent of two elective courses for their major. Students may also apply unit credit in CSE 199H toward the cluster requirement in the undergraduate program. Please note that CSE 199H does count toward the special studies limit of twelve units.</p>
+<h4>Admission</h4>
+                <p>In accordance with university Honors Program guidelines, to
+                  apply for the CSE Honors Program students must meet the following
+                  prerequisites:</p>
+                <ul>
+                  <li>Junior-level standing in a CSE major</li>
+                  <li>3.5 GPA in CSE major courses, 3.25 GPA overall</li>
+                  <li>Completion of CSE 101, CSE 105, and CSE 110 </li>
+                  <li>Completion of at least twelve units of upper-division CSE
+                    courses at UC San Diego </li>
+                </ul>
+                <p> The honors application form is available on the <a href="http://cse.ucsd.edu" target="_blank">CSE website</a> and from the CSE Student Affairs office. Students should submit the application no later than fall quarter of the senior year; submission during spring quarter of the junior year is strongly encouraged.</p>
+                <p>Admission to the honors program will be formally approved by the CSE honors committee based upon the materials provided in the application.</p>
+             
+       
+        <h4>Completion Requirements</h4>
+                <p>In accordance with university Honors Program guidelines, to
+                  complete the CSE Honors Program students must meet the following
+                  requirements upon graduation:</p>
+                <ul>
+                  <li>3.25 GPA in a CSE major</li>
+                  <li>Eight units of CSE 199H with a GPA of 3.0 (letter grade
+                    of B) or higher</li>
+                  <li>Written honors thesis</li>
+                  <li>Presentation of honors project</li>
+                  <li>Signature from faculty adviser on an honors completion
+                    form</li>
+                  <li>Completion of requirements by the end of the quarter
+                    of graduation</li>
+                </ul>
+                <p>Depending on students’ performance on their honors project,
+                  students are eligible to receive the following honors designations
+                  on their diploma:</p>
+                <ul>
+                  <li>“With distinction”: Complete the eight units of CSE 199H
+                    with a GPA of 3.0 or higher </li>
+                  <li>“With high distinction”: Complete the eight units of CSE
+                    199H with a GPA of 3.5 or higher </li>
+                  <li>“With highest distinction”: Complete the eight units of
+                    CSE 199H with a GPA of 3.8 or higher </li>
+                </ul>
+                <p>Students must write a thesis describing their honors research
+                  project. The thesis must have the content, rigor, and format
+                  of scholarly publications in computer science and engineering.
+                  The faculty adviser must have reviewed and approved the honors
+                  thesis prior to submission by the student.</p>
+                <p>Students must orally present their project as a requirement for the honors program. Options are available on the <a href="http://cse.ucsd.edu" target="_blank">CSE website</a>. The faculty adviser can also provide an alternative presentation opportunity.</p>
+                <h3>Graduation Requirements </h3>
+        <p>All major requirements and upper-division electives except CSE 91, 95, 197, 198, or 199 must be taken for a letter grade. To graduate, a minimum grade point average of 2.0 will be required in upper-division courses in the major, including upper-division electives. In addition to satisfying requirements for the major, students must satisfy the general-education course requirements of their colleges. The six colleges at UC San Diego require widely different general-education courses. Students should choose a college carefully, considering the special nature of the college and breadth of education.</p>
+        <h3 class="program-overview-subhead-2">Minor and Program of Concentration		</h3>
+        <p>The computer science minor is designed to provide basic proficiency in computer science. The requirements focus on programming methodology and skills, computer organization, relevant mathematical skills, structure techniques, laboratory courses with programming projects, and design and analysis of algorithms. Completing these requirements provides a strong foundation in computer science.</p>
+				<h4>Lower-Division and Upper-Division Requirements</h4>
+                <p>The CSE minor requires successful completion of a total of eight CSE courses (thirty-two units) taken for a letter grade.</p>
+                <ol>
+                  <li>Lower-division: Four courses (sixteen units): CSE 8B or CSE 11, CSE 12, CSE 20, and CSE 21</li>
+                  <li>Upper-division: Four courses (sixteen units)</li>
+                  <ul>
+                    <li>CSE 100 (four units)</li>
+                    <li>Electives: Three additional courses (twelve units) chosen from CSE upper-division courses. Note that enrollment in courses is subject to enforcement of prerequisites. For instance, to meet CSE 100 prerequisites, students must complete CSE 12, 15L, CSE 21 (which has a CSE 20 prerequisite), and CSE 5A or CSE 30 or ECE 15 or MAE 9.</li>
+                  </ul>
+                </ol>
+                <h5>Policies and Restrictions</h5>
+                <ul>
+                  <li>All courses taken for the minor must be completed with a letter grade.</li>
+                  <li>Students must achieve at least a 2.0 GPA in the upper-division courses in order for the minor to be awarded.</li>
+                  <li>Students in the Jacobs School of Engineering cannot minor in computer science.</li>
+                  <li>Mathematics/computer science majors will not be allowed the minor in computer science. </li>
+                  <li>Data science      majors may not minor in computer science.</li>
+              
+                  <li>Students are recommended to begin courses for the minor by their sophomore year. </li>
+                  <li>Students should consult their college provost&rsquo;s office concerning the rules for the minor or program of concentration.
+                  </li>
+                </ul>
+                <h4 class="program-overview-subhead-3">UC Education Abroad Program (EAP) and UC San Diego&#8217;s Opportunities Abroad Program (OAP)</h4>
+				<p>CSE majors are encouraged to participate in the UC Education Abroad Program (EAP) or UC San Diego&rsquo;s Opportunities Abroad Program (OAP). Subject to approval by the faculty director of the major, courses taken through EAP/OAP will be accepted for credit toward the major. Students interested in studying abroad should contact a CSE undergraduate program adviser to discuss appropriate courses and programs for their plan of study at the <a href="http://vac.ucsd.edu" target="_blank">Virtual Advising Center</a>. A list of approved transferrable courses can be found on the <a href="http://cse.ucsd.edu" target="_blank">CSE website</a>.</p>
+				<p>Information on EAP/OAP is given in the &ldquo;<a href="EAP.html">Education Abroad Program</a>&rdquo; section of the <em>UC San Diego General Catalog</em>. Interested students should contact the Study Abroad UC San Diego Office at Matthews Quad and visit its website at <a href="http://studyabroad.ucsd.edu/" target="_blank">http://studyabroad.ucsd.edu/</a>. Financial aid can be used for EAP/OAP study, and special study-abroad scholarships are also available. </p>
+                <div>
+                  <div> </div>
+                  <div> </div>
+        </div>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

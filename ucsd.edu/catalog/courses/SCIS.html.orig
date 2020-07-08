@@ -1,0 +1,203 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Science Studies Courses</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopMargin">Science Studies</h1>
+<p><span class="courseFacLink">[ <a href="../curric/SCIS-ug.html">undergraduate
+      program</a> | <a href="../curric/SCIS-gr.html">graduate program </a>| <a href="../courses/SCIS.html"> </a><a href="../faculty/SCIS.html">faculty</a> ]</span></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/Course Name and Disclaimer.lbi" -->
+<h2>Courses</h2>
+<p class="course-disclaimer"><em>For course descriptions not found in the </em>UC
+  San Diego General Catalog 2019&#8211;20<em>, please contact the department
+  for more information.</em></p><!-- #EndLibraryItem --><h2 class="course-subhead-1">Graduate </h2>
+				<p class="course-name">COGR 225A, HIGR 238, PHIL 209A, SOCG 255A. Introduction
+	    to Science Studies (4)</p>
+				<p class="course-descriptions">Study and discussion of classic work in history of science, sociology of science, and philosophy of science, and of work that attempts to develop a unified science studies approach. Required for all students in the Science Studies Program. <strong class="italic">Prerequisites:</strong> enrollment in Science Studies Program.</p>
+				<p class="course-name">COGR 225B, HIGR 239, PHIL 209B, SOCG 255B. Seminar
+	    in Science Studies (4)</p>
+				<p class="course-descriptions">Study and discussion of selected topics in the science studies field. Required for all students in the Science Studies Program. The topic varies from year to year, and students may, therefore, repeat the course for credit. <strong class="italic">Prerequisites:</strong> enrollment in Science Studies Program.</p>
+				<p class="course-name">COGR 225C, HIGR 240, PHIL 209C, SOCG 255C. Colloquium
+	    in Science Studies (4)</p>
+				<p class="course-descriptions">A forum for the presentation and discussion of research in progress in science studies, by graduate students, faculty, and visitors. Required for all students in the Science Studies Program. <strong class="italic">Prerequisites:</strong> enrollment in the Science Studies Program.</p>
+				<p class="course-name">COGR 225D, HIGR 241, PHIL 209D, SOCG 255D. Advanced Approaches to Science Studies (4)</p>
+				<p class="course-descriptions">Contemporary themes and problems in Science Studies. Focus on recent literature in the history, philosophy and sociology of science, technology, and medicine. Required of all students in the Science Studies Program. <strong class="italic">Prerequisites:</strong> completion of COGR 225A, HIGR 238, Phil 209A, or SOCG 255A; enrollment in Science Studies Program; or instructor&#8217;s permission.				</p>
+				<p class="course-name">HIGR 236A-B. Seminar in History of Science (4-4)</p>
+				<p class="course-descriptions">A two-quarter research seminar, comprising intensive study of a specific topic in the history of science. The first quarter will be devoted to readings and discussions; the second chiefly to the writing of individual research papers. The topic varies from year to year, and students may repeat the course for credit. (IP grade to be awarded the first quarter; final grade will be given at the end of the second quarter.) <strong class="italic">Prerequisites:</strong> graduate standing.</p>
+				<p class="course-name">HIGR 242. Topics in the History of Earth and Life
+	    Sciences (4)</p>
+				<p class="course-descriptions">Intensive study of specific problems in the history of the life sciences and earth sciences, ranging in period from the Renaissance to the twenty-first century. May be repeated for credit as topics will vary annually. <strong class="italic">Prerequisites:</strong> graduate standing.</p>
+				<p class="course-name">HISC 160. Historical Approaches to the Study of Science
+	    (4)</p>
+				<p class="course-descriptions">This colloquium course will introduce students to the rich variety of ways in which the scientific enterprise is currently being studied historically. Major recent publications on specific topics in the history of science selected to illustrate this diversity will be discussed and analyzed; the topics will range in period from the seventeenth century to the late twentieth, and will deal with all major branches of natural science. Requirements will vary for undergraduate, MA, and PhD students. Graduate students may be expected to submit a more substantial piece of work. <strong class="italic">Prerequisites:</strong> consent of instructor; department stamp required.</p>
+				<p class="course-name">HISC 161/261. Seminar in Newton and Newtonianism (4)</p>
+		<p class="course-descriptions">This course focuses on the single most important figure of the scientific revolution, Isaac Newton, and on his science and philosophy, which set the frame of reference for physics and general science until the twentieth century. Graduate students are required to submit an additional piece of work. <strong class="italic">Prerequisites:</strong> upper-division or graduate standing and department stamp.</p>
+				<p class="course-name">HISC 163/263. History, Science, and Politics of Climate
+	    Change (4)</p>
+				<p class="course-descriptions">The complex historical development of human understanding of global climate change, including key scientific work, and the cultural dimensions of proof and persuasion. Special emphasis on the differential political acceptance of the scientific evidence in the U.S. and the world. Graduate students are required to submit an additional paper. <strong class="italic">Prerequisites:</strong> upper-division or graduate standing; department stamp required.</p>
+				<p class="course-name">HISC 164/264. Topics in the History of the Physical
+	    Sciences (4)</p>
+				<p class="course-descriptions">Intensive study of specific problems in the physical (including chemical and mathematical) sciences, ranging in period from the Renaissance to the twentieth century. Topics vary from year to year, and students may therefore repeat the course for credit. Requirements will vary for undergraduate, MA, and PhD students. Graduate students may be expected to submit a more substantial piece of work. <strong class="italic">Prerequisites:</strong> consent of instructor; department stamp required.</p>
+				<p class="course-name">HISC 165. Topics in Twentieth-Century Science and
+	    Culture (4)</p>
+				<p class="course-descriptions">This is a seminar open to advanced undergraduate and graduate students that explores topics at the interface of science, technology, and culture, from the late nineteenth century to the present. Topics change yearly; may be repeated for credit with instructor&#8217;s consent. Requirements vary for undergraduates, MA, and PhD students. Graduate students are required to submit a more substantial piece of work. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor; department stamp required.</p>
+				<p class="course-name">HISC 166/266. The Galileo Affair (4)</p>
+				<p class="course-descriptions">Galileo&#8217;s condemnation by the Catholic Church in 1633 is a well-known but misunderstood episode. Was Galileo punished for holding dangerous scientific views? Personal arrogance? Disobedience? Religious transgressions? Readings in original sources, recent historical interpretations. Graduate students will be expected to submit a more substantial piece of work. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+				<p class="course-name">HISC 167/267. Gender and Science (4)</p>
+				<p class="course-descriptions">Why have women been traditionally excluded from science? How has this affected scientific knowledge? How have scientists constructed gendered representations not only of women, but also of science and nature? We will address these questions from perspectives including history, philosophy, and psychoanalytic theory. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+				<p class="course-name">HISC 170/270. Topics in the History of Science and
+	    Technology (4)</p>
+				<p class="course-descriptions">This seminar explores topics at the interface of science, technology, and society, ranging from the seventeenth century to the twentieth. Requirements will vary for undergraduate, MA, and PhD students. Graduate students are required to submit an additional paper. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor; department stamp required.</p>
+				<p class="course-name">HISC 172/272. Building America: Technology, Culture, and the Built Environment in the United States (4)</p>
+				<p class="course-descriptions">The history of the built environment in the United States, from skyscrapers to suburbs, canals and railroads to factories and department stores. The technological history of structures and infrastructures, and the social and cultural values that have been “built into” our material environment. Graduate students are required to submit an additional paper. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor; department stamp required.</p>
+				<p class="course-name">HISC 180/280. Science and Public Policy (4)</p>
+		<p class="course-descriptions">This course will explore the evolution of the institutions, ideologies, procedures, standards, and expertise that modern democratic societies have used in applying science to generate and legitimate public policy. In order to obtain the department stamp, please email the professor for the OK to enroll. Once you have that email, please forward it to <a href="mailto:historyundergrad@ucsd.edu" target="_blank">historyundergrad@ucsd.edu</a> and include your PID number. Graduate students are required to submit an additional paper. <strong class="italic">Prerequisites:</strong> upper-division standing and department stamp required.</p>
+				<p class="course-name">PHIL 204A. Core Course in Philosophy of Science (4)</p>
+				<p class="course-descriptions">An introduction to one or more central problems in the philosophy of science, or in the philosophy of one of the particular sciences, such as the nature of confirmation and explanation, the nature of scientific knowledge, reductionism, the unity of science, or realism and antirealism. May be taken for credit three times with changed content.</p>
+				<p class="course-name">PHIL 245. Philosophy of Science (4)</p>
+				<p class="course-descriptions">This seminar will cover current books and theoretical issues in the philosophy of science. May be taken for credit seven times with changed content.</p>
+				<p class="course-name">PHIL 247. Philosophy of Biology (4)</p>
+				<p class="course-descriptions">Historical and contemporary perspectives on foundational issues about biology. May include questions about the nature of biological explanation, the relation of biology to chemistry and physics, the status of attributions of function, and the relation of biology to the social sciences. May be taken for credit six times with changed content.</p>
+				<p class="course-name">PHIL 250A. Philosophy of the Cognitive Sciences (4)</p>
+				<p class="course-descriptions">Contemporary debates about the study of the mind-brain as studied in one or more of the empirical cognitive sciences. May include questions about the different strategies of explanation invoked, the conceptions of representation employed, the connections between theoretical models developed. May be taken for credit six times with changed content.</p>
+				<p class="course-name">PHIL 280. Philosophy of Science Topics and Methods
+	    (1–2)</p>
+				<p class="course-descriptions">This course meets weekly to discuss recent books or articles in philosophy of science. The reading is designed both for students doing active research in the field and for those seeking to gain some familiarity with it. Can be taken nine times for credit with changed content. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor.</p>
+				<p class="course-name">SOCG 234. Intellectual Foundation of the Study of Science, Technology, and Medicine (4)</p>
+				<p class="course-descriptions">This course focuses on some classic methodological and theoretical resources upon which the sociology of science, technology, and medicine all draw. It gives special attention to relationships between knowledge and social order, and between knowledge and practice, that are common to science, technology, and medicine. <strong class="italic">Prerequisites:</strong> graduate standing.</p>
+				<p class="course-name">SOCG 247. Madness and Society (4)</p>
+				<p class="course-descriptions">An examination of the changing Western responses from the age of Bedlam to the age of Prozac. Topics include: the rise and decline of the total institution; the emergence of psychiatry; changing cultural meanings of madness; and the therapeutics of mental disorder. <strong class="italic">Prerequisites:</strong> graduate standing.</p>
+				<p class="course-name">SOCG 249. Technology and the Human (4)</p>
+				<p class="course-descriptions">This course explores the ethical and political implications of technological interventions into human life. Approaches from science studies, the sociology of the body, and philosophy. Topics include transformations in domains of life such as work, health, childhood, and death. <strong class="italic">Prerequisites:</strong> graduate standing.</p>
+				<p class="course-name">SOCG 284. Contemporary Biomedicine (4)</p>
+				<p class="course-descriptions">Develops central themes in medical sociology in order to understand twentieth- and twenty-first-century medical practice and research. Topics include authority and expertise; health inequalities; managed care; health activism; biomedical knowledge production; and the construction of medical objects and subjects. <strong class="italic">Prerequisites:</strong> graduate standing.</p>
+				<p class="course-name">SOCG 288. Knowledge Capitalism (4)</p>
+				<p class="course-descriptions">This seminar examines the place of scientific
+				  knowledge and information and communication technology in the transformation
+				  of capitalist economy and society. The class explores new interactions
+				  between science studies and the social theory of advanced capitalism. <span class="italic"><b>Prerequisites:</b></span>
+				  graduate standing.</p>
+				
+<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

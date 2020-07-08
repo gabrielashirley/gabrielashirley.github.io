@@ -1,0 +1,838 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Visual Arts</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Visual Arts </h1>
+<p class="sectionNav"><span class="courseFacLink">[ <a href="../curric/VIS-ug.html"> </a><a href="../curric/VIS-gr.html">graduate
+      program</a> | <a href="../courses/VIS.html">courses</a> | <a href="../faculty/VIS.html">faculty</a> ]</span></p>
+<p class="program-contact-info">Mandeville Center for the Arts, Room 216<br />
+    <a href="http://visarts.ucsd.edu" target="_blank">http://visarts.ucsd.edu</a></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><p>The Visual Arts Department offers courses in painting, drawing, sculpture, performance, computing in the arts, film, video, photography, and art history/criticism (including that of film and video). A bachelor&rsquo;s degree from this department provides students with a solid liberal arts background and is preparatory training for careers as artists, art historians, filmmakers, video artists, photographers, digital media artists, art critics, and for graduate study in art history and fine arts. It also provides students the initial skills required for teaching and work in museums, television, and the commercial film, photography, and Internet industries. </p>
+    <p>The faculty of the Visual Arts Department is composed of actively producing artists and scholars, engaged in research and study concerned with the reconsideration and reevaluation of artistic productions, their information structure, and significance. Consequently, a flexible program of introductory courses has been devised to provide students opportunities to learn about the contexts and practices of significantly different aesthetic and communication structures. A studio course, covering time-based work, as well as drawing, painting, and sculpture, is presented to bring the student into direct contact with the real contingencies compelling redistribution of aesthetic attitudes and reinterpretation of genres. Because of the exploratory nature of our program, the department also emphasizes new media and interdisciplinary practices that would traditionally be considered to have scant relation to the visual arts. These include courses on speculative design, social practice, computing, performance, and theory. In addition to art practice, our curriculum in art history looks at the global context for contemporary art with courses on Chinese; Latin American, including Pre-Columbian; Native American; and Oceanic art, as well as European art from antiquity to the present. </p>
+    <p>The administrative offices and undergraduate program of the Visual Arts Department, as well as the offices of the doctoral students in art history, are located in the Mandeville Center for the Arts. Faculty offices and graduate student studios are housed in the Visual Arts Facility sited in Sixth College, and there are additional facilities for visual arts students in the Structural and Materials Engineering Building, including EnVision—the arts and engineering maker studio. Facilities and equipment are available to undergraduates in both the Mandeville Center and at the campuswide Media Center, providing the opportunity to study painting, drawing, photography, computing in the arts, 16mm film, performance, sculpture, and video. Facilities at the Media Center include portable video recording equipment, video and audio editing suites, nonlinear editing, and production studios. Additional film equipment available includes an animation stand, optical printer, two sound-mixing studios, and numerous film editing suites. Courses in computing in the arts take place in labs located at the Visual Arts Facility and the Mandeville Center.</p>
+    <p>The department also provides students with the opportunity to view, curate, and exhibit art in campus galleries. The University Art Gallery in Mandeville and the Visual Arts Gallery in SME brings to campus new, cutting-edge art by emerging and established artists, and also houses a curated exhibition of art by graduating undergraduate majors in the spring. The Mandeville Adam D. Kamil Gallery, located on the lower level, is directed by visual arts undergraduate students. A gallery and performance space, located in the Visual Arts Facility, are directed by graduate students. </p>
+<p class="anchor-parent"><a class="anchor" id="ugrad"></a></p><h2 class="program-overview-subhead-1">The Undergraduate Program </h2>
+				<h3 class="program-overview-subhead-2">College Requirements </h3>
+				<p>The Department of Visual Arts teaches courses applicable toward general-education requirements for each college. Optional minors may be taken within any college. </p>
+<h3 class="program-overview-subhead-2">Minor in Visual Arts </h3>
+				<p>The Department of Visual Arts offers minors in seven areas of study: studio painting/drawing/ sculpture, photography, speculative design, art history, history and criticism of film and video, digital video and film production, and ICAM. A minor consists of seven or eight specific courses, of which at least five must be upper division. No more than two upper-division courses may be taken outside of UC San Diego. Because the requirements differ for each minor, prospective visual arts minors should consult with the departmental adviser for a complete list of appropriate classes acceptable for the minor. </p>
+<p>Students are advised to begin their program in the second year; otherwise, they cannot be guaranteed enough time to complete the classes required for a minor. </p>
+<h4>Art History Minor (VA26)</h4>
+<h5>Required Courses</h5>
+<p class="course-list-overview">VIS 20. Introduction
+  to Art History</p>
+<p class="clear">Choose one from:</p>
+<p class="course-list-overview">VIS 21A. Introduction
+  to Art of the Americans or Africa and Oceania</p>
+<p class="course-list-overview"> VIS 21B. Introduction
+  to Asian Art</p>
+<p class="course-list-overview">VIS 22. Formations of Modern Art</p>
+<p class="clear">Choose one course from three of the five Distribution areas A–E: </p>
+<ol class="upper-alpha">
+  <li>European Pre-Modern: VIS 120A-B-C, 121AN, 121B, 128A</li>
+  <li>European Early Modern: VIS 122AN, 122CN, 122D, 132AN, 128B</li>
+  <li>Modern and Contemporary: VIS 124BN, 124CN, 125A, 125BN, 125F, 128C, 152D, 158, 159</li>
+  <li>Arts of the Americas: VIS 126AN, 126BN, 126HN, 126I-J-K, 126P, 126Q, 128D, 156</li>
+  <li>Arts of Asia: VIS 127A-B-C, 127N, 127P, 128E</li>
+</ol>
+
+<p>Choose two additional art history courses from any area A–E.</p>
+<h4>Studio Minor (VA28)<br>
+  </h4>
+<h5>Lower Division</h5>
+<p><strong>Required:                                                                                         </strong></p>
+<p class="course-list-overview">VIS 11. Introduction to Visual Arts</p>
+<p class="course-list-overview">VIS 22. Formations of Modern Art                         <strong>                  </strong></p>
+<p><span class="course-list-overview">VIS 80. Introduction to the Studio Major        </span>                      </p>
+<h5>Upper Division</h5>
+<p>Choose five upper-division studio courses: 105A–107CN:</p>
+<h4 class="course-list-overview">ICAM: Interdisciplinary Computing and the Arts Minor (VA29)</h4>
+<h5>Lower Division
+</h5>
+<p><strong>Required:</strong></p>
+<p class="course-list-overview">VIS 10. Computing Arts Lecture Series</p>
+<p class="course-list-overview">VIS 41. Design Communication</p>
+<p class="clear">Choose one from:</p>
+<p class="course-list-overview">VIS 1. Introduction to Art Making: Two-Dimensional Practices</p>
+<p class="course-list-overview">VIS 2. Introduction to Art Making: Motion and Time-Based Art</p>
+<p class="course-list-overview">VIS 3. Introduction to Art Making: Three-Dimensional Practices</p>
+<p class="course-list-overview">MUS 4. Introduction to Western Music</p>
+<h5>Upper Division</h5>
+<p><strong>Required:</strong></p>
+<p class="course-list-overview">VIS 159. History of Art and Technology</p>
+<p class="clear">Choose two from:</p>
+<p class="course-list-overview">VIS 142. Practices in Computing Arts</p>
+<p class="course-list-overview">VIS 145A. Digital Media I: Time, Movement, and Sound</p>
+<p class="course-list-overview">MUS 171. Computer Music I</p>
+<p class="clear">Choose two from:</p>
+<p class="course-list-overview">VIS 143. Virtual Environments</p>
+<p class="course-list-overview">VIS 149. Seminar in Contemporary Computer Topics</p>
+<p class="course-list-overview">MUS 170. Musical Acoustics</p>
+<p class="course-list-overview">MUS 172. Computer Music II</p>
+<p class="course-list-overview">MUS 176. Music Technology Seminar</p>
+<p class="course-list-overview">VIS 132. Installation Production and Studio</p>
+<p class="course-list-overview">VIS 141A. Computer Programming for the Arts I</p>
+<p class="course-list-overview">VIS 141B. Computer Programming for the Arts II</p>
+<p class="course-list-overview">VIS 145B. Digital Media II</p>
+<p class="course-list-overview">VIS 147A. Electronic Technologies for Art I</p>
+<p class="course-list-overview">VIS 147B. Electronic Technologies for Art II</p>
+<h4>Speculative Design Minor (VA30)</h4>
+<h5>Required Courses</h5>
+<p class="course-list-overview">VIS 30. Introduction to Speculative Design</p>
+<p class="course-list-overview">VIS 41. Design Communication</p>
+<p class="clear">Choose one from:</p>
+<p class="course-list-overview">VIS 1. Introduction to Art Making: Two-Dimensional Practices</p>
+<p class="course-list-overview">VIS 2. Introduction to Art Making: Motion and Time-Based Art</p>
+<p class="course-list-overview">VIS 3. Introduction to Art Making: Three-Dimensional Practices</p>
+<h6 class="clear">Upper Division</h6>
+<p class="clear">Choose two from:</p>
+<p class="course-list-overview">VIS 100. Introduction to Public Culture</p>
+<p class="course-list-overview">VIS 142. Practices in Computing Arts </p>
+<p class="course-list-overview">VIS 159. History of Art and Technology</p>
+<p class="clear">Choose two from:</p>
+<p class="course-list-overview">VIS 100A. Design of Public Culture</p>
+<p class="course-list-overview">VIS 101. Introduction to Urban Ecologies</p>
+<p class="course-list-overview">VIS 101A. Design of Urban Ecologies</p>
+<p class="course-list-overview">VIS 102. Cross-Border Urbanizations</p>
+<p class="course-list-overview">VIS 109*. Advanced Projects in Media</p>
+<p class="course-list-overview">VIS 130. Special Projects in Visual Arts        </p>
+<p class="course-list-overview">VIS 141A*. Introduction to Computer Programming in the Arts</p>
+<p class="course-list-overview">VIS 141B*. Advanced Computer Programming in the Arts </p>
+<p class="course-list-overview">VIS 145A*. Time- and Process-Based Digital Media I</p>
+<p class="course-list-overview">VIS 145B*. Time- and Process-Based Digital Media II</p>
+<p class="course-list-overview">VIS 147A. Electronic Technologies for Art I</p>
+<p class="course-list-overview">VIS 147B. Electronic Technologies for Art II</p>
+
+<p class="course-list-overview">VIS 149. Contemporary Computing Topics </p>
+<p class="course-list-overview">VIS 161. Systems and Networks at Scale</p>
+<p class="course-list-overview">VIS 162. Speculative Science and Design Invention</p>
+<p class="course-list-overview">VIS 163. Systems and Synthesis: Topics in Design Research and Criticism </p>
+<p class="course-list-overview">VIS 174*. Media Sketchbook                       </p>
+<p class="course-list-overview">TDDE 141. Theater Process (Sound Design)</p>
+<p class="course-list-overview">TDDE 142. Advanced Sound Design</p>
+<p class="course-list-overview">TDGE 126. Storytelling and Design in Animation</p>
+<h4> Photography Minor (MO54)</h4>
+<h5>Required courses</h5>
+<p class="course-list-overview">VIS 11. Introduction to Visual Arts </p>
+<p class="course-list-overview">VIS 22.                                    Formations
+ of Modern Art</p>
+<p class="course-list-overview"> VIS 60.                                    Introduction
+ to Digital Photography</p>
+<p class="course-list-overview"> VIS 158.                        Histories
+ of Photography</p>
+<p class="course-list-overview">VIS 159.            History
+  of Art and Technology</p>
+<p class="course-list-overview"> VIS 164.                        Photographic
+ Strategies</p>
+<p class="course-list-overview"> VIS 165.                        Camera
+ Techniques</p>
+<p>Choose one from:</p>
+<p class="course-list-overview">VIS 151, 152, 152D, 153, 154, 155, 156, 194S </p>
+<h4>Digital Video and Film Production Minor (MO71)</h4>
+<h5>Lower Division<br>
+</h5>
+<p><strong>Required:</strong><strong> </strong></p>
+<p class="course-list-overview">VIS 11. Introduction to Visual Arts</p>
+<p class="course-list-overview">VIS 70N. Introduction to Media</p>
+<p class="course-list-overview">VIS 84. History of Film</p>
+<h6><strong>Upper Division </strong></h6>
+<p><strong>Required:</strong><strong> </strong></p>
+<p class="course-list-overview">VIS 174. Media Sketchbook</p>
+<p class="clear">Choose two upper-division courses in digital video and film production listed below:</p>
+<p class="course-list-overview">VIS 171. Digital Cinema: Theory and Production</p>
+<p class="course-list-overview">VIS 175. Editing: Theory and Production</p>
+<p class="course-list-overview">VIS 176. 16 mm Filmmaking</p>
+<p class="course-list-overview">VIS 177. Scripting Strategies</p>
+<p class="course-list-overview">VIS 178. Sound: Theory and Production</p>
+<p class="clear">Choose two upper-division courses in the history and/or criticism of film and video: VIS 151, 152, 152D, 153, 154, 155, 156, 159, 194S</p>
+<h4>History and Criticism of Film and Video (MO72)</h4>
+<h5>Required courses</h5>
+<p class="course-list-overview">VIS 11. Introduction to Visual Arts</p>
+<p class="course-list-overview">VIS 84. History of Film</p>
+<p class="clear">Choose five upper-division courses in the history and/or criticism of
+  film and video: VIS 151, 152, 152D, 153, 154, 155, 156, 159, 194S</p>
+<h3 class="program-overview-subhead-2">Education Abroad Program </h3>
+				<p>Students are often able to participate in the UC Education Abroad Program (EAP) and UC San Diego’s Opportunities Abroad Program (OAP) while still making progress toward completing their major. Financial aid is applicable to study abroad and special study abroad scholarships are readily available. Students considering this option should discuss their plans with an Education Abroad adviser before going abroad, and courses taken abroad must be approved upon return by the departmental faculty adviser. More information on EAP/OAP is detailed in the <a href="EAP.html">Education Abroad Program</a> section of the <em>UC San Diego General Catalog</em> or on the website <a href="http://studyabroad.ucsd.edu/" target="_blank">http://studyabroad.ucsd.edu/</a>. Interested students should contact the Study Abroad UC San Diego office in the Matthews Quad Building. </p>
+<h3 class="program-overview-subhead-2">Residency Requirements </h3>
+				<p>A minimum of two-thirds of the course work completed for the major must be taken at UC San Diego. Students who transfer to UC San Diego in their second or third year may petition to substitute courses taken at other colleges and universities for major requirements.				</p>
+				<h3 class="program-overview-subhead-2">Honors Programs </h3>
+				<p>The department offers honors programs in art history, in media, and in studio for outstanding students. </p>
+				<p>The <strong class="myriad-pro-semibold">art history</strong> honors program will provide outstanding students with preprofessional experience. It consists of an issue-oriented seminar followed by a directed group study and will result in an exhibition with catalogue, a scholarly conference with a mock publication and/or series of research papers. Students who meet the criteria may, with permission of the art history faculty adviser or the art history honors seminar instructor, enroll in the art history honors program during the last quarter of their junior year or as a senior. This program is open to juniors and seniors who meet eligibility requirements: minimum major GPA of 3.5 (3.3 overall), completion of all lower-division art history requirements, completion of all upper-division art history distribution requirements, and completion of Art Historical Methods (VIS 112) and at least one additional art history seminar. The level of distinction will be determined by the faculty committee on the basis of work in the honors seminar and on the research project. </p>
+				<p>The<strong class="myriad-pro-semibold"> media</strong> honors program will help students develop high-quality professional portfolios. The honors thesis project is a sequence of individual studies that runs the length of an academic year to provide sufficient time for ideas to develop and critically aware work to be produced. Students may arrange to work with different faculty advisers each term or may engage a single adviser for the year. To be eligible for the honors thesis sequence, students must have at least a 3.5 GPA in the major and have approval of all the advisers with whom they will work. Qualified students may begin their sequence the last quarter of their junior year or during their senior year. At the end of the third quarter, all involved media faculty will meet to critique the overall quality of the final thesis work to determine level of distinction. </p>
+				<p>Through exhibition, verbal and written presentations and course work, the <strong>studio </strong>honors program is intended to give the student as strong a technical, critical, and theoretical base as possible. The program is open to juniors and seniors with a minimum 3.5 GPA in the major (3.0 overall), who have completed all lower-division studio requirements and the majority of upper-division requirements. </p>
+				<p>Students interested in participating in an honors program should consult
+				  with the departmental adviser. </p>
+				<h3 class="program-overview-subhead-2">Double Major within the Department </h3>
+				<p>There are four double majors within the Department of Visual Arts: art
+				  history/theory/criticism paired with either studio, speculative design, media, or ICAM. Students
+				  interested in a double major within the department must have at least ten
+				  upper-division courses that are unique to each departmental major and the
+				  remaining courses may overlap with other major requirements. Students should
+			    consult with the departmental adviser for additional information. </p>
+<h3 class="program-overview-subhead-2">Major Requirements </h3>
+				<p>Twenty courses are required in speculative design, media, and ICAM and eighteen courses in art history and studio for the attainment of the bachelor of arts. A minimum of twelve of these courses must be upper-division, however, some majors may require more upper-division courses. </p>
+				<p>All courses taken to satisfy major requirements must be taken for a letter grade, and only grades of C– or better will be accepted in the visual arts major. </p>
+				<h3 class="program-overview-subhead-2">Studio Major </h3>
+				<p>The studio major is aimed at producing a theoretically based, highly productive group of artists. Lower-division courses are structured to expose students to a variety of ideas in and about the visual arts. Introductory skills are taught, but their development will occur at the upper-division level in conjunction with the student&#8217;s increasing awareness of the range of theoretical possibilities in the field. The curriculum includes courses in drawing, painting, sculpture, performance, photography, digital imaging and electronics, and many offerings in art history/criticism. </p>
+				<h4 class="program-overview-subhead-3"> Lower Division </h4>
+				<h5 class="program-overview-subhead-4">Foundation Level </h5>
+				<p>Five courses required. </p>
+				<p class="course-list-overview">VIS 11. Introduction to Visual Arts</p>
+		<p class="course-list-overview">VIS 22. Formations of Modern Art</p>
+		<p class="course-list-overview">VIS 80. Introduction to the Studio Major</p>
+		<p class="clear">Choose two art making courses:</p>
+		<p class="course-list-overview">VIS 1. Introduction to Art Making: Two-Dimensional Practices</p>
+		<p class="course-list-overview">VIS 2. Introduction to Art Making: Motion and Time-Based Art</p>
+		<p class="course-list-overview">VIS 3. Introduction to Art Making: Three-Dimensional Practices</p>
+		<p class="course-list-overview">VIS 41. Design Communication</p>
+				<p class="course-list-overview">VIS 60. Introduction to Digital Photography</p>
+		<p class="course-list-overview">VIS 70N. Introduction to Media</p>
+        <p class="clear">Choose one history course:</p>
+        <p class="course-list-overview">VIS 20. Introduction to Art History</p>
+        <p class="course-list-overview">VIS 21A. Introduction to the Art of the Americas</p>
+                <p class="course-list-overview">VIS 21B. Introduction to Asian Art </p>
+                <p class="course-list-overview">VIS 84. History of Film				</p>
+                <h4 class="program-overview-subhead-3">Upper Division </h4>
+				<h5 class="program-overview-subhead-4">Intermediate Level </h5>
+				<p>Six courses required.		</p>
+		<p class="clear">Choose three Group A courses:</p>
+		<p class="course-list-overview">VIS 105A. Drawing: Representing the Subject</p>
+		<p class="course-list-overview">VIS 105D. Aesthetics of Chinese Calligraphy</p>
+				<p class="course-list-overview">VIS 106A. Painting: Image Making</p>
+		<p class="course-list-overview">VIS 107A. Sculpture: Making the Object </p>
+		<p class="clear">Choose two Group B courses:</p>
+		<p class="course-list-overview">VIS 105B. Drawing: Practices and Genre </p>
+				<p class="course-list-overview">VIS 105E. Chinese Calligraphy as Installation</p>
+<p class="course-list-overview">VIS 106B. Painting: Practices and Genre</p>
+		<p class="course-list-overview">VIS 107B. Sculpture: Practices and Genre</p>
+		<p class="clear">Choose one interdisciplinary course:</p>
+		<p class="course-list-overview">VIS 100. Introduction to Public Culture</p>
+		<p class="course-list-overview">VIS 102. Cross-Border Urbanization</p>
+		<p class="course-list-overview">VIS 142. Practices in Computing Arts</p>
+		<p class="course-list-overview">VIS 143. Virtual Environments</p>
+<p class="course-list-overview">VIS 145A. Time- and Process-Based Digital Media</p>
+		<p class="course-list-overview">VIS 147A. Electronic Technologies for Art I</p>
+		<p class="course-list-overview">VIS 164. Photographic Strategies</p>
+		<p class="course-list-overview">VIS 165. Camera Techniques: Analog Futures		</p>
+		<h5>History and Theory </h5>
+		<p>Three courses required.</p>
+		<p>Choose three from:</p>
+				<p>Any upper-division art history course: VIS 120–129</p>
+		<p>Any upper-division media history course: VIS 151–159, 194S</p>
+				<h5>Advanced Level </h5>
+				<p>Three courses required.</p>
+		<p>Choose one art making course:</p>
+		<p class="course-list-overview">VIS 105C. Drawing: Portfolio Projects</p>
+		<p class="course-list-overview">VIS 106C. Painting: Portfolio Projects</p>
+				<p class="course-list-overview">VIS 107C. Sculpture: Portfolio Projects</p>
+                <p class="clear">Choose two interdisciplinary courses:</p>
+                <p class="course-list-overview">VIS 108. Advanced Projects in Art</p>
+                <p class="course-list-overview">VIS 109. Advanced Projects in Media</p>
+                <p class="course-list-overview">VIS 110A-J. Advanced: Various Topics</p>
+                <p class="course-list-overview">VIS 110M-N. Studio Honors</p>
+                <p class="course-list-overview">VIS 130. Special Projects in Visual Arts</p>
+                <p class="course-list-overview">VIS 131. Special Projects in Media</p>
+                <p class="course-list-overview">VIS 132. Installation Production and Studio</p>
+                <p class="course-list-overview">VIS 145B. Time- and Process-Based Digital Media</p>
+                <p class="course-list-overview">VIS 147B. Electronic Technologies for Art II</p>
+                <p class="course-list-overview">VIS 148. Visualizing Art Practice</p>
+                <p class="course-list-overview">VIS 149. Seminar in Contemporary Computer Topics</p>
+                <p class="course-list-overview">VIS 167. Social Engagement and Photography</p>
+                <p class="course-list-overview">VIS 168. Pictorialism and Constructed Reality</p>
+                <p class="course-list-overview">VIS 185. Senior Media Projects</p>
+                <p class="course-list-overview">VIS 198. Directed Group Study</p>
+                <p class="course-list-overview">VIS 199. Special Studies in Visual Arts                </p>
+                <p><strong>Note: </strong>The studio honors sequence, VIS 110M-N, counts as one course toward the fulfillment of an advanced level requirement. </p>
+                <h3 class="program-overview-subhead-2">Art History/Theory/Criticism Major </h3>
+				<p>The major in art history, theory, and criticism is designed both for students who desire a broadly based education in the humanities and for those who plan to pursue a career in an art-related profession. In both cases, the foundation for study is proficiency in the languages of artistic expression. Through the study of art history, students learn to treat works of art as manifestations of human belief, thought, and experience in Western and non-Western societies from prehistory to the present day. Courses in criticism review the theoretical approaches that are used to understand artistic achievement. By combining art historical and critical study, the program promotes in the student an awareness of the cultural traditions that have shaped his or her intellectual outlook and provides a framework for informed judgment on the crucial issues of meaning and expression in contemporary society. </p>
+				<p>Majors are encouraged to take relevant courses in allied disciplines such as history, communication, anthropology, and literature, and in such area programs as classics and Italian studies. In addition, students who plan to apply to graduate schools are strongly advised to develop proficiency in one or more foreign languages, as is dictated by their area of specialization. </p>
+				<h4>Lower Division</h4>
+                <h5>Foundation Level </h5>
+                <p>Six courses required.<strong><u></u></strong></p>
+                <p class="course-list-overview">VIS 11. Introduction to Visual Arts</p>
+                <p class="course-list-overview">VIS 22. Formations of Modern Art</p>
+                <p class="course-list-overview">VIS 23*. Information Technologies in Art History</p>
+                <p class="clear">Choose two history courses:</p>
+                <p class="course-list-overview">VIS 20. Introduction to Art History</p>
+                <p class="course-list-overview">VIS 21A. Introduction to the Art of the Americas of Africa and Oceania</p>
+                <p class="course-list-overview">VIS 21B. Introduction to Asian Art</p>
+                <p class="course-list-overview">VIS 84. History of Film</p>
+                <p class="clear">Choose one art making course:</p>
+                <p class="course-list-overview">VIS 1. Introduction to Art Making</p>
+                <p class="course-list-overview">VIS 2. Introduction to Art Making</p>
+                <p class="course-list-overview">VIS 3. Introduction to Art Making</p>
+                <p class="course-list-overview">VIS 41. Design Communication</p>
+                <p class="course-list-overview">VIS 60. Introduction to Digital Photography </p>
+                <p class="course-list-overview">VIS 70N. Introduction to Media</p>
+                <p class="course-list-overview">VIS 80. Introduction to the Studio Major                </p>
+        <h5>Upper Division<strong><u> </u></strong></h5>
+        <h5>Intermediate Level  </h5>
+        <p>Seven courses required.<u></u></p>
+        <p class="course-list-overview">VIS 112*. Art Historical Methods</p>
+                <p class="clear">Choose six courses, at least one from each area, A-E:</p>
+                <h6>A. European Pre-Modern: Ancient and Medieval </h6>
+                <ul>
+                  <li>VIS 120A. Greek Art</li>
+                  <li>VIS 120B. Roman Art</li>
+                  <li>VIS 120C. Late Antique Art</li>
+                  <li>VIS 121AN. Art and Experience in the Middle Ages</li>
+                  <li>VIS 121B. Church and Mosque</li>
+                  <li>VIS 128A. Topics in Pre-Modern Art History</li>
+                </ul>
+                <h6>B. European Early Modern: Renaissance and Baroque </h6>
+                <ul>
+                  <li>VIS 122AN. Renaissance Art</li>
+                  <li>VIS 122CN. Leonardo da Vinci in Context</li>
+                  <li>VIS 122D. Michelangelo</li>
+                  <li>VIS 124BN. Art and the Enlightenment</li>
+                  <li>VIS 128B. Topics in Early Modern Art History</li>
+                </ul>
+                <h6>C. Modern and Contemporary</h6>
+                <ul>
+                  <li>VIS 124CN. Nineteenth-Century Art</li>
+                  <li>VIS 125A. Twentieth-Century Art</li>
+                  <li>VIS 125BN. Contemporary Art</li>
+                  <li>VIS 125F. Latin American Film</li>
+                  <li>VIS 128C. Topics in Modern Art History</li>
+                  <li>VIS 151. History of the Experimental Film</li>
+                  <li>VIS 152. Film in Social Context</li>
+                  <li>VIS 152D. Identity through Transnational Cinema</li>
+                  <li>VIS 153. Genre Series</li>
+                  <li>VIS 154. Hard Look at the Movies</li>
+                  <li>VIS 155. The Director Series</li>
+                  <li>VIS 156. Latino American Cinema</li>
+                  <li>VIS 158. Histories of Photography</li>
+                  <li>VIS 159. History of Art and Technology </li>
+                </ul>
+                <h6>D. Arts of the Americas</h6>
+        <ul>
+                  <li>VIS 126AN. Pre-Columbian Art of Ancient Mexico </li>
+                  <li>VIS 126BN. The Art and Civilization of the Ancient Maya                 </li>
+                  <li>VIS 126HN. Pacific Coast American Indian Art</li>
+                  <li>VIS 126I. Southwest American Indian Art</li>
+                  <li>VIS 126J. African and Afro-American Art</li>
+                  <li>VIS 126K. Oceanic Art</li>
+                  <li>VIS 126P. Latin American Art (1890–1950)</li>
+                  <li>VIS 126Q. Latin American Art (1950–Present)</li>
+                  <li>VIS 128D. Topics in Art History of the Americas</li>
+        </ul>
+        <h6>E. Arts of Asia</h6>
+        <ul>
+          <li>VIS 127A. Contemporary Arts in South Korea</li>
+          <li>VIS 127B. Arts of China</li>
+          <li>VIS 127C. Arts of Modern China</li>
+          <li>VIS 127N. Twentieth-Century Art in China and Japan</li>
+          <li>VIS 127P. Arts of Japan</li>
+          <li>VIS 128E. Topics in Art History of Asia</li>
+        </ul>
+        <p>You may fulfill the sixth course requirement with one additional course from above (A-E) or with one from the following:</p>
+        <p class="course-list-overview">VIS 100. Introduction to Public Culture</p>
+        <p class="course-list-overview">VIS 102. Cross-Border Urbanization</p>
+        <p class="course-list-overview">VIS 105A. Drawing: Representing the Subject</p>
+        <p class="course-list-overview">VIS 105D. The Aesthetics of Chinese Calligraphy</p>
+        <p class="course-list-overview">VIS 106A. Painting: Image Making</p>
+        <p class="course-list-overview">VIS 107A. Sculpture: Making the Object</p>
+        <p class="course-list-overview">VIS 142. Practices in Computing Arts</p>
+        <p class="course-list-overview">VIS 143. Virtual Environments</p>
+<p class="course-list-overview">VIS 145A. Time- and Process-Based Digital Media I</p>
+        <p class="course-list-overview">VIS 147A. Electronic Technologies for Art I</p>
+        <p class="course-list-overview">VIS 164. Photographic Strategies</p>
+        <p class="course-list-overview">VIS 165. Camera Techniques: Analog Futures        </p>
+        <h5>Advanced Level  </h5>
+        <p>Five courses required.<u></u></p>
+        <p>Choose one theory course:</p>
+        <p class="course-list-overview">VIS 113AN*. History of Criticism I</p>
+        <p class="course-list-overview">VIS 113BN*. History of Criticism II</p>
+        <p class="course-list-overview">VIS 113CN*. History of Criticism III</p>
+        <p class="course-list-overview">VIS 114A*. Landscape and Memory</p>
+        <p class="course-list-overview">VIS 114B*. The Fragment: Uses and Theories</p>
+        <p class="course-list-overview">VIS 117E*. Problems in Ethnoaesthetics</p>
+        <p class="course-list-overview">VIS 117F*. Theorizing the Americas</p>
+        <p class="course-list-overview">VIS 117G*. Visual Theory and Practice since 1980</p>
+                <p class="course-list-overview">VIS 117I*. Western and Non-Western Rituals and Ceremonies</p>
+                <p class="course-list-overview">VIS 129F*. Seminar in Art Theory and Criticism</p>
+                <p class="clear">Choose three seminar courses:</p>
+                <p class="course-list-overview">VIS 122F*. Leonardo&rsquo;s La Gioconda</p>
+                <p class="course-list-overview">VIS 1125DN*. Marcel Duchamp</p>
+                <p class="course-list-overview">VIS 126C*. Problems in Mesoamerican Art History</p>
+                <p class="course-list-overview">VIS 126D*. Problems in Ancient Maya Iconography</p>
+                <p class="course-list-overview">VIS 127D*. Early Chinese Painting</p>
+                <p class="course-list-overview">VIS 127E*. Later Chinese Painting</p>
+                <p class="course-list-overview">VIS 127F*. Japanese Buddhist Art</p>
+                <p class="course-list-overview">VIS 127G*. Twentieth-Century Chinese Art</p>
+                <p class="course-list-overview">VIS 127Q*. Japanese Painting and Prints</p>
+                <p class="course-list-overview">VIS 129A*. Seminar in Pre-Modern Art History</p>
+                <p class="course-list-overview">VIS 129B*. Seminar in Early Modern Art History</p>
+                <p class="course-list-overview">VIS 129C*. Seminar in Modern Art History</p>
+                <p class="course-list-overview">VIS 129D*. Seminar in Art History of the Americas</p>
+                <p class="course-list-overview">VIS 129E*. Seminar in Art History of Asia</p>
+                <p><strong>Note: </strong>Students may also select any course from the theory course list to count toward the seminar requirement. Course will count as ONE theory or seminar course, but not both.</p>
+                <p>Choose one elective course:</p>
+                <ul>
+                  <li>Any intermediate art history course</li>
+                  <li>Any advanced art history course</li>
+                  <li>Art History Honors (VIS 129G and VIS 129H)</li>
+                  <li>VIS 199 or AIP 197</li>
+                </ul>
+                <p>The completion of both VIS 129G and 129H count as one course toward fulfillment of the advanced level elective.				</p>
+                <p>In accordance with standard university policy, the department requires that students take two-thirds of the upper-division courses in their major at UC San Diego. The distribution requirement must be fulfilled with courses taken at UC San Diego. Courses taken abroad or at other US institutions do not count toward, and will not be substituted for, the six-course distribution requirement.				</p>
+                <h3 class="program-overview-subhead-2">Media Major </h3>
+				<p>With a visual arts foundation, the program is designed for students who want to become creative videomakers, filmmakers, photographers, and computer artists, encouraging the hybridity of media. The curriculum combines hands-on experience of making with practical and theoretical criticism, provides historical, social, and aesthetic backgrounds for the understanding of modern media, and emphasizes creativity, versatility, and intelligence over technical specializations. It should allow students to go on to more specialized graduate programs in the media arts, to seek careers in film, television, computing, or photography, or to develop as independent artists. All media majors should see the visual arts undergraduate adviser upon entrance into UC San Diego. </p>
+				<h4>Lower Division</h4>
+                <h5>Foundation Level</h5>
+                <p>Seven courses required.<strong><u></u></strong></p>
+                <p class="course-list-overview">VIS 11. Introduction to Visual Arts</p>
+                <p class="course-list-overview">VIS 22. Formations of Modern Art</p>
+                <p class="course-list-overview">VIS 70N. Introduction to Media </p>
+        <p class="course-list-overview">VIS 84. History of Film</p>
+        <p class="clear">Choose two art making courses:</p>
+        <p class="course-list-overview">VIS 1. Introduction to Art Making</p>
+        <p class="course-list-overview">VIS 2. Introduction to Art Making</p>
+        <p class="course-list-overview">VIS 3. Introduction to Art Making</p>
+        <p class="course-list-overview">VIS 41. Design Communication</p>
+                <p class="course-list-overview">VIS 60. Introduction to Digital Photography</p>
+        <p class="course-list-overview">VIS 80. Introduction to the Studio Major</p>
+        <p class="clear">Choose one history course:</p>
+                <p class="course-list-overview">VIS 20. Introduction to Art History</p>
+                <p class="course-list-overview">VIS 21A. Introduction to Art of the Americas</p>
+                <p class="course-list-overview">VIS 21B. Introduction to Asian Art                </p>
+                <h4>Upper Division<strong><u> </u></strong></h4>
+                <h5>Intermediate Level </h5>
+                <p>Six courses required.</p>
+                <p class="course-list-overview">VIS 174*. Media Sketchbook </p>
+                <p class="clear">Choose four art making courses:</p>
+                <p class="course-list-overview">VIS 164*. Photographic Strategies</p>
+                <p class="course-list-overview">VIS 165*. Camera Techniques</p>
+                <p class="course-list-overview">VIS 171*. Digital Cinema</p>
+                <p class="course-list-overview">VIS 175*. Editing—Theory and Production</p>
+                <p class="course-list-overview">VIS 176*. 16 mm Filmmaking</p>
+                <p class="course-list-overview">VIS 177*. Scripting Strategies</p>
+        <p class="course-list-overview">VIS 178*. Sound—Theory and Production</p>
+        <p class="clear">Choose one interdisciplinary course:</p>
+        <p class="course-list-overview">VIS 100. Introduction to Public Culture</p>
+        <p class="course-list-overview">VIS 102. Cross-Border Urbanization</p>
+        <p class="course-list-overview">VIS 105A. Drawing: Representing the Subject</p>
+        <p class="course-list-overview">VIS 105D. The Aesthetics of Chinese Calligraphy</p>
+        <p class="course-list-overview">VIS 106A. Painting: Image Making</p>
+        <p class="course-list-overview">VIS 107A. Sculpture: Making the Object</p>
+        <p class="course-list-overview">VIS 142*. Practices in Computing Arts</p>
+        <p class="course-list-overview">VIS 143*. Virtual Environments</p>
+        <p class="course-list-overview">VIS 145A*. Time- and Process-Based Digital Media I</p>
+        <p class="course-list-overview">VIS 147A*. Electronic Technologies for Art I</p>
+        <h5>History and Theory </h5>
+                <p>Three courses required.<u></u></p>
+        <p>Choose three from:</p>
+        <p>Any upper-division art history course: VIS 120-129</p>
+                <p>Any upper-division media history course: VIS 150-159, 194S                </p>
+                <h5>Advanced Level </h5>
+        <p>Four courses required.</p>
+        <p>Choose three art making courses:</p>
+        <p class="course-list-overview">VIS 167*. Social Engagement in Photography</p>
+        <p class="course-list-overview">VIS 168*. Pictorialism and Constructed Reality</p>
+        <p class="course-list-overview">VIS 180A*. Documentary </p>
+        <p class="course-list-overview">VIS 180B*. Fiction and Allegory in Current Media Practices</p>
+        <p class="course-list-overview">VIS 181*. Sound and Lighting</p>
+        <p class="course-list-overview">VIS 182*. Advanced Editing</p>
+        <p class="course-list-overview">VIS 183A*. Strategies of Self</p>
+        <p class="course-list-overview">VIS 183B*. Strategies of Alterity</p>
+        <p class="clear">Choose one interdisciplinary course:</p>
+        <p class="course-list-overview">VIS 108. Advanced Projects in Art</p>
+        <p class="course-list-overview">VIS 109*. Advanced Projects in Media</p>
+        <p class="course-list-overview">VIS 110A-J. Advanced—Various Topics</p>
+        <p class="course-list-overview">VIS 130*. Special Topics in Visual Arts</p>
+        <p class="course-list-overview">VIS 131*. Special Projects in Media</p>
+        <p class="course-list-overview">VIS 132*. Installation Production and Studio</p>
+        <p class="course-list-overview">VIS 145B*. Time- and Process-Based Digital Media</p>
+        <p class="course-list-overview">VIS 147B*. Electronic Technologies for Art II</p>
+        <p class="course-list-overview">VIS 148. Visualizing Art Practice</p>
+        <p class="course-list-overview">VIS 149. Seminar in Contemporary Computer Topics</p>
+        <p class="course-list-overview">VIS 185*. Senior Media Projects</p>
+        <p class="course-list-overview">VIS 197. Media Honors Thesis</p>
+        <p class="course-list-overview">VIS 198. Directed Group Study</p>
+        <p class="course-list-overview">VIS 199. Special Studies in Visual Arts</p>
+        <p><strong>Note:</strong> Enrollment in production courses is limited to two per quarter.</p>
+        <h3 class="program-overview-subhead-2">Interdisciplinary Computing and the Arts Major (ICAM) </h3>
+				<p>The interdisciplinary computing and the arts major in the Departments of Music and Visual Arts draws upon, and aims to bring together, ideas and paradigms from computer science, art, and cultural theory. It takes for granted that the computer has become a metamedium and that artists working with computers are expected to combine different media forms in their works. All of this makes the program unique among currently existing computer art or design programs which, on the one hand, usually focus on the use of computers for a particular media (for instance, specializing in computer animation, or computer music, or computer design for print) and, on the other hand, do not enter into a serious dialogue with current research in computer science, only teaching the students “off-the-shelf” software. </p>
+				<p>The program also recognizes that creating sophisticated artistic works with computers requires a new model of the creative process, one which combines traditional artistic procedures with the experimental research characteristic of the sciences. All in all, it aims to train a new type of cultural producer, who is familiar with art and media history, who is equally proficient with computer programming and artistic skills, who is always ready to learn new technologies, and who is comfortable interacting with scientists and computer industry resources. </p>
+				<p>The goals of the program are </p>
+				<ul>
+					<li class="list-level-1">to prepare the next generation of artists who will be functioning in a computer-mediated culture </li>
+					<li class="list-level-1">to give students necessary technical, theoretical, and historical backgrounds so they can contribute to the development of new aesthetics for computer media </li>
+					<li class="list-level-1">to prepare students to mediate between the worlds of computer science and technology, the arts, and the culture at large by being equally proficient with computing and cultural concepts </li>
+					<li class="list-level-1">to give students sufficient understanding of the trajectories of development in computing so they can anticipate and work with the emerging trends, rather than being locked in particular software currently available on the market </li>
+				</ul>
+				<h4>Lower Division</h4>
+				<h5>Foundation Level  </h5>
+				<p>Eight to ten courses required.<strong></strong></p>
+                <p class="course-list-overview">MUS 4. Introduction to Western Music</p>
+                <p class="course-list-overview">VIS 10. Computing in the Arts Lecture Series</p>
+                <p class="course-list-overview">VIS 22. Formations of Modern Art</p>
+                <p class="course-list-overview">VIS 41. Design Communication</p>
+        <p class="course-list-overview">VIS 70N. Introduction to Media</p>
+        <p class="clear">Choose one computer science sequence:</p>
+                <p class="course-list-overview">CSE 11. Introduction to Computer Science: JAVA</p>
+                <p>or</p>
+                <p class="course-list-overview">CSE 8A. Introduction to Computer Science: JAVA </p>
+        <p class="course-list-overview">CSE 8B. Introduction to Computer Science: JAVA Continued</p>
+        <p class="clear">Choose one mathematics sequence:</p>
+                <p class="course-list-overview">MATH 15A/CSE 20. Discrete Mathematics</p>
+                <p>or</p>
+                <p class="course-list-overview">MATH 20A. Calculus for Science and Engineering</p>
+                <p class="course-list-overview">MATH 20B. Calculus for Science and Engineering</p>
+                <p>or</p>
+                <p class="course-list-overview">MATH 10A. Calculus</p>
+                <p class="course-list-overview">MATH 10B. Calculus</p>
+        <p class="course-list-overview">MATH 10C. Calculus</p>
+        <p class="clear">Choose one art making course:</p>
+        <p class="course-list-overview">VIS 1. Introduction to Art Making</p>
+        <p class="course-list-overview">VIS 2. Introduction to Art Making</p>
+        <p class="course-list-overview">VIS 3. Introduction to Art Making</p>
+                <p class="course-list-overview">VIS 60. Introduction to Digital Photography</p>
+                <p class="course-list-overview">VIS 80. Introduction to the Studio Major</p>
+                <h4>Upper Division</h4>
+                <h5>Intermediate Level  </h5>
+                <p>Six courses required.</p>
+                <p class="course-list-overview">VIS 142*. Practices in Computing Arts</p>
+                <p class="course-list-overview">VIS 145A*. Time- and Process-Based Digital Media I</p>
+        <p class="course-list-overview">MUS 171*. Computer Music I</p>
+        <p class="clear">Choose two art making courses:</p>
+        <p class="course-list-overview">VIS 141A*. Computer Programming for the Arts</p>
+        <p class="course-list-overview">VIS 143*. Virtual Environments</p>
+<p class="course-list-overview">VIS 147A*. Electronic Technologies for Art I     </p>
+        <p class="course-list-overview">MUS 170*. Musical Acoustics</p>
+        <p class="course-list-overview">MUS 172*. Computer Music II</p>
+                <p class="course-list-overview">MUS 173. Audio Production: Mixing and Editing</p>
+                <p class="course-list-overview">MUS 174A-C. Recording/MIDI Studio Techniques</p>
+                <p class="clear">Choose one interdisciplinary course:</p>
+                <p class="course-list-overview">VIS 100. Introduction to Public Culture</p>
+                <p class="course-list-overview">VIS 102. Cross-Border Urbanization</p>
+                <p class="course-list-overview">VIS 105A. Drawing: Representing the Subject</p>
+                <p class="course-list-overview">VIS 105D. Aesthetics of Chinese Calligraphy</p>
+                <p class="course-list-overview">VIS 106A. Painting: Image Making</p>
+                <p class="course-list-overview">VIS 107A. Sculpture: Making the Object</p>
+                <p class="course-list-overview">VIS 164*. Photographic Strategies</p>
+                <p class="course-list-overview">VIS 165*. Camera Techniques: Analog Futures</p>
+                <p class="course-list-overview">VIS 174*. Media Sketchbook</p>
+                <h5>History and Theory </h5>
+        <p>Two courses required.</p>
+        <p class="course-list-overview">VIS 159. History of Art and Technology</p>
+                <p>Choose one from:</p>
+                <p>Any upper-division art history course: VIS 120–129</p>
+                <p>Any upper-division media history course: VIS 150–158, 194S<strong></strong></p>
+                <h5>Advanced Level </h5>
+        <p>Four courses required</u>.</p>
+        <p>Choose one art making course:</p>
+        <p class="course-list-overview">VIS 141B*. Computer Programming for the Arts II</p>
+                <p class="course-list-overview">VIS 145B*. Time- and Process-Based Digital Media II</p>
+        <p class="course-list-overview">VIS 147A*. Electronic Technologies for Art II</p>
+        <p class="clear">Required two courses:</p>
+                <p class="course-list-overview">ICAM 160A. Senior Project in Computer Arts I</p>
+        <p class="course-list-overview">ICAM 160B. Senior Project in Computer Arts II</p>
+        <p class="clear">Choose one interdisciplinary course:</p>
+        <p class="course-list-overview">VIS 108. Advanced Projects in Art</p>
+        <p class="course-list-overview">VIS 109*. Advanced Projects in Media</p>
+        <p class="course-list-overview">VIS 110A-J. Advanced—Various Topics</p>
+        <p class="course-list-overview">VIS 130*. Special Projects in Media </p>
+        <p class="course-list-overview">VIS 131*. Special Projects in Media</p>
+        <p class="course-list-overview">VIS 132*. Installation Productions and Studio</p>
+        <p class="course-list-overview">VIS 141A*. Computer Programming for the Arts I</p>
+        <p class="course-list-overview">VIS 143*. Virtual Environments</p>
+<p class="course-list-overview">VIS 147A*. Electronic Technologies for Art I</p>
+        <p class="course-list-overview">VIS 148. Visualizing Art Practice</p>
+        <p class="course-list-overview">VIS 149. Seminar in Contemporary Computer Topics</p>
+        <p class="course-list-overview">VIS 167. Social Engagement and Photography</p>
+        <p class="course-list-overview">VIS 168. Pictorialism and Constructed Reality</p>
+        <p class="course-list-overview">VIS 185. Senior Media Projects</p>
+        <p class="course-list-overview">VIS 198. Directed Group Study</p>
+        <p class="course-list-overview">VIS 199. Special Studies in Visual Arts</p>
+        <p class="course-list-overview">AIP 197. Academic Internship Program        </p>
+        <p><strong>Note: </strong>VIS 141A, 147A, and ICAM 120 may be taken for the intermediate or advanced level, but not both.</p>
+        <h3>Speculative Design Major</h3>
+                <p>The major structure includes required and elective courses at both the lower- and upper-division levels. It is designed to give speculative design majors within the Department of Visual Arts (1) a broad foundation in the historical and disciplinary issues within the arts and humanities, (2) rigorous history, theory, and methodology courses in speculative design, (3) unique studio-based courses in which studios develop original projects, both individually and in groups, and (4) the opportunity to customize their emphasis within the major to best suit their professional goals. </p>
+                <h4>Lower Division</h4>
+               <h5>Foundation Level </h5>
+        <p>Eight courses required.</p>
+        <p class="course-list-overview">VIS 1 or 2 or 3. Introduction to Art Making</p>
+        <p class="course-list-overview">VIS 10. Computing in the Arts Lecture Series</p>
+        <p class="course-list-overview">VIS 11. Introduction to Visual Arts</p>
+<p class="course-list-overview">VIS 22. Formations of Modern Art</p>
+                <p class="course-list-overview">VIS 30. Introduction to Speculative Design</p>
+        <p class="course-list-overview">VIS 41. Design Communication        </p>
+        <p>Choose two breadth electives:</p>
+                <p class="course-list-overview">VIS 60. Introduction to Digital Photography</p>
+                <p class="course-list-overview">VIS 70N*. Introduction to Media</p>
+                <p class="course-list-overview">VIS 80. Introduction to Studio</p>
+                <p class="course-list-overview">COGS 1. Introduction to Cognitive Science</p>
+                <p class="course-list-overview">COGS 10. Cognitive Consequences of Technology</p>
+                <p class="course-list-overview">COGS 14A. Introduction to Research Methods</p>
+                <p class="course-list-overview">COGS 17. Neurobiology of Cognition</p>
+                <p class="course-list-overview">COMM 10. Introduction to Communication</p>
+                <p class="course-list-overview">CSE 11**. Introduction to Computer Science: Java</p>
+                <p class="course-list-overview">CSE 12. Basic Data Structures and Object Oriented Design </p>
+                <p class="course-list-overview">USP 1. History of US Urban Communities </p>
+                <p class="course-list-overview">USP 2. Urban World System</p>
+        <p class="course-list-overview">USP 3. The City and Social Theory</p>
+                <p><strong>*Note: </strong>VIS 70N is required for the media design emphasis.</p>
+                <p><strong>**Note:</strong> CSE 11 is required for the design/computing emphasis, and can be taken as the two-course sequence CSE 8A-B.</p>
+                <h4>Upper Division</h4>
+                <h5>Intermediate Level</h5>
+                <p>Six courses required.</p>
+                <p class="course-list-overview">VIS 100. Introduction to Public Culture</p>
+                <p class="course-list-overview">VIS 135. Collaborative Research, Methodologies, and Management </p>
+                <p class="course-list-overview">VIS 142. Practices in Computing Arts</p>
+                <h5>Emphasis</h5>
+                <p>Three courses required.</p>
+                <p>Choose one emphasis:</p>
+                <h6>Design Systems Emphasis                </h6>
+                <p class="course-list-overview">VIS 161. Systems and Networks at Scale</p>
+                <p class="course-list-overview">VIS 162. Speculative Science and Design Invention</p>
+        <p class="course-list-overview">VIS 163. Design Research and Criticism</p>
+                <h6>Media Design Emphasis</h6>
+                <p class="course-list-overview">VIS 145A*. Time- and Process-Based Digital Media I        </p>
+        <p class="course-list-overview">VIS 174*. Media Sketchbook</p>
+        <p class="course-list-overview">VIS 178*. Sound: Theory and Production</p>
+        <h6>Design/Computing Emphasis</h6>
+                <p class="course-list-overview">VIS 141A*. Introduction to Computer Programming in the Arts</p>
+                <p class="course-list-overview">VIS 145A*. Time and Process-Based Digital Media I</p>
+        <p class="course-list-overview">VIS 147A*. Electronic Technologies for Art I</p>
+                <h6>Public Culture/Urban Ecologies Emphasis</h6>
+                <p class="course-list-overview">VIS 100A. Design of Public Culture</p>
+                <p class="course-list-overview">VIS 101. Introduction to Urban Ecologies</p>
+        <p class="course-list-overview">VIS 101A. Design of Urban Ecologies</p>
+        <p class="course-list-overview">VIS 102. Cross-Border Urbanizations</p>
+        <h5>History and Theory </h5>
+                <p>Two courses required.</p>
+                <p class="course-list-overview">VIS 159. History of Art, Design, and Technology                </p>
+                <p>and</p>
+                <p>Choose one course from the speculative design history and theory list:</p>
+                <p class="course-list-overview">VIS 120A. Greek Arts </p>
+                <p class="course-list-overview">VIS 120B. Roman Arts</p>
+                <p class="course-list-overview">VIS 120C. Late Antique Art</p>
+                <p class="course-list-overview">VIS 121AN. Art and Experience in the Middle Ages</p>
+                <p class="course-list-overview">VIS 121B. Church and Mosque: Medieval Art and Architecture between Christianity and Islam</p>
+                <p class="course-list-overview">VIS 122AN. Renaissance Art</p>
+                <p class="course-list-overview">VIS 122CN. Leonardo da Vinci in Context</p>
+                <p class="course-list-overview">VIS 122D. Michelangelo</p>
+                <p class="course-list-overview">VIS 122F. Leonardo&rsquo;s La Gioconda</p>
+                <p class="course-list-overview">VIS 122GS. The City in Italy</p>
+                <p class="course-list-overview">VIS 123AN. Between Spirit and Flesh: Northern Art of the Early Renaissance </p>
+                <p class="course-list-overview">VIS 124BN. Art and the Enlightenment</p>
+                <p class="course-list-overview">VIS 124CN. Nineteenth-Century Art</p>
+                <p class="course-list-overview">VIS 125A. Twentieth-Century Art</p>
+                <p class="course-list-overview">VIS 125BN. Contemporary Art</p>
+                <p class="course-list-overview">VIS 125DN. Marcel Duchamp</p>
+                <p class="course-list-overview">VIS 125F. Latin American Film</p>
+                <p class="course-list-overview">VIS 126AN. Pre-Columbian Art of Ancient Mexico and Central America</p>
+                <p class="course-list-overview">VIS 126BN. The Art and Civilization of the Ancient Maya</p>
+                <p class="course-list-overview">VIS 126C. Problems in Mesoamerican Art History</p>
+                <p class="course-list-overview">VIS 126D.Problems in Ancient Maya Iconography and Inscriptions </p>
+                <p class="course-list-overview">VIS 126HN. Pacific Coast American Indian Art</p>
+                <p class="course-list-overview">VIS 126I. Southwest American Indian Art</p>
+                <p class="course-list-overview">VIS 126J. African and Afro-American Art</p>
+                <p class="course-list-overview">VIS 126K. Oceanic Art</p>
+                <p class="course-list-overview">VIS 126P. Latin American Art: 1890–1950</p>
+                <p class="course-list-overview">VIS 126Q. Latin American Art: 1950–Present</p>
+                <p class="course-list-overview">VIS 127B. Arts of China</p>
+                <p class="course-list-overview">VIS 127C. Arts of Modern China</p>
+                <p class="course-list-overview">VIS 127D. Early Chinese Painting</p>
+                <p class="course-list-overview">VIS 127E. Later Chinese Painting</p>
+                <p class="course-list-overview">VIS 127F. Japanese Buddhist Art</p>
+                <p class="course-list-overview">VIS 127GS. Issues in Modern and Contemporary Chinese Art</p>
+                <p class="course-list-overview">VIS 127N. Twentieth-Century Art in China and Japan</p>
+                <p class="course-list-overview">VIS 127P. Arts of Japan</p>
+                <p class="course-list-overview">VIS127Q. Japanese Painting and Prints</p>
+                <p class="course-list-overview">VIS 128A. Topics in Premodern Art History</p>
+                <p class="course-list-overview">VIS 128C. Topics in Modern Art History</p>
+                <p class="course-list-overview">VIS 128D. Topics in Art History of the Americas</p>
+                <p class="course-list-overview">VIS 128E. Topics in Art History of Asia</p>
+                <p class="course-list-overview">VIS 151. History of the Experimental Film</p>
+                <p class="course-list-overview">VIS 152. Film in Social Context</p>
+                <p class="course-list-overview">VIS 152D. Identity Through Transnational Cinemas</p>
+                <p class="course-list-overview">VIS 153. The Genre Series</p>
+                <p class="course-list-overview">VIS 154. Hard Look at the Movies</p>
+                <p class="course-list-overview">VIS 155. The Director Series</p>
+                <p class="course-list-overview">VIS 156. Latino American Cinema</p>
+                <p class="course-list-overview">VIS 158. Histories of Photography</p>
+                <p class="course-list-overview">VIS 194S. Fantasy in Film</p>
+                <p class="course-list-overview">COGS 102A. Distributed Cognition</p>
+                <p class="course-list-overview">COGS 102B. Cognitive Ethnography</p>
+                <p class="course-list-overview">COGS 102C. Cognitive Design Studio</p>
+                <p class="course-list-overview">COGS 109. Modeling and Data Analysis</p>
+                <p class="course-list-overview">COGS 118A. Natural Computation I</p>
+                <p class="course-list-overview">COGS 118B. Natural Computation II</p>
+                <p class="course-list-overview">COGS 120. Interaction Design</p>
+                <p class="course-list-overview">COGS 187A. Usability and Information Architecture</p>
+                <p class="course-list-overview">COGS 187B. Practicum in Pro Web Design</p>
+                <p class="course-list-overview">COMM 111D. Critical Design Intermediate</p>
+                <p class="course-list-overview">COMM 124. Critical Design Advanced</p>
+                <p class="course-list-overview">COMM 146. Advanced Studies in Cultural Production</p>
+                <p class="course-list-overview">ETHN 101. Ethnic Images in Film</p>
+                <p class="course-list-overview">ETHN 102. Science and Technology in Society: Race/Gender/Class </p>
+                <p class="course-list-overview">ETHN 103. Environmental Racism</p>
+                <p class="course-list-overview">ETHN 104. Race, Space, and Segregation</p>
+                <p class="course-list-overview">ETHN 105. Ethnic Diversity and the City</p>
+                <p class="course-list-overview">ETHN 106. Life, Death, and the Human</p>
+                <p class="course-list-overview">ETHN 108. Race, Culture, and Social Change</p>
+                <p class="course-list-overview">ETHN 109. Race and Social Movements</p>
+                <p class="course-list-overview">LIGN 155. Evolution of Language</p>
+                <p class="course-list-overview">LIGN 165. Computational Linguistics</p>
+                <p class="course-list-overview">LIGN 176. Language of Politics and Advertising</p>
+                <p class="course-list-overview">LTCS 110. Popular Culture</p>
+                <p class="course-list-overview">LTCS 120. Historical Perspectives on Culture</p>
+                <p class="course-list-overview">LTCS 130. Gender, Race/Ethnicity, Class, and Culture</p>
+                <p class="course-list-overview">LTCS 131. Topics in Queer Cultures</p>
+                <p class="course-list-overview">LTCS 132. Topics in Social Identities and the Media</p>
+                <p class="course-list-overview">LTCS 133. Globalization and Culture</p>
+                <p class="course-list-overview">LTCS 170. Visual Culture</p>
+                <p class="course-list-overview">POLI 102E. Urban Politics</p>
+                <p class="course-list-overview">POLI 120F. Mass Media and Politics</p>
+                <p class="course-list-overview">TDGE 130. Let There Be Light!</p>
+                <h5>Advanced Electives</h5>
+                <p>Three courses required.</p>
+                <p class="course-list-overview">VIS 100A. Design of Public Culture</p>
+                <p class="course-list-overview">VIS 101. Introduction to Urban Ecologies</p>
+                <p class="course-list-overview">VIS 101A. Design of Urban Ecologies</p>
+                <p class="course-list-overview">VIS 102. Cross-Border Urbanizations</p>
+<p class="course-list-overview">VIS 109*. Advanced Projects in Media</p>
+                <p class="course-list-overview">VIS 141A*. Introduction to Computer Programming in the Arts</p>
+                <p class="course-list-overview">VIS 141B*. Advanced Computer Programming in the Arts </p>
+                <p class="course-list-overview">VIS 145A*. Time- and Process-Based Digital Media I</p>
+                <p class="course-list-overview">VIS 145B*. Time- and Process-Based Digital Media II</p>
+                <p class="course-list-overview">VIS 148. Visualizing Art Practice</p>
+<p class="course-list-overview">VIS 149. Contemporary Computing Topics </p>
+                <p class="course-list-overview">VIS 161. Systems and Networks at Scale</p>
+                <p class="course-list-overview">VIS 162. Speculative Science and Design Invention</p>
+                <p class="course-list-overview">VIS 163. Systems and Synthesis: Topics in Design Research and Criticism </p>
+                <p class="course-list-overview">VIS 174*. Media Sketchbook</p>
+                <p class="course-list-overview">VIS 178*. Sound: Theory and Production</p>
+                <p class="course-list-overview">TDGE 126. Storytelling and Design in Animation</p>
+                <p class="course-list-overview">TDDE 141. Theater Process (Sound Design)</p>
+                <p class="course-list-overview">TDDE 142. Advanced Sound Design</p>
+                <p><strong>Note:</strong> Courses may not overlap with emphasis.</p>
+                <h5 >Design Master Studio </h5>
+                <p >One course required.</p>
+        <p class="course-list-overview" >VIS 190. Design Master Studio		</p>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

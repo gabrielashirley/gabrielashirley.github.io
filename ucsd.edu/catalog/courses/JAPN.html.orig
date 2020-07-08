@@ -1,0 +1,177 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Japanese Studies Courses</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopMargin">Japanese Studies</h1>
+<p class="alphabreak"> <span class="courseFacLink">[ <a href="../curric/JAPN.html">program</a> | <a href="../courses/JAPN.html"> </a> <a href="../faculty/JAPN.html">faculty</a> ]</span></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/Course Name and Disclaimer.lbi" -->
+<h2>Courses</h2>
+<p class="course-disclaimer"><em>For course descriptions not found in the </em>UC
+  San Diego General Catalog 2019&#8211;20<em>, please contact the department
+  for more information.</em></p><!-- #EndLibraryItem --><h2 class="course-subhead-1">Japanese Studies </h2>
+				<p class="anchor-parent"><a class="anchor" id="japn190" name="japn190" /></a></p><p class="course-name">JAPN 190. Selected Topics in Contemporary Japanese Studies </p>
+				<h2 class="course-subhead-1">Language </h2>
+				<p>Students who have prior preparation of Japanese language are placed in language courses based on the results of a placement test and an oral interview with an instructor. Students who have lived in Japan and/or speak Japanese at home are required to take a placement exam administered prior to the beginning of the fall quarter. Contact the Japanese Studies office for more information. </p>
+				<p class="anchor-parent"><a class="anchor" id="japn10a" name="japn10a" /></a></p>
+				<p class="course-name">JAPN 10A. First-Year Japanese (5)</p>
+				<p class="course-descriptions">This course is an introduction to the Japanese language. Students will learn basic skills of listening, speaking, reading, and writing over seventy-five characters. Students will also acquire fundamental knowledge of Japanese grammar and learn about Japanese people and culture.</p>
+				<span class="course-descriptions"><p class="anchor-parent"><a class="anchor" id="japn10b" name="japn10b" /></a></p></span>
+				<p class="course-name">JAPN 10B. First-Year Japanese (5)</p>
+				<p class="course-descriptions">This course is an introduction to the Japanese language. Students will learn basic skills of listening, speaking, reading, and writing over seventy-two additional characters. Students will also acquire fundamental knowledge of Japanese grammar and learn about Japanese people and culture. <em><strong>Prerequisites:</strong></em> previous course or consent of instructor.</p>
+				<span class="course-descriptions"><p class="anchor-parent"><a class="anchor" id="japn10c" name="japn10c" /></a></p></span>
+				<p class="course-name">JAPN 10C. First-Year Japanese (5)</p>
+		<p class="course-descriptions">This course is an introduction to the Japanese language. Students will learn basic skills of listening, speaking, reading, and writing over forty-eight additional characters. Students will also acquire fundamental knowledge of Japanese grammar and learn about Japanese people and culture. <em><strong>Prerequisites:</strong></em> previous course or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="japn20a" name="japn20a" /></a></p>
+				<p class="course-name">JAPN 20A. Second-Year Japanese (5)</p>
+				<p class="course-descriptions">Students will improve their fundamental skills in listening, speaking, reading, and writing including acquiring knowledge of Japanese transportation, trips, and geography.<strong> <em>Prerequisites:</em></strong> previous course or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="japn20b" name="japn20b" /></a></p><p class="course-name">JAPN 20B. Second-Year Japanese (5)</p>
+				<p class="course-descriptions">Students will improve their fundamental skills in listening, speaking, reading, and writing including acquiring knowledge of life experiences, Japanese culture, customs, health, and school.<strong> <em>Prerequisites:</em></strong> previous course or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="japn20c" name="japn20c" /></a></p><p class="course-name">JAPN 20C. Second-Year Japanese (5)</p>
+				<p class="course-descriptions">Students will improve their fundamental skills in listening, speaking, reading, and writing including acquiring knowledge of Japanese culture and customs. Students will conduct research including writing a short essay and presentation.<strong> <em>Prerequisites:</em></strong> previous course or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="japn130a" name="japn130a" /></a></p>
+				<p class="course-name">JAPN 130A. Third-Year Japanese (5)</p>
+				<p class="course-descriptions">This course will require students to gain knowledge, comprehend, evaluate, and discuss Japanese customs. Students will critically analyze and compare culture and customs of Japan and other countries. Course work includes student research on issues in Japanese society.<strong> <em>Prerequisites: </em></strong>previous course or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="japn130b" name="japn130b" /></a></p><p class="course-name">JAPN 130B. Third-Year Japanese (5)</p>
+				<p class="course-descriptions">This course will require students to gain knowledge, comprehend, evaluate, and discuss topics of education system and youth issues in Japan and other countries. Students will learn vocabulary and phrases to support, explain, research, and hypothesize concrete and abstract topics.<strong> <em>Prerequisites: </em></strong>previous course or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="japn130c" name="japn130c" /></a></p><p class="course-name">JAPN 130C. Third-Year Japanese (5)</p>
+				<p class="course-descriptions">This course will require students to gain knowledge, comprehend, evaluate, and discuss the environment and internationalization issues. Students will learn vocabulary and phrases to critically analyze and compare, express their opinions, and present and propose possible solutions for these topics.<strong> <em>Prerequisites: </em></strong>previous course or consent of instructor. </p>
+				 <p class="anchor-parent"><a class="anchor" id="japn135a" name="japn135a" /></a></p>
+				<p class="course-name">JAPN 135A. Japanese for Professional Purposes (4)</p>
+				<p class="course-descriptions">Training in oral and written communication skills for professional settings in Japanese. Broad aspects of cultural issues in Japanese organizations are introduced and comparison of American and Japanese cultural business patterns will be conducted.<strong> <em>Prerequisites: </em></strong>JAPN 20C, or consent of instructor. </p>
+               
+        <p class="anchor-parent"><a class="anchor" id="japn135b" name="japn135b" /></a></p>
+        <p class="course-name">JAPN 135B. Japanese for Professional Purposes (4) </p>
+				<p class="course-descriptions">Continuation of training in oral and written communication skills for professional settings in Japanese. Broad aspects of cultural issues in Japanese organizations are introduced and comparison of American and Japanese cultural business patterns will be conducted. <strong><em>Prerequisites:</em></strong> JAPN 135A, or consent of instructor. </p>
+      
+                <p class="anchor-parent"><a class="anchor" id="japn135c" name="japn135c" /></a></p>
+                <p class="course-name">JAPN 135C. Japanese for Professional Purposes (4) </p>
+        <p class="course-descriptions">Continuation of training in oral and written communication skills for professional settings in Japanese. Broad aspects of cultural issues in Japanese organizations are introduced and comparison of American and Japanese cultural business patterns will be conducted. <strong><em>Prerequisites:</em></strong> JAPN 135B. </p>
+                <p class="anchor-parent"><a class="anchor" id="japn140a"></a></p><p class="anchor-parent"><a class="anchor" id="japn140b"></a></p><p class="anchor-parent"><a class="anchor" id="japn140c"></a></p><p class="course-name">JAPN 140A-B-C. Fourth-Year Japanese (4-4-4)</p>
+                <p class="course-descriptions"><strong><em>Prerequisites:</em></strong> previous course or consent of instructor.
+                </p>
+                 <p class="anchor-parent"><a class="anchor" id="japn150a"></a></p><p class="anchor-parent"><a class="anchor" id="japn150b"></a></p><p class="anchor-parent"><a class="anchor" id="japn150c"></a></p><p class="course-name">JAPN 150A-B-C. Advanced Japanese (4-4-4)</p>
+                <p class="course-descriptions"><strong><em>Prerequisites:</em></strong> previous course or consent of instructor.		</p>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

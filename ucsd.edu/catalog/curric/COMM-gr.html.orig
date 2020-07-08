@@ -1,0 +1,240 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" --> 
+<title>Communication</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" --> 
+              <h1 class="noTopBottomMargin">Communication</h1>
+<p class="sectionNav"><span class="courseFacLink">[ <a href="COMM-ug.html">undergraduate
+    program</a> | <a href="../courses/COMM.html">courses</a> | <a href="../faculty/COMM.html">faculty</a> ]</span></p>
+	<p class="program-contact-info">Thurgood Marshall College<br>
+	  Communication Building, Room 125B<br />
+	  (858) 534-2379<br />
+	  <a href="http://communication.ucsd.edu" target="_blank">http://communication.ucsd.edu </a></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><p class="anchor-parent"><a class="anchor" id="grad"></a></p><h2 class="program-overview-subhead-1">The Graduate Program</h2>
+		<p>The Department of Communication offers a program of study leading to the doctor of philosophy degree. Communication at UC San Diego seeks to combine modes of analysis from the humanities and social sciences to explore the history, structure, and process of communication. The graduate program is conceived as a blending of the theoretical tradition of critical communication research with the empirical tradition of ethnographic and multimodel scholarship. Historically, the department grew out of an interdisciplinary program jointly sponsored by the Departments of Drama (currently, Theatre and Dance), Political Science, Psychology, and Sociology. </p>
+		<p>The study of communication at UC San Diego places major emphasis on historical, comparative, and ethnographic approaches to mediated human communication. Study is organized around the following three analytic perspectives: communication as a social force, communication and culture, and communication and human information processing. In addition, the department believes that investigation into communication requires a blending of theory and practice. </p>
+<p><strong>Communication as a Social Force</strong> examines the relation
+				  of communication institutions to structures of power in society. In this
+				  part of the curriculum, we examine institutional arrangements and structural
+				  characteristics regarding </p>
+				<ul>
+					<li class="list-level-1">Communication and political systems: state, law, regulation, social movements and political parties, democracy</li>
+					<li class="list-level-1">Communication and economic systems: markets, ownership, access; “demographics” and class/gender/racial and national stratification</li>
+					<li class="list-level-1">The production of content within media industries </li>
+				</ul>
+				<p>Faculty research includes the following topics: </p>
+				<ul>
+					<li class="list-level-1">The study of news as public information and political ideology</li>
+					<li class="list-level-1">Intellectual property and the flow of culture between global North and South</li>
+					<li class="list-level-1">The relationships among law, communication technologies, ownership, democracy, and the public sphere.</li>
+					<li class="list-level-1">Comparative analysis of media systems</li>
+					<li class="list-level-1">Communication, globalization, and economic development</li>
+				</ul>
+				<p><strong>Communication and Culture </strong>examines the cultural artifacts and discourses through which we experience our everyday lives, including popular music, films and television shows, advertisements, museum displays, landscape and urban design, and health and identity documentation systems. How can we understand the histories and changing practices associated with these forms of representation? What is the role of media (print, visual, electronic, material) in forming ideas about social identity and in shaping subjectivity? This part of the curriculum draws on the humanities, anthropology, history, political theory, cultural studies, and the sociology of culture to offer students a range of methods and theoretical frameworks for interpreting the production and circulation of artifacts, discourses, and meanings in a range of local, national, transnational, and diasporic cultural contexts.</p>
+				<p>Faculty research includes the following topics:</p>
+				<ul>
+					<li class="list-level-1">Collective memory and the struggles over the meaning of the past</li>
+				    <li>The cultural      politics of reproduction and kinship networks                </li>
+			      <li class="list-level-1">Political violence as performance</li>
+                  <li>Disability      and culture in historical and contemporary perspective</li>
+				</ul>
+				<p><strong>Communication and The Person</strong> examines the ways in which our experience as human beings is created by the communicative practices of the societies in which we live and the cultural practices of our families and communities with which we interact from the earliest days of life. With a sociocultural lens, we study the role of communication through language and other organized symbolic media. Because both individuals and their environments are constantly changing, the study of culture and the person pays special attention to the cultural and historical contexts of personal experience and the practices that constitute the proximal environments of individual development. This part of the curriculum draws particularly on the fields of anthropology, sociology, psychology, linguistics, cognitive science, and education to examine such processes as learning and cognition, language structure and language use, the construction and negotiation of meaning, and the organization of mental worlds. </p>
+				<p>Faculty research includes the following topics: </p>
+				<ul>
+					<li class="list-level-1">The evolution of language and communication in human beings</li>
+					<li class="list-level-1">The role of new communicative practices in human development</li>
+					<li class="list-level-1">Human cognition as distributed among people and coordinated in communicative practices</li>
+					<li class="list-level-1">The development of reading and writing in young children</li>
+					<li class="list-level-1">The use of technology to study human thought</li>
+					<li class="list-level-1">Bilingual and bicultural development in a globalized world</li>
+					<li class="list-level-1">The use of information technology in work and leisure</li>
+				</ul>
+				<p><strong>Communication and Media Practice</strong> faculty work in video, film, and interactive media production as well as in research scholarship. Graduate students as well as undergraduates are offered the opportunity to integrate creative practice in media production into their program of study. </p>
+				<p>Some communication faculty production interests include </p>
+				<ul>
+					<li class="list-level-1">Hybrid documentary and narrative forms</li>
+					<li class="list-level-1">Alternative representation of gender, race, and ethnicity in film and electronic media</li>
+					<li class="list-level-1">Distributed and networked media production</li>
+					<li class="list-level-1">Digital media based on game-like forms</li>
+					<li class="list-level-1">Development and use of media technology in and for educational contexts</li>
+					<li class="list-level-1">Global media networks</li>
+					<li class="list-level-1">Experimental approaches to cinematography and sound design</li>
+					<li class="list-level-1">Media as a tool for social and political activism </li>
+				</ul>
+				<h3 class="program-overview-subhead-2">PhD Requirements</h3>
+				<ol>
+				  <li>200A-B-C (Introduction to the Theory of Communication as a Social
+				    Force, Communication and Culture, and Communication and the
+				    Individual). </li>
+				  <li> 294, The History of Communication Research. </li>
+				  <li>At least three methods courses from the 201 methodology sequence
+				    (see course listings). </li>
+				  <li>Four courses in communication history and theory (see course listings). </li>
+				  <li>280, Advanced Workshop in Communication Media. </li>
+				  <li>296, Communication Research as an Interdisciplinary Activity. </li>
+				  <li>First-Year Exam and Evaluation: At the end of the spring quarter
+				    of the student&#8217;s first year, the student must pass a comprehensive
+				    written examination based on course work completed during the first year. </li>
+				  <li>Language Requirement: All students are required to demonstrate proficiency
+				    in one language other than their native language. </li>
+				  <li>Qualifying Examinations: Before the end of the fourth year the student
+				    must take and pass an oral qualifying examination. The exam
+				    will be based on two papers concerning two of the subfields covered in
+				    the program. The student will also present a separate dissertation proposal
+				    at the examination. At this time, the faculty will examine the proposal
+				    for appropriateness and feasibility. </li>
+			      <li>Teaching Requirement: In order to acquire teaching experience, all
+				      students are required to participate in the teaching activities of
+				      the department in two courses from the Department of Communication
+				      curriculum prior to completion of their PhD as follows:</li>
+		
+                <ul>
+                  <li>One quarter of COMM 10—Introduction to Communication</li>
+                  <li>One quarter of any one of the following three courses:</li>
+                  <ul>
+                    <li class="course-descriptions">COMM 100A—Situated Practices</li>
+                    <li class="course-descriptions">COMM 100B—Interpretive Strategies</li>
+                    <li class="course-descriptions">COMM 100C—Social Formations</li>
+                   
+                        <li><span dir="LTR"> </span>COMM 101—Introduction to Audiovisual Media Practices</li>
+                    
+                  </ul>
+                </ul>
+                  <li>Dissertation: Acceptance of the dissertation by the university
+                    librarian represents the final step in completing all requirements
+                    for a PhD. The dissertation committee must be approved by the department
+                    chair and the dean of Graduate Studies. </li>
+                </ol>
+<h3 class="program-overview-subhead-2">Departmental PhD Time Limit Policies</h3>
+				<p>Students must be advanced to candidacy by the end of four years. Total university support cannot exceed seven years. Total registered time at UC San Diego cannot exceed eight years. </p>
+        <h3 class="program-overview-subhead-2">Specialization in Critical Gender Studies </h3>
+				<p>Students in the doctoral program in communication may apply for a specialization in critical gender studies to complement their course work and research in communication. </p>
+				<p>The Critical Gender Studies Program is built on the intellectual foundations of intersectional feminist thought and queer studies, and incorporates the interdisciplinary methodologies, intersectional frameworks, and transformational epistemologies central to contemporary gender and sexuality studies. The graduate specialization in critical gender studies provides specialized training in gender and sexuality for students currently enrolled in a UC San Diego doctoral program. Through advanced course work in critical gender studies and its affiliated departments,&nbsp;graduate students in the specialization develop an understanding of gender as necessarily linked to other social formations, including sexuality, race, nation, religion, (dis)ability, and structures of capital.&nbsp;At the same time,&nbsp;doctoral&nbsp;students engaging&nbsp;gender and sexuality studies&nbsp;have the opportunity to develop their work among peers who take up similar questions in their scholarship.</p>
+				<p>Admitted students are required to complete five courses in addition to their home department&rsquo;s core requirements, consisting of two core courses and three electives. The core courses are Advanced Studies in Critical Gender Studies (CGS 200), to be taken shortly after admission to the specialization, and Practicum in Critical Gender Studies (CGS 299), to be taken in the student&rsquo;s final two years of dissertation writing. Electives may be chosen from a list of preapproved seminars in participating departments (students may petition other courses with significant gender/sexuality studies content) and may be taken at any time during the student&rsquo;s tenure at UC San Diego. Admitted students must also include at least one member of their dissertation committee from the list of CGS core or affiliate faculty.</p>
+				<p>For more information about the graduate specialization in critical gender studies, please visit&nbsp;<u><a href="http://cgs.ucsd.edu/" target="_blank">http://cgs.ucsd.edu</a></u>.</p>
+<div>
+    <div> </div>
+    </div>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

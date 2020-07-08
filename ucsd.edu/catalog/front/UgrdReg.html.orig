@@ -1,0 +1,295 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" --> 
+<title>Undergraduate and Graduate Registration</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<style type="text/css">
+table#fees td {
+	text-align: right;
+}
+
+</style>
+	<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" --> 
+				<h1 class="front-section-title">Undergraduate and Graduate Registration</h1>
+				<p>Following are brief descriptions and links to additional information regarding enrollment and registration. In addition, other useful information can be obtained at the Registrar&rsquo;s website, <a href="http://students.ucsd.edu/academics/_organizations/registrar/index.html" target="_blank">“Registrar&rsquo;s Office.”</a></p>
+                <h2><a name="introenroll"></a>Introduction to Enrollment and Registration</h2>
+        <h3>Enrolling in Classes</h3>
+            <h4>New Student Enrollment</h4>
+            <p>Prior to the quarter for which they have been admitted, new students will receive information from their college regarding orientation dates, course enrollment, and fee-payment deadlines. Enrollment materials will be provided at the college provosts&rsquo; offices on the days assigned for new students&rsquo; registration. New freshman students admitted for the fall quarter will be invited to attend a new student orientation during the summer preceding fall quarter. </p>
+            <h4>Continuing Student Enrollment</h4>
+            <p>Continuing students (those currently registered or eligible to register) should refer to <a href="http://tritonlink.ucsd.edu" target="_blank">TritonLink</a> for enrollment information, dates, and fee payment instructions. </p>
+            <h4>Definitions</h4>
+            <p>Students are considered enrolled when they have requested space in at least one course and space in classes has been reserved. Students are not considered registered until they have both enrolled in courses and paid registration fees. Waitlisting a class does not constitute enrollment. Enrollment is processed using WebReg in <a href="http://tritonlink.ucsd.edu" target="_blank">TritonLink</a>. Continuing undergraduate students are assigned a start time, after which they may enroll in classes. Start times are based on the number of units completed. Students who have completed more units will receive earlier start times than students with fewer units. Students are responsible for all courses in which they are enrolled. Students should check WebReg in <a href="http://tritonlink.ucsd.edu" target="_blank">TritonLink</a> to confirm class enrollments. Students must make any necessary changes by the add/change/drop process (through WebReg in <a href="http://tritonlink.ucsd.edu" target="_blank">TritonLink</a>) or by appropriate withdrawal. </p>
+            <h5><a href="http://students.ucsd.edu/academics/enroll/index.html" target="_blank">Enrolling in Classes</a></h5>
+            <h3>Enrollment Checklist</h3>
+                <p>The enrollment checklist provides students with important information on appointment times, advising, holds, enrollment limitations, prerequisite requirements, restrictions, approvals, wait lists, and class confirmation.</p>
+                <h5><a href="http://students.ucsd.edu/academics/enroll/undergraduate-enrollment/checklist.html" target="_blank">Enrollment Checklist</a> (Undergraduates) </h5>
+                <h5><a href="http://students.ucsd.edu/academics/enroll/graduate-enrollment/enrollment-checklist.html" target="_blank">Enrollment Checklist</a> (Graduates)
+            </h5>
+        <h3><a id="part-time"></a>Part-Time/Half-Time Study</h3>
+               <p>Students can attend UC San Diego at less than full-time status. Undergraduates are considered part-time if they have been approved for part-time status and enroll in ten or fewer units per quarter. Graduate students are considered half-time if they have been approved for half-time status and enroll in six or fewer units per quarter.</p>
+<p>Enrolling at half-time or part-time status requires approval. See more details about fees, eligibility, and the application process:</p>
+               <h5><a href="http://students.ucsd.edu/academics/enroll/special-enrollment/parttime-halftime-study/part-time-study.html" target="_blank">Part-Time Study</a> (Undergraduates)</h5>
+               <h5><a href="http://students.ucsd.edu/academics/enroll/special-enrollment/parttime-halftime-study/halftime-study.html" target="_blank">Half-Time Study</a> (Graduate Students)</h5>
+               <h3>Special Enrollment</h3>
+                <p>UC San Diego undergraduates can take classes at other campuses through the simultaneous enrollment program (take classes at another UC campus while simultaneously enrolled at UC San Diego), the cross-enrollment program (take classes at California State University campuses), or the Intercampus Visitor Program (visit another UC campus for a quarter). </p>
+                <h5><a href="http://students.ucsd.edu/academics/enroll/special-enrollment/" target="_blank">Special Enrollment</a></h5>
+                <h3>Add, Drop, Changing Grading Option or Units</h3>
+                <p>After enrollment, students may make any necessary corrections to their class schedules on WebReg in TritonLink. Through the second week of instruction, students may add courses via WebReg. After the second week and through the end of the final week of instruction, students may add courses only with the approval of the instructor and of the department. Students may continue to change grading options through the end of the fourth week.  </p>
+                <p>Undergraduate students may drop a course before the end of the sixth week of instruction; approval to withdraw from a course after the end of the sixth week of instruction and before the end of the tenth week of instruction may be granted by petition to a student&rsquo;s college provost for emergency reasons. Graduate students may drop a course before the end of the ninth week of instruction; approval to withdraw from a course after the end of the ninth week of instruction and before the end of the tenth week of instruction may be granted by petition to the dean of the Graduate Division for emergency reasons.</p>
+               
+                <h5><a href="http://students.ucsd.edu/academics/enroll/undergraduate-enrollment/add-a-class.html" target="_blank">How to Add a Class</a> (Undergraduate)            </h5>
+                <h5><a href="http://students.ucsd.edu/academics/enroll/undergraduate-enrollment/drop-a-class.html" target="_blank">How to Drop a Class</a> (Undergraduate)          </h5>
+                <h5><a href="http://students.ucsd.edu/academics/exams-grades-transcripts/grades/change-a-grading-option.html" target="_blank">How to Change a Grading Option or Number of Units per Class</a> (Undergraduate)                  </h5>
+                <h5><a href="https://students.ucsd.edu/academics/enroll/undergraduate-enrollment/add-a-class.html" target="_blank">How to Add a Class</a> (Graduate)     </h5>
+                <h5><a href="http://students.ucsd.edu/academics/enroll/graduate-enrollment/drop-a-class.html" target="_blank">How to Drop a Class</a> (Graduate)    </h5>
+                <h5><a href="https://students.ucsd.edu/academics/exams-grades-transcripts/grades/change-grading-grad.html" target="_blank">How to Change a Grading Option or Number of Units per Class</a> (Graduate)</h5>
+        <h3>Withdrawal</h3>
+               <p>Undergraduate students who wish to drop all their courses are required to file an undergraduate withdrawal form with their college academic advising. Please see the W (Withdrawal) grade regulation that applies after the fourth week of instruction. Graduate students who plan to withdraw from UC San Diego should contact their graduate program.&nbsp; </p>
+<h5><a href="https://students.ucsd.edu/academics/enroll/withdrawal/undergraduates.html" target="_blank">How to Withdraw from UC San Diego</a> (Undergraduates)</h5>
+               <h5><a href="https://students.ucsd.edu/academics/enroll/withdrawal/graduate-students.html" target="_blank">How to Withdraw from UC San Diego</a> (Graduates)
+           </h5>
+        <h5>Readmission</h5>
+             <p>If an undergraduate student has been absent for more than one quarter, he or she must apply for readmission to UC San Diego. Graduate students who have been out at least one quarter must apply for readmission through the Graduate Division. The readmission process is different depending on the amount of time the student has been absent from UC San Diego, and the academic standing when the student left.</p>
+<h5><a href="http://students.ucsd.edu/academics/enroll/special-enrollment/readmission-to-ucsd.html" target="_blank">How to Apply for Readmission to UC San Diego (Undergraduate)</a>    </h5>
+<h2>Enrollment Exceptions and Limits        </h2>
+        <p>The undergraduate program consists of four four-unit courses each quarter, or sixteen units per quarter, for four years. Students must complete a minimum of thirty-six units in three consecutive quarters in order to satisfy the minimum progress requirements (see &ldquo;<a href="AcadRegu.html#miniprogress">Minimum Progress</a>&rdquo; in the &ldquo;<a href="AcadRegu.html">Academic Regulations</a>&rdquo; section). Undergraduate students wishing to take more than twenty-two units of credit in a quarter will need their college provost&rsquo;s approval. </p>
+                <p>The minimum unit requirement for the bachelor&rsquo;s degree is 180 quarter units. A student is expected to complete the requirements for graduation within this minimum unit requirement. The bachelor of science (BS) degree may require satisfaction of additional units, depending upon the student&rsquo;s major.</p>
+                <h4>Quarter Limit and Enrollment Beyond the Quarter Limit (for students entering UC San Diego in fall 2019 or thereafter)</h4>
+                <p>An undergraduate student who enrolls at UC San Diego as a freshman in fall 2019 or thereafter is allowed to enroll for twelve quarters to complete all requirements for a bachelor of arts (BA) or bachelor of science (BS) degree; if a student reaches this quarter limit and needs additional time to complete those requirements, they will be required to submit a completion plan and have it approved by their college prior to enrolling for additional quarters to continue work toward the degree.</p>
+                <p>An undergraduate student who enrolls at UC San Diego as a transfer student in fall 2019 or thereafter is allowed to enroll for six quarters to complete all requirements for a bachelor of arts (BA) or bachelor of science (BS) degree; if a student reaches this quarter limit and needs additional time to complete those requirements, they will be required to submit a completion plan and have it approved by their college prior to enrolling for additional quarters to continue work toward the degree.</p>
+                <p>Summer session, as well as quarters during which students are approved for part-time status or have withdrawn from all courses, will not count toward the allowable number of quarters.</p>
+                <p>See information regarding &ldquo;<a href="https://www.ucsd.edu/catalog/front/UgrdDegReq.html#maxunit">Quarter Limit and Enrollment Beyond the Quarter Limit</a>&rdquo; in the &ldquo;<a href="https://www.ucsd.edu/catalog/front/UgrdDegReq.html">Undergraduate Degree Requirements</a>&rdquo; section of this catalog.</p>
+
+<h4>Maximum Unit Limitation and Approval for Enrollment for More than 200 Units (for students enrolled at UC San Diego prior to fall 2019)</h4>
+<p>An undergraduate student who enrolled at UC San Diego as a freshman or transfer student prior to fall 2019 may register for no more than 200 course units. Candidates for BS degrees in engineering are permitted 230 units (240 for engineering majors in Revelle and Roosevelt colleges). Under special circumstances, students may extend their undergraduate training beyond the minimum. Non-engineering students who are attempting to achieve more than 200 quarter-units will not be permitted to register without their college provost&rsquo;s approval. Other exceptions will be granted only for compelling academic reasons and only with the approval of the college provost. Transfer units applicable toward general education requirements or major requirements are included in the maximum unit calculation; all other transfer units are excluded.  Advanced placement and international baccalaureate units are excluded. See information regarding &ldquo;<a href="UgrdDegReq.html#maxunit">Maximum Unit Limitation</a>&rdquo; in the &ldquo;<a href="UgrdDegReq.html">Undergraduate Degree Requirements</a>&rdquo; section of this catalog.<u> </u>
+</p>
+              <h3>Enrollment and Registration Holds </h3>
+              <p>A student may have a &ldquo;hold&rdquo; placed on his or her enrollment or registration (payment of fees) and/or academic transcripts for the following reasons: </p>
+                <ol>
+                  <li>Failure to respond to official notices.</li>
+                  <li>Failure to settle financial obligations when due or to make satisfactory arrangements with the Student Financial Services Office.</li>
+                  <li>Failure to present certification of degrees and/or status on leaving previous institution(s).</li>
+                  <li>Failure to comply with admission conditions.</li>
+                  <li>Failure to declare major after ninety units. </li>
+                </ol>
+            <p>Each student who becomes subject to a hold action is given advance notice and ample time to deal with the situation. However, if the student fails to respond, action will be taken without further notice, and he or she is entitled to no further services of the university, except assistance toward resolving the issue. Students must secure a release from the office initiating the hold action in order to receive further services from the university.</p>
+                <h2><a name="paymentofregistrationfees"></a>Payment of Fees</h2>
+    <h3>Billing and Payment</h3>
+            <p>Registration at UC San Diego is a two-step process: (1) enrollment in classes and (2) payment of fees. You must enroll first so that your fees can be assessed. You can pay fees any time after you enroll in classes. An E-Bill notice will be emailed to your UC San Diego email address after enrollment; however, if enrollment occurs just prior to the enrollment deadline, you may not receive an E-Bill notice. Pay by E-check on TritonLink or make checks payable to: UC Regents. Mail checks to UC San Diego Cashier&rsquo;s Office, 9500 Gilman Dr. # 0009, La Jolla, CA 92093-0009. Be sure to include your student PID number on your check and include the remittance stub from TritonLink or the top portion of your billing statement. Fees are due and payable by the published deadline whether or not an E-Bill notice is received. Payments must be posted to your student account by published deadlines. Your current account activity and balance are available on TritonLink during normal TritonLink hours. </p>
+            <h5><a href="http://students.ucsd.edu/finances/billing-payment/index.html" target="_blank">Student and Billing Payment</a>
+ </h5>
+               <h4>E-Bill Information</h4>
+               <p>Students don&rsquo;t receive printed bills via US mail. Instead, UC San Diego sends an E-Bill notice to your UC San Diego-issued email address when your bill is ready to be viewed and paid.</p>
+               <h5><a href="http://students.ucsd.edu/finances/billing-payment/understanding/index.html" target="_blank">About Your E-Bill</a>
+               </h5>
+    <h4>E-Bill: View and Pay Bills</h4>
+              <h5><a href="http://students.ucsd.edu/finances/billing-payment/understanding/read.html" target="_blank">How to Read Your Bill</a>
+              </h5>
+    <h4>TRIP</h4>
+            <p>The UC San Diego Triton Registration Installment Plan (TRIP) is available for students who desire an alternative method of financing their registration fees on a short-term basis. All students in good financial and academic standing are eligible for the program, except for those students whose financial aid or graduate support will pay their registration fees. </p>
+            <h5><a href="https://students.ucsd.edu/finances/billing-payment/paying/TRIP/index.html" target="_blank">Triton Registration Installment Plan (TRIP)</a>
+            </h5>
+    <h4>Resolving Holds on Student Account</h4>
+           <p>A hold on your student account can delay your financial aid disbursement, payments, transcript request, or other university services. Learn about the different types of student account holds and how to resolve them. </p>
+           <h5><a href="http://students.ucsd.edu/finances/billing-payment/student-accounts/resolving-holds.html" target="_blank">Resolving Payment Holds on Your Student Account</a>
+           </h5>
+         
+      
+    <h3>Fees</h3>
+        <h5><a href="http://students.ucsd.edu/finances/fees/index.html" target="_blank">Fees</a>
+        </h5>
+    <h4>Explanation of Fees</h4>
+       <h5><a href="http://students.ucsd.edu/finances/fees/registration/explanation.html" target="_blank">Explanation of Registration Fees</a>
+       </h5>
+    <h4>Registration Fees</h4>
+    <p>The university registration fee covers services that benefit the student and are complementary to, but not a part of, the instructional program, and it includes recreational activities, student organizations, and the Student Health Service. No part of this fee is refunded to students who do not make use of these privileges. </p>
+    <p>In addition, there is a campus activity fee for undergraduates, a university center fee for all students to be used for the construction and operation of the student centers, and a recreational facility fee. <strong>Note:</strong> Fees are subject to change.<strong></strong></p>
+    <h5><a href="http://students.ucsd.edu/finances/fees/registration/index.html" target="_blank">Registration Fees</a>
+    </h5>
+    <h4>Fee Due Dates</h4>
+    <p>To avoid late fees, students are should check bill availability and due dates. </p>
+    <h5><a href="http://students.ucsd.edu/finances/billing-payment/understanding/due-dates.html" target="_blank">Due Dates</a>
+    </h5>
+    <h4>Late Fees</h4>
+    <p>Students who enroll in courses but fail to pay fees by the published deadline will be assessed a late payment fee. Students who fail to enroll in courses prior to the registration deadline will also be assessed a late enrollment fee and a late payment fee. Currently these fees are $50 each.<strong></strong></p>
+    <h5><a href="http://students.ucsd.edu/finances/fees/registration/late-fees.html" target="_blank">Enrollment and Registration Late Fees</a> </h5>
+    <h5><a href="http://students.ucsd.edu/finances/billing-payment/student-accounts/late-fees.html" target="_blank">Student Account Late Fees</a>
+    </h5>
+    <h4>Waiver or Deferment of Fees</h4>
+    <p>If you are entitled to a waiver or deferment of fees, the amount will show as a credit on your billing statement. If you have questions, contact the office responsible as listed below.</p>
+    <h5><a href="http://students.ucsd.edu/finances/fees/registration/waiver-or-deferment.html" target="_blank">Waiver or Deferment of Fees</a>
+    </h5>
+    <h4>Schedule of Refunds</h4>
+    <p>If you withdraw from UC San Diego, you may be eligible for a partial or full refund of prepaid fees, depending on date, prior debt, and schedule. </p>
+    <h5><a href="http://students.ucsd.edu/finances/fees/registration/schedule-of-refunds.html" target="_blank">Schedule of Refunds</a>
+    </h5>
+    <h3><a href="http://fao.ucsd.edu" target="_blank">Financial Aid and Scholarships </a></h3>
+    <h2>California Residency for Tuition Purposes</h2>
+    <h3>Introduction    </h3>
+<p>The rules regarding residence for tuition purposes at the University of California are governed by the California Education Code and implemented by standing orders of the Regents of the University of California. Under these rules, adult citizens and certain classes of resident aliens can establish residence for tuition purposes. There are particular rules that apply to the residence classification of minors.</p>
+<h5><a href="http://students.ucsd.edu/finances/fees/residence/index.html" target="_blank">Residence for Tuition Purposes</a></h5>
+                <h4>Criteria to Establish Residence for Tuition Purposes</h4>
+                <p>Learn about the UC criteria for determining who is a California resident for tuition purposes. </p>
+                <h5><a href="http://students.ucsd.edu/finances/fees/residence/criteria.html" target="_blank">Criteria to Establish Residence for Tuition Purposes</a>
+    </h5>
+                <h4>About Residence for Tuition Purposes</h4>
+                <p>Learn about how UC establishes residence for tuition purposes. </p>
+                <h5><a href="https://www.ucop.edu/residency/" target="_blank">About Residence for Tuition Purposes</a>
+                </h5>
+    <h4>How to Change Your Nonresident Status to Resident</h4>
+              <p>Instructions for a continuing UC San Diego student who wants to change from a nonresident to a resident for tuition purposes. </p>
+              <h5><a href="http://students.ucsd.edu/finances/fees/residence/status-change.html" target="_blank">How to Change Your Nonresident Status to Resident</a>
+              </h5>
+    <h4>Resident Determination Dates</h4>
+             <p>The residence determination date is the day instruction begins at the last of the University of California campuses to open for the quarter. To be considered a resident of California, you must establish your physical presence at least 366 days prior to this date. </p>
+             <h5><a href="http://students.ucsd.edu/finances/fees/residence/dates-deadlines.html" target="_blank">Residence Determination Dates</a>
+             </h5>
+    <h4>Exemptions and Waivers from Nonresident Tuition</h4>
+              <p>Find out about exemptions and waivers from residence requirements. </p>
+              <h5><a href="http://students.ucsd.edu/finances/fees/residence/exemptions.html" target="_blank">Exemptions and Waivers from Nonresident Tuition</a>
+              </h5>
+    <h4>Resources for Undocumented Students</h4>
+            <p>Resources and information is available here for undocumented students, including the AB 540. AB 540 allows certain students who have attended high school in California for three or more years and earned a high school diploma or equivalent to be exempt from paying nonresident tuition at California public universities. </p>
+            <h5><a href="http://students.ucsd.edu/finances/fees/residence/ab540.html" target="_blank">Resources for Undocumented Students</a></h5>
+    <h4>Residence Information for Noncitizens</h4>
+             <p>Important information for students that are not a US citizen or a permanent resident alien. </p>
+             <h5><a href="http://students.ucsd.edu/finances/fees/residence/noncitizens.html" target="_blank">Residence Information for Noncitizens</a>
+             </h5>
+    <h4>Residence Rules for Minors/Guardians</h4>
+            <p>General and specific rules that apply to minors and their guardians. </p>
+            <h5><a href="http://students.ucsd.edu/finances/fees/residence/minors-guardians.html" target="_blank">Residence Rules for Minors/Guardians</a>
+     </h5>
+           <h4>Temporary Absences
+    </h4>
+           <p> Find out how leaving the state might affect your residence status. </p>
+           <h5><a href="http://students.ucsd.edu/finances/fees/residence/temporary-absences.html" target="_blank">Temporary Absences</a>
+   </h5>
+            <div>
+<div> </div>
+                  <div> </div>
+                  <div> </div>
+                  <div> </div>
+                  <div> </div>
+        </div>
+        <!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

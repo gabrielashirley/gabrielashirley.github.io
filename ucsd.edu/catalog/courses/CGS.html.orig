@@ -1,0 +1,223 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Critical Gender Studies Courses</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopMargin">Critical Gender Studies</h1>
+<p><span class="courseFacLink">[ <a href="../curric/CGS-ug.html">undergraduate program</a> | <a href="../curric/CGS-gr.html">graduate program</a> | <a href="../faculty/CGS.html">faculty</a> ]</span> </p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/Course Name and Disclaimer.lbi" -->
+<h2>Courses</h2>
+<p class="course-disclaimer"><em>For course descriptions not found in the </em>UC
+  San Diego General Catalog 2019&#8211;20<em>, please contact the department
+  for more information.</em></p><!-- #EndLibraryItem --><h2 class="course-subhead-1">Lower Division </h2>
+  <h3 class="course-subhead-2">Foundation Requirements</h3>
+				<p class="anchor-parent"><a class="anchor" id="cgs2a" name="cgs2a" /></a></p><p class="course-name">CGS 2A. Introduction to Critical Gender Studies: Key Terms and Concepts  (4)</p>
+				<p class="course-descriptions">This course will be a general introduction to the key terms, issues, and concepts in the fields of gender and sexuality studies. </p>
+				<p class="anchor-parent"><a class="anchor" id="cgs2b" name="cgs2b" /></a></p><p class="course-name">CGS 2B. Introduction to Critical Gender Studies: Social Formations  (4)</p>
+				<p class="course-descriptions">An introduction to the social relations of power that are shaped by and that shape gender and sexuality. It will build more on the basic concepts and skills introduced in CGS 2A. </p>
+				<h3 class="course-descriptions"><span class="course-subhead-2">Other</span></h3>
+				<p class="anchor-parent"><a class="anchor" id="cgs87" name="cgs87" /></a></p><p class="course-name">CGS 87. Critical
+		  Gender Studies Freshman Seminar (1)</p>
+				<p class="course-descriptions">The Freshman Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small, seminar setting. Freshman Seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering freshmen. </p>
+		<h2 class="course-subhead-1">Upper Division </h2>
+				<h3><span class="course-subhead-2">Foundation Requirements</span></h3>
+				<p class="anchor-parent"><a class="anchor" id="cgs100a" name="cgs100a" /></a></p>
+				<p class="course-name">CGS 100A. Conceptualizing Gender: Theoretical Approaches  (4) </p>
+				<p class="course-descriptions">This course explores the significance of gender as a category of analysis by examining diverse theoretical frameworks from the field of critical gender studies. Particular attention is given to gender in relation to race, class, sexuality, nation, (dis)ability, and religion. Students will not receive credit for both CGS 100 and 100A. <strong class="italic">Prerequisites:</strong> CGS 2A-B or at least one CGS upper-division course.</p>
+				<p class="anchor-parent"><a class="anchor" id="cgs100b" name="cgs100b" /></a></p><p class="course-name">CGS 100B. Conceptualizing Gender: Methods and Methodologies (4) </p>
+        <p><span class="course-descriptions">Introduction to interdisciplinary research methodologies used in critical gender studies. Students will learn to identify and utilize humanities, social science, and natural science methods for studying gender and sexuality, and to evaluate how knowledge about gender and sexuality is produced. <strong class="italic">Prerequisites:</strong> CGS 2A-B or at least one CGS upper-division course.</span> </p>
+        <h3 class="course-subhead-2">Intermediate Level Courses</h3>
+        <p class="anchor-parent"><a class="anchor" id="cgs101" name="cgs101" /></a></p><p class="course-name">CGS 101. Gender, Modernity, and Globalization (4)</p>
+				<p class="course-descriptions">The global effects of modernity, modernization, and globalization on men and women. Topics: international consumer culture; international divisions of labor; construction of sexuality and gender within global movements; and the migrations of people, capital, and culture. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="cgs105" name="cgs105" /></a></p><p class="course-name">CGS 105. Queer Theory (4)</p>
+				<p class="course-descriptions">Examines the different methodologies and disciplinary histories that together constitute the interdisciplinary project called queer studies. Of particular interest will be how these different methodologies and history construe and construct the relations between gender, race, class, and nation. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="cgs106" name="cgs106" /></a></p><p class="course-name">CGS 106. Gender and the Law (4)</p>
+				<p class="course-descriptions">Explores the legal treatment of discrimination on the basis of gender, including equal protection doctrine and some statutory law such as Title VII. Topics include the meaning of gender equality in such areas as single-sex education, military service, sexual harassment, discrimination on the basis of pregnancy, and other current issues. </p>
+				<p class="anchor-parent"><a class="anchor" id="cgs108" name="cgs108" /></a></p><p class="course-name">CGS 108. Gender, Race, and Artificial Intelligence (4)</p>
+				<p class="course-descriptions">(Cross-listed with LTCS 108.) This course explores the idea of artificial intelligence in both art and science, its relation to the quest to identify what makes us human, and the role gender and race have played in both. Students may not receive credit for CGS 108 and LTCS 108.</p>
+				<p class="anchor-parent"><a class="anchor" id="cgs111" name="cgs111" /></a></p><p class="course-name">CGS 111. Gender and the Body (4)</p>
+				<p class="course-descriptions">Various approaches to the study of gendered bodies. Possible topics to include masculinities/femininities; lifecycles; biology, culture, and identity; medical discourses; and health issues. May be taken for credit three times when topics vary. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="cgs112" name="cgs112" /></a></p><p class="course-name">CGS 112. Sexuality and Nation (4)</p>
+				<p class="course-descriptions">(Cross-listed with ETHN 127.) This course explores the nexus of sex, race, ethnicity, gender, and nation and considers their influence on identity, sexuality, migration movement and borders, and other social, cultural, and political issues that these constructs affect.<strong class="italic"> Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="cgs113" name="cgs113" /></a></p><p class="course-name">CGS 113. Gender and Sexuality in the Arts (4)</p>
+				<p class="course-descriptions">Examines gender and sexuality in artistic practices: music, theatre, dance, performance, visual arts, and new media. Topics may include study of specific artists, historical moments, genres, cross-cultural analyses, and multiculturalism. May be taken three times when topics vary. <strong class="italic">Prerequisites: </strong>upper-division standing or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="cgs114" name="cgs114" /></a></p><p class="course-name">CGS 114. Gender, Race, Ethnicity, and Class (4)</p>
+				<p class="course-descriptions">(Cross-listed with ETHN 183.) Gender is often neglected in studies of ethnic/racial politics. This course explores the relationship of race, ethnicity, class, and gender by examining the participation of working-class women of color in community politics and how they challenge mainstream political theory.</p>
+				<p class="anchor-parent"><a class="anchor" id="cgs117" name="cgs117" /></a></p><p class="course-name">CGS 117. Transgenderisms (4)</p>
+				<p class="course-descriptions">(Cross-listed with ANSC 117.) This course contrasts mainstream Anglo-American conceptualizations of transgenderism with ethnographic accounts of the experiences and practices of gender expansive people of color (African, Native, Asian/Pacific Islander, and Latinx Americans) in the United States and abroad. It will question the idea of transgenderism as a crossing from one gender to another one, the distinction between gender identity and sexuality, and the analytic of intersectionality. Students will not receive credit for both CGS 117 and ANSC 117.</p>
+		<p class="anchor-parent"><a class="anchor" id="cgs118" name="cgs118" /></a></p><p class="course-name">CGS 118. Gender and Incarceration (4)</p>
+		<p class="course-descriptions">(Cross-listed with ANSC 186.) This course investigates the ways in which forces of racism, gendered violence, and state control intersect in the penal system. The prison-industrial complex is analyzed as a site where certain types of gendered and racialized bodies are incapacitated, neglected, or made to die. Students may not receive credit for CGS 118 and ANSC 186. </p>
+				<p class="anchor-parent"><a class="anchor" id="cgs119" name="cgs119" /></a></p><p class="course-name">CGS 119. Asian American Film, Video, and New Media: The Politics of Pleasure (4)</p>
+				<p class="course-descriptions">(Cross-listed with LTCS 119.) The course explores the politics of pleasure in relation to the production, reception, and performance of Asian American identities in the mass media of film, video, and the internet. The course considers how the &quot;deviant&quot; sexuality of Asian Americans (e.g., hypersexual women and emasculated men) does more than uniformly harm and subjugate Asian American subjects. The texts explored alternate between those produced by majoritarian culture and the interventions made by Asian American filmmakers. Students may not receive credit for LTCS 119 and CGS 119.</p>
+				<p class="anchor-parent"><a class="anchor" id="cgs120" name="cgs120" /></a></p><p class="course-name">CGS 120. Capitalism and Gender (4)</p>
+				<p class="course-descriptions">(Cross-listed with ANSC 180.)&nbsp;Drawing insight from anti-colonial and queer of color critique, this course critically examines the demands capitalism makes on us to perform gender, and how that relates to processes of exploitation and racialization. We will explore alternatives and develop strategies for navigating jobs in this system. Students may receive credit for one of the following: CGS 120, CGS 180, and ANSC 180.</p>
+        <h3 class="course-subhead-2">Advanced Level Courses </h3>
+  
+				<p class="anchor-parent"><a class="anchor" id="cgs121" name="cgs121" /></a></p>
+				<p class="course-name">CGS 121. Selected Topics in Critical Gender Studies (4)</p>
+				<p class="course-descriptions">An interdisciplinary course focusing on one of a variety of topics in gender studies, such as gender and science, the body, reproductive technologies, and public policy. May be taken for credit three times when topics vary. <strong class="italic">Prerequisites:</strong> CGS 2A-B, at least one CGS upper-division course, or permission of the instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="cgs122" name="cgs122" /></a></p><p class="course-name">CGS 122. Advanced Topics in Comparative Perspectives (4)</p>
+				<p class="course-descriptions">Focuses on the relationship between gender and culture from a multiplicity of perspectives. Possible topics could include gender and ethnicity, gender across class, and other topics to be examined in a cross-cultural framework. May be taken for credit two times when topics vary. <strong class="italic">Prerequisites:</strong> CGS 2A-B, at least one CGS upper-division course, or permission of the instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="cgs123" name="cgs123" /></a></p><p class="course-name">CGS 123. Gender and Reproductive Politics (4)</p>
+				<p class="course-descriptions">Legal treatment of gender, reproductive rights, and the family, particularly as evolving law, primarily in the U.S., has created conflicting rights, roles, and responsibilities. Topics include abortion, fetal rights, surrogacy, marriage, and child custody issues. Students will not receive credit for both CGS 107 and 123. <strong class="italic">Prerequisites:</strong> CGS 2A-B, at least one CGS upper-division course, or permission of the instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="cgs124" name="cgs124" /></a></p><p class="course-name">CGS 124. Girls and Sexuality: Moral Panics, Perils, and Pleasures (4)</p>
+		<p class="course-descriptions">Explores how girls’ sexualities are shaped by gender, race, class, educational and penal institutions, and sexual norms. Engages with interdisciplinary scholarship that examines how and why the topic of girls and sexuality has become a volatile subject of public debate, and the manner in which girls’ sexualities are represented in various media, particularly film. Students will not receive credit for both CGS 116 and 124. <strong class="italic">Prerequisites:</strong> CGS 2A-B, at least one CGS upper-division course, or permission of the instructor. </p>
+		<p class="anchor-parent"><a class="anchor" id="cgs125" name="cgs125" /></a></p><p class="course-name">CGS 125. Women of Color Writers (4)</p>
+		<p class="course-descriptions">For women of color, writing has been more than just artistic expression. Women of color have also used the written word to challenge dominant ideas of race, gender, desire, power, violence, and intimacy, and to construct new ways of knowing, writing, and being. This course examines writing by women of color to understand how literary texts can shape and reflect social and political contexts. <strong><em>Prerequisites:</em></strong> CGS 2A or CGS 2B or at least one CGS upper-division course.</p>
+<p class="anchor-parent"><a class="anchor" id="cgs137" name="cgs137" /></a></p><p class="course-name">CGS 137. Latina Issues and Cultural Production (4)</p>
+		<p class="course-descriptions">(Cross-listed with ETHN 137.) This course will focus on the intersection of labor, class, race, ethnicity, gender, sexuality, and immigration in Latina cultural production.&nbsp;Examined from a socio-economic, feminist, and cultural perspective, class readings will allow for historically grounded analyses of these issues.&nbsp;May be taken for credit three times. <strong class="italic">Prerequisites:</strong> CGS 2A-B, ETHN 1, 2, or 3, at least one CGS or ETHN upper-division course, or permission of the instructor. Students may receive a combined total of twelve units for CGS 137 and ETHN 137.</p>
+		<p class="anchor-parent"><a class="anchor" id="cgs147" name="cgs147" /></a></p><p class="course-name">CGS 147. Black Feminisms, Past and Present (4)</p>
+		<p class="course-descriptions">(Cross-listed with ETHN 147.) An advanced introduction to historical and contemporary black feminisms in the United States and transnationally. Students will explore the theory and practice of black feminists/womanists and analyze the significance of black feminism to contemporary understandings of race, class, gender, and sexuality. Students may not receive credit for CGS 147 and ETHN 147. <strong class="italic">Prerequisites:</strong> CGS 2A-B, ETHN 1, 2, 3, at least one CGS or ETHN upper-division course, or permission of the instructor.</p>
+		<p class="anchor-parent"><a class="anchor" id="cgs150" name="cgs150" /></a></p><p class="course-name">CGS 150. Visuality, Sexuality, and Race (4)</p>
+		<p class="course-descriptions">(Cross-listed with ETHN 150.) Examines the role of the visual in power relations; the production of what we see regarding race and sexuality; the interconnected history of the caste system, plantation slavery, visuality and contemporary society; decolonial and queer counternarratives to visuality. Students may not receive credit for CGS 150 and ETHN 150.<strong class="italic"> Prerequisites:</strong> CGS 2A,-B, ETHN 1, 2, 3, at least one CGS or ETHN upper-division course, or permission of the instructor.</p>
+		<p class="anchor-parent"><a class="anchor" id="cgs165" name="cgs165" /></a></p><p class="course-name">CGS 165. Gender and Sexuality in African American Communities (4)</p>
+				<p class="course-descriptions">(Cross-listed with ETHN 165.)&nbsp;This course will investigate the changing constructions of sexuality, gender, and sexuality in African American communities defined by historical period, region, and class. Topics will include the sexual division of labor, myths of black sexuality, the rise of black feminism, black masculinity, and queer politics. Students may not receive credit for CGS 165 and ETHN 165. <strong class="italic">Prerequisites:</strong> CGS 2A-B, ETHN 1, 2, 3, at least one CGS or ETHN upper-division course, or permission of the instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="cgs187" name="cgs187" /></a></p><p class="course-name">CGS 187. Latinx Sexualities (4) </p>
+		<p class="course-descriptions">(Cross-listed with ETHN 187.) The construction and articulation of Latinx sexualities will be explored in this course through interdisciplinary and comparative perspectives. We will discuss how immigration, class, and norms of ethnicity, race, and gender determine the construction, expression, and reframing of Latinx sexualities. Students will not receive credit for both CGS 115 and 187. <strong class="italic">Prerequisites:</strong> CGS 2A-B, ETHN 1, 2, 3, at least one CGS or ETHN upper-division course, or permission of the instructor.                </p>
+		<p class="anchor-parent"><a class="anchor" id="cgs190" name="cgs190" /></a></p>
+				<p class="course-name">CGS 190. Honors Seminar (4)</p>
+				<p class="course-descriptions">Interdisciplinary readings in feminist theory and research methodology to prepare students for writing an honors thesis. Open to critical gender studies majors who have been admitted to Critical Gender Studies Honors Program. May be applied toward primary concentration in critical gender studies major. <strong class="italic">Prerequisites: </strong>consent of instructor and department preauthorization required. </p>
+				<p class="anchor-parent"><a class="anchor" id="cgs196a" name="cgs196a" /></a></p><p class="course-name">CGS 196A. Critical Gender Studies Honors Research  (4)</p>
+				<p class="course-descriptions">A program of independent study providing candidates for critical gender studies honors to develop, in consultation with an adviser, a preliminary proposal for the honors thesis. An IP grade will be awarded at the end of this quarter. A final grade for both quarters will be given upon completion of Critical Gender Studies 196B. <strong class="italic">Prerequisites:</strong> consent of instructor and department preauthorization required. </p>
+				<p class="anchor-parent"><a class="anchor" id="cgs196b" name="cgs196b" /></a></p><p class="course-name">CGS 196B. Honors Thesis (4)</p>
+				<p class="course-descriptions">Honors thesis research and writing for students who have completed Critical Gender Studies 190 and 196A. A letter grade for both Critical Gender Studies 196A and 196B will be given at the completion of this quarter. <strong class="italic">Prerequisites: </strong>consent of instructor and department preauthorization required.</p>
+				<p class="anchor-parent"><a class="anchor" id="cgs198" name="cgs198" /></a></p>
+				<p class="course-name">CGS 198. Directed Group Study (2–4)</p>
+				<p class="course-descriptions">Directed group study on a topic not generally included in the critical gender studies curriculum. <strong class="italic">Prerequisites:</strong> consent of instructor and director of Critical Gender Studies Program and department stamp required. </p>
+				<p class="anchor-parent"><a class="anchor" id="cgs199" name="cgs199" /></a></p>
+				<p class="course-name">CGS 199. Independent Study (2–4)</p>
+				<p class="course-descriptions">Tutorial; independent study on a topic not generally included in the curriculum. <strong class="italic">Prerequisites:</strong> consent of instructor and director of Critical Gender Studies Program and department stamp required. </p>
+				<h2>Graduate</h2>
+                <p class="anchor-parent"><a class="anchor" id="cgs200" name="cgs200" /></a></p><p class="course-name">CGS 200. Advanced Studies in Critical Gender Studies (4)</p>
+                <p class="course-descriptions">This course, the first in the graduate specialization in Critical Gender Studies, is designed to give students a broad but advanced survey of historical and current research in studies of gender and sexuality in the arts, humanities, and social sciences. </p>
+                <p class="anchor-parent"><a class="anchor" id="cgs208" name="cgs208" /></a></p><p class="course-name">CGS 208. Gender Variance (4)</p>
+                <p class="course-descriptions">(Cross-listed with ANTH 208.) This seminar critically examines gender variance by contrasting local and global contexts. We will interrogate Western analytical frameworks of sex, gender, and sexuality including the idea of transgenderism as a crossing from one gender to an opposite one, the distinction between gender identity and sexuality, and the assumed relationship between sex and gender in relation to other social formations and processes. Students will not receive credit for both CGS 208 and ANTH 208. </p>
+                <p class="anchor-parent"><a class="anchor" id="cgs280" name="cgs280" /></a></p><p class="course-name">CGS 280. Special Topics in Critical Gender Studies (4)</p>
+                <p class="course-descriptions">Specialized study in critical gender studies, with topics to be determined by the instructor any given quarter. Special topics in CGS will be offered at least once per year.</p>
+                <p class="anchor-parent"><a class="anchor" id="cgs299" name="cgs299" /></a></p><p class="course-name">CGS 299. Advanced Practicum in Critical Gender Studies (4)</p>
+        <p class="course-descriptions">This course, the capstone in the graduate specialization in Critical Gender Studies, is designed for students in their final year of dissertation writing. Members of the practicum will present their dissertation research and mutually explore the interdisciplinary dimensions and implications of their work. </p>
+                <p class="anchor-parent"><a class="anchor" id="cgs500" name="cgs500" /></a></p><p class="course-name">CGS 500. Apprentice Teaching in Critical Gender Studies (4)</p>
+				<p class="course-descriptions">Consideration of pedagogical methods appropriate to undergraduate teaching in critical gender studies courses under supervision of instructor of course. Instructor will define apprentice&rsquo;s responsibilities in preparing class presentations, directing student discussions, evaluating and grading students&rsquo; work, and maintaining productive association with students. </p>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

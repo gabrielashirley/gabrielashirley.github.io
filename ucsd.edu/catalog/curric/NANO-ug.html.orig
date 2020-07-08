@@ -1,0 +1,662 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>NanoEngineering (NANO) curriculum</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">NanoEngineering (NANO) </h1>
+<p class="courseFacLink">[ <a href="../curric/NANO-gr.html">graduate
+      program</a> | <a href="../courses/NANO.html">courses</a> | <a href="../faculty/NANO.html">faculty</a> ]</p>
+<p class="program-contact-info">BUSINESS AFFAIRS: <br />
+  240 Structural Materials Engineering Building, Warren College</p>
+<p class="program-contact-info">STUDENT AFFAIRS: <br />
+  Undergraduate Affairs: 241A Structural Materials Engineering Building, Warren College<br>
+Graduate Affairs: 240A Structural Materials Engineering Building, Warren College</p>
+<p class="program-contact-info"><a href="http://nanoengineering.ucsd.edu" target="_blank">http://nanoengineering.ucsd.edu</a></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h2 class="program-overview-subhead-1">Departmental Focus </h2>
+				<p>The Department of NanoEngineering focuses on nanoscale science, engineering,
+				  and technology that have the potential to make valuable advances in different
+				  areas that include, to name a few, new materials, biology and medicine,
+				  energy conversion, sensors, and environmental remediation. NanoEngineering
+				  is a highly diversified and multidisciplinary field. The graduate research
+				  programs cover a broad range of topics, but focus particularly on biomedical
+				  nanotechnology, nanotechnologies for energy conversion and storage, computational
+				  nanotechnology, and molecular and nanomaterials. Undergraduate degree programs
+				  focus on integrating the various science and engineering disciplines necessary
+			    for successful careers in the evolving nanotechnology industry.				</p>
+				<h2 class="program-overview-subhead-1">Degree and Program Options </h2>
+<p>The Department of NanoEngineering offers two undergraduate programs. One program leads to the BS in NanoEngineering. The other program leads to the BS in chemical engineering. Chemical engineering (BS) is accredited by the Engineering Accreditation Commission of ABET, <a href="http://www.abet.org" target="_blank">http://www.abet.org</a>. NanoEngineering (BS) is accredited by the Engineering Accreditation Commission of ABET, <a href="http://www.abet.org" target="_blank">http://www.abet.org</a>. </p>
+<p>These two degree programs have very different requirements and are described in separate sections.</p>
+<h2>NanoEngineering Program (NANO) </h2>
+                <h3 class="program-overview-subhead-2">Program Mission and Objectives </h3>
+                <p>The mission of the NanoEngineering program is to provide a
+                  multidisciplinary education in nanoscale science and technology.
+                  The primary goals are to ensure that NanoEngineering students will</p>
+                <ul type="disc">
+                  <li>Have a strong technical background,      enabling them to be successful in careers that cross traditional areas of      applied science and engineering.</li>
+                  <li>Be fluent in a multidisciplinary      body of knowledge for participating in and seeding new technologies.</li>
+                  <li>Constitute a high-technology      workforce with professional, scientific, and technical skills; they will      conduct themselves ethically and knowledgeably in a wide range of      professional environments.</li>
+                </ul>
+                
+        <h3 class="program-overview-subhead-2">The Undergraduate Program </h3>
+        <p>The BS program in NanoEngineering is tailored to provide
+                  breadth and flexibility by taking advantage of the strength
+                  of basic sciences and other engineering disciplines at UC San
+                  Diego. The intention is to graduate nanoengineers who are multidisciplinary
+                  and can work in a broad spectrum of industries. </p>
+        <p>All NanoEngineering courses are taught only once per year, and courses
+                  are scheduled to be consistent with the curriculum as shown
+                  in the tables below. Under normal circumstances, students must
+                  follow the prescribed curriculum. Unavoidable deviation from
+                  the curriculum, for example, to participate in the Education
+                  Abroad Program, must be approved by the Undergraduate Affairs
+                  Committee prior to taking alternative courses elsewhere. Approvals
+                  are also needed for engineering courses not listed under the
+                  current selections for different engineering focus areas. Courses
+                  such as NANO 195, 197, and 198 are not allowed as a NanoEngineering
+                  elective in meeting the upper-division major requirements.
+                  NANO 199 can be used as a technical elective only under restrictive
+                  conditions. Policy regarding these conditions may be obtained
+                  from the department’s Student Affairs Office. All students
+                  are encouraged to visit the Student Affairs Office or visit
+                  the <a href="http://nanoengineering.ucsd.edu/" target="_blank">Department of NanoEngineering website</a> for any clarification
+                  and updated information. To graduate, students must maintain
+                  an overall GPA of at least 2.0, and the department requires
+                  at least a C– grade in each course required for the major.</p>
+        <h3 class="program-overview-subhead-2">General-Education/College Requirements</h3>
+				<p>For graduation each student must satisfy general-education (GE) course requirements determined by the student&#8217;s college, as well as the major requirements determined by the department. The six colleges at UC San Diego require widely different general-education courses, and the number of such courses differs from one college to another. Each student should choose his or her college carefully, considering the special nature of the college and the breadth of general education.</p>
+		<h3 class="program-overview-subhead-2">Major Requirements </h3>
+		<p><strong>Basic sciences and mathematics (sixty units):</strong> This
+                  lower-division requirement includes twenty-four units of mathematics
+                  (MATH 20A-B-C-D-E and MATH 18, formerly MATH 20F), sixteen units of physics (PHYS 2A–D), sixteen
+                  units of chemistry (CHEM 6A–C, 7L), and four units of biology
+        (BILD 1). </p>
+                <p><strong>Engineering preparation (twelve units):</strong> This
+                  requirement covers basics in computer programming, circuit
+                  analysis and circuits lab (NANO 15, 106, and 107).</p>
+                <p><strong>NanoEngineering core (thirty-seven units):</strong> This
+                  requirement is constituted of a one-unit seminar (NANO 4) and
+                  nine core courses (NANO 101 to 104, 110 to 112, and 120A-B).</p>
+                <p><strong>NanoEngineering electives (eight units):</strong> This
+                  requirement must be chosen from among the upper-division NANO
+                  courses offered by the department (NANO courses numbered 100 through 199). </p>
+        <p><strong>Engineering focus (twenty units):</strong> Students are recommended to select all five&nbsp;engineering electives from within one single major to constitute an engineering focus. However, students are required to take only four of the five courses in one major, and the fifth course may be in any focus. Preapproved accepted courses of each of the five focuses are listed below:</p>
+                <ul>
+                  <li><em>Bioengineering:</em> <br />
+                    BENG 100, 103B,* 110, 112A, 112B, 122A,* 130, 186A<br />
+                    <span class="note">*BENG 103B requires CENG 101A; BENG 122A requires MAE 140. Both prerequisites are accepted as part of the twenty-unit bioengineering focus.</span></li>
+                  <li><em>Chemical engineering:</em> <br />
+                    CENG 100, 101A, 101B, 101C, 102, 113, 120, 157<br>
+                  CENG&nbsp;students have first priority for enrollment in their core courses.&nbsp;All prerequisites must be fulfilled before enrolling in any&nbsp;CENG&nbsp;course.                  </li>
+                  <li><em>Electrical engineering:</em> <br />
+                    ECE 100, 103, 109, 134, 135A, 135B, 136L, 138L, 139,
+                      183, 187</li>
+                  <li><em>Mechanical engineering:</em> <br />
+                  CENG 101A; NANO 108, 141A, 141B, 142A, 142B, 161, 174</li>
+                
+                  <li><em>Materials science:</em> <br />
+                  NANO 100L, 108, 114, 148, 150, 156,* 158, 161, 164, 168, 174, 174L<br>
+                  <span class="note">*NANO&nbsp;156 and MAE 166 are cross-listed courses; NANO majors must enroll in&nbsp;NANO&nbsp;156.</span></li>
+                  <li><em>Principle of Team Engineering (Global Ties)</em>:<br />
+                  Students are allowed to take one of the following four-unit &ldquo;Team in Engineering Service&rdquo; courses: ENG 100D or ENG 100B and ENG 100L or two quarters of ENG 100L as an approved Engineering Focus Elective. Click on the following link for more information about Global Ties: <a href="http://globalties.ucsd.edu/" target="_blank">http://globalties.ucsd.edu/</a>.</li>
+                </ul>
+                <p>All students follow the same basic science preparation and
+                  core set of classes in NanoEngineering during the first two
+                  years.</p>
+                <p>&nbsp;</p>
+        <table border="0" cellpadding="2" cellspacing="0" class="sample-program">
+          <tr>
+    <th width="111" valign="top" class="Normal"> <p><strong>Fall</strong></p></th>
+    <th width="111" valign="top" class="Normal"> <p><strong>Winter</strong></p></th>
+    <th width="111" valign="top" class="Normal"> <p><strong>Spring</strong></p></th>
+  </tr>
+  <tr class="coloredRow">
+    <td colspan="3" valign="top" class="Normal"><p><strong>Freshman Year</strong></p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>MATH 20A</p></td>
+    <td valign="top" class="Normal"><p>MATH 20B</p></td>
+    <td valign="top" class="Normal"><p>MATH 20C</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>CHEM 6A</p></td>
+    <td valign="top" class="Normal"><p>CHEM 6B</p></td>
+    <td valign="top" class="Normal"><p>CHEM 6C</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>NANO 15<sup></sup></p></td>
+    <td valign="top" class="Normal"><p>BILD 1</p></td>
+    <td valign="top" class="Normal"><p>PHYS 2A</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>GE</p></td>
+    <td valign="top" class="Normal"><p>NANO  4</p></td>
+    <td valign="top" class="Normal"><p>GE</p></td>
+  </tr>
+ <tr>
+    <td valign="top" class="Normal">&nbsp;</td>
+    <td valign="top" class="Normal"><p>GE</p></td>
+    <td valign="top" class="Normal">&nbsp;</td>
+  </tr>
+  <tr class="coloredRow">
+    <td colspan="3" valign="top" class="Normal"><p><strong>Sophomore Year</strong></p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>MATH 18 (formerly MATH 20F)</p></td>
+    <td valign="top" class="Normal"><p>MATH 20D</p></td>
+    <td valign="top" class="Normal"><p>MATH 20E</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>PHYS 2B</p></td>
+    <td valign="top" class="Normal"><p>PHYS 2C</p></td>
+    <td valign="top" class="Normal"><p>PHYS 2D</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>CHEM 7L<sup></sup></p></td>
+    <td valign="top" class="Normal"><p>NANO 101<sup></sup></p></td>
+    <td valign="top" class="Normal"><p>NANO 106</p></td>
+  </tr>
+  <tr>
+    <td valign="top" class="Normal"><p>GE</p></td>
+    <td valign="top" class="Normal">GE</td>
+    <td valign="top" class="Normal">GE</td>
+  </tr>
+        </table>
+        <p>After the sophomore year, students must choose an Engineering Focus. Students must keep in mind that the NANO courses are only offered once a year.</p>
+        <p>Prerequisites must be taken prior to selecting focus courses.</p>
+        <p><a href="http://ne.ucsd.edu/undergrad-programs/degree/bs-nanoengineering/engineering-focus" target="_blank">http://ne.ucsd.edu/undergrad-programs/degree/bs-nanoengineering/engineering-focus</a></p>
+<h3>Admission to NanoEngineering </h3>
+<p>Effective fall 2014, NanoEngineering has been granted capped status for freshman applications. Capped status will take effect for continuing and transfer students beginning fall 2015.</p>
+<h4>Freshman Admission (effective fall 2014)</h4>
+<p>As the NanoEngineering major is capped for incoming freshmen beginning fall 2014, students who have excelled in high school and have declared NanoEngineering on their UC San Diego application are eligible for direct admission into the major.</p>
+<p>The UC San Diego Office of Admissions and Relations with Schools will calculate an admissions target number and admit the appropriate number of incoming freshmen into the capped major using the UC San Diego Holistic Review score as a ranking method. Students who meet the UC San Diego admission criteria will be admitted into their chosen capped major, starting with the student having the highest holistic review score, until the admission target number is reached. These students will be notified directly by the Office of Admissions and Relations with Schools whether they have been admitted into their chosen capped major. Freshman students who applied but were not admitted directly from high school into the capped NanoEngineering major will be admitted into the major indicated as their second choice on the UC application (providing it is an &ldquo;open&rdquo; major).</p>
+<h4>Continuing Freshmen (effective fall 2015)</h4>
+<p>Freshmen not directly admitted into the NanoEngineering major will need to apply using the continuing application after their first three quarters (end of spring quarter) or after the end of their sixth quarter (end of spring quarter). A certain number of continuing students who apply will be selected to enter the capped NanoEngineering major.  </p>
+<p>Continuing students will be required to complete the following courses <em>prior</em> to applying.</p>
+<h5>NANOENGINEERING FRESHMEN APPLICANTS</h5>
+<p>(must apply after three quarters): <a href="http://ne.ucsd.edu/undergrad-programs/admissions" target="_blank">http://ne.ucsd.edu/undergrad-programs/admissions</a></p>
+<p>Screening courses: MATH 20A, 20B,&nbsp;20C, PHYS 2A, CHEM 6A, 6B, 6C</p>
+<h5>NANOENGINEERING SOPHOMORES </h5>
+<p>(must apply after six quarters): <a href="http://ne.ucsd.edu/undergrad-programs/admissions" target="_blank">http://ne.ucsd.edu/undergrad-programs/admissions</a></p>
+<p>Screening courses: MATH 20A, 20B, 20C, 20D, MATH 18 (formerly MATH 20F),  PHYS 2A, 2B, 2C, 2D, CHEM 6A, 6B, 6C, 7</p>
+<p>Upon completion of these courses and an online application, students will receive information via email from the Department of NanoEngineering Student Affairs Office. Applications will be ranked according to the GPA obtained in the required courses.</p>
+<p>Applications to a capped major will be approved, starting with the student having the highest GPA in the required courses, until the predetermined target number is reached. The Department of NanoEngineering Student Affairs Office will notify students in a timely manner who are successful in transitioning into a capped major to officially declare the appropriate major online via the &ldquo;Major/Minor&rdquo; link under &ldquo;Toolbox&rdquo; at <a href="http://tritonlink.ucsd.edu" target="_blank">http://tritonlink.ucsd.edu</a>.</p>
+<p>Continuing students who apply and are unable to transition into a capped major will also be notified of their status in a timely manner by the NanoEngineering Student Affairs Office.</p>
+<h4 class="program-overview-subhead-3">Academic Advising</h4>
+				<p>Upon admission to the major, students should consult the catalog or NanoEngineering
+				  website (<a href="http://nanoengineering.ucsd.edu" target="_blank">http://nanoengineering.ucsd.edu</a>) for their program of study or
+				  their undergraduate adviser if they have questions. The program plan may
+				  be revised in subsequent years, but revisions involving curricular requirements
+				  require approval by the undergraduate adviser or the Undergraduate Affairs
+				  Committee. Because some course and/or curricular changes may be made every
+				  year, it is imperative that students consult with the department’s undergraduate
+			    adviser on an annual basis.</p>
+                <p>As aforementioned, NanoEngineering and chemical engineering courses are offered only
+                  once a year and therefore should be taken in the recommended
+                  sequence. If courses are taken out of sequence, it may not
+                  always be possible to enroll in courses as desired or needed.
+                  If this occurs, students should seek immediate departmental
+                  advice. When a student deviates from the sequence of courses
+                  specified for each curriculum in this catalog, it may be impossible
+                  to complete the major within the nominal four-year period.</p>
+                <p>In addition to the advising available through the Student
+                  Affairs Office, programmatic or technical advice may be obtained
+                  from faculty members. </p>
+<h4 class="program-overview-subhead-3">Program Alterations/Exceptions to Requirements</h4>
+				<p>Variations from or exceptions to any program or course requirements are
+				  possible only if the Undergraduate Affairs Committee approves a petition
+			    before the courses in question are taken. </p>
+<h4 class="program-overview-subhead-3">Independent Study</h4>
+				<p>Students may take NANO 199, Independent Study for Undergraduates, under the guidance of a NanoEngineering faculty member. This course is taken as an elective on a P/NP basis. Eligible students must have completed at least ninety units and must have a cumulative GPA of 3.0 or better.&nbsp;The two NANO 199s&nbsp;must be done in consecutive quarters and the&nbsp;student must find a faculty member who will oversee the research project. After obtaining the faculty member&rsquo;s concurrence on the topic and scope of the study, the student must submit a&nbsp;<a href="http://ne.ucsd.edu/sites/ne.ucsd.edu/files/docs/Specialstudiesform.pdf" target="_blank">Special Studies Course form</a>&nbsp;(each quarter) and a<a href="http://ne.ucsd.edu/sites/ne.ucsd.edu/files/pdfs/032613_CN_NANO_199Contract_0.pdf" target="_blank">&nbsp;NANO 199 Contract form</a>&nbsp;to the Undergraduate Affairs Committee. These forms must be completed, approved, and processed prior to the add deadline. After the second quarter is completed, the student must submit an Undergraduate Student Petition to have the work accepted as two NanoEngineering&nbsp;elective courses. A final report must be attached to the petition for the faculty member and Undergraduate Affairs Committee to review. Detailed policy in this regard and the requisite forms may be obtained from the Student Affairs Office.</p>
+<h4 class="program-overview-subhead-3">Transfer Students </h4>
+				<p>The undergraduate engineering curriculum is designed to integrate four years of college educational experience. It will take transfer students three years to complete the major requirements, beyond their junior-college work, for the NanoEngineering Program.&nbsp;Most students need to take MATH 20E (Vector Calculus) at a UC.&nbsp;Transfer students must take NANO 4 and NANO 101 concurrently in their first winter quarter.&nbsp;Students cannot start the junior year of NANO courses until they have taken NANO 101.&nbsp;Students should consult their adviser for a transition program compatible with their junior college preparation.</p>
+<p>Requirements for admission as a NanoEngineering major or into NanoEngineering courses
+                  are the same for transfer students as they are for continuing
+                  students (see section on “<a href="ENG.html#acceptance">Acceptance
+                  to Departmental Majors in the Jacobs School of Engineering</a>” in this catalog). Accordingly, when planning their
+                  program, transfer students should be mindful of lower-division
+                  prerequisite course requirements, as well as for meeting collegiate
+                  requirements. </p>
+<p>Students who have taken equivalent courses elsewhere may request to have transfer credit apply toward the department&rsquo;s major requirements. To receive transfer credit, complete an Undergraduate Student Petition and submit it to Student Affairs. For mathematics, chemistry, and physics, the respective department determines transfer equivalencies. An Undergraduate Student Petition form must be submitted to each department from which you are requesting transfer credit.</p>
+<p>Transfer students start in their first year in the NanoEngineering major by taking NANO 15 in fall or winter quarter and NANO 4 and NANO 101 in winter quarter. NANO 4 and 15 have no prerequisites.&nbsp;NANO 101 has prerequisites of PHYS 2B, CHEM 6B, MATH 20C, and NANO 15 or NANO 15R or CENG 15 or CENG 15R or MAE 8. NANO 101 is a prerequisite for subsequent NANO courses in the major. The following courses are strongly recommended for all engineering transfer students for success in their major. Community college equivalent courses can be found at <a href="http://assist.org/" target="_blank">http://assist.org</a>.</p>
+<ul>
+		<li class="list-level-1">Calculus I—for Science and Engineering (MATH 20A)</li>
+		<li class="list-level-1">Calculus II—for Science and Engineering (MATH 20B)</li>
+		<li class="list-level-1">Calculus and Analytic Geometry (MATH 20C)</li>
+		<li class="list-level-1">Differential Equations (MATH 20D)</li>
+	    <li>Vector Calculus (MATH 20E) or MATH      20E Requirement Fulfillment Exam administered through the <a href="http://www.math.ucsd.edu/programs/undergraduate/math_20E_exam/" target="_blank">Department      of Mathematics</a></li>
+
+  <li class="list-level-1">Linear Algebra (MATH 18, formerly MATH 20F)</li>
+  <li class="list-level-1">Complete calculus-based physics series (PHYS 2A-B-C-D)</li>
+  <li class="list-level-1">General Chemistry with lab experience (CHEM&nbsp;6A-B-C plus 7L)</li>
+  </ul>
+<h4>NanoEngineering Transfer Applicants (effective fall 2015) </h4>
+<p>Effective fall 2015: Continuing and transfer students can apply to switch into NanoEngineering at the end of their third quarter (spring quarter of their first year). Transfer students who are past their third quarter at UC San Diego are not eligible to apply. A link to the online application will be available on our website near the end of spring quarter.&nbsp;The department will review the applications, based on completing the following courses (taken at UC San Diego) and GPA. We will accept as many students as possible, depending on limited spaces available. </p>
+<h5>NANOENGINEERING TRANSFER APPLICANTS* </h5>
+<p>(must apply after three quarters): <a href="http://ne.ucsd.edu/undergrad-programs/admissions" target="_blank">http://ne.ucsd.edu/undergrad-programs/admissions</a></p>
+
+<p>Screening courses: MATH&nbsp;20A, 20B, 20C, 20D, MATH 18 (formerly MATH 20F),  PHYS&nbsp;2A, 2B, 2C, 2D, CHEM&nbsp;6A, 6B, 6C, 7L </p>
+<p>* Please note: The freshmen and sophomore class levels are determined by the number of registered quarters, not the number of units completed. </p>
+<h4>Contiguous BS/MS Program</h4>
+				<p>A contiguous, terminal program leading to a bachelor of science and a masters in NanoEngineering is offered to a student with junior standing who has an upper-division GPA of 3.5 or better and a 3.0 overall UC San Diego GPA. </p>
+				<p>During the last quarter of their junior year (more specifically, the fourth quarter prior to the receipt of the&nbsp;BS), students interested in obtaining the&nbsp;MS within one year following receipt of the&nbsp;BS may apply to the Department of NanoEngineering for admission to the program. Students must submit three letters of reference from their professors with their application.</p>
+				<p>Students will meet the requirements of both the&nbsp;BS and&nbsp;MS programs, such as courses and credits.&nbsp;<em>There are no overlaps in courses.</em>&nbsp;Upon completion of the&nbsp;BS/MS program, students are not automatically eligible for admission to the&nbsp;PhD program.</p>
+<h1>Chemical Engineering </h1>
+                <p>BUSINESS AFFAIRS: <br>
+                  240 Structural Materials Engineering Building, Warren College</p>
+                <p>STUDENT AFFAIRS: <br>
+                  Undergraduate Affairs: 241A Structural Materials Engineering Building, Warren College<br>
+Graduate Affairs: 240A Structural Materials Engineering Building, Warren College<br>
+                  <a href="http://nanoengineering.ucsd.edu" target="_blank">http://nanoengineering.ucsd.edu</a></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h2>Departmental Focus </h2>
+                <p>The Department of NanoEngineering is the administrative home of the interdepartmental Chemical Engineering program (CENG). </p>
+                <h2>Undergraduate Program </h2>
+                <p>The chemical engineering (BS) program is accredited by the Engineering Accreditation Commission of ABET, <a href="http://www.abet.org" target="_blank">http://www.abet.org</a>. </p>
+<h2>Chemical Engineering Program (CENG)</h2>
+                <h3>Program Objectives </h3>
+                <p>The chemical engineering program has affiliated faculty from the Department of NanoEngineering, Department of Mechanical and Aerospace Engineering, Department of Chemistry and Biochemistry, and the Department of Bioengineering. The curricula at both the undergraduate and graduate levels are designed to support and foster chemical engineering as a profession that interfaces engineering and all aspects of basic sciences (physics, chemistry, and biology). </p>
+                <p>The primary educational objectives of the Chemical Engineering program are to </p>
+                <ul type="disc">
+                  <li>Provide chemical engineering students with a strong technical education      and communication skills that will enable them to have successful careers      in a wide range of industrial and professional environments. </li>
+                  <li>Prepare chemical engineering students for rapidly changing technological      environments with the core knowledge central to multidisciplinary      development and personal improvement throughout their professional      careers. </li>
+                  <li>Instill in chemical engineering students a strong sense of humanistic      values and professionalism such that they can conduct ethically and      knowledgeably regarding technological impact in societal issues. </li>
+                </ul>
+                <p>The curriculum is designed to prepare chemical engineering graduates for further education and personal development through their entire professional career. We strive to accomplish these goals by providing a rigorous and demanding curriculum that incorporates lectures, discussions, laboratory and project development experiences in basic sciences, mathematics, engineering sciences, and design as well as the humanities and social sciences. </p>
+        <h3>The Undergraduate Program </h3>
+                <p>The Chemical Engineering (BS) program is accredited by the Engineering Accreditation Commission of ABET, <a href="http://www.abet.org" target="_blank">http://www.abet.org</a>.  The curriculum is tailored to provide breadth and flexibility by taking advantage of the strength of basic sciences and other engineering disciplines at UC San Diego. The intention is to graduate chemical engineers who are multidisciplinary practitioners and can work in a broad spectrum of industries rather than solely traditional chemical and petrochemical industries. </p>
+                <p>Areas of specialization are available whereby a graduate can be in a position for a career in environmental technology, microelectronic device fabrication, materials and polymer processing, pharmaceutical and biotechnology, biomedical engineering, energy and thermal systems, control and system engineering, and so forth. </p>
+                <p>For students who aspire to pursue a graduate degree and a career in research and development, the units in an area of specialization can be allocated to more fundamental science and engineering courses. These students are also encouraged to perform independent projects in one of the faculty research laboratories or groups. </p>
+                <p>Whether the career goal is industry or graduate or professional school, the curriculum has a strong emphasis on developing problem-solving skills and the ability to think and learn independently. The capstone courses are the senior design and process lab courses. Students learn to participate in project teams, refine their communication skills, and work on various design and experimental projects that, over two quarters, introduce them to elements of project planning, execution, analysis, and improvement.</p>
+                <p>Entering freshmen will follow the new set of course work guidelines detailed in this section. Continuing students will continue with their current set of course work guidelines outlined in previous general catalogs. The Student Affairs Office can provide the proper curriculum tables. All students are encouraged to visit the Student Affairs Office or visit the Department of NanoEngineering website for any clarification and updated information.</p>
+                <p>Deviations from these programs of study must be approved by the Undergraduate Affairs Committee prior to taking alternative courses. In addition, technical elective (TE) course selections must have departmental approval prior to students’ taking the courses. Courses such as CENG 195, 197, and 198 are not allowed as a technical elective in meeting the upper-division major requirements. CENG 199 can be used as a technical elective only under restrictive conditions. Policy regarding these conditions may be obtained from the department’s Student Affairs Office. To graduate, students must maintain an overall GPA of at least 2.0, and the department requires at least a C– grade in each course required for the major. </p>
+                <p>Students with different academic preparation may vary the scheduling of lower-division courses such as math, physics, and chemistry, but should consult the department. Deviations in scheduling chemical engineering upper-division courses are discouraged and require prior approval. Most lower-division courses are offered more than once each year to permit students some flexibility in their program scheduling. However, all chemical engineering upper-division courses are taught only once per year, and courses are scheduled to be consistent with the curricula as shown in the tables. </p>
+<h3>General-Education/College Requirements</h3>
+                <p>For graduation, each student must satisfy general-education course requirements determined by the student’s college as well as the major requirements determined by the department. The six colleges at UC San Diego require widely different general-education courses, and the number of such courses differs from one college to another. Each student should choose his or her college carefully, considering the special nature of the college and the breadth of general education.</p>
+                <h3>Professional Licensing</h3>
+                <p>After graduation, all students are encouraged to take the Fundamentals of Engineering (FE) examination as the first step in becoming licensed as a professional engineer (PE). Students graduating from our accredited program can take the PE examination after FE certification and two years of work experience; students graduating from a nonaccredited program can take the PE examination after FE certification and four years of work experience.</p>
+<p>For further information please contact your local Board of Registration for Professional Engineers and Land Surveyors.</p>
+                <h3>Major Requirements </h3>
+                <p>To receive a BS in chemical engineering, students must complete general-education (GE) requirements of their colleges in the arts, humanities, and social sciences. The balance consists of basic sciences (fifty-four units), chemistry core (twelve units), chemical engineering core (thirty-two units), process laboratory and design (sixteen units), general engineering (twelve units), and an area of specialization (twelve units). Beyond the fifty-three units of basic sciences, the science and engineering courses total to eighty-five units. A one-unit introductory seminar and laboratory course (CENG 4) is required of all incoming freshmen and transfer students. </p>
+<p>The specific breakdown is as follows: </p>
+<h4>Basic sciences (fifty-four units): </h4>
+                <p>This lower-division requirement includes twenty-four units of mathematics (MATH 20A–E and MATH 18, formerly MATH 20F), fourteen units of physics (PHYS 2A–C, 2CL), and sixteen units of chemistry (CHEM 6A–C, 7L). </p>
+                <h4>Chemistry core (twelve units): </h4>
+                <p><strong>Chemistry Core:</strong> Three advanced chemistry electives must be selected from among CHEM 130, 131, 132, 40A*, 40B*, 114A (or BIBC 100), 114B (or BIBC 102), 120A, 120B, or 43A*. (<strong>Note:</strong> Students may not receive credit for both BIBC 100 and CHEM 114A, or BIBC 102 and CHEM 114B). </p>
+                <p>Two recommended options are CHEM 40A, 114A (or BIBC 100), and 43A for those interested in biochemical/organic topics; CHEM 120A, 130, and 40A for those interested in inorganic/materials topics.&nbsp; </p>
+                <p>*Effective fall 2017, the following courses were reclassified and renumbered as follows: CHEM 140A is CHEM 40A: Organic Chemistry I (four units), CHEM 140B is CHEM 40B: Organic Chemistry II (four units) and CHEM 143A is CHEM 43A: Organic Chemistry Laboratory (four units). </p>
+<h4>Chemical engineering core (thirty-three units): </h4>
+                <p>This requirement covers chemical process modeling, solution thermodynamics, transport phenomena, chemical reaction engineering, process control, and unit operations (CENG 4, 100, 101A-C, 102, 113, 120, 122). </p>
+                <h4>Process laboratory and design (sixteen units): </h4>
+                <p>This requirement is crucial to fulfilling the chemical engineering program (BS) goals by providing hands-on and experiential instruction in the areas of project design, unit operations, hazards analysis, ethics, and economic analysis. (CENG 124A-B, 176A-B). </p>
+<h4>General engineering (twelve units): </h4>
+                <p>This requirement covers basics in computer programming, probability and statistics, and instrumentation. The computer programming requirement should be satisfied with a course in Matlab (CENG 15). Probability and statistics can be satisfied with CENG 114. Instrumentation is satisfied with MAE 170. </p>
+<h4>Electives in an area of specialization (twelve units): </h4>
+                <p>Electives are intended to broaden and enhance professional goals. They may be chosen to achieve either breadth or depth in one’s education. All electives must be upper-division courses in engineering. Suggestions are listed below. </p>
+                <h5>Biotechnology/Biochemical Engineering</h5>
+                <p>NANO 103, 242, 244, 262<br>
+                  CENG 207, 254, 256<br>
+BENG 100, 101, 109, 110, 112A, 112B, 130,186A </p>
+<h5>Microelectronic Devices and Materials</h5>
+                <p>NANO 107<br>
+                CENG 157<br>
+                ECE 103, 134, 135A, 136L                </p>
+                <h5>Engineering Mechanics</h5>
+                <p>NANO 141A, 141B<br>
+                MAE 104, 130A, 130B, 131A, 149, 160</p>
+                <h5>Engineering Science</h5>
+                <p>NANO 141A, NANO 114B<br>
+                  MAE 104, 105, 107, 140, 149</p>
+        <h5>Environmental Engineering</h5>
+                <p>MAE 119, 122, 124/ ESYS 103,* 125B, 126A, 126B, 127</p>
+                <p class="note">*TE&nbsp;credit cannot be given for both&nbsp;MAE 124 and ESYS&nbsp;103.</p>
+<div>
+      <div> </div>
+      </div>
+<h5>Materials Science and Engineering</h5>
+        <p>NANO 100L, 134, 142A, 142B, 174, 174L <br>
+          ECE 134<br>
+          MATS 201A, 201B, 201C, 205A, 227</p>
+        <h5>Nanotechnology</h5>
+                <p>NANO 101, 102, 103, 104, 106,108, 110, 111, 112, 134, 140, 145, 146, 148, 150, 156,* 158, 161, 162, 164, 168, 174, 253<br>
+                  CENG 157, 207, 208, 211, 212, 213, 214, 215 </p>
+                <p class="note">*NANO&nbsp;156 and MAE 166 are cross-listed courses; CENG majors must enroll in&nbsp;NANO&nbsp;156.</p>
+<h5>Process Dynamics and Control</h5>
+<p>MAE 140, 142, 143A, 143C, 149, 180A<br>
+      ECE 171B<br>
+      BENG 122A</p>
+<p>To fulfill the basic process control requirement for the BS, students can take one of the following three courses: CENG 120*, MAE 143B, OR ECE 171A. (*CENG 120 can be replaced by MAE 143B or ECE 171A only if a student chooses Process Control as the Area of Specialization). The basic process control requirement course above does not fulfill one of the three Area of Specialization course requirements. </p>
+<div>
+      <div> </div>
+      </div>
+<h5>Thermal Engineering and Systems</h5>
+                <p>MAE 110B, 113, 118, 119, 120  </p>
+                <div>
+                  <div> </div>
+                </div>
+<h5>Independent Research</h5>
+                <p>Two quarters of independent research can be approved as equivalent to two technical elective courses (eight units). See the Independent Student section below. </p>
+                <h5>Principles of Team Engineering</h5>
+                <p>Students are allowed to take one of the following four-unit &ldquo;Teams in Engineering Service&rdquo; courses: ENG 100D or ENG 100B and ENG 100L or two quarters of ENG 100L as an approved Engineering Focus elective. Click on the following link for more information about Global Ties: <a href="http://globalties.ucsd.edu/" target="_blank">http://globalties.ucsd.edu/</a>.</p>
+<h4>Chemical Engineering</h4>
+<table border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="111" valign="top"><p align="center"><strong>Fall</strong><strong> </strong></p></td>
+                    <td width="111" valign="top"><p align="center"><strong>Winter</strong><strong> </strong></p></td>
+                    <td width="111" valign="top"><p align="center"><strong>Spring</strong><strong> </strong></p></td>
+                  </tr>
+                  <tr>
+                    <td colspan="3" valign="top"><p><strong>Freshman   Year</strong></p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><p>MATH 20A</p></td>
+                    <td valign="top"><p>MATH 20B</p></td>
+                    <td valign="top"><p>MATH 20C</p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><p>CHEM 6A</p></td>
+                    <td valign="top"><p>PHYS 2A</p></td>
+                    <td valign="top"><p>PHYS 2B</p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><p>CENG 15</p></td>
+                    <td valign="top"><p>CHEM 6B</p></td>
+                    <td valign="top"><p>CHEM 6C/7L</p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><p>CENG 4</p></td>
+                    <td valign="top"><p>GE</p></td>
+                    <td valign="top"><p>GE</p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><p>GE</p></td>
+                    <td valign="top"><p>&nbsp;</p></td>
+                    <td valign="top"><p>&nbsp; </p></td>
+                  </tr>
+                  <tr>
+                    <td colspan="3" valign="top"><p><strong>Sophomore   Year</strong></p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><p>MATH 20D</p></td>
+                    <td valign="top"><p>MATH 18 (formerly MATH 20F)</p></td>
+                    <td valign="top"><p>MATH 20E</p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><p>CENG 100</p></td>
+                    <td valign="top"><p>CENG 102</p></td>
+                    <td valign="top"><p>CENG 113 </p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><p>PHYS 2C/2CL</p></td>
+                    <td valign="top"><p>Adv CHEM<sup>1</sup></p></td>
+                    <td valign="top"><p>Adv CHEM<sup>2</sup></p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><p>GE</p></td>
+                    <td valign="top"><p>GE</p></td>
+                    <td valign="top"><p>GE</p></td>
+                  </tr>
+                  <tr>
+                    <td colspan="3" valign="top"><p><strong>Junior   Year</strong></p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><p>CENG 101A</p></td>
+                    <td valign="top"><p>CENG 101B</p></td>
+                    <td valign="top"><p>CENG 101C</p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><p>MAE 170</p></td>
+                    <td valign="top"><p>CENG 114<sup></sup></p></td>
+                    <td valign="top"><p>AS</p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><p>Adv CHEM</p></td>
+                    <td valign="top"><p>GE</p></td>
+                    <td valign="top"><p>GE</p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><p>GE</p></td>
+                    <td valign="top"><p>&nbsp;</p></td>
+                    <td valign="top"><p>&nbsp;</p></td>
+                  </tr>
+                  <tr>
+                    <td colspan="3" valign="top"><p><strong>Senior   Year</strong></p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><p>CENG 120</p></td>
+                    <td valign="top"><p>CENG 124A</p></td>
+                    <td valign="top"><p>CENG 124B</p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><p>CENG 122</p></td>
+                    <td valign="top"><p>CENG 176A</p></td>
+                    <td valign="top"><p>CENG 176B</p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><p>AS</p></td>
+                    <td valign="top"><p>AS</p></td>
+                    <td valign="top"><p>GE</p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><p>GE</p></td>
+                    <td valign="top"><p>GE</p></td>
+                    <td valign="top"><p>&nbsp;</p></td>
+                  </tr>
+        </table>
+<p class="note"><sup>1</sup>Three advanced chemistry electives must be selected from among&nbsp;CHEM 130, 131, 132, 140A, 140B, 114A (or BIBC 100), 114B (or&nbsp;BIBC 102), 120 A, 120B, and 143A. (<strong>Note:</strong>&nbsp;Students may not receive credit for both&nbsp;BIBC&nbsp;100 and&nbsp;CHEM&nbsp;114A, or BIBC 102 and CHEM 114B). </p>
+<p class="note">Two recommended options are CHEM 140A-B, 114A-B (or&nbsp;BIBC&nbsp;100,&nbsp;BIBC&nbsp;102), and 143A for those interested in biochemical/organic, and CHEM 131, 132, 133, 120A, and 140A for those interested in inorganic/materials.&nbsp;</p>
+<p class="note"><sup>2</sup><strong>Area of Specialization/Technical Electives: </strong>The three required technical electives must be upper-division or graduate courses in engineering, based on the preapproved courses. Otherwise, the selections must receive prior approval of the department. </p>
+
+<h3>Admission to Chemical Engineering </h3>
+<p>Effective fall 2014, chemical engineering has been granted capped status for freshman applications. Capped status will take effect for continuing and transfer students beginning fall 2015.</p>
+<h4>Freshman Admission (effective fall 2014)</h4>
+<p>As the chemical engineering major is capped for incoming freshmen beginning fall 2014, students who have excelled in high school and have declared chemical engineering on their UC San Diego application are eligible for direct admission into the major.</p>
+<p>The UC San Diego Office of Admissions and Relations with Schools will calculate an admissions target number and admit the appropriate number of incoming freshmen into the capped major using the UC San Diego Holistic Review score as a ranking method. Students who meet the UC San Diego admission criteria will be admitted into their chosen capped major, starting with the student having the highest holistic review score, until the admission target number is reached. These students will be notified directly by the Office of Admissions and Relations with Schools whether they have been admitted into their chosen capped major.</p>
+<p>Freshman students who applied but were not admitted directly from high school into the capped chemical engineering major will be admitted into the major indicated as their second choice on the UC application (providing it is an &ldquo;open&rdquo; major).</p>
+<h4>Continuing UC San Diego Students (effective fall 2015)</h4>
+<p>Freshmen not directly admitted into the chemical engineering major will need to apply using the continuing application after their first three quarters (end of spring quarter) or after the end of their sixth quarter (end of spring quarter). A certain number of continuing students who apply will be selected to enter the capped chemical engineering major.  </p>
+<p>Continuing students will be required to complete the following courses <strong>prior</strong> to applying:</p>
+<h5>CHEMICAL ENGINEERING FRESHMEN APPLICANTS</h5>
+<p>(must apply after three quarters): <a href="http://ne.ucsd.edu/undergrad-programs/admissions" target="_blank">http://ne.ucsd.edu/undergrad-programs/admissions</a></p>
+<p> Screening courses: MATH 20A, 20B,&nbsp;20C, PHYS 2A, 2B, CHEM 6A, 6B, 6C, 7L</p>
+<h5>CHEMICAL ENGINEERING SOPHOMORE APPLICANTS</h5>
+<p>(must apply after six quarters): <a href="http://ne.ucsd.edu/undergrad-programs/admissions" target="_blank">http://ne.ucsd.edu/undergrad-programs/admissions</a></p>
+<p>Screening courses: MATH 20A, 20B, 20C, 20D, MATH 18 (formerly MATH 20F),  PHYS 2A, 2B, 2C, 2CL, CHEM 6A, 6B, 6C, 7L</p>
+<h4>Transfer Students </h4>
+<p>The chemical engineering curriculum is designed to integrate four years of college educational experience. It is not easy for transfer students to complete the major requirements in only two additional years beyond their junior college work. However, if transfer students seek a college for which they already satisfy the general-education requirements, have taken the lower-division science and mathematics, and have completed some advanced chemistry requirement, then the rigorous first-year schedule below will permit them to graduate in two years. Other students should consult their adviser for a transition program compatible with their junior college preparation. </p>
+<p>Requirements for admission as a chemical engineering major into chemical engineering courses are the same for transfer students as they are for continuing students. Accordingly, when planning their program, transfer students should be mindful of lower-division prerequisite course requirements, as well as for meeting collegiate requirements.</p>
+<p>Students who have taken equivalent courses elsewhere may request to have transfer credit apply toward the department&rsquo;s major requirements. To receive transfer credit, complete an Undergraduate Student Petition form and submit it to the Student Affairs office. For mathematics, chemistry, and physics, transfer equivalencies are determined by the respective departments. An Undergraduate Student Petition form must be submitted to each department from which the student is requesting transfer credit.</p>
+<p>Effective fall 2009, these courses are strongly recommended for all engineering transfer students for success in their major. Community college equivalent courses can be found at <a href="http://assist.org/" target="_blank">http://assist.org.</a></p>
+<ul type="disc">
+  <li>Calculus      I—for Science and Engineering (MATH 20A)</li>
+  <li>Calculus      II—for Science and Engineering (MATH 20B)</li>
+  <li>Calculus      and Analytic Geometry (MATH 20C)</li>
+  <li>Differential      Equations (MATH 20D)</li>
+  <li>Vector      Calculus (MATH 20E) or MATH 20E—Requirement Fulfillment Exam administered      through the&nbsp;<a href="http://www.math.ucsd.edu/programs/undergraduate/math_20E_exam/" target="_blank">Department      of Mathematics</a></li>
+  <li>Linear      Algebra (MATH 18, formerly MATH 20F)</li>
+  <li>Complete      calculus-based physics series with lab experience (PHYS 2ABC-CL)</li>
+  <li>General      Chemistry with lab experience (CHEM 6A-B-C plus 7L) (except computer      science and computer engineering majors) </li>
+</ul>
+<p>All transfer students must take CENG&nbsp;15 (Matlab) in the fall or winter of their first year at UC San Diego. Transfer students may petition to take CENG 15 concurrently with CENG 100, and CENG 101A concurrently with MATH 20E.&nbsp;Complete a&nbsp;student petition form&nbsp;and submit it to the Student Affairs office.&nbsp;</p>
+<p>If students do not come in with all the above courses, it will most likely take three years to graduate.&nbsp;For the three-year/four-year curriculum, please go to&nbsp;<a href="http://ne.ucsd.edu/undergrad-programs/degree/bs-chemical-engineering/curriculum" target="_blank">http://ne.ucsd.edu/undergrad-programs/degree/bs-chemical-engineering/curriculum</a>.&nbsp;</p>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="111" valign="top"><p align="center"><strong>Fall </strong></p></td>
+    <td width="111" valign="top"><p align="center"><strong>Winter </strong></p></td>
+    <td width="111" valign="top"><p align="center"><strong>Spring </strong></p></td>
+  </tr>
+  <tr>
+    <td colspan="3" valign="top"><p><strong>Junior Year</strong></p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>Adv CHEM* </p></td>
+    <td valign="top"><p>Adv CHEM </p></td>
+    <td valign="top"><p>Adv CHEM</p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>CENG 101A</p></td>
+    <td valign="top"><p>CENG 101B</p></td>
+    <td valign="top"><p>CENG 101C</p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>CENG 100</p></td>
+    <td valign="top"><p>CENG 102</p></td>
+    <td valign="top"><p>CENG 113</p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>CENG 15</p></td>
+    <td valign="top"><p>CENG 114</p></td>
+    <td valign="top"><p>MAE 170</p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>CENG 4 </p></td>
+    <td valign="top"><p>&nbsp; </p></td>
+    <td valign="top"><p>&nbsp; </p></td>
+  </tr>
+</table>
+<p>*If you have not completed MATH 20E&nbsp;at the community college, then you may take an advanced chemistry course another quarter.&nbsp;You must complete a petition to take MATH 20E&nbsp;concurrently with&nbsp;CENG&nbsp;101A. Click&nbsp;<a href="http://ne.ucsd.edu/undergrad-programs/degree/advising/student-petitions" target="_blank">here</a>&nbsp;for more information about petitions.&nbsp;</p>
+<h5>Chemical Engineering Transfer Applicants (effective fall 2015)</h5>
+<p>Transfer students can apply to switch into the chemical engineering major at the end of their third quarter. Transfer students who are past their third quarter at UC San Diego are not eligible to apply. An online application will be available, and the department will review the applications based on the following criteria (courses taken at UC San Diego) and GPA. <a href="http://ne.ucsd.edu/undergrad-programs/admissions" target="_blank">http://ne.ucsd.edu/undergrad-programs/admissions</a></p>
+<p>MATH 20A, 20B, 20C, 20D, MATH 18 (formerly MATH 20F),  PHYS 2A, 2B, 2C, 2CL, CHEM 6A, 6B, 6C, 7L</p>
+<p>Upon completion of these courses and online application, students will receive information via email from the Department of NanoEngineering Student Affairs Office. Applications will be ranked according to the GPA obtained in the required courses.</p>
+<p>Applications to a capped major will be approved, starting with the student having the highest GPA in the required courses, until the predetermined target number is reached. The Department of NanoEngineering Student Affairs Office will notify students in a timely manner who are successful in transitioning into a capped major to officially declare the appropriate major online via the &ldquo;Major/Minor&rdquo; link under &ldquo;Toolbox&rdquo; at <a href="http://tritonlink.ucsd.edu" target="_blank">http://tritonlink.ucsd.edu</a>.</p>
+<p>Continuing students who apply and are unable to transition into a capped major will also be notified of their status in a timely manner by the Department of NanoEngineering Student Affairs Office.</p>
+<h4>Academic Advising</h4>
+                <p>Upon admission to the major, students should consult the catalog or Department of NanoEngineering website (<a href="http://nanoengineering.ucsd.edu" target="_blank">http://nanoengineering.ucsd.edu</a>) for their program of study or their undergraduate adviser if they have questions. The program plan may be revised in subsequent years, but revisions involving curricular requirements require approval by the undergraduate adviser or the Undergraduate Affairs Committee. Because some course and/or curricular changes may be made every year, it is imperative that students consult with the department’s undergraduate adviser on an annual basis.</p>
+                <p>Chemical engineering courses are offered only once a year and therefore should be taken in the recommended sequence. If courses are taken out of sequence, it may not always be possible to enroll in courses as desired or needed. If this occurs, students should seek immediate departmental advice. When a student deviates from the sequence of courses specified for each curriculum in this catalog, it may be impossible to complete a chemical engineering major within the normal four-year period.</p>
+                <p>In addition to the advising available through the Student Affairs Office, programmatic or technical advice may be obtained from chemical engineering faculty members. </p>
+                <h4>Program Alterations/Exceptions to Requirements</h4>
+                <p>Variations from or exceptions to any program or course requirements are possible only if a petition is approved by the Undergraduate Affairs Committee before the courses in question are taken. Petition forms may be obtained from the Student Affairs Office and must be processed through this office.</p>
+                <h4>Independent Study</h4>
+                <p>Chemical engineering students may take CENG 199, Independent Study for Undergraduates, under the guidance of a chemical engineering faculty member. This course is taken as an elective on a P/NP basis. Eligible students must have completed at least ninety units and must have a cumulative GPA of 3.0 or better. The two CENG 199s must be done in consecutive quarters and the student must find a faculty member who will oversee the research project. After obtaining the faculty member&rsquo;s concurrence on the topic and scope of the study, the student must submit a&nbsp;<a href="https://students.ucsd.edu/_files/registrar/special-studies-form197-198-199_6-13-2014.pdf" target="_blank">Special Studies form</a>&nbsp;(each quarter) and&nbsp;<a href="http://ne.ucsd.edu/sites/ne.ucsd.edu/files/pdfs/032613_CN_CENG_199Contract_0.pdf" target="_blank">CENG&nbsp;199 Contract form</a>&nbsp;to the Undergraduate Affairs Committee. These forms must be completed, approved, and processed prior to the add deadline. After the second quarter is completed, the student must submit an Undergraduate Student Petition to have the work accepted as two technical elective courses. A final report must be attached to the petition for the faculty member and Undergraduate Affairs Committee to review. Detailed policy in this regard and the requisite forms may be obtained from the Student Affairs Office.</p>
+        <h4>Program Accreditation </h4>
+                <p>The chemical engineering (BS) program is accredited by the Engineering Accreditation Commission of ABET, <a href="http://www.abet.org">http://www.abet.org</a>. </p>
+<div>
+    <div> </div>
+    <div> </div>
+    <div> </div>
+    <div> </div>
+    <div> </div>
+    </div>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

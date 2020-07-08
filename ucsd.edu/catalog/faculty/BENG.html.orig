@@ -1,0 +1,217 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Bioengineering Faculty</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopMargin">Bioengineering </h1>
+<p class="courseFacLink">[ <a href="../curric/BENG-ug.html">undergraduate
+      program</a> | <a href="../curric/BENG-gr.html">graduate program</a> | <a href="../courses/BENG.html">courses</a> ]</p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h4 class="faculty-staff-listing">Professors </h4>
+				<p class="faculty-staff-listing">P. Cabrales, PhD</p>
+<p class="faculty-staff-listing">G. Cauwenberghs, PhD</p>
+				<p class="faculty-staff-listing">S. Chien, MD, PhD, <em>Director, Institute of Engineering in Medicine</em></p>
+				<p class="faculty-staff-listing">K. L. Christman, PhD</p>
+				<p class="faculty-staff-listing">T. Coleman, PhD</p>
+        <p class="faculty-staff-listing">A. Engler, PhD</p>
+<p class="faculty-staff-listing">Y. C. Fung, PhD, <em>Professor Emeritus</em></p>
+				<p class="faculty-staff-listing">D. A. Gough, PhD</p>
+				<p class="faculty-staff-listing">J. M. Hasty, PhD</p>
+				<p class="faculty-staff-listing">M. J. Heller, PhD</p>
+				<p class="faculty-staff-listing">M. Intaglietta, PhD</p>
+				<p class="faculty-staff-listing">R. Lal, PhD</p>
+				<p class="faculty-staff-listing">A. D. McCulloch, PhD</p>
+				<p class="faculty-staff-listing">E. McVeigh, PhD</p>
+<p class="faculty-staff-listing">B. O. Palsson, PhD</p>
+				<p class="faculty-staff-listing">R. L. Sah, MD, ScD </p>
+				<p class="faculty-staff-listing">G. W. Schmid-Schönbein, PhD</p>
+				<p class="faculty-staff-listing">G. A. Silva, PhD </p>
+<p class="faculty-staff-listing">S. Subramaniam, PhD</p>
+				<p class="faculty-staff-listing">L. A. Sung, PhD, <em>Professor Emeritus</em> </p>
+				<p class="faculty-staff-listing">Y. Wang, PhD</p>
+				<p class="faculty-staff-listing">J. T. Watson, PhD, <em>Professor Emeritus</em></p>
+				<p class="faculty-staff-listing">K. Zhang, PhD, <em>Chair</em></p>
+				<p class="faculty-staff-listing">S. Zhong, PhD                </p>
+				<p class="faculty-staff-listing"></p>
+<h4 class="faculty-staff-listing">Associate Professors </h4>
+				<p class="faculty-staff-listing">X. Huang, PhD</p>
+		<p class="faculty-staff-listing">C. M. Metallo, PhD		</p>
+		<h4 class="faculty-staff-listing">Assistant Professors </h4>
+				<p class="faculty-staff-listing">L. Alexandrov, PhD</p>
+				<p class="faculty-staff-listing">F. Contijoch, PhD</p>
+				<p class="faculty-staff-listing">S. Fraley, PhD</p>
+				<p class="faculty-staff-listing">K. King, MD, PhD </p>
+				<p class="faculty-staff-listing">E. Kwon, PhD </p>
+				<p class="faculty-staff-listing">P. Mali, PhD </p>
+				<p class="faculty-staff-listing">D. Valdez-Jasso, PhD				</p>
+				<h4 class="faculty-staff-listing">Adjunct Professors </h4>
+				<p class="faculty-staff-listing">M. W. Berns, PhD				</p>
+				<p class="faculty-staff-listing">T. Ideker, PhD</p>
+				<p class="faculty-staff-listing">T. Jung, PhD				</p>
+				<p class="faculty-staff-listing">B. Wheeler, PhD        </p>
+		<h4 class="faculty-staff-listing">Affiliated Faculty</h4>
+		<p class="faculty-staff-listing">S. Abbasi, PhD, <em>Instructor of Engineering, Shiley-Marcos SOE at USD</em></p>
+		<p class="faculty-staff-listing">A. Almuatiri, PhD, <em>Professor, Skaggs School of Pharmacy</em></p>
+		<p class="faculty-staff-listing">V. Bafna, PhD, <em>Professor, Computer Science and Engineering</em></p>
+		<p class="faculty-staff-listing">C.R. Cantor, PhD, <em>Chief Scientific Officer, Sequenom, Inc. (Industry)</em></p>
+		<p class="faculty-staff-listing">S. Chen, PhD,<em> Professor, Nanoengineering</em></p>
+		<p class="faculty-staff-listing">P. Citron, PhD, <em>Previous VP, Corporate Science and Technology, Medtronic, Inc. (Industry)</em></p>
+		<p class="faculty-staff-listing">N. Devaraj, PhD, <em>Assistant Professor, Chemistry and Biochemistry</em></p>
+		<p class="faculty-staff-listing">D. Hall, PhD,<em> Assistant Professor, Electrical and Computer Engineering</em></p>
+		<p class="faculty-staff-listing">E. Kistler, MD, <em>Assistant Professor, Critical Care and Anesthesiology</em></p>
+		<p class="faculty-staff-listing">J. Lasheras, PhD, <em>Distinguished Professor, Mechanical and Aerospace Engineering</em></p>
+		<p class="faculty-staff-listing">N. Lewis, PhD, <em>Assistant Professor, Pediatrics</em></p>
+		<p class="faculty-staff-listing">K. Ley, MD, <em>Professor, La Jolla Institute for Allergy and Immunology</em></p>
+		<p class="faculty-staff-listing">J. H. Omens, PhD, <em>Adjunct Professor, Medicine</em></p>
+		<p class="faculty-staff-listing">J. Perry, MD, <em>Professor, Pediatrics</em></p>
+		<p class="faculty-staff-listing">P. Rangamini, PhD, <em>Assistant Professor, Mechanical and Aerospace Engineering</em></p>
+		<p class="faculty-staff-listing">E. Ruoslahti, MD, PhD, <em>Distinguished Professor, Sanford Burnham Prebys Medical Discovery Institute</em></p>
+		<p class="faculty-staff-listing">E. Schoetz Collins, PhD, <em>Assistant Professor, Biological Sciences and Physics</em></p>
+		<p class="faculty-staff-listing">J. Schroeder, PhD, <em>Professor, Biological Sciences</em></p>
+		<p class="faculty-staff-listing">T. Seibert, MD, PhD, <em>Assistant Professor, Radiation Oncology</em></p>
+		<p class="faculty-staff-listing">T. Sejnowski, PhD, <em>Professor, Salk Institute of Biological Studies</em></p>
+		<p class="faculty-staff-listing">S. Shah, MD,<em> Assistant Professor, In Residence, Orthopaedic Surgery</em></p>
+		<p class="faculty-staff-listing">J. Shyy, PhD, <em>Professor, Medicine</em></p>
+		<p class="faculty-staff-listing">N. Steinmetz, PhD, <em>Professor, Nanoengineering</em></p>
+		<p class="faculty-staff-listing">R. Weinreb, MD,<em> Professor, Ophthalmology</em></p>
+		<p class="faculty-staff-listing">S. Xu, PhD, <em>Assistant Professor, Nanoengineering</em></p>
+		<p class="faculty-staff-listing">G. Yeo, PhD, MBA, <em>Professor, Cellular and Molecular Medicine</em></p>
+		<p class="faculty-staff-listing">K. Zengler, PhD, <em>Assistant Professor, Pediatrics</em></p>
+		<p class="faculty-staff-listing">J. Zhang, PhD, PharmD, <em>Professor, Pharmacology</em></p>
+		<p class="faculty-staff-listing">L. Zhang, PhD,<em> Professor, Nanoengineering and Moores Cancer Center</em></p>
+		<h4 class="faculty-staff-listing">Professional Research Staff </h4>
+				<p class="faculty-staff-listing">M. Aguilar-Rivera, PhD, <em>Assistant Project Scientist</em></p>
+<p class="faculty-staff-listing">X. Cao, PhD<em>, Assistant Project Scientist</em></p>
+<p class="faculty-staff-listing">A. C. Chen, PhD, <em>Associate Project Scientist</em></p>
+				<p class="faculty-staff-listing">A. Feist, PhD,<em> Associate Project Scientist</em></p>
+				<p class="faculty-staff-listing">R. Gaetani, PhD, <em>Assistant Research Scientist</em></p>
+				<p class="faculty-staff-listing">B. Lake, PhD, <em>Assistant Project Scientist</em></p>
+				<p class="faculty-staff-listing">K. Lu, PhD, <em>Project Scientist</em></p>
+				<p class="faculty-staff-listing">A. G. Tsai, PhD, <em>Research Scientist</em> <em>(Recalled)</em></p>
+       
+                <p class="faculty-staff-listing">M. Wallace, PhD, <em>Assistant Project Scientist</em></p>
+       
+				<p class="faculty-staff-listing">L. Yang, PhD, <em>Assistant Project Scientist</em></p>
+<p class="faculty-staff-listing">D. Zielinski, PhD, <em>Assistant Project Scientist </em></p>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

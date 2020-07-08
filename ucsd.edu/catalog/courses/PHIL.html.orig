@@ -1,0 +1,447 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Philosophy Courses</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" --> 
+            <h1 class="noTopMargin">Philosophy</h1>
+            <p class="alphabreak"> <span class="courseFacLink">[ <a href="../curric/PHIL-ug.html">undergraduate
+            program</a> | <a href="../curric/PHIL-gr.html">graduate program</a> | <a href="../courses/PHIL.html"> </a><a href="../faculty/PHIL.html">faculty</a> ]</span></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/Course Name and Disclaimer.lbi" -->
+<h2>Courses</h2>
+<p class="course-disclaimer"><em>For course descriptions not found in the </em>UC
+  San Diego General Catalog 2019&#8211;20<em>, please contact the department
+  for more information.</em></p><!-- #EndLibraryItem --><h2 class="course-subhead-1">Lower Division </h2>
+				<p class="anchor-parent"><a class="anchor" id="phil1" name="phil1" /></a></p>
+				<p class="course-name">PHIL 1. Introduction to Philosophy (4)</p>
+				<p class="course-descriptions">A general introduction to some of the fundamental questions, texts, and
+				  methods of philosophy. Multiple topics will be covered, and may include
+				  the existence of God, the nature of mind and body, free will, ethics and
+				  political philosophy, knowledge and skepticism.</p>
+				<p class="anchor-parent"><a class="anchor" id="phil10" name="phil10" /></a></p>				<p class="course-name">PHIL 10. Introduction to Logic (4)</p>
+				<p class="course-descriptions">Basic concepts and techniques in both informal and formal logic and reasoning, including a discussion of argument, inference, proof, and common fallacies, and an introduction to the syntax, semantics, and proof method in sentential (propositional) logic. May be used to fulfill general-education requirements for Warren and Eleanor Roosevelt Colleges.</p>
+				<p class="anchor-parent"><a class="anchor" id="phil12" name="phil12" /></a></p>
+				<p class="course-name">PHIL 12. Scientific Reasoning (4)</p>
+				<p class="course-descriptions">Strategies of scientific inquiry: how elementary logic, statistical inference, and experimental design are integrated to evaluate hypotheses in the natural and social sciences. May be used to fulfill general-education requirements for Marshall, Warren, and Eleanor Roosevelt Colleges.</p>
+				<p class="anchor-parent"><a class="anchor" id="phil13" name="phil13" /></a></p><p class="course-name">PHIL 13. Introduction to Philosophy: Ethics (4)</p>
+				<p class="course-descriptions">An inquiry into the nature of morality and its role in personal or social life by way of classical and/or contemporary works in ethics. May be used to fulfill general-education requirements for Muir and Marshall Colleges.</p>
+				<p class="anchor-parent"><a class="anchor" id="phil14" name="phil14" /></a></p><p class="course-name">PHIL 14. Introduction
+				  to Philosophy: The Nature of Reality (4)</p>
+				<p class="course-descriptions">A survey of central issues and figures in
+				  the Western metaphysical tradition. Topics include the mind-body problem,
+				  freedom and determinism, personal identity, appearance and reality, and
+			    the existence of God. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil15" name="phil15" /></a></p><p class="course-name">PHIL 15. Introduction
+				  to Philosophy: Knowledge and Its Limits (4)</p>
+				<p class="course-descriptions">A study of the grounds and scope of human
+				  knowledge, both commonsense and scientific, as portrayed in the competing
+				  traditions of Continental rationalism, British empiricism, and contemporary
+			    cognitive science. </p>
+				<a name="phil16" id="phil16"></a></p><p class="course-name">PHIL 16. Science Fiction and Philosophy (4)</p>
+				<p class="course-descriptions">An introduction to philosophy which uses science fiction to make abstract philosophical problems vivid. Science fiction themes may include time travel, teleportation, virtual reality, super-intelligent robots, futuristic utopias, and parallel universes. These scenarios raise philosophical questions about knowledge, reality, ethics, and the mind.</p>
+				<a name="phil25" id="phil25"></a></p><p class="course-name">PHIL 25. Science, Philosophy, and the Big Questions (4)</p>
+                <p class="course-descriptions">An inquiry into fundamental questions at the intersection
+                  of science and philosophy. Topics can include Einstein’s universe;
+                  scientific revolutions; the mind and the brain.</p>
+        <a name="phil26" id="phil26"></a></p><p class="course-name">PHIL 26. Science, Society, and Values (4)</p>
+                <p class="course-descriptions">An exploration of the interaction between scientific theory
+                  and practice on the one hand, and society and values on the
+                  other. Topics can include the relationship between science
+                  and religion, global climate change, DNA, medicine, and ethics. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil27" name="phil27" /></a></p><p class="course-name">PHIL 27. Ethics and Society (4)</p>
+				<p class="course-descriptions">An examination of ethical principles (e.g., utilitarianism, individual rights, etc.) and their social and political applications to contemporary issues: abortion, environmental protection, and affirmative action. Ethical principles will also be applied to moral dilemmas in government, law, business, and the professions. Warren College students must take course for a letter grade in order to satisfy the Warren College general-education requirement. <span class="italic"><strong>Prerequisites:</strong> </span>CAT 2 and 3 or DOC 2 and 3 or MCWP 40 and 50 or HUM 1 and 2 or MMW 2 and 3 or WCWP 10A and B. </p>
+		<p class="anchor-parent"><a class="anchor" id="phil28" name="phil28" /></a></p><p class="course-name">PHIL 28. Ethics and Society II (4)</p>
+				<p class="course-descriptions">An examination of a single set of major contemporary social, political, or economic issues (e.g., environmental ethics, international ethics) in light of ethical and moral principles and values. Warren College students must take course for a letter grade in order to satisfy the Warren College general-education requirement. <strong class="italic">Prerequisites: </strong>PHIL 27 or POLI 27. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil31" name="phil31" /></a></p><p class="course-name">PHIL 31. Introduction
+				  to Ancient Philosophy (4)</p>
+				<p class="course-descriptions">A survey of classical Greek philosophy with
+				  an emphasis on Socrates, Plato and Aristotle, though some consideration
+			    may be given to Pre-Socratic and/or Hellenistic philosophers. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil32" name="phil32" /></a></p><p class="course-name">PHIL 32. Philosophy and the Rise of Modern Science  (4)</p>
+				<p>Beginning with the contrast between medieval and early modern thought, the course focuses on the relation of seventeenth-century philosophy and the emergence of modern natural science. Figures to be studied may include Bacon, Galileo, Descartes, Cavendish, Hobbes, Leibniz, and Newton.</p>
+				<p class="anchor-parent"><a class="anchor" id="phil33" name="phil33" /></a></p>				
+				<p class="course-name">PHIL 33. Philosophy between Reason and Despair (4)</p>
+		<p>Introduction to nineteenth-century philosophy, focusing on skepticism about the authority of reason to answer questions about the ultimate meaning and value of human life. Figures discussed may include Kant, Schopenhauer, Kierkegaard, Nietzsche, Goldman, and de Beauvoir.</p>
+				<p class="anchor-parent"><a class="anchor" id="phil35" name="phil35" /></a></p>
+		<p class="course-name">PHIL 35. Philosophy in the Americas (4)</p>
+		<p class="course-descriptions">An exploration of central philosophical issues as they have been taken up in the diverse philosophical traditions of the Americas, such as indigenous philosophy, Latin American philosophy, American Pragmatism, and the Civil Rights movement, among others. Topics may include ethics, social and political philosophy, colonialism, philosophy of race and gender, environmentalism, and issues in philosophy of language.</p>
+				<p class="anchor-parent"><a class="anchor" id="phil50" name="phil50" /></a></p><p class="course-name">PHIL 50. Law and Society (4)</p>
+				<p class="course-descriptions">A survey of philosophical issues concerning law and society, such as the rule of law, the moral limits of the law, individual rights, judicial review in a constitutional democracy, the justification of punishment, and responsibility.</p>
+				<p class="anchor-parent"><a class="anchor" id="phil87" name="phil87" /></a></p>
+		<p class="course-name">PHIL 87. Freshman Seminar (1)</p>
+				<p class="course-descriptions">The Freshman Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman Seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering freshmen.</p>
+				<a name="phil90" id="phil90"></a></p><p class="course-name">PHIL 90. Basic Problem in Philosophy (4)</p>
+                <p class="course-descriptions">An investigation of a selected philosophical topic through
+                  readings, discussions, and written assignments. May be taken
+                  for credit twice, when topics vary.</p>
+                <h2 class="course-subhead-1">Upper Division </h2>
+				<p class="anchor-parent"><a class="anchor" id="phil100" name="phil100" /></a></p><p class="course-name">PHIL 100. Plato (4)</p>
+				<p class="course-descriptions">A study of Socrates and/or Plato through major dialogues of Plato. Possible topics include the virtues and happiness; weakness of the will; political authority and democracy; the theory of Forms and sensible flux; immortality; relativism, skepticism, and knowledge. May be repeated for credit with change of content and approval of instructor. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil101" name="phil101" /></a></p><p class="course-name">PHIL 101. Aristotle (4)</p>
+				<p class="course-descriptions">A study of major issues in Aristotle&#8217;s works, such as the categories; form and matter; substance, essence, and accident; the soul; virtue, happiness, and politics. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil102" name="phil102" /></a></p><p class="course-name">PHIL 102. Hellenistic Philosophy (4)</p>
+				<p class="course-descriptions">A study of selected texts from the main schools of Hellenistic philosophy—Stoicism, Epicureanism, and Skepticism. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil105" name="phil105" /></a></p><p class="course-name">PHIL 105. Topics in Early Modern Philosophy  (4)</p>
+				<p class="course-descriptions">A study of one or more figures from seventeenth- and/or eighteenth-century philosophy, such as Bacon, Descartes, Hobbes, Cavendish, Conway, Spinoza, Locke, Malebranche, Leibniz, Astell, Berkeley, Du Chatelet, Hume, or Reid. The focus may be on particular texts or intellectual themes and traditions. May be taken for credit up to two times. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil106" name="phil106" /></a></p><p class="course-name">PHIL 106. Kant (4)</p>
+				<p class="course-descriptions">A study of selected portions of <span class="italic">The Critique of Pure Reason</span> and other theoretical writings and/or his major works in moral theory. May be repeated for credit with change in content and approval of the instructor. <strong class="italic">Prerequisites:</strong> PHIL 32 or 33 or 104 or 105 or 111 or 112 or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil107" name="phil107" /></a></p><p class="course-name">PHIL 107. Hegel (4)</p>
+				<p class="course-descriptions">A study of one or more of Hegel&#8217;s major works, in particular, The Phenomenology of Spirit and The Philosophy of Right. Readings and discussion may also include other figures in the Idealist tradition—such as Fichte, Hölderlin, and Schelling—and critics of the Idealist tradition—such as Marx and Kierkegaard. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil108" name="phil108" /></a></p><p class="course-name">PHIL 108. Nineteenth-Century Philosophy (4)</p>
+				<p class="course-descriptions">A study of one or more figures in nineteenth-century philosophy, such as Schopenhauer, Nietzsche, Kierkegaard, Marx, Emerson, Thoreau, Goldman, Luxemburg, James, and Mill.  The focus may be on particular figures or intellectual themes and traditions. May be repeated for credit with change of content and approval of instructor. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil109" name="phil109" /></a></p><p class="course-name">PHIL 109. History of Analytic Philosophy (4)</p>
+				<p class="course-descriptions">Central texts, figures, and traditions in
+				  analytic philosophy. Figures may include Frege, Russell, Wittgenstein, Carnap, Moore, Austin, Quine, and Anscombe.  May be repeated for credit with change of content and
+				  approval of the instructor. <strong class="italic">Prerequisites:</strong> upper-division
+			    standing or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="phil110" name="phil110" /></a></p><p class="course-name">PHIL 110. History of Philosophy: Ancient (4) </p>
+				<p class="course-descriptions">An examination of ancient Greek philosophy, focusing on major works of Plato and Aristotle. PHIL 10, PHIL 111, and PHIL 112 should be taken in order. <strong class="italic">Prerequisites:</strong> upper-division standing and department stamp or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="phil111" name="phil111" /></a></p><p class="course-name">PHIL 111. History of Philosophy: Early Modern (4) </p>
+				<p class="course-descriptions">An examination of seventeenth- and eighteenth-century philosophy, focusing on major works of Descartes, Locke, and Hume. PHIL 110, PHIL 111, and PHIL 112 should be taken in order. <strong class="italic">Prerequisites:</strong> PHIL 110, upper-division standing and department stamp or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="phil112" name="phil112" /></a></p>
+				<p class="course-name">PHIL 112. History of Philosophy: Late Modern (4)</p>
+		<p class="course-descriptions">An examination of late eighteenth and nineteenth-century philosophy, focusing on major works of Kant and Hegel. PHIL 110, PHIL 111, and PHIL 112 should be taken in order. <strong class="italic">Prerequisites:</strong> PHIL 111, upper-division standing and department stamp or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="phil115" name="phil115" /></a></p><p class="course-name">PHIL 115. Philosophical Methods Seminar (4)</p>
+				<p class="course-descriptions">This course provides an introduction to the techniques of philosophical inquiry through detailed study of selected philosophical texts and through extensive training in philosophical writing based on those texts. Enrollment limited and restricted to majors; must be taken for letter grade. May not be repeated for credit. <strong class="italic">Prerequisites:</strong> open to philosophy majors only. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil120" name="phil120" /></a></p><p class="course-name">PHIL 120. Symbolic Logic I (4)</p>
+				<p class="course-descriptions">The syntax, semantics, and proof-theory of first-order predicate logic with identity, emphasizing both conceptual issues and practical skills (e.g., criteria for logical truth, consistency, and validity; the application of logical methods to everyday as well as scientific reasoning). <strong class="italic">Prerequisites:</strong> PHIL 10 or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="phil122" name="phil122" /></a></p>
+				<p class="course-name">PHIL 122. Advanced Topics in Logic (4)</p>
+				<p class="course-descriptions">Topics vary from year to year. They include Metalogic (Mathematical Logic), Modal Logic, Foundations of Logic, Foundations of Set Theory, Gödel’s Incompleteness Theorems, and others. <strong class="italic">Prerequisites:</strong> PHIL 120 or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil123" name="phil123" /></a></p><p class="course-name">PHIL 123. Philosophy of Logic (4)</p>
+				<p class="course-descriptions">Philosophical issues underlying standard and nonstandard logics, the nature of logical knowledge, the relation between logic and mathematics, the revisability of logic, truth and logic, ontological commitment and ontological relativity, logical consequence, etc. May be repeated for credit with change in content and approval of instructor. <strong class="italic">Prerequisites:</strong> PHIL 120 or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil124" name="phil124" /></a></p><p class="course-name">PHIL 124. Philosophy of Mathematics (4)</p>
+				<p class="course-descriptions">The character of logical and mathematical truth and knowledge; the relations between logic and mathematics; the significance of Gödel&#8217;s Incompleteness Theorem; Platonism, logicism, and more recent approaches. <strong class="italic">Prerequisites:</strong> PHIL 120 or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil130" name="phil130" /></a></p><p class="course-name">PHIL 130. Metaphysics (4)</p>
+				<p class="course-descriptions">Central problems in metaphysics, such as free will and determinism, the mind-body problem, personal identity, causation, primary and secondary qualities, the nature of universals, necessity, and identity. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil131" name="phil131" /></a></p><p class="course-name">PHIL 131. Topics in Metaphysics (4)</p>
+				<p class="course-descriptions">An in-depth study of some central problem, figure, or tradition in metaphysics. May be repeated for credit with change of content and approval of instructor. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil132" name="phil132" /></a></p><p class="course-name">PHIL 132. Epistemology (4)</p>
+				<p class="course-descriptions">Central problems in epistemology such as skepticism; a priori knowledge; knowledge of other minds; self-knowledge; the problem of induction; foundationalist, coherence, and causal theories of knowledge. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil134" name="phil134" /></a></p><p class="course-name">PHIL 134. Philosophy of Language (4)</p>
+				<p class="course-descriptions">Examination of contemporary debates about meaning, reference, truth, and thought. Topics include descriptional theories of reference, sense and reference, compositionality, truth, theories of meaning, vagueness, metaphor, and natural and formal languages. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil136" name="phil136" /></a></p><p class="course-name">PHIL 136. Philosophy of Mind (4)</p>
+				<p class="course-descriptions">Different conceptions of the nature of mind and its relation to the physical world. Topics include identity theories, functionalism, eliminative materialism, internalism and externalism, subjectivity, other minds, consciousness, self-knowledge, perception, memory, and imagination. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil137" name="phil137" /></a></p>
+				<p class="course-name">PHIL 137. Moral Psychology (4)</p>
+				<p class="course-descriptions">The nature of action and psychological explanation. Topics include action individuation, reasons as causes, psychological laws, freedom and responsibility, weakness of will, self-deception, and the emotions. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil138" name="phil138" /></a></p>
+				<p class="course-name">PHIL 138. Responsibility (4)</p>
+				<p class="course-descriptions">A study of the nature and significance of responsibility. Possible topics include freedom, determinism, and responsibility; moral luck; responsibility and reactive attitudes such as blame and forgiveness; responsibility and situationism; moral and criminal responsibility; responsibility and excuse; insanity and psychopathy, immaturity, addiction, provocation, and duress. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="phil139" name="phil139" /></a></p><p class="course-name">PHIL 139. Global Justice (4)</p>
+				<p class="course-descriptions">Social justice issues as they arise across the borders of nation-states. Topics may include nationalism and cosmopolitanism, theories of just war and just warfare, issues of migration and immigration, global distributive justice and fair trade, and international cooperation in the face of global problems such as climate change and human rights violations. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="phil140" name="phil140" /></a></p><p class="course-name">PHIL 140. Free Will (4) </p>
+				<p class="course-descriptions">Investigation into the nature of free will, including arguments for and against its compatibility with a scientific picture of the world and competing accounts of the metaphysics of free will. Possible topics include disputes about the nature of free will; what it is for agents to cause actions; the nature of abilities or capacities to act; the relevance of neuroscience to accounts of free will; whether free will skepticism is a stable view; and experimental research on free will. <strong><em>Prerequisites:</em></strong> upper-division standing or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="phil141" name="phil140" /></a></p><p class="course-name">PHIL 141. The Meaning of Life (4)</p>
+				<p class="course-descriptions">This course considers whether human life has meaning, and, if so, what meaning it has and under what conditions such meaning may be secured. Negative proposals considered include that life is nothing but suffering, that it is absurd, that it has no meaning. Positive proposals considered include that meaning derives from free choices, from just being, from some passion, from something transcendent, or from human relationships or purposeless play or knowledge or achievement or morality. <em><strong>Prerequisites:</strong></em> upper-division standing or consent of instructor.</p>
+<p class="anchor-parent"><a class="anchor" id="phil145" name="phil145" /></a></p>
+				<p class="course-name">PHIL 145. Philosophy of Science (4)</p>
+				<p class="course-descriptions">Central problems in philosophy of science, such as the nature of confirmation and explanation, the nature of scientific revolutions and progress, the unity of science, and realism and antirealism. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil146" name="phil146" /></a></p><p class="course-name">PHIL 146. Philosophy of Physics (4)</p>
+				<p class="course-descriptions">Philosophical problems in the development of modern physics, such as the philosophy of space and time, the epistemology of geometry, the philosophical significance of Einstein&#8217;s theory of relativity, the interpretation of quantum mechanics, and the significance of modern cosmology. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil147" name="phil147" /></a></p><p class="course-name">PHIL 147. Philosophy of Biology (4)</p>
+				<p class="course-descriptions">Philosophical problems in the biological sciences, such as the relation between biology and the physical sciences, the status and structure of evolutionary theory, and the role of biology in the social sciences. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil148" name="phil148" /></a></p><p class="course-name">PHIL 148. Philosophy and the Environment (4)</p>
+				<p class="course-descriptions">Investigation of ethical and epistemological questions concerning our relationship to the environment. Topics may include the value of nature, biodiversity, policy and science, and responsibility to future generations. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil149" name="phil149" /></a></p><p class="course-name">PHIL 149. Philosophy of Psychology (4)</p>
+				<p class="course-descriptions">Philosophical issues raised by psychology, including the nature of psychological explanation, the role of nature versus nurture, free will and determinism, and the unity of the person. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil150" name="phil150" /></a></p><p class="course-name">PHIL 150. Philosophy of the Cognitive Sciences (4)</p>
+				<p class="course-descriptions">Theoretical, empirical, methodological, and
+				  philosophical issues at work in the cognitive sciences (e.g., psychology,
+				  linguistics, neuroscience, artificial intelligence, and computer science),
+				  concerning things such as mental representation, consciousness, rationality,
+				  explanation, and nativism. <strong class="italic">Prerequisites:</strong> upper-division
+				  standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil151" name="phil151" /></a></p><p class="course-name">PHIL 151. Philosophy of Neuroscience (4)</p>
+				<p class="course-descriptions">An introduction to elementary neuroanatomy and neurophysiology and an examination of theoretical issues in cognitive neuroscience and their implications for traditional philosophical conceptions of the relation between mind and body, perception, consciousness, understanding, emotion, and the self. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil152" name="phil152" /></a></p><p class="course-name">PHIL 152. Philosophy of Social Science (4)</p>
+				<p class="course-descriptions">Philosophical issues of method and substance in the social sciences, such as causal and interpretive models of explanation, structuralism and methodological individualism, value neutrality, and relativism. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil155" name="phil155" /></a></p><p class="course-name">PHIL 155. Mexican Philosophy (4)</p>
+				<p class="course-descriptions">Introduction to Mexican philosophy with discussion of the work of such figures as Las Casas, Sor Juana Ines de la Cruz, Vasconcelos, Uranga, Zea, Villoro, Dussel, Hierro, Lara, and Hurtado. Topics may include historical movements, such as scholasticism, positivism, Mexican existentialism, and indigenous thought, as well as contemporary developments and the relationship to philosophy in the United States, Europe, and elsewhere.</p>
+				<p class="anchor-parent"><a class="anchor" id="phil156" name="phil156" /></a></p><p class="course-name">PHIL 156. Latinx Philosophy (4)</p>
+				<p class="course-descriptions">Philosophical issues surrounding Latina/o/x peoples, which may include debates about the nature, function, and stability of this identity; social and political issues, such as immigration, economics, racial politics, and justice; phenomenological and existential accounts of latinidad; Latina feminism; and the relationship of these concerns to other philosophical traditions. <strong><em>Prerequisites:</em></strong> upper-division standing or consent of instructor.</p>
+<p class="anchor-parent"><a class="anchor" id="phil160" name="phil160" /></a></p>
+        <p class="course-name">PHIL 160. Ethical Theory (4)</p>
+				<p class="course-descriptions">Systematic and/or historical perspectives on central issues in ethical theory such as deontic, contractualist, and consequentialist conceptions of morality; rights and special obligations; the role of happiness and virtue in morality; moral conflict; ethical objectivity and relativism; and the rational authority of morality. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil161" name="phil161" /></a></p><p class="course-name">PHIL 161. Topics in the History of Ethics (4)</p>
+				<p class="course-descriptions">Central issues and texts in the history of ethics. Subject matter can vary, ranging from one philosopher (e.g., Confucius, Aristotle,  Kant, or Mill) to a historical tradition (e.g., Greek ethics or the British moralists). May be repeated for credit with change in content and approval of instructor. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil162" name="phil162" /></a></p><p class="course-name">PHIL 162. Contemporary Moral Issues (4)</p>
+				<p class="course-descriptions">An examination of contemporary moral issues, such as abortion, euthanasia, war, affirmative action, and freedom of speech. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil163" name="phil163" /></a></p><p class="course-name">PHIL 163. Biomedical Ethics (4)</p>
+				<p class="course-descriptions">Moral issues in medicine and the biological sciences, such as patient&#8217;s rights and physician&#8217;s responsibilities, abortion and euthanasia, the distribution of health care, experimentation, and genetic intervention. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil164" name="phil164" /></a></p><p class="course-name">PHIL 164. Technology and Human Values (4)</p>
+				<p class="course-descriptions">Philosophical issues involved in the development of modern science, the growth of technology, and control of the natural environment. The interaction of science and technology with human nature and political and moral ideals. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil165" name="phil165" /></a></p><p class="course-name">PHIL 165. Freedom, Equality, and the Law (4)</p>
+				<p class="course-descriptions">Examination of freedom and equality under the US Constitution, focusing on Supreme Court cases concerning discrimination on grounds of race, ethnic background, gender, undocumented status, wealth, and sexual orientation, and cases regarding contraceptives, abortion, interracial marriage, polygamy, and same-sex marriage. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+<p class="anchor-parent"><a class="anchor" id="phil166" name="phil166" /></a></p><p class="course-name">PHIL 166. Classics in Political Philosophy (4)</p>
+				<p class="course-descriptions">Central issues about the justification, proper functions, and limits of the state through classic texts in the history of political philosophy by figures such as Plato, Aristotle, Hobbes, Locke, Rousseau, Marx, and Arendt. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil167" name="phil167" /></a></p><p class="course-name">PHIL 167. Contemporary Political Philosophy (4)</p>
+				<p class="course-descriptions">Different perspectives on central issues in contemporary political philosophy, such as the nature of state authority and political obligation, the limits of government and individual liberty, liberalism and its critics, equality and distributive justice. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil168" name="phil168" /></a></p><p class="course-name">PHIL 168. Philosophy of Law (4)</p>
+				<p class="course-descriptions">A study of issues in analytical jurisprudence such as the nature of law, the relation between law and morality, and the nature of legal interpretation and issues in normative jurisprudence such as the justification of punishment, paternalism and privacy, freedom of expression, and affirmative action. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="phil169" name="phil169" /></a></p><p class="course-name">PHIL 169. Feminism and Philosophy (4)</p>
+				<p class="course-descriptions">Philosophical examination of core concepts and theses in feminism, feminist philosophy, and critiques of traditional philosophical approaches to morality, politics, and science, from a feminist perspective. May also treat the historical development of feminist philosophy and its critiques. May be taken for credit two times with permission of instructor. <strong class="italic">Prerequisites: </strong>upper-division standing or consent of instructor.</p>
+
+				<p class="anchor-parent"><a class="anchor" id="phil170" name="phil170" /></a></p><p class="course-name">PHIL 170. Philosophy and Race (4)</p>
+				<p class="course-descriptions">A philosophical investigation of the topics of race and racism. The role of “race” in ordinary speech. The ethics of racial discourse. Anthropological and biological conceptions of race. The social and political significance of racial categories. Post-racialist conceptions of race. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil173" name="phil173" /></a></p><p class="course-name">PHIL 173. Topics in Bioethics (4)</p>
+				<p class="course-descriptions">An in-depth exploration of an issue in bioethics. Topics will vary, and may include the ethics of genetic engineering, mental capacity and genuinely informed consent, the just distribution of health care, the ethics of geo-engineering, and the ethics of climate change and health. May be taken for credit two times.<span class="italic"> <strong>Prerequisites:</strong> </span>upper-division standing or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="phil174" name="phil174" /></a></p><p class="course-name">PHIL 174. Data Ethics (4)</p>
+				<p class="course-descriptions">A survey of ethical issues arising in the collection, storage, analysis, consolidation, and application of data. Topics may include data as property and public resource, privacy and surveillance, data and discrimination, algorithms and fairness, and data regulation. <strong><em>Prerequisites:</em></strong> upper-division standing or consent of instructor.</p>
+<p class="anchor-parent"><a class="anchor" id="phil175" name="phil175" /></a></p><p class="course-name">PHIL 175. Aesthetics (4)</p>
+				<p class="course-descriptions">Central issues in philosophical aesthetics such as the nature of art and aesthetic experience, the grounds of artistic interpretation and evaluation, artistic representation, and the role of the arts in education, culture, and politics. May be taken for credit two times.  <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil177" name="phil177" /></a></p><p class="course-name">PHIL 177. Philosophy and Literature (4)</p>
+				<p class="course-descriptions">A study of philosophical themes contained in selected fiction, drama, or poetry, and the philosophical issues that arise in the interpretation, appreciation, and criticism of literature. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil178" name="phil178" /></a></p>
+				<p class="course-name">PHIL 178. Topics in German Philosophy Translation—Intermediate (2)</p>
+				<p class="course-descriptions">Careful, line-by-line translation of passages of intermediate difficulty from German philosophical texts, both classic (Kant, Fichte, Hegel, Schopenhauer) and contemporary (Heidegger, Wittgenstein, Habermas). P/NP grades only. May be taken for credit six times as topics vary. LIGM 1D or equivalent level of study recommended.  <strong class="italic">Prerequisites: </strong>consent of instructor and preauthorization.</p>
+        <p class="anchor-parent"><a class="anchor" id="phil179" name="phil179" /></a></p>
+        <p class="course-name">PHIL 179. Topics in German Philosophy Translation—Advanced (2)</p>
+        <p class="course-descriptions">Continuation of PHIL 178 in the careful, line-by-line translation of passages of advanced difficulty from German philosophical texts, both classic (Kant, Fichte, Hegel, Schopenhauer) and contemporary (Heidegger, Wittgenstein, Habermas). May be repeated for credit as topics vary<strong>. <span class="italic">Prerequisites:</span></strong> consent of instructor or completion of PHIL 178.</p>
+        <p class="anchor-parent"><a class="anchor" id="phil180" name="phil180" /></a></p><p class="course-name">PHIL 180. Phenomenology (4)</p>
+				<p class="course-descriptions">An examination of the phenomenological tradition through the works of its major classical and/or contemporary representatives. Authors studied will vary and may include Brentano, Husserl, Heidegger, Stein, Merleau-Ponty, Levinas, and Irigaray. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil181" name="phil181" /></a></p><p class="course-name">PHIL 181. Existentialism (4)</p>
+				<p class="course-descriptions">Classical texts and issues of existentialism. Authors studied will vary and may include Nietzsche, Kierkegaard, Heidegger, Sartre, de Beauvoir, and Fanon.  <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="phil183" name="phil183" /></a></p><p class="course-name">PHIL 183. Topics in Continental Philosophy (4)</p>
+				<p class="course-descriptions">The focus will be on a leading movement in continental philosophy (e.g., the critical theory of the Frankfurt school, structuralism and deconstruction, postmodernism) or some particular issue that has figured in these traditions (e.g., freedom, subjectivity, historicity, authenticity). May be repeated for credit with change in content and approval of instructor. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil185" name="phil185" /></a></p><p class="course-name">PHIL 185. Philosophy of Religion (4)</p>
+				<p class="course-descriptions">A general introduction to the philosophy of religion through the study of classical and/or contemporary texts. Among the issues to be discussed are the existence and nature of God, the problem of evil, the existence of miracles, the relation between reason and revelation, and the nature of religious language. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="phil191a" name="phil191a" /></a></p><p class="course-name">PHIL 191A. Philosophy Honors (4)</p>
+				<p class="course-descriptions">Independent study by special arrangement with and under the supervision of a faculty member, including a proposal for the honors essay. An IP grade will be awarded at the end of this quarter; a final grade will be given for both quarters at the end of 191B. <strong class="italic">Prerequisites:</strong> department stamp; consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil191b" name="phil191b" /></a></p><p class="course-name">PHIL 191B. The Honors Essay (4)</p>
+				<p class="course-descriptions">Continuation of 191A: independent study by special arrangement with and under the supervision of a faculty member, leading to the completion of the honors essay. A letter grade for both 191A and 191B will be given at the end of this quarter. <strong class="italic">Prerequisites:</strong> consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil195" name="phil195" /></a></p><p class="course-name">PHIL 195. Introduction to Teaching Philosophy (4)</p>
+				<p class="course-descriptions">Under the supervision of the instructor, student will lead one discussion section of a lower-division philosophy class. The student must attend the lecture for the class and meet regularly with the instructor. Applications are available in the Department of Philosophy. <strong class="italic">Prerequisites:</strong> consent of instructor and department chair, GPA of 3.0 or higher, over ninety units. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil199" name="phil199" /></a></p><p class="course-name">PHIL 199. Directed Individual Study (4)</p>
+				<p class="course-descriptions">Directed individual study by special arrangement with and under the supervision of a faculty member. (P/NP grades only.) <strong class="italic">Prerequisites:</strong> consent of instructor. </p>
+				<h2 class="course-subhead-1">Graduate Courses </h2>
+				<p class="anchor-parent"><a class="anchor" id="phil200" name="phil200" /></a></p><p class="course-name">PHIL 200. Proseminar (4)</p>
+				<p class="course-descriptions">Introduction to philosophical methods of analysis through study of classic historical or contemporary texts. Writing intensive. Enrollment limited to philosophy entering graduate students. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil201a" name="phil201a" /></a></p><p class="course-name">PHIL 201A. Core Course in History (4)</p>
+				<p class="course-descriptions">A study of selected texts or topics in the history of philosophy. Usually the focus will be on a single major text. May be taken for credit nine times with changed content. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil202" name="phil202" /></a></p><p class="course-name">PHIL 202. Core Course in Ethics (4)</p>
+				<p class="course-descriptions">An introduction to some central issues in ethical theory with emphasis on classic texts or contemporary authors. May be taken for credit three times with changed content. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil204a" name="phil204a" /></a></p><p class="course-name">PHIL 204A. Core Course in Philosophy of Science (4)</p>
+				<p class="course-descriptions">An introduction to one or more central problems in the philosophy of science, or in the philosophy of one of the particular sciences, such as the nature of confirmation and explanation, the nature of scientific knowledge, reductionism, the unity of science, or realism and antirealism. May be taken for credit three times with changed content. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil205a" name="phil205a" /></a></p><p class="course-name">PHIL 205A. Core Course in Metaphysics (4)</p>
+				<p class="course-descriptions">An introduction to central topics in metaphysics with emphasis on classic texts or contemporary authors. May be taken for credit three times with changed content. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil206a" name="phil206a" /></a></p><p class="course-name">PHIL 206A. Core Course in Epistemology (4)</p>
+				<p class="course-descriptions">An introduction to central topics in epistemology with emphasis on classic texts or contemporary authors. May be taken for credit three times with changed content. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil207" name="phil207" /></a></p><p class="course-name">PHIL 207. Core Course in Philosophy of Mind (4)</p>
+		<p class="course-descriptions">An introduction to central topics in philosophy of mind with emphasis on classic texts or contemporary authors. May be taken for credit three times with changed content. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor.</p>
+                <p class="anchor-parent"><a class="anchor" id="phil208" name="phil208" /></a></p><p class="course-name">PHIL 208. Core Course in Philosophy of Language (4)</p>
+                <p class="course-descriptions">An introduction to central topics in philosophy of language with emphasis on classic texts or contemporary authors. May be taken for credit three times with changed content. <strong class="italic">Prerequisites: </strong>graduate status or consent of instructor.</p>
+                <p class="anchor-parent"><a class="anchor" id="phil209a" name="phil209a" /></a></p><p class="course-name">PHIL 209A. Introduction to Science Studies: Part I  (4)</p>
+				<p>Study and discussion of classic themes and texts in history of science, sociology of science, and philosophy of science, and of work that attempts to develop an interdisciplinary science studies approach. Required of all students in the Science Studies Program. Students may receive credit for one of the following: ANTH 268, COGR 225A, HIGR 238, PHIL 209A, or SOCG 255A. </p>
+
+				<p class="anchor-parent"><a class="anchor" id="phil209b" name="phil209b" /></a></p><p class="course-name">PHIL 209B. Seminar in Science Studies (4)</p>
+				<p>Study and discussion of a selected topic in the science studies field with an emphasis on the development of research and writing skills. Required of all students in the Science Studies Program. The topic varies from year to year. ANTH 272, COGR 225B, HIGR 239, PHIL 209B, SOCG 255B may be repeated and taken for credit in any combination for a combined total of six times. </p>
+
+				<p class="anchor-parent"><a class="anchor" id="phil209c" name="phil209c" /></a></p><p class="course-name">PHIL 209C. Colloquium in Science Studies (4)</p>
+				<p class="course-descriptions">A forum for the presentation and discussion
+				  of research in progress in science studies, by graduate students, faculty,
+			    and visitors. May be taken for credit two times with changed content. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil209d" name="phil209d" /></a></p><p class="course-name">PHIL 209D. Introduction to Science Studies Part II  (4) </p>
+				<p>Continuing the introduction developed in Part I, this course examines recent key topics and problem situations in science studies. Emphasis is on recent theoretical perspectives and empirical studies in communication, history, philosophy, and sociology of science and technology, and the interplay between them. Students may receive credit for one of the following: ANTH 269, COGR 225D, HIGR 241, PHIL 209D, or SOCG 255D. </p>
+
+				<p class="anchor-parent"><a class="anchor" id="phil210" name="phil210" /></a></p><p class="course-name">PHIL 210. Greek Philosophy (4)</p>
+				<p class="course-descriptions">A study of selected texts or topics from the history of Greek philosophy. Usually centers on works by Plato or Aristotle. May be taken for credit six times with changed content. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil214" name="phil214" /></a></p><p class="course-name">PHIL 214. Early Modern Philosophy (4)</p>
+				<p class="course-descriptions">A study of selected texts or topics from philosophers of the sixteenth and seventeenth centuries: Descartes, Spinoza, Leibniz, or Locke. May be taken for credit six times with changed content. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil215" name="phil215" /></a></p><p class="course-name">PHIL 215. Eighteenth-Century Philosophy (4)</p>
+				<p class="course-descriptions">A study of selected texts or topics from philosophers of the eighteenth century: for example, Kant or Hume. May be taken for credit six times with changed content. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil218" name="phil218" /></a></p><p class="course-name">PHIL 218. Contemporary Analytical Philosophy (4)</p>
+				<p class="course-descriptions">A study of the historical development of the analytical movement, with emphasis on major texts. May be taken for credit six times with changed content. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil230" name="phil230" /></a></p><p class="course-name">PHIL 230. Metaphysics (4)</p>
+				<p class="course-descriptions">Topics may include identity, personal identity, universals and particulars, modality and possible worlds, causation, reduction, supervenience, freedom and determinism, space and time, and realism versus antirealism. May be taken for credit six times with changed content. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil232" name="phil232" /></a></p><p class="course-name">PHIL 232. Epistemology (4)</p>
+				<p class="course-descriptions">This seminar will cover issues such as rival accounts of knowledge, justification, and warrant, traditional and contemporary perspectives on empiricism, rationalism, and pragmatism, and skepticism. May be taken for credit six times with changed content. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil234" name="phil234" /></a></p><p class="course-name">PHIL 234. Philosophy of Language (4)</p>
+				<p class="course-descriptions">Central issues in contemporary philosophy of language, such as the nature of linguistic meaning, truth, content, reference, the syntax and semantics of various linguistic constructions, presupposition, speech acts, the epistemology of language understanding and language learning, the mental/psychological basis of linguistic understanding and use. May be taken for credit six times with changed content. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil236" name="phil236" /></a></p><p class="course-name">PHIL 236. Philosophy of Mind (4)</p>
+				<p class="course-descriptions">Contemporary debates on the nature, function, and operation of the mental. May include questions about the mind-body relation, mental causation, perception, consciousness, and mental representation. May be taken for credit six times with changed content. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil245" name="phil245" /></a></p><p class="course-name">PHIL 245. Philosophy of Science (4)</p>
+				<p class="course-descriptions">This seminar will cover current books and theoretical issues in the philosophy of science. May be taken for credit seven times with changed content. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil250a" name="phil250a" /></a></p><p class="course-name">PHIL 250A. Philosophy of the Cognitive Sciences (4)</p>
+				<p class="course-descriptions">Contemporary debates about the study of the mind-brain as studied in one or more of the empirical cognitive sciences. May include questions about the different strategies of explanation invoked, the conceptions of representation employed, the connections between theoretical models developed. May be taken for credit six times with changed content. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil260" name="phil260" /></a></p><p class="course-name">PHIL 260. Ethics (4)</p>
+				<p class="course-descriptions">Topics may include metaethics (e.g., the semantics, metaphysics, epistemology, and normativity of ethics), consequentialism and deontology, moral psychology (e.g., freedom, responsibility, and weaknesses of will), or substantive moral problems. The approach may be systematic, historical, or both. May be taken for credit six times with changed content. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil267" name="phil267" /></a></p><p class="course-name">PHIL 267. Political Philosophy (4)</p>
+				<p class="course-descriptions">Topics may include the nature and limits of state authority, liberty and equality, distributive justice, liberalism and its critics (e.g., feminists, libertarians, and others), or issues in jurisprudence. The focus may be on classic texts or contemporary authors. May be taken for credit six times with changed content. </p>
+					<p class="anchor-parent"><a class="anchor" id="phil271" name="phil271" /></a></p><p class="course-name">PHIL 271. Agency and Responsibility Reading Group (1–2)</p>
+                <p class="course-descriptions">This course is designed for students to gain feedback from students and faculty on works in progress on the topics of agency and responsibility. The course is suitable for those specializing in moral psychology, ethics, agency and responsibility, and for those with special interests in the topics. May be taken for credit up to nine times for a maximum of nine units.</p>
+				<p class="anchor-parent"><a class="anchor" id="phil275" name="phil275" /></a></p><p class="course-name">PHIL 275. German Philosophy Reading Group (1–2)</p>
+				<p class="course-descriptions">This course meets regularly to discuss primary or secondary literature in the area of German philosophy (including Kant, Fichte, Hegel, etc.). The reading is designed both for students doing active research in the field and for those seeking to gain some familiarity with it. Nongraduate students may enroll with consent of instructor. S/U grades only. May be taken for credit nine times with changed content.</p>
+<p class="anchor-parent"><a class="anchor" id="phil276" name="phil276" /></a></p>
+				<p class="course-name">PHIL 276. German Translation Workshop (1–2)</p>
+				<p class="course-descriptions">This course meets weekly to provide training in reading and translating philosophical German. Students prepare in advance written translations of assigned passages. The course helps train graduate students preparing to take the Departmental German Exam. Can be taken nine times for credit with changed content. </p>
+		<p class="anchor-parent"><a class="anchor" id="phil277" name="phil277" /></a></p>
+		<p class="course-name">PHIL 277. Phenomenology Reading Group (1–2)</p>
+				<p class="course-descriptions">This course meets biweekly with students reading and presenting material from the phenomenological literature. The course is designed both for students doing active research in phenomenology and for those seeking to gain some familiarity with that tradition. Can be taken nine times for credit with changed content. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil278" name="phil278" /></a></p>
+				<p class="course-name">PHIL 278. Topics and
+				  Methods in Contemporary Philosophy (1–2)</p>
+				<p class="course-descriptions">Investigation of central issues in contemporary philosophy. Content varies but typically will center on a recent and important philosophical book. Can be taken nine times for credit with changed content. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil280" name="phil280" /></a></p>
+				<p class="course-name">PHIL 280. Philosophy of Science Topics and Methods (1–2)</p>
+				<p class="course-descriptions">This course meets weekly to discuss recent books or articles in philosophy of science. The reading is designed both for students doing active research in the field and for those seeking to gain some familiarity with it. Can be taken nine times for credit with changed content. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil281" name="phil281" /></a></p>
+				<p class="course-name">PHIL 281. History
+				  of Philosophy Research and Methods (1–2)</p>
+				<p class="course-descriptions">This course meets to discuss work in progress in the history of philosophy. Its aim is to introduce understanding of the methods and standards of research in the field through constructive criticism of each other&#8217;s work. Can be taken nine times for credit with changed content. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil282" name="phil282" /></a></p>
+				<p class="course-name">PHIL 282. Topics and Methods in Ethics (1–2)</p>
+				<p class="course-descriptions">Weekly or biweekly meetings to discuss recent literature in ethics, broadly construed so as to include ethical theory, normative ethics, jurisprudence, and historical traditions in these fields. The course is suitable for those specializing in ethics and for those seeking some familiarity with the field. Can be taken nine times for credit with changed content. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil284" name="phil284" /></a></p>
+				<p class="course-name">PHIL 284. Philosophy of Biology Research Group (1–2)</p>
+				<p class="course-descriptions">A research group for graduate students engaged in philosophy or history of the biological sciences. The group discusses biological, historical, and philosophical articles and books and ongoing research projects. Can be taken nine times for credit with change of content. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="phil285" name="phil285" /></a></p><p class="course-name">PHIL 285. Seminar on Special Topics (4)</p>
+				<p class="course-descriptions">Focused examination of specific problems or themes in some area of philosophy. May be taken for credit nine times with changed content. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil286" name="phil286" /></a></p>
+				<p class="course-name">PHIL 286. Philosophy of Physics Reading Group (1–2)</p>
+				<p class="course-descriptions">A research group for graduate students engaged in philosophy or history of the physical sciences. The group discusses physical, historical, and philosophical articles and books and ongoing research projects. Can be taken nine times for credit with change of content. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="phil287" name="phil287" /></a></p>
+				<p class="course-name">PHIL 287. Greek Reading Group (1–2)</p>
+				<p class="course-descriptions">This group provides training in reading and translating philosophical Greek by having students prepare translations of passages and lead discussions. The group helps train graduate students preparing for Departmental Greek Exam. Can be taken nine times for credit with change of content. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil288" name="phil288" /></a></p><p class="course-name">PHIL 288. Latin Reading Group (1–2)</p>
+		<p class="course-descriptions">This group provides training in reading and translating philosophical Latin by having students prepare translations of passages and lead discussions. The group helps train graduate students preparing for departmental Latin exam. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="phil290" name="phil290" /></a></p><p class="course-name">PHIL 290. Directed Independent Study (4)</p>
+				<p class="course-descriptions">Supervised study of individually selected philosophical topics. S/U grades permitted. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil292" name="phil292" /></a></p>
+				<p class="course-name">PHIL 292. Writing Workshop (1–3)</p>
+				<p class="course-descriptions">Each enrolled student produces a research essay ready for publication, presents it to students and faculty, and offers critiques of other students&#8217; presentations. Units will vary according to enrollment in course. To be taken in fall quarter of third year of philosophy graduate study. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil295" name="phil295" /></a></p>
+				<p class="course-name">PHIL 295. Research Topics (1–12)</p>
+				<p class="course-descriptions">Advanced individual research studies under
+				  the direction of a member of the staff. Hours of outside preparation
+				  will vary with number of units taken. May be taken for credit nine
+				  times with changed content. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil299" name="phil299" /></a></p>
+				<p class="course-name">PHIL 299. Thesis Research (1–12)</p>
+				<p class="course-descriptions">S/U grades permitted. </p>
+				<p class="anchor-parent"><a class="anchor" id="phil500" name="phil500" /></a></p>
+				<p class="course-name">PHIL 500. Apprentice Teaching (1–4)</p>
+				<p class="course-descriptions">A course designed to satisfy the requirement that graduate students should serve as teaching assistants, either in the Department of Philosophy or in one of the writing programs offered by the various colleges. Each PhD candidate must teach the equivalent of quarter time for three academic quarters. Students are permitted to sign up as TAs for a maximum of eighteen quarters. </p>
+    
+<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

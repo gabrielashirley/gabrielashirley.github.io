@@ -1,0 +1,161 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" --> 
+<title>Academic Internship Program</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+	<style type="text/css">
+<!--
+p.course-descriptions {}
+p.course-name1 {}
+span.course-number {}
+-->
+    </style>
+	<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopMargin">Academic Internship Program </h1>
+<p> <span class="courseFacLink">[ <a href="../curric/AIP.html">program </a>]</span>
+<!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/Course Name and Disclaimer.lbi" -->
+<h2>Courses</h2>
+<p class="course-disclaimer"><em>For course descriptions not found in the </em>UC
+  San Diego General Catalog 2019&#8211;20<em>, please contact the department
+  for more information.</em></p><!-- #EndLibraryItem --></p>
+<p class="anchor-parent"><a class="anchor" name="aip97" id="aip97"></a></p><p class="course-name">AIP 97. Academic Internship (2, 4)</p>
+<p class="course-descriptions">Individual placements for field learning. Must be integrated with an academic discipline. A written contract involving all parties will include learning objectives, a paper/project outline, and means of supervision and progress evaluation. May be taken for credit up to three times. <strong class="italic">Prerequisites:</strong> lower-division standing, completion of thirty units of UC San Diego undergraduate study, a minimum UC San Diego GPA of 3.0, and a completed and approved Learning Agreement for Special Studies.</p>
+<p class="anchor-parent"><a class="anchor" name="aip197" id="aip197"></a></p>
+<p class="course-name">AIP 197. Academic Internship
+  Program (2, 4, 6, 8, 10, 12)</p>
+<p class="course-descriptions">Individual internship placements integrated with an academic discipline. A written contract involving all parties will include learning objectives, a paper/project outline, and means of supervision and progress evaluation. Consent of faculty adviser and program chair required. May be taken for credit up to three times for a maximum of sixteen units. <strong class="italic">Prerequisites: </strong>upper-division standing; departmental approval.</p>
+<p><p class="anchor-parent"><a class="anchor" name="aip197dc" id="aip197dc"></a></p></p>
+<p class="course-name">AIP 197DC. UCDC: Washington, DC Internship (6, 8, 10)</p>
+<p class="course-descriptions">This internship is attached to the University of California, Washington Center programs. Students participating in the campus UCDC program secure internships in the Washington, DC area requiring 18–30 hours per week. Students must be enrolled in the UCDC program. <strong><em>Prerequisites:</em></strong> upper-division standing; department approval.</p>
+<p><p class="anchor-parent"><a class="anchor" name="aip197f" id="aip197f"></a></p></p>
+<p class="course-name">AIP 197F. Academic Internship
+  Program—Foreign (4, 8, 12)</p>
+<p class="course-descriptions">Individual placements for field learning opportunities abroad. Must be integrated with an academic discipline. A written contract involving all parties will include learning objectives, a paper/project outline, and means of supervision and progress evaluation. Consent of faculty adviser and program chair required. <strong class="italic">Prerequisites: </strong>ninety units completed; 2.5 minimum cumulative GPA; departmental approval.</p>
+<p class="anchor-parent"><a class="anchor" name="aip197p" id="aip197p"></a></p><p class="course-name">AIP 197P. Public Service Minor Internship (4)</p>
+<p>Individual placements for field learning performed in nonprofit organizations or government agencies dedicated to providing services in the areas of education, government, social issues, and health. May be taken for credit up to three times for a maximum of twelve units. Contract completed prior to start of internship will include intellectually unified expectations and means of supervision. Faculty member and student will meet regularly. <strong class="italic">Prerequisites: </strong>ninety units completed; 2.5 minimum cumulative GPA; departmental approval.</p>
+<p class="anchor-parent"><a class="anchor" name="aip197t" id="aip197t"></a></p>
+<p class="course-name">AIP 197T. Academic Internship Program—Special Programs (2)</p>
+<p class="course-descriptions">Individual placements for field learning associated with UC San Diego partnerships and special programs. A written contract involving all parties will include learning objectives, a paper/project outline, and means of supervision and progress evaluation. Consent of faculty adviser and program chair required. <strong class="italic">Prerequisites: </strong>ninety units minimum completed; 2.5 minimum cumulative GPA; departmental approval.</p>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

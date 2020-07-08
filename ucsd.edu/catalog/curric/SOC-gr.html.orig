@@ -1,0 +1,262 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Sociology</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Sociology </h1>
+<p class="sectionNav"> <span class="courseFacLink">[ <a href="../curric/SOC-ug.html">undergraduate
+      program</a> | <a href="../curric/SOC-gr.html"> </a><a href="../courses/SOC.html">courses</a> | <a href="../faculty/SOC.html">faculty</a> ]</span></p>
+<p class="program-contact-info">Social Sciences Building, Room 401<br />
+    <a href="http://sociology.ucsd.edu" target="_blank">http://sociology.ucsd.edu</a> </p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><p class="anchor-parent"><a class="anchor" id="grad"></a></p><h2 class="program-overview-subhead-1">The Graduate Program </h2>
+<p>The Department of Sociology at the University of California San Diego offers training in a wide range of theoretical and methodological approaches, from the humanistic to the computational. We have particular concentrations of expertise in the study of international migration; the sociology of science, knowledge, and medicine; political sociology and social movements; and the study of social inequalities. The department is particularly strong in international and comparative scholarship, with specialists using case studies from most regions of the world, including Europe, East Asia, Africa, Latin America, the Middle East, alongside the United States. It also pioneers a cultural approach to the study of social problems that spans many subfields by focusing on the process of meaning making and identity formation. Our program is designed to prepare students for two main goals: to contribute to the development of knowledge about societies and thereby advance the discipline of sociology; and to teach sociology at the graduate and undergraduate levels. The majority of graduates from the program find teaching and research positions in colleges and universities; many also work in nonacademic research and social policy positions. The department offers a course of study leading to the doctor of philosophy degree. It does not accept applicants seeking only an MA degree. </p>
+<h3 class="program-overview-subhead-2">Departmental Research and Teaching </h3>
+				<p>Members of the department are engaged in research on a variety of topics and using a variety of methods and approaches. Examples include the following:</p>
+<h4 class="program-overview-subhead-3">Political Sociology </h4>
+				<p>Many members of our faculty have research interests in the analysis of political institutions, structures, and processes. Faculty are engaged in research on, among other things: (1) the emergence and the effects of social movements and political ideologies; (2) the emergence and transformation of social and economic institutions in modern societies, such as immigration regimes, welfare policies, and judicial institutions; (3) the formation of collective identities such as nation, class, gender, race, and ethnicity; and (4) both qualitative and quantitative studies of political ideologies and political cultures, very broadly construed. The department is unusually international in focus, with specialists in most regions of the world, including Europe, Japan, China, southern Africa, Latin America, the Middle East, as well as the United States. </p>
+<h4 class="program-overview-subhead-3">Sociology of International Migration</h4>
+				<p>Many department faculty are engaged in the sociological study of international migration. Using a wide variety of research methods, from ethnography to archival research, faculty are engaged in research on such topics as race and immigration policy, refugee resettlement, internal migration, and the political and social incorporation of migrants in workplaces and residential communities. Our faculty study migration comparatively in a wide variety of global contexts.  </p>
+		<h4 class="program-overview-subhead-3">Sociology of Social Inequalities</h4>
+				<p>A large number of departmental faculty have expertise in the study of social inequalities, including those based on distinctions of gender, race, ethnicity, class, language, citizenship, and sexuality. Distinctive features of  our program are (1) focus on the processes by which social distinctions and identities are themselves constructed, represented, and maintained over time; (2) comprehensive training in both qualitative and quantitative approaches to studying inequality; (3) emphasis on international and historical inequality research; and (4) expertise in social movements as products of and challenges to inequality. Many members of the department study inequalities in workplaces, schools, markets, states, families, politics, law, and medicine. </p>
+				<h4 class="program-overview-subhead-3">Sociology of Science, Technology, and Medicine </h4>
+				<p>A substantial number of faculty have research interests focused on the interrelationships between science, technology, and medicine and modern society. Drawing on a range of sociological and historical methodologies, individual faculty are engaged in research on science and social movements, scientists and the state, biomedicine, the social history of madness and psychiatry, the historical sociology of scientific knowledge and practice, and sociological approaches to the Scientific Revolution. Many faculty are also interested in the sociology of knowledge and intellectuals more generally.  (For
+				  information on the interdisciplinary Science Studies Program,
+				  see below “<a href="#ips">Interdisciplinary Programs of Study</a>.”) </p>
+		<h3 class="program-overview-subhead-2">Admission </h3>
+				<p>Admission to the graduate program in sociology is open to students with excellent undergraduate records in any field. Some previous work in sociology or the social and behavioral sciences is advisable, but not required. New students are admitted in the fall quarter of each academic year. A bachelor&#8217;s degree from an accredited college or university is a prerequisite for admission to the graduate program. Prospective applicants should submit the official online application for admission and awards (same form), one set of official transcripts from each institution attended after high school, official scores from the Graduate Record Examination, application fee, at least three letters of recommendation, and one or more samples of the applicant&#8217;s own writing, such as a term paper. Additionally, international applicants must submit official scores from one of the following tests—the Test of English as a Foreign Language (TOEFL), IELTS (International English Language Testing System), or PTE (Pearson Test of English). Applicants are encouraged to contact and communicate with the department to talk with faculty and graduate students. The application deadline is January 10 of each year.  </p>
+		<h3 class="program-overview-subhead-2">Program of Study </h3>
+				<p>The graduate programs in the University of California system work under the “normative time” standard. Normative time refers to the time period in which students, under normal circumstances, are expected to complete their requirements for the PhD degree. Each department establishes a normative time for its doctoral program, and for the Department of Sociology, as for most graduate programs in the university, it is six years. </p>
+		<h4 class="program-overview-subhead-3">Course Requirements </h4>
+				<p>Students are required to enroll as full-time graduate students, to carry
+				  a minimum enrollment of twelve units of graduate-level courses each quarter,
+			    and to maintain a grade point average of 3.0 or better. </p>
+	
+<h5 class="program-overview-subhead-4">Theory and Methods Requirements </h5>
+				<p>Students take almost all of their courses on theory and methods in the first year in the program. They are required to take two theory courses: one in classical sociological theory (SOCI 201) and one in contemporary theory (SOCI 202). They are also required to take five methods courses: a foundational introductory methods/epistemology course (SOCI 200), two courses in quantitative methods (SOCI 205 and 206), and two in qualitative methods (from among SOCI 203, Field Methods; SOCI 204, Text and Discourse Analysis; or SOCI 207, Comparative-Historical Methods). In addition, students enroll in two one-credit proseminar classes in fall and winter quarters in which they learn about reading and writing academic papers, faculty research, and other issues related to graduate life for a total of two units over two quarters (SOCI 208). <strong>Note:</strong> SOCI 208 is in addition to other requirements. </p>
+<p>The remaining theory and methods requirements are SOCI 252 and 253, a two-quarter practicum sequence, which will be taken in the fall quarters of the second and third year. In these courses, students will complete a piece of research they have started in a previous seminar, write a paper, and revise it for submission to a journal. The emphasis in the first quarter will be on the completion of the research for this project, and the second quarter will focus on the writing of the results and revision of drafts. </p>
+				<h5 class="program-overview-subhead-4">Core Seminars </h5>
+				<p>Core seminars are survey courses in major substantive fields. Students must take three out of the following ten courses, which the department offers regularly: SOCI 264, Economic Sociology; SOCI 226, Political Sociology; SOCI 216, Sociology of Culture; SOCI 234, Intellectual Foundations of the Study of Science, Technology, and Medicine; SOCI 212, Social Stratification; SOCI 214, Urban Sociology; SOCI 267, Sociology of Gender; SOCI 244, Sociology of Race and Ethnicity; SOCI 222, Social Movements; and SOCI 230, Advanced Approaches to Sociological Theory. These are major areas of sociology and fields in which several of the members of our faculty specialize. Moreover, several of these seminars serve as introductions to the programs of specialization on which the program is based (see below). </p>
+<h5 class="program-overview-subhead-4">Remaining Courses </h5>
+				<p>Beyond these requirements, students must take four additional sociology seminars. Of the four courses, one may be taken outside the department and be taken for S/U grade. In total, sixteen graduate courses, plus the proseminar, are required for advancing to candidacy. </p>
+        <h4>Designing an Appropriately Specialized Course of Study</h4>
+        <p>Sociology is an intellectually diverse discipline, and different combinations of methods courses, specialized seminars, and field examination topics will be appropriate for students who aim to specialize in different areas of the discipline. The department does not have exclusive or specialized tracks for different specializations within sociology, but students are encouraged to design courses of study, in consultation with their advisers, that best fit their goals. We offer illustrative examples here. </p>
+        <p>The preferred advanced research methods courses to choose may vary according to one&rsquo;s research interests. For example, students who intend to pursue research in comparative and historical sociology will wish to take SOCI 207, Comparative-Historical Methods. Students specializing in social inequalities should plan to take at least one of the following courses: SOCI 203, Field Methods; SOCI 204, Text and Discourse Analysis; or SOCI 207, Comparative-Historical Methods. Finally, students specializing in sociology of science, technology, and medicine may be best advised to choose from among SOCI 203, Field Methods; SOCI 204, Text and Discourse Analysis; and SOCI 207, Comparative–Historical Methods. The required core seminars are survey courses in major substantive fields. Students must take three out of the following ten courses, which the department offers regularly: SOCI 264, Economic Sociology; SOCI 226, Political Sociology; SOCI 216, Sociology of Culture; SOCI 234, Intellectual Foundations of the Study of Science, Technology, and Medicine; SOCI 212, Social Stratification; SOCI 214, Urban Sociology; SOCI 267, Sociology of Gender; SOCI 244, Sociology of Race and Ethnicity; SOCI 222, Social Movements; and SOCI 230, Advanced Approaches to Sociological Theory. These are major areas of sociology and fields in which several of the members of our faculty specialize.
+        </p>
+        <h3 class="program-overview-subhead-2">Program Overview </h3>
+				<h4 class="program-overview-subhead-3">First-Year Evaluation </h4>
+				<p>All students are evaluated by the department faculty toward the end of the academic year. At the end of the student&#8217;s first year in the program, student performance is also evaluated by the Graduate Program Committee, including the director of Graduate Studies, the faculty teaching the core sequences, and by their faculty adviser. Students whose performance is satisfactory are allowed to continue the regular course of study; others may be asked to repeat some courses or to do additional course work; others may be asked to withdraw from the program. Evaluations are communicated to students in writing. </p>
+				<h4 class="program-overview-subhead-3">Second-Year Evaluation and the MA </h4>
+				<p>The MA is not a degree that students in the PhD program commonly apply for in the course of their PhD work; it is strictly incidental to our PhD program. According to university policy, a student will not be awarded an MA in sociology if the person has been awarded a master&rsquo;s degree in the same or related discipline by another department or institution in similar fields.</p>
+		<p>Students in the PhD program may apply for the MA upon completion of the degree requirements below, usually following and not before finishing the second year of study in the doctoral program. </p>
+				<p>Requirements for obtaining the MA are based on the quality of the student&rsquo;s course work described below. At the end of the second year, students have the option to be evaluated by the Graduate Program Committee for the master&rsquo;s degree. At that time, the committee ascertains the student&rsquo;s suitability for doctoral work.</p>
+				<p>The fifteen core courses required to receive the MA degree are</p>
+        <p class="course-list-overview">SOCI 200. Introductory Methods/Epistemology</p>
+        <p class="course-list-overview">SOCI 201. Classical Sociological Theory</p>
+        <p class="course-list-overview">SOCI 202. Contemporary Sociological Theory</p>
+        <p class="course-list-overview">SOCI 205. Quantitative Methods I</p>
+        <p class="course-list-overview">SOCI 206. Quantitative Methods II</p>
+        <p class="course-list-overview">SOCI 252. Research Practicum I</p>
+        <p class="basic-offset-top-only">Two courses chosen from</p>
+				<p class="course-list-overview">SOCI 203. Field Methods</p>
+				<p class="course-list-overview">SOCI 204. Text and Discourse Analysis</p>
+		<p class="course-list-overview">SOCI 207. Comparative-Historical Methods</p>
+				<p>Three seminars from</p>
+				<p class="course-list-overview">SOCI 212. Social Stratification</p>
+				<p class="course-list-overview">SOCI 214. Urban Sociology</p>
+				<p class="course-list-overview">SOCI 216. Sociology of Culture</p>
+				<p class="course-list-overview">SOCI 222. Social Movements</p>
+				<p class="course-list-overview">SOCI 226. Political Sociology</p>
+				<p class="course-list-overview">SOCI 230. Advanced Approaches to Sociological Theory</p>
+				<p class="course-list-overview">SOCI 234. Intellectual Foundation of the Study of Science, Technology, and Medicine</p>
+				<p class="course-list-overview">SOCI 244. Sociology of Race and Ethnicity</p>
+				<p class="course-list-overview">SOCI 264. Economic Sociology</p>
+				<p class="course-list-overview">SOCI 267. Sociology of Gender</p>
+		<p>Four elective sociology graduate seminars, of which one of them may be taken outside the department for S/U grade.</p>
+		<p>At the end of winter quarter of their second year in the program or one quarter in which they wish to be considered, students must submit to the committee for evaluation three papers they have written for seminars taught by different faculty. Reviewers assess the quality of the overall record and determine whether it indicates a potential for conducting doctoral research.</p>
+		<p>The final decision regarding the MA is based on the student&rsquo;s GPA, the three papers, and yearly faculty evaluations. The committee makes one of the following three recommendations: pass, MA only, and not pass. Pass means that students may proceed toward the PhD. Those given MA only evaluations are granted the degree but may not continue toward the PhD. Students who received not pass evaluations are asked to withdraw without a graduate degree.</p>
+<h4 class="program-overview-subhead-3">The Field Examination </h4>
+				<p>In the quarter during which students expect to finish their theory and methods requirements, the three core seminars, and the four elective seminars, students become eligible to take two field examinations. These exams <strong>must be completed</strong> by the end of winter quarter of the student&rsquo;s third year in the program. The object of the field examinations is to demonstrate mastery of two established, broad, and distinct fields of sociological inquiry, selected from a list of fields provided by the department. The examinations are carried out by two faculty committees, each of which is composed of two departmental faculty. One of the faculty on each committee will serve as lead reader for that committee. The choice of fields and the composition of the committees <strong>must be approved</strong> by the director of Graduate Studies <strong>before the student starts preparing for the exams. </strong></p>
+				<p>In a field exam committee, one faculty will serve as the lead reader. The lead reader must be sociology faculty. It is also expected that the other committee member is a sociology faculty. In the rare case where a student is unable to identify a second sociology faculty to supervise the exam on a particular field, the student may consult the lead reader if it is advisable to invite a faculty from another UC San Diego department to be the second reader. The lead reader may petition to the director of Graduate Studies on behalf of the student.</p>
+<p>The demonstration of mastery is achieved though one written paper and an accompanying oral defense for each field. To prepare for the written portion of each exam, students will work with each of their lead advisers to draw up a bibliography of the respective field, which will give them a grasp of key issues and debates and a broad conceptual history of the field. Students are expected to know the central arguments of all the books and papers in their two bibliographies. The faculty for each exam will prepare a specially tailored prompt for each student. Students will have five days to respond to the prompt for each field exam, up to ten days, combined, for the two field exams. Exams will be open book and will have a maximum page limit of twenty pages each, double-spaced, twelve point Times New Roman font, with one-inch margins. Once the student has completed each exam, an oral defense for that exam is held no later than a week after completion of the written portion of the exam. Each field&rsquo;s oral defense will last one hour and will be given by the two-person examining committee. The oral defense for each field is based on the written exam prompt and any other work covered in the student&rsquo;s bibliography. Following the oral examination, the committee evaluates the student on the basis of both the written and the oral components of the examination and assigns an overall grade to each exam. Possible grades are high pass, pass, conditional pass, and no pass. High pass recognizes exceptional performance. Conditional pass indicates that the committee has passed the student pending the completion of additional work. Students receiving a grade of no pass on the exam will have an opportunity to retake the entire examination, should they so desire, by the end of the subsequent quarter. Students electing not to retake the examination or receiving a grade of no pass a second time will be asked to withdraw from the graduate program. Students must pass both field exams to proceed in the program.</p>
+<p>Students will have to constitute their field exam committees <strong>by the end of their second year in the program</strong>. Once the committees are constituted, they can be changed only if a faculty member becomes unavailable. </p>
+<h4 class="program-overview-subhead-3">The Dissertation Prospectus and Hearing </h4>
+				<p>The central intellectual activity leading to the award of the PhD is the doctoral dissertation: an original contribution to knowledge, based on substantial, original research on a topic of intellectual significance within the field of sociology. </p>
+				<p>Following successful completion of the field examination, the student establishes a doctoral committee to supervise dissertation research. This is a five-person committee, including three faculty from within the department and two from other departments within the university. The committee should include the faculty members whose fields of expertise make them most appropriate for supervising the students&#8217; research. The student approaches the faculty member he or she would like to include, but the committee <strong class="myriad-pro-semibold">must</strong> be approved by the director of Graduate Studies and the department chair <strong class="myriad-pro-semibold">before</strong> the student starts working on the prospectus. The composition of the committee may or may not overlap with the committee that carried out the field examination. If the student elects to have a six-member committee, the sixth member has all the same obligations as the other committee members. </p>
+				<p>By the end of the spring quarter of the fourth year in the department, the student must have a dissertation prospectus approved by his or her doctoral committee. The dissertation prospectus is a document that presents the research topic of the dissertation, places it in the context of the relevant literature, discusses its significance, specifies and justifies the methods the student intends to use, establishes the feasibility of the research, and indicates the anticipated steps leading to completion. </p>
+				<p>Following submission of the dissertation prospectus, the student must defend it at a hearing before the doctoral committee. The purpose of the hearing is to certify that the prospectus is significant and feasible, that the research design is appropriate, and that the student is prepared to carry it out successfully. Based on the written prospectus and the hearing, the committee may choose to approve the prospectus or to ask for revisions and resubmission. The prospectus hearing serves, in effect, as a qualifying examination, and approval of the dissertation prospectus is the final step to advancement to candidacy for the PhD degree. </p>
+				<p>Students will have to constitute their dissertation committee <strong class="myriad-pro-semibold">three months</strong> before the proposed date of the exam. Once the committee is constituted it can be changed only if a faculty member becomes unavailable. Students will have to submit one copy per member of a substantial draft of their prospectus <strong class="myriad-pro-semibold">one month in advance</strong> to the graduate coordinator, who then distributes them to the committee members. Faculty, in turn, will commit to read and comment on the papers in two weeks time. </p>
+				<p>A mid-dissertation meeting with the sociology members of the student&rsquo;s committee as a whole will be required twelve to eighteen months after the dissertation prospectus defense. During this meeting, the candidate will be expected to give an account of their progress and receive feedback from the committee. This meeting serves to create a deadline for the student to make substantial progress on his or her dissertation research. It also asks students to articulate their achievements and reflect on the dissertation research process. Likewise, committee members will be expected to actively participate and engage with the student and committee members and provide intellectual input and support.</p>
+<h4 class="program-overview-subhead-3">The Doctoral Dissertation </h4>
+				<p>Upon approval of the dissertation prospectus, the student proceeds with dissertation research. Students are expected to consult with committee members as the research progresses and to keep the committee chair advised of progress made. </p>
+				<p>Once the dissertation is substantially completed and committee members have had the opportunity to review drafts of the written work, the committee meets at least one month before the defense takes place, with or without the student present, to consider the progress made and to identify concerns, changes to be made, or further work to be done. Once the committee members are substantially satisfied with the written work, the student, in consultation with the committee, schedules the oral defense of the dissertation. By university regulation, this defense is open to the public. </p>
+				<p>The final version of the dissertation must be approved by each member of the doctoral committee. <strong class="myriad-pro-semibold">All </strong>members of the committee <strong class="myriad-pro-semibold">must</strong> be present at the defense. Exceptions may be made <strong class="myriad-pro-semibold">only</strong> under very restrictive conditions. Further, the student <strong class="myriad-pro-semibold">must </strong>consult with the Graduate Division to be told of appropriate requirements for the thesis to be filed. Having obtained this approval and successfully defended the dissertation in oral examination, the student is eligible to receive the PhD. The final version of the dissertation is then filed with the university librarian via the Graduate Division. Acceptance of the dissertation by the university librarian is the final step in completing all requirements for the PhD.</p>
+				<h4 class="program-overview-subhead-3">PhD Time Limit Policies </h4>
+				<p>Students must be advanced to candidacy by the end of four years (PCTL—Precandidacy Time Limit). Normative time is six years. Total university financial support (SUTL—Support Time Limit) cannot exceed seven years. Total registered (TRTL—Total Registered Time Limit) time at UC San Diego cannot exceed eight years. </p>
+		<p class="anchor-parent"><a class="anchor" id="ips"></a></p><h3 class="program-overview-subhead-2">Interdisciplinary Programs of Study </h3>
+				<h4>PhD in Sociology with a Specialization in Interdisciplinary Environmental Research </h4>
+				<p>A graduate specialization in Interdisciplinary Environmental Research (PIER) is available for select doctoral students in sociology<strong>.</strong> PIER students seek solutions to today's environmental challenges. <strong> </strong></p>
+				<p>The PhD specialization is designed to allow students to obtain standard training in their chosen field and an opportunity to interact with peers in different disciplines throughout the duration of their doctoral projects. Such communication across disciplines is key to fostering a capacity for interdisciplinary &ldquo;language&rdquo; skills and conceptual flexibility.</p>
+				<h5>Specialization Requirements</h5>
+                <ul type="disc">
+                  <li>Complete all course work, dissertation, and other      requirements of<strong> </strong>the sociology      PhD<strong>. </strong></li>
+                  <li>Sixteen-unit      interdisciplinary boot camp (summer, SIO 295S-295LS).</li>
+                    <li>Eight      units from a secondary field (outside the home department). </li>
+                    <li>Six      units (three quarters) Interdisciplinary Environmental Research Forum (SIO      296).</li>
+                    <li>At      least one chapter of the dissertation will be broadly related to      environmental research and will be interdisciplinary in nature. </li>
+                </ul>
+                
+        <h5>Application Requirements</h5>
+        <p><em>We advise students to begin PIER in their third year upon completion of core sociology<strong> </strong>course requirements.</em></p>
+        <p>The following items should be combined into a single PDF document and submitted to cmbc@ucsd.edu.<strong></strong></p>
+        <ul type="disc">
+          <li>Student's CV</li>
+                  <li>Half-page abstract of proposed thesis work </li>
+                  <li>Up to one-page statement of student's interest in      interdisciplinary environmental research including career goals </li>
+                  <li>Nomination letter from adviser acknowledging      student's academic ability and interdisciplinary environmental interest; the      letter must include a commitment for summer stipend support</li>
+        </ul>  
+        <h5>Admission to the Specialization </h5>
+    
+        <p>Students are admitted into the sociology<strong> </strong>doctoral program. Admission to PIER is a competitive process with six to eight students granted admission each year from across ten participating UC San Diego departments. Selected applicants will have the opportunity to enroll in the specialization. <br>
+        </p>
+                <h5>PIER Fellowships</h5>
+                <p>When funding is available, all applicants will be considered for one year of PIER Fellowship support.  </p>
+        <h4 class="program-overview-subhead-3">Sociology of Science, Technology, and Medicine, and the Science Studies Program </h4>
+				<p>Students interested in the interrelationships between science, technology, and medicine (STM) and the larger social order can opt for one of two specialized programs of study. The first of these is undertaken wholly within the department (see above). The second approach is to seek admission to the Science Studies Program, a joint doctoral program that brings together graduate students from the Departments of Sociology, Anthropology, History, Philosophy, and Communication. Students in the program pursue a cross-disciplinary curriculum leading to dissertation research in the sociology of science, technology, or medicine, broadly conceived. Sociology faculty affiliated with this program have research interests across the broad spectrum of science studies, from the philosophy and history of science to the organization of scientific discovery and the culture of specific work. </p>
+				<p>Students may seek admission to the Science Studies Program at the same time they apply for admission to the Department of Sociology, or may, in certain circumstances, request to be accepted into the program at some point after entering the University of California San Diego. The requirements of the Science Studies Program are similar to those of the standard graduate program. However, there are some distinct curricular requirements in the first three years of the program. For details, see <a href="https://sociology.ucsd.edu/graduate/science-studies.html" target="_blank">https://sociology.ucsd.edu/graduate/science-studies.html</a>. There is also an expectation that one of the student&rsquo;s two field exams will be in the area of science, knowledge, and technology. The core of the program is a three-quarter seminar sequence taken in the first year, the first quarter being an interdisciplinary introduction to science studies; the second quarter a seminar on advanced approaches to science studies; and the third quarter (or core seminar) being devoted to special topics in science studies which vary from year to year, to be taken twice over the student&rsquo;s first three years. Students are also expected to attend the weekly science studies colloquium, featuring talks from both visiting and UC San Diego researchers, for their first two years in the program.</p>
+<p>For details on the Science Studies Program, including information about
+				  requirements, write to the University of California San Diego,
+				  Coordinator, Science Studies Program, 9500 Gilman Dr. # 0104, La Jolla, CA 92093-0104; or telephone the program coordinator
+				  at (858) 534-0491. Visit their website: <a href="http://sciencestudies.ucsd.edu" target="_blank">http://sciencestudies.ucsd.edu. </a></p>
+		<h4 class="program-overview-subhead-3">Interdisciplinary Program in Sociology and Cognitive Science </h4>
+				<p>This program allows students to earn a PhD in sociology and cognitive science. Students must complete all the regular sociology requirements. In addition, they take six cognitive science seminars and select a dissertation committee composed of three Sociology and three Cognitive Science Program faculty. Admission to this program requires a separate application and is contingent on acceptance into the Department of Sociology. For more information, contact the coordinators in the Department of Sociology, (858) 534-4626, or the Cognitive Science Department, (858) 534-7141. Please view our website for application and department handbook information: <a href="http://sociology.ucsd.edu" target="_blank">http://sociology.ucsd.edu</a>. </p>
+        <h4>Specialization in Critical Gender Studies </h4>
+				<p>Students in the doctoral program in sociology may apply for a specialization in critical gender studies to complement their course work and research in sociology. </p>
+				<p>The Critical Gender Studies Program is built on the intellectual foundations of intersectional feminist thought and queer studies, and incorporates the interdisciplinary methodologies, intersectional frameworks, and transformational epistemologies central to contemporary gender and sexuality studies. The graduate specialization in critical gender studies provides specialized training in gender and sexuality for students currently enrolled in a UC San Diego doctoral program. Through advanced course work in critical gender studies and its affiliated departments,&nbsp;graduate students in the specialization develop an understanding of gender as necessarily linked to other social formations, including sexuality, race, nation, religion, (dis)ability, and structures of capital.&nbsp;At the same time,&nbsp;doctoral&nbsp;students engaging&nbsp;gender and sexuality studies&nbsp;have the opportunity to develop their work among peers who take up similar questions in their scholarship.</p>
+				<p>Admitted students are required to complete five courses in addition to their home department&rsquo;s core requirements, consisting of two core courses and three electives. The core courses are Advanced Studies in Critical Gender Studies (CGS 200), to be taken shortly after admission to the specialization, and Practicum in Critical Gender Studies (CGS 299), to be taken in the student&rsquo;s final two years of dissertation writing. Electives may be chosen from a list of preapproved seminars in participating departments (students may petition other courses with significant gender/sexuality studies content) and may be taken at any time during the student&rsquo;s tenure at UC San Diego. Admitted students must also include at least one member of their dissertation committee from the list of CGS core or affiliate faculty.</p>
+<p>For more information about the graduate specialization in critical gender studies, please visit <a href="http://cgs.ucsd.edu" target="_blank">http://cgs.ucsd.edu</a>.</p>
+                <div>
+                  <div> </div>
+        </div>
+        <!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

@@ -1,0 +1,257 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Law and Society</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Law and Society</h1>
+<p class="sectionNav"> [<span class="courseFacLink"><a href="../courses/LAWS.html">courses</a></span>
+  | <a href="../faculty/LAWS.html">faculty</a> ]</p>
+<p class="program-contact-info">Interdisciplinary Programs, EBU 3B<br />
+  Computer Science and Engineering
+Building, Room 1108<br />
+Warren College<br />
+  <a href="http://lawandsociety.ucsd.edu" target="_blank">http://lawandsociety.ucsd.edu</a><a href="http://provost.ucsd.edu/warren/law/" target="_blank"></a> </p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><p class="basic-offset-top-only">Law and Society is an interdisciplinary minor that emphasizes the complexity and interrelationship of legal, social, and ethical issues in their historical context. Although it is administered by Warren College, it is available to all UC San Diego undergraduate students considering law-related careers or those with a general interest in law as a social institution. The purpose of the program is to enhance students&#8217; critical analysis of social and ethical issues related to law and of the legal implications and ramifications of policy and decision-making in their major fields of study. Students examine the role of the legal system and specific legal issues from the perspectives of the social sciences and humanities. Social forces, historical questions, and issues of values will be considered in the context of the legal system. The focus of the minor is on the process of law—how the law both reflects and defines basic social values—and its relation to the political, economic, and social conflicts within society. </p>
+				<p>The interdisciplinary content of the Law and Society minor offers students the opportunity to examine law-related issues from the perspectives of a broad range of disciplines, including anthropology, communication, critical gender studies, economics, environmental studies, ethnic studies, history, linguistics, philosophy, political science, psychology, sociology, and urban studies and planning. </p>
+				<p>Students should consult an academic adviser at their college to determine how the Law and Society minor can best meet their college graduation requirements. Minor declarations must be made online using the <a href="http://tritonlink.ucsd.edu" target="_blank">TritonLink</a> major and minor application. </p>
+				<p>Students are urged to supplement the Law and Society minor with a law-related internship. The Academic Internship Program offers local placements with lawyers, judges, elected officials, government offices, and public interest groups. In addition, placements are available in Washington, D.C. with senators, representatives, legislative committees, and political action committees. </p>
+				<p>A number of extracurricular events and programs are also available to
+				  students interested in law. Information on these programs and
+				  activities is available in the Warren College Interdisciplinary
+				  Programs Office, EBU 3B, Computer Science and Engineering Building,
+				  Room 1108, Warren College, or call (858) 534-3068. Website: <a href="http://lawandsociety.ucsd.edu" target="_blank">http://lawandsociety.ucsd.edu</a>.</p>
+<h2 class="program-overview-subhead-1">Law and Society Minor Requirements </h2>
+				<p>The minor consists of one required course and six elective courses. At least five courses must be taken at the upper-division level. To assure an interdisciplinary learning experience, students must complete courses in at least two different academic departments. Law and Society 101, Contemporary Legal Issues, will be counted under the departmental affiliation of the instructor.  </p>
+<h3 class="program-overview-subhead-2">Required Courses </h3>
+				
+	    <p>One of the following four courses:</p>
+	    <p class="course-list-overview">HILD 50. Introduction to Law and Society</p>
+	    <p class="course-list-overview">PHIL 50. Law and Society</p>
+				    <p class="course-list-overview">POLI 40. Introduction to Law and Society </p>
+				    <p class="course-list-overview">SOCI 50. Introduction to Law and Society </p>
+			
+<h3 class="program-overview-subhead-2">Electives Chosen from the Following</h3>
+		<h5 class="program-overview-subhead-4">Anthropology</h5>
+				<p class="course-list-overview">ANSC 100. Topics in Socio-Cultural Anthropology (topic approval required)</p>
+				<p class="course-list-overview">ANSC 131. Language, Law, and Social Justice</p>
+<p class="course-list-overview">ANSC 140. Human Rights II: Contemporary Issues				</p>
+				<h5 class="program-overview-subhead-4">Communication</h5>
+				<p class="course-list-overview">COMM 114F. Law, Communication, and Freedom of Expression </p>
+				<p class="course-list-overview">COMM 114M. Communication and the Law</p>
+				<p class="course-list-overview">COMM 114N. Communication and the Law: The Body in Law				</p>
+				<h5 class="program-overview-subhead-4">Critical Gender Studies </h5>
+				<p class="course-list-overview">CGS 106. Gender, Equality, and the Law</p>
+				<p class="course-list-overview">CGS 107. Gender and Reproductive Rights </p>
+				<h5 class="program-overview-subhead-4">Dimensions of Culture </h5>
+				<p class="course-list-overview">DOC 2. Justice (open to Thurgood Marshall College students only) </p>
+				<h5 class="program-overview-subhead-4">Economics </h5>
+				<p class="course-list-overview">ECON 118. Law and Economics: Torts, Property, Crime</p>
+				<p class="course-list-overview">ECON 119. Law and Economics: Contracts and Corporations				</p>
+				<h5 class="program-overview-subhead-4">Ethnic Studies </h5>
+				<p class="course-list-overview">ETHN 152. Law and Civil Rights </p>
+				<h5>History Lower Division </h5>
+        <p class="course-list-overview">HILD 50. Introduction to Law and Society </p>
+                <h5 class="program-overview-subhead-4">History of Science </h5>
+				<p class="course-list-overview">HISC 131. Science, Technology, and Law </p>
+				<h5>History Topics </h5>
+                <p class="course-list-courses">HITO 134. International Law: War Crimes and Genocide				</p>
+                <h5 class="program-overview-subhead-4">History of the United States</h5>
+				<p class="course-list-overview">HIUS 128. African American Legal History</p>
+				<p class="course-list-overview">HIUS 150. American Legal History to 1865</p>
+				<p class="course-list-overview">HIUS 151. American Legal History since 1865</p>
+				<p class="course-list-overview">HIUS 152A. A Constitutional History of the U.S. to 1865</p>
+				<p class="course-list-overview">HIUS 152B. A Constitutional History of the U.S.
+				  since 1865
+</p>
+				<p class="course-list-overview">HIUS 153. American Political Trials</p>
+				<p class="course-list-overview">HIUS 155A. Religion and Law in American History: Foundations to the Civil War</p>
+				<p class="course-list-overview">HIUS 155B. Religion and Law in American History: Civil War to the Present</p>
+				<p class="course-list-overview">HIUS 169. Topics in American Legal and Constitutional
+			    History</p>
+				<p class="course-list-overview">HIUS 181. Topics in Twentieth-Century United States History—Reel Justice: Law and Justice in Film</p>
+		<h5 class="program-overview-subhead-4">Law and Society </h5>
+				<p class="course-list-overview">LAWS 101. Contemporary Legal Issues</p>
+				<p class="course-list-overview">LAWS 102S. Crimes, Civil Wrongs, and Constitution				</p>
+<h5 class="program-overview-subhead-4">Linguistics</h5>
+				<p class="course-list-overview">LIGN 105. Law and Language</p>
+				<p class="course-list-overview">LIGN 176. Language of Politics and Advertising </p>
+				<h5 class="program-overview-subhead-2">Rady School of Management</h5>
+                <p class="course-list-overview">MGT 166. Business Ethics and Corporate Responsibility </p>
+                <h5 class="program-overview-subhead-4">Philosophy </h5>
+				<p class="course-list-overview">PHIL 10. Introduction to Logic</p>
+				<p class="course-list-overview">PHIL 12. Logic and Decision Making</p>
+				<p class="course-list-overview">PHIL 50. Law and Society</p>
+				<p class="course-list-overview">PHIL 138. Responsibility</p>
+<p class="course-list-overview">PHIL 162. Contemporary Moral Issues</p>
+				<p class="course-list-overview">PHIL 163. Biomedical Ethics</p>
+				<p class="course-list-overview">PHIL 165. Freedom, Equality, and the Law</p>
+<p class="course-list-overview">PHIL 167. Contemporary Political Philosophy </p>
+				<p class="course-list-overview">PHIL 168. Philosophy of Law </p>
+				<h5 class="program-overview-subhead-4">Political Science </h5>
+				<p class="course-list-overview">POLI 13. Power and Justice</p>
+				<p class="course-list-overview">POLI 40. Introduction to Law and Society</p>
+				<p class="course-list-overview">POLI 104A. The Supreme Court and the Constitution</p>
+				<p class="course-list-overview">POLI 104B. Civil Liberties—Fundamental Rights</p>
+				<p class="course-list-overview">POLI 104C. Civil Liberties—The Rights of Criminals and Minorities</p>
+				<p class="course-list-overview">POLI 104D. Judicial Politics</p>
+				<p class="course-list-overview">POLI 104F. Seminar in Constitutional Law</p>
+				<p class="course-list-overview">POLI 104G. Election Law</p>
+<p class="course-list-overview">POLI 104I. Law and Politics—Courts and Political Controversy</p>
+				<p class="course-list-overview">POLI 104L. Positive Political Theory of Law</p>
+				<p class="course-list-overview">POLI 104M. Law and Sex</p>
+				<p class="course-list-overview">POLI 104N. Race and Law</p>
+				<p class="course-list-overview">POLI 140A. International Law and Organizations </p>
+<p class="course-list-overview">POLI 145A. International Politics and Drugs</p>
+				<p class="course-list-overview">POLI 150A. Politics of Immigration</p>
+				<h5 class="program-overview-subhead-4">Psychology </h5>
+				<p class="course-list-overview">PSYC 162. Psychology and the Law </p>
+				<p class="course-list-overview">PSYC 164. Criminology</p>
+				<h5 class="program-overview-subhead-4">Sociology </h5>
+				<p class="course-list-courses">SOCI 50. Introduction to Law and Society </p>
+                <p class="course-list-courses">SOCI 120T. Special Topics in Culture, Language, and Social Interaction
+                  (topic approval required)</p>
+                <p class="course-list-courses">SOCI 140. Sociology of Law</p>
+                <p class="course-list-courses">SOCI 140F. Law and the Workplace</p>
+                <p class="course-list-courses">SOCI 141. Crime and Society</p>
+                <p class="course-list-courses">SOCI 142. Social Deviance</p>
+                <p class="course-list-courses">SOCI 144. Forms of Social Control </p>
+                <p class="course-list-courses">SOCI 145. Violence and Society</p>
+                <p class="course-list-courses">SOCI 146. <span class="course-list-courses">Law Enforcement in America</span></p>
+                <p class="course-list-courses">SOCI 152. Social Inequality and Public Policy                </p>
+                <p class="course-list-courses">SOCI 159. Special Topics in Social Organizations and Institutions
+                  (topic approval required)</p>
+        <p class="course-list-courses">SOCI 160E. Law and Culture</p>
+        <p class="course-list-courses">SOCI 163. Migration and the Law        </p>
+        <p class="course-list-courses">SOCI 173. Elite Crime				</p>
+                <h5 class="program-overview-subhead-4">Urban Studies and Planning </h5>
+				<p class="course-list-overview">USP 121. Real-Estate Law and Regulation</p>
+				<p class="course-list-overview">USP 122. Redevelopment Planning, Policy Making, and Law</p>
+<p class="course-list-overview">USP 124. Land Use Planning </p>
+				<p class="basic-offset-top-only">Students may petition to substitute courses in the minor that have substantial legal content. Petitions should be submitted to the Warren College Interdisciplinary Programs Office. </p>
+				<h3 class="program-overview-subhead-2">Recommended Internship Experience </h3>
+				<p>A law-related internship (AIP 197) is recommended and should be arranged
+				  at least one quarter in advance through the Academic Internship Program,
+			    Literature Building, Second Floor, <a href="http://aip.ucsd.edu/" target="_blank">http://aip.ucsd.edu/</a>. </p>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

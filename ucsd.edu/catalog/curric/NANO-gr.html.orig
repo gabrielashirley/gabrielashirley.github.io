@@ -1,0 +1,369 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>NanoEngineering (NANO) Curriculum</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">NanoEngineering (NANO) </h1>
+<p class="sectionNav"><span class="courseFacLink">[ <a href="../curric/NANO-ug.html">undergraduate
+      program</a> | <a href="../courses/NANO.html">courses</a> | <a href="../faculty/NANO.html">faculty</a> ]</span></p>
+<p class="program-contact-info">BUSINESS AFFAIRS: <br />
+  240A Structural Materials Engineering Building, Warren College</p>
+				<p class="program-contact-info">STUDENT AFFAIRS: <br />
+				  Undergraduate Affairs: 241A Structural Materials Engineering Building, Warren College<br>
+				  Graduate Affairs: 240A Structural Materials Engineering Building, Warren College</p>
+<p class="program-contact-info"><a href="http://nanoengineering.ucsd.edu" target="_blank">http://nanoengineering.ucsd.edu</a></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h2 class="program-overview-subhead-1">Graduate Program </h2>
+<h3 class="program-overview-subhead-2">Degree and Program Options </h3>
+				<p>The NanoEngineering Program offers graduate instruction leading to the<strong> MS and PhD in NanoEngineering</strong> and the <strong>PhD in NanoEngineering with a Specialization in Multi-scale Biology</strong>.</p>
+				<p>The Chemical Engineering Program offers graduate instruction leading to the <strong>MS and PhD in Chemical Engineering </strong>and the<strong> PhD in Chemical Engineering with a Specialization in Multi-scale Biology.</strong></p>
+<h2>NanoEngineering Program (NANO)</h2>
+<h3>Program Objectives </h3>
+                <p>The Department of NanoEngineering (NE) now offers the MS and PhD in NanoEngineering with a new, unique curriculum centered on our strong research position in nano-biomedical engineering and nanomaterials synthesis and characterization activities. The NanoEngineering Graduate Program provides a course of study for both the MS and PhD, with a focus on underlying scientific, technical, and engineering challenges for advancing nanotechnology in the controlled synthesis of nanostructured materials, especially for biomedical, energy, and environmentally related technologies. Our graduate degree program is uniquely designed to educate students with a highly interdisciplinary curriculum, focusing on core scientific fundamentals, but extending the application of that fundamental understanding to complex problems requiring the ability to integrate across traditional science and engineering boundaries. Specific courses in our core cluster address both the fundamental science and the integration of this science into engineering problem solving. Three main educational paths within the single degree title &lsquo;NanoEngineering&rsquo; are proposed: </p>
+                <ul type="disc">
+                  <li>Biomedical      Nanotechnology</li>
+                  <li>Molecular      and Nanomaterials</li>
+                  <li>Nanotechnologies      for Energy and the Environment</li>
+                </ul>
+                <p>The new NanoEngineering curriculum has the following objectives:</p>
+                <ul type="disc">
+                  <li>Prepare      students for nanotechnology by providing them with a sound grounding in      multidisciplinary areas of nanoscience and nanoengineering</li>
+                  <li>Increase      students’ understanding of materials and their properties at the atomic      and nanometer level, including an understanding of the intimate      relationship between material scale (nanostructure) and the      properties/functionality of materials</li>
+                  <li>Prepare      graduates who, while skilled in areas of nanoscience and nanoengineering,      will be qualified for jobs in traditional science-based industries and      government laboratories and, as the nanotechnologies emerge and mature,      will be positioned for jobs in these applied areas. This program will be      anticipating trends and providing students with integrated,      cross-disciplinary scientific knowledge and professional skills</li>
+                  <li>Educate      a new generation of engineers who can participate in, and indeed seed, new      high-technology companies that will be the key to maintaining jobs, wealth      and educational infrastructures as nanotechnology results in a new industrial      revolution</li>
+                  <li>Enable      the students to develop a range of professional, scientific, and      computational skills that will enhance employment opportunities in a wide      range of industrial and governmental institutions </li>
+                  <li>Prepare      students for the workplace through developing their ability to contribute      constructively to multidisciplinary teams, learn team engineering      principles and methods, to communicate both orally and in written form,      and to be familiar with modern, computer-based communication technology. This      will be achieved using nontraditional education techniques including      group-based problem-based learning, flexible delivery and web-based      interactive tutorials.</li>
+                </ul>
+                <p>In NanoEngineering, we design and manufacture devices and systems that exploit the unique properties of nanoscale materials to create entirely new functionality and capabilities. Due to the scale of engineering involved, the field of NanoEngineering is inherently interdisciplinary that often utilizes biochemical processes to create nanoscale materials designed to interact with synthetic inorganic materials. The curriculum is built to address the educational needs of this new engineering field.</p>
+                <h3>NanoEngineering BS/MS Contiguous Program</h3>
+                <p>A contiguous terminal program leading to a bachelor of science and master of science degree in NanoEngineering is offered to a student with junior standing who has an overall UC San Diego GPA of 3.0 and a 3.5 GPA in upper-division courses in the major. Students must apply for admission to the program during the last quarter of their junior year (more specifically, the fourth quarter prior to the receipt of the BS). Details of the program are available from the Department of NanoEngineering Graduate Student Affairs Office.</p>
+        <p>The MS program is intended to extend and broaden an undergraduate background and/or equip practicing engineers with fundamental knowledge in their particular fields. The degree is offered under both the Plan I, Thesis Plan, or Plan II, Comprehensive Examination Plan.</p>
+        <h3>Graduate Program </h3>
+                <p>The NanoEngineering Program offers graduate instruction leading to the MS and PhD in NanoEngineering. </p>
+                <p>Admission is in accordance with the general requirements of the Graduate Division, which requires at least a BS in some branch of engineering, sciences, or mathematics; an overall GPA of 3.0, and three letters of recommendation from individuals who can attest to the academic or professional competence and to the depth of their interest in pursuing graduate study. Students who have already received a prior MS in a similar field will not be admitted to the program. </p>
+                <p>In addition, all applicants are required to submit GRE General Test Scores. A minimum score of 550 on the Test of English as a Foreign Language (TOEFL) is required of all international applicants whose native language is not English. Students who score below 600 on the TOEFL are strongly encouraged to enroll in an English as a second language program before beginning graduate work. UC San Diego Extension offers an excellent English language program during the summers as well as the academic year. </p>
+                <p>Applicants are judged competitively. Based on the candidate&rsquo;s background, qualifications, and goals, admission to the program is in one of three categories: MS only, MS, or PhD. Admission to the MS only category is reserved for students for whom the MS is likely to be the terminal graduate degree. The MS designation is reserved for students currently interested in obtaining an MS but who at a later time may wish to continue in the doctoral degree program. Admission to the PhD program is reserved for qualified students whose final aim is a doctoral degree. </p>
+                <p>Nonmatriculated students are welcome to seek enrollment in graduate-level courses via UC Extension&rsquo;s concurrent registration program, but an Extension student&rsquo;s enrollment in a graduate course must be approved by the instructor. </p>
+                <h3>Master&rsquo;s Degree Program </h3>
+                <p>The program offers the MS in NanoEngineering under both the Thesis (Plan I) and the Comprehensive Examination (Plan II); see &ldquo;<a href="../front/GradAdmission.html#master">Graduate Admission: Master&rsquo;s Degrees</a>.&rdquo; The requirements for the MS degree are as follows:</p>
+                <ol start="1" type="1">
+                  <li>All      students must complete a total of thirty-six units.</li>
+                  <li>All      students must complete five mandatory core courses (NANO 201, 202, 203,      205, 206) and one course from any focus area selected from an approved      list of graduate courses with the consent of a faculty adviser. Enrollment      in NANO 200, as required. See &ldquo;<a href="../courses/NANO.html">Courses</a>&rdquo; for descriptions. </li>
+                  <li>Students      either complete a thesis (Plan I) or pass a comprehensive examination      (Plan II) as described in the &ldquo;<a href="../front/GradAdmission.html#programsofstudy">Graduate Admission: Programs of Study</a>&rdquo; section of this catalog. </li>
+                  <li>Students      must meet all other requirements established by the university.</li>
+                </ol>
+                <p>The three focus areas and related courses are <br>
+                  <strong></strong><br>
+                  <strong>Focus 1 – Biomedical Nanotechnology:</strong> NANO 210, 241, 242, 243, 244, 247A, 247B, 247C, 262<br>
+                  <strong></strong><br>
+                  <strong>Focus 2 – Molecular and Nanomaterials:</strong> NANO 204, 227, 230, 234, 241, 242, 250, 251A, 251B, 252, 253, 263, 264, 265<br>
+                  <strong></strong><br>
+                  <strong>Focus 3 – Nanotechnologies for Energy and the Environment:</strong> NANO 212, 241, 245, 255, 257, 258, 259, 260, 261, 266</p>
+                <p>Students who transfer with some graduate credit or an MS from another institution will have their records reviewed by a faculty adviser, and an appropriate individual course of study may be approved. The MS program is intended to extend and broaden an undergraduate education with fundamental knowledge in different fields. The degree may be terminal, or obtained on the way to the PhD. The degree is offered under both the Thesis Plan I and the Comprehensive Examination Plan II.</p>
+                <p><strong>MS Time Limit Policy:</strong> Full-time MS students are permitted seven quarters in which to complete all requirements. While there is no written time limit for part-time students, the department has the right to intervene and set individual deadlines if it becomes necessary.</p>
+                <p><strong>Course requirements:</strong> All MS students must complete a total of thirty-six units, which include a core of five courses (twenty units).</p>
+                <p>No more than a total of eight units of NANO 296 and 298 may be applied toward the course work requirement. Units in seminars (NANO 200 and 279) may not be applied toward the degree requirement.</p>
+                <p><strong>Thesis Plan I:</strong> Completion of the research thesis (NANO 299) fulfills twelve units toward the total graduation requirement. The balance is made up of the five core courses (twenty units) and one additional elective course (four units) subject to the restrictions described above.</p>
+                <p><strong>Comprehensive Examination Plan II:</strong> This plan involves course work only and culminates in an oral comprehensive examination based on topics selected from the core courses. In addition to the five core courses (twenty units), one must choose an additional four electives (sixteen units) subject to the restrictions of NANO 279, 296, and 298 described above. A student should consult their academic adviser to choose an appropriate course schedule.</p>
+                <p>A sample program is shown:<br>
+                  </p>
+                <table border="0" cellpadding="2" cellspacing="0" class="sample-program">
+                  <tr>
+                    <th width="111" valign="top" class="Normal"> <p><strong>Fall</strong></p></th>
+                    <th width="111" valign="top" class="Normal"> <p><strong>Winter</strong></p></th>
+                    <th width="111" valign="top" class="Normal"> <p><strong>Spring</strong></p></th>
+                  </tr>
+                  <tr>
+                    <td width="111" valign="top" class="Normal"><p>NANO 201</p></td>
+                    <td width="111" valign="top" class="Normal"><p>NANO 203</p></td>
+                    <td width="111" valign="top" class="Normal"><p>NE Elective</p></td>
+                  </tr>
+                  <tr>
+                    <td width="111" valign="top" class="Normal"><p>NANO 202</p></td>
+                    <td width="111" valign="top" class="Normal"><p>NANO 205</p></td>
+                    <td width="111" valign="top" class="Normal"><p>NE Elective</p></td>
+                  </tr>
+                  <tr>
+                    <td width="111" valign="top" class="Normal"><p>NE Elective</p></td>
+                    <td width="111" valign="top" class="Normal"><p>NANO 206</p></td>
+                    <td width="111" valign="top" class="Normal"><p>NE Elective</p></td>
+                  </tr>
+                </table>
+                <p><strong>Change of Degree:</strong> Upon completion of the requirements for the MS, students admitted as MS only or MS candidates are not automatically eligible for admission to the PhD program. MS-only and MS candidates who subsequently wish to pursue a doctorate must submit an application for a change in status to their examining committee. The application, if approved by the committee, must be signed by a faculty member who expects to serve as the student&rsquo;s PhD adviser. The student must also submit a General Petition for graduate students to effect the change of status. If the student elects the comprehensive examination plan for the MS, the examining committee may recommend that the comprehensive examination replace the preliminary qualifying examination expected of PhD students, but must be passed at the 70 percent grade.</p>
+                <h3>Doctoral Degree Program </h3>
+                <p>The PhD program is intended to prepare students for a variety of careers in research and teaching. The emphasis is on research. All students, in consultation with their advisers, develop appropriate course programs that will prepare them for the Preliminary Qualifying Examination and for their dissertation research. These programs must be planned to meet the time limits established to advance to candidacy and to complete the requirements of the degree. A PhD in NanoEngineering requires the selection of a specific focus (Biomedical Nanotechnology, Molecular and Nanomaterials, or Nanotechnologies for Energy and the Environment), and consists of the successful completion of ten courses: the five required core courses, three electives from the student&rsquo;s selected focus, and two electives from any of the two remaining focuses, the ENG-10X courses (for team engineering, leadership, and entrepreneur skills) or from an approved list of electives from other departments across campus, with adviser&rsquo;s consent. While only one degree title is offered—NanoEngineering—the choice of a specific focus area is to ensure that the graduate student curriculum is both tailored to their interest and sufficiently in-depth to ensure a complete understanding of their field of interest.</p>
+                <p>After completing the MS degree (or meeting equivalent requirements) and meeting the minimum standard on the comprehensive examination to be admitted to or continue in the PhD program, a student must:</p>
+                <ol start="1" type="1">
+                  <li>Meet      all the university&rsquo;s residency and other requirements.</li>
+                  <li>Successfully      complete three advanced graduate courses (beyond those required for the MS), which have been approved by the student&rsquo;s dissertation adviser.</li>
+                  <li>Enroll      in NANO 200, as required. See &ldquo;Courses&rdquo; for descriptions.</li>
+                  <li>Pass      the Literature Review Examination. This requirement must be successfully      completed within one year after passing the Comprehensive Examination.</li>
+                  <li>Pass      the PhD Qualifying Examination (Senate Exam) to be advanced to PhD      candidacy.</li>
+                  <li>Successfully      complete and defend a dissertation, which in the opinion of the      dissertation committee contains original work that should lead to      publication of at least one significant article in an appropriate refereed      journal.</li>
+                </ol>
+        <p>
+          In principle, it should be possible to finish the MS degree in three quarters, and a PhD in an additional three years. PhD time limits are as follows: precandidacy—three years; support limit—six years; total time limit—seven years. (See &ldquo;<a href="../front/GradAdmission.html#phdtimelimits">Graduate Division–PhD Time Limits</a>&rdquo; for further explanation.)</p>
+                <p><strong>Departmental Examinations</strong><br>
+                  All PhD students are required to pass four examinations. The first is a written Comprehensive Examination, which should be taken within three to four quarters of full-time graduate study. The second is a Literature Review Examination (detailed below). The third is the PhD Senate Exam (often referred to as &quot;Advancement to Candidacy Exam&quot;). The last is the dissertation defense.</p>
+                <p><strong>The Comprehensive Examination</strong><br>
+                  The examination will consist of questions from each of the five core courses. A passing grade is 60 percent for successful completion of the master&rsquo;s degree, and 70 percent for qualification to the PhD program. The examination will not exceed six hours in duration. The examination is usually administered the week after spring quarter finals&rsquo; week in June. Typically, students take the exam after one year of full-time enrollment. This exam may only be retaken once before the end of the second year of study.</p>
+                <p><strong>The Literature Review Examination</strong><br>
+                  The Literature Review Examination tests the student&rsquo;s ability to prepare and present a comprehensive overview of a topic based on existing journal literature. It should be a comprehensive discussion of the literature, scientific theory, problems or theoretical deficiencies, and possible areas of research in some area related to nanoscience or nanoengineering. The topic may be in the general area in which the student plans to pursue his or her thesis research, or it may be in an unrelated field of nanoengineering. The topic must be approved by the three faculty member committee in advance of the seminar. The Literature Review Examination will conclude with a short preliminary overview of the students’ research project or their research proposal. This exam must occur within one year of the student having passed the Comprehensive Examination.</p>
+                <p><strong>The PhD Senate Exam:</strong> Upon completion of formal course requirements, each student will be required to take a written and oral qualifying examination that will advance the student to candidacy in the PhD program. It is often known as the &ldquo;Senate Exam&rdquo; or &ldquo;Advancement to Candidacy&rdquo; exam. Prior to this examination, each student, in consultation with his or her faculty adviser, will establish a dissertation committee of five faculty members. The committee will include the student&rsquo;s PhD adviser as the chair of the committee. The committee will consist of three faculty members who are affiliated with the Department of NanoEngineering. At least two of the five committee members must be from a department other than the committee chair&rsquo;s department and at least one of these two must be tenured. The thesis adviser will have the major responsibility for the student&rsquo;s research and dissertation.</p>
+                <p>At UC San Diego, the university &ldquo;Candidacy/Senate&rdquo; Examination is a requirement for a graduate student to complete satisfactorily, once a thesis project has been decided upon. It is strongly recommended, except in special circumstances, that the student complete this examination prior to the end of the first three years in the program. The format for this examination is consistent with the highest standards held by UC San Diego. The student should write a detailed candidacy report in the format of an NIH, NSF, or similar grant proposal. The project and the report should be interdisciplinary and should have input from the thesis adviser. Any publications or supplementary material may be attached. It is expected that the student will meet at least annually with the committee to update the members on his or her progress.</p>
+                <p><strong>Dissertation Defense:</strong> This is the final PhD examination. Upon completion of the dissertation research project, the candidate writes a dissertation that must be successfully defended in an oral examination and public presentation conducted by the doctoral committee. A complete copy of the student&rsquo;s dissertation must be submitted to each member of the doctoral committee two weeks before the defense. It is understood that this copy of the dissertation given to committee members will not be the final copy, and that the committee members may request changes in the text at the time of the defense. This examination may not be conducted earlier than three quarters after the date of advancement to doctoral candidacy. Acceptance of the dissertation by the Graduate Division and the university librarian represents the final step in completion of all requirements for the PhD.</p>
+                <p><strong>Teaching Experience: </strong>Prior to the dissertation defense, the candidate must serve at least once as a teaching assistant, with the responsibility to hold a problem-solving section one hour a week.</p>
+                <p><strong>Annual Evaluation:</strong> In the spring of each year, the faculty adviser evaluates each doctoral student&rsquo;s overall performance in course work, research, and prospects for financial support for future years. A written assessment is given to the student after the evaluation. If a student&rsquo;s work is found to be inadequate, the faculty may determine that the student cannot continue in the graduate program.</p>
+                <p><strong>PhD in NanoEngineering with Specialization in Multi-scale Biology</strong><br>
+                A PhD specialization in multi-scale biology, spanning four divisions—Jacobs School of Engineering, Health Sciences, Biological Sciences, and Physical Sciences, is available to doctoral candidates in NanoEngineering. The PhD specialization is designed to allow students to obtain standard basic training in their chosen field, along with training in integrative and quantitative analysis across multiple scales of biological organization from molecule to organism to health and disease. It educates a new cadre of PhD scientists to undertake interdisciplinary work at the interfaces between the biological, medical, physical, and engineering sciences.</p>
+		<h2 class="anchor-parent"><a name="CENG" id="CENG" class="anchor"></a>Chemical Engineering Program (CENG)</h2>
+<h3 class="program-overview-subhead-2">Program Objectives </h3>
+				<p>The Chemical Engineering Program has affiliated faculty from the Department of NanoEngineering, Department of Mechanical and Aerospace Engineering, Department of Chemistry and Biochemistry, and the Department of Bioengineering. The curricula at both the undergraduate and graduate levels are designed to support and foster chemical engineering as a profession that interfaces engineering and all aspects of basic sciences (physics, chemistry, and biology). </p>
+				<p>The primary educational objectives of the Chemical Engineering Program
+				  are </p>
+				<ul>
+					<li class="list-level-1">To provide chemical engineering students with a strong technical education and communication skills that will enable them to have successful careers in a wide range of industrial and professional environments. </li>
+					<li class="list-level-1">To prepare chemical engineering students for rapidly changing technological environments with the core knowledge central to multidisciplinary development and personal improvement throughout their professional careers. </li>
+					<li class="list-level-1">To instill in chemical engineering students a strong sense of humanistic values and professionalism such that they can conduct ethically and knowledgeably regarding technological impact in societal issues. </li>
+				</ul>
+				<p>The curriculum is designed to prepare chemical engineering graduates for further education and personal development through their entire professional career. We strive to accomplish these goals by providing a rigorous and demanding curriculum that incorporates lectures, discussions, laboratory and project development experiences in basic sciences, mathematics, engineering sciences, and design as well as the humanities and social sciences.</p>
+<h4 class="program-overview-subhead-3">Chemical Engineering BS/MS Contiguous Program</h4>
+				<p>A contiguous, terminal program leading to a bachelor of science and a master of science degree in chemical engineering is offered to a student with junior standing who has an overall UC San Diego GPA of 3.0 and a GPA of 3.5 in upper-division courses in the major. Students must apply for admission to the program during the last quarter of their junior year (more specifically, the fourth quarter prior to the receipt of the BS). Details of the program are available from the Department of NanoEngineering Graduate Affairs Office. </p>
+				<p>The MS program is intended to extend and broaden an undergraduate background and/or equip practicing engineers with fundamental knowledge in their particular fields. The degree is offered under both the Thesis Plan I and the Comprehensive Examination Plan II.</p>
+		<h4 class="program-overview-subhead-3">Program Accreditation </h4>
+				<p>The BS program in chemical engineering is accredited by the Accreditation Board of Engineering and Technology (ABET/EAC). </p>
+				<h3 class="program-overview-subhead-2">Graduate Program </h3>
+				<p>The Chemical Engineering Program offers graduate instruction leading to the MS and PhD in chemical engineering. The nanotechnology concentration signifies that four elective courses are chosen from the approved courses in this area.</p>
+				<p>Admission is in accordance with the general requirements of the graduate division, which requires at least a BS in some branch of engineering, sciences, or mathematics; an overall GPA of 3.0, and three letters of recommendation from individuals who can attest to the academic or professional competence and to the depth of their interest in pursuing graduate study. Students who have already received a prior MS in a similar field will not be admitted to the program. </p>
+				<p>In addition, all applicants are required to submit GRE General Test Scores. A minimum score of 550 on the Test of English as a Foreign Language (TOEFL) is required of all international applicants whose native language is not English. Students who score below 600 on the TOEFL are strongly encouraged to enroll in an English as a second language program before beginning graduate work. UC San Diego Extension offers an excellent English language program during the summers as well as the academic year. </p>
+				<p>Applicants are judged competitively. Based on the candidate&#8217;s background, qualifications, and goals, admission to the program is in one of three categories: MS-only, MS, or PhD. Admission to the MS-only category is reserved for students for whom the MS is likely to be the terminal graduate degree. The MS designation is reserved for students currently interested in obtaining an MS but who at a later time may wish to continue in the doctoral degree program. Admission to the PhD program is reserved for qualified students whose final aim is a doctoral degree. </p>
+				<p>Both NanoEngineering and chemical engineering nonmatriculated students are welcome to seek enrollment in graduate-level courses via UC Extension&#8217;s concurrent registration program, but an Extension student&#8217;s enrollment in a graduate course must be approved by the instructor. </p>
+				<h3 class="program-overview-subhead-2">Master&#8217;s Degree Program </h3>
+				<p>The MS program is intended to extend and broaden an undergraduate education with fundamental knowledge in different fields. The degree may be terminal, or obtained on the way to the PhD. The degree is offered under both the Thesis Plan I and the Comprehensive Examination Plan II. </p>
+				<p><strong class="myriad-pro-semibold">MS Time Limit Policy:</strong> Full-time MS students are permitted seven quarters in which to complete all requirements. While there is no written time limit for part-time students, the department has the right to intervene and set individual deadlines if it becomes necessary. </p>
+				<p><strong class="myriad-pro-semibold">Course requirements: </strong>All MS students must complete a total of thirty-six units, which include a core of five courses (twenty units) chosen among fluid dynamics (CENG 210A, MAE 210B), heat and mass transfer (CENG 221AB), kinetics (CENG 252), and mathematics. To maintain a certain balance in the core, no more than two mathematics courses should be chosen among the choices of applied mathematics (MAE 294AB or MATH 210AB) and numerical mathematics (MAE 290AB or MATH 270AB). </p>
+				<p>No more than three courses (twelve units) of upper-division courses may be applied toward the total course work requirement. No more than a total of eight units of CENG 296 and 298 may be applied toward the course work requirement. Units in seminars (CENG 259) may not be applied toward the degree requirement. </p>
+				<p><strong class="myriad-pro-semibold">Thesis Plan I: </strong>Completion of the research thesis (CENG 299) fulfills twelve units toward the total graduation requirement. The balance is made up of the five core courses (twenty units) and one elective course (four units) subject to the restrictions described above. </p>
+				<p><strong class="myriad-pro-semibold">Comprehensive Examination Plan II:</strong> This plan involves course work only and culminates in an oral comprehensive examination based on topics selected from the core courses. In addition to the five core courses (twenty units), one must choose an additional four electives (sixteen units) subject to the restrictions of CENG 259, 296, and 298 described above. Sample electives are listed in the table below. A student should consult his or her academic adviser to choose an appropriate course schedule, including alternatives in bioengineering, electrical and computer engineering, materials science, basic sciences, and mathematics. The nanotechnology concentration signifies that four elective courses are chosen from the approved courses in this area.</p>
+				<p>A sample program is shown:</p>
+<table border="0" cellpadding="2" cellspacing="0" class="sample-program">
+  <tr>
+    <th width="111" valign="top" class="Normal"> <p><strong>Fall</strong></p></th>
+    <th width="111" valign="top" class="Normal"> <p><strong>Winter</strong></p></th>
+    <th width="111" valign="top" class="Normal"> <p><strong>Spring</strong></p></th>
+    </tr>
+  <tr class="coloredRow">
+    <td width="111" colspan="3" valign="top" class="Normal"><p><strong>Core selections</strong></p></td>
+    </tr>
+  <tr>
+    <td width="111" valign="top" class="Normal"><p>CENG 210A</p></td>
+    <td width="111" valign="top" class="Normal"><p>CENG 221B</p></td>
+    <td width="80" valign="top" class="Normal"><p>&nbsp;</p></td>
+    </tr>
+  <tr>
+    <td width="111" valign="top" class="Normal"><p>CENG 221A</p></td>
+    <td width="111" valign="top" class="Normal"><p>CENG 251</p></td>
+    <td width="80" valign="top" class="Normal"><p>&nbsp;</p></td>
+    </tr>
+  <tr>
+    <td width="111" valign="top" class="Normal"><p>&nbsp;</p></td>
+    <td width="111" valign="top" class="Normal"><p>CENG 252</p></td>
+    <td width="80" valign="top" class="Normal">&nbsp;</td>
+    </tr>
+  <tr class="coloredRow">
+    <td colspan="3" valign="top" class="Normal"><p><strong>Suggested electives</strong></p></td>
+    </tr>
+  <tr>
+    <td width="111" valign="top" class="Normal"><p>MS 201A</p></td>
+    <td width="111" valign="top" class="Normal"><p>MS 201B</p></td>
+    <td width="80" valign="top" class="Normal"><p>MS 201C</p></td>
+    </tr>
+  <tr>
+    <td width="111" valign="top" class="Normal"><p>MAE 211</p></td>
+    <td width="111" valign="top" class="Normal"><p>MAE 212</p></td>
+    <td width="80" valign="top" class="Normal"><p>MAE 213</p></td>
+    </tr>
+  <tr>
+    <td width="111" valign="top" class="Normal"><p>MATH 270A</p></td>
+    <td width="111" valign="top" class="Normal"><p>MATH 270B</p></td>
+    <td width="80" valign="top" class="Normal"><p>MATH 270C</p></td>
+    </tr>
+  <tr>
+    <td width="111" valign="top" class="Normal"><p>CHEM 211</p></td>
+    <td width="111" valign="top" class="Normal"><p>CHEM 212 </p></td>
+    <td width="80" valign="top" class="Normal"><p>CHEM 213</p></td>
+    </tr> <tr class="coloredRow">
+      <td colspan="3" valign="top" class="Normal"><p><strong>Nanotechnology concentration</strong></p></td>
+      </tr>
+  <tr>
+    <td width="111" valign="top" class="Normal"><p>CENG 211</p></td>
+    <td width="111" valign="top" class="Normal"><p>CENG 213</p></td>
+    <td width="80" valign="top" class="Normal"><p>&nbsp;</p></td>
+    </tr>
+  <tr>
+    <td width="111" valign="top" class="Normal"><p>CENG 212</p></td>
+    <td width="111" valign="top" class="Normal"><p>CENG 214</p></td>
+    <td width="80" valign="top" class="Normal"><p>CENG 215</p></td>
+    </tr>
+</table>
+<p><strong class="myriad-pro-semibold">Change of Degree: </strong>Upon completion of the requirements for the MS degree, students admitted as MS-only or MS candidates are not automatically eligible for admission to the PhD program. </p>
+				<p>MS only and MS candidates who subsequently wish to pursue a doctorate must submit an application for a change in status to their examining committee. The application, if approved by the committee, must be signed by a faculty member who expects to serve as the student&#8217;s PhD adviser. The student must also submit a general petition for graduate students to effect the change of status. If the student elects the comprehensive examination plan for the MS, the examining committee may recommend that the comprehensive examination may replace the preliminary qualifying examination expected of PhD students. </p>
+				<h3 class="program-overview-subhead-2">Doctoral Degree Program </h3>
+				<p>The PhD program is intended to prepare students for a variety of careers in research and teaching. The emphasis is on research. In general, there are no formal course requirements. All students, in consultation with their advisers, develop appropriate course programs that will prepare them for the Preliminary Qualifying Examination and for their dissertation research. These programs must be planned to meet the time limits established to advance to candidacy and to complete the requirements of the degree. </p>
+				<p>All PhD students are required to pass three examinations. The first is a Preliminary Qualifying Examination, which should be taken within three to four quarters of full-time graduate study. The second is the PhD Qualifying Examination. The last is the Dissertation Defense. </p>
+				<p><strong class="myriad-pro-semibold">Preliminary Qualifying Examination:</strong> The examination is intended to determine a candidate&#8217;s basic understanding of engineering fundamentals and the candidate&#8217;s ability to pursue successfully a research project at a level appropriate for the doctorate. The scope of the examination is based on topics selected from the core curriculum as listed under the MS program. A candidate is expected to demonstrate knowledge equivalent to these courses and formal enrollment record is not a prerequisite. The format is an oral examination administered by a committee of three faculty members in the Chemical Engineering Program. The candidate should present to the committee, prior to the examination, the five core courses that will constitute the basis of the examination. </p>
+				<p><strong class="myriad-pro-semibold">Depth Requirement: </strong>A candidate must have the ability to perform in-depth analysis in the dissertation topic. A candidate should consult with the thesis adviser to develop a proper course program if it is deemed necessary. Depending on an individual&#8217;s background and the nature of the research problem, a candidate should either complete a set of a minimum of four courses or demonstrate to the thesis adviser the equivalent knowledge and ability. </p>
+				<p><strong class="myriad-pro-semibold">PhD Qualifying Examination:</strong> Prior
+				  to taking this examination, the candidate must have completed
+				  the departmental qualifying examination, obtained a faculty
+				  research adviser, and must have made initial progress on a
+				  chosen dissertation project. At the time of application for
+				  advancement to candidacy, a doctoral committee responsible
+				  for the remainder of the student&#8217;s graduate
+				  program is appointed by the Graduate Council under the policy
+				  listed in the “<a href="../front/GradAdmission.html">Graduate Admission
+</a>” section of the <em>UC San Diego General Catalog</em>. The committee
+conducts the PhD Qualifying Examination, during which the student must demonstrate
+the ability to engage in thesis research. The process involves the presentation
+of a plan for the thesis research project. The committee may ask questions directly
+or indirectly related to the project and general questions that it determines
+to be relevant. Upon successful completion of the examination, subject to the
+UC San Diego time limit policy, the student is advanced to candidacy and is awarded the
+candidate in philosophy degree (see “<a href="../front/GradAdmission.html">Graduate Admission
+</a>”
+section in this catalog). </p>
+				<p><strong class="myriad-pro-semibold">Teaching Experience: </strong>Prior to the dissertation defense, the candidate must serve at least once as a teaching assistant with the responsibility to hold a problem-solving section one hour a week. </p>
+				<p><strong class="myriad-pro-semibold">Dissertation Defense: </strong>This is the final PhD examination. Upon completion of the dissertation research project, the candidate writes a dissertation that must be successfully defended in an oral examination and public presentation conducted by the doctoral committee. A complete copy of the student&#8217;s dissertation must be submitted to each member of the doctoral committee four weeks before the defense. It is understood that this copy of the dissertation given to committee members will not be the final copy, and that the committee members may request changes in the text at the time of the defense. This examination may not be conducted earlier than three quarters after the date of advancement to doctoral candidacy. Acceptance of the dissertation by the Graduate Division and the University Librarian represents the final step in completion of all requirements for the PhD. </p>
+				<p><strong class="myriad-pro-semibold">PhD Time Limit Policy:</strong> Precandidacy status is limited to four years. Doctoral students are eligible for university support for six years. The defense and submission of the doctoral dissertation must be within seven years. </p>
+				<p><strong class="myriad-pro-semibold">Annual Evaluation: </strong>In the
+				  spring of each year, the faculty adviser evaluates each doctoral
+				  student&#8217;s
+				  overall performance in course work, research, and prospects
+				  for financial support for future years. A written assessment
+				  is given to the student after the evaluation. If a student&#8217;s work
+				  is found to be inadequate, the faculty may determine that the
+				  student cannot continue in the graduate department.</p>
+				<p><strong>PhD in Chemical Engineering with Specialization in Multi-scale Biology </strong><br>
+			    A PhD specialization in multi-scale biology, spanning four divisions—Jacobs School of Engineering, Health Sciences, Biological Sciences, and Physical Sciences, is available to doctoral candidates in chemical engineering. The PhD specialization is designed to allow students to obtain standard basic training in their chosen field, along with training in integrative and quantitative analysis across multiple scales of biological organization from molecule to organism to health and disease. It educates a new cadre of PhD scientists to undertake interdisciplinary work at the interfaces between the biological, medical, physical, and engineering sciences.</p>
+<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

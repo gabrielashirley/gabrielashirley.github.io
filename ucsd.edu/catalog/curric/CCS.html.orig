@@ -1,0 +1,218 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" --> 
+<title>Climate Change Studies</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Climate Change Studies</h1>
+<p class="sectionNav"><span class="courseFacLink">[ <a href="../faculty/CCS.html">faculty</a> | <a href="../courses/CCS.html">courses</a> ]</span></p>
+	<p class="program-contact-info">Galbraith Hall, Rooms 365–368&nbsp;<br>
+	  (858) 822-4604 <br>
+	  <a href="https://scripps.ucsd.edu/undergrad/curriculum/climate-change-studies-minor" target="_blank">https://scripps.ucsd.edu/undergrad/curriculum/climate-change-studies-minor</a><strong> </strong></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem -->
+	  <p>Climate change is the most serious challenge of our lifetimes, posing serious risks to economic and social structures on local, national, and global scales. This interdisciplinary minor curriculum highlights UC San Diego&rsquo;s broad campus expertise in understanding and responding to the challenges of climate change. The minor covers an understanding of the scientific, social, political, and economic dimensions of climate change, and involves students in developing solutions such as greenhouse gas mitigation strategies, climate adaptation projects, and educational approaches. This minor provides connections with any primary field of study and is open to students from any major. This minor places a strong emphasis on interdisciplinary solution-based thinking, a skill that is relevant to solving many twenty-first century problems. A hallmark of the climate change studies minor is the practicum requirement, in which students learn about carbon neutrality initiatives and climate change research on campus (e.g., CCS 101 and 102), and then complete an applied project relevant to their major or interests in CCS 190 or CCS 199.</p>
+      <p>The minor consists of twenty-eight units of course work, at least twenty of which must be upper division. Students must earn at least a letter grade of C– in courses used for the minor, with the exception of 199 courses or other courses that are only offered for a P/NP grade.</p>
+      
+        <h4>1. Climate Change: Solutions</h4>
+        <ol type="a">
+          <li><strong>Required course. </strong>Students choose one of the following courses:<br>
+            
+            SIO 109/POLI 117. Bending the Curve: Solutions to Climate Change <em>(recommended)</em><br>
+            ESYS 103/MAE 124. Environmental Challenges: Science and Solutions<br>
+            BIBC 140. Our Energy Future—Sustainable Energy Solutions</li>
+		</ol>
+		<h4>2. Climate Change: Understanding the Science</h4>
+         <ol type="a">
+           <li> <strong>Required course.</strong> Students choose one of the following two courses:<br>
+        
+        <p>SIO 25. Climate Change and Society   <br>
+        SIO 117. The Physical Basis of Global Warming <em>(recommended for students in science, math, or engineering majors)</em></p>
+		</li>
+        <li> <strong>Climate change science elective.</strong> Students select at least one of the following electives:<br>
+      SIO 10. The Earth<br>
+        SIO 20. The Atmosphere<br>
+        SIO 35. Water<br>
+        SIO 40. Life and Climate on Earth<br>
+        SIO 50. Introduction to Earth and Environmental Sciences<br>
+        BILD 18. Human Impact on the Environment<br>
+        ESYS 10. Introduction to Environmental Systems<br>
+        ENVR 30. Environmental Issues: Natural Sciences<br>
+        BIBC 140. Our Energy Future—Sustainable Energy Solutions<em> (if not already used for Climate Change: Solutions requirement above)</em><br>
+        BIEB 174. Ecosystems and Global Change<br>
+        BIEB 182. Biology of Global Change<br>
+        CHEM 171. Environmental Chemistry I <br>
+        CHEM 172. Environmental Chemistry II <br>
+        CHEM 173. Atmospheric Chemistry <br>
+        ESYS 102. The Solid and Fluid Earth<br>
+        ESYS 103/MAE 124. Environmental Challenges: Science and Solutions<em> (if not already used for Climate Change: Solutions requirement above)</em><br>
+        MAE 118. Introduction to Energy Systems<br>
+        MAE 119. Introduction to Renewable Energy: Solar and Wind<br>
+        MAE 120. Introduction to Nuclear Energy<br>
+        MAE 122. Flow and Transport in the Environment<br>
+        SIO 108. Introduction to Paleoclimatology<br>
+        SIO 115. Ice and the Climate System<br>
+        SIO 116. Climate Change and Global Health: Understanding the Mechanisms<br>
+        SIO 117. The Physical Basis of Global Warming <em>(if not already used for Climate Change: Understanding the Science requirement above)</em><br>
+        SIO 143. Ocean Acidification <br>
+        SIO 164/ANAR 164. Maritime Archeology<br>
+        SIO 173. Dynamics of the Atmosphere and Climate<br>
+        SIO 174. Chemistry of the Atmosphere and Oceans</p>
+		</li></ol><h4>3. Climate Change: Social and Human Dimensions</h4>
+        <ol type="a"><li><span dir="LTR"> </span><strong>Social and human dimension electives.</strong> Students must choose two of the following courses:<br>
+     SOCI 30. Science, Technology, and Society<br>
+        COMM 171. Environmental Communication <br>
+        ECON 131. Environmental Economics <br>
+        ECON 132. Energy Economics <br>
+        ETHN 102. Science and Technology in Society: Race/Gender/Class<br>
+        ETHN 103. Environmental Racism<br>
+        HISC 180. Science and Public Policy<br>
+        MGT 166. Business Ethics and Corporate Responsibility <br>
+        MGT 167. Social Entrepreneurship <br>
+        PHIL 148. Philosophy and the Environment <br>
+        POLI 102L. The Politics of Regulation <br>
+        POLI 104E. Environmental Law and Policy <br>
+        POLI 104P. Science, Technology, and the Law <br>
+        POLI 162. Environmental Policy <br>
+        PSYC 104. Social Psychology <br>
+        PSYC 137. Social Cognition <br>
+        PSYC 148. Psychology of Judgement and Decision<br>
+        SIO 109/POLI 117. Bending the Curve: Solutions to Climate Change <em>(if not already used for Climate Change: Solutions requirement above) </em><br>
+        SIO 114. The Science and Analysis of Environmental Justice <br>
+        SOCI 149. Sociology of the Environment <br>
+        SOCI 168E. Sociology of Science<br>
+        SOCI 171. Technology and Science<br>
+        USP 124. Land Use Planning&nbsp;<br>
+        USP 170. Sustainable Planning <br>
+        USP 171. Sustainable Development </p>
+	</li></ol> <h4>4. Climate Change: Practicum</h4>
+<ol type="a">
+  <li><strong>Required courses.</strong> Students take both of the following two-unit courses. <br>
+     
+      <p>CCS 101. Carbon Neutrality at University of California (2)<br>
+    CCS 102. Research Perspectives on Climate Change (2) </p></li>
+      <li><strong>Climate change practicum electives.</strong> Students select at least four units from the following options:<br>
+      CCS 197. Carbon Neutrality Internship (1–4). <em><strong>Prerequisites:</strong></em> CCS 101 and CCS 102.<br>
+    CCS 199. Supervised Independent Study or Research (1–4 units). <em><strong>Prerequisites: </strong></em>CCS 101 and CCS 102.</li></ol>
+      <p>Other departmental internship or independent study courses can be approved for this practicum elective by petition, if the student work was focused on research, projects, or internships related to climate change research or solutions.	  </p>
+	  <!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

@@ -1,0 +1,161 @@
+<!doctype html>  
+<html lang="en"><!-- InstanceBegin template="/Templates/current template-for-index-only.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>UC San Diego General Catalog 2019-20 (February 5, 2020 Interim Update)</title>
+<!-- InstanceEndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION/CoMMENT THIS LINE FOR LIVE VERSION --> <!-- <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT -->
+
+<!-- Bootstrap -->
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- InstanceBeginEditable name="head" -->
+<style type="text/css">
+#navigation li#nav-home a {
+	background-image: none;
+	background-color: rgb(243,248,251);
+	border-bottom: solid 2px rgb(243,248,251);
+	cursor: default;
+}
+</style>
+<!-- InstanceEndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img src="images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="index.html" class="title-header">General Catalog 2019–20&nbsp;&nbsp;&nbsp;&nbsp;February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE 
+							&nbsp;</a>
+							<!--COMMENT OUT THIS GRAPHIC FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION --> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" /> --> <!-- END OF COMMENT/UNCOMMENT SECTION -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- InstanceBeginEditable name="main text" -->
+
+<h1>UC San Diego General Catalog 2019–20
+</h1>
+<h2>February 5, 2020 Interim Update</h2>
+
+<div id="directory">
+  <ul>
+	<li><a href="front/intro.html">Introduction</a></li>
+	<li><a href="front/calendars.html">Calendars</a></li>
+	<li><a href="front/undergraduate-education.html">Undergraduate Education</a></li>
+	<li><a href="front/graduate-education.html">Graduate Education</a></li>
+	<li><a href="front/intl-education.html">International Education</a></li>
+	<li><a href="front/courses.html">Courses, Curricula, and Faculty</a></li>
+	<li><a href="http://extension.ucsd.edu" target="_blank">Extension</a></li>
+    <li><a href="http://summersession.ucsd.edu" target="_blank">Summer Session</a></li>
+	
+	<li><a href="front/policies.html">Policies</a></li>
+	<li><a href="front/related-links.html">Related Websites</a></li>
+    	
+	<li><a href="http://blink.ucsd.edu/instructors/resources/catalog.html" target="_blank">Catalogs of Record Archive</a></li>
+</ul>
+</div>
+
+<p>Every effort has been made to ensure the accuracy of the information in the UC San Diego General Catalog. All courses, course descriptions, faculty listings, curricular and degree requirements, deadlines, and fees described herein are subject to change or deletion without notice.</p>
+<p>The Official Catalog of Record is an archival document of record and does not reflect interim updates that may take place during the period between official publications. UC San Diego may publish interim updates to the catalog for information and advising purposes only.</p>
+<p class="note"><strong>Note: </strong>The departmental websites referenced in the catalog may not necessarily reflect approved curricular and course information.</p>
+<p class="note">&nbsp;</p>
+
+
+<!-- InstanceEndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="images/uc-san-diego-logo-white.png, 
+			        			images/uc-san-diego-logo-white-2x.png 2x" src="images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+    
+<!-- COMMENT THIS SCRIPT FOR WORKING VERSION/UNCOMMENT FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- END OF SCRIPT FOR UNCOMMENT/COMMENT AS NEEDED-->
+</body>
+<!-- InstanceEnd --></html> 

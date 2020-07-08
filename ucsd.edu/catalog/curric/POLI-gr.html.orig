@@ -1,0 +1,404 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Political Science</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Political Science </h1>
+<p class="sectionNav">[ <span class="courseFacLink"><a href="../curric/POLI-ug.html">undergraduate
+      program</a> <a href="../curric/POLI-gr.html"></a> | <a href="../courses/POLI.html">courses</a> | <a href="../faculty/POLI.html">faculty</a> ]</span></p>
+<p class="program-contact-info">Social Science Building<br />
+    <a href="http://polisci.ucsd.edu" target="_blank">http://polisci.ucsd.edu</a> </p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h2 class="program-overview-subhead-1">The PhD Program </h2>
+<p>The Department of Political Science at the University of California San Diego offers a program of graduate studies leading to the PhD degree. Instruction is provided in the major fields of the discipline. For purposes of comprehensive examinations, the discipline is broken into five fields: American politics, comparative politics, international relations, political theory, and methodology. The department also offers a variety of courses that are of a methodological or epistemological nature, spanning the various fields. </p>
+<h3><span class="program-overview-subhead-2">Program Overview</span><br />
+	  </h3>
+				<h4 class="program-overview-subhead-2">Course Work</h4>
+        <p>Students must complete eighteen quarter courses before the end of the second year with an overall grade point average of 3.3 or better.&nbsp;All students must complete the four-course core curriculum, POLI 203A-B and 204A-B.&nbsp;No other UC San Diego courses may be substituted to fulfill this requirement.&nbsp;Fifteen of these courses must be offered by the department, with a number between POLI 200 and 279.&nbsp;(POLI 203A-B and 204A-B count toward this requirement). No more than three courses of the eighteen quarter courses, offered within or outside the department, may be taken on a satisfactory/unsatisfactory basis.&nbsp;In some individual fields the faculty normally recommends that students take more graded courses in political science than the minimum.</p>
+
+                <p>Additional requirements, such as course
+                  work or research skills including proficiency in a foreign language, may be
+                  set by the faculty in any examination area as a prerequisite for taking the
+                  general examination in that area.</p>
+                <p>A student who has completed work toward a graduate degree
+                  in political science at another institution prior to enrollment
+                  at UC San Diego is subject to all requirements of the UC San Diego program.
+                  The only exception is as follows: With permission of the department’s
+                  director of graduate studies a student that has received a
+                  graduate degree in political science at another institution
+                  may count up to four quarter-course equivalents (taken at other
+                  institutions) toward the eighteen-course requirement, including
+                  the core curriculum.</p>
+        <p>Good progress toward the PhD requires that a student complete
+                  nine courses by the end of the first year. In addition to the four-course core curriculum, students are advised to complete two or three field core courses during their first year.&nbsp;At the end of the second year good progress requires completion of eighteen courses, of which at least fifteen must be numbered between POLI 200 and 279.</p>
+        <p>A student who has not made good progress in course work may
+                  receive no more than a 33 percent teaching or research assistantship
+                  from the department for the following year. Students on a UC San Diego
+                  fellowship may receive no more than two-thirds of their stipend
+          for the following year.</p>
+        <h4>Field Requirements</h4>
+        <p>For students entering the program fall 2013 and later. </p>
+        
+        <table width="100%" border="0" cellpadding="0" cellspacing="0" class="sample-program">
+          <tr>
+            <td width="16%" valign="top"><strong>&nbsp;</strong></td>
+            <td width="23%" valign="top"><strong>Core Course Requirements</strong></td>
+            <td width="23%" valign="top"><strong>Other Required Courses</strong></td>
+          
+          </tr>
+          <tr>
+            <td width="16%" valign="top"><strong>American<br>
+              Politics</strong> </td>
+            <td width="23%" valign="top">251. American Political Institutions              <br>
+              <br>
+            AND              <br>
+            <br>
+            252. American Politics: Behavior              <br>
+            <br>
+            OR              <br>
+            <br>
+            257. Voting and Elections</td>
+            <td width="23%" valign="top">1.<em> Two graduate seminars numbered</em> <br>
+              <br>
+              POLI 252–257 and 261–265<em>&nbsp;</em> <br>
+              <br>
+              POLI 259s or other courses may be used by petition   to the American field coordinator. <br>
+              <br>
+              2.&nbsp;<em>Methods Requirement</em> <br>
+              <br>
+              POLI   204B <br>
+              POLI 271 <br>
+              <br>
+              AND <br>
+              <br>
+              One additional approved   methods or analytical theory course to be completed before advancement to   candidacy </td>
+           
+          </tr>
+          <tr>
+            <td width="16%" valign="top"><strong>Comparative<br>
+              Politics</strong> </td>
+            <td width="23%" valign="top">220B. Comparative Politics: Institutions <br>
+              <br>
+              AND <br>
+              <br>
+              220A. Comparative Politics: State and Society <br>
+              <br>              &nbsp; </td>
+            <td width="23%" valign="top"><em>1. At least one seminar in political   development, democratization, or regime change</em> <br>              <em><br>
+            2. One additional seminar in comparative politics</em></td>
+           
+          </tr>
+          <tr>
+            <td width="16%" valign="top"><strong>International<br>
+              Relations</strong> </td>
+            <td width="23%" valign="top">240. International Relations Theory </td>
+            <td width="23%" valign="top"><em>Three graduate seminars numbered</em> <br>
+              <br>
+              POLI 241–248 <br>
+              <br>
+              GPS courses: with prior written approval of the IR field coordinator, students may take GPS courses that (1) have sufficient international content and (2) incorporate additional requirements for PhD students. <br>              <em><br>
+              To be taken for at least one year</em><br>
+              <br>
+              283. Workshop in Int’l Relations </td>
+            
+          </tr>
+          <tr>
+            <td width="16%" valign="top"><strong>Political<br>
+              Methodology</strong></td>
+            <td width="23%" valign="top">270. Mathematical and Statistical Foundations<br>
+              <br>
+              271. Advanced Statistical Applications</td>
+            <td width="23%" valign="top"><em>Two graduate seminars from the POLI 270–279 range,   such as</em><br>
+              <br>
+              277. Measurement   Theory<br>
+              <br>
+              279. T/Social   Network Analysis<br>
+              <br>
+              279. T/Graphical   Models and Statistical Learning</td>
+            
+          </tr>
+          <tr>
+            <td width="16%" valign="top"><strong>Political<br>
+              Theory</strong> </td>
+            <td width="23%" valign="top"><em>Two of the following courses:</em> <br>
+              <br>
+              210AA. Thucydides to Rousseau <br>
+              <br>
+              210AB. Kant to Rawls<br>
+              <br></td>
+            <td width="23%" valign="top"><em>Either</em>:<br>
+              <br>
+              TWO seminar courses numbered 211–219 <br>              
+              <br>
+              OR <br>
+              <br>
+              one of the above and one POLI 298 approved by the   political theory field coordinator </td>
+            
+          </tr>
+        </table>
+        <h4>General Examination</h4>
+                <p>By the end of the second year, a student must stand for the general examination.&nbsp;The general examination consists of written examinations in each of two fields and an oral examination. The department offers examinations in five fields: American politics, comparative politics, international relations, political theory, and methodology.&nbsp;It is expected that students complete their field requirements prior to sitting for the general examination. By the first day of spring quarter of the second year each student must submit to the graduate coordinator a general examination plan identifying the two fields within which exams will be taken. The general examination will normally take place during the seventh week of spring quarter.&nbsp;Normally, each written examination will be taken on a separate day within a one-week period, and the oral examination will be given within two weeks of the completion of the written examinations.</p>
+<h4>Written
+        Examinations</h4>
+                <p>Written field examinations last six hours.&nbsp;These examinations cover major theoretical approaches in a field.&nbsp;They are structured so that passing requires general knowledge and understanding of important work in the field as a whole. These examinations cover in greater depth one subfield within a major research literature. Written examinations are open-note and open-book.&nbsp;Students are expected to do their own work, and to compose their answers on the day of the examination.&nbsp;Text from computer files may not be downloaded into these answers.</p>
+<h4>Oral Examinations</h4>
+                <p>The oral examination normally lasts between one and two hours and covers two written examinations and the student&rsquo;s seminar paper. A student must take the oral examination, even if one or two of the written examinations or the seminar paper is such that it is deemed impossible to pass the entire examination.</p>
+<p>Each field has a designated field coordinator, appointed by
+                  the department chair in consultation with the director of graduate
+                  studies. The field coordinator, in consultation with the faculty
+                  in the field, prepares the written examinations. Each general examination is graded by a committee of four faculty members,
+                  with two from each of the student’s examination fields.&nbsp;These
+                  examiners are nominated by the field coordinator and appointed
+                  by the department chair.&nbsp;Students are normally informed
+                  of the composition of general examination boards during the
+                  fourth week of the spring quarter.</p>
+                <p>Each general examination is graded in its entirety. A student
+                  passes or fails the entire examination, not simply parts of
+                  it.&nbsp;The examination committee may assign a grade of fail,
+                  pass, or distinction.&nbsp;A student passes the general examination
+                  if at least three examiners vote to assign a grade of pass
+                  or better.&nbsp;A student receives a grade of distinction by
+                  vote of at least three examiners. The student will receive
+                  written notification of the examination committee’s decision.
+                  A student who fails the general examination must retake it
+                  at least one week prior to the start of the fall quarter of
+                  the third year.&nbsp;A student who fails the general examination
+                  twice will not be permitted to continue in the graduate program
+                  in political science.</p>
+        <p>Good progress toward the PhD requires that a student complete
+                  the general examination by the end of the second year.&nbsp;A
+                  student who has not attempted all parts of the general examination
+                  by the end of the second year may not continue in the program.<br />
+          <strong></strong></p>
+                <h4>Seminar Papers</h4>
+                <p>A student must complete one seminar paper in one of his or
+                  her examination fields.&nbsp;This paper may be written as part
+                  of the requirements for a regularly scheduled seminar course
+                  or in an independent research course.</p>
+          <h5>Guidelines for the Seminar Paper</h5>
+        <ul>
+          <li>Acceptable article length for most journals is eight thousand to ten thousand words and seminar papers should be a similar length.</li>
+                  <li>The basic structure of the article should include</li>
+                <ul>  <li>An introduction framing the significance of the question, sketching the answer, and (where subfield appropriate) delineating the research design and empirical findings</li>
+                  <li>A comprehensive yet succinct literature review placing the research in the context of prior work on the subject</li>
+                  <li>A discussion of research design (where subfield appropriate)</li>
+                  <li>Appropriate empirical analysis (where subfield appropriate)</li>
+                  <li>A conclusion highlighting the contributions of the research and returning to general questions</li>
+                  <li>Papers must be <em>solo authored.</em></li>
+                </ul>  <li>Examples of recent published articles written by UC San Diego graduate students will be available to students upon request. </li>
+                </ul>
+                <p>Papers may draw from papers originally written for courses. However, it is generally the case that course papers will need substantial revision before becoming suitable seminar papers. Students may write papers in fields other than their first or second exam fields.  </p>
+                <p>Students must identify an adviser for the seminar paper. Seminar paper advisers may be the first-year adviser but are not required to be. Seminar paper advisers may go on to supervise dissertations but are not required to do so. Advisers must agree (certified in writing, to the graduate program coordinator) to serve this purpose by <em>4:00 p.m. on Friday of the eighth week of fall quarter.</em> Penalties for failing to identify an adviser by this due date are at the discretion of the director of Graduate Studies. Students are advised to contact the director of Graduate Studies or their field chair if they are having difficulty identifying an adviser.  </p>
+                <p>Students must submit a <em>rough draft</em> of the seminar paper (in hard copy and electronic form) to the graduate program coordinator by <em>4:00 p.m. on Friday of the first full week of spring quarter. </em>The graduate program coordinator is responsible for ensuring that a copy of the paper is provided to the seminar paper adviser. Students failing to submit a draft of the paper by this deadline will not be permitted to take the comprehensive exam in the spring quarter. Please note that this implies leaving the program. </p>
+                <p>Students should submit a <em>penultimate draft</em> of the paper to the seminar paper adviser one week prior to the final draft due date. Students must submit a <em>final draft</em><strong> </strong>of the seminar paper (in hard copy and electronic form) to the graduate program coordinator by <em>4:00 p.m. on Monday of the week prior to the written exams.</em> Students failing to submit a final draft of the paper by this deadline will not be permitted to take the comprehensive exam in the spring quarter. Please note that this implies leaving the program.                  </p>
+                <h4>Departmental Workshops</h4>
+                <p>During the third year, a student must be enrolled in a departmental workshop (course numbers 280–89). Departmental workshops are intended to introduce students to advanced research in political science and to facilitate the completion of the doctoral dissertation. Workshops typically meet on a biweekly basis and include discussion of common readings, public talks, and student presentations. Each field is responsible for maintaining or identifying a workshop for students writing a dissertation in that field.</p>
+                <p>During the third year, each student is required to present a draft dissertation prospectus or an original piece of research to a workshop at least once. A form indicating completion of this requirement must be submitted to the graduate coordinator by the end of the third year.</p>
+                <p>By October 15 of the third year, each student must identify a prospectus adviser and the tentative topic of the prospectus. Each student is responsible for submitting the appropriate form, indicating the adviser&rsquo;s name, to the graduate coordinator.</p>
+        <h4>PhD in Political Science and International Affairs with a Specialization in Environmental Research </h4>
+        <p>A graduate specialization in Interdisciplinary Environmental Research (PIER) is available for select doctoral students in political science. PIER students seek solutions to today’s environmental challenges. <strong> </strong></p>
+                <p>The PhD specialization is designed to allow students to obtain standard training in their chosen field and an opportunity to interact with peers in different disciplines throughout the duration of their doctoral projects. Such communication across disciplines is key to fostering a capacity for interdisciplinary &ldquo;language&rdquo; skills and conceptual flexibility.</p>
+                <h5>Specialization Requirements<br>
+                </h5>
+                <ul type="disc">
+                  <li>Complete      all course work, dissertation, and other requirements of<strong> </strong>the doctorate<strong> </strong>in political science</li>
+                  <li>Sixteen-unit      interdisciplinary boot camp (summer, SIO 295S–295LS)</li>
+                  <li>Eight units      from a secondary field (outside the home department) </li>
+                  <li>Six units (three      quarters) Interdisciplinary Environmental Research Forum (SIO 296)</li>
+                  <li>At least      one chapter of the dissertation will be broadly related to environmental      research and will be interdisciplinary in nature. </li>
+        </ul>
+                <h5>
+        Application Requirements</h5>
+                <p><em>We advise students to begin PIER in their third year upon completion of core political science</em><strong> </strong><em>course requirements.</em></p>
+                <p>The following items should be combined into a single PDF document and submitted to cmbc@ucsd.edu.<strong></strong></p>
+                <ul type="disc">
+                  <li>Student’s      CV</li>
+                  <li>Half-page      abstract of proposed thesis work </li>
+                  <li>Up to one-page      statement of student’s interest in interdisciplinary environmental      research including career goals. </li>
+                  <li>Nomination      letter from adviser acknowledging student’s academic ability and      interdisciplinary environmental interest. The letter must include a      commitment for summer stipend support.
+                  </li>
+                </ul>
+        <h5>Admission to the Specialization </h5>
+        <p>Students are admitted into the political science doctoral program. Admission to PIER is a competitive process with six to eight students granted admission each year from across ten participating UC San Diego departments. Selected applicants will have the opportunity to enroll in the specialization. 
+        <h5>
+         PIER Fellowships</h5>
+        <p>When funding is available, all applicants will be considered for one year of PIER Fellowship support.</p>
+                <div>
+                  <div> </div>
+                  <div> </div>
+                </div>
+<h4>Master&rsquo;s Degree in Political Science</h4>
+        <p>Doctoral students in the Department of Political Science may apply for an MA after successfully completing fifteen quarter courses, nine of which must be taken for a letter grade and numbered between POLI 200 and 279, and one seminar paper approved by a member of the department. Any current doctoral student who holds an MA or MS and has completed or will complete the requirements for a second master&rsquo;s degree during his or her course of progress to the doctorate may apply to receive the MA with the consent of the department. However, the second degree must be in a different field.</p>
+<h4>Advancement to Candidacy</h4>
+                <p>A student must complete one seminar paper in one of his or
+                  her examination fields.&nbsp;This paper may be written as part
+                  of the requirements for a regularly scheduled seminar course
+                  or in an independent research course.</p>
+        <p>Certification that a paper fulfills the seminar paper requirement
+                  is at the sole discretion of the faculty member supervising
+                  the work (i.e., the instructor of the course for which the
+                  paper was written).</p>
+                <p>A student may not take the general examination before fulfilling
+                  the seminar paper requirement. A final draft of the paper,
+                  along with the appropriate form certifying that the paper meets
+                  the seminar paper requirement, must be submitted to the graduate
+                  coordinator before the written portion of the general examination
+                  may be taken.&nbsp;Copies of the seminar paper will be distributed
+                  to the general examination committee.</p>
+                <h4>Dissertation</h4>
+                <p>By the end of the sixth year good progress requires completion
+                  of the dissertation. A student who fails to complete the dissertation
+                  by the end of the sixth year may be denied all departmental
+                  financial assistance.</p>
+                <h4>Advising and Evaluation</h4>
+                <p>Each incoming student is assigned a temporary faculty adviser
+                  by the director of graduate studies.&nbsp;At the end of the
+                  first year, students are given the opportunity to confirm that
+                  adviser or select a new one.&nbsp;At the beginning of the third
+                  year each student must select a faculty member from the department
+                  to serve as prospectus adviser.&nbsp;The prospectus adviser
+                  will help guide the student in writing the prospectus and selecting
+                  a dissertation committee.&nbsp;It is not assumed that the prospectus
+                  adviser will subsequently chair the dissertation committee,
+                  or even be a member of it.&nbsp;Those roles should be determined
+                  as the prospectus develops.</p>
+                <p>During the spring quarter each student is evaluated by his
+                  or her adviser in consultation with the departmental faculty.&nbsp;The
+                  student will receive a written evaluation from the adviser
+                  each year.&nbsp;The student must sign this evaluation for it
+                  to become an official part of the student’s departmental file.
+                  As part of the first-year review each student must complete
+                  a plan of study that identifies a faculty seminar paper supervisor,
+                  two examination fields, a focus area, and intended preparation
+                  in each.&nbsp;This plan must be signed by the student’s faculty
+                  adviser and submitted to the graduate coordinator by the end
+                  of spring quarter of the first year.<br />
+                </p>
+                <h4>Student Petitions</h4>
+                <p>To
+                  contest an evaluation or any departmental action a student
+                  must do so in writing.&nbsp;A petition should be submitted
+                  to the director of graduate studies no later than the end of
+                  the quarter following the evaluation (or other action) contested
+                  by the student.</p>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

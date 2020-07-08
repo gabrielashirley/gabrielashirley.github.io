@@ -1,0 +1,235 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" --> 
+<title>Comparative Studies in Language, Society, and Culture</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopMargin">Computational Science, Mathematics and Engineering (CSME)</h1>
+<p class="program-contact-info">STUDENT AFFAIRS:<br>
+  7018 Applied Physics and Mathematics Building<br>
+  Muir College<br>
+  <a href="http://www.csme.ucsd.edu" target="_blank">www.csme.ucsd.edu</a></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h5>Program Directors</h5>
+<p>Michael Holst, <span class="italic">Professor of Mathematics</span><br>
+  Julius Kuti, <span class="italic">Professor of Physics</span></p>
+<h3>Objectives</h3>
+<p>The CSME program at UC San Diego recognizes the nation’s growing and continuing need for broadly trained advanced computational scientists in academia, industry and government laboratories. Offering study leading to a MS degree in Computational Science and a PhD in a home department with a specialization in Computational Science, graduates from the CSME program will be well positioned to compete effectively for the best jobs in these areas. The PhD component provides a new specialization in Computational Science, available to doctoral candidates in participating academic departments at UC San Diego. </p>
+<p>Computational science refers to the use of computer simulation and visualization for basic scientific research, product development and forecasting. It is an interdisciplinary field that combines mathematics (mathematical modeling, numerical analysis) and computer science (architecture, programming, networks, graphics) with one of the scientific or engineering disciplines. </p>
+<p>The CSME program draws upon the expertise of faculty from Bioengineering, Biological Sciences, Chemistry and Biochemistry, Computer Science and Engineering, Electrical and Computer Engineering, Mathematics, Mechanical and Aerospace Engineering, Physics, Scripps Institution of Oceanography, Structural Engineering as well as research staff from the San Diego Supercomputer Center. </p>
+<p><strong><em>Proficiency Requirements:</em></strong><strong> </strong>All students must demonstrate advanced undergraduate-level proficiency in numerical analysis and in computer algorithms and data structures. Subject to petition and approval by the CSME Executive Committee, proficiency may be demonstrated by taking UC San Diego’s courses in both subjects while enrolled in the graduate program (four units per course): </p>
+<ol>
+  <li class="no-bullet">Numerical Methods (Math 174/274 or MAE 290A)</li>
+  <li class="no-bullet">Data Structures and Algorithms (CSE 100/101). </li>
+</ol>
+</p>
+<p>Alternatively, proficiency in the material contained in these courses may be satisfied by having previously taken these or equivalent courses at other institutions, or through other evidence of sufficient knowledge of this material. Demonstrating proficiency without taking these courses at UC San Diego is subject to approval by the CSME Executive Committee on an individual basis. </p>
+<h3>Master’s Degree Program</h3>
+<p>The MS program in CSME leading to an MS in Computational Science is designed to be a two-year program centered around lecture and laboratory courses that focus on obtaining mastery of the primary tools used in computational science. The requirements for the MS degree are as follows:</p>
+<ol>
+  <li class="no-bullet">All students are expected to complete their requirements within two years of admission into the program. </li>
+  <li class="no-bullet">The qualifying exams, listed below, must be passed by the end of the second year. The exams consist of the final exam for the particular qualifying course. Satisfying the qualifying exam requirements for consists of passing all three qualifying exams. </li>
+  <li class="no-bullet">MS students are encouraged to take courses in other disciplines.</li>
+  <li class="no-bullet">MS students who wish to continue their education and get a PhD in the CSME program must apply for admission to one of the participating departments and be admitted to that department’s graduate program. Participating departments are: Chemistry and Biochemistry, Computer Science and Engineering, Mathematics, Mechanical and Aerospace Engineering and Physics.</li>
+</ol>
+<p><strong><em>Proficiency Requirements</em></strong>: Please refer to those outlined above.</p>
+<h4 class="program-overview-subhead-2">Program Structure</h4>
+  
+<table border="0" cellpadding="2" cellspacing="0" class="sample-program">
+  <tr>
+    <td width="45" valign="top"><p>&nbsp;</p></td>
+    <td width="51" valign="top"><p><strong>UNITS</strong></p></td>
+    <td width="503" valign="top"><p><strong>COURSE</strong></p></td>
+  </tr>
+  <tr>
+    <td width="45" valign="top">1.</td>
+    <td width="51" valign="top">8</td>
+    <td width="503" valign="top">Math 174/274 Numerical Methods and Math 275 Numerical PDE <strong>or</strong> MAE 290A Numerical Methods and MAE   290B Numerical PDE</td>
+  </tr>
+  <tr>
+    <td width="45" valign="top">2.</td>
+    <td width="51" valign="top">4</td>
+    <td width="503" valign="top">Math 176   Datastructures and Algorithms <strong>or</strong><br>
+      CSE 100 Datastructures and Algorithms</td>
+  </tr>
+  <tr>
+    <td width="45" valign="top">3.</td>
+    <td width="51" valign="top">4</td>
+    <td width="503" valign="top">Phys 243 Stochastic Methods</td>
+  </tr>
+  <tr>
+    <td width="45" valign="top">4.</td>
+    <td width="51" valign="top">8</td>
+    <td width="503" valign="top">Phys 141/241 Computational Physics I: Probabilistic Models and   Simulations and Phys 142/242 Computational Physics II: PDE and Matrix Models</td>
+  </tr>
+  <tr>
+    <td width="45" valign="top">5.</td>
+    <td width="51" valign="top">4</td>
+    <td width="503" valign="top">Phys 244 Parallel Computing <strong>or </strong>CSE 260 Parallel Computing</td>
+  </tr>
+  <tr>
+    <td width="45" valign="top">6.</td>
+    <td width="51" valign="top">8</td>
+    <td width="503" valign="top">Math 210A   and B Mathematical Methods in Physics and Engineering <strong>or</strong><br>
+      Math 270A   and B Numerical Mathematics <strong>or</strong><br>
+      Math 271A   and B Numerical Optimization <strong>or</strong><br>
+      Math 272A   and B Numerical Partial Differential <strong>or</strong><br>
+      Phys 105A   and Phys 105B Mathematical and Computational Physics <strong>or</strong><br>
+      Phys 130A   and Phys 130 B Quantum Physics <strong>or</strong><br>
+      <strong>Two courses from the following   list:</strong><br>
+      Math 273A   Scientific Computation<br>
+      Math 273B   Scientific Computation<br>
+      Math 273C   Scientific Computation<br>
+      Phys 225   General Relativity<br>
+      BIPN 146   Computational Neurobiology<br>
+      Other science courses as approved by the CSME Executive   Committee</td>
+  </tr>
+  <tr>
+    <td width="45" valign="top">7.</td>
+    <td width="51" valign="top">2</td>
+    <td width="503" valign="top">CSME Journal Club (2 quarters)</td>
+  </tr>
+  <tr>
+    <td width="45" valign="top">&nbsp;</td>
+    <td width="51" valign="top"><strong>38</strong></td>
+    <td width="503" valign="top"><strong>Total   Required Units</strong></td>
+  </tr>
+</table>
+<p><strong><em>Qualifying Requirements:</em></strong> MS students must pass the final exams in three qualifying exam courses. It is expected that most students will register for and take these courses (four units per course), but the CSME Executive Committee may allow an exceptionally well-prepared student to take the final exams without taking the courses. The three qualifying exam courses have been selected to provide a general broad set of tools in computational science and are as follows:</p>
+<ol>
+  <li>Math 275 or MAE 290B (Numerical PDEs)</li>
+  <li>Phys 244 or CSE 260 (Parallel Computing)</li>
+  <li>Course to be selected from LIST A</li>
+</ol>
+<p>The list of alternative courses is as follows (four units per course). </p>
+<h5>LIST A: CSME Alternative Qualifying Exam Courses</h5>
+<ol>
+  <li>Phys 243 (Stochastic Methods)</li>
+  <li>Math 270A, B or C (Numerical Analysis; Not permitted for Math students)</li>
+  <li>Math 272 A, B or C (Advanced Numerical PDEs)</li>
+  <li>MAE 223 (Computational Fluid Dynamics)</li>
+  <li>MAE 232 A, B or C (Computational Solid Mechanics)</li>
+  <li>MAE 280 A or B (Linear Systems Theory)</li>
+  <li>(To be determined by Executive Committee)	  </li>
+</ol>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

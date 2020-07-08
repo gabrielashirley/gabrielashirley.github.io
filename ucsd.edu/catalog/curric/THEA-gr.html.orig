@@ -1,0 +1,259 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Theatre and Dance</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Theatre and Dance </h1>
+<p class="sectionNav"> <span class="courseFacLink">[ <a href="../curric/THEA-ug.html">undergraduate
+      program</a> | <a href="../curric/THEA-gr.html"> </a> <a href="../courses/THEA.html">courses</a> | <a href="../faculty/THEA.html">faculty</a> ]</span></p>
+<p class="program-contact-info">202 Galbraith Hall, Revelle College<br />
+(858) 534-3791<br />
+<a href="http://theatre.ucsd.edu" target="_blank">http://theatre.ucsd.edu</a></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><p class="anchor-parent"><a class="anchor" id="grad"></a></p><h2 class="program-overview-subhead-1">The Graduate Program<br>
+</h2>
+<h3 class="program-overview-subhead-1"><span class="course-subhead-1">Master of Fine Arts in Theatre Joint Doctoral Degree Program</span></h3>
+				<h4>MFA in Theatre </h4>
+				<p>The Department of Theatre and Dance at UC San Diego has set an ambitious
+				  goal for its MFA program: the training of artists who will
+				  shape the future direction of the theatre. The professional
+				  theatre training program is ranked third in the nation (and
+				  first west of the Hudson River), according to <span class="italic">U.S.
+	    News &amp; World Report</span>, 1997.</p>
+				<p>The curriculum for all students involves studio classes and seminars. These are integrated with a progressive sequence of work on productions and with a professional residency at the La Jolla Playhouse. </p>
+				<p>The MFA program at UC San Diego is built around the master-apprentice system of training. All the faculty are active professionals who teach at UC San Diego because of a shared commitment to training young artists. Instruction takes place not just in the classroom, but in theatres around the country where faculty, with students as assistants, are involved in professional productions, including those at the La Jolla Playhouse. </p>
+				<p>Students graduating from the MFA program at UC San Diego should be prepared to take positions in the professional theatre in the United States and abroad. Students are now working in New York, in resident theatres, in the film and television industry, and in European repertory theatres. MFA candidates in acting, dance theatre, design, directing, playwriting, and stage management will complete at least ninety quarter-units of academic work during their tenure in the program. </p>
+				<h4 class="program-overview-subhead-2">Program Descriptions </h4>
+				<h5 class="program-overview-subhead-3">Acting </h5>
+				<p>The body and mind of the actor are synthesized to serve as an instrument of expression. Actors must depend on their instrument to perform, and the program places great emphasis on the strengthening and tuning of that instrument. The innate talent of the student is nurtured, coaxed, and challenged with individual attention from an extraordinary team of professionals and specialists in actor training. </p>
+				<h6 class="program-overview-subhead-4">Classes </h6>
+				<p>Each year, intensive studio work in movement, voice, speech, and singing accesses, expands, and frees the physical body. Acting process introduces a range of improvisational and rehearsal techniques that help the actor approach onstage events with imagination and a rich emotional life. In the first year, studio classes guide the actor through daily explorations that encourage, change, and enhance artistic expression. The second year is devoted to the study of classical texts as well as the specific vocal and physical skills required to perform them. In the final year, classes focus on the needs of individual actors as they prepare to enter the professional world. </p>
+				<h6 class="program-overview-subhead-4">Productions </h6>
+				<p>Actors work on classical and contemporary texts as well as new plays with graduate students, faculty, and professional guest directors. Each year the department schedules from fifteen to twenty productions of varying size and scope. Graduate students are given casting priority for all but a few plays. Student-scheduled and produced cabaret/ workshop productions occur year-round and provide additional acting opportunities. </p>
+				<h6 class="program-overview-subhead-4">Externship </h6>
+				<p>All graduate students serve a residency with the La&nbsp;Jolla Playhouse and are cast in positions ranging from supporting to leading roles alongside professional actors and directors of national and international stature. For many actors this opportunity establishes valuable networking relationships and exposure for future employment. </p>
+				<h6 class="program-overview-subhead-4">Research and Other Opportunities </h6>
+				<p>Modest funds are sometimes available for the pursuit of research, special technique workshops, and travel to auditions and festivals. In addition, in the third year, the entire acting class receives a showcase presentation in both Los Angeles and New York at which specially invited groups of film, television, and theatre professionals are in attendance. </p>
+				<h5 class="program-overview-subhead-3">Dance Theatre </h5>
+				<p>With an emphasis on the collaborative process, the purpose of the Dance Program is to create an intensive laboratory for candidates to pursue artistic processes that will hone their unique artistic voices. Dance theatre artists are encouraged to explore and develop processes that employ both theatre and dance methodology, leading to the synthesis between choreographic, theatrical, visual, technological, and sound media.</p>
+				<h6 class="program-overview-subhead-4">Classes</h6>
+				<p>The MFA program in dance theatre provides an intensive laboratory for candidates to pursue processes that will hone their particular artistic voice in dance theatre. The curriculum is designed to allow graduate students to explore their own unique creative processes, to define their own particular aesthetic, and to discover and develop their own distinctive movement and performance language. Core courses consist of Choreography Seminars in the study and practice of aesthetic concepts, history, and methodology for choreographic creation of dance theatre; Dance Theatre Topics Seminars that provide in-depth discussion and research on a full spectrum of topics from collaborative processes to professional practice; costume, lighting, sound, and scenic design; and a rich offering of electives across media and between disciplines that allow each student to pursue individual areas of interest. Graduate students maintain a physical practice chosen from Graduate Studio offerings in contemporary practices, improvisation, ballet for contemporary dance, yoga, Pilates, and a range of Latin, African, and Asian dance forms. </p>
+				<h6 class="program-overview-subhead-4">Productions</h6>
+				<p>Dance theatre students will have the opportunity to create work throughout their time at UC San Diego in studio, workshop, cabaret, and site-specific productions. Second-year students will present a short work in the existing production in the spring quarter. Thesis projects of a significant dance theatre work will be fully executed by the extensive production talents of the MFA design program in the winter quarter of the third year. </p>
+				<h6 class="program-overview-subhead-4">Externship</h6>
+				<p>Students are encouraged to work or research in the field when time permits, and they are assisted with professional opportunities, typically in the spring or summer of the second year. Dance theatre candidates may have an opportunity to gain production experiences in a variety of theatres and venues in San Diego, New York, Seattle, Los Angeles, and London, at the La Jolla Playhouse, or through a comparable professional residency experience.</p>
+				<h5 class="program-overview-subhead-3">Design </h5>
+				<p>The design program aims to train students in the best professional practices of regional and commercial theatre. The design faculty are award-winning working professionals also committed to teaching. The design training program stresses an interaction with the works of many visual and sound artists from a wide range of disciplines. Students are trained to create designs that “comment” on the play and the text, not merely “illustrate” it. Students&#8217; talent and design work are showcased at a number of venues that have directly resulted in many national grants, awards, and other work opportunities for our alumni. </p>
+				<h6 class="program-overview-subhead-4">Classes </h6>
+				<p>All students take a core curriculum of first-year design studio classes in scenery, costume, lighting, and sound (taken together with directors), and a design seminar where all three years come together in a forum to share production experiences, portfolios, and professional career techniques and skills. This is followed in subsequent years by more specialized advanced design classes that combine with production work in the student&#8217;s own area of concentration. A double-emphasis study (e.g., scenery and costume design combined) is offered to appropriate students. Classes in other areas (e.g., drafting, text analysis, visual arts, music) are also normally offered. </p>
+				<h6 class="program-overview-subhead-4">Productions</h6>
+				<p>There are a generous number of (fully executed) production opportunities, and generally all productions are designed by students. Designers collaborate with student, faculty, and internationally prominent guest directors. Students are fully supported by the same professional workshop staff as the La Jolla Playhouse and are not expected to build or run their own productions. </p>
+				<h6 class="program-overview-subhead-4">Externship </h6>
+				<p>Student designers participate in a residency program at the La Jolla Playhouse, and normally work as assistants to visiting professional designers. However, there are also some opportunities for talented students to be hired as principal designers by the Playhouse during its season. </p>
+				<h6 class="program-overview-subhead-4">Research and Other Opportunities </h6>
+				<p>Students may also be offered opportunities to travel with faculty as assistants on professional assignments to major regional theatres, Broadway, England, or Europe. Modest funds are sometimes available for student research and travel to see productions and to attend conferences and workshops. </p>
+				<h5 class="program-overview-subhead-3">Directing</h5>
+				<p>With an emphasis on the collaborative process, the purpose of the Directing Program is to develop directors with a solid foundation in the components of production and the interpretation of text. Individuals are encouraged to make challenging choices, to break down barriers, and to create exciting, meaningful theatre. Graduates of the program are prepared to select and get to the heart of a text, to communicate effectively with and inspire production designers, and to elicit expressive performances from the actors with whom they work. </p>
+				<h6 class="program-overview-subhead-4">Classes </h6>
+				<p>The core curriculum of the Directing Process Program offers students opportunities to hone their skills in text analysis and scene work in all three years. The first-year student also completes a sequence in the acting process, develops a visual vocabulary in theatrical design and visual arts courses, and explores the nature of the collaborative process. </p>
+				<h6 class="program-overview-subhead-4">Productions </h6>
+				<p>Directing students will direct from two to four department scheduled and supervised productions in the Mandell Weiss Center for the Performing Arts during their time at UC San Diego. In addition, studio, workshop, and cabaret productions of the director&#8217;s choice are strongly encouraged. The production season also offers opportunities to assist guest and faculty directors. </p>
+				<h6 class="program-overview-subhead-4">Externship </h6>
+				<p>In the students&#8217; second year, the La Jolla Playhouse provides a residency during which students typically serve as assistant directors. </p>
+				<h6 class="program-overview-subhead-4">Additional Opportunities </h6>
+				<p>It is common for the directing faculty to take MFA directors with them to work as assistant directors at theatres around the United States and the world. </p>
+				<h5 class="program-overview-subhead-3">Playwriting </h5>
+				<p>Playwrights are more than mere writers. They are artists who unleash their imagination in incredibly dramatic ways. The successful playwright writes with intellectual power and emotional honesty, with a distinct and essential voice that speaks with vulnerability and sentience to the heart and soul of the audience. The dedicated, individual attention and formidable production opportunities of the program offer talented writers the ability to stretch, expand, and witness the unfolding of their work onstage in the bodies of very gifted actors. </p>
+				<h6 class="program-overview-subhead-4">Classes </h6>
+				<p>In Playwriting Seminar—the core course—writers in all three years read and discuss their ongoing work, focusing on style, character, and structure. They also observe their work being read by MFA actors at times throughout the year. Writing for Television, Screenwriting, and Dramatization/Adaptation are offered in rotation within a three-year cycle. In addition, students take a variety of topics in theatre and dramatic literature along with individual practicum classes. Playwrights can take advantage of rich offerings in literature, music, visual arts, and language study, as well as in dramatic texts, theory, and design. </p>
+				<h6 class="program-overview-subhead-4">Production </h6>
+				<p>First-year students receive a one-act showcase production each year, while second- and third-year students receive a fully designed production. These are produced in the New Plays Festival each spring, which is attended by literary managers, agents, and artistic directors from across the country. Typically, these productions are directed, designed, and acted by students in the MFA program. Production of plays in any year of study is dependent on the readiness of the work for staging. </p>
+				<h6 class="program-overview-subhead-4">Externship </h6>
+				<p>Each student is assisted with a carefully chosen assignment, typically in the summer of the second year. Our playwrights may have an opportunity to gain exceptional literary and production experiences in a variety of theatres and venues in New York, Seattle, Los Angeles, London, Germany, and Romania. </p>
+				<h5 class="program-overview-subhead-3">Stage Management </h5>
+				<p>The stage manager is a pivotal member of the collaborative process and creates the environment that supports the work of the other members of the artistic team. The stage manager is the prime communicator and liaison who synthesizes the disparate elements of production into a cohesive whole and is responsible for the implementation of diverse artistic choices throughout the production process. </p>
+				<p>The Stage Management Program at UC San Diego integrates a comprehensive knowledge of all critical components of this complex field in order to prepare students for work in leading professional theatres. The program develops individualized, creative artists with personal approaches to their work. UC San Diego creates a supportive and stimulating environment that allows each student to develop the confidence and flexibility necessary to meet the challenges of production in a wide variety of professional venues. </p>
+				<h6 class="program-overview-subhead-4">Classes </h6>
+				<p>All first-year students take a core curriculum in stage management process that explores the role of the stage manager in professional theatre today and offers a comprehensive investigation of the work from preproduction to closing a show. Students in all three years attend the stage management seminar, which serves as a weekly forum for sharing insights and solving problems on current production assignments, meeting with a variety of guest artists, and examining the bigger picture of stage management and theatre in America today. Additional course work is offered in various aspects of theatre administration and management, professional practice, directing, design, and collaborative process. </p>
+				<h6 class="program-overview-subhead-4">Productions </h6>
+				<p>Great emphasis is placed on the student&#8217;s ability to apply the theories learned in class to the production process. Students typically serve as both assistant stage manager and stage manager on a number of studio and main stage productions in a variety of theatrical spaces. In addition to established scripts directed by MFA students, faculty, and nationally prominent guest directors, students also work on new plays by graduate or guest playwrights, as well as faculty and student choreographed dance concerts. </p>
+				<h6 class="program-overview-subhead-4">Research Opportunities </h6>
+				<p>Students are encouraged to work or research in the field when time permits. Past projects have included stage managing at the National Playwrights Conference at the O&#8217;Neill Center in Connecticut, interning at Warner Brothers Feature Animation, working as production assistant for the Broadway production of <em>Play On,</em> stage managing Andrei Serban&#8217;s production of <em>Our Country&#8217;s Good</em> at the Romanian National Theatre, and researching stage combat and weaponry at the Royal Shakespeare Company. </p>
+				<h6 class="program-overview-subhead-4">Externship </h6>
+				<p>Each student is guaranteed at least one production opportunity at the La Jolla Playhouse, or a comparable professional residency experience. </p>
+				<h3 class="program-overview-subhead-2">PhD in Theatre and Drama </h3>
+				<p>The UC San Diego Department of Theatre and Dance and the Department of Drama at UC Irvine began to recruit students for the new Joint Doctoral Program in Theatre and Drama in fall 1999 for admission in fall 2000. Within the context of the program&#8217;s twin focus on theory and history, an innovative structure permits each student to pursue a custom designed curriculum that draws from a rich variety of seminars in faculty research areas that include Greek classical theatre; Shakespeare and his contemporaries; Italian, French, and German theatre; U.S.-Latino, African-American, and Asian-American theatre; and critical, historical, and performance theories. </p>
+				<p>Interested students are encouraged to request detailed information about the program and application materials, which will be available from either department each September. </p>
+				<h5 class="program-overview-subhead-4">Preparation </h5>
+				<p>Students with a BA (minimum GPA: 3.5), MA, or MFA degrees in drama and theatre are eligible for admission to the doctoral program. Students with training in literature (or another area in the humanities) will also be considered, provided they can demonstrate a background in drama or theatre. Experience in one of the creative activities of theatre (acting, directing, playwriting, design, dramaturgy) will enhance chances of admission. </p>
+				<p>All applicants are required to take the Graduate Record Examination and to submit samples of their critical writing. </p>
+				<p>While not required for admission, a working knowledge of a second language is highly desirable (see “<a href="#langreq">Language
+			    Requirement</a>”). </p>
+				<h4 class="program-overview-subhead-3">Course of Study </h4>
+				<p>Students are required to take a minimum of 144 units, which is equivalent
+				  to four years of full-time study (full-time students must enroll
+				  for a minimum of twelve units each quarter). Forty of these units will
+				  be taken in required seminars; the balance will be made up of elective
+				  seminars, independent study, and research projects (including preparing
+				  the three qualifying papers), and dissertation research. Students must
+				  take a minimum of one seminar per year in the Department of Drama at UC
+				  Irvine. The program of study makes it possible for students to take a significant
+				  number of elective courses and independent studies both with faculty in
+				  drama and theatre and in other departments. </p>
+		<h5 class="program-overview-subhead-4">Required Seminars </h5>
+				<ol>
+				  <li>A minimum of twelve units of TDGR 290 (Dramatic Literature and Theatre
+				    History to 1900). </li>
+				  <li>A minimum of twelve units of TDGR 291 (Dramatic Literature and Theatre
+				    History 1900 to the Present). </li>
+				  <li>A minimum of sixteen units of TDGR 292 (Cultural and Critical Theory). </li>
+	    </ol>
+				<p>These required seminars must be completed before the end of the student&#8217;s
+				  third year. In addition to the ten required seminars, students
+				  must pass comprehensive examinations at the end of the first
+				  and second years (see “<a href="#compexam">Comprehensive Examinations</a>” below). </p>
+				<h4 class="program-overview-subhead-3"><a name="compexam" id="compexam"></a>Comprehensive Examinations </h4>
+				<p>In the first year, students prepare for the written comprehensive examination, which is based on a reading list of approximately 100 titles ranging from the ancient Greeks to the present. Students take the written comprehensive at the beginning of the fall quarter of the second year. (Comprehensive examinations are scheduled at the beginning of fall quarter in order to allow the students the summer to prepare.) Students who fail the written comprehensive may retake it no later than the first week of winter quarter of the second year. Students who fail the written comprehensive for a second time are dismissed from the program. </p>
+				<p>In the second year, students prepare for oral comprehensive examination. The reading list for this examination is designed to permit the student to acquire a knowledge of his or her dissertation subject area, broadly conceived. The reading list is compiled by the student and his or her dissertation adviser, in consultation with other members of the faculty, as appropriate; the reading list must be established by the end of winter quarter of the second year. Students take the oral comprehensive at the beginning of the fall quarter of the third year. Students also submit a dissertation prospectus (approximately five pages) at the time of the oral comprehensive. Students who fail the oral comprehensive may retake it no later than the first week of winter quarter of the third year. Students who fail the oral comprehensive for a second time are dismissed from the program. </p>
+				<h5 class="program-overview-subhead-4"><a name="advcand" id="advcand"></a>Advancement to Candidacy: Three Qualifying Papers </h5>
+				<p>Students normally select a dissertation adviser during the second year and must do so before the end of spring quarter of that year. In consultation with the dissertation adviser and other faculty members, students develop topics for three qualifying papers, which are written during the third year. The three qualifying papers—one of which is a review of scholarship in the student’s area—must be completed by the end of the third year; when completed, the qualifying papers provide the basis for the oral qualifying examination. Students write the long paper under the direction of the dissertation adviser; it is understood that the long paper is preparatory to the dissertation. The short papers deal with other related topics, subject to the approval of the student’s advisers; the two short papers are understood as engaging in exploring the larger contexts of the dissertation. Students normally pass the qualifying examination and advance to candidacy at the end of the third year; students must advance to candidacy no later than the end of fall quarter of the fourth year. Once admitted to candidacy, students write the dissertation that, upon completion, is defended in a final oral examination. Students may select a dissertation adviser from either UC San Diego’s Department of Theatre and Dance or UC Irvine’s Department of Drama. All UC San Diego doctoral dissertation committees must include at least one faculty member from UC Irvine.				</p>
+				<h5 class="program-overview-subhead-4"><a name="langreq" id="langreq"></a>Language Requirement </h5>
+				<p>Students are required to complete an advanced research project using primary and secondary material in a second language (“materials” should be understood as including live and/or recorded performance; interviews with artists, critics, and scholars; and other nondocumentary sources, as well as more conventional textual sources). This requirement may be satisfied by writing a seminar paper or a qualifying paper (see “<a href="#advcand">Advancement
+			    to Candidacy</a>”) that makes extensive use of materials in a second language. The second language requirement must be satisfied before the end of the third year. This requirement will not be waived for students who are bi- or multilingual; all students are required to do research level work in more than one language. </p>
+				<p>It is assumed that students will have acquired a second language before entering the doctoral program, although second-language proficiency is not a requirement for admission. While students may study one or more second languages while at UC Irvine or UC San Diego, language classes may not be counted toward program requirements. </p>
+				<h5 class="program-overview-subhead-4">Teaching </h5>
+				<p>Students are required to teach a minimum of four quarters. No more than eight units of apprentice teaching (TDGR 500) may be counted toward the required 144 units. </p>
+				<h5 class="program-overview-subhead-4">Departmental PhD Time Limit Policies </h5>
+				<p>Students must advance to candidacy by the end of the fall quarter of their fourth year. Departmental normative time for completion of the degree is five years; total registered time in the doctoral program at UC San Diego or UC Irvine cannot exceed seven years. While students with an MA or MFA degree may be admitted to the doctoral program, they will be required to take all required doctoral seminars. </p>
+				<h5 class="program-overview-subhead-4">Financial Support </h5>
+				<p>Students entering the doctoral program may be supported (by either employment or fellowships) for four years. Support depends on the funds available and on the student&#8217;s rate of progress toward the degree.</p>
+        <h4>Specialization in Critical Gender Studies </h4>
+				<p>Students in the doctoral program in theatre and dance may apply for a specialization in critical gender studies to complement their course work and research in theatre and dance. </p>
+				<p>The Critical Gender Studies Program is built on the intellectual foundations of intersectional feminist thought and queer studies, and incorporates the interdisciplinary methodologies, intersectional frameworks, and transformational epistemologies central to contemporary gender and sexuality studies. The graduate specialization in critical gender studies provides specialized training in gender and sexuality for students currently enrolled in a UC San Diego doctoral program. Through advanced course work in critical gender studies and its affiliated departments,&nbsp;graduate students in the specialization develop an understanding of gender as necessarily linked to other social formations, including sexuality, race, nation, religion, (dis)ability, and structures of capital.&nbsp;At the same time,&nbsp;doctoral&nbsp;students engaging&nbsp;gender and sexuality studies&nbsp;have the opportunity to develop their work among peers who take up similar questions in their scholarship.</p>
+				<p>Admitted students are required to complete five courses in addition to their home department&rsquo;s core requirements, consisting of two core courses and three electives. The core courses are Advanced Studies in Critical Gender Studies (CGS 200), to be taken shortly after admission to the specialization, and Practicum in Critical Gender Studies (CGS 299), to be taken in the student&rsquo;s final two years of dissertation writing. Electives may be chosen from a list of preapproved seminars in participating departments (students may petition other courses with significant gender/sexuality studies content) and may be taken at any time during the student&rsquo;s tenure at UC San Diego. Admitted students must also include at least one member of their dissertation committee from the list of CGS core or affiliate faculty.</p>
+<p>For more information about the graduate specialization in Critical Gender Studies, please visit: <a href="http://cgs.ucsd.edu" target="_blank">http://cgs.ucsd.edu</a>.</p>
+                <div>
+                  <div> </div>
+        </div>
+        <!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

@@ -1,0 +1,217 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Environmental Studies</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noBottomMargin">Environmental Studies</h1>
+<p class="program-contact-info"> <span class="courseFacLink">[ <a href="../courses/ENVR.html">courses</a> | <a href="../faculty/ENVR.html">faculty</a> ]</span></p>
+<p class="program-contact-info">2126 Humanities and Social Sciences Building<br />
+  Muir College<br>
+  (858) 534-3589<br>
+  <a href="http://muir.ucsd.edu/minors/index.html" target="_blank">http://muir.ucsd.edu/minors/index.html </a><br />
+</p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h2 class="program-overview-subhead-1">Minor in Environmental Studies </h2>
+				<p>The Environmental Studies minor offers students from every major a basic grounding in the scientific, technical, social, and cultural issues presented by the interaction of human beings with their environment and the need to build a more environmentally sustainable future.</p>
+				<p>The two required courses, ENVR 30 and ENVR 110, have no prerequisites. Some of the other courses related to the minor, particularly those in Group A, have significant prerequisites; students planning an Environmental Studies minor should check catalog course descriptions carefully. Some credit toward the minor may be gained through independent study, field research, study abroad, the Academic Internship Program, and others. Students must petition such academic experiences toward their Environmental Studies minor requirements.  Petitions for petitionable
+				  courses, transfer courses, and individual additions to the courses listed
+				  below must be approved by the chair of the Environmental Studies Steering
+				  Committee. For updates, individual advising, and quarterly lists, please
+				  contact <a href="mailto:envrstudies@ucsd.edu">envrstudies@ucsd.edu</a>. </p>
+				<h2 class="program-overview-subhead-1">Applicable and Petitionable Courses </h2>
+				<p>Environmentally-based courses offered by UC San Diego departments fall
+				  into two categories: applicable and petitionable. Applicable courses are
+				  those that have been approved as always applying to the ENVR minor. Petitionable
+				  courses are either new, and therefore not yet approved as applicable, or
+				  are “topics” courses that focus on environmental matters only in particular
+				  quarters. Petitionable courses may be approved by petition to the minor
+			    during the quarters in which they appear in the ENVR quarterly lists. </p>
+<h2 class="program-overview-subhead-1">Quarterly Lists </h2>
+				<p>Each quarter, when the upcoming quarter&rsquo;s <a href="https://act.ucsd.edu/cgi-bin/tritonlink.pl/2/students/academic/classes/schedule_of_classes.pl" target="_blank">Schedule of Classes</a> is published, the Environmental Studies quarterly list is available in H&amp;SS 2126 and on the website. The quarterly list is an important, comprehensive source of information about ENVR course offerings as well as those from departments throughout the campus. It identifies applicable as well as petitionable courses for a given quarter. For reference, the office and the website maintain archives of quarterly lists. </p>
+				<p>The minor is structured as follows: </p>
+				<p class="basic-indent-10">Required: </p>
+				<ul>
+					<li class="list-level-2">ENVR 30, usually offered in the fall quarter. </li>
+					<li class="list-level-2">ENVR 110, usually offered in the winter quarter (need not be taken consecutively). </li>
+				</ul>
+				<p class="basic-indent-10">Required: </p>
+				<ul>
+					<li class="list-level-2">Five additional courses, at least four in the upper division, from the following two groups. At least one course must be taken from Group A and two from Group B. </li>
+				</ul>
+				<h5 class="program-overview-subhead-4">Group A—Natural Sciences </h5>
+				<p class="course-list-overview">BILD 3. Organismic and Evolutionary Biology</p>
+				<p class="course-list-overview">BIEB 121. General Ecology Laboratory</p>
+				<p class="course-list-overview">BIEB 131. Marine Invertebrate Ecology Laboratory</p>
+				<p class="course-list-overview">BIEB 140. Biodiversity</p>
+				<p class="course-list-overview">BIEB 165. Behavioral Ecology Laboratory</p>
+				<p class="course-list-overview">BIEB 166. Animal Behavior and Communication</p>
+				<p class="course-list-overview">BIEB 176. Conservation and the Human Predicament (cross-listed with ANBI 132)</p>
+				<p class="course-list-overview">CHEM 15. Chemistry of the Universe </p>
+				<p class="course-list-overview">CHEM 149A. Environmental Chemistry</p>
+				<p class="course-list-overview">CHEM 149B. Environmental Chemistry</p>
+				<p class="course-list-overview">CHEM 173. Atmospheric Chemistry</p>
+				<p class="course-list-overview">ENVR 102. Selected Topics in Environmental Studies (when taught from a natural sciences perspective)</p>
+				<p class="course-list-overview">ENVR 101. The Living Earth</p>
+				<p class="course-list-overview">ENVR 103. The Human Earth </p>
+				<p class="course-list-overview">ENVR 120. Science and Environmental Writing </p>
+				<p class="course-list-overview">MAE 118A. Energy: Nonnuclear Energy Technologies</p>
+				<p class="course-list-overview">PHYS 12. Energy and the Environment </p>
+				<p class="course-list-overview">SIO 10. The Earth</p>
+				<p class="course-list-overview">SIO 12. History of Earth and Evolution</p>
+				<p class="course-list-overview">SIO 15. Natural Disasters</p>
+				<p class="course-list-overview">SIO 16. Geology of National Parks</p>
+				<p class="course-list-overview">SIO 20. The Atmosphere</p>
+				<p class="course-list-overview">SIO 30. The Oceans</p>
+				<p class="course-list-overview">SIO 35. Water</p>
+				<p class="course-list-overview">SIO 110. Introduction to GIS and GPS for Scientists</p>
+				<p class="course-list-overview">SIO 132. Introduction to Marine Biology</p>
+				<p class="course-list-overview">SIO 134. Introduction to Biological Oceanography				</p>				<p class="course-list-overview">STPA 35. Society and the Sea </p>
+
+				<h5 class="program-overview-subhead-4">Group B—Social Sciences/Humanities </h5>
+				<p class="course-list-overview">ANAR 108. Archaeology of the UC San Diego Campus</p>
+				<p class="course-list-overview">ANAR 182. Origins of Agriculture and Sedentism</p>
+				<p class="course-list-overview">ANBI 132. Conservation and the Human Predicament (cross-listed with BIEB 176)</p>
+				<p class="course-list-overview">ANSC 160. Nature, Culture and Environmentalism Communication </p>
+				<p class="course-list-overview">COMM 171. Environmental Communication </p>
+				<p class="course-list-overview">ECON 131. Economics of the Environment</p>
+				<p class="course-list-overview">ECON 132. Energy Economics</p>
+				<p class="course-list-overview">ECON 145. Economics of Ocean Resources</p>
+				<p class="course-list-overview">ENVR 102. Selected Topics in Environmental Studies (when
+				  taught from a humanities/social sciences perspective)</p>
+                <p class="course-list-overview">ENVR 140. Wilderness and Human Values</p>
+                <p class="course-list-overview">ETHN 103. Environmental Racism				</p>
+                <p class="course-list-overview">HIUS 154. Western Environmental History</p>
+				<p class="course-list-overview">GPS 458. International Environmental Policy and Politics </p>
+				<p class="course-list-overview">GPS 459. Conflict Resolution of Environmental Issues </p>
+				<p class="course-list-overview">PHIL 148. Philosophy and the Environment</p>
+				<p class="course-list-overview">PHIL 164. Technology and Human Values</p>
+				<p class="course-list-overview">POLI 104E. Environmental Law and Policy</p>
+				<p class="course-list-overview">POLI 125A. Communities and the Environment</p>
+				<p class="course-list-overview">POLI 162. Environmental Policy</p>
+				<p class="course-list-overview">SOCI 149. Sociology of the Environment </p>
+				<p class="course-list-overview">USP 2. Urban World System</p>
+				<p class="course-list-overview">USP 124. Land Use Planning</p>
+				<p class="course-list-overview">USP 144. Environmental and Preventive Health Issues</p>
+				<p class="course-list-overview">USP 171. Sustainable Development </p>
+<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

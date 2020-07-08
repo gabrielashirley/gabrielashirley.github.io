@@ -1,0 +1,355 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Education Studies</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Education Studies</h1>
+<p class="sectionNav"><span class="courseFacLink">[ <a href="../curric/EDS-gr.html">graduate
+      program</a> | <a href="../courses/EDS.html">courses</a> | <a href="../faculty/EDS.html">faculty</a> ]</span></p>
+<p class="program-contact-info">Pepper Canyon Hall, Third Floor<br />
+  University Center<br />
+  <a href="http://eds.ucsd.edu" target="_blank">http://eds.ucsd.edu </a></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem -->
+  <p>Education Studies (EDS) at UC San Diego offers the Master of Education Degree/California Preliminary Multiple Subject Teaching Credential for elementary school teachers; the Master of Education Degree/California Preliminary Single Subject Teaching Credential in English, world language, mathematics, life sciences (biology), chemistry, earth and planetary science (geosciences), and physics for secondary school teachers; the Master of Arts in Teaching and Learning: Bilingual Education (ASL-English); the Master of Arts in Teaching and Learning with an emphasis in curriculum design (not currently accepting applications); the Joint Doctor of Education (JDP) with California State University, San Marcos, in Educational Leadership; the Doctor of Philosophy (PhD) in Education: Transforming Education in a Diverse Society; and three undergraduate minors in Education Studies. </p>
+<div>
+    <div> </div>
+  </div>
+  <p>A primary focus of the Education Studies Program is to provide equity of educational access for all students in public schools. This goal is actualized through the academic and field components of each of our programs. We require candidates to master the subject matter that they will teach and develop a repertoire of effective teaching practices that utilize their students’ cultural knowledge and language diversity as educational resources. </p>
+<p class="anchor-parent"><a class="anchor" id="ugrad"></a></p><h2 class="program-overview-subhead-1">Undergraduate Programs</h2>
+				<h3 class="program-overview-subhead-2">Minors in Education Studies </h3>
+				<p>The Education Studies Program offers three specific minor programs. These
+				  minors are designed for students considering K–12 teaching
+				  as a career; those interested in teaching at the college level;
+				  and students who are interested in becoming better, more reflective learners.
+				  The minor in Education Studies provides course work and field experience for students interested in elementary teaching, or for English, mathematics, science, engineering, or world language students who decide to pursue teaching during their junior or senior years. The Mathematics and Science Education minors explore
+				  teaching and learning practices specific to these disciplines along with
+				  the components of the knowledge base necessary to teach K–12 science and
+				  mathematics successfully. All courses for these minors must be taken for
+				  a letter grade except for EDS 39 and EDS 139. Depending on students&#8217; majors
+				  and career plans, they may select from the following minor options: </p>
+				<ul>
+					<li class="list-level-1">Minor in Education Studies </li>
+					<li class="list-level-1">Minor in Mathematics Education </li>
+					<li class="list-level-1">Minor in Science Education </li>
+				</ul>
+				<h5 class="program-overview-subhead-4">Minor in Education Studies</h5>
+				<p>Students must complete a minimum of one practicum course in Teaching and Learning (EDS 130, 131, 133, 135, 136, 137, 140, 141, 128AB, or 129ABC) and a minimum of one course from two of the remaining three categories of Learning Environments (EDS 110R, 111, 114, 115, 118, 119, 121A, 122, 124AR, or 124BR), Language and Culture (EDS 117 or 125), or School and Society (EDS 30, 31, 112, 113, 116, 125, or 126). All practicum courses, with the exception of EDS 135, require that students enroll concurrently in EDS 139.</p>
+<p>Students planning to apply for the UC San Diego graduate credential program
+				  must take specific courses in all four categories above (except
+				  for the minor in Mathematics Education, and the minor in Science
+				  Education). These two minors have their own specific courses,
+				  described below. Please contact EDS for specific minor courses
+				  that meet the prerequisite requirements for admission to the
+				  graduate credential program. The EDS minor requires a minimum
+				  of twelve units in EDS courses. A maximum of twelve units of
+				  practicum (EDS 139) may be applied to this minor (minimum total of
+				  twenty-eight quarter units). </p>
+				<h5 class="program-overview-subhead-4">Minor in Mathematics Education</h5>
+				<ul>
+					<li class="list-level-1">MATH 95. Introduction to Teaching Mathematics</li>
+					<li class="list-level-1">EDS 39. Practicum in Science and Mathematics Teaching/Learning</li>
+					<li class="list-level-1">EDS 117. Language, Culture, and Education</li>
+					<li class="list-level-1">MATH 121A. Foundations of Teaching and Learning Mathematics I</li>
+					<li class="list-level-1">MATH 121B. Foundations of Teaching and Learning Mathematics II</li>
+					<li class="list-level-1">EDS 129A. Introduction to Teaching and Learning</li>
+					<li class="list-level-1">EDS 139. Practicum in Teaching/Learning</li>
+					<li class="list-level-1">EDS 129B. Introduction to Teaching and Learning</li>
+					<li class="list-level-1">EDS 139. Practicum in Teaching/Learning</li>
+					<li class="list-level-1">EDS 129C. Introduction to Teaching and Learning</li>
+					<li class="list-level-1">EDS 139. Practicum in Teaching/Learning<br />(total of thirty-four quarter units) </li>
+				</ul>
+				<h5 class="program-overview-subhead-4">Minor in Science Education</h5>
+				<ul>
+					<li class="list-level-1">CHEM 96. Introduction to Teaching Science</li>
+					<li class="list-level-1">EDS 39. Practicum in Science and Mathematics Teaching/Learning</li>
+					<li class="list-level-1">EDS 117. Language, Culture, and Education</li>
+					<li class="list-level-1">CHEM 187. Teaching and Learning Science</li>
+					<li class="list-level-1">CHEM 188. Capstone Seminar in Science</li>
+					<li class="list-level-1">EDS 129A. Introduction to Teaching and Learning</li>
+					<li class="list-level-1">EDS 139. Practicum in Teaching/Learning</li>
+					<li class="list-level-1">EDS 129B. Introduction to Teaching and Learning</li>
+					<li class="list-level-1">EDS 139. Practicum in Teaching/Learning</li>
+					<li class="list-level-1">EDS 129C. Introduction to Teaching and Learning</li>
+					<li class="list-level-1">EDS 139. Practicum in Teaching/Learning<br />(total of thirty-four quarter units)</li>
+				</ul>
+				<p class="basic-offset-top-only"><strong>Students interested in pursuing
+				    a graduate teaching credential program at UC San Diego should contact EDS for
+				    the specific prerequisite requirements for admission to the UC San Diego graduate
+			    credential program. </strong></p>
+				<h3>Bachelor of Science in Education Sciences: Transforming Education through Research and Practice</h3>
+				<p>The bachelor of science in Education Sciences: Transforming Education through Research and Practice will provide you with opportunities to explore the complex social, psychological, economic, historical, political, and cultural issues that impact our lives. Our overarching mission is to provide the resources for students to combine interactive academic course work, hands-on service-learning experiences, and a deep understanding about the relationship between research and educational issues. Students will reflect deeply on underlying educational principles and gain the insight needed to become advocates for equity and social justice within our society. Students are guided to develop an understanding of research and theory within the realities of practice and to use practice to reevaluate both research and theory. </p>
+				<p>The BS in Education Sciences provides interdisciplinary opportunities for undergraduate students. Students are prepared for careers in the global knowledge economy, with opportunities to apply learning modalities and technologies in multicultural contexts. Students may choose from career opportunities such as public education, public health, higher education, educational policy, nonprofit organizations, and curriculum development. Many graduates will pursue advanced degrees leading to teacher credentialing or educational research. Students may also pursue careers in public education supporting students through counseling, school psychology, or student affairs.</p>
+				<p>Students who pursue course work in Education Sciences develop richly informed perspectives on the role of education in society. They go on to become leaders in a wide range of fields: discipline-based research in higher education such as linguistics, psychology, sociology, math education, science education, computer science education; general education including teaching, school leadership, and policy; community organization and development; clinical psychology, counseling, English as a second language, special education, social work; medicine; and law.</p>
+				<p>Graduates of the Education Sciences major are well positioned to become changemakers within their communities. The skills and knowledge gained through the program will serve them in promoting equitable practices and social equity through access to learning.</p>
+				<p>Graduates of the major would be prepared for a career in government agencies, nonprofit organizations, or educational settings as well as graduate studies. The major would be appropriate for students interested in leading discussions about schools and education, informing policy, optimizing e-learning, advocating for accessibility, and supporting the mission of institutions of learning. </p>
+				<p>Students in the major have the option of completing a specialization in <em>Elementary Educational Practices</em>; <em>Secondary Educational Practices</em>; and <em>Educational Research and Outreach</em>. With advanced planning, students in the major can complete a minor or second major in another discipline. Students who plan on applying to the graduate program to obtain a California Single Subject Teaching Credential must complete a second major in the content area of their planned teaching credential.</p>
+				<p>The BS in Education Sciences is not a professional degree. However, graduates are well prepared to pursue teacher training (see the UC San Diego Teacher Credential program). Students interested in teaching elementary or secondary grades will benefit from completing the major with an emphasis in early childhood learning and development, elementary mathematics education concentration, science education, mathematics education, or learning and development. Students interested in teaching middle or high school are encouraged to meet with a Student Affairs officer to combine the education major with a second major, aiming for proficiency in the subject they plan to teach. All students in the Education Sciences major are required to complete fieldwork hours in an educational setting. </p>
+				
+				  <h4>The Major </h4>
+				  <p>To receive a BS with a major in Education Sciences, students must meet the following requirements: one lower-division course (at least two units) and a total of eleven upper-division courses (at least fifty units), with a minimum of six courses within the Department of Education Studies.</p>
+				  <p>The lower-division requirement in Education Sciences is
+				  </p>
+
+
+                  <ul>
+                    <li><span dir="LTR"> </span>One course in explorations in education, human development, or social science research.</li>
+                  </ul>
+
+                <p>The upper-division requirements in Education Sciences are</p>
+                <ol>
+                  <li>Minimum of one (1) <strong>education in a diverse society</strong> course.</li>
+                  <li>Minimum of two (2) <strong>learning and development</strong> courses.</li>
+                  <li>Minimum of one (1) <strong>introduction to learning contexts</strong> course.</li>
+                  <li>Two (2) <strong>education research methods</strong> courses.</li>
+                  <li><strong>Capstone educational fieldwork</strong> sequence courses (2–3 courses, dependent upon selected pathway)</li>
+                  <li>Minimum of two (2) upper-division elective courses.</li>
+                </ol>
+                <h5>Lower-Division Introduction to Education Requirements </h5>
+                <p>Students completing the major must complete ONE lower-division introductory course as a prerequisite to completing upper-division courses for the major.</p>
+                <ul>
+                  <li><span dir="LTR"> </span>EDS 20S. Introduction to Principles of Learning (4) </li>
+                  <li><span dir="LTR"> </span>EDS 30/MATH 95. Introduction to Math Teaching (2) </li>
+                  <li><span dir="LTR"> </span>EDS 31/CHEM 96. Introduction to Teaching Science (2) </li>
+                  <li><span dir="LTR"> </span>EDS 38. Explorations in Education (2)</li>
+                  <li><span dir="LTR"> </span>EDS 39. Explorations in Secondary STEM Education (2)</li>
+                  <li><span dir="LTR"> </span>SOCI 60. The Practice of Social Research (4)</li>
+                  <li><span dir="LTR"> </span>HDP 1. Introduction to Human Development (4)</li>
+        </ul>
+        <h5>Upper-Division Course Requirements </h5><ol>
+          <li><strong>Education in a Diverse Society</strong><br>
+        Students will select ONE course<br>
+                <ul>
+                  <li><span dir="LTR"> </span>EDS 112. Urban Education in the United States (4)</li>
+                  <li><span dir="LTR"> </span>EDS 113. Chicanas/os and Latinos in Education: Policy, Practice, and Challenges to Equity (4)</li>
+                  <li><span dir="LTR"> </span>EDS 117/SOCI 117. Language, Culture, and Education (4)</li>
+                  <li><span dir="LTR"> </span>EDS 125. History, Politics, and Theory of Bilingual Education (4)</li>
+                  <li><span dir="LTR"> </span>EDS 126. Social Organization of Education (4)</li>
+                  <li><span dir="LTR"> </span>SOCI 152. Social Inequality and Public Policy (4)</li>
+		</ul></li>
+          <li><strong>Learning and Development</strong><br>
+          Students will select TWO courses<br>
+          <ul>
+            <li><span dir="LTR"> </span>EDS 114. Cognitive Development and Interactive Computing Environments (4)</li>
+            <li><span dir="LTR"> </span>EDS 115. Cognitive Development and Education (4)</li>
+            <li><span dir="LTR"> </span>EDS 118. Adolescent Development and Education (4)</li>
+            <li><span dir="LTR"> </span>EDS/LIGN 119. First and Second Language Learning: From Childhood through Adolescence (4)</li>
+            <li><span dir="LTR"> </span>HDP 120. Language Development (4)</li>
+            <li><span dir="LTR"> </span>HDP 122. Social Development (4)</li>
+            <li>HDP 133. Sociocultural Foundations of Human Development (4)</li>
+	</ul></li>
+          <li><strong>Introduction to Learning Contexts</strong><br>
+      Students will select at least ONE course. <em>EDS 139 (Practicum in Teaching Learning–2 units) is a corequisite course required for all introduction to learning contexts courses with the exception of EDS 135.</em><br>
+      <ul>
+        <li><span dir="LTR"> </span>EDS 130. Introduction to Academic Mentoring of Elementary/School Students (4)</li>
+        <li><span dir="LTR"> </span>EDS 131. Early Childhood Development and Education (4)</li>
+        <li><span dir="LTR"> </span>EDS 133. Counseling and Advising (4)</li>
+        <li><span dir="LTR"> </span>EDS 135. Newcomers in San Diego (6)</li>
+        <li><span dir="LTR"> </span>EDS 136. Introduction to Academic Tutoring of Secondary School Students (4)</li>
+        <li><span dir="LTR"> </span>EDS 137. Introduction to Discipline-Specific Teaching and Learning (4)</li>
+	</ul></li>
+                <li><strong>Educational Research</strong><br>
+                  <p>Students must complete TWO courses in research methodology. One course must address qualitative research methods and one course must address quantitative research methods.<br>
+  <p><em>Qualitative Research Courses</em></p>
+                <ul>
+                  <li><span dir="LTR"> </span>EDS 102A. Introduction to Qualitative Methods in Education Research (4)<br>
+                  <em>*or equivalent course with department approval</em></li>
+             
+                  <li><span dir="LTR"> </span>SOCI 110. Qualitative Research in Educational Settings (4) </li>
+                </ul>
+					<p><em>Quantitative Research Courses</em></p>
+                <ul>
+                  <li><span dir="LTR"> </span>EDS 102B. Introduction to Quantitative Analysis in Education Research (4)<br>
+                  <em>*or equivalent course with department approval</em></li>
+             
+                  <li><span dir="LTR"> </span>SOCI 109. Analysis of Sociological Data (4) </li>
+                </ul>
+          </li>
+                                              
+                <li><strong>Senior Educational Fieldwork Capstone Sequence</strong><br>
+                  <p>Students will select one fieldwork pathway and complete the course sequence of the pathway. <em>EDS 139 (Practicum in Teaching Learning–2 units) is a corequisite course required for ALL educational fieldwork courses.</em></p>
+ <p><strong>Pathway 1. Educational Action Research Fieldwork</strong></p>
+                <p><ul>
+                  <li><span dir="LTR"> </span>EDS 140. Introduction to Action Research in PK–12 Education (4)</li>
+                  <li><span dir="LTR"> </span>EDS 141. Action Research in PK–12 Education: Advanced Practicum in Pre-K–12 Schools and Communities (4)</li>
+					</ul></p>
+                <p><strong>Pathway 2. Elementary School (P-6) Teaching Fieldwork</strong></p>
+                <p><ul>
+                  <li><span dir="LTR"> </span>EDS 128A. Introduction to Teaching and Learning (Elementary) (4)</li>
+                  <li><span dir="LTR"> </span>EDS 128B. Introduction to Teaching and Learning (Elementary) (4)</li>
+		</ul></p>
+                <p>Undergraduate majors who complete Pathway 2 will have fulfilled the course requirements to enter the graduate Teacher Education Program in Multiple Subjects Teaching.</p>
+                  <p><strong>Pathway 3. Secondary School (6-12) Teaching Fieldwork</strong></p>
+                <p><ul>
+                  <li><span dir="LTR"> </span>EDS 129A. Introduction to Teaching and Learning (Secondary) (4)</li>
+                  <li><span dir="LTR"> </span>EDS 129B. Introduction to Teaching and Learning (Secondary) (4)</li>
+                  <li><span dir="LTR"> </span>EDS 129C. Introduction to Teaching and Learning (Secondary) (4)</li>
+	</ul></p>
+                <p>Undergraduate majors who complete Pathway 3 will have fulfilled the course requirements to enter the graduate Teacher Education Program in Single Subjects Teaching, with the exception of their content knowledge requirement. This requirement can be satisfied by successfully passing the California Subject Examinations for Teachers (CSET) or the Education Studies&rsquo; Subject Matter Preparation Program (SMPP).<br>
+</li>
+                <li><strong>Upper-Division Focus Area Elective Courses</strong><br>
+                  <p>Students will complete at least TWO upper-division elective courses.</p>
+                  <p>Students are encouraged to pick an area of focus and may choose from the upper-division electives listed below. Students may also define their own area of focus, selecting from courses offered by EDS and other related departments with department approval. EDS 199, Independent Study, taken for Pass/No Pass may count for ONE EDS upper-division elective course. Electives courses may be from more than one focus area.</p>
+  <p><strong>P-12 Education</strong></p>
+                <p><ul>
+                  <li><span dir="LTR"> </span>EDS 111. Child, Family, and Community Partnerships with Schools (4)</li>
+                  <li><span dir="LTR"> </span>EDS/MATH 121A. Foundations of Teaching and Learning Math (4)</li>
+                  <li><span dir="LTR"> </span>EDS/MATH 121B. Foundations of Teaching and Learning Math (4)</li>
+                  <li><span dir="LTR"> </span>EDS 122/CHEM 187. Teaching and Learning Science (4)</li>
+                  <li><span dir="LTR"> </span>EDS 123/CHEM 188. Teaching and Learning Science (4)</li>
+                  <li><span dir="LTR"> </span>EDS 124A. Teaching Computation in the Digital World (4)</li>
+                  <li><span dir="LTR"> </span>EDS 124BR. Teaching Computational Thinking for Everyone (4)</li>
+                </ul></p>
+                <p><strong>Education Policy</strong></p>
+                <p><ul>
+                  <li><span dir="LTR"> </span>ECON 147. Economics of Education (4)</li>
+                  <li><span dir="LTR"> </span>USP 104. Ethnic Diversity and the City (4)</li>
+                  <li><span dir="LTR"> </span>USP 116. California Local Government: Finance and Administration (4)</li>
+                  <li><span dir="LTR"> </span>SOCI 127. Immigration, Race, and Ethnicity (4)</li>
+                  <li><span dir="LTR"> </span>SOCI 139. Social Inequality: Class, Race, and Gender (4)</li>
+		</ul></p>
+                <p><strong>Research in Education</strong></p>
+                <p><ul>
+                  <li><span dir="LTR"> </span>EDS 120. Introduction to Design-Based Research in Education (4)</li>
+                  <li><span dir="LTR"> </span>ETHN 100A. Ethnic Studies: Theoretical Approaches (4)</li>
+                  <li><span dir="LTR"> </span>ETHN 100B. Interdisciplinary Methodologies (4)</li>
+                  <li><span dir="LTR"> </span>SOCI 102. Network Data and Methods (4) </li>
+                  <li><span dir="LTR"> </span>SOCI 108. Survey Research Design (4) </li>
+                  <li><span dir="LTR"> </span>SOCI 122. Social Networks (4)</li>
+                  <li><span dir="LTR"> </span>USP 125. The Design of Social Research (4)</li>
+	</ul></p>
+                <p><strong>Diverse Learning Settings</strong></p>
+                <p><ul>
+                  <li><span dir="LTR"> </span>EDS 116. Equity Minded Education (4)</li>
+                  <li><span dir="LTR"> </span><span dir="LTR"> </span>ETHN 144. Bilingual Communities in the USA (4)</li>
+                  <li>COMM 168. Bilingual Communication (4)</li>
+                  <li><span dir="LTR"> </span>COMM 169. Deaf Culture in the U.S. (4)</li>
+	</ul></p>
+                <p><strong>Senior Seminar</strong></p>
+                <p><ul>
+                  <li><span dir="LTR"> </span>EDS 180. Topics in Education Studies (4)</li>
+</ul></p></li></ol>
+                <p>To satisfy the requirements for the major, lower- and upper-division courses must be completed with a P, C–, or better grade.</p>
+        <p>Except for independent study course electives (EDS 197, 198, or 199) which are always taken with a Pass/No Pass grade option, students majoring in transformational education through research and practice may take up to two courses, either lower or upper division, with a Pass/No Pass option.		</p>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

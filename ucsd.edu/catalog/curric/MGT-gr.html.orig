@@ -1,0 +1,394 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Management, Rady School of</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Management, Rady School of</h1>
+<p class="sectionNav"><span class="courseFacLink">[ <a href="MGT-ug.html">undergraduate program</a> | <a href="../courses/MGT.html">courses</a> | <a href="../faculty/MGT.html">faculty</a> ]</span></p>
+<p><a href="http://rady.ucsd.edu" target="_blank" class="program-contact-info">http://rady.ucsd.edu</a> </p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h2>The Graduate Program</h2>
+<p>The Rady School of Management at UC San Diego offers graduate instruction leading to master&rsquo;s degrees in business administration and finance as well as a doctorate<strong>&nbsp;</strong>in management.</p>
+<p>Students interested in pursuing any of the degree programs at UC San Diego&rsquo;s Rady School of Management (RSM) must have earned a bachelor&rsquo;s degree or its equivalent, with training comparable to that provided by the University of California. A minimum scholastic average of 3.0 or better is required for course work completed in upper division or prior graduate study. Applicants must provide official transcripts from all colleges and universities attended. Specific information about admission requirements for each program can be found below.</p>
+<h3 class="program-overview-subhead-1">The Master of Business Administration (MBA) </h3>
+				<h4 class="program-overview-subhead-2">Requirements for Admission </h4>
+				<p>No specific undergraduate major or course work is required for admission, though preparation in quantitative methods (such as calculus and statistics) is strongly encouraged for the MBA program. Prior business course work is not necessary. Students who do not have adequate quantitative preparation at the time of admission will need to complete preparatory course work before matriculation. </p>
+				<p>Applicants must submit two letters of recommendation from individuals who can attest to their professional and leadership skills and to their potential for business leadership. </p>
+				<p>Applicants are required to submit Graduate Management Admission Test (GMAT) scores (verbal, quantitative, and analytical writing) or Graduate Record Examination (GRE) scores. The GMAT or GRE may be waived, based on review of credentials, for applicants with a PhD in a technical, scientific, or quantitatively based discipline. The GMAT or GRE may also be waived for applicants to the FlexMBA for working professionals who have completed a master&rsquo;s degree in a technical discipline and have eight or more years of professional work experience. Applicants requesting a GMAT or GRE waiver should contact MBA Admissions directly for a review of credentials. A minimum score of 550 on the paper/pencil version and a minimum score of 213 on the computer-based version of the Test of English as a Foreign Language (TOEFL) is required of all international applicants whose native language is not English and whose undergraduate education was conducted in a language other than English. Students who score below 600 on the paper/pencil or 250 on the computer-based TOEFL examination are strongly encouraged to enroll in an English-as-a-second-language program before beginning graduate work. The International English Language Testing System (IELTS) is also accepted with a minimum score of seven. The admissions committee assesses professional and organizational experience in terms of scope or level of responsibility, evidence of contribution or success, and evidence of career progression or of growth in responsibility. The Full-Time MBA does not require professional work experience; however, the school believes that some prior experience in organizations and teams is critical to effective learning in the MBA program. Most students in the Full-Time MBA class will have some postundergraduate professional experience. FlexWeekend and FlexEvening MBA students are working professionals; no specific number of years of work experience is required.</p>
+<p>Interviews are required for admission to the MBA program. Interviews are by invitation after review of the completed application. </p>
+				<p>The Full-Time MBA is a two-year, full-time program. The FlexWeekend MBA is twenty-four months, including two summers, and is scheduled on alternate weekends to accommodate the needs of working professionals. The FlexEvening MBA is thirty months, including summers, and is scheduled two nights per week to accommodate the needs of working professionals. The FlexEvening MBA program provides an option for partial program completion through distance education at an offsite location.</p>
+				<p>The school&rsquo;s MBA application is available online at the school&rsquo;s website. </p>
+        <h4 class="program-overview-subhead-2">The MBA Curriculum <br />
+        </h4>
+				<p>The MBA curriculum (ninety-two units) is made up of a set of core disciplinary and skill-oriented courses with an emphasis on industry sectors, unstructured electives, and the professional seminar. The basic curriculum is the same for the Full-Time and Flex MBA students. </p>
+        <h4>Required Courses</h4>
+                <p>The core curriculum provides a comprehensive education in the fundamentals of business and management and lays a strong foundation for further study. Core courses consist of the following:</p>
+                <ul>
+                  <li>MGT 403. Quantitative Analysis</li>
+                  <li>MGT 404. Accounting</li>
+                  <li>MGT 405. Managerial Economics</li>
+                  <li>MGT 406. Leadership, Values, and Team Management</li>
+                  <li>MGT 407. Marketing</li>
+                  <li>MGT 408. Finance</li>
+                  <li>MGT 409. Organizational Strategy</li>
+                  <li>MGT 410. Strategy</li>
+                  <li>MGT 412. Lab to Market</li>
+                  <li>MGT 413. Operations, Information Systems, and Data Analysis</li>
+                  <li>MGT 414A. Lab to Market Workshop I</li>
+                  <li>MGT 414B. Lab to Market Workshop II</li>
+                </ul>
+                <h4>Elective Courses</h4>
+        <p>Students may choose from electives in the full range of business and management disciplines, including accounting, finance, management, marketing, operations and information technology, and strategy. Courses approved for elective credit include MGT courses ranging from MGT 415 through MGT 499, excluding MGT 497. MGT 402 is a required course that applies toward a student&rsquo;s elective requirement. Certain MGTF courses have been preapproved by management faculty for MBA elective credit. Students must consult with the MBA graduate adviser for a list of program-approved courses available for elective credit in a given term. With approval, students may apply up to twelve graduate course units taken elsewhere at UC San Diego toward the MBA elective requirements. </p>
+                
+        <h5>Industry Sector Emphasis</h5>
+				<p>The Rady School&#8217;s MBA is designed to allow students to develop depth in industry sectors of particular interest. Selection of an industry is not required. The program combines a solid core, an integrative course sequence focused on innovation, a strong elective curriculum, a commitment to leadership development, and an emphasis on cutting-edge industry sectors.				</p>
+				<h5>Internships</h5>
+				<p>Full-Time MBA students are strongly encouraged to participate in internships during the summer between the two years of the academic program. Part-time internships are also available during the academic year. Internships are coordinated through MBA Career Connections, the Rady School&#8217;s career center.</p>
+				<h5>Executive Mentor Program</h5>
+				<p>The Rady School&#8217;s Executive Mentor program matches small groups of MBA students with senior business executives. Mentors work directly with their groups, offering perspective, guidance, and expertise based on their deep experience in business. Mentors help guide MBA students as they map out areas for personal and professional development, gain understanding of career progression and the skills and abilities required for successful leadership, and seek feedback about opportunities and areas of concern. </p>
+        <h3>The Master of Finance</h3>
+				<h4>Requirements for Admission </h4>
+				<p>While no specific undergraduate major is required for admission, it is expected that most successful applicants will have an undergraduate degree in a quantitative discipline such as mathematics, economics, statistics, physics, engineering, and computer science. Students with a nonquantitative undergraduate degree will be considered on an exceptional basis if they have five years of work history in a quantitative field.</p>
+				<p>Additional admission requirements include</p>
+                <ul>
+                  <li>Postuniversity work experience or research experience in a quantitative discipline is recommended, but not required.</li>
+                  <li>Prior exposure in computational programming (for example, C++) and familiarity with computers as a computational and risk management tool</li>
+                  <li>Experience with statistical and econometric applications (for example, SAS, STATA, Matlab, R, S-Plus)</li>
+                  <li>A strong quantitative background including course work in subjects such as linear algebra, multivariate calculus, differential equations, numerical analysis, and advanced statistics and probability.</li>
+                  <li>Experience with mathematical tools (for example, Matlab or Mathematica)</li>
+                  <li>Official</li>
+                  <ul>
+                    <li>Graduate Management Admission Test (GMAT) exam scores, or</li>
+                    <li>Graduate Records Exam (GRE)</li>
+                  </ul> <li>Official Test of English as a Foreign Language (TOEFL, IELTS, or PTE) exam scores are required of applicants whose primary language is not English or who graduate from a university at which the language of instruction was not English.</li>
+                  <li>Official transcripts from all colleges and universities attended</li>
+                  <li>Two letters of recommendation</li>
+                  <li>Résumé</li>
+                  <li>Essay</li>
+                  <li>Personal interview</li>
+        </ul>
+                <h4>The Master of Finance Curriculum</h4>
+                <p>The master of finance is a fifty-two unit, STEM-designated degree program. The curriculum consists of four core courses (sixteen units), a capstone (four units), and elective courses (thirty-two units). The capstone project, completed during the last quarter of the program and in conjunction with the required capstone course, is an applied quantitative finance project that incorporates the skills and knowledge taught in the program. </p>
+<h5>Required Courses </h5>
+                <p>The master of finance core courses are designed to provide a comprehensive foundation in empirical finance, quantitative methods, financial econometrics, data analysis, and risk management. Master&rsquo;s of finance students are required to complete the following core courses:</p>
+<ul>
+    <li>MGTF 401. Financial Accounting</li>
+    <li>MGTF 402. Investment Analysis</li>
+    <li>MGTF 403. Advanced Financial Risk Management</li>
+    <li>MGTF 404. Financial Econometrics and Empirical Methods</li>
+    <li>MGTF 490. Capstone: Applied Finance Project</li>
+    </ul>
+                <h5>Elective Courses</h5>
+        <p>In addition to the core and capstone courses, master&rsquo;s of finance students must complete thirty-two elective units. With approval from the program director, a student may take up to four units of electives in another UC San Diego department. MGTF courses outside the core courses (ranging from MGTF 405 through MGTF 499, excluding MGTF 497) may be used in satisfaction of program degree requirements. Additionally, with approval from the master of finance program director, students may apply up to eight MGT units in satisfaction of elective requirements. Students must speak with their graduate adviser for a list of MGT courses available in any given term.</p>
+<h3>The Master of Science in Business Analytics</h3>
+        <h4>Requirements for Admission</h4>
+        <p>It is expected that most successful applicants will have either (1) an undergraduate degree in a quantitative discipline such as mathematics, economics, statistics, physics, engineering, or computer science, or (2) an undergraduate degree in some other discipline plus five or more years of work experience in the public or private sector. Students with a nonquantitative undergraduate degree and less than five years of work experience will be considered on an exceptional basis if (1) they have work experience in the area of business analytics or marketing research or (2) they have developed a strong quantitative background through additional course work or relevant work experience.</p>
+                <p>Given the concentrated twelve-month curriculum, the program will only admit students who have a solid foundation in quantitative methods. Successful applicants will have completed college course work in calculus and in either probability or statistics. Additionally, each student must demonstrate evidence of programming proficiency from prior college course work, professional experience, or a certificate from a continuing education program (e.g., a Coursera course on R-programming). While there will always be heterogeneity in backgrounds across students, the overall pool of successful applicants will be able to cope with the demands of the program.</p>
+                <p>Additional admission requirements are based on the following criteria:</p>
+                <ul type="disc">
+                  <li>Either official Graduate Management Admission      Test (GMAT) or official Graduate Records Exam (GRE) scores</li>
+                  <li>Official Test of English as a Foreign Language      (TOEFL, IELTS, or PTE) exam scores are required for applicants whose      primary language is not English or who graduate from a university at which      the language of instruction is not English</li>
+                  <li>Official transcripts from all colleges and      universities attended</li>
+                  <li>Two letters of recommendation</li>
+                  <li>Résumé</li>
+                  <li>Essay</li>
+                  <li>At the discretion of the admissions committee, a      personal interview may be required.</li>
+        </ul>
+        <p>The MSBA requires successful completion of fifty units of credit, which includes a passing grade for the MSBA 454, Project Capstone course, and a master&rsquo;s level pass for the individual comprehensive oral exam.</p>
+        <p>The MSBA is directed at motivated students with strong quantitative backgrounds. The proposed MSBA program is structured so that it can be completed in twelve months as a full-time degree program or, to accommodate working professionals, may be extended over a longer period. Regardless of the speed of program completion, the capstone project course must be completed during the final quarter. The individual comprehensive exam takes place at the completion of MSBA 454.<strong></strong></p>
+                <p>While not required, students may do an internship during the summer. Students without work experience in a business analytics related position will be strongly encouraged to do an internship with placement assistance from Rady School&rsquo;s Career Connections Office.</p>
+                <h4>The MSBA Curriculum</h4>
+                <p>The MSBA is a fifty-unit, STEM-designated program.  The curriculum consists of four four-unit core courses, two one-unit core courses, and thirty-two units from a set of elective courses. Each student must successfully pass a comprehensive examination. This examination includes (1) a formal presentation of the capstone project, (2) a project report, and (3) an individual oral examination. The capstone project will require students to solve a business problem for a real-world client and document their work in a project report.</p>
+                <h5><strong>Core Courses:</strong></h5>
+        <ul type="disc">
+                  <li>MGTA 401. Professional Seminar (1); students are      required to participate in the seminar in two separate quarters for a      total of two units</li>
+                  <li>MGTA 451. Business Analytics in Marketing,      Finance, and Operations (4)</li>
+                  <li>MGTA 452. Collecting and Analyzing Large Data (4)</li>
+                  <li>MGTA 453. Business Analytics (4)</li>
+                  <li>MGTA 454. Business Analytics Capstone Project</li>
+                </ul>
+        <h5>Elective Courses:</h5>
+                <p>In addition to the core courses (fourteen units) and the capstone project (four units), students are required to successfully complete thirty-two units from a set list of elective courses.</p>
+                <h6>List A Electives </h6>
+                <p>Students must take a minimum of twenty units from List A electives. List A electives include MGTA courses ranging from MGTA 455 through MGTA 499, excluding MGTA 497. These courses are intended to expand a student&rsquo;s ability to use data and analytics to identify business opportunities, generate business insights, and create business solutions.</p>
+                <h6>List B Electives</h6>
+                <p>Students may apply up to twelve units of List B electives toward program degree requirements. List B electives allow students to expand their industry knowledge by taking courses alongside MBA and master&rsquo;s of finance students. List B electives include MGT and MGTF courses preapproved by the MSBA faculty for MSBA elective credit. Please contact the MSBA graduate adviser for a list of available courses. </p>
+                
+<h5>Professional Seminar </h5>
+                <p>MGTA 401, Professional Seminar, is a required one-unit course that students take in two separate quarters for a total of two units. In the seminars, domain experts and business leaders present novel analytics research, discuss legal, privacy, and ethical issues, and provide professional skills development. Topics may vary by term.</p>
+                <h3>The Master of Professional Accountancy (MPAc)</h3>
+                <h4>Requirements for Admission</h4>
+                <p>Because the MPAc does not cover foundational accounting skills, the program will only admit students who have a solid accounting foundation. It is expected that most successful applicants will have either (1) completed the accounting minor at UC San Diego, (2) completed an undergraduate major in accounting, or (3) completed an undergraduate degree in some other discipline and successfully completed eleven semester (16 quarter) units in accounting. Of those sixteen units, applicants must have completed the following accounting courses (UC San Diego course numbers listed for reference), or their equivalents, at another institution:</p>
+        <ul>
+                  <li>Managerial Accounting (MGT 5)</li>
+                  <li>Financial Accounting (ECON/MGT 4)</li>
+                  <li>Intermediate Accounting I (MGT 131A)</li>
+                  <li>Intermediate Accounting II (MGT 131B)</li>
+        </ul>
+        <p>Additional course work in accounting is not required for admission though it may strengthen a candidate&rsquo;s application. Students with a nonaccounting undergraduate degree and less than eleven semester (16 quarter) units in accounting will be considered on an exceptional basis if (1) they have three years&rsquo; work experience in the accounting area or (2) they have developed a strong accounting background through additional course work or relevant work experience. Students with insufficient prior accounting course work may, at the program director&rsquo;s discretion, be required to complete additional course work before matriculation. They will be given the opportunity to complete undergraduate courses offered at Rady during summer session prior to beginning the program in the fall. Additional admission requirements are based on the following criteria:</p>
+        <ul type="disc">
+                  <li>Either      official Graduate Management Admission Test (GMAT) or official Graduate      Records Exam (GRE) scores.</li>
+                  <li>Official      Test of English as a Foreign Language (TOEFL, IELTS, or PTE) exam scores      are required for applicants whose primary language is not English or who      graduate from a university at which the language of instruction was not      English.</li>
+                  <li>Official      transcripts from all colleges and universities attended.</li>
+                  <li>Two      letters of recommendation.</li>
+                  <li>Resume.</li>
+                  <li>Essay.</li>
+                  <li>At the      discretion of the admissions committee, a personal interview may be      required.</li>
+                </ul>
+                <p>The GMAT or GRE may be waived for US domestic applicants with undergraduate GPAs of 3.2 or above.</p>
+        <p>The test of English as a Foreign Language (TOEFL) is required of all international applicants whose native language is not English and whose undergraduate education was conducted in a language other than English. The university-wide minimum TOEFL score required for consideration for graduate admission is 550 for the paper-based test (PBT), and 85 for the internet-based test (iBT). The International English Language Testing System (IELTS) is also accepted with a minimum score of seven. The admissions committee assesses professional and organizational experience in terms of scope or level of responsibility, evidence of contribution or success, and evidence of career progression or of growth in responsibility.</p>
+                <h4>The MPAc Curriculum (fifty units)</h4>
+                <p>The MPAc program requires successful completion of fifty units of credit, which includes a passing grade for the capstone course, MGTP 444, Issues in Financial Reporting for Global Business: Mergers, Acquisitions, and Complex Financial Structures.</p>
+                <h5>Core Courses:</h5>
+                <ul type="disc">
+                  <li>MGTP 414. Business Law or MGT 417.* Current Business      Law Issues (4)</li>
+                  <li>MGTP 416. Ethics in Accounting and Business (4)</li>
+                  <li>MGTP 421. Internal Control over Financial Reporting      (4)</li>
+                  <li>MGTP 424. Professional Research and Communication for      Accountants (4)</li>
+                  <li>MGTP 432. Advanced Auditing and Forensic Accounting      (4)</li>
+                  <li>MGTP 434. Financial Statement Analysis or MGTF 412.*      Financial Statement Analysis (4)</li>
+                  <li>MGTP 444. Issues in Financial Reporting for Global      Business: Mergers, Acquisitions, and Complex Financial Structures (4)</li>
+        </ul>
+                <h4>Elective Courses:</h4>
+                <p>In addition to the core courses and the capstone project, students are required to successfully complete twenty units from elective courses. Elective courses with the prefix &ldquo;MGT&rdquo; are existing Rady courses designed for our MBA program but whose content is also appropriate for the MPAc program.</p>
+                <h5>List A</h5>
+                <p>Students must take at least one of the following courses as an elective:</p>
+                <ul type="disc">
+                  <li>MGT 421. CEO, the Board of Directors, and Corporate      Governance (4)</li>
+                  <li>MGTP 433. Current Issues in the Practice and      Regulation of Auditing (4)</li>
+                  <li>MGT 439.* Topics in Organizational Behavior (2 or 4) </li>
+                  <li>MGT 429.* Topics in Corporate Governance (2 or 4) </li>
+        </ul>
+               
+                <h5>List B </h5>
+                <p>Students may select from the following courses for their remaining electives:</p>
+        <ul>
+                  <li>MGTP 422. Systems, Processes, and Technology for Accounting (4)</li>
+                  <li>MGTP 429. Advanced Topics in Accounting and Auditing (4)</li>
+                  <li>MGTP 431. Not-for-Profit and Government Accounting (4)</li>
+                  <li>MGTP 441. Corporate Valuation and Forecasting (4)</li>
+                  <li>MGTP 443. Global Taxation and Business Strategy (4)</li>
+                  <li>MGT 419. Global Business Immersion (2)</li>
+                  <li>MGT 420. Negotiation (4)</li>
+                  <li>MGT 422. Creativity and Innovation (4)</li>
+                  <li>MGT 426. Creating a High-Performing Workplace (2)</li>
+                  <li>MGT 427. Decision Analysis (4)</li>
+                  <li>MGT 430. Biotechnology Industry, Structure, and Strategy (4) </li>
+                  <li>MGT 442.* Topics in Decision Sciences (2–4)</li>
+                  <li>MGT 443.* Topics in International Business (2–4)</li>
+                  <li>MGT 450. Project Management (4)</li>
+                  <li>MGT 451. Technology and Innovation Strategy (4)</li>
+                  <li>MGT 454. Disruptive Technologies for Health Care (4)</li>
+                  <li>MGT 459.* Topics in Innovation (2–4)</li>
+                  <li>MGT 492. Financial Risk Management (4) </li>
+                  <li>MGT 495.* Topics in Finance (2–4)</li>
+        </ul>
+        <p>* Note that these are &ldquo;Topics in…&rdquo; courses. Only the specific topics will be allowed.</p>
+                <h5>Professional Seminar</h5>
+                <p>The professional seminar (MGTP 401) is a required one-unit course that students take during two separate quarters for a total of two units. The seminar brings business leaders and experts to campus to speak to students and provides workshops focused on professional and leadership development and on personal and career effectiveness.</p>
+        <h3 class="program-overview-subhead-1">The PhD in Management</h3>
+				<p>The Rady School offers a PhD in management designed to prepare graduates for careers in academic research. Only students who intend to pursue a doctorate should apply; the department does not enroll students who seek a master&#8217;s degree as a terminal degree.</p>
+				<h4>Requirements for Admission</h4>
+				<p>Students with undergraduate preparation in various areas of the social and physical sciences may apply to the program. Students who elect to specialize in Economics and Strategy, Finance, Quantitative Marketing, and Innovation, Technology, and Operations are required to have additional mathematical knowledge, such as advanced calculus and statistics. </p>
+				<p>To be considered for admission candidates must </p>
+				<ul>
+					<li class="list-level-1">Hold an undergraduate degree from an accredited college or university.</li>
+					<li class="list-level-1">Complete the UC San Diego Application for Admission with application fee.</li>
+					<li class="list-level-1">Submit test scores from the Graduate Management Admissions Test (GMAT) or Graduate Record Examination (GRE) taken within five years of the date of application. Official Test of English as a Foreign Language (TOEFL, IELTS, or PTE)  exam scores are required of applicants whose primary language is not English or who graduate from a university at which the language of instruction was not English.</li>
+				    <li>Submit      two copies of official transcripts from all colleges and universities      attended. Unofficial transcripts may be used for application purposes.</li>
+                      <li>Submit      three letters of recommendations that speak to the candidate&rsquo;s potential      as a researcher. </li>
+                      <li>Submit      a statement of purpose. This statement should include the applicant&rsquo;s      research areas and faculty of interest, relevant research experience and      publications, and career goals after obtaining a PhD.</li>
+                      <li>Submit      a current résumé/CV. </li>
+				
+                </ul>
+				<p><b>Note:</b> At the discretion of the Admissions Committee, personal
+  interviews may be required.</p>
+				<h4>Departmental PhD Time Limit Policies </h4>
+        <p>Normative time (defined as that period of time in which students under normal circumstances are expected to complete their doctoral program) is four to five years, based on the student&rsquo;s background and progress. The maximum length of time that a student may remain a precandidate for the doctoral degree is three years, but students are expected to finish their required course work and advance to candidacy by the end of their second year. Students unable to advance by the end of their second year will be evaluated individually and may be required to submit additional documentation regarding their progress and/or cover any nonresident supplemental tuition charges for a third year (if applicable). Departmental financial support will be offered for a maximum of five years and the total university support cannot exceed six years. Total registered time at UC San Diego cannot exceed seven years. Students will not be permitted to continue beyond the precandidacy and total registered time limits. Students will not be permitted to receive UC San Diego administered financial support beyond the support limit. </p>
+        <p>Doctoral students must be in residence a total of six quarters, three of which must be spent in continuous residence at the Rady School on the UC San Diego campus. A minimum of three quarters of residency must pass between the date of formal advancement to candidacy and the date of the final examination.</p>
+                <p>Eligible nonresident students who have failed to establish California residency after their first year will be responsible for their own nonresident supplemental tuition.</p>
+                <p>A detailed description of the doctoral program is available on the internet at <a href="http://rady.ucsd.edu/phd/" target="_blank">http://rady.ucsd.edu/phd/ </a>or by contacting the doctoral program coordinator at <a href="mailto:radyphd@ucsd.edu">radyphd@ucsd.edu</a>. Residence and other campuswide regulations are described in the graduate studies section of this catalog. </p>
+                <h4>The PhD Curriculum</h4>
+                <p>Program instruction includes formal core, breadth, and domain/methodology course work, directed study in close consultation with faculty in preparation for a research career, and individual research required for the student&#8217;s dissertation. </p>
+				<p>The main PhD requirements are that a student completes the core and
+				  elective course work, qualifying examinations, original research
+				  papers and presentations, a dissertation acceptable to the doctoral committee,
+				  and a final oral examination on the dissertation. </p>
+        <h5>Core and Breadth Courses: </h5>
+				<p>The core curriculum consists of a mathematics review and two course sequences designed to ensure that students are educated in the fundamentals of economic and social sciences. Individual students may be required to take additional courses depending upon educational background. The breadth courses consist of a three-course sequence designed to ensure doctoral students acquire a deep domain knowledge and methodological skills. Any changes to these required core/breadth courses will need to be formally submitted by the student and approved by the faculty adviser and the doctoral program director. The required core and breadth courses consist of the following:</p>
+				<p><strong>Behavioral students (Marketing and Management):</strong></p>
+                <ul>
+                  <li><span dir="LTR"> </span>POLI 270. Mathematics and Statistical Foundations</li>
+                  <li><span dir="LTR"> </span>ECON 100 A-B. Microeconomics</li>
+                  <li><span dir="LTR"> </span>PSYC 201 A-B. Quantitative Methods in Psychology</li>
+      
+                  <li><span dir="LTR"> </span>MGT 208 A-C. Introduction to Management Research</li>
+        </ul>
+                <p><strong>Quantitative students (Finance, Economics and Strategy, Quantitative Marketing, and Innovation, Technology and Operations):</strong></p>
+        <ul>
+                  <li><span dir="LTR"> </span>ECON 205. Mathematics for Economists<strong></strong></li>
+                  <li><span dir="LTR"> </span>ECON 200 A-C. Microeconomics </li>
+                  <li><span dir="LTR"> </span>ECON 220 A-C. Econometrics</li>
+           
+                  <li><span dir="LTR"> </span>MGT 208 A-C. Introduction to Management Research</li>
+                </ul>
+                <h5>Domain/Methodology Courses:</h5>
+                <p>The domain/methodology course requirement helps the student acquire the deep domain knowledge and methodological skills required to conduct research in his or her areas of interest. Students are required to complete a minimum of six domain/methodology courses prior to advancement, or the end of the second year based on normative time. Students will work directly with their faculty advisers on course selections that best match their areas of research interest and their development as research scholars. Nonadvanced students will be required to submit an approved plan of study annually to the doctoral coordinator, with changes to the plan needing approval by their faculty adviser and program director and a final version submitted in order to advance to candidacy. This will ensure that all course requirements have been met before a student may advance.</p>
+                <h5>Individual Directed Study/Dissertation Research: </h5>
+                <p>MGT 299, Individual Directed Study, is a course for precandidacy students wishing to participate in individual study or research under the direction of a selected faculty member. The faculty adviser is the final judge of whether a specific project meets the standards of MGT 299. A precandidacy student may apply for up to twelve units of Independent Study total, but may be evaluated for additional units upon the completion of all required courses. </p>
+        <p>MGT 296, Research/Management for Dissertation, is for individual students who have advanced to candidacy and completed their required courses. Students may apply for up to twelve units a quarter with adviser(s) approval.</p>
+        <h3>PhD in Management with a Specialization in Interdisciplinary Environmental Research </h3>
+		<p>A graduate specialization in Interdisciplinary Environmental Research (PIER) is available for select doctoral students in management. PIER students seek solutions to today’s environmental challenges. <strong> </strong></p>
+		<p>The PhD specialization is designed to allow students to obtain standard training in their chosen field and an opportunity to interact with peers in different disciplines throughout the duration of their doctoral projects. Such communication across disciplines is key to fostering a capacity for interdisciplinary &ldquo;language&rdquo; skills and conceptual flexibility.</p>
+				<h4>Specialization Requirements<br>
+        </h4>
+                <ul type="disc">
+                  <li>Complete      all course work, dissertation, and other requirements of<strong> </strong>the management PhD<strong>  </strong></li>
+                  <li>Sixteen-unit      interdisciplinary boot camp (summer, SIO 295S-295LS)</li>
+                  <li>Eight units      from a secondary field (outside the home department) </li>
+                  <li>Six units (three      quarters) Interdisciplinary Environmental Research Forum (SIO 296)</li>
+                  <li>At least      one chapter of the dissertation will be broadly related to environmental      research and will be interdisciplinary in nature. </li>
+        </ul>
+                <h4>
+                Application Requirements</h4>
+                <p><em>We advise students to begin PIER in their second year upon completion of core management</em><strong> </strong><em>course requirements.</em></p>
+                <p>The following items should be combined into a single PDF document and submitted to cmbc@ucsd.edu.<strong></strong></p>
+                <ul type="disc">
+                  <li>Student’s      CV</li>
+                  <li>Half-page      abstract of proposed thesis work </li>
+                  <li>Up to one-page      statement of student’s interest in interdisciplinary environmental      research including career goals. </li>
+                  <li>Nomination      letter from adviser acknowledging student’s academic ability and      interdisciplinary environmental interest. The letter must include a      commitment for summer stipend support.<br>
+                  </li>
+        </ul>
+        <h4>Admission to the Specialization </h4>
+        <p>Students are admitted into the management doctoral program. Admission to PIER is a competitive process with six to eight students granted admission each year from across ten participating UC San Diego departments. Selected applicants will have the opportunity to enroll in the specialization. </p>
+        <h4>PIER Fellowships</h4>
+        <p>When funding is available, all applicants will be considered for one year of PIER Fellowship support.</p>
+                <div>
+                  <div> </div>
+        </div>
+<h3>Career Services </h3>
+                <p>Graduate Career Connections, the Rady School&rsquo;s career center, provides professional-degree graduate students with expertise, guidance, and resources to successfully manage their careers. Services and resources of Graduate Career Connections are available to all Rady students, with some limitations for those sponsored by their employers. For many students, the center&rsquo;s personalized approach to career management begins before the student&rsquo;s first quarter and continues throughout the program. Graduate Career Connections actively works to identify opportunities for students and to enable them to build strong professional networks. </p>
+<p>Career services include career assessment, individual career coaching, career fairs, workshops, employer presentations and panels, internship and career employment listings, and on-campus interviews. Specialized career workshops focus on résumé writing, interviewing skills (including videotaped mock interviews), effective job search strategies, and job offer evaluation and negotiation. </p>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

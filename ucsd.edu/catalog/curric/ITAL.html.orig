@@ -1,0 +1,188 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Italian Studies</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" --> 
+        <h1 class="noTopMargin">Italian Studies </h1>
+        <p><span class="courseFacLink">[ <a href="../curric/ITAL.html"> </a><a href="../faculty/ITAL.html">faculty</a> ]</span></p>
+        <p class="program-contact-info">CAESAR Program Advising<br />
+          Institute of Arts and Humanities <br>
+          Humanities and Social Sciences Building, 1024<br>
+          (858) 534-4551<br>
+        <a href="mailto:caesar@ucsd.edu">caesar@ucsd.edu<br>
+        </a><a href="http://caesar.ucsd.edu/italian/" target="_blank">http://caesar.ucsd.edu/italian/ </a></p>
+<!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem -->
+<p>Italian Studies is an interdisciplinary program in the language, literature, history, theatre, music, and art of Italy. Italian Studies coordinates the resources of the Departments of History, Linguistics, Literature, Music, Political Science, Theatre and Dance, and Visual Arts; and offers students the opportunity to design a major, leading to a BA, around the course offerings of these seven departments. Students in Italian studies are encouraged to make an appointment with the Study Abroad Office in order to take advantage of opportunities to study in Italy through the <a href="https://uceap.universityofcalifornia.edu/programs" target="_blank">University of California Education Abroad Program (UCEAP)</a> and the <a href="https://studyabroad.ucsd.edu/students/programs/oap.html" target="_blank">Opportunities Abroad Program (OAP)</a>. Study abroad credits may be petitioned for credit and transferred back to UC San Diego. </p>
+
+<h2 class="program-overview-subhead-1">The Major Program </h2>
+				<p>A major in Italian studies consists of a choice of twelve upper-division courses in literature, history, music, political science, theatre, and visual arts approved for the program and listed below. At least three areas must be represented in the student&rsquo;s program of study.</p>
+				<h3>Language Proficiency</h3>
+				<p>For all upper-division work in Italian literature (LTIT), students must complete LTIT 2A, LTIT 2B, and LTIT 50, or demonstrate the equivalent with transfer credit or by proficiency exam.</p>
+				<p>The particular courses making up each student&rsquo;s major will be selected in consultation with the program adviser. Courses in other areas of Italian studies taken abroad or on our campus may also apply by petition. Eligible P/NP courses are approved by petition.
+	    </p>
+				<h2 class="program-overview-subhead-1">The Minor Program </h2>
+				<p>A minor in Italian studies consists of seven upper-division courses from among those listed below (at least three areas must be represented). Courses in other areas of Italian studies taken abroad or on our campus may also apply by petition. Eligible P/NP courses are approved by petition. </p>
+<h3 class="program-overview-subhead-2">Upper-Division/Italian Studies Courses </h3>
+				<p>For description of courses listed below, see appropriate departmental listing. </p>
+				<h4>Linguistics</h4>
+                <p class="course-list-courses">LIIT 1A/LIIT1AX. Italian Conversation/Analysis of Italian</p>
+                <p class="course-list-courses">LIIT 1B/1BX. Italian Conversation/Analysis of Italian</p>
+                <p class="course-list-courses">LIIT 1C/1CX. Italian Conversation/Analysis of Italian </p>
+<h4 class="course-subhead-1">Literature </h4>
+		<p class="course-list-courses">LTIT 2A-2B. Intermediate Italian I-II</p>
+		<p class="course-list-courses">LTIT 50. Advanced Italian</p>
+		<p class="course-list-courses">LTIT 100. Introduction to Literatures in Italian </p>
+		<p class="course-list-courses">LTIT 115. Medieval Studies</p>
+		<p class="course-list-courses">LTIT 122. Studies in Modern Italian Culture </p>
+		<p class="course-list-courses">LTIT 137. Studies in Modern Italian Prose </p>
+		<p class="course-list-courses">LTIT 161. Advanced Stylistics and Conversation </p>
+		<p class="course-list-courses">LTIT 192. Senior Seminar in Literatures in Italian </p>
+		<p class="course-list-courses">LTIT 196. Honors Thesis </p>
+		<p class="course-list-courses">LTIT 198. Directed Group Study </p>
+		<p class="course-list-courses">LTIT 199. Special Studies</p>
+		<p class="course-list-courses">LTEU 140. Italian Literature in Translation <br>
+	    (may be repeated for credit as topics vary)		</p>
+		<h4 class="course-subhead-1">Visual Arts </h4>
+				<p class="course-list-courses">VIS 122CN. Leonardo da Vinci in Context</p>
+				<p class="course-list-courses">VIS 122D. Michelangelo</p>
+				<p class="course-list-courses">VIS 128A. Topics in Pre-Modern Art History (when on Italian topic) </p>
+				<p class="course-list-courses">VIS 129A. Seminar in Pre-Modern Art History (when on Italian topic)				</p>
+				<h4 class="course-subhead-1">History</h4>
+        <p class="course-list-courses">HIEU 119. Death and Afterlife in the Middle Ages</p>
+        <p class="course-list-courses">HIEU 120. The Renaissance in Italy </p>
+        <p class="course-list-courses">HIEU 125. Reformation Europe</p>
+        <p class="course-list-courses">HIEU 172. Comparative European Fascism</p>
+        <p class="course-list-courses">HIEU 181. Immigration, Ethnicity, and Identity in Contemporary European Society</p>
+        <p class="course-list-courses">HIEU 183. Social History and Anthropology of the Mediterranean</p>
+        <p class="course-list-courses">HIEU 199. Independent Study in European History</p>
+        <h4>Political Science</h4>
+        <p class="course-list-courses">POLI 110A. Citizens and Saints: Political Thought from Plato to Augustine</p>
+        <p class="course-list-courses">POLI 110B. Sovereigns, Subjects, and the Modern State: Political Thought from Machiavelli to Rousseau</p>
+        <p class="course-list-courses">POLI 120I. Politics in Italy		</p>
+        <p>The following courses may be applied to the major or minor, when fifty percent or more of the course focus is on Italian topics: </p>
+        <p class="course-list-courses">MUS 113. Topics in Classic, Romantic, and Modern Music</p>
+        <p>Additional courses counting toward a major or minor in Italian studies are offered on a year-to-year basis. As these often cannot be listed in the catalog in advance, interested students should consult the program faculty for an up-to-date list. </p>
+</p><!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

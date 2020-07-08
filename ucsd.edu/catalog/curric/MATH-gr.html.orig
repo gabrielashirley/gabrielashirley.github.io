@@ -1,0 +1,466 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Mathematics</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Mathematics </h1>
+<p class="sectionNav"><span class="courseFacLink">[ <a href="../curric/MATH-ug.html">undergraduate
+      program</a> | <a href="../curric/MATH-gr.html"> </a> <a href="../courses/MATH.html">courses</a> | <a href="../faculty/MATH.html">faculty</a> ]</span></p>
+<p class="program-contact-info">7409 Applied Physics and Mathematics
+ Building, Muir College <br />
+ <a href="http://math.ucsd.edu" target="_blank">http://math.ucsd.edu</a></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+		<!-- #EndLibraryItem --><p class="anchor-parent"><a class="anchor" id="grad"></a></p><h2 class="program-overview-subhead-1">The Graduate Program </h2>
+<p>The Department of Mathematics offers graduate programs leading to the MA (pure or applied mathematics), MS (statistics), and PhD degrees. </p>
+				<p>The application deadline for fall admission is the second Monday in January for PhD candidates, and the first Monday in February for MA/MS candidates. Candidates should have a bachelor’s or master’s degree in mathematics or a related field from an accredited institution of higher education or the equivalent. A minimum scholastic average of B or better is required for course work completed in upper-division or prior graduate study. In addition, the department requires all applicants to submit scores from both the GRE General Test and Advanced Subject Test in Mathematics. Completed files are judged on the candidate’s mathematical background, qualifications, and goals. </p>
+<p>Departmental support is typically in the form of teaching
+         assistantships, research assistantships, and fellowships. These
+         are currently only awarded to students in the PhD program. </p>
+<h3 class="program-overview-subhead-2">General Requirements </h3>
+				<p>All student course programs must be approved by a faculty adviser prior to registering for classes each quarter, as well as any changes throughout the quarter. </p>
+				<p>Full-time students are required to register for a minimum of twelve (12) units every quarter, eight (8) of which must be graduate-level mathematics courses taken for a letter grade only. The remaining four (4) units can be approved upper-division or graduate-level courses in mathematics-related subjects (MATH 500 may not be used to satisfy any part of this requirement). </p>
+				<p>After advancing to candidacy, PhD candidates may take all course work on a Satisfactory/Unsatisfactory basis. Typically, students should not enroll in MATH 299 until they have satisfactorily passed two qualifying examinations at the PhD or Provisional PhD level (see &ldquo;<a href="#phd">PhD in Mathematics</a>&rdquo;) or obtained approval of their faculty adviser. </p>
+				<p>For all programs, a minimum of twenty-four units of Department of Mathematics course work must be completed with a letter grade. </p>
+				<p>There is no foreign language requirement for any of the graduate programs in the Department of Mathematics.</p>
+<h3 class="program-overview-subhead-2">Master of Arts in Pure Mathematics </h3>
+				<p>[Offered only under the Comprehensive Examination Plan.] The degree may be terminal or obtained on the way to the PhD. A total of forty-eight units of credit are required. No units of MATH 299 (Reading and Research) may count toward this total. No more than four units of any combination of MATH 295 (Special Topics) and/or MATH 500 (Apprentice Teaching) may be used.</p>
+				<p>Twenty-four of the forty-eight units must be graduate-level mathematics courses approved in consultation with a faculty adviser. The remaining twenty-four units may contain no more than eight units of upper-division mathematics courses and no more than twelve units of graduate courses in a related field outside the department (approved by the Department of Mathematics).</p>
+<h4 class="program-overview-subhead-3">Comprehensive Examinations </h4>
+				<p>Seven written departmental examinations are offered in three areas (refer to “<a href="#phd">PhD
+			  in Mathematics</a>,” Areas 1, 2, and 3, for list of exams). A student must complete two examinations, one from Area 1 and one from Area 2, both with an MA pass or better.			  </p>
+				<p>Every master&rsquo;s student must do the following:</p>
+                <ol>
+                  <li><span dir="LTR"> </span>Attempt at least one comprehensive or qualifying examination (as suitable for the major) no later than by the end of the student&rsquo;s first year</li>
+                  <li><span dir="LTR"> </span>Pass at least one comprehensive or qualifying examination by the start of the student&rsquo;s second year at the master&rsquo;s pass level or higher</li>
+                </ol>
+                <p>Anyone unable to comply with this schedule will be terminated from the master&rsquo;s program.</p>
+<h4 class="program-overview-subhead-3">Time Limits </h4>
+				<p>Full-time students are permitted seven quarters in which to complete all degree requirements. While there are no written time limits for part-time students, the department has the right to intervene and set individual deadlines if it becomes necessary. </p>
+				<h3 class="program-overview-subhead-2">Master of Arts in Applied Mathematics </h3>
+				<p>[Offered only under the Comprehensive Examination Plan] The degree may be terminal or obtained on the way to the PhD. Out of the total forty-eight units of required credit, two applied mathematics sequences comprising twenty-four units must be chosen from the following list (not every course is offered each year): </p>
+				<p class="course-list-overview">MATH 202A-B-C. (Applied Algebra)</p>
+				<p class="course-list-overview">MATH 210A-B-C. (Mathematical Methods in Physics and Engineering)</p>
+				<p class="course-list-overview">MATH 261A-B-C. (Probabilistic Combinatorics and Algorithms)</p>
+				<p class="course-list-overview">MATH 264A-B-C. (Combinatorics)</p>
+				<p class="course-list-overview">MATH 270A-B-C. (Numerical Mathematics)</p>
+				<p class="course-list-overview">MATH 271A-B-C. (Numerical Optimization)</p>
+				<p class="course-list-overview">MATH 272A-B-C. (Numerical Partial Differential Equations)</p>
+				<p class="course-list-overview">MATH 273A-B-C. (Advanced Techniques in Computational Math) </p>
+				<p>In certain cases, a petition may be approved to substitute one of these requirements from the following list of sequences: </p>
+				<p class="course-list-overview">MATH 220A-B-C. (Complex Analysis)</p>
+				<p class="course-list-overview">MATH 231A-B-C. (Partial Differential Equations)</p>
+				<p class="course-list-overview">MATH 240A-B-C. (Real Analysis)</p>
+				<p class="course-list-overview">MATH 280A-B-C. (Probability Theory)</p>
+				<p class="course-list-overview">MATH 281A-B-C. (Mathematical Statistics)</p>
+				<p class="course-list-overview">MATH 282A-B. (Applied Statistics) </p>
+				<p class="basic-offset-top-only">In choosing course work to fulfill the remaining twenty-four units, the following restrictions must be followed: </p>
+				<ol>
+				<li> At least eight units must be approved graduate courses in mathematics
+				  or other departments [a one-year sequence in a related area
+				  outside the department such as computer science, engineering,
+				  physics, or economics is strongly recommended]; </li>
+				<li> A maximum of eight units can be approved upper-division courses
+				  in mathematics; and </li>
+				<li> A maximum of eight units can be approved upper-division courses
+				  in other departments. </li>
+				<li> A maximum of four units of MATH 500 (Apprentice Teaching). </li>
+				<li> NO UNITS of MATH 295 (Special Topics) or MATH 299 (Reading and
+				  Research) may be used. </li>
+	  </ol> 
+<p class="basic-offset-top-only">Students are strongly encouraged to consult with a faculty adviser in their first quarter to prepare their course of study. </p>
+				<h4 class="program-overview-subhead-3">Comprehensive Examinations </h4>
+				<p>Two written comprehensive examinations must be passed at the master&#8217;s level in any of the required applied mathematics sequences listed above. The instructors of each course should be contacted for exam details.				</p>
+				<p>Every master&rsquo;s student must do the following:</p>
+                <ol>
+                  <li><span dir="LTR"> </span>Attempt at least one comprehensive or qualifying examination (as suitable for the major) no later than by the end of the student&rsquo;s first year</li>
+                  <li><span dir="LTR"> </span>Pass at least one comprehensive or qualifying examination by the start of the student&rsquo;s second year at the master&rsquo;s pass level or higher</li>
+                </ol>
+                <p>Anyone unable to comply with this schedule will be terminated from the master&rsquo;s program.</p>
+<h4 class="program-overview-subhead-3">Time Limits </h4>
+				<p>Full-time MA students are permitted seven quarters in which to complete all requirements. While there are no written time limits for part-time students, the department has the right to intervene and set individual deadlines if it becomes necessary. </p>
+				<h3 class="program-overview-subhead-2">Master of Science in Statistics </h3>
+				<p>[Offered only under the Comprehensive Examination Plan.] The MS in statistics
+				 is designed to provide recipients with a strong mathematical background
+				 and experience in statistical computing with various applications. Out
+				 of the forty-eight units of credit needed, required core courses comprise
+				 twenty-eight units, including </p>
+				<ul>
+					<li class="list-level-1">MATH 281A-B-C. (Mathematical Statistics) </li>
+					<li class="list-level-1">MATH 282A-B. (Applied Statistics) </li>
+				</ul>
+				<p>and at least two topics comprising eight units chosen freely from MATH 284, 287A-B-C-D, and 289A-B (see course descriptions for topics).</p>
+		<p>The students are also required to take four units of MATH 297 (Mathematics Graduate Research Internship); although the course can be taken repeatedly for credits, only four units can be counted toward fulfilling the MS degree requirements. This MATH 297 consulting requirement may be waived if a student has other qualified internship arrangements.</p>
+				<p>The following guidelines should be followed when selecting courses to complete the remaining twenty units: </p>
+				<ol>
+				<li> For a theoretical emphasis, MATH 280A-B-C (Probability Theory)
+				  is recommended. </li>
+				<li> For an applied orientation, MATH 270A-B (Numerical Mathematics)
+				  and 271A-B-C (Numerical Optimization) are recommended. </li>
+				<li> A maximum of eight units of approved upper-division applied mathematics, or related field, courses (see faculty adviser). </li>
+	  </ol> 
+<p>Upon the approval of the faculty adviser, the rule above, limiting graduate units from other departments to eight, may be relaxed in making up these noncore units.</p>
+				<h4 class="program-overview-subhead-3">Comprehensive Examinations </h4>
+				<p>Students must complete two written comprehensive examinations—one in mathematical statistics (MATH 281A-B-C) and one in applied statistics (MATH 282A-B), both at the master&rsquo;s level (exceptions to the exams taken may be approved by a faculty adviser). Instructors of the relevant courses should be consulted for exam dates as they vary on a yearly basis. </p>
+				<p>Every master&rsquo;s student must do the following:</p>
+                <ol>
+                  <li><span dir="LTR"> </span>Attempt at least one comprehensive or qualifying examination (as suitable for the major) no later than by the end of the student&rsquo;s first year</li>
+                  <li><span dir="LTR"> </span>Pass at least one comprehensive or qualifying examination by the start of the student&rsquo;s second year at the master&rsquo;s pass level or higher</li>
+        </ol>
+                <p>Anyone unable to comply with this schedule will be terminated from the master&rsquo;s program.</p>
+<h4 class="program-overview-subhead-3">Time Limits </h4>
+				<p>Full-time MS students are permitted seven quarters in which to complete all requirements. While there are no written time limits for part-time students, the department has the right to intervene and set individual deadlines if it becomes necessary. </p>
+		<p class="anchor-parent"><a class="anchor" id="phd"></a></p><h3 class="program-overview-subhead-2">PhD in Mathematics</h3>
+				<h4 class="program-overview-subhead-3">Written Qualifying Examinations </h4>
+				<p>The department offers written qualifying examinations in seven subjects. These are grouped into three areas as follows: </p>
+				<h5 class="program-overview-subhead-4">Area #1 </h5>
+				<p>Complex Analysis (MATH 220A-B-C) Real Analysis (MATH 240A-B-C) </p>
+				<h5 class="program-overview-subhead-4">Area #2 </h5>
+				<p>Algebra (MATH 200A-B-C) Applied Algebra (MATH 202A-B-C) Topology (MATH 290A-B-C) </p>
+				<h5 class="program-overview-subhead-4">Area #3 </h5>
+				<p>Numerical Analysis (MATH 270A-B-C) Statistics (MATH 281A-B-C) </p>
+        <ol>
+                <li>Three      qualifying exams must be passed. At least one must be passed at the PhD      level, and a second must be passed at either the PhD or provisional PhD level.      The third exam must be passed at least at the master’s level. </li>
+                  <li>Of      the three qualifying exams, there must be at least one from each of Areas      #1 and #2. Algebra and Applied Algebra do not count as distinct exams in      Area #2. </li>
+                  <li>Students      must pass a least two exams from distinct areas with a minimum grade of provisional      PhD. (For example, a PhD pass in Real Analysis, provisional PhD pass in      Complex Analysis, an MA pass in Algebra would NOT satisfy this requirement,      but a PhD pass in Real Analysis, MA pass in Complex Analysis, provisional PhD      pass in Algebra would, as would a PhD pass in Numerical Analysis, provisional      PhD pass in Applied Algebra, and an MA pass in Real Analysis.) </li>
+                  <li>All      exams must be passed by the September exam session prior to the beginning      of the third year of graduate studies. (Thus, there would be no limit on      the number of attempts, encouraging new students to take exams when they      arrive, without penalty.) </li>
+        </ol>
+<p>Department policy stipulates that at least one of the exams must be completed
+  with a provisional PhD pass or better by September following the end of the
+  first year. Anyone unable to comply with this schedule will lose their funding
+  as a PhD student. They will be terminated from the doctoral program and transferred
+  to one of our master&#8217;s programs. </p>
+				<p>Any master’s student can submit for consideration a written request to
+				 transfer into the PhD program when the qualifying exam requirements for
+				 the PhD program have been met and a dissertation adviser is found. Approval
+			  by the Qualifying Exam and Appeals Committee (QEAC) is not automatic, however. </p>
+        <p>Exams are typically offered twice a year, one scheduled in
+         the spring quarter and again in early September (prior to the
+         start of fall quarter). Copies of past exams are made available
+         online or in the Graduate Office. </p>
+<p>In choosing a program with an eye to future employment, students should seek the assistance of a faculty adviser and take a broad selection of courses including applied mathematics, such as those in Area #3.		</p>
+<h4 class="program-overview-subhead-3">Advancement to Candidacy </h4>
+				<p>It is expected that by the end of the third year (nine quarters), students
+				 should have a field of research chosen and a faculty member willing to
+				 direct and guide them. A student will advance to candidacy after successfully
+				 passing the oral qualifying examination, which deals primarily with the
+				 area of research proposed but may include the project itself. This examination
+				 is conducted by the student’s appointed doctoral committee. Based on their
+				 recommendation, a student advances to candidacy and is awarded the CPhil
+			  degree. </p>
+<h4 class="program-overview-subhead-3">Dissertation and Final Defense </h4>
+				<p>Submission of a written dissertation and a final examination in which
+				 the thesis is publicly defended are the last steps before the PhD degree
+				 is awarded. When the dissertation is substantially completed, copies must
+				 be provided to all committee members at least four weeks in advance of
+				 the proposed defense date. Two weeks before the scheduled final defense,
+				 a copy of the dissertation must be made available in the department for
+			  public inspection. </p>
+<h4 class="program-overview-subhead-3">Time Limits </h4>
+				<p>The normative time for the PhD in mathematics is five years. Students must have a dissertation adviser by the end of nine quarters. Students must be advanced to candidacy by the end of eleven quarters. Total university support cannot exceed six years. Total registered time at UC San Diego cannot exceed seven years. </p>
+				<p>A student making normal progress must meet the time limits described below. PhD students who fail to meet these time limits may lose their TA funding.</p>
+				<ol>
+                  <li>Pass      qualifying exams requirement by the fall quarter of the beginning of the      third year. </li>
+                  <li>Find      thesis adviser by the end of nine quarters. </li>
+                  <li>Advance      to candidacy by the end of eleven quarters. </li>
+                  <li>Final      defense by the end of the fifth year. </li>
+		</ol>
+		<p class="anchor-parent"><a class="anchor" id="csme"></a></p><h3 class="program-overview-subhead-2">PhD in Mathematics with Specialization in Computational Science</h3>
+				<p>The PhD in mathematics, with a specialization in computational science is designed to allow a student to obtain standard basic training in his or her chosen field of science, mathematics, or engineering with training in computational science integrated into those graduate studies. The specialization in computational science recognizes the nation’s growing and continuing need for broadly trained advanced computational scientists in academic, industry, and government laboratories. Its graduates will be well-positioned to compete effectively for the best jobs in these areas.</p>
+<p>Computational science refers to the use of computer simulation
+         and visualization for basic scientific research, product development,
+         and forecasting. It is an interdisciplinary field that combines
+         mathematics (mathematical modeling, numerical analysis) and
+         computer science (architecture, programming, networks, graphics)
+         with one of the scientific or engineering disciplines. </p>
+    <p>The specialization draws upon the expertise of faculty from
+         bioengineering, biological sciences, chemistry and biochemistry,
+         computers and engineering, electrical and computer engineering,
+         mathematics, mechanical and aerospace engineering, physics,
+         Scripps Institution of Oceanography, structural engineering
+         as well as research staff from the San Diego Supercomputer
+         Center. </p>
+        <h4>Admission</h4>
+        <p>Prospective students must apply to the PhD program of a participating home department, be admitted to that department and then be admitted to the specialization. The five participating academic departments that have a specialization in computational science are chemistry and biochemistry, computer science and engineering, mathematics, mechanical and aerospace engineering, and physics. Requirements consist of those of the admitting home department (one of the five participating departments) as well as the proficiency, qualifying. and elective course requirements as outlined below. Requirements and policies relating to the home department can be found in the <em>UC San Diego</em> <em>General Catalog</em> under that department’s name. In the case of the mathematics department, the admission requirements for the mathematics doctoral program are those outlined above. </p>
+<h4>Specialization in Computational Science Policies</h4>
+        <ol>
+                <li> The specialization requires that students complete
+          all home department requirements for the PhD along with
+          satisfying the CSME proficiency, qualifying, and elective
+          requirements. In the case of the mathematics department,
+          the requirements and timelines for the normal mathematics
+          PhD program are as described above.</li>
+                <li> CSME proficiency (see below) must be satisfied by the
+          end of the first year.</li>
+                <li> The CSME qualifying exams must be passed by the end
+          of the second year or, on petition, by end of the third year.</li>
+                <li> The CSME qualifying exams can be attempted repeatedly
+          but no more than once per quarter per subject.</li>
+                <li> The regular qualifying exams in the home department
+          and the CSME qualifying exams must all be passed before the
+          student is permitted to take the candidacy (Senate) exam.</li>
+                <li> Two CSME electives outside the home department must
+          be taken.</li>
+                <li> The two CSME electives can be taken at any time before
+          defending the thesis.</li>
+                <li> One of the CSME electives may be taken pass/fail; the
+          other must be taken for a letter grade.</li>
+                <li>  No CSME field examination requirements will be imposed
+          beyond those of the admitting home department.</li>
+                <li>  No CSME foreign language requirements will be imposed
+          beyond those of the admitting home department.        </li>
+              </ol> 
+        <p><strong><em>Proficiency Requirements:</em></strong><strong> </strong>All
+         PhD students participating in the CSME doctoral program must
+         demonstrate advanced undergraduate level proficiency in numerical
+         analysis and in computer algorithms and data structures. Proficiency
+         may be demonstrated by taking UC San Diego’s courses in both subjects
+        while enrolled in the graduate program (four units per course): </p>
+        <ol>
+                <li> Numerical Methods (MATH 174/274 or MAE 290A)</li>
+                <li> Data Structures and Algorithms (CSE 100/101) </li>
+      </ol> 
+        <p>Alternatively, proficiency in the material contained in these
+         courses may be satisfied by having previously taken these or
+         equivalent courses at other institutions, or through other
+         evidence of sufficient knowledge of this material. Demonstrating
+         proficiency without taking these courses at UC San Diego is subject
+         to approval by the CSME Executive Committee on an individual
+         basis.        </p>
+        <p><strong><em>Qualifying Requirements: </em></strong>In addition
+         to the home department qualifying exam requirements, PhD
+         students participating in the CSME doctoral program must pass
+         the final exams in all three qualifying exam courses listed
+         below. The three qualifying exam courses have been selected
+         to provide a general broad set of tools in computational science. It
+         is expected that most students will register for and take these
+         courses (four units per course), but the CSME Qualifying Exam
+         Committee may allow an exceptionally well-prepared student
+         to take the final exams without taking the courses. Students
+         must pass the qualifying examinations by the end of the second
+         year or, on petition, by the end of the third year.        </p>
+        <ol>
+                <li> MATH 275 or MAE 290B (Numerical PDEs)</li>
+                <li> PHYS 244 or CSE 260 (Parallel Computing)</li>
+                <li>  Course to be selected from List A        </li>
+              </ol> 
+        <h5>LIST A: CSME Qualifying Exam Courses</h5>
+        <p>Courses taken to satisfy
+         the qualifying requirements cannot count toward the elective
+         requirements.        </p>
+        <ol>
+                <li> PHYS 243 (Stochastic Methods)</li>
+                <li> MATH 270A, B, or C (Numerical Analysis; not permitted
+          for MATH students, who typically take MATH 270A-B-C as
+    a normal mathematics qualifying course.)</li>
+                <li> MATH 272A, B, or C (Advanced Numerical PDEs)</li>
+                <li> MAE 223 (Computational Fluid Dynamics)</li>
+                <li> MAE 232A or B (Computational Solid Mechanics)</li>
+                <li> MAE 280A or B (Linear Systems Theory)</li>
+                <li> (To be determined by Executive Committee)        </li>
+              </ol> 
+        <p><strong><em>Elective Requirements</em></strong><em>: </em>To
+         encourage PhD students specializing in computational science
+         to both broaden themselves in an area of science or engineering
+         as well as to obtain more specialized training in specific
+         areas of computational science, students will be required to
+         take and pass two elective courses from the following approved
+         List B (four units per course), both of which must be outside
+         of their home department, the first of which must be taken
+         for a letter grade, and the second of which may be taken pass/fail.
+         The CSME Executive Committee may approve the use of courses
+         not appearing on the following list on a case-by-case basis.
+         Courses taken to satisfy the elective requirements cannot count
+         toward the qualifying requirements.        </p>
+        <h5>LIST B: Elective Graduate Courses in Mathematics, Science,
+         and Engineering</h5>
+        <ol>
+                <li> MATH 270A-B-C (Numerical Analysis; not permitted for
+          MATH students, who typically take MATH 270A-B-C as a normal
+    mathematics qualifying course.)</li>
+                <li> MATH 271A-B-C (Optimization)</li>
+                <li> MATH 272A-B-C (Advanced Numerical PDEs)</li>
+                <li> MATH 273A-B-C (Computational Mathematics Project)</li>
+                <li> PHYS 141/241 (Computational Physics I)</li>
+                <li> PHYS 142/242 (Computational Physics II)</li>
+                <li> PHYS 221 AB (Nonlinear dynamics)</li>
+                <li> CHEM 215 (Modeling Biological Macromolecules)</li>
+                <li> BGGN 260 (Neurodynamics)</li>
+                <li> (To be determined by Executive Committee)        </li>
+              </ol> 
+        <p><strong><em>Thesis/Dissertation:</em></strong> Students participating
+         in the PhD in mathematics with a Specialization in Computational
+         Science must complete a dissertation that meets all requirements
+         for the regular PhD in the home department. In addition,
+         it is expected that the PhD dissertation will be interdisciplinary
+         in nature and involve some aspect of computational science.        </p>
+        <p><strong><em>Final Examination: </em></strong>Students
+         participating in the PhD in mathematics with a Specialization
+         in Computational Science must meet the regular final examination
+         requirements of the home department.
+</li>
+</ol>
+</li>
+</li>
+        </p>
+        <h3>PhD in Mathematics with Specialization in Statistics</h3>
+        <p>The PhD in mathematics with a specialization in statistics is designed to provide a student with solid training in statistical theory and methodology that finds broad application in various areas of scientific research including natural, biomedical and social sciences, as well as engineering, finance, business management, and government regulations. It aims to produce future researchers in contemporary statistics, as well as give students an advantage as they seek careers in industry where there is a tremendous need for statistics knowledge following the rapid growth of computing power, high throughput technology, and the explosion of digital data.</p>
+        <h4>Admission</h4>
+        <p>Prospective students must apply to the mathematics PhD program. The admission requirements for the mathematics doctoral program are those outlined above. Demonstration of computer literacy is highly desired; knowledge of a programming language such as PERL or C; and knowledge of a statistical computing package such as SAS, R, SPLUS, or STATA is also desirable. The program may admit students without this level of preparation with the understanding that the student will promptly make up any deficiencies by taking additional courses upon entering the program.</p>
+        <h4>Specialization in Statistics Policies</h4>
+        <ol start="1" type="1">
+          <li>The      specialization requires completion of seventy-two units before advancement      to PhD candidacy.  </li>
+          <li>The      core curriculum consists of the following (forty-eight units), and a      student is expected to take substantially all of them (subject to approval      by the faculty adviser):<br>
+            <span class="course-list-overview">MATH 280A-B-C (Probability Theory)<br>
+          MATH 281A-B-C (Mathematical Statistics)<br>
+          MATH 282A-B (Applied Statistics) <br>
+          MATH 287A (Time Series Analysis)<br>
+          MATH 287B (Multivariate Analysis) <br>
+          MATH 287C (Advanced Time Series Analysis)<br>
+          MATH 287D (Statistical Learning)</span></li>
+          <li>Additional      course work to complete the seventy-two units should be selected from the      following:<br>
+            <span class="course-list-overview">MATH 202A (Applied Algebra I)<br>
+          MATH 240A-B-C (Real Analysis)<br>
+          MATH 241A-B (Functional Analysis) <br>
+          MATH 261A-B-C (Probabilistic Combinatorics and Algorithms)<br>
+          MATH 270A-B (Numerical Analysis)<br>
+          MATH 271A-B-C (Numerical Optimization) <br>
+          MATH 283 (Statistical Methods in Bioinformatics)<br>
+          MATH 285 (Stochastic Processes) <br>
+          MATH 289AB (Topics in Probability and Statistics)<br>
+				MATH 294 (The Mathematics of Finance)<br></span>
+         
+            <p>Note: Students must take at least one of the full sequences MATH 240A-B-C or MATH 280A-B-C for a letter grade. A grade of B or better must be maintained throughout. If the Real Analysis qualifying exam is passed at the PhD or Provisional PhD level, this condition will no longer be necessary.</p>
+          <span class="course-list-overview">            </span></li>
+        
+          <li>Candidates      must acquire experience in statistical consulting and the practical      analysis of data. To meet this requirement, students must participate in      the MathStorm graduate student consulting seminar (MATH 297) for one year.      A project outside the consulting seminar can be substituted only if prior      approval is obtained from the director of the consulting seminar and the      student’s adviser. Students should complete at least five quarters of      course work before taking the consulting seminar and are encouraged to      fulfill the requirement in their third or fourth year.</li>
+          <li>Students      must pass two written qualifying exams. One of the required exams is in      Mathematical Statistics (MATH 281A-B-C) the other is recommended to be in      Real Analysis (MATH 240A-B-C). At      least one of the exams should be passed at the PhD level, and both exams      should be passed at the provisional doctoral level or better.  </li>
+          <li>At      least one of the exams should be passed at the provisional doctoral level      before the start of the second year, and both passed before the start of      the third year, for the student to remain in the PhD program.</li>
+          <li>Before      the start of the third year, the student is required to take MATH 282A-B      (Applied Statistics) and pass the comprehensive exam in this subject.</li>
+          <li>No      foreign language requirement.</li>
+        </ol>
+        <p><em><strong>Advancement to Candidacy:</strong></em> A student may advance to candidacy only after the course requirements, the qualifying examinations requirements, and comprehensive exam requirement have been completed. The remaining requirements for advancement to candidacy are the same as for the regular PhD in mathematics.</p>
+        <p><em><strong>Dissertation and Final Defense:</strong></em> Students participating in the PhD in mathematics with a specialization in statistics must complete a dissertation and final defense that meets all requirements for the regular PhD in mathematics. </p>
+        <p><em><strong>Time Limits: </strong></em>The time limits for the PhD in mathematics with a specialization in statistics are the same as for the regular PhD in mathematics.</p>
+        <p>Students who wish to switch between the regular PhD program in mathematics and the specialization in statistics must submit a written request to the graduate vice chair. Approval is not automatic, however.</p>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

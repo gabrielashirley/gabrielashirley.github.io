@@ -1,0 +1,544 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Bioengineering</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Bioengineering </h1>
+<p class="sectionNav"><span class="courseFacLink">[ <a href="../curric/BENG-ug.html">undergraduate
+      program</a> | <a href="../courses/BENG.html">courses</a> | <a href="../faculty/BENG.html">faculty</a> ]</span></p>
+<p class="program-contact-info">Student Affairs <br />
+  141 Powell-Focht Bioengineering
+  Hall <br />
+  Warren College<br />
+  <a href="http://be.ucsd.edu" target="_blank">http://be.ucsd.edu </a></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><p class="anchor-parent"><a class="anchor" id="grad"></a></p><h2 class="program-overview-subhead-1">The Graduate Program </h2>
+<p>Admission to the MEng, MS, the MS Medical specialization, and PhD, as well as to the PhD with specializations in bioinformatics, computational neuroscience, multiscale biology, and quantitative biology are in accordance with the general requirements of the Graduate Division. Applicants are required to have completed a BS and/or MS degree by time of admission in a branch of engineering, natural sciences, mathematics, or quantitative life sciences. MS and PhD applicants must have a GPA of 3.4 or better in technical courses. MEng applicants should have competitive grades (greater than a 3.2 GPA). All applicants must submit GRE General Test scores, as well as three letters of recommendation from individuals who can attest to their academic or professional competence and to the depth of their interest in pursuing graduate study. Attention will be paid to the background and statement of purpose to ensure that they are consistent with the goals of the program. For example, whereas undergraduate research experience and the intention to pursue a research career or advanced studies are qualifications and interests typically well suited to the MS program, industrial experience and the intention to pursue a professional career are better suited to the MEng program. </p>
+<p>A minimum speaking score of 85 (internet based) on the Test of English as a Foreign Language (TOEFL) or a band 7 on the IELTS is required of all international applicants whose native language is not English and whose undergraduate education was conducted in a language other than English. There is a minimum requirement score of 23 on the speaking portion for the TOEFL. Students who score below 100 on the TOEFL examination are strongly encouraged to enroll in an English as a Second Language program before beginning graduate work. (UC San Diego Extension offers an English language program during the summer as well as the academic year.) Admission to the MS or PhD degree program is designated when the applicants are judged to be appropriately qualified to pursue the degree requested at the time of application. Applicants are considered for admission for the fall quarter only. </p>
+<p>Nonmatriculated students are welcome to seek enrollment in bioengineering courses via UC San Diego Extension&rsquo;s Concurrent Enrollment program. However, such enrollment in a bioengineering graduate course must be approved by the instructor. </p>
+<h3 class="program-overview-subhead-2">Contiguous Bachelor’s/Master’s Program </h3>
+        <p>A contiguous program leading to a bachelor of science and a master
+          of science degree in bioengineering is offered to undergraduate students
+          who are enrolled in any of the major programs offered by the Department
+          of Bioengineering. Students interested in obtaining the MS within one year following completion of the BS may apply to
+          the department for admission to the program during spring quarter
+          prior to the receipt of the BS. The program is open only to
+          UC San Diego undergraduates. </p>
+        <p>To be eligible, students must have completed the first two quarters
+          of their junior year in residence at UC San Diego and have an upper-division
+          GPA of 3.5 or better and a 3.0 overall UC GPA. Twelve units of bioengineering
+          graduate-level courses must be completed during the student’s senior
+          undergraduate year, <em>in addition</em> to the requirements for the
+          bachelor’s degree; these twelve units will count toward the requirements
+          for the master’s degree only and must be taken for a letter grade.
+          It is the responsibility of the prospective BS/MS student to select
+          a bioengineering faculty member who is willing to serve as the student’s
+          adviser. The student will also arrange (with their faculty adviser’s
+          approval) a schedule of courses for the senior year that will fulfill
+          the requirements for the BS while also serving the program
+          planned for the MS. Students are expected to meet the requirements
+          for the MS in one year (three consecutive academic quarters)
+          from the date of the receipt of the BS. </p>
+<h3 class="program-overview-subhead-2">Master of Science Degree Programs </h3>
+				<p>The master of science (MS) program is intended to extend and focus the broad undergraduate background in bioengineering to prepare students for specific career options. It is built around a flexible core that provides advanced training in applied physical and biological sciences that is customized for providing advanced knowledge and expertise for training in specialized bioengineering fields. These include, but are not restricted to, the biomedical industry and related entrepreneurial activities, direct biomedical and health-care engagement including preparation for the medical career, and in-depth training for those wishing to gain experience in academic research and considering graduate studies at the doctoral level. The MS may be terminal or may be obtained while pursuing a doctorate. Doctoral degree students wishing to obtain the MS should refer to<em> &ldquo;</em><a href="../curric/BENG-gr.html#obtain">Obtaining an MS Degree</a><em>&rdquo;</em> under the section, <em>&ldquo;</em><a href="../curric/BENG-gr.html#doctoral">Doctoral Degree Program</a><em>.&rdquo; </em></p>
+<h4>Thesis or Comprehensive Exam</h4>
+<p>The degree can be pursued under either the Thesis Plan I or the Comprehensive Examination Plan II. For full-time students, all the requirements can be completed within one to two years. Students must register for a minimum of three quarters for residency requirements. To maintain good academic standing, students must be making timely and satisfactory progress toward completion of degree requirements and must maintain a minimum overall GPA of 3.0 at UC San Diego.</p>
+<h4><strong>Course Requirements</strong></h4>
+<p>A total of<strong>&nbsp;forty-eight</strong>&nbsp;units of credit are required:</p>
+<h5>Plan I Thesis Option</h5>
+<p><strong>Thirty-six units of course work.</strong>&nbsp;Nine courses, of which six are core courses in Engineering Physics and Life Science and three are elective courses to be selected from approved graduate-level course offerings in bioengineering, other engineering/science departments, and the School of Medicine (see below). The faculty adviser must approve courses outside the department. The core courses and the elective courses must be taken for a letter grade.</p>
+<h6>Required Core Graduate Courses—Engineering Physics (2 + 1 four-unit courses)</h6>
+<ul>
+  <li>BENG 226. Foundations of Bioengineering I (tissue and cell properties)</li>
+	<li>BENG 227. Foundations of Bioengineering II (physical basis of tissue transport)</li></ul>
+  <p>Plus one of the following courses:</p>
+  <ul><li>BENG 221. Mathematical Methods for Bioengineering</li>
+  <li>BENG 223. Thermodynamics, Statistical Mechanics, and Interfacial Phenomena in Living Systems</li>
+  <li>BENG 241A. Tissue Engineering and Regenerative Medicine: Foundations&nbsp;</li>
+  <li>BENG 280A. Principles of Biomedical Imaging&nbsp;</li>
+  <li>BENG 211. Systems Biology and Bioengineering I. Biological Components&nbsp;</li>
+  <li>BENG 202/CSE 282. Bioinformatics II: Introduction to Bioinformatics Algorithms </li>
+</ul>
+<h6>Required Core Graduate Courses—Biological Sciences (2 + 1 four-unit courses)</h6>
+<ul>
+  <li>BENG 230A. Foundations of Biological Systems I (biochemistry for engineering)</li>
+  <li>BENG 230B. Foundations of Biological Systems II (cell and molecular biology)</li>
+</ul>
+<p>Plus one of the following courses:
+</p>
+<ul>
+  <li>BENG 230C. Cardiovascular Physiology</li>
+  <li>BENG 230D. Respiratory and Renal Physiology</li>
+  <li>BENG 232. Musculoskeletal Health, Injury, and Disease</li>
+  <li>BENG 234. Introduction to Neurophysiology: Molecules to Systems</li>
+  <li>BENG 260/BGGN 260. Neurodynamics</li>
+</ul>
+<h6>Twelve units in research (S/U grading only)</h6>
+<ul>
+  <li>BENG 299. Bioengineering Research, under the direction of the chosen faculty research adviser</li></ul>
+  <h5>Plan II: Comprehensive Examination</h5>
+  <p><strong>Forty-eight units in course work. </strong>Six core courses (see above) and six elective courses. <br>
+    Under this plan, the student completes the six core courses and six electives. The student must complete an oral comprehensive examination designed to evaluate the student&rsquo;s ability to integrate knowledge and understanding. </p>
+  <p><strong>Elective Graduate Courses for the MS Degree:</strong></p>
+  <p>All graduate-level courses offered in the Department of Bioengineering may be used. Courses are for letter grade. In addition, graduate-level engineering/science courses offered in other departments (e.g., BIOL, ECE, MAE, SOM) for elective credit with prior faculty adviser approval. Courses are for letter grade. </p>
+  <p>Up to two undergraduate (four units with a letter grade) courses for prerequisites can be counted as electives (with permission from the adviser or Graduate Studies Committee).</p>
+<h5 class="program-overview-subhead-5">Seminars (required)</h5>
+				<ul>
+                  <li>BENG 281. Seminar in Bioengineering (F,W,S)</li>
+                  <li>BENG 282. Seminar: Faculty Research (F)</li>
+				</ul>
+<p class="basic-offset-top-only">Restrictions to course work requirements are as follows: </p>
+				<ul>
+					<li> Units obtained in BENG 281, 282, 299, or 501 may not be applied toward the course work requirement. </li>
+				</ul>
+		<h4>Master of Science in Bioengineering with a Medical Specialization </h4>
+        <p>The master of science in bioengineering with a medical specialization (MS-MED) emphasizes the intersection between medical science/practice and engineering. It prepares bioengineering students for studies leading to professional degrees in medical specialties such as medicine (MD), osteopathy (DO), dentistry (DDS), physical therapy (DPT), occupational therapy (OTD), and pharmacy (PharmD). Students who pursue the MS-MED may also choose to develop a career directly related to the practice of medicine and patient care related work and clinical environment.</p>
+        <p>The medical specialization within the MS in the bioengineering program is attained by completing a minimum of <strong>forty-eight</strong> units of upper-division and graduate-level courses and successful completion of a comprehensive examination.</p>
+        <h5>Required Core Graduate Courses—Engineering Physics (five four-unit courses total)</h5>
+        <ul type="disc">
+          <li>BENG 294A.      Patient-Centered Clinical Medicine for Bioengineers</li>
+          <li>BENG 294B.      Engineering in the Patient Healthcare System</li>
+          <li>BENG      294C. Clinical Experience in Bioengineering</li>
+        </ul>
+       
+        <p>One additional core course selected from the following in life sciences: </p>
+        <ul type="disc">
+          <li>BENG 230A. Biochemistry</li>
+          <li>BENG 230B.      Cell and Molecular Biology</li>
+          <li>BENG 230C.      Cardiovascular Physiology </li>
+          <li>BENG      230D. Respiratory and Renal Physiology</li>
+          <li>BENG 232.      Musculoskeletal Health, Injury and Disease</li>
+          <li>BENG 234.      Intro to Neurophysiology: Molecules to Systems</li>
+          <li>BENG 260.      Neurodynamics</li>
+        </ul>
+        <p>One additional core course selected from the following in engineering sciences: </p>
+        <ul type="disc">
+          <li>BENG 202. Bioinformatics      II: Introduction to Bioinformatics Algorithms</li>
+          <li>BENG 211. Systems Biology      and Bioengineering I: Biological Components</li>
+          <li>BENG 221. Mathematical Methods      for Bioengineering</li>
+          <li>BENG 223. Thermodynamics,      Statistical Mechanics, Interfacial Phenomena in Living Systems</li>
+          <li>BENG 226. Foundations of      Bioengineering I: Tissue and Cell Properties</li>
+          <li>BENG 227. Transport      Phenomena in Living Systems</li>
+          <li>BENG 241A. Tissue Engineering      and Regenerative Medicine: Foundations</li>
+          <li>BENG 280A. Principles of      Biomedical Imaging</li>
+        </ul>
+<h5>Electives</h5>
+        <p>Twenty-eight units of elective course work are required for completion of course requirements. All graduate courses offered in the Departments of Bioengineering, Mechanical and Aerospace Engineering, and Nanoengineering may be used to fulfill the elective course requirement. Graduate courses in the School of Medicine or in the Division of Biological Sciences may also be used to fulfill the elective course requirement. Courses taken in fulfillment of the elective course requirement must be taken for a letter grade. Other courses may be approved by petition. </p>
+        <p>
+        Up to twelve units of upper-division undergraduate course work limited to the below courses typically required for admission to medical school may be used toward the degree:</p>
+<ul type="disc">
+  <li>BICD      100. Genetics</li>
+  <li>BIMM      100. Molecular Biology</li>
+  <li>BENG      140A. Bioengineering Physiology</li>
+  <li>BENG      140B. Bioengineering Physiology</li>
+  <li>BIPN      100. Human Physiology I</li>
+  <li>BIPN      102. Human Physiology II</li>
+</ul>
+
+        <h5>Comprehensive Examination</h5>
+        <p>The comprehensive examination will be prepared and administered by a faculty committee selected by the Graduate Program Committee. The student will be provided with an exam that is oral, written, or a combination of both, designated by the Exam Committee, with the objective to strengthen the student&rsquo;s knowledge in selected areas that can best prepare the student for his or her professional career. The examination will cover a broad range of topics chosen from upper-division undergraduate courses, and graduate courses taken during the MS-MED program (including BENG 294A, 294B, and/or 294C). After the examination, the Exam Committee will issue a passing or failing grade. If a student fails in the first attempt, he or she may retake the examination at the next scheduled comprehensive examination period. No more than two attempts to pass the exam are allowed. The MS-MED comprehensive examination may be held at the end of any quarters throughout the year.</p>
+<h4 class="program-overview-subhead-3">Master&#8217;s Time Limit Policy </h4>
+				<p>Full-time MS students are permitted seven quarters in which to complete all requirements. While there are no written time limits for part-time students, the department has the right to set individual deadlines if necessary. </p>
+				<p>A strong effort is made to schedule MS-level course offerings so that
+				  students may obtain their MS in one year of full-time
+				  study or two years of part-time study (see regulations on part-time
+				  study under “<a href="../front/GradAdmission.html">Graduate Division</a>”).
+				  Entering students who do not meet the prerequisites of these core courses may have to take some basic courses to make up the deficiency.
+</p>
+                <p>A candidate admitted for the MS who wishes to transfer
+                  to the PhD program must consult the Student Affairs Office
+                  concerning the transfer before completion of the MS
+                  program. </p>
+<h4 class="program-overview-subhead-3">Change of Degree Aim </h4>
+				<p>Upon completion of the requirements for the MS, students are not automatically eligible for admission to the PhD program. </p>
+				<p>MS candidates who wish to pursue a doctorate must submit an application for a change in status to the Graduate Studies Committee. The application is made available each spring by the Student Affairs Office. The application must be approved and signed by a bioengineering faculty member who expects to serve as the student&#8217;s PhD adviser. Applications will be reviewed by an ad hoc faculty committee. If the committee recommends that the student has good potential for success in the doctoral program, the student will be given the opportunity to take an oral examination equivalent to the PhD departmental qualifying examination. At the time of that exam, an assessment will be made concerning admission to the PhD program.</p>
+				<p>A change of status from a master&#8217;s program to the doctoral program requires that the student meet the minimal grade point average required by the department of doctoral candidates. </p>
+				<h3 class="program-overview-subhead-2">Master of Engineering Degree Program </h3>
+				<p>The department offers a <strong>master of engineering (MEng) degree</strong>.
+				  The purpose of this degree is to prepare design and project engineers for
+				  careers in the medical and biological engineering industries within the
+				  framework of the graduate program of the Department of Bioengineering.
+				  It is a terminal professional degree in engineering, which includes recognition
+				  of the importance of breadth in technical knowledge and sufficient electives
+				  to address job-specific interests and professional skills such as economics,
+				  management, and business. It is intended for students who are primarily
+				  interested in engineering design, development, manufacturing, and management
+			    within an industrial setting. </p>
+                <p>Students who may be interested in continuing to the PhD
+                  program should apply to the MS program and not the terminal
+                  MEng program.</p>
+                <p>The MEng program is a flexible, course-intensive terminal
+                  professional degree, designed to be completed in one academic
+                  year of full-time study. It does not require a comprehensive
+                  exam. However, students must enroll for technical elective
+                  credit in BENG 295, Bioengineering Design Project and Industrial
+                  Training, under the direction of a faculty instructor.
+                  This is done by participating in the Graduate Industrial Training
+                  Program, which allows students to work in an industrial setting
+                  on bioengineering projects in order to gain practical experience.
+                  (See “<a href="BENG-ug.html#industrial">Industrial Internship
+                  Program</a>” and “<a href="BENG-ug.html#industrial">Graduate
+                  Industrial Training Program</a><strong>” </strong>sections
+                  of this catalog.) BENG 295 course requirements include a written
+  technical report. </p>
+                <p>In addition to enrolling in one to two quarters (four to eight
+                  units) of BENG 295, Bioengineering Design Project and Industrial
+                  Training, students must select six courses from the approved
+                  core areas, one to two courses from the approved technical
+                  elective course list, and three courses from the approved general
+                  elective course list. Such core courses and technical and general
+                  electives are described below. In selecting breadth courses,
+                  students must be mindful of the prerequisite requirements for
+                  some of the courses listed. The lists below are based on the
+                  current graduate course offerings of the bioengineering and
+                  other engineering departments. The Graduate Studies Committee
+                  will review the MEng course lists annually and update them
+                  as course offerings change. MEng students are required to
+                  complete course requirements with a grade of B or better. </p>
+                <p>Students must also enroll in BENG 291, Senior Seminar I: Professional
+                  Issues in Bioengineering. This course instills skills for personal
+                  and organizational development during lifelong learning. Students
+                  prepare portfolios and a model NIH small business research
+                  grant.</p>
+        <h4>Required Courses for MEng Program </h4>
+        <h5><span class="program-overview-subhead-4">Core Courses (total of six required)</span></h5>
+        <h6>Engineering Physics </h6>
+                <ul type="disc">
+                  <li>BENG      221. Mathematical Methods for Bioengineering </li>
+                    <li>BENG      223. Thermodynamics, Statistical Mechanics, Interfacial Phenomena in      Living Systems</li>
+                    <li>BENG      226. Foundations of Bioengineering I (tissue and cell properties)</li>
+                    <li>BENG      227. Foundations of Bioengineering II (physical basis of tissue transport)</li>
+                </ul>
+<h6>Life Science</h6>
+                <ul type="disc">
+                  <li>BENG      230A. Foundations of Biological Systems I (biochemistry for engineering) </li>
+                    <li>BENG      230B. Foundations of Biological Systems II (cell and molecular biology) </li>
+                    <li>BENG      230C. Cardiovascular Physiology </li>
+                    <li>BENG      230D. Respiratory and Renal Physiology </li>
+                    <li>BENG      232. Musculoskeletal Health, Injury, and Disease</li>
+                    <li>BENG 234. Introduction to Neurophysiology: Molecules to Systems</li>
+                  <li>BENG      260/BGGN 260. Neurodynamics </li>
+                </ul>
+<h6>Tissue Engineering</h6>
+                <ul type="disc">
+                  <li>BENG      241A. Tissue Engineering and Regenerative Medicine: Foundations</li>
+                    <li>BENG      241B. Tissue Engineering and Regenerative Medicine: Cell Microenvironment</li>
+                    <li>BENG      242/MATS 257. Polymer Science and Engineering </li>
+                </ul>
+<h6>Imaging</h6>
+                <ul type="disc">
+                  <li>BENG 247A. Advanced Biophotonics </li>
+                  <li>BENG 280A. Principles of Biomedical Imaging </li>
+                  <li>BENG 280B.  Comparative Biomedical Imaging                  </li>
+                  <li>Other approved core graduate courses taught by bioengineering
+                    faculty that satisfy the depth requirement of the MEng
+                    degree as approved by the Graduate Studies Committee.</li>
+                </ul>
+        <h5>Technical Elective Courses for the MEng <br>
+          (three required,
+                  one of which must be BENG 295) </h5>
+                <ul type="disc">
+                  <li>BENG 202/CSE 282. Bioinformatics II: Introduction to Bioinformatics
+                    Algorithms </li>
+                  <li>BENG 203/CSE 283. Genomics, Proteomics, and Network Biology </li>
+                  <li>BENG 207. Topics in Bioengineering</li>
+                  <li>BENG 208. Topics in Bioengineering with Lab </li>
+                  <li>BENG 209/MAE 209. Continuum Mechanics Applied to Medicine/Biology </li>
+                  <li>BENG 211. Systems Biology and Bioengineering I:  Biological
+                    Components </li>
+                  <li>BENG 212. Systems Biology and Bioengineering II: Network
+                    Reconstruction </li>
+                  <li>BENG 213. Systems Biology and Bioengineering III: Building
+                    and Simulating Large-Scale in Silico Models  </li>
+                  <li>BENG 238/MED 238. Molecular Biology of the Cardiovascular
+                    System </li>
+                  <li>BENG 247B/ECE 247B. Bioelectronics </li>
+                  <li>BENG 247C/ECE 247C. Bionanotechnology </li>
+                  <li>BENG 250B. Advanced Biomechanics </li>
+                  <li>BENG 260/BGGN 260. Neurodynamics </li>
+                  <li>BENG 267. Microcirculation in Health and Disease</li>
+                  <li>BENG 276/Chem 276/Math 276. Numerical Analysis in Multiscale
+                    Biology </li>
+                  <li>BENG 295. Bioengineering Design Project—<strong>required</strong></li>
+                  <li>MAE 210A/CENG 210A. Fluid Mechanics I</li>
+                  <li>MAE 210B. Fluid Mechanics II</li>
+                  <li>MAE 210C. Fluid Mechanics III</li>
+                  <li>MAE 221/CENG 221AB. Heat and Mass Transfer </li>
+                  <li>MAE 229A/MATS 211A. Mechanical Properties </li>
+                  <li>MAE 231A. Solid Mechanics </li>
+                  <li>MAE 231B. Elasticity</li>
+                  <li>MAE 231C. Anelasticity</li>
+                  <li>MAE 280A. Linear Systems Theory</li>
+                  <li>MAE 293. Advanced Computer Graphics for Engineers and Scientists</li>
+                  <li>MATS 252/MAE 266. Biomaterials </li>
+                  <li>MATS 253/MAE 267. Nanomaterials and Properties</li>
+                  <li>MATS      258/MAE 250. Medical Device Materials and Applications</li>
+                  <li> CSE 202. Algorithm Design and Analysis</li>
+               
+                  <li>CSE 210. Principles of Software Engineering </li>
+                  <li>CSE 250A. Artificial Intelligence: Search and Reasoning </li>
+                  <li>ECE 235. Nanometer-Scale VLSI Devices</li>
+                  <li>ECE      251A. Digital Signal Processing I</li>
+                  <li>ECE 251B. Digital Signal Processing II</li>
+                </ul>
+                 <p>Core courses may be taken for technical elective credit.  Bioengineering students should enroll in the BENG sections of all courses listed above when applicable.                 </p>
+        <h5>General Elective Courses (three required) </h5>
+                <ul type="disc">
+                  <li>BENG 225. BioBusiness: Biotech Company</li>
+                  <li>ENG 201. Venture Mechanics</li>
+                  <li>ENG 202. Enterprise Dynamics</li>
+                  <li>ENG 203. Applied Innovations</li>
+                  <li>ECE 254. Detection Theory </li>
+                  <li>MAE 290A. Efficient Numerical Methods for Simulation, Optimization,
+                    and Control</li>
+                  <li>Technical Elective courses may be taken for general elective
+                    credit </li>
+                </ul>
+                <p>For other courses that address job-specific interests and
+                  professional skills such as economics, management, and business,
+                  consult with the Student Affairs Office.</p>
+                <h5>Seminar (required)</h5>
+                <p>BENG 291. Professional Issues in Bioengineering </p>
+                <h4 class="program-overview-subhead-3">Sample MEng Schedule</h4>
+        <table class="sample-program" cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                    <th>FALL</th>
+                    <th>WINTER</th>
+                    <th>SPRING</th>
+                  </tr>
+                  <tr>
+                    <td>Core</td>
+                    <td>Core</td>
+                    <td>Core</td>
+                  </tr>
+                  <tr>
+                    <td>Core</td>
+                    <td>Core</td>
+                    <td>Core</td>
+                  </tr>
+                  <tr>
+                    <td>BENG 225 (GE)</td>
+                    <td>BENG 295 (TE)</td>
+                    <td>BENG 295 (TE)</td>
+                  </tr>
+                  <tr>
+                    <td>Tech. Elec.</td>
+                    <td>Gen. Elec.</td>
+                    <td>Gen. Elec.</td>
+                  </tr>
+                  <tr>
+                    <td>BENG 291 (Seminar) </td>
+                    <td>&nbsp;</td>
+                    <td> </td>
+                  </tr>
+                </table><p class="anchor-parent"><a class="anchor" id="doctoral"></a></p><h3 class="program-overview-subhead-2">Doctoral Degree Program </h3>
+				<p>The <strong class="myriad-pro-semibold">bioengineering PhD program</strong> is intended to prepare students for a variety of careers in research and teaching. Therefore, depending on the student&#8217;s background and ability, research is initiated as soon as possible. Bioengineering students have specific course requirements and must maintain a minimum grade point average of 3.4 in these courses. Students, in consultation with their advisers, develop course programs that will prepare them for the departmental qualifying examination and for their dissertation research. These programs of study and research must be planned to meet the time limits established to advance to candidacy and to complete the requirements for the degree. Doctoral students who have passed the departmental qualifying examination may take any course for an S/U grade with the exception of courses required by the Departmental or Senate Qualifying Examination Committee. It is recommended that all bioengineering graduate students take a minimum of two courses (other than research) per academic year after passing the departmental qualifying examination. Details can be obtained from the Student Affairs Office. </p>
+                <div>
+                  <div> </div>
+                  <div> </div>
+                  <div> </div>
+        </div>
+<h4 class="program-overview-subhead-3">Doctoral Examinations </h4>
+				<p>A bioengineering PhD student is required to pass three examinations. The first is a departmental qualifying examination, which must be taken after spring quarter of the first year of study. The exam is designed to ensure that all successful candidates possess a firm command of the engineering and life science subjects that form the foundations of bioengineering research and their integration at a level appropriate for the doctorate. It is administered by a committee designated by the department, consisting of departmental faculty members and, in some cases, other faculty members from a related academic department (e.g., MAE, ECE, SOM). The scope of the oral examination includes the two broad areas that form the core first-year PhD curriculum, namely engineering physics and life science. The purpose of the exam is not merely to recapitulate the content of first-year courses, but rather to establish that students are able to synthesize this knowledge and apply it to solve problems in contemporary bioengineering research.</p>
+				<h4 class="program-overview-subhead-3">Curriculum for PhD Students </h4>
+				<p>Each incoming student will be assigned a bioengineering faculty adviser who will serve as a graduate adviser until the student chooses a thesis adviser. This assignment is noted in the departmental offer letter.</p>
+				<h5>First-Year Requirements</h5>
+				<p>All bioengineering students in their first year of study are expected to enroll in the six required core courses in the Engineering Physics and Life Science tracks listed below. First-year students are also required to take both one-credit seminars: BENG 281 (all three quarters) and BENG 282 (F); one quarter of BENG 501. Teaching Experience (W or S) and an ethics course are also required.</p>
+<h5 class="program-overview-subhead-4">Core Courses (total of six required)</h5>
+<p class="program-overview-subhead-4">All core courses must be taken for letter grade. </p>
+		<h6>Required Core Graduate Courses—Engineering Physics (2 + 1 four-unit courses)</h6>
+        <ul type="disc">
+          <li>BENG 226. Foundations of      Bioengineering I (tissue and cell properties)</li>
+          <li>BENG 227. Foundations of      Bioengineering II (physical basis of tissue transport)</li>
+        </ul>
+        <p>Plus one of the following courses:</p>
+        <ul type="disc">
+          <li>BENG 221. Mathematical      Methods for Bioengineering</li>
+          <li>BENG 223. Thermodynamics,      Statistical Mechanics, and Interfacial Phenomena in Living Systems</li>
+          <li>BENG 241A. Tissue      Engineering and Regenerative Medicine: Foundations</li>
+          <li>BENG 280A. Principles of      Biomedical Imaging</li>
+          <li>BENG 211. Systems Biology      and Bioengineering I: Biological Components</li>
+          <li>BENG 202/CSE282.      Bioinformatics II: Introduction to Bioinformatics Algorithms</li>
+        </ul>
+        <h6>Required Core Graduate Courses—Biological Sciences (2 + 1 four-unit courses)</h6>
+        <ul type="disc">
+          <li>BENG 230A. Foundations      of Biological Systems I (biochemistry for engineering)</li>
+       
+          <li>BENG 230B. Foundations      of Biological Systems II (cell and molecular biology)</li>
+        </ul>
+        <p>Plus one of the following courses:</p>
+        <ul type="disc">
+          <li>BENG      230C. Cardiovascular Physiology</li>
+          <li>BENG      230D. Respiratory and Renal Physiology</li>
+          <li>BENG      232. Musculoskeletal Health, Injury, and Disease</li>
+          <li>BENG      234. Introduction to Neurophysiology: Molecules to Systems</li>
+          <li>BENG      260/BGGN 260. Neurodynamics</li>
+        </ul>
+        <p>Bioengineering students should enroll in the BENG sections of all courses listed above when applicable.</p>
+<h5>Elective Courses (four required)</h5>
+        <p>Doctoral students are required to complete a total of four approved elective courses by the end of their third year of study. All graduate-level courses offered in the Department of Bioengineering (other than the six core courses) may be used to fulfill the elective course requirement. Students may also take graduate-level engineering/science courses offered in other departments (e.g., MAE, ECE, SOM) for elective credit with prior faculty adviser approval. Courses taken in fulfillment of the elective course requirement must be taken for a letter grade.</p>
+        <p>Up to two undergraduate (four-unit letter grade) courses for prerequisites can be counted as electives (with permission from the adviser/GSC).</p>
+        <h6>Teaching Experience (three quarters required)</h6>
+        <ul type="disc">
+          <li>BENG      501. The total teaching requirement for new doctoral students is three quarters      at 25 percent effort (Ten hours a week. At least one quarter of teaching      experience is required during the first year (prior to the departmental      qualifying exam). Students must complete the entire teaching requirement      prior to the Senate qualifying exam. </li>
+        </ul>
+        <h6>Ethics Course (one)</h6>
+        <ul type="disc">
+          <li>BENG 292</li>
+        </ul>
+        <h6>Two BENG Seminars </h6>
+        <ul type="disc">
+          <li>BENG      281. Seminar in Bioengineering (F,W,S), three quarters</li>
+          <li>BENG      282. Seminar: Faculty Research (F), one quarter</li>
+        </ul>
+        <h6>Research</h6>
+        <ul>
+          <li>BENG 298L. Research Rotation<br>
+          Remaining requirements for fulfilling full-time enrollment are distributed between electives and research rotations. Students have the option of rotating in labs during their first year. Students may enroll in up to two rotations (BENG 298L, four units) during their first year. A one- to two-page laboratory report is due at the end of each rotation. Credit for this work requires approval from the faculty in charge of the laboratory where the work is performed. BENG 298L credit counts toward the number of units necessary for full-time student status, but not toward fulfilling academic course work requirements.</li>
+          <li>BENG 299. Research<br>
+          Students must be enrolled in twelve units to maintain full-time status. Students enroll in BENG 299 and/or electives to fulfill this requirement. Credit for BENG 299 research units is adjudicated upon approval of the faculty that sponsors and supervises the research carried out by the enrolled student.		  </li>
+        </ul>
+        <p>The <strong class="myriad-pro-semibold">Senate qualifying examination</strong> is the second examination required of bioengineering PhD students. In preparation for this examination, students must have completed the departmental qualifying examination, the departmental teaching experience requirement, all required course work (six core and four approved elective courses), obtained a faculty research adviser, identified a topic for their dissertation research, and made initial progress. At the time of application for advancement to candidacy, a doctoral committee responsible for the remainder of the student’s graduate program is appointed by the Graduate Council. The committee conducts the Senate qualifying examination, during which students must demonstrate the ability to engage in thesis research. This involves the presentation and defense of a plan for the thesis research project.  Upon successful
+				  completion of this examination, students are advanced to candidacy and
+				  are awarded the Candidate in Philosophy degree (see “<a href="../front/GradAdmission.html" target="_blank">Graduate
+				  Division</a>”
+			    section in this catalog). </p>
+				<p>The <strong class="myriad-pro-semibold">Dissertation Defense </strong>is the final PhD examination. Upon completion of the dissertation research project, the student writes a dissertation that must be successfully defended in a public presentation and oral examination conducted by the doctoral committee. A complete copy of the student&#8217;s dissertation must be submitted to each member of the doctoral committee approximately four weeks before the defense. It is understood that this copy of the dissertation given to committee members will not be the final copy, and that the committee members may suggest changes in the text at the time of the defense. This examination must be conducted after completion of at least three quarters from the date of advancement to doctoral candidacy. Acceptance of the dissertation by the Graduate Division and the university librarian represents the final step in completion of all requirements for the PhD. </p>
+				<p>There is no formal foreign language requirement for doctoral candidates. Students are expected to master whatever language is needed for the pursuit of their own research.</p>
+				<p class="anchor-parent"><a class="anchor" id="obtain" ></a></p><h4 class="program-overview-subhead-3">Obtaining an MS </h4>
+				<p>PhD students may obtain the MS by completing the course work requirements and by passing the PhD departmental qualifying examination. Course work requirements include successful completion of a total of forty-eight units of credit comprising engineering physics, life science and five approved elective courses <em>(</em>see details on course work requirements in the section &ldquo;<a href="../curric/BENG-gr.html#doctoral">Doctoral Degree Program</a>&rdquo;<em>)</em>. Students should consult with the Student Affairs Office in advance of their second year of study concerning required paperwork and deadlines for conferral of the MS. </p>
+<h4 class="program-overview-subhead-3">PhD Time Limit Policy </h4>
+				<p>Precandidacy status is limited to three years. Doctoral students are eligible for university support for six years. The defense and submission of the doctoral dissertation must be within seven years. </p>
+				<h4 class="program-overview-subhead-3">Evaluations </h4>
+				<p>In the spring of each year, the faculty evaluates each doctoral student&#8217;s overall performance in course work, research, and prospects for financial support for future years. A written assessment is given to the student after the evaluation. If a student&#8217;s work is found to be inadequate, the faculty may determine that the student cannot continue in the graduate program. </p>
+				<h4>PhD in Bioengineering with Specialization in Bioinformatics </h4>
+                <p>A specialization in bioinformatics spanning four divisions—Biological Sciences, Physical Sciences, Jacobs School of Engineering, and Health Sciences. Intended for students who have an interdisciplinary persuasion to work across computers, biology, medicine, and engineering. Candidates will be admitted into participating graduate programs (bioengineering, biology, biomedical sciences, chemistry and biochemistry, computer science and engineering, mathematics, and physics) and work toward degrees in their home departments with a specialization in bioinformatics. The specialization will serve to educate future generations of bioinformatics researchers. Understanding how genomes work requires sophisticated computer-based information handling tools (bioinformatics), and new high throughput technologies for understanding the function of genes on a genome-wide scale (functional genomics).  </p>
+                <h4>PhD in Bioengineering with Specialization in Computational Neuroscience</h4>
+                <p>The Neuroscience Graduate Program, Department of Physics, and Department of Bioengineering offer a specialization in computational neuroscience. Students from these departments and program who pursue the computational neuroscience specialization are trained in the broad range of scientific and technical skills essential to understand the computational and theoretical basis of neural systems. Students in this specialization will be required to fulfill all of the academic requirements for a PhD in their home department or program and must successfully complete a set of three core computational courses, any other course work as directed by the Computational Neuroscience Committee, and successfully defend a thesis on an approved topic.</p>
+
+                <h4>PhD in Bioengineering with Specialization in Multiscale Biology</h4>
+                <p>A specialization in multiscale biology spanning four divisions—Biological Sciences, Physical Sciences, Jacobs School of Engineering, and Health Sciences—is available to doctoral candidates in bioengineering. The PhD specialization is designed to allow students to obtain standard basic training in their chosen field within the biological sciences, physical sciences, engineering, and health sciences with training in integrative and quantitative analysis across multiple scales of biological organization from molecule to organism in health and disease into their graduate studies. For more information, students should contact the Student Affairs Office.</p>
+                <h4>PhD in Bioengineering with Specialization in Quantitative Biology</h4>
+                <p>A specialization in quantitative biology spanning four divisions—Biological Sciences, Physical Sciences, Jacobs School of Engineering, and Health Sciences—is available to doctoral candidates in bioengineering. This PhD specialization is designed to train students to develop and apply quantitative theoretical and experimental approaches to studying fundamental principles of living systems. The core of this specialization comprises one year of theory courses and one year of lab courses, most of which can be counted toward satisfying the bioengineering elective requirement. For more information, students should contact the Student Affairs Office.</p>
+        <!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

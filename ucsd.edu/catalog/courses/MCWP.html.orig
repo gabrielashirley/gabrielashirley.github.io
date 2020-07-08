@@ -1,0 +1,149 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Muir College</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" --> 
+            <h1 class="noTopMargin">Muir College </h1>
+            <p><span class="courseFacLink">[ <a href="../curric/MCWP.html">program</a> <a href="../courses/MCWP.html"></a> ]</span></p>
+<p>Provost, Muir College<br />
+  2126 Humanities and Social Sciences Building</p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/Course Name and Disclaimer.lbi" -->
+<h2>Courses</h2>
+<p class="course-disclaimer"><em>For course descriptions not found in the </em>UC
+  San Diego General Catalog 2019&#8211;20<em>, please contact the department
+  for more information.</em></p><!-- #EndLibraryItem --><p class="anchor-parent"><a class="anchor" id="muir1" name="muir1" /></a></p><p class="course-name">MUIR 1. First Year Experience (2)</p>
+<p class="course-descriptions">This course facilitates academic success at a leading research university by helping students understand and embrace academic and curricular expectations, engage and map cocurricular opportunities, and strengthen critical thinking and organizational, interpersonal, and wellness skills. P/NP grades only. <strong class="italic">Prerequisites:</strong> departmental approval. Open to incoming Muir College students only.</p>
+<p class="anchor-parent"><a class="anchor" id="muir2" name="muir2" /></a></p><p class="course-name">MUIR 2. Transfer Year Experience (2)</p>
+<p class="course-descriptions">This course facilitates academic success at a leading research university by helping students understand and embrace academic and curricular expectations, engage and map cocurricular opportunities, and strengthen critical thinking and organizational, interpersonal, and wellness skills. P/NP grades only.<strong class="italic"> Prerequisites:</strong> departmental approval. Open to Muir College transfer students only.</p>
+<p class="anchor-parent"><a class="anchor" id="mcwp199" name="mcwp199" /></a></p><p class="anchor-parent"><a class="anchor" id="muir199" name="muir199" /></a></p>
+  <p class="course-name">MUIR 199. Muir Special Project (4–16) </p>
+				<p class="course-descriptions">A course of independent work on a research or creative project to satisfy a Muir graduation requirement. (Only Muir students who have had Muir Special Project proposals approved may enroll in this course.) Students wishing to enroll must submit a written request with a description of the project. (Muir students must submit the Muir Special Project 199 form to the major advisor and to the Office of the Provost by the seventh week of the quarter prior to the quarter in which the 199 is to be undertaken. For information on other requirements, consult the provost&#8217;s office.) <strong class="italic">Prerequisites:</strong> upper-division status, approval by project advisor and by provost. (Letter grades only.) </p>
+				<p class="anchor-parent"><a class="anchor" id="mcwp40" name="mcwp40" /></a></p><p class="course-name">MCWP 40. Critical Writing (4) </p>
+				<p class="course-descriptions">First course of sequence in university reading and writing which satisfies the Muir College graduation requirement in writing. Required of all Muir College first-year students and of transfer students who have not completed a comparable course elsewhere. MCWP 40 introduces students to the basic elements of argument and analysis. Students engage in close reading of texts, weekly writing and revision, and individual conferences. Course must be taken for a letter grade. Those who need additional work to prepare for MCWP 50 will be given a grade of IP and will be required to take MCWP 41. <strong class="italic">Prerequisites:</strong> satisfaction of the UC Entry Level Writing requirement. </p>
+				<p class="anchor-parent"><a class="anchor" id="mcwp50" name="mcwp50" /></a></p><p class="course-name">MCWP 50. Critical Writing (4) </p>
+				<p class="course-descriptions">Second course of sequence in reading and writing which satisfies the Muir College graduation requirement in writing. Required of all Muir College first-year students and of transfer students. MCWP 50 focuses on advanced skills of argument and analysis. Students engage in close reading of texts, weekly writing and revision, and individual conferences. Course must be taken for a letter grade. <strong class="italic">Prerequisites:</strong> satisfaction of MCWP 40 requirement or completion of TAG or IGETC agreement. </p>
+				<p class="anchor-parent"><a class="anchor" id="mcwp125" name="mcwp125" /></a></p><p class="course-name">MCWP 125. Argument and Analysis (4) </p>
+		<p class="course-descriptions">An advanced course in argumentation and analysis, with particular attention both to constructing arguments and analyzing the logic and rhetoric of others&#8217; arguments. Students will engage in close reading of texts, weekly writing and revision, and individual conferences. A course specially designed for and required of transfer students who enter Muir College under the aegis of TAG or IGETC. <strong class="italic">Prerequisites:</strong> departmental approval. </p>
+<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

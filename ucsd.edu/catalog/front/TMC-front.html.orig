@@ -1,0 +1,222 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" --> 
+<title>Thurgood Marshall College</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+		<h1><a href="http://marshall.ucsd.edu/" target="_blank">Thurgood Marshall College</a></h1>
+        <p><a href="http://marshall.ucsd.edu" target="_blank">Thurgood Marshall College</a>, formerly known as Third College, was founded in 1970 in a period of fervent social debate in our nation. From its dramatic inception, the college has enriched the lives of undergraduates with philosophic commitment to the development of students as both scholars and citizens. In July of 1993, the college was renamed in honor of the legendary lawyer and Supreme Court Justice Thurgood Marshall. Justice Marshall was widely known and praised for his historic contributions to American life and dedication to breaking down barriers to education, civil rights, freedom of speech, women&rsquo;s rights, and the profound right to privacy. The faculty, staff, and students of Marshall College are committed to furthering the ideals and dreams of Justice Marshall; accordingly, students are provided opportunities to develop as both enterprising scholars and responsible citizens. </p>
+        <p>Four thousand students pursue any major in a variety of disciplines. Among Marshall College students, about 40 percent choose majors in biology, the physical sciences, mathematics, and engineering; 35 percent select majors in the social sciences; and 25 percent pursue majors in the humanities and fine arts. One primary aim is to prepare students for the pursuit of a rigorous academic curriculum that will promote entry into graduate and professional schools or into the career of one&rsquo;s choice.</p>
+        <h3>Educational Philosophy</h3>
+        <p>The educational philosophy of Marshall College is guided by the belief that regardless of a student&rsquo;s major, a broad liberal arts education must include an awareness and understanding of one&rsquo;s role in society. Therefore, the distinctive core sequence, which serves as the centerpiece of the general-education requirements, emphasizes a critical examination of the human condition in our dynamic American society. This three-quarter core sequence, &ldquo;Dimensions of Culture—Diversity, Justice, and Imagination,&rdquo; challenges and inspires students to develop an informed awareness of the many cultural perspectives that have shaped American society. The core sequence is designed as an interdisciplinary, contemporary issues-oriented curricular experience that explores both the diversity of American experiences across race, religion, class, and gender, and also the shared resources all Americans draw on when their different identities and interests conflict. Other general-education requirements include courses in mathematics, physical and biological sciences, humanities, and the arts. </p>
+        <p>Wishing to uphold the ideals set forth by the college&rsquo;s namesake, students are encouraged to develop their skills not only as scholars, but also as engaged citizens. Therefore, it is our belief that scholarship and social responsibility are mutually compatible and essential. In this regard, our students receive academic credit for participating in the Partners-at-Learning Program (PAL) by taking courses that train and place them as tutors and mentors in local inner-city elementary schools and high schools: Gompers Preparatory Academy, and Lincoln High School in Southeast San Diego, as well as the on-campus model, The Preuss School UCSD. Because this activity shares importance with other exciting academic experiences, completion of one of these specific public service courses offered through the Education Studies Program, satisfies an upper-division general-education requirement. </p>
+        <p>Further underpinning the educational philosophy of Marshall College is the candid belief that the best preparation for a complex, interdependent, and rapidly changing world is a broad liberal arts education, complemented by in-depth study in areas of the student&rsquo;s choice. This educational approach has several major advantages: </p>
+        <ol start="1" type="1">
+          <li>It      guarantees a basic understanding of the principal branches of knowledge:      humanities and arts, social sciences, natural sciences, and quantitative      analysis/formal skills. </li>
+          <li>It      enables students with well-defined interests and goals to begin work in      their chosen field of study as first-year students.</li>
+          <li>It allows      students who have not decided on a major to sample an array of potential      majors while simultaneously satisfying the general-education requirements      of the college.</li>
+        </ol>
+        <h3>Honorary Fellows of the College</h3>
+        <ul type="disc">
+          <li>Maryann      Callery, College Activist</li>
+          <li>Cesar      Chavez,* Civil Rights Activist</li>
+          <li>Ernesto      Galarza, Novelist and Educator</li>
+          <li>Samuel      Goldwyn, Jr., Film Producer and Director </li>
+          <li>Joseph      W. Watson, Educator, Professor, Vice Chancellor</li>
+          <li>Marian      Wright Edelman, President, Children&rsquo;s Defense Fund</li>
+          <li>Terrence      Roberts, Educator and Activist (one of the Little Rock Nine, 1957)</li>
+          <li>James      Avery,* Actor, Alumnus, and Philanthropist</li>
+          <li>Cecil      Lytle, Professor of Music, Pianist, and Provost Emeritus of Marshall      College</li>
+        </ul>
+        <p class="note">*Deceased </p>
+        <a id="gened"></a>
+        <h3>General Education </h3>
+        <p>General-education requirements are established by faculty to be broad and flexible enough to encourage students to integrate other alternatives, such as public service, internships, study abroad, research, special studies, and more, into their academic program. This range permits flexibility in pursuit of academic goals and in the practical application of a liberal arts degree, whether students wish to enter the workforce or continue their education in graduate or professional school. These courses are designed to introduce students to the academic focus of the college, provide a broad liberal arts and science background, and furnish students with the academic skills and the basic knowledge necessary to pursue any departmental or interdisciplinary major. </p>
+        <p>The general-education requirements for first-year students are composed of a core sequence and a menu of choices within a liberal arts framework: </p>
+        <ol start="1" type="1">
+          <li><strong>DIVERSITY, JUSTICE, AND IMAGINATION</strong>:      This is a three-course interdisciplinary sequence. Two of the three      courses are six units and include intensive instruction in      university-level writing. This is a required sequence for all first-year      students. All courses must be completed at UC San Diego and taken on a      letter-grade basis only. (See &ldquo;<a href="../curric/DOC.html">Dimensions of      Culture</a>&rdquo; in the departmental listings.)</li>
+          <li><strong>FINE ARTS: </strong>One course.      One course from music, theatre, or visual arts (nonperformance).</li>
+          <li><strong>NATURAL SCIENCES</strong>: Three courses.      One course each in biology, chemistry, and physics. Courses are available      for science and nonscience students. </li>
+          <li><strong>MATHEMATICS, STATISTICS, AND LOGIC</strong>:  Two      courses. Two courses in mathematics or one course in mathematics or      statistics and one in computing or logic. Courses are available for science      and nonscience students.</li>
+          <li><strong>HUMANITIES      AND CULTURE</strong>: Two courses to be chosen from an approved list of courses in domestic and global cultures.</li>
+       
+          <li><strong>DISCIPLINARY BREADTH</strong>: Four courses. Students choose four courses from a variety of disciplinary breadth areas: humanities/fine arts; foreign languages; social science; natural science; math/engineering; and interdepartmental/interdisciplinary.  Courses used to satisfy the disciplinary      breadth requirement come from fields outside the major field of study. Two      of these courses must be upper division. At least one upper-division      course must include significant writing. </li>
+          <li><strong>PUBLIC SERVICE</strong> (optional): This      four-unit public service option may be used to fulfill one four-unit      course in disciplinary breadth for any major and fulfills the      upper-division writing requirement. (See &ldquo;<a href="#partners">Partners-at-Learning Program</a>&rdquo; and &ldquo;<a href="../curric/EDS-ug.html">Education Studies</a>&rdquo; and General Education fact sheet listings.)</li>
+        </ol>
+        <p>The Marshall College executive committee publishes an annual fact sheet with specific course choices that may be used to meet these requirements. Contact the college academic advising office for additional information or refer to the college website. </p>
+        <h3>Transfer Students </h3>
+        <p>Transfer students have a variety of academic options available to complete lower-division general education prior to transfer. Specific details regarding appropriate general-education agreement are in the section on &ldquo;<a href="UgrdAdm.html">Undergraduate Admissions</a>&rdquo; and through the community college. Students may also contact UC San Diego Transfer Student Services prior to transfer. Also, the college website contains pertinent information at <a href="http://marshall.ucsd.edu" target="_blank">http://marshall.ucsd.edu</a>. </p>
+        <h3>Graduation Requirements</h3>
+        <p>To receive a bachelor&rsquo;s degree from Marshall College, a student must </p>
+        <ol>
+          <li>Satisfy the university English Language Writing Requirement (ELWR). (See &ldquo;<a href="UgrdDegReq.html">University-wide Graduation Requirements</a>.&rdquo;)</li>
+          <li>
+Satisfy the university requirement in American History and Institutions (AH&amp;I). (See &ldquo;<a href="UgrdDegReq.html">University-wide Graduation Requirements</a>.&rdquo;)</li>
+          <li>Satisfy      the university Diversity, Equity, and Inclusion Requirement (DEI). (See &ldquo;<a href="UgrdDegReq.html">University-wide      Graduation Requirements</a>.&rdquo;)</li>
+          <li>Fulfill      the general-education requirements as described.</li>
+          <li>Complete      a departmental or interdisciplinary major.</li>
+          <li>Satisfy the      college residency requirement (thirty-six of the last eleven courses must      be completed as a registered Marshall College student).</li>
+       
+          <li>Successfully      complete a minimum of 180 units for the BA/BS. At least sixty of      these units must be completed at the upper-division level.</li>
+          <li>A 2.0      or better GPA is required for graduation.</li>
+        </ol>
+        <h3>Pass/Not Pass Grading Option</h3>
+        <ol start="1" type="1">
+          <li>Most      majors require students to take courses for a letter grade in order to      apply the course toward the major&rsquo;s requirement. Please check with the      department or program regarding their policy on P/NP grades. </li>
+        
+          <li>Only      one upper-division course to be counted toward an independent studies      minor may be taken on a Pass/Not Pass basis.</li>
+          <li>Courses      taken toward completion of the college general-education requirements,      with the exception of Dimensions of Culture (Diversity, Justice, and      Imagination), may be taken on a Pass/Not Pass basis, while at the same      time the restrictions for prerequisites to majors and courses counted      toward a minor must be observed.</li>
+          <li>Courses      taken as electives may be taken on a Pass/Not Pass basis, while at the      same time the restrictions on the majors and minors must be observed.</li>
+          <li>With      the exception of units earned in independent study courses (numbered 199),      no more than 25 percent of an undergraduate student&rsquo;s total UC San Diego      units may be taken on a Pass/Not Pass basis.</li>
+        
+        </ol>
+        <h3>Majors </h3>
+        <p>Marshall College students may pursue any of the departmental or interdisciplinary majors offered at UC San Diego. The majority of the academic departments have established lower-division prerequisites. Generally, these prerequisites must be completed prior to entry into upper-division major courses. Many of these courses may be counted for general-education credit as well. Students are strongly encouraged to work closely with department faculty and college advisers. For details on the specific major departments, refer to the &ldquo;<a href="courses.html">Courses, Curricula, and Faculty</a>&rdquo; section of this catalog. </p>
+        <h3>Minors</h3>
+        <p>Minors are optional. However, students are encouraged to keep as many options open as possible. A minor provides an excellent opportunity to complement the major field of study and adds rich dimensionality to the UC San Diego experience. </p>
+        <p>Students are required to complete twenty-eight units of interrelated work, of which at least twenty units must be upper division. See your college or department for further information. </p>
+        <h3>College-Sponsored Programs</h3>
+        <h4>Individual Studies Major </h4>
+        <p>The Individual Studies major allows students to pursue a coherent course of study not formally offered at UC San Diego. To apply for the major, students must have a 3.25 grade point average and apply by the beginning of the junior year. A written proposal with supporting documentation from a ladder-ranked faculty adviser, a list of prerequisite courses, and a proposed curriculum plan are required. Students pursuing this major must be goal oriented and self-directed. Please contact the Marshall College <a href="http://marshall.ucsd.edu/academics/academic-advising/index.html" target="_blank">academic advising office</a>.</p>
+        <h4><a name="partners"></a>Partners-at-Learning Program (PAL) </h4>
+        <p>Students may participate in the Partners-at-Learning Program (PAL) by taking specified Education Studies (EDS) courses that train and place them as tutors and mentors in local elementary and high schools, as well as the on-campus Preuss School, Gompers Preparatory Academy, and Lincoln High School in Southeast San Diego. Participation in the PAL Program can be counted toward satisfying the Public Service option at Marshall College. This campuswide program is open to all students in good standing and at the junior level. (See EDS in the department listing—specifically EDS 130, 131, 134, 136, 137, 138, and each taken with the corequisite EDS 139.)  </p>
+        <h4>Public Service Minor </h4>
+        <p>Marshall College sponsors the Public Service minor at UC San Diego, which motivates students to grasp the history and practices of public service and to participate in the development of civic skills. This minor is open to all UC San Diego students in good standing. Please see &ldquo;<a href="../curric/PSM.html">Public Service Minor</a>&rdquo; in the departmental listings or visit the website at <a href="https://marshall.ucsd.edu/programs/public-services-minor.html" target="_blank">https://marshall.ucsd.edu/programs/public-services-minor.html</a>.</p>
+        <h4>Film Studies Minor </h4>
+        <p>The film studies minor provides students an exciting opportunity to examine the many facets of American and international cinema. Students interested in exploring cinema as a multidimensional art medium will engage in the analysis of cinematic works of various forms. Study of film genres, history, theories, directors, and cultural perspectives allows students to gain a robust understanding of cinema as a historical and contemporary means of expression. Please visit the website: <a href="http://marshall.ucsd.edu/programs/film-studies-minor.html" target="_blank">Film Studies Minor</a>. </p>
+<h4>Thurgood Marshall Institute </h4>
+        <p>The Thurgood Marshall Institute is devoted to undergraduate research, public debate, and policy papers. The institute has organized and supported faculty and student group research projects in education and public law; hosted conferences and symposia on pressing issues; trained junior and senior high school instructors in the teaching of the United States Constitution and its amendments; commissioned political drama on radio and on stage; and created an active blog with political essays and a range of interviews with Nobel and Pulitzer winners. Also, visit the website at <a href="https://marshall.ucsd.edu/about-us/index.html" target="_blank">https://marshall.ucsd.edu/about-us/index.html</a>.</p>
+        <h4>UC San Diego-Morehouse/Spelman Student Exchange Program </h4>
+        <p>The UC San Diego-Morehouse/Spelman Student Exchange Program was established in the fall quarter of 1989. This formal exchange program was developed by Marshall College and is open to all UC San Diego undergraduates. Morehouse and Spelman Colleges are located in Atlanta, Georgia. </p>
+        <p>The purpose of the program is to provide a unique opportunity for students to live and study at important institutions of higher learning that are significantly different from the social and educational environment typical of California state colleges and universities. Similarly, the exchange students coming to UC San Diego from Morehouse and Spelman will have an opportunity to experience an exciting and very different educational environment. See the program coordinator in the Marshall College <a href="http://marshall.ucsd.edu/academics/academic-advising/index.html" target="_blank">academic advising office</a> for additional information or visit the website at <a href="http://marshall.ucsd.edu/programs/exchange-programs.html" target="_blank">http://marshall.ucsd.edu/programs/exchange-programs.html</a>. </p>
+        <h4>Student Leadership Program </h4>
+        <p>Complementary to its strong academic programs, Marshall College is proud of its emphasis on the student as citizen. The Student Leadership Program is especially designed to encourage active involvement in the governance of the college and participation in community and public service programs. University life outside of the classroom and laboratory is a vital part of each student&rsquo;s undergraduate experience. The college offers a wide variety of opportunities for students to shape the nature and character of student life. This active participation allows students to develop self-confidence and strong interpersonal, organizational, and leadership skills. The friendly and outgoing manner of Marshall College students contributes to a sense of community and mutual respect. This spirit of cooperation is a college hallmark. </p>
+        <h4>Marshall Mentor Program for Transfer Students</h4>
+        <p>Established in 2006, Marshall College pairs faculty members with transfer students for an entire year in support of active mentoring. The matches are made by field of study and approximately fifty students are supported by twenty-five professors. Students apply for the program at the beginning of fall quarter. </p>
+        <h3>Honors</h3>
+        <p>Quarterly provost&rsquo;s honors, honors at graduation, departmental honors, and Phi Beta Kappa are awarded to Marshall College students. For additional information, see &ldquo;<a href="UgrdDegReq.html#honors">Honors</a>,&rdquo; speak with the academic honors program adviser in the academic advising office, or go to <a href="http://marshall.ucsd.edu/academics/tmc-honors-program.html" target="_blank">http://marshall.ucsd.edu/academics/tmc-honors-program.html</a>. </p>
+        <h4>Marshall College Honors Program </h4>
+        <p>The Marshall College Honors Program sponsors activities and events designed to introduce students to the excitement of pioneering research and innovative scholarship in all disciplines at UC San Diego and to create opportunities for discussion on public issues with locally and nationally known figures. See &ldquo;<a href="../curric/TMC.html">Thurgood Marshall College Honors Program</a>&rdquo; in the department listings or visit <a href="http://marshall.ucsd.edu/academics/honors-opportunities/index.html" target="_blank">http://marshall.ucsd.edu/academics/honors-opportunities/index.html</a>. </p>
+        <h4>Study Abroad </h4>
+        <p>Students are encouraged to enhance their undergraduate education by participating in the UC Education Abroad Program (EAP) and UC San Diego Opportunities Abroad Program (OAP) while still making regular progress toward graduation. Information on EAP/OAP is detailed in those sections here. Interested students should contact the Study Abroad UC San Diego Office at Matthews Quad and visit <a href="http://studyabroad.ucsd.edu/" target="_blank">http://studyabroad.ucsd.edu</a>. Financial aid recipients may apply aid to the program, and special study abroad scholarships are readily available. </p>
+        <!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

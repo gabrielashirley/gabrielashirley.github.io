@@ -1,0 +1,594 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Psychology Courses</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopMargin">Psychology</h1>
+<p class="courseFacLink"> [ <a href="../curric/PSYC-ug.html">undergraduate
+      program</a> | <a href="../curric/PSYC-gr.html">graduate program</a> | <a href="../faculty/PSYC.html">faculty</a> ]</p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/Course Name and Disclaimer.lbi" -->
+<h2>Courses</h2>
+<p class="course-disclaimer"><em>For course descriptions not found in the </em>UC
+  San Diego General Catalog 2019&#8211;20<em>, please contact the department
+  for more information.</em></p><!-- #EndLibraryItem --><h2 class="course-subhead-1">Lower Division </h2>
+				
+				<p class="anchor-parent"><a class="anchor" id="psyc1" name="psyc1" /></a></p><p class="course-name">PSYC 1. Psychology (4)</p>
+				<p class="course-descriptions">This course provides an overview of the basic concepts in psychology. Topics may include human information processing, learning and memory, motivation, development, language acquisition, social psychology, and personality. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc2" name="psyc2" /></a></p><p class="course-name">PSYC 2. General Psychology: Biological Foundations (4)</p>
+				<p>This course provides an introductory survey of the relationship between human behavior and brain function. Specific areas of emphasis include vision and other sensory processes, memory, motivation, attention, and cognition. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc3" name="psyc3" /></a></p><p class="course-name">PSYC 3. General Psychology: Cognitive Foundations (4)</p>
+				<p class="course-descriptions">This course provides an introduction to the basic concepts of cognitive psychology. Topics include perception, attention, memory, language, and thought. The relation of cognitive psychology to cognitive science and to neuropsychology is also covered. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc4" name="psyc4" /></a></p><p class="course-name">PSYC 4. General Psychology: Behavioral Foundations (4)</p>
+				<p class="course-descriptions">This course provides an introduction to behavioral psychology. Topics include classical conditioning, operant conditioning, animal learning, and motivation and behavior modification. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc6" name="psyc6" /></a></p><p class="course-name">PSYC 6. General Psychology: Social Foundations (4)</p>
+				<p class="course-descriptions">This course provides an introduction to social psychology. Topics may include emotion, aesthetics, behavioral medicine, person perception, attitudes and attitude change, and behavior in social organizations. </p>
+				<a name="psyc7" id="psyc7"></a></p><p class="course-name">PSYC 7. General Psychology: Developmental Foundations (4)</p>
+                <p class="course-descriptions">This course provides an introduction to theories and research results in developmental psychology, covering infancy through adulthood. </p>
+<p class="anchor-parent"><a class="anchor" id="psyc60" name="psyc60" /></a></p><p class="course-name">PSYC 60. Introduction to Statistics (4)</p>
+				<p class="course-descriptions">This course provides an introduction to both descriptive and inferential statistics, core tools in the process of scientific discovery and the interpretation of research. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc70" name="psyc70" /></a></p><p class="course-name">PSYC 70. Research Methods in Psychology (4)</p>
+		<p class="course-descriptions">This course provides an overview of how to choose appropriate research methods for experimental and nonexperimental studies. Topics may include classic experimental design and counterbalancing, statistical power, and causal inference in experimental and nonexperimental settings. <strong class="italic">Prerequisites: </strong>PSYC 60 or equivalent.</p>
+		<p class="anchor-parent"><a class="anchor" id="psyc71" name="psyc71" /></a></p><p class="course-name">PSYC 71. Laboratory in Psychological Research Methods (4)</p>
+		<p class="course-descriptions">This course provides hands-on research experience. Lecture topics will include experimental and nonexperimental designs, research ethics, data analysis, and causal inference. Students will design original research projects, collect and analyze data, and write a full APA-style report, including a brief literature review relevant to their design. This course builds on PSYC 70 by applying design principles to students&rsquo; own research questions and ideas. <strong class="italic">Prerequisites: </strong>PSYC 70.</p>
+		<p class="anchor-parent"><a class="anchor" id="psyc81" name="psyc81" /></a></p><p class="course-name">PSYC 81. Laboratory in Brain, Behavior, and Evolution (4)</p>
+		<p class="course-descriptions">This course provides students the opportunity to learn about the intricate relationship that exists between brain and behavior, as well as the evolutionary forces that shape this interaction. Lectures for this course aim to introduce students to some of the best examples in the literature that highlight these issues, while a parallel component of the course aims to introduce students to performing research on the topic. <strong class="italic">Prerequisites: </strong>COGS 14B or Math 11 or PSYC 60.</p>
+<p class="anchor-parent"><a class="anchor" id="psyc87" name="psyc87" /></a></p>
+				<p class="course-name">PSYC 87. Freshman Seminar (1)</p>
+		<p class="course-descriptions">The Freshman Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman Seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering freshmen.</p>
+		<p class="anchor-parent"><a class="anchor" id="psyc88" name="psyc88" /></a></p><p class="course-name">PSYC 88. Learning Sustainable Well-being (1)</p>
+		<p class="course-descriptions">This course provides an overview of how to practice well-being, with principles based on mindfulness, positive psychology, cognitive therapy, and neuroscience. Each week, there is a short lecture on a given topic, combined with workshop-style exercises. </p>
+		<p class="anchor-parent"><a class="anchor" id="psyc90" name="psyc90" /></a></p><p class="course-name">PSYC 90. Undergraduate Seminar (1)</p>
+				<p class="course-descriptions">This seminar introduces the various subdisciplines in psychology and their research methods, and also explores career and graduate school opportunities. This includes informal presentations by faculty, graduate students, and other professionals. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc93" name="psyc93" /></a></p><p class="course-name">PSYC 93. Topics in Psychology (4)</p>
+				<p class="course-descriptions">Selected topics in the field of psychology. May be repeated for credit as topics vary. </p>
+<p class="anchor-parent"><a class="anchor" id="psyc99" name="psyc99" /></a></p>
+				<p class="course-name">PSYC 99. Independent Study (2 or 4)</p>
+				<p class="course-descriptions">Independent study or research under direction of a member of the faculty. May be taken up to three times for a maximum of twelve units. <strong class="italic">Prerequisites:</strong> lower-division standing, completion of at least thirty units of undergraduate study at UC San Diego with a minimum UC San Diego GPA of 3.0; completed and approved Special Studies form. </p>
+				<h2 class="course-subhead-1">Upper Division </h2>
+				<p class="anchor-parent"><a class="anchor" id="psyc100" name="psyc100" /></a></p><p class="course-name">PSYC 100. Clinical Psychology (4)</p>
+				<p class="course-descriptions">This course provides a comprehensive overview of the causes, characteristics, and treatment of psychological disorders. Particular emphasis is given to the interaction between biological, psychological, and sociocultural processes contributing to abnormal behavior. Students may not receive credit for both PSYC 163 and PSYC 100. <strong class="italic">Prerequisites: </strong>upper-division standing. </p>
+<p class="anchor-parent"><a class="anchor" id="psyc101" name="psyc101" /></a></p>
+				<p class="course-name">PSYC 101. Developmental Psychology (4)</p>
+				<p class="course-descriptions">This course provides a comprehensive overview of the field of developmental psychology, including topics in cognitive, language, and social development.  <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc102" name="psyc102" /></a></p><p class="course-name">PSYC 102. Sensory Neuroscience  (4)</p>
+				<p class="course-descriptions">This course provides a comprehensive overview of the neural mechanisms that support vision, audition, touch, olfaction, and taste. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc104" name="psyc104" /></a></p><p class="course-name">PSYC 104. Social Psychology (4)</p>
+				<p class="course-descriptions">This course provides a comprehensive overview of the field of social psychology, covering a review of the field&rsquo;s founding principles, classic findings, and a survey of recent findings. Topics will include social perception, attributions and attitudes, stereotypies, social influence, group dynamics, and aggressive and prosocial tendencies. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc105" name="psyc105" /></a></p>
+				<p class="course-name">PSYC 105. Cognitive Psychology (4)</p>
+				<p class="course-descriptions">This course provides a comprehensive overview of cognitive psychology, the scientific study of mental processes: how people acquire, store, transform, use, and communicate information. Topics may include perception, attention, language, memory, reasoning, problem solving, decision-making, and creativity. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc106" name="psyc106" /></a></p><p class="course-name">PSYC 106. Behavioral Neuroscience  (4)</p>
+				<p class="course-descriptions">This course provides a comprehensive overview of human and animal behavior from a neuroscience perspective. Topics include the functions and mechanisms of perception, motivation (sex, sleep, hunger, emotions), learning and memory, and motor control and movement. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc108" name="psyc108" /></a></p><p class="course-name">PSYC 108. Cognitive Neuroscience (4)</p>
+				<p class="course-descriptions">This course provides a comprehensive overview of neuroanatomy and major methods and results from neuroimaging and neuropsychological studies of behavior. Topics include attention, motor control, executive function, memory, learning, emotion, and language. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc110" name="psyc110" /></a></p><p class="course-name">PSYC 110. Juniors Honors Research Seminars (4)</p>
+				<p class="course-descriptions">This course provides research seminars by a range of departmental faculty, exposing students to contemporary research problems in many areas of psychology. Class discussions will follow faculty presentations. Must be taken for a letter grade for the Psychology Honors Program. <strong class="italic">Prerequisites:</strong> upper-division standing. Admission by application. Department approval.</p>
+		<p class="anchor-parent"><a class="anchor" id="psyc111a" name="psyc111a" /></a></p><p class="course-name">PSYC 111A. Research Methods I (6)</p>
+				<p class="course-descriptions">This course provides training in applying advanced statistical methods to experimental design. Emphasis will be placed on the developing skills in statistical problem-solving, using computer applications, and writing scientific reports. Must be taken for a letter grade for the Psychology Honors Program. <strong class="italic">Prerequisites:</strong> upper-division standing. Open to honors students or by consent of instructor. Instructor and department approval. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc111b" name="psyc111b" /></a></p><p class="course-name">PSYC 111B. Research Methods II (6)</p>
+				<p class="course-descriptions">This course builds upon the material of PSYC 111A. Students will participate in data collection, data organization, statistical analysis and graphical analysis, with emphasis placed on developing scientific report writing, presentations, and critical thinking about experimental methods. Must be taken for a letter grade for the Psychology Honors Program. <strong class="italic">Prerequisites: </strong>PSYC 111A; upper-division standing. Instructor and department approval.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc113" name="psyc113" /></a></p><p class="course-name">PSYC 113. Electroencephalogram (EEG) Lab (4) </p>
+				<p class="course-descriptions">This course provides training in the design, execution, and analysis of electroencephalogram (EEG) experiments to study perception and cognition. The course will provide basic background on the EEG methodology: what and how neural signals are measured with EEG, how to interpret them, and how to design experiments. It will also provide hands-on training on conducting an EEG study: we will design and run experiments together in the laboratory, analyze the data, and discuss the results. <strong><em>Prerequisites: </em></strong>PSYC 60 or COGS 14B, and PSYC 70 or COGS 14A, and COGS 101A or COGS 107A or COGS 107B or COGS 107C or PSYC 102 or PSYC 106 or PSYC 108. Department approval.</p>
+<p class="anchor-parent"><a class="anchor" id="psyc114" name="psyc114" /></a></p><p class="course-name">PSYC 114. Psychophysiological Perspectives on the Social Mind Laboratory  (4)</p>
+				<p class="course-descriptions">This course provides an overview and training in the use of psychophysiological methods to investigate the cognitive and emotional process involved in understanding and reacting to other people. Students will develop individual research questions and actively participate in designing and conducting the experiments. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				
+				<p class="anchor-parent"><a class="anchor" id="psyc115a" name="psyc115a" /></a></p><p class="course-name">PSYC 115A. Laboratory in Cognitive Psychology I (4)
+				  </p>
+				<p class="course-descriptions">This course provides training in the design, execution, and analysis of cognitive psychology experiments. Students may not receive credit for both PSYC 115 and PSYC 115A. <strong class="italic">Prerequisites: </strong>upper-division standing and PSYC 60 or equivalent; an interview with the instructor is required.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc115b" name="psyc115b" /></a></p><p class="course-name">PSYC 115B. Laboratory in Cognitive Psychology II (4)</p>
+				<p class="course-descriptions">This course is designed to extend the training of PSYC 115A in the design, execution, and analysis of cognitive psychology experiments. Students may not receive credit for both PSYC 115 and PSYC 115B.<strong class="italic"> Prerequisites: </strong>upper-division standing and PSYC 115A. Instructor and department approval.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc116" name="psyc116" /></a></p>
+				<p class="course-name">PSYC 116. Laboratory in Clinical Psychology Research (2, 4)</p>
+				<p class="course-descriptions">This course provides examination of theory, research design, and methods for clinical research. Students complete an internship at a clinical research lab, culminating in a paper. May be taken for credit three times for a total of eight units. Students may not receive credit for both PSYC 116 and PSYC 107. <strong class="italic">Prerequisites: </strong>upper-division standing. Instructor approval. <em><strong>Corequisites:</strong><strong></strong></em> PSYC 199.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc117" name="psyc117" /></a></p><p class="course-name">PSYC 117. Laboratory in Educational Research and Outreach  (4)</p>
+				<p class="course-descriptions">This course provides experience conducting educational research and outreach for children in greater San Diego County. May be taken for credit three times. <strong class="italic">Prerequisites: </strong>upper-division standing. Instructor approval.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc120" name="psyc120" /></a></p><p class="course-name">PSYC 120. Learning and Motivation (4)</p>
+				<p class="course-descriptions">This course provides a survey of research and theory in learning and motivation. Topics include instincts, reinforcement, stimulus control, choice, and human application. <strong class="italic">Prerequisites:</strong> upper-division standing. Must be taken concurrently with PSYC 121 or PSYC 140. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc121" name="psyc121" /></a></p><p class="course-name">PSYC 121. Laboratory in Operant Psychology (4)</p>
+				<p class="course-descriptions">This course provides laboratory experience in operant psychology. <strong class="italic">Prerequisites:</strong> upper-division standing. May be taken concurrently with PSYC 120. </p>
+				<a name="psyc122" id="psyc122"></a></p><p class="course-name">PSYC 122. Mechanisms of Animal Behavior (4)</p>
+				<p class="course-descriptions">This course focuses on approaches to the study of behavior and its underlying fundamental units of analysis in human and nonhuman animals. Students may not receive credit for both PSYC 122 and PSYC 103. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+<a name="psyc123" id="psyc123"></a></p><p class="course-name">PSYC 123. Cognitive Control and Frontal Lobe Function (4)</p>
+                <p class="course-descriptions">This course provides an understanding of how the frontal lobes allow us to engage in complex mental processes. Topics may include anatomy and theory of prefrontal function, frontal lobe clinical syndromes, pharmacology and genetics, emotion control, and cognitive training.<strong> <span class="italic">Prerequisites: </span></strong>upper-division standing. Instructor and department approval.</p>
+                <div>
+                  <div> </div>
+        </div>
+<p class="anchor-parent"><a class="anchor" id="psyc124" name="psyc124" /></a></p><p class="course-name">PSYC 124. Clinical Assessment and Treatment  (4)</p>
+				<p class="course-descriptions">This course provides an introduction to the history, purpose, and recent changes to the <em>Diagnostic and Statistical Manual of Mental Disorders</em> along with appropriate evidence-based interventions. Other topics include psychiatric emergencies, crisis management, and ethics. Recommended preparation: Completion of PSYC 100. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc125" name="psyc125" /></a></p><p class="course-name">PSYC 125. Clinical Neuropsychology (4)</p>
+				<p class="course-descriptions">This course provides a fundamental understanding of brain-behavior relationships as applied to the practice of clinical neuropsychology. Major topics include functional neuroanatomy, principles of neuropsychological assessment and diagnosis, and the neuropsychological presentation of common neurologic and psychiatric conditions. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc126" name="psyc126" /></a></p><p class="course-name">PSYC 126. Practicum in Community Mental Health Care (4)</p>
+				<p class="course-descriptions">This course provides experience with clients in a community mental health care setting, under professional supervision. Seminar-based instruction also provides a framework for understanding theoretical, practical, and ethical issues related to client care. <strong><em>Prerequisites: </em></strong>PSYC 100 and PSYC 124 and department approval.</p>
+<p class="anchor-parent"><a class="anchor" id="psyc128" name="psyc128" /></a></p><p class="course-name">PSYC 128. Psychology of Reading (4)</p>
+				<p class="course-descriptions">This course provides basic information about the nature of reading. Topics include word recognition, eye movements, inner speech, sentence processing, memory for text, learning to read, methods for teaching reading, reading disabilities and dyslexia, and speed-reading. Recommended preparation: completion of PSYC 105 or PSYC 145. <strong class="italic">Prerequisites: </strong>upper<strong>-</strong>division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc129" name="psyc129" /></a></p><p class="course-name">PSYC 129. Logic of Perception (4)</p>
+				<p class="course-descriptions">This course provides an overview of how we perceive the world. Topics include classic studies in perception, discussion of the view that perception is “logical,” and new insights into the neural mechanisms underlying perception. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc130" name="psyc130" /></a></p><p class="course-name">PSYC 130. Delay of Gratification (4)</p>
+				<p class="course-descriptions">This course provides a review of research on delay of gratification. Topics include what makes it so tough, in what situations it is possible, who can do it, and the implications of this ability. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc131" name="psyc131" /></a></p><p class="course-name">PSYC 131. Scientific Racism: Genetics, Intelligence, and Race (4)</p>
+				<p class="course-descriptions">This course provides a background into the origins and implementation of scientific racism, especially since the nineteenth century. Topics may include race/ethnicity and genetics, intelligence, nationalism, criminality, human performance, and morphometry. <strong><em>Prerequisites: </em></strong>upper-division standing.</p>
+<p class="anchor-parent"><a class="anchor" id="psyc132" name="psyc132" /></a></p>
+				<p class="course-name">PSYC 132. Hormones and Behavior (4)</p>
+				<p class="course-descriptions">This course examines how hormones influence a variety of behaviors and how behavior reciprocally influences hormones. Specific topics covered include aggression, sex and sexuality, feeding, learning, memory, mood and neural mechanisms both in humans and nonhuman animals. Recommended preparation: completion of PSYC 106.  <strong class="italic">Prerequisites: </strong>upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc133" name="psyc133" /></a></p>
+				<p class="course-name">PSYC 133. Circadian Rhythms—Biological Clocks (4)</p>
+				<p class="course-descriptions">This interdisciplinary course provides an overview of the fundamental properties of daily biological clocks of diverse species, from humans to microbes. Emphasis is placed on the relevance of internal time keeping in wide-ranging contexts including human performance, health, and industry. Cross-listed with BIMM 116. <strong class="italic">Prerequisites:</strong> upper-division standing. PSYC 106 or BILD 1 or PSYC 2 or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc134" name="psyc134" /></a></p><p class="course-name">PSYC 134. Eating Disorders (4)</p>
+				<p class="course-descriptions">This course provides an overview of the biology and psychology of eating disorders such as anorexia nervosa, bulimia nervosa, and binge eating disorder. Abnormal, as well as normal, eating will be discussed from various perspectives including endocrinological, neurobiological, psychological, sociological, and evolutionary.  <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc136" name="psyc136" /></a></p><p class="course-name">PSYC 136. Cognitive Development (4)</p>
+				<p class="course-descriptions">This course provides an overview of how children’s thinking develops. Topics may include perception, concept formation, memory, problem solving, and social cognition.  <strong class="italic">Prerequisites:</strong> upper-division standing; PSYC 101 or PSYC 105.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc137" name="psyc137" /></a></p><p class="course-name">PSYC 137. Social Cognition (4)</p>
+				<p class="course-descriptions">This course provides an overview of social cognition, which blends cognitive and social psychology to understand how people make sense of the social world. Topics may include social perception, inference, memory, motivation, affect, understanding the self, stereotypes, and cultural cognition.  <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc138" name="psyc138" /></a></p><p class="course-name">PSYC 138. Sound and Music Perception (4)</p>
+				<p class="course-descriptions">This course provides an overview of auditory perception. Topics may include the physiology of the auditory system, perception of pitch, loudness, and timbre, sound localization, perception of melodic and temporal patterns and musical illusions and paradoxes. Recommended preparation: ability to read musical notation.  <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc139" name="psyc139" /></a></p>
+				<p class="course-name">PSYC 139. The Social Psychology of Sport (4)</p>
+				<p class="course-descriptions">This course provides an introduction to the applications of social psychological principles and findings to sports. Topics include motivation, level of aspiration, competition, cooperation, social comparison, and optimal arousal. Additional topics may include the perspective of spectators, discussing motivation and perceptions of success, streaks, and such. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc140" name="psyc140" /></a></p>
+				<p class="course-name">PSYC 140. Human Behavior Laboratory (4)</p>
+				<p class="course-descriptions">This course provides training in applying the principles of human behavior, including choice behavior, self-control, and reasoning.  <strong class="italic">Prerequisites:</strong> upper-division standing. Must be taken concurrently with PSYC 120.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc141" name="psyc141" /></a></p><p class="course-name">PSYC 141. Evolution and Human Nature (4)</p>
+				<p class="course-descriptions">This course provides insight into the question of whether important aspects of human behavior can be explained as resulting from natural selection. Topics include sex differences, selfishness and altruism, homicide and violence, and context effects of human reasoning.  <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc142" name="psyc142" /></a></p><p class="course-name">PSYC 142. Psychology of Consciousness (4)</p>
+				<p class="course-descriptions">This course provides a survey of research on consciousness from an experimental psychology perspective. Special emphasis will be placed on cognitive, neuroimaging, and clinical/psychiatric investigative techniques, and on the scientific assessment of the mind-body problem.  <strong class="italic">Prerequisites:</strong> upper-division
+				  standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc143" name="psyc143" /></a></p><p class="course-name">PSYC 143. Control and Analysis of Human Behavior (4)</p>
+				<p class="course-descriptions">This course provides an overview of the behavioral approach, including basic principles, self-control, clinical applications, and the design of cultures. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc144" name="psyc144" /></a></p><p class="course-name">PSYC 144. Memory and Amnesia (4)</p>
+				<p class="course-descriptions">This course will provide a survey of current research and theory concerning human memory and amnesia from both cognitive and neuropsychological perspectives. Topics may include short-term (working) memory, encoding and retrieval, episodic and semantic memory, interference and forgetting, false memory, eyewitness memory, emotion and memory, famous case studies of amnesia, and the effects of aging and dementia on memory.  <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc145" name="psyc145" /></a></p><p class="course-name">PSYC 145. Psychology of Language (4)</p>
+				<p class="course-descriptions">This course provides an overview of language comprehension and production. Topics include animal communication, language development, and language disorders. Recommended preparation: completion of a course in language, cognition, or philosophy of the mind. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc146" name="psyc146" /></a></p>
+				<p class="course-name">PSYC 146. Language and Conceptual Development (4)</p>
+				<p class="course-descriptions">This course provides an introduction to research on language acquisition and its relationship to conceptual development. Topics include theoretical foundations (e.g., learning mechanisms, theories of concepts) and empirical case studies, including word learning, syntax and semantics, and language and thought. Recommended preparation: completion of a course in language/linguistics, cognition, or cognitive development. <strong class="italic">Prerequisites: </strong>upper-division standing.</p>
+				<a name="psyc147" id="psyc147"></a></p><p class="course-name">PSYC 147. Gender
+				    (4)</p>
+                <p class="course-descriptions">This course provides an overview of the role of gender in psychology, with an emphasis on critical thinking about gender. Topics may include gender differences in behavior and communication, influences on gender roles, gender identity, and gender effects on health and well-being.  <strong class="italic">Prerequisites:</strong> upper-division
+                  standing.</p>
+                <p class="anchor-parent"><a class="anchor" id="psyc148" name="psyc148" /></a></p>
+                <p class="course-name">PSYC 148. Psychology of Judgment and Decision (4)</p>
+                <p class="course-descriptions">This course provides an overview of judgment and decision making, which is broadly concerned with preferences, subjective probability, and how they are combined to arrive at decisions. History and current topics will be covered.<strong class="italic"> Prerequisites:</strong> upper-division standing. </p>
+<p class="anchor-parent"><a class="anchor" id="psyc150" name="psyc150" /></a></p><p class="course-name">PSYC 150. Cognitive Neuroscience of Vision (4)</p>
+				<p class="course-descriptions">This course provides an overview of the neural basis of visual experience, or how our brain creates what we see in the world around us. <strong class="italic">Prerequisites: </strong>upper-division standing; PSYC 102 or PSYC 108.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc151" name="psyc151" /></a></p><p class="course-name">PSYC 151. Tests and Measurement (4)</p>
+				<p class="course-descriptions">This course provides an introduction to psychology testing. Topics include psychometrics and statistical methods of test construction; application of psychological tests in industry, clinical practice, and applied settings; and controversies in the application of psychological tests. <strong class="italic">Prerequisites:</strong> upper-division standing; PSYC 60. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc152" name="psyc152" /></a></p><p class="course-name">PSYC 152. Conceptions of Intelligence (4)</p>
+				<p class="course-descriptions">This course provides an overview of the concept of intelligence from multiple perspectives. Topics include how intelligence is measured and the role of this measurement on practical matters, the role of intelligence in comparative psychology, and attempts to analyze intelligence in terms of more fundamental cognitive processes.  <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc153" name="psyc153" /></a></p><p class="course-name">PSYC 153. Psychology of Emotion (4)</p>
+				<p class="course-descriptions">This course provides an overview of past and current theories of emotion. Topics include facial expressions associated with emotion, psychophysiology, evolutionary perspectives, and specific emotions such as anger, fear, and jealousy. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc154" name="psyc154" /></a></p><p class="course-name">PSYC 154. Behavior Modification (4)</p>
+				<p class="course-descriptions">The course provides an extension of learning principles to human behavior. Topics include broad implications of a behavioral perspective, applied behavior analysis, and applications of behavioral principles to clinical disorders and to normal behavior in varied settings. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc155" name="psyc155" /></a></p><p class="course-name">PSYC 155. Social Psychology and Medicine (4)</p>
+				<p class="course-descriptions">This course provides an exploration of health, illness, treatment, and delivery of treatment as they relate to psychological concepts and research and considers how the social psychological perspective might be extended into medical fields. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc156" name="psyc156" /></a></p><p class="course-name">PSYC 156. Cognitive Development in Infancy (4)</p>
+				<p class="course-descriptions">This course provides an overview of infant development. Students will critically evaluate scientific theories regarding infant cognitive, linguistic, and social behavior. Recommended preparation: PSYC 60. <strong class="italic">Prerequisites: </strong>upper-division standing; PSYC 101 or HDP 1. </p>
+               
+				<p class="anchor-parent"><a class="anchor" id="psyc157" name="psyc157" /></a></p><p class="course-name">PSYC 157. Happiness (4)</p>
+				<p class="course-descriptions">This course provides an overview of the psychology of happiness. Topics may include such questions as: What is happiness? How do we measure it, and how do we tell who has it? What is the biology of happiness and what is its evolutionary significance? What makes people happy—youth, fortune, marriage, chocolate? Is the pursuit of happiness pointless?  <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc158" name="psyc158" /></a></p><p class="course-name">PSYC 158. Interpersonal Relationships (4) </p>
+				<p class="course-descriptions">This course provides an examination of theories and empirical work pertaining to interpersonal relationships. Topics include attraction, jealousy, attachments, and love.  <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc159" name="psyc159" /></a></p><p class="course-name">PSYC 159. Physiological Basis of Perception (4)</p>
+				<p class="course-descriptions">This course provides a survey of sensory and perceptual phenomena with an emphasis on their underlying physiological mechanisms. <strong class="italic">Prerequisites: </strong>upper-division standing; PSYC 102. </p>
+                <div>
+                  <div> </div>
+        </div>
+                <p class="anchor-parent"><a class="anchor" id="psyc161" name="psyc161" /></a></p>
+                <p class="course-name">PSYC 161. Engineering Psychology (4)</p>
+				<p class="course-descriptions">This course provides a survey of psychological findings relevant to designing “user-friendly” computers and devices and improving aviation and traffic safety. Topics include human perception as it pertains to displays and image compression, human memory limitations relevant to usability, and nature of human errors. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc162" name="psyc162" /></a></p><p class="course-name">PSYC 162. Psychology and the Law (4)</p>
+				<p class="course-descriptions">This course provides an overview of the intersection between psychology and the legal system, covering a broad range of forensically relevant issues. Topics may include false memories, false confessions, eyewitness reliability, lie detection, DNA exonerations of the wrongfully convicted, jury decision making, and neuroscience and the law Recommended preparation: PSYC 60.<strong class="italic"> Prerequisites:</strong> upper-division standing. </p>
+				<a name="psyc164" id="psyc164"></a></p><p class="course-name">PSYC 164. Criminology (4)</p>
+                <p class="course-descriptions">This course provides an overview of the scientific study of law making and societal reaction to law breaking activity. Topics include major theories accounting for criminal behavior, the relationship between drugs and crime, the effects of penalties on recidivism, and the psychological effects of incarceration. <strong class="italic">Prerequisites: </strong>upper-division standing.</p>
+        <p class="anchor-parent"><a class="anchor" id="psyc166" name="psyc166" /></a></p><p class="course-name">PSYC 166. History of Psychology (4)</p>
+				<p class="course-descriptions">This course provides a survey of the major trends and figures in the development of psychology as a field. Topics may include the mind-body problem, nativism vs. empiricism, and the genesis of behaviorism. <strong class="italic">Prerequisites: </strong>upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc166" name="psyc166" /></a></p><p class="course-name">PSYC 167. Science of Imagination (4)</p>
+				<p class="course-descriptions">This seminar explores how psychologists think about and study the imagination—the capacity to mentally transcend time, place, and circumstance to think about what might have been, plan and anticipate the future, create and become absorbed in fictional worlds, and consider alternatives to actual experiences. You will learn how to evaluate psychological evidence, and how to read, interpret, discuss, present, and write about scientific literature. PC25, PC26, PS28, PC29, PC30, PC31, PC32, PC33, PC34, PC35, HD01, HD02, HD25, HD26, or CG32 major only.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc168" name="psyc168" /></a></p><p class="course-name">PSYC 168. Psychological Disorders of Childhood (4)</p>
+				<p class="course-descriptions">This course provides an overview of psychological disorders in children. Topics may include anxiety disorders, depressive and bipolar disorders, communication and learning disorders, conduct problems, autism, and other conditions. Emphasis is placed on symptomatology, assessment, etiological factors, epidemiology, and treatment.   <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc169" name="psyc169" /></a></p><p class="course-name">PSYC 169. Brain Damage and Mental Function (4)</p>
+				<p class="course-descriptions">This course provides an introduction to the neural mechanisms underlying perception, memory, language, and other mental capacities. Topics include how brain damage affects these capacities and how patients with brain lesions can contribute to our understanding of the normal brain. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc170" name="psyc170" /></a></p><p class="course-name">PSYC 170. Cognitive Neuropsychology (4)</p>
+				<p class="course-descriptions">This course provides a journey to the interface between neurophysiology and psychology. Topics include neuroimaging and neuroplasticity. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="x171" name="x171" /></a></p><p class="anchor-parent"><a class="anchor" id="psyc171" name="psyc171" /></a></p><p class="course-name">PSYC 171. Neurobiology of Learning and Memory (4)</p>
+				<p class="course-descriptions">This course provides an overview of the neurobiology of learning and memory, from cognitive to molecular neuroscience, including human, animal, cellular, and molecular studies of memory. Topics include amnesia, intellectual disability, exceptional intelligence, aging, and Alzheimer’s disease. <strong class="italic">Prerequisites:</strong> PSYC 2 or 106 or 181, upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc172" name="psyc172" /></a></p><p class="course-name">PSYC 172. Psychology of Human Sexuality (4)</p>
+				<p class="course-descriptions">This course provides an overview of human sexuality research including diversity of sexual behavior and identities, sex and gender development, intimate relationships, and sexual dysfunction. Recommended preparation: completion of PSYC 1, 2, or 106. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc173" name="psyc173" /></a></p><p class="course-name">PSYC 173. Psychology of Food and Behavior (4)</p>
+		<p class="course-descriptions">This course provides an overview of the biological, psychological, and social influences on the psychology of food and behavior. Topics may include taste preferences and aversions and how they are learned, how culture influences food selection, and food-related behaviors across the lifespan. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+			<p class="anchor-parent"><a class="anchor" id="psyc174" name="psyc174" /></a></p><p class="course-name">PSYC 174. Visual Cognition (4)</p>
+		<p class="course-descriptions">This course provides an overview of high-level visual perception, and of how visual perception intersects with attention, memory, and concepts. Topics may include an introduction to the visual system with an emphasis on high-level visual regions; object recognition, face recognition, scene recognition and reading; visual attention, including eye movements during scene perception and during reading; and visual working memory. <strong class="italic">Prerequisites: </strong>upper-division standing.</p>
+			<p class="anchor-parent"><a class="anchor" id="psyc175" name="psyc175" /></a></p><p class="course-name">PSYC 175. Science of Mindfulness (4)</p>
+		<p class="course-descriptions">This course provides a review of the scientific research surrounding the topic of Mindfulness, which has been approached from multiple disciplines including Buddhism, Positive Psychology, Cognitive Behavioral Therapy, and Neuroscience. Because Mindfulness is so multi-faceted, with many variables involved, the scientific study of Mindfulness requires rigorous research methods and statistics, and for this reason, a significant portion of the class focuses on these aspects. <strong><em>Prerequisites:</em></strong> upper-division standing, COGS 14B or MATH 11 or PSYC 60, and COGS 14A or PSYC 70. Department approval.</p>
+	<p class="anchor-parent"><a class="anchor" id="psyc176" name="psyc176" /></a></p><p class="course-name">PSYC 176. Creativity (4)</p>
+                <p class="course-descriptions">This course provides an overview of how to foster creativity in individuals, groups, and organizations. Themes that cut across all three levels are highlighted. <strong class="italic">Prerequisites:</strong> upper-division
+                  standing.</p>
+<p class="anchor-parent"><a class="anchor" id="psyc178" name="psyc178" /></a></p>
+<p class="course-name">PSYC 178. Industrial Organizational Psychology (4)</p>
+				<p class="course-descriptions">This course provides an examination of human behavior in industrial, business, and organizational settings. Topics include psychological principles applied to selection, placement, management, and training; the effectiveness of individuals and groups within organizations, including leadership and control; conflict and cooperation; motivation; and organizational structure and design. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc179" name="psyc179" /></a></p><p class="course-name">PSYC 179. Drugs, Addiction, and Mental Disorders (4)</p>
+				<p class="course-descriptions">This course provides an overview of the use, abuse, liability, and psychotherapeutic effects of drugs on humans. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc180" name="psyc180" /></a></p><p class="course-name">PSYC 180. Adolescence (4)</p>
+				<p class="course-descriptions">This course provides an overview of the period of human adolescence, including the physical, cognitive, social, and emotional changes that take place during this developmental transition. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc181" name="psyc181" /></a></p><p class="course-name">PSYC 181. Psychopharmacology—Drugs and Behavior (4)</p>
+				<p>This course provides an overview of basic principles of psychopharmacology, including psychological effects, brain mode of action, and patterns of use of psychoactive agents. Drugs discussed may include drugs of abuse and psychotherapeutics such as stimulants, opioids, sedative hypnotics, hallucinogens, marijuana, alcohol, cognitive enhancers, anxiolytics, antidepressants, and antipsychotics. <strong><em>Prerequisites: </em></strong>upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc182" name="psyc182" /></a></p><p class="course-name">PSYC 182. Illusions and the Brain (4)</p>
+				<p class="course-descriptions">This course provides an examination of visual, auditory, and tactile illusions and examines how they arise from interactions between perceptual and cognitive systems. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+		<p class="anchor-parent"><a class="anchor" id="psyc184" name="psyc184" /></a></p><p class="course-name">PSYC 184. Choice and Self-Control (4)</p>
+				<p class="course-descriptions">This course provides an overview of the experimental analysis of choice behavior, with an emphasis on the types of choice involved in self-control. A central interest will be the conditions under which decision-making is optimal. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc185" name="psyc185" /></a></p><p class="course-name">PSYC 185. Psychology of Climate Crisis (4)</p>
+				<p class="course-descriptions">This course provides tools for the student to think about the escalating climate crisis. Urgent action is needed at a large, societal scale to prevent the worst consequences of anthropogenic global heating. Better understanding the prospects for such action can come from human psychology. How do people arrive at their beliefs? What is the basis of denial and delay? How does belief flow to action? What kinds of actions can people take? <strong><em>Prerequisites:</em></strong> upper-division standing.</p>
+<p class="anchor-parent"><a class="anchor" id="psyc187" name="psyc187" /></a></p><p class="course-name">PSYC 187. Development of Social Cognition (4)</p>
+				<p class="course-descriptions">This course provides an overview of how children learn to reason about the social world. Topics may include theory of mind, social categorization and stereotyping, moral reasoning, and cultural learning. Recommended preparation: PSYC 101. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc188" name="psyc188" /></a></p><p class="course-name">PSYC 188. Impulse Control Disorders (4)</p>
+				<p class="course-descriptions">This course provides an overview of problems of impulse control, which are important features of major psychiatric disorders and also of atypical patterns of behavior including pathological gambling, compulsive sex, eating, exercise, and shopping. Topics include development, major common features, treatment, and neurobiological basis of impulse control disorders. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc189" name="psyc189" /></a></p><p class="course-name">PSYC 189. Brain, Behavior, and Evolution (4) </p>
+				<p class="course-descriptions">This course provides a survey of natural behaviors, including birdsong, prey capture, localization, electroreception and echolocation, and the neural system that controls them, emphasizing broad fundamental relationships between brain and behavior across species. Cross-listed with BIPN 189. Students may not receive credit for PSYC 189 and BIPN 189. <strong class="italic">Prerequisites:</strong> upper-division standing, BILD 2 or PSYC 102 or PSYC 106.   </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc190" name="psyc190" /></a></p>
+				<p class="course-name">PSYC 190. Science of Parenting (4)</p>
+				<p class="course-descriptions">This course provides an interdisciplinary overview of theories and scientific research on parenting. This course takes a critical approach to the scientific evidence regarding the role of parents in child development. Topics may include media reporting of science, behavior genetics, diet, sleep, the nature of learning, screen time, impulse control, family structure, parenting styles, attachment, discipline strategies, and vaccination. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc191" name="psyc191" /></a></p><p class="course-name">PSYC 191. Psychology of Sleep (4)</p>
+				<p class="course-descriptions">This course provides an overview of the psychology of sleep, including sleep stages and their functions, neurological aspects of sleep, sleep across species and development, dreams and their interpretation, sleep disorders, and the role of sleep in learning and memory. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psych192" name="psych192" /></a></p>
+				<p class="course-name">PSYC 192. Senior Seminar in Psychology (1)</p>
+				<p class="course-descriptions">The Senior Seminar Program is designed to allow senior undergraduates to meet with faculty members in a small setting to explore an intellectual topic in psychology (at the upper-division level). Topics will vary from quarter to quarter. Senior Seminars may be taken for credit up to four times, with a change in topic, and permission of the department. Enrollment is limited to twenty students, with preference given to seniors. <strong class="italic">Prerequisites:</strong> department stamp and/or consent of instructor.</p>
+                <div>
+                  <div> </div>
+        </div>
+<div>
+  <div> </div>
+</div>
+<p class="anchor-parent"><a class="anchor" id="psyc193" name="psyc193" /></a></p><p class="course-name">PSYC 193. Topics in Psychology (4)</p>
+				<p class="course-descriptions">Selected topics in the field of psychology. May be taken for credit three times as topics vary. <strong class="italic">Prerequisites: </strong>upper-division standing and department approval. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc193l" name="psyc193l" /></a></p><p class="course-name">PSYC 193L. Psychology Laboratory Topics (4)</p>
+				<p class="course-descriptions">Selected laboratory topics in the field of psychology. May be taken for credit two times as topics vary. <strong class="italic">Prerequisites: </strong>upper-division standing and department approval.</p>
+<p class="anchor-parent"><a class="anchor" id="psyc194a" name="psyc194a" /></a></p>
+				<p class="course-name">PSYC 194A. Honors Thesis I (4)</p>
+				<p class="course-descriptions">This course provides the opportunity for students to plan and carry out a research project under the guidance of the psychology faculty. Students will write a proposal for the research that they plan to conduct in 194B-C and will present this proposal to the class. Must be taken for a letter grade for the Psychology Honors Program. <span class="italic"><strong>Prerequisites: </strong></span>PSYC 110, PSYC 111A-B, department approval, psychology majors only, acceptance to the Honors Program.</em><em></em></p>
+				<p class="anchor-parent"><a class="anchor" id="psyc194b" name="psyc194b" /></a></p><p class="course-name">PSYC 194B. Honors Thesis II (4)</p>
+				<p class="course-descriptions">This course provides the opportunity for students to continue to carry out their research projects. Must be taken for a letter grade for the Psychology Honors Program. <strong class="italic">Prerequisites: </strong>PSYC 194A, department approval, psychology majors only, acceptance to the Honors program.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc194c" name="psyc194c" /></a></p><p class="course-name">PSYC 194C. Honors Thesis III (4)</p>
+				<p class="course-descriptions">This course provides the opportunity for students to complete their research, write their honors thesis, and present their results at the Honors Poster Session. Must be taken for a letter grade for the Psychology Honors Program. <strong class="italic">Prerequisites: </strong>PSYC 194B, department approval, psychology majors only, acceptance to the Honors program.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc195" name="psyc195" /></a></p><p class="course-name">PSYC 195. Instruction in Psychology (4)</p>
+				<p class="course-descriptions">Introduction to teaching a psychology course. As an undergraduate instructional apprentice, students will attend the lectures of the course, hold weekly meetings with students of the course, hold weekly meetings with course instructor. Responsibilities may include class presentations, designing and leading weekly discussion sections, assisting with homework and exam grading, and monitoring and responding to online discussion posts. P/NP grades only. May be taken for credit two times. Only four units can be applied toward the psychology minor or major as upper-division psychology elective credit. <strong class="italic">Prerequisites:</strong> eligibility includes all of the following: upper-division standing, a minimum of A– in the course in which the student plans to assist, a 3.0 cumulative UC GPA, instructor and department approval. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc196a" name="psyc196a" /></a></p><p class="anchor-parent"><a class="anchor" id="psyc196b" name="psyc196b" /></a></p><p class="anchor-parent"><a class="anchor" id="psyc196c" name="psyc196c" /></a></p><p class="course-name">PSYC 196A-B-C. Research Seminar (4-4-4)</p>
+				<p class="course-descriptions">Weekly research seminar, three quarter research project under faculty guidance which culminates in a thesis. Must be taken for a letter grade to satisfy major requirements for Department of Psychology majors. <strong class="italic">Prerequisites:</strong> upper-division standing, instructor and department approval. </p>
+<p class="anchor-parent"><a class="anchor" id="psyc198" name="psyc198" /></a></p><p class="course-name">PSYC 198. Directed Group Study in Psychology (2 or 4)</p>
+				<p class="course-descriptions">Group study under the direction of a faculty member in the Department of Psychology. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+        <div>
+          <div> </div>
+        </div>
+                <p class="anchor-parent"><a class="anchor" id="psyc199" name="psyc199" /></a></p>
+                <p class="course-name">PSYC 199. Independent Study (2, 3, 4)</p>
+				<p class="course-descriptions">Independent study or laboratory research under direction of faculty in the Department of Psychology. P/NP grades only. May be taken for credit nine times. <strong class="italic">Prerequisites:</strong> upper-division standing and department approval. </p>
+                <p class="course-descriptions">&nbsp; </p>
+				<h2 class="course-subhead-1">Graduate </h2>
+				<p class="anchor-parent"><a class="anchor" id="psyc201a" name="psyc201a" /></a></p>
+				<p class="course-name">PSYC 201A. Quantitative Methods in Psychology I (6)</p>
+				<p class="course-descriptions">The first part of a series of intensive courses in statistical methods and the mathematical treatment of data, with special reference to research in psychology.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc201b" name="psyc201b" /></a></p><p class="course-name">PSYC 201B. Quantitative Methods in Psychology II (6)</p>
+				<p class="course-descriptions">The second part of a series of intensive courses in statistical methods and the mathematical treatment of data, with special reference to research in psychology. <strong class="italic">Prerequisites:</strong> PSYC 201A.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc201c" name="psyc201c" /></a></p><p class="course-name">PSYC 201C. Quantitative Methods in Psychology III (6)</p>
+				<p class="course-descriptions">The third part of a series of intensive courses in statistical methods and the mathematical treatment of data, with special reference to research in psychology. <strong class="italic">Prerequisites:</strong> PSYC 201B.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc202" name="psyc202" /></a></p><p class="course-name">PSYC 202. Writing and Presenting Academic Research Papers (4)</p>
+				<p class="course-descriptions">Instruction on organizing, writing, and presenting empirical research papers. Students will learn fundamentals of writing style, data presentation, and time management. This course is intended for psychology graduate students in service of preparation of their first-year papers and talks. <span class="italic"><strong>Prerequisites: </strong></span>psychology graduate students (major code: PC76 or PC78 or PC79), or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc205" name="psyc205" /></a></p><p class="course-name">PSYC 205. Emotion (4)</p>
+				<p class="course-descriptions">This seminar provides a selective overview of the scientific study of emotion. We will discuss various theoretical perspectives on emotion and will focus on specific topics such as emotion regulation, affect in social interactions, individual differences, and particular emotions (e.g., embarrassment, envy, and jealousy). <strong class="italic">Prerequisites:</strong> graduate standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc206" name="psyc206" /></a></p><p class="course-name">PSYC 206. Mathematical Modeling (4)</p>
+				<p class="course-descriptions">This course is designed to teach the basics of mathematical modeling. Topics include when, why, and how to use signal detection theory (an essential theory for anyone interested in attention, perception, memory, or decision making), how to analyze reaction time distributions (instead of simply measuring mean RT), how to engage in the fine art of model comparison, and how to avoid creating models that are more complex than the data they seek to explain. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc209" name="psyc209" /></a></p>
+				<p class="course-name">PSYC 209. Judgment and Decision Making (4)</p>
+				<p class="course-descriptions">This seminar examines issues in the psychology of judgment and decision making. Topics include the heuristics and biases approach, overconfidence, framing effects, intertemporal choice, and rationality. <span class="italic"><strong>Prerequisites: </strong></span>graduate standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc210" name="psyc210" /></a></p><p class="course-name">PSYC 210. The Methods of Human Cognitive Neuroscience (5)</p>
+				<p class="course-descriptions">Covers many of the neuroscience methods available to study human cognition, with emphasis on concepts of data analysis, and comparative assessment of the different methods (along with alternative nonhuman animal approaches), with an eye to pitfalls and interpretational limitations. <strong class="italic">Prerequisites: </strong>graduate standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc211" name="psyc211" /></a></p><p class="course-name">PSYC 211. Proseminar in Computational Models of Mind (5)</p>
+				<p class="course-descriptions">Computational models of perception, cognition, behavior, and social interaction formalize psychological theories, and can offer insights into both how people solve challenging everyday problems and how to improve machine performance on these problems. We will consider formalisms for sensory processing, knowledge representation, learning, planning, and decisions, with an emphasis on modeling common problem structures such as statistical learning and probabilistic inference. <strong><em>Prerequisites:</em></strong> graduate standing.</p>
+<p class="anchor-parent"><a class="anchor" id="psyc212" name="psyc212" /></a></p>
+				<p class="course-name">PSYC 212. Visual Science (4)</p>
+				<p class="course-descriptions">Each year a different topic in visual science is selected for in-depth review and discussion based on current readings. <strong class="italic">Prerequisites:</strong> graduate standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc213" name="psyc213" /></a></p>
+				<p class="course-name">PSYC 213. Professional
+		  Procedures and Survival in Psychology (4)</p>
+				<p class="course-descriptions">This course provides a forum for presentation and discussion of the basic issues associated with surviving in a professional (particularly, academic) psychology environment. It covers such issues as: 1) how to get a job, 2) how to keep a job, 3) general issues and ethics in professional survival. The course will include the presence of a number of the psychology faculty in topic specific areas (e.g., journal editors from our faculty, faculty sitting on grant review panels, etc.).  <strong class="italic">Prerequisites: </strong>graduate standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc217" name="psyc217" /></a></p>
+				<p class="course-name">PSYC 217. Proseminar in Developmental Psychology (5)</p>
+				<p class="course-descriptions">The course examines cognitive development through the school-age period and social and personality development from infancy through early adolescence. It begins with an examination of early neurological, sensory, motor, and perceptual functions and then focuses on issues in linguistic and cognitive development. The class will first discuss general developmental theory and methods and then topics such as attachment, temperament, self-concept, aggression, family relations, play, and peers. Students cannot get credit for PSYC 217 if they have already taken PSYC 217A or 217B. <strong class="italic">Prerequisites: </strong>graduate standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc218" name="psyc218" /></a></p></a></p>
+				<p class="course-name">PSYC 218. Proseminar in Cognitive Psychology (5)</p>
+				<p class="course-descriptions">A survey of basic principles and concepts of cognitive psychology. This course is intended to serve as the basic introduction for first-year students. Basic areas include knowledge, memory, thought, perception, and performance. <strong class="italic">Prerequisites:</strong> graduate standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc220" name="psyc220" /></a></p>
+				<p class="course-name">PSYC 220. Proseminar in Social Psychology (5)</p>
+				<p class="course-descriptions">An introduction to social psychology. Psychology and the law, health psychology, attitudes, emotions, person perception and aggression are some of the topics to be covered.  <strong class="italic">Prerequisites: </strong>graduate standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc221" name="psyc221" /></a></p>
+				<p class="course-name">PSYC 221. Proseminar in Sensation and Perception (5)</p>
+				<p class="course-descriptions">Fundamentals of vision, audition, and other senses. Emphasis will be upon psychophysical approaches to the study of these sensory modalities, as well as some essential aspects of their neurophysiological bases.  <strong class="italic">Prerequisites: </strong>graduate standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc222" name="psyc222" /></a></p>
+				<p class="course-name">PSYC 222. Proseminar in Biological Psychology (5)</p>
+				<p class="course-descriptions">A survey of the functional neuroanatomical, neurodevelopmental, neurophysiological, and pharmacological correlates of psychological phenomena. <strong class="italic">Prerequisites:</strong> graduate standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc223" name="psyc223" /></a></p>
+				<p class="course-name">PSYC 223. Current Directions in Vision (1)</p>
+				<p>An in-depth analysis of empirical and theoretical issues in a specialized area of vision or visual perception. Emphasis most likely will be on a topic of ongoing vision research at UC San Diego. S/U grades only. May be taken for credit eighteen times. <strong class="italic">Prerequisites:</strong> graduate standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc224" name="psyc224" /></a></p>
+				<p class="course-name">PSYC 224. Current Directions in Cognitive Neural Systems (CNS) (1)</p>
+				<p class="course-descriptions">A weekly seminar series focused on understanding recent advances in the relationship between neural systems and behavior using a variety of experimental approaches (single unit recording, comp neuro, evolutionary bio, psychophysics, comparative anatomy, lesion work, psychopharm, fMRI, EEG, TMS, etc.). May be taken for credit twenty-four times. <strong class="italic">Prerequisites: </strong>graduate standing. S/U grades only.</p>
+      
+<p class="anchor-parent"><a class="anchor" id="psyc229" name="psyc229" /></a></p><p class="course-name">PSYC 229. Happiness (4)</p>
+				<p class="course-descriptions">This course will address the psychology of happiness. The discussions and readings, consisting largely of original research articles, will explore such questions as: What is happiness? How do we measure it, and how do we tell who has it? What is the biology of happiness and what is its evolutionary significance? What makes people happy—youth, fortune, marriage, chocolate? Is the pursuit of happiness pointless? </p>
+				<a name="psyc231" id="psyc231"></a></p>
+				<p class="course-name">PSYC 231. Tools for Experimental Analysis   (4)</p>
+                <p class="course-descriptions">This course will cover a set of general data analysis methods that are broadly applicable in many different subdisciplines of psychology/neuroscience. Topics include model fitting, information theory, Fourier analysis, and machine learning. Recommended preparation: Matlab, C, Java, R, or any related language. Students may only receive credit for one of the following: PSYC 231, NEUG 231, NEU 231. <span class="italic"><b>Prerequisites:</b></span> graduate standing.</p>
+        	<a name="psyc232" id="psyc232"></a></p><p class="course-name">PSYC 232. Probabilistic Models of Cognition (4)</p>
+        <p class="course-descriptions">Computational theories of human cognition, particularly Bayesian approaches. Techniques may include directed graphical models; hierarchical models; nonparametric models; probabilistic programming languages. Topics may include decision-making; perception; causal reasoning; categorization; language. Cross-listed with LIGN 228. Recommended preparation: Previous experience with statistics, machine learning, and/or functional programming helpful. <span class="italic"><b>Prerequisites:</b></span> graduate standing.</p>
+<p class="anchor-parent"><a class="anchor" id="psyc233" name="psyc233" /></a></p>
+<p class="course-name">PSYC 233. Learning and Motivation (4)</p>
+				<p class="course-descriptions">Advanced topics in learning and motivation, with special emphasis on current research. May be taken for credit eighteen times. <strong class="italic">Prerequisites: </strong>graduate standing.</p>
+<p class="anchor-parent"><a class="anchor" id="psyc234" name="psyc234" /></a></p><p class="course-name">PSYC 234. Evolution of Language (4)</p>
+				<p class="course-descriptions">This seminar will explore issues related to the evolution of human language, and critically evaluate evidence for the diversity of theories about the topic. Discussions will include the comparative communication and cognition, manual communication, factors surrounding the initial emergence of language, among others. <span class="italic"><strong>Prerequisites:</strong></span><strong> </strong>graduate standing or consent of instructor.</p>
+                <p class="anchor-parent"><a class="anchor" id="psyc235" name="psyc235" /></a></p>
+                <p class="course-name">PSYC 235. Thought and Language (4)</p>
+                <p class="course-descriptions">This course will explore the nature of human thought and its relationship to language taking a primarily developmental approach but drawing on contributions from the philosophy of mind and language, linguistics, and anthropology. Each year a different case study will be explored. Past case studies have included concepts, theory of mind, counting, and the logic of thought.  Cross-listed with LIGN 232. <span class="italic"><strong>Prerequisites:</strong></span><strong>&nbsp;</strong>graduate standing. </p>
+                <div>
+                  <div> </div>
+                </div>
+<p class="anchor-parent"><a class="anchor" id="psyc236" name="psyc236" /></a></p>
+<p class="course-name">PSYC 236. Substance Abuse (4)</p>
+				<p class="course-descriptions">Theory and research on the development, progression, and resolution of substance use and abuse will be reviewed and evaluated. Normal and abnormal patterns of substance involvement will be contrasted across the life span. <span class="italic"><strong>Prerequisites:</strong></span><strong> </strong>graduate standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc237" name="psyc237" /></a></p><p class="course-name">PSYC 237. Human Rationality (4)</p>
+				<p class="course-descriptions">The traditional view of rationality is based upon abstract, content-independent rules for behavior. People sometimes violate these rules in a laboratory setting, but the violations are often systematic and appear to reflect adaptation to the environment outside the laboratory. Such findings raise questions about what it means to be rational. Readings will be empirically oriented and cover the areas of deductive reasoning, inductive reasoning, and choice. <strong class="italic">Prerequisites: </strong>graduate standing. </p>
+              
+                <a name="psyc240" id="psyc240"></a></p><p class="course-name">PSYC 240. The Primate Brain (4)</p>
+                <p class="course-descriptions">This course will explore
+                    the neural basis of perception, action and cognition in primate
+                    cortex. Drawing on recent findings in neuroscience, we will
+                    discuss the role of cortex in a range of topics including
+                    decision making, object perception and recognition, memory
+                    and communication. <strong class="italic">Prerequisites:</strong>&nbsp;graduate
+                  standing or consent of instructor.</p>
+                <a name="psyc241" id="psyc241"></a></p><p class="course-name">PSYC 241. Programming Web-Based Experiments for Psychology Research (4)</p>
+        <p class="course-descriptions">This hands-on programming course focuses on the design, implementation, and analysis of online experiments, particularly using Amazon’s Mechanical Turk. Topics include experimental design and counterbalancing, stimulus presentation and timing, response collection using the mouse and keyboard, and debugging experiments written in JavaScript and HTML/CSS. Course work will include individual projects. Recommended preparation: Graduate students who have not programmed at all should speak with the professor beforehand. <strong class="italic">Prerequisites: </strong>graduate standing.</p>
+        <span class="course-descriptions"><p class="anchor-parent"><a class="anchor" id="psyc242" name="psyc242" /></a></p></span>
+<p class="course-name">PSYC 242.
+		  Current Directions in Developmental Psychology (1)</p>
+				<p class="course-descriptions">Advanced seminar concentrating on methods of research and current experimental literature in developmental psychology. May be taken for credit twenty-four times. S/U grades only. <strong class="italic">Prerequisites: </strong>graduate standing. </p>
+
+				<p class="anchor-parent"><a class="anchor" id="psyc243" name="psyc243" /></a></p>
+				<p class="course-name">PSYC 243. Sound and Music Perception (4)</p>
+				<p class="course-descriptions">This course deals with perception of sound, particularly music, and focuses on unusual aspects of music perception, including musical illusions and absolute pitch. Relationships between music and language will be explored, and there will be discussions concerning the evolutionary origins of these two forms of communication. <strong class="italic">Prerequisites: </strong>graduate standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc244" name="psyc244" /></a></p><p class="course-name">PSYC 244. Special Topics in Psycholinguistics (4)</p>
+				<p class="course-descriptions">Discussion of theories and experiments investigating language production, comprehension, or acquisition.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc246" name="psyc246" /></a></p><p class="course-name">PSYC 246. Emotion and Cognition (4)</p>
+				<p class="course-descriptions">This seminar focuses on the interplay between emotion and cognition. We will consider how emotion influences perception, reasoning, memory, and judgment, and how cognitive processes can have emotional consequences. We will also discuss physiological and neural underpinnings of affective influence and debate more general issues such as emotion and rationality. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc247" name="psyc247" /></a></p><p class="course-name">PSYC 247. Learning by Thinking in Children (and Adults) (4)</p>
+				<p class="course-descriptions">We often learn through observations or from testimony from others. Occasionally, we learn simply by thinking. How do we generate insights in the absence of new information from the external world? This course examines the cognitive capacities involved in learning by thinking, including thought experiments, deduction, analogy, imagination, and learning by explaining. This discussion-based seminar will take a cognitive science approach, emphasizing cognitive development. <strong class="italic">Prerequisites: </strong>graduate standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc249a" name="psyc249a" /></a></p>
+		<p class="course-name">PSYC 249A. Advanced Topics in Applied Behavior Analysis I (1)</p>
+		<p class="course-descriptions">Research and discussion on selected topics in applied behavior analysis. May be taken for credit five times. <strong class="italic">Prerequisites:</strong> graduate standing.</p>
+		<p class="anchor-parent"><a class="anchor" id="psyc249b" name="psyc249b" /></a></p><p class="course-name">PSYC 249B. Advanced Topics in Applied Behavior Analysis II (1)</p>
+		<p class="course-descriptions">Research and discussion on selected topics in applied behavior analysis. May be taken for credit five times.<span class="italic"> <strong>Prerequisites:</strong> </span>graduate standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc249c" name="psyc249c" /></a></p><p class="course-name">PSYC 249C. Advanced Topics in Applied Behavior Analysis III (1)</p>
+				<p class="course-descriptions">Research and discussion on selected topics in applied behavior analysis. May be taken for credit five times. <strong class="italic">Prerequisites:</strong> graduate standing.</p>
+		<p class="anchor-parent"><a class="anchor" id="psyc251" name="psyc251" /></a></p>
+<p class="course-name">PSYC 251. Advanced Topics in Learning and Motivation (1)</p>
+				<p class="course-descriptions">Weekly meetings for graduate students actively engaged in research on conditioning. May be taken for credit multiple times.  <strong class="italic">Prerequisites:</strong> graduate standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc252" name="psyc252" /></a></p>
+				<p class="course-name">PSYC 252. Cognitive Neuroscience (4)</p>
+				<p class="course-descriptions">This is a series of weekly seminars on current trends in neuropsychology. The seminars will deal with the concept of “localization” of function in different parts of the brain and the effects of damage to these parts on cognitive functions such as perception, memory and language. Active student participation will be encouraged in preparing these seminars. <strong class="italic">Prerequisites: </strong>graduate
+                standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc255a" name="psyc255a" /></a></p><p class="course-name">PSYC 255A. Advanced Topics in Biological Psychology I (1)</p>
+				<p class="course-descriptions">Research and discussion on selected topics in biological psychology. S/U grades only. May be taken for credit four times. <strong class="italic">Prerequisites: </strong>graduate standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc255b" name="psyc255b" /></a></p><p class="course-name">PSYC 255B. Advanced Topics in Biological Psychology II (1)</p>
+				<p class="course-descriptions">Research and discussion on selected topics in biological psychology. S/U grades only. May be taken for credit four times. <strong class="italic">Prerequisites: </strong>graduate standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc255c" name="psyc255c" /></a></p><p class="course-name">PSYC 255C. Advanced Topics in Biological Psychology III (1)</p>
+				<p class="course-descriptions">Research and discussion on selected topics in biological psychology. S/U grades only. May be taken for credit four times. <strong class="italic">Prerequisites: </strong>graduate standing.</p>
+				<a name="psyc257" id="psyc257"></a></p><p class="course-name">PSYC 257. Development and Neurobiology of Theory of Mind (4) </p>
+                <p class="course-descriptions">Surveys research on people&rsquo;s everyday attribution of mental states to predict/explain actions, their naïve theory of mind, from developmental and neurocognitive perspectives. Topics include social cognition in infancy and childhood, in autism, and in nonhuman primates, and the brain underpinnings. <strong class="italic">Prerequisites: </strong>graduate standing or consent of instructor.</p>
+                <div>
+                  <div> </div>
+        </div>
+        <p class="anchor-parent"><a class="anchor" id="psyc258" name="psyc258" /></a></p>
+        <p class="course-name">PSYC 258. Delay of Gratification (4)</p>
+				<p class="course-descriptions">This course will review the research on delay of gratification. We will cover what makes it in general so tough, what situations make it possible, who can do it, and what the implications of this ability are. We will draw from research in social, personality, and animal psychology as well as economics. <strong class="italic">Prerequisites: </strong>graduate standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc260" name="psyc260" /></a></p><p class="course-name">PSYC 260. Language and Conceptual Development (4)</p>
+				<p class="course-descriptions">This class will investigate case studies in conceptual development that interact with language acquisition, including domains such as time, space, number, and theory of mind. The approach of the class will be to explore the chosen case study from the perspective of philosophy, linguistics, psychology, anthropology, and comparative psychology, with a particular focus on how conceptual development is affected by the acquisition of language. Cross-listed with LIGN 283. <strong class="italic">Prerequisites: </strong>graduate standing.</p>
+<p class="anchor-parent"><a class="anchor" id="psyc262" name="psyc262" /></a></p><p class="course-name">PSYC 262. Functional Construction of the Vertebrate Brain&#8217;s Social Behavior Network (4)</p>
+				<p class="course-descriptions">The vertebrate brain contains a network of strongly interconnected structures that play essential roles in the regulation of social behavior. In this seminar we will read and discuss primary literature that details the structure and behavioral functions of this network. </p>
+		<p class="anchor-parent"><a class="anchor" id="psyc263" name="psyc263" /></a></p><p class="course-name">PSYC 263. Science of Mindfulness (4)</p>
+        <p class="course-descriptions">This graduate seminar addresses the science behind mindfulness. Topics include the effects of mindfulness practice on neural processing, psychological well-being, and prosocial behavior. A particular emphasis will be placed on the implications of mindfulness practices/effects on society and education. <strong class="italic">Prerequisites: </strong>graduate standing.
+		</p>
+        <p class="anchor-parent"><a class="anchor" id="psyc264a" name="psyc264a" /></a></p>
+		<p class="course-name">PSYC 264A. Advanced Topics in Language Processes I (1)</p>
+				<p class="course-descriptions">Research and discussion on selected topics in language processes. S/U grades only. May be taken for credit four times. <strong class="italic">Prerequisites: </strong>graduate standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc264b" name="psyc264b" /></a></p><p class="course-name">PSYC 264B. Advanced Topics in Language Processes II (1)</p>
+				<p class="course-descriptions">Research and discussion on selected topics in language processes. S/U grades only. May be taken for credit four times. <strong class="italic">Prerequisites: </strong>graduate standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc264c" name="psyc264c" /></a></p><p class="course-name">PSYC 264C. Advanced Topics in Language Processes III (1)</p>
+		<p class="course-descriptions">Research and discussion on selected topics in language processes. S/U grades only. May be taken for credit four times. <strong class="italic">Prerequisites: </strong>graduate standing.</p>
+				<a name="psyc265" id="psyc265"></a></p>
+				<p class="course-name">PSYC 265. Social Psychology and Medicine (4)</p>
+				<p class="course-descriptions">Concentrates on what psychology has to contribute to the understanding of illness, its treatment, and the social context in which these processes occur. Topics: psychological factors in the etiology and treatment of illness, doctor-patient roles, and communication.<span class="italic"><strong> Prerequisites: </strong></span>graduate standing.</p>
+<a name="psyc266" id="psyc266"></a></p><p class="course-name">PSYC 266. Psychology of Reading (4)</p>
+                <p class="course-descriptions">This seminar will cover
+                    aspects of reading, emphasizing cognitive processes involved
+                    in skilled reading. However, learning
+                  to read and methods to teach reading will also be discussed. Other
+                  topics include eye movements and reading, word recognition,
+                  inner speech, context effects, discourse processing, sentence
+                  parsing, and dyslexia.</p>
+<p class="anchor-parent"><a class="anchor" id="psyc267a" name="psyc267a" /></a></p></a></p></a></p><p class="course-name">PSYC 267A. Advanced Topics in Behavior Medicine I (1)</p>
+				<p class="course-descriptions">Research and discussion on selected topics in behavior medicine. S/U grades only. May be taken for credit four times. <strong class="italic">Prerequisites: </strong>graduate standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc267b" name="psyc267b" /></a></p><p class="course-name">PSYC 267B. Advanced Topics in Behavior Medicine II (1)</p>
+				<p class="course-descriptions">Research and discussion on selected topics in behavior medicine. S/U grades only. May be taken for credit four times. <strong class="italic">Prerequisites: </strong>graduate standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc267c" name="psyc267c" /></a></p><p class="course-name">PSYC 267C. Advanced Topics in Behavior Medicine III (1)</p>
+				<p class="course-descriptions">Research and discussion on selected topics in behavior medicine. S/U grades only. May be taken for credit four times. <strong class="italic">Prerequisites: </strong>graduate standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc268" name="psyc268" /></a></p>
+        <p class="course-name">PSYC 268. Neurobiology of Action (4)</p>
+                <p class="course-descriptions">This seminar provides an overview of the past and current research on the neurobiology of actions in normal and diseased states such as addiction, Parkinson&rsquo;s, and other psychiatric disorders. <strong class="italic">Prerequisites: </strong>graduate standing or consent of instructor.</p>
+                <p class="anchor-parent"><a class="anchor" id="psyc269a" name="psyc269a" /></a></p>
+                <p class="course-name">PSYC 269A. Advanced Topics in Sound and Music Perception I (1)</p>
+                <p class="course-descriptions">Research and discussion on selected topics in sound and music perception. S/U grades only. May be taken for credit four times. <strong class="italic">Prerequisites: </strong>graduate standing.</p>
+                <p class="anchor-parent"><a class="anchor" id="psyc269b" name="psyc269b" /></a></p>
+                <p class="course-name">PSYC 269B. Advanced Topics in Sound and Music Perception II (1)</p>
+                <p class="course-descriptions">Research and discussion on selected topics in sound and music perception. S/U grades only. May be taken for credit four times. <strong class="italic">Prerequisites: </strong>graduate standing.</p>
+                <p class="anchor-parent"><a class="anchor" id="psyc269c" name="psyc269c" /></a></p>
+                <p class="course-name">PSYC 269C. Advanced Topics in Sound and Music Perception III (1)</p>
+                <p class="course-descriptions">Research and discussion on selected topics in sound and music perception. S/U grades only. May be taken for credit four times. <strong class="italic">Prerequisites: </strong>graduate standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc270a" name="psyc270a" /></a></p>
+				<p class="course-name">PSYC 270A. Introduction to Laboratory Experimentation I
+				  (4)</p>
+				<p>
+        <span class="course-descriptions">A basic laboratory course designed to introduce first-year graduate students to experimental methods in psychology. The student will select a research topic; do a thorough literature review of the area; design and carry out new, original studies of problems in the selected area; and prepare a final formal report of the study at the end of the spring quarter. This course is required of all first-year graduate students in the department. S/U grades only.  <strong class="italic">Prerequisites: </strong>graduate standing.</span></p>
+				<p class="anchor-parent"><a class="anchor" id="psyc270b" name="psyc270b" /></a></p><p class="course-name">PSYC 270B. Introduction to Laboratory Experimentation II (4)</p>
+				<p class="course-descriptions">Continuation of basic laboratory course designed to introduce first-year graduate students to experimental methods in psychology. The student will select a research topic; do a thorough literature review of the area; design and carry out new, original studies of problems in the selected area; and prepare a final formal report of the study at the end of the spring quarter. This course is required of all first-year graduate students in the department. S/U grades only. <strong class="italic">Prerequisites: </strong>graduate standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc270c" name="psyc270c" /></a></p><p class="course-name">PSYC 270C. Introduction to Laboratory Experimentation III (4)</p>
+				<p class="course-descriptions">Final quarter of basic laboratory course designed to introduce first-year graduate students to experimental methods in psychology. The student will select a research topic; do a thorough literature review of the area; design and carry out new, original studies of problems in the selected area; and prepare a final formal report of the study at the end of the spring quarter. This course is required of all first-year graduate students in the department. Letter grades only. <strong class="italic">Prerequisites:</strong> graduate standing. </p>
+				<p class="anchor-parent"><a class="anchor" id="psyc271" name="psyc271" /></a></p><p class="course-name">PSYC 271. Neurobiology of Learning and Memory (4)</p>
+				<p class="course-descriptions">This seminar will span the study of learning and memory from an interdisciplinary neuroscience perspective: the goal will be to gain a broad perspective on memory. The course will also touch on dysfunctions of learning and memory such as in amnesia, mental retardation, aging, and Alzheimer&#8217;s disease. The course will end with exciting developments in the field, including the possibility of genetic and pharmacological enhancement of memory and intelligence.  <strong class="italic">Prerequisites: </strong>graduate standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc272" name="psyc272" /></a></p>
+				<p class="course-name">PSYC 272. Selected Topics in Cognitive Psychology (4)</p>
+				<p class="course-descriptions">An in-depth analysis of selected empirical and theoretical topics in cognitive psychology. The course will focus on areas where notable progress appears to be taking place in contemporary research.  <strong class="italic">Prerequisites: </strong>graduate standing.</p>
+				<a name="psyc273" id="psyc273"></a></p><p class="course-name">PSYC 273. Selected Topics in Quantitative Methods in Psychology (4)</p>
+                <p class="course-descriptions">An in-depth analysis and discussion of selected advanced topics
+                  in quantitative methods in psychology.  <strong class="italic">Prerequisites: </strong>graduate standing or consent of the instructor.
+                  <a name="psyc274" id="psyc274"></a></p>                </p>
+                <p class="course-name">PSYC 274. Current Directions in Social Psychology (1<strong>)</strong></p>
+        <p class="course-descriptions">A biweekly seminar series focusing on recent advances in both basic and applied research in social psychology including topics such as interpersonal relationships, emotion, health, social cognition, judgment, and decision making. May be taken for credit twenty-four times. S/U grades only. <strong class="italic">Prerequisites: </strong>graduate standing.</p>
+                  <a name="psyc275" id="psyc275"></a></p><p class="course-name">PSYC 275. Current Directions in Cognitive Psychology (1)</p>
+                <p class="course-descriptions">A weekly seminar series focused on understanding recent advances in any area of cognitive psychology. May be taken for credit twenty-four times. S/U grades only. <strong class="italic">Prerequisites: </strong>graduate standing.</p>
+                <p class="anchor-parent"><a class="anchor" id="psyc276" name="psyc276" /></a></p><p class="course-name">PSYC 276. Selected Topics in Social Psychology (4)</p>
+        <p class="course-descriptions">An in-depth analysis of selected empirical and theoretical topics in social psychology. The course will focus on areas where notable progress appears to be taking place in contemporary research. May be taken for credit three times. <strong class="italic">Prerequisites: </strong>graduate standing or consent of instructor.</p>
+        <p class="anchor-parent"><a class="anchor" id="psyc280" name="psyc280" /></a></p><p class="course-name">PSYC 280. Seminar
+		  in Communication and Information Processing (1)</p>
+				<p class="course-descriptions">S/U grades only.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc282" name="psyc282" /></a></p><p class="course-name">PSYC 282. Auditory Neuroscience (4)</p>
+				<p class="course-descriptions">An in-depth analysis of current theoretical and empirical issues in the neurobiological study of auditory perception and cognition. Example topics include auditory stream segregation, localization, natural stimulus coding, pattern recognition and communication in multiple species. <strong class="italic">Prerequisites: </strong>graduate standing.</p>
+		<p class="anchor-parent"><a class="anchor" id="psyc296" name="psyc296" /></a></p>
+<p class="course-name">PSYC 296. Research Practicum (1–12)</p>
+				<p>Research in psychology under supervision of individual faculty members. S/U grades only. May be taken for credit fifteen times.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc299" name="psyc299" /></a></p>
+				<p class="course-name">PSYC 299. Research Practicum (1–12)</p>
+				<p class="course-descriptions">Independent research and thesis research. S/U grades only. May be taken for credit fifteen times.</p>
+				<p class="anchor-parent"><a class="anchor" id="psyc500" name="psyc500" /></a></p><p class="course-name">PSYC 500. Apprentice Teaching (4)</p>
+				<p>Teaching practicum for students enrolled in graduate program in psychology. Students who hold appointments as teaching assistants must enroll in this course. Minimum program requirement is for one four-unit course per year for four years. S/U grades only.</p>
+
+			
+<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

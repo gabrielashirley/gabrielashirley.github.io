@@ -1,0 +1,463 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Chinese Studies Courses</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" --> 
+        <h1 class="noTopMargin">Chinese Studies</h1>
+        <p><span class="courseFacLink">[ <a href="../curric/CHIN.html">program</a> | <a href="../faculty/CHIN.html">faculty</a> ]</span></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/Course Name and Disclaimer.lbi" -->
+<h2>Courses</h2>
+<p class="course-disclaimer"><em>For course descriptions not found in the </em>UC
+  San Diego General Catalog 2019&#8211;20<em>, please contact the department
+  for more information.</em></p><!-- #EndLibraryItem --><h2 class="course-subhead-1">Chinese Language Acquisition Courses</h2>
+        <p>The Chinese language program offers Mandarin Chinese language acquisition
+          courses in yearlong sequences that begin in the fall quarter. Students
+          interested in enrolling in Chinese courses must be evaluated via a
+          Placement Interview and authorized at the Chinese Studies Program prior
+          to enrollment. Contact the program at <a href="mailto:chinesestudies@ucsd.edu">chinesestudies@ucsd.edu</a> for
+          more information. </p>
+        <p>Chinese language courses are divided into three tracks based on student’s
+          familiarity with the language. N track is for students with no Chinese
+          language background; M track is for students with some Mandarin Chinese
+          language background; and D track is for students with Chinese language
+          background other than Mandarin. By the third year of Chinese language
+          acquisition courses the M and D tracks converge. </p>
+        <h3 class="course-subhead-2">First Year Chinese Courses (Lower Division)</h3>
+        <a name="chin10an" id="chin10an"></a></p>
+        <p class="course-name">CHIN 10AN. First Year Chinese—Nonnative speakers I (5) </p>
+        <p class="course-descriptions">Introductory course of basic Chinese
+            for students with no background in Chinese. First quarter of a one-year
+            curriculum for entry-level Chinese in communicative skills. Covers
+            pronunciation, fundamentals of Chinese grammar, and vocabulary. Topics
+            include greetings, family affairs, numbers, and daily exchanges.
+            Students may not receive duplicate credit for CHIN 11 and CHIN 10AN.
+          <span class="italic"><b>Prerequisites:</b></span> department approval.</p>
+        <a name="chin10am" id="chin10am"></a></p><p class="course-name">CHIN
+          10AM. First Year Chinese—Mandarin speakers I (5) </p>
+        <p class="course-descriptions">Introductory course of basic Chinese
+            for students with background in Mandarin Chinese. First quarter of
+            one-year curriculum for entry-level Chinese in communicative skills.
+            Covers pronunciation, fundamentals of Chinese grammar, and vocabulary.
+            Topics include greetings, family affairs, numbers, and daily exchanges.
+            Students may not receive duplicate credit for CHIN 11 and CHIN 10AM.
+          <span class="italic"><b>Prerequisites:</b></span> department approval.</p>
+        <a name="chin10ad" id="chin10ad"></a></p><p class="course-name">CHIN 10AD. First Year Chinese—Dialect speakers I (5) </p>
+        <p class="course-descriptions">Introductory course of basic Chinese
+            for students with background in a dialect of Chinese. First quarter
+            of one-year curriculum for entry-level Chinese in communicative skills.
+            Covers pronunciation, fundamentals of Chinese grammar, and vocabulary.
+            Topics include greetings, family affairs, numbers, and daily exchanges.
+            Students may not receive duplicate credit for CHIN 11 and CHIN 10AD.
+          <b><span class="italic">Prerequisites:</span></b> department approval.</p>
+        <a name="chin10bn" id="chin10bn"></a></p>
+        <p class="course-name">CHIN 10BN. First Year Chinese—Nonnative speakers II (5) </p>
+        <p class="course-descriptions">Continuation of basic Chinese for students
+            with no background in Chinese. Second course of one-year curriculum
+            for entry-level Chinese communicative skills. Covers pronunciation,
+            more elaborate grammar, and vocabulary. Focus on goal-oriented tasks:
+            school life, shopping, and transportation. Students may not receive
+            duplicate credit for CHIN 12 and CHIN 10BN. <span class="italic"><strong>Prerequisites:</strong></span> CHIN 11,
+          CHIN 10AN, or department stamp.</p>
+        <a name="chin10bm" id="chin10bm"></a></p><p class="course-name">CHIN 10BM. First Year Chinese—Mandarin speakers II (5) </p>
+        <p class="course-descriptions">Continuation introduction of basic
+            Chinese for students with background in Mandarin Chinese. Second
+            course of one-year curriculum for entry-level Chinese communicative
+            skills. Covers pronunciation, more elaborate Chinese grammar, and
+            expanded vocabulary. Focus on goal-oriented tasks such as school
+            life, shopping, and transportation. Students may not receive duplicate
+            credit for CHIN 12 and CHIN 10BM. <span class="italic"><b>Prerequisites:</b></span> CHIN 11, CHIN 10AM,
+          or department stamp.</p>
+        <a name="chin10bd" id="chin10bd"></a></p><p class="course-name">CHIN 10BD. First Year Chinese—Dialect speakers II (5)</p>
+        <p class="course-descriptions">Continuation introduction of basic
+            Chinese for students with background in a dialect of Chinese. Second
+            course of one-year curriculum for entry-level Chinese communicative
+            skills. Covers pronunciation, more elaborate Chinese grammar, and
+            expanded vocabulary. Focus on goal-oriented tasks such as school
+            life, shopping, and transportation. Students may not receive duplicate
+            credit for CHIN 12 and CHIN 10BD.<span class="italic"><b> Prerequisites:</b></span> CHIN 11, CHIN 10AM,
+          or department stamp.</p>
+       <a name="chin10cn" id="chin10cn"></a></p> <p class="course-name">CHIN 10CN. First Year Chinese—Nonnative speakers III (5) </p>
+        <p class="course-descriptions">Continuation course of basic Chinese
+            for students with no background in Chinese. Third course of one-year
+            curriculum for entry-level Chinese communicative skills. Expansion
+            on pronunciation and more elaborate Chinese grammar and increasing
+            vocabulary. Topics include dining, direction, and social life. Students
+          may not receive duplicate credit for CHIN 13 and CHIN 10CN. <b><span class="italic">Prerequisites:</span></b> CHIN 12, CHIN 10BN, or department stamp.</p>
+        <a name="chin10cm" id="chin10cm"></a></p><p class="course-name">CHIN 10CM. First Year Chinese—Mandarin speakers III (5) </p>
+        <p class="course-descriptions">Further continuation course of basic
+            Chinese for students with background in Mandarin Chinese. Third course
+            of one-year curriculum for entry-level Chinese communicative skills.
+            Expansion on pronunciation and more elaborate Chinese grammar and
+            increasing vocabulary. Topics include dining, direction, and social
+            life. Students may not receive duplicate credit for CHIN 13 and CHIN
+          10CM. <span class="italic"><b>Prerequisites:</b></span> CHIN 12, CHIN 10BM, or department stamp.</p>
+        <a name="chin10cd" id="chin10cd"></a></p><p class="course-name">CHIN 10CD. First Year Chinese—Dialect speakers III (5) </p>
+        <p class="course-descriptions">Further continuation course of basic
+            Chinese for students with background in a dialect of Chinese. Third
+            course of one-year curriculum for entry-level Chinese communicative
+            skills. Expansion on pronunciation and more elaborate Chinese grammar
+            and increasing vocabulary. Topics include dining, direction, and
+            social life. Students may not receive duplicate credit for CHIN 13
+          and CHIN 10CD. <span class="italic"><b>Prerequisites:</b></span> CHIN 12, CHIN 10BD, or department stamp.</p>
+        <h3 class="course-subhead-2">Second Year Chinese Courses (Lower Division)</h3>
+       <a name="chin20an" id="chin20an"></a></p> <p class="course-name">CHIN 20AN. Second Year Chinese—Nonnative speakers I (4) </p>
+        <p class="course-descriptions">Second year of basic Chinese for students with no background. First
+          course of second year of a one-year curriculum for Chinese in intermediate
+          communicative skills. Covers sentence structure, idiomatic expression,
+          development of listening, speaking, reading, and written competence
+          in Chinese. Topics include sports, travel, and special events. Students
+          may not receive duplicate credit for both CHIN 21 and CHIN 20AN. <span class="italic"><b>Prerequisites:</b></span> CHIN 13, CHIN 10CN, score of 3 on AP Chinese Language and Culture Exam,
+          or department stamp.</p>
+        <a name="chin20am" id="chin20am"></a></p><p class="course-name">CHIN 20AM. Second Year Chinese—Mandarin speakers I (4)</p>
+        <p class="course-descriptions">Second year of basic Chinese for students with background in Mandarin.
+          First course of second year of one-year curriculum for Chinese in intermediate
+          communicative skills. Covers sentence structure and idiomatic expression,
+          development of listening, speaking, reading, and written competence.
+          Topics include sports, travel, and special events. Students may not
+          receive duplicate credit for both CHIN 21 and CHIN 20AM.<b><span class="italic"> Prerequisites:</span></b> CHIN 13, CHIN 10CM, score of 3 on AP Chinese Language and Culture Exam,
+          or department stamp.</p>
+        <a name="chin20ad" id="chin20ad"></a></p><p class="course-name">CHIN 20AD. Second Year Chinese—Dialect speakers I (4) </p>
+        <p class="course-descriptions">Second year of basic Chinese for students with background in a
+            dialect of Chinese. First course of second year of one-year curriculum
+            for Chinese in intermediate communicative skills. Covers sentence
+            structure and idiomatic expression, development of listening, speaking,
+            reading, and written competence in Chinese. Topics include sports,
+            travel, and special events. Students may not receive duplicate credit
+            for both CHIN 21 and CHIN 20AD. <b><span class="italic">Prerequisites:</span></b> CHIN
+          13, CHIN 10CD, score of 3 on AP Chinese Language and Culture Exam,
+          or department stamp.</p>
+       <a name="chin20bn" id="chin20bn"></a></p> <p class="course-name">CHIN 20BN. Second Year Chinese—Nonnative speakers II (4)</p>
+        <p class="course-descriptions">Continuation of second year of basic Chinese for students with
+            no background. Second course of one-year curriculum for Chinese intermediate
+          communicative skills. Covers sentence structure and idiomatic expressions,
+          development of listening, speaking, reading and written competence
+          in Chinese. Topics focus on China, population and other nationalities.
+          Students may not receive duplicate credit for both CHIN 22 and CHIN
+          20BN. <b><span class="italic">Prerequisites:</span></b> CHIN 21, CHIN 20AN, score
+          of 4 on AP Chinese Language and Culture Exam or department stamp.</p>
+        <a name="chin20bm" id="chin20bm"></a></p><p class="course-name">CHIN 20BM. Second Year Chinese—Mandarin speakers II (4)</p>
+        <p><span class="course-descriptions">Continuation of second year of basic Chinese for students with
+            background in Mandarin. Second course of one-year curriculum for
+            Chinese intermediate communicative skills. Covers sentence structure
+            and idiomatic expressions, development of listening, speaking, reading,
+            and written competence. Topics focus on China, population, and other
+            nationalities. Students may not receive duplicate credit for both
+            CHIN 22 and CHIN 20BM. <b class="italic">Prerequisites:</b> CHIN 21, CHIN 20AM, score
+          of 4 on AP Chinese Language and Culture Exam, or department stamp</span>.</p>
+        <a name="chin20bd" id="chin20bd"></a></p><p class="course-name">CHIN 20BD. Second Year Chinese—Dialect speakers II (4) </p>
+<p class="course-descriptions">Continuation of second year of basic Chinese for students with
+            background in a dialect of Chinese. Second course of one-year curriculum
+            for Chinese intermediate communicative skills. Covers sentence structure
+            and idiomatic expressions, development of listening, speaking, reading,
+            and written competence in Chinese. Topics focus on China, population,
+            and other nationalities. Students may not receive duplicate credit
+            for both CHIN 22 and CHIN 20BD. <span class="italic"><b>Prerequisites: </b></span>CHIN 21, CHIN
+          20AD, score of 4 on AP Chinese Language and Culture Exam, or department
+          stamp.</p>
+        <a name="chin20cn" id="chin20cn"></a></p>
+        <p class="course-name">CHIN 20CN. Second Year Chinese—Nonnative speakers III (4)</p>
+        <p class="course-descriptions">Final course of second year Chinese for students with no background.
+          Third course of a one-year curriculum for Chinese intermediate communicative
+          skills. Expansion on pronunciation and more elaborate Chinese grammar
+          and increasing vocabulary. Topics include food, physical actions, and
+          culture. Students may not receive duplicate credit for both CHIN 23
+          and CHIN 20CN.<span class="italic"><b> Prerequisites: </b></span>CHIN 22, CHIN
+          20BN, score of 5 on AP Chinese Language and Culture Exam, or department
+          stamp.</p>
+        <a name="chin20cm" id="chin20cm"></a></p><p class="course-name">CHIN 20CM. Second Year Chinese—Mandarin speakers III (4)</p>
+        <p class="course-descriptions">Final course of second year Chinese for students with background
+            in Mandarin. Third course of one-year curriculum for Chinese intermediate
+          communicative skills. Expansion on pronunciation and Chinese grammar
+          and increasing vocabulary. Topics include food, physical actions, and
+          culture. Students may not receive duplicate credit for both CHIN 23
+          and CHIN 20CM. <span class="italic"><b>Prerequisites: </b></span>CHIN 22, CHIN
+          20BM, score of 5 on AP Chinese Language and Culture Exam, or department
+          stamp.</p>
+        <a name="chin20cd" id="chin20cd"></a></p><p class="course-name">CHIN 20CD. Second Year Chinese—Dialect speakers III (4) </p>
+        <p class="course-descriptions">Final course of second year Chinese for students with background
+            in a dialect of Chinese. Third course of one-year curriculum for
+            Chinese intermediate communicative skills. Expansion on pronunciation
+            and more elaborate Chinese grammar and increasing vocabulary. Topics
+            include food, physical actions, and culture. Students may not receive
+            duplicate credit for both CHIN 23 and CHIN 20CD. <span class="italic"><b>Prerequisites:</b></span> CHIN 22, CHIN 20BD, score of 5 on AP Chinese Language and Culture Exam,
+          or department stamp.</p>
+        <h3 class="course-subhead-2">Third Year Chinese Courses (Upper Division)</h3>
+        <a name="chin100an" id="chin100an"></a></p>
+        <p class="course-name">CHIN 100AN. Third Year Chinese—Nonnative speakers I (4)</p>
+        <p class="course-descriptions">Intermediate
+          course of Chinese for students with no background. First course of
+          third year of one-year curriculum that focuses on listening, reading,
+          and speaking. Emphasizing the development of advanced oral, written
+          competence, and aural skills in Mandarin. Topics include education,
+          literature, history of Chinese language and society. Students may not
+          receive duplicate credit for both CHIN 111 and CHIN 100AN. <span class="italic"><b>Prerequisites: </b></span>CHIN 23, CHIN 20CN, or department stamp.</p>
+        <a name="chin100am" id="chin100am"></a></p><p class="course-name">CHIN 100AM. Third Year Chinese—Mandarin speakers I (4)</p>
+        <p class="course-descriptions">Intermediate course of Chinese for students with background in
+            Mandarin and other dialects. First course of third year of one-year
+            curriculum that focuses on listening, reading, and speaking. Topics
+            include education, literature, history of Chinese language and society.
+            Students may not receive duplicate credit for both CHIN 111 and CHIN
+            100AM. <span class="italic"><b>Prerequisites:</b></span> CHIN 23, CHIN 20CM or CHIN 20CD, or department
+          stamp.</p>
+        <a name="chin100bn" id="chin100bn"></a></p>
+        <p class="course-name">CHIN 100BN. Third Year Chinese—Nonnative speakers II (4)</p>
+        <p class="course-descriptions">Intermediate course of Chinese for students with no background.
+            Second course of third year of Chinese that emphasizes the development
+            of advanced oral, written competence and aural skills in Mandarin.
+            Topics include various cultural aspects of the Chinese language,
+            additional family issues and society. Students may not receive duplicate
+          credit for both CHIN 112 and CHIN 100BN. <span class="italic"><b>Prerequisites:</b></span> CHIN 111, CHIN 100AN or department stamp.</p>
+        <a name="chin100bm" id="chin100bm"></a></p><p class="course-name">CHIN 100BM. Third Year Chinese—Mandarin speakers II (4)</p>
+        <p class="course-descriptions">Intermediate course of Chinese for students with background in
+            Mandarin and other dialects. Second course of third year of Chinese
+            that emphasizes the development of advanced oral, written competence,
+            and aural skills in Mandarin. Topics include cultural aspects of
+            the Chinese language, additional family issues and society. Students
+            may not receive duplicate credit for both CHIN 112 and CHIN 100BM.
+          <span class="italic"><b>Prerequisites:</b></span> CHIN 111, CHIN 100AM, or department stamp.</p>
+        <a name="chin100cn" id="chin100cn"></a></p>
+        <p class="course-name">CHIN 100CN. Third Year Chinese—Nonnative speakers III (4)</p>
+        <p class="course-descriptions">Intermediate course of Chinese for students with no background.
+            Third course of third year of one-year curriculum in Chinese language
+            acquisition. Continue to develop proficiency at intermediate level.
+            Improves students’ Chinese language skills and knowledge of the culture
+            with an emphasis of reading and writing. Students may not receive
+          duplicate credit for both CHIN 113 and CHIN 100CN. <span class="italic"><b>Prerequisites:</b></span> CHIN 112, CHIN 100BN. or department stamp.</p>
+        <a name="chin100cm" id="chin100cm"></a></p><p class="course-name">CHIN 100CM. Third Year Chinese—Mandarin speakers III (4)</p>
+        <p class="course-descriptions">Intermediate course of Chinese for students with background in
+            Mandarin and other dialects. Third course of third year of one-year
+            curriculum in Chinese language acquisition. Continue to develop proficiency
+            at intermediate level. Improves students’ Chinese language skills
+            and knowledge of the culture with an emphasis of reading and writing.
+            Topics include economic development in China. Students may not receive
+          duplicate credit for both CHIN 113 and CHIN 100CM. <span class="italic"><b>Prerequisites:</b></span> CHIN 112, CHIN 100BM, or department stamp.        </p>
+        <p>Students
+          wishing to take more than one Chinese language class in the same quarter
+          must obtain approval from the director of the Chinese language program
+          prior to enrolling in a second CHIN course.        </p>
+        <h3 class="course-subhead-2">Upper-Division Chinese Courses        </h3>
+        <p class="anchor-parent"><a class="anchor" id=""chin160" name="chin160" /></a></p><p class="anchor-parent"><a class="anchor" id=""chin260" name="chin260" /></a></p><p class="course-name">CHIN
+          160/260. Late Imperial and Twentieth-Century Chinese Historical Texts
+          (4)</p>
+<p class="course-descriptions">This course introduces the primary sources used by historians of late Imperial and twentieth-century Chinese history. Reading material includes diaries, newspaper articles, Qing documents, gazetteers, essays, speeches, popular fiction, journal articles, scholarly prose, and field surveys. May be repeated for credit. (P/NP grades only.) <strong class="italic">Prerequisites:</strong> advanced knowledge of Chinese language and consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id=""chin165a" name="chin165a" /></a></p>
+				<p class="course-name">CHIN 165A. Business Chinese (4)</p>
+				<p class="course-descriptions">Basic training in oral and written communication
+				  skills for business, including introduction to modern business terminology
+				  and social conventions. <strong class="italic">Prerequisites: </strong>CHIN
+			    113, CHIN 100CM, CHIN 100CN or department stamp.</p>
+				<p class="anchor-parent"><a class="anchor" id=""chin165b" name="chin165b" /></a></p>
+				<p class="course-name">CHIN 165B. Business Chinese (4)</p>
+				<p class="course-descriptions">Continuation of CHIN 165A. Basic training in oral and written communication skills for business, including introduction to modern business terminology and social conventions. <strong class="italic">Prerequisites:</strong> CHIN 165A or equivalent.</p>
+				<p class="anchor-parent"><a class="anchor" id=""chin165c" name="chin165c" /></a></p>
+				<p class="course-name">CHIN 165C. Business Chinese (4)</p>
+				<p class="course-descriptions">Continuation of CHIN 165B. Basic training in oral and written communication skills for business, including introduction to modern business terminology and social conventions. <strong class="italic">Prerequisites:</strong> CHIN 165B or equivalent.</p>
+		<p class="anchor-parent"><a class="anchor" id=""chin169a" name="chin169a" /></a></p><p class="course-name">CHIN 169A. Medical Chinese I (4)</p>
+				<p class="course-descriptions">Course focuses on conversational Chinese for students interested in medicine and health care. Designed to prepare students to speak, listen, and read effectively in a Chinese medical environment. Course aims to instruct students in basic to intermediate medical Chinese terminology for comprehensive patient review. <strong class="italic">Prerequisites:</strong> basic Chinese speaking and reading ability and instructor approval required.<strong></strong></p>
+				<p class="anchor-parent"><a class="anchor" id=""chin169b" name="chin169b" /></a></p><p class="course-name">CHIN 169B. Medical Chinese II (4)</p>
+		<p class="course-descriptions">Course designed to improve conversational Chinese for students interested in medicine and health care. Course aims for stronger Chinese proficiency within a medical environment.<strong class="italic"> Prerequisites: </strong>CHIN 169A, basic Chinese speaking and reading ability and instructor approval required.</p>
+		<p class="anchor-parent"><a class="anchor" id=""chin182a" name="chin182a" /></a></p>
+				<p class="course-name">CHIN 182A. Introduction
+	    to Classical Chinese—Advanced I (4)</p>
+				<p class="course-descriptions">An introduction to classical Chinese for students with advanced Chinese background. Basic structures and function words are taught through fables of the pre-Qing period. <strong class="italic">Prerequisites:</strong> CHIN 113, CHIN 100C, or department approval. </p>
+				<p class="anchor-parent"><a class="anchor" id=""chin182b" name="chin182b" /></a></p>
+				<p class="course-name">CHIN 182B. Introduction
+		  to Classical Chinese—Advanced II (4)</p>
+				<p class="course-descriptions">Continuation of CHIN 182A. Selections from Kongzi, Mengzi, and other philosophers&#8217; work will be taught. Focus is on structures, function words, and overall comprehension of a text. <strong class="italic">Prerequisites:</strong> CHIN 182A or departmental approval. </p>
+				<p class="anchor-parent"><a class="anchor" id=""chin182c" name="chin182c" /></a></p>
+				<p class="course-name">CHIN 182C. Introduction
+		  to Classical Chinese—Advanced III (4)</p>
+				<p class="course-descriptions">Continuation of CHIN 182B. Selections from later periods like Shiji and poetry will be introduced. Upon completion of this yearlong curriculum, students should be able to read classical Chinese texts on their own with the help of a dictionary. <strong class="italic">Prerequisites:</strong> CHIN 182B or department approval. </p>
+				<p class="anchor-parent"><a class="anchor" id=""chin185a" name="chin185a" /></a></p><p class="anchor-parent"><a class="anchor" id=""chin185b" name="chin185b" /></a></p><p class="anchor-parent"><a class="anchor" id=""chin185c" name="chin185c" /></a></p>
+				<p class="course-name">CHIN 185A-B-C. Readings in Chinese Culture and Society
+				  (4-4-4)</p>
+				<p class="course-descriptions">Designed for students who want advanced language
+				  skills, this course will enlarge students’ vocabulary and improve students’
+				  reading skills through studies of original writings and other media on
+				  Chinese culture and society, past and present. <strong class="italic">Prerequisites:</strong> CHIN
+			    113, CHIN 100CM, CHIN 100CN, or department stamp. </p>
+				<p class="anchor-parent"><a class="anchor" id=""chin186a" name="chin186a" /></a></p><p class="anchor-parent"><a class="anchor" id=""chin186b" name="chin186b" /></a></p><p class="anchor-parent"><a class="anchor" id=""chin186c" name="chin186c" /></a></p>
+				<p class="course-name">CHIN 186A-B-C. Readings in Chinese Economics, Politics,
+				  and Trade (4-4-4)</p>
+				<p class="course-descriptions">Introduction to the specialized vocabulary
+				  and verbal forms relating to Chinese politics, trade, development
+				  and society. Designed for students in the social sciences or with career
+				  interests in international trade, the course will stress rapid vocabulary
+				  development, reading and translating. <strong class="italic">Prerequisites:</strong> CHIN
+				  113, CHIN 100CN, CHIN 100CM, or department stamp. </p>
+				<p class="anchor-parent"><a class="anchor" id=""chin196" name="chin196" /></a></p>
+				<p class="course-name">CHIN 196. Directed Thesis Research (4)</p>
+				<p><span class="course-descriptions">Bachelor’s thesis, under the direction
+				    of a faculty member in Chinese studies. <strong class="italic">Prerequisites:</strong> consent
+				  of instructor. (F,W,S)</span> </p>
+				<p class="anchor-parent"><a class="anchor" id=""chin198" name="chin198" /></a></p>	<p class="course-name">			CHIN 198. Directed
+			    Group Study in Chinese Studies (2 or 4)</p>
+<p class="course-descriptions">Study of specific aspects in Chinese civilization
+  not covered in regular course work, under the direction of faculty members
+  in Chinese studies. (P/NP grades only.) <strong class="italic">Prerequisites:</strong> consent
+  of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id=""chin199" name="chin199" /></a></p>
+				<p class="course-name">CHIN 199. Independent Study in Chinese Studies (2
+				  or 4)</p>
+				<p class="course-descriptions">The student will undertake a program of research
+				  or advanced reading in selected areas in Chinese studies under
+				  the supervision of a faculty member of the Program in Chinese
+				  Studies. (P/NP grades only.) <strong class="italic">Prerequisites:</strong> consent
+				  of instructor. </p>
+				<a name="CHIN260" id="CHIN260"></a></p><p class="course-name">CHIN 260. Late
+				  Imperial and Twentieth-Century Chinese Historical Texts (4)</p>
+				<p class="course-descriptions">This course introduces the primary sources
+				  used by historians of the late Imperial and twentieth-century
+				  Chinese history. Reading material includes diaries, newspaper articles,
+				  Qing documents, gazetteers, essays, speeches, popular fiction, journal
+				  articles, scholarly prose, and field surveys. May be repeated for credit.
+				  (P/NP grades only) <strong class="italic">Prerequisites:</strong> department
+				  stamp, advanced knowledge of Chinese language, and consent
+				  of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id=""chin269" name="chin269" /></a></p>
+				<p class="course-name">CHIN 269. Conversational Mandarin for Medical Students—Beginning
+				  (2)</p>
+				<p class="course-descriptions">(Cross-listed with MED 269.) This introductory
+				  course is designed to develop a working knowledge of medical
+				  Mandarin that will enable the student to communicate with Mandarin-speaking
+				  patients. There will be instruction in basic medical vocabulary and grammar,
+				  with a focus on taking a medical history. This is only a conversational
+				  course and no previous knowledge of Mandarin is required. (S/U only.) </p>
+				<p class="anchor-parent"><a class="anchor" id=""chin296" name="chin296" /></a></p>
+				<p class="course-name">CHIN 296. Directed Thesis Research (2–12)</p>
+				<p class="course-descriptions">Graduate thesis research under the guidance of a faculty member affiliated with the Program in Chinese Studies. </p>
+				<p class="anchor-parent"><a class="anchor" id=""chin299" name="chin299" /></a></p>
+				<p class="course-name">CHIN 299. Independent Study in Chinese Studies (2–12)</p>
+				<p class="course-descriptions">Independent graduate research under the guidance
+				  of a faculty member affiliated with the Program in Chinese Studies. <strong class="italic">Prerequisites:</strong> graduate
+			    standing and consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id=""chin500" name="chin500" /></a></p>
+				<p class="course-name">CHIN 500. Apprentice Teaching (2–4)</p>
+				<p class="course-descriptions">A course in which graduate teaching assistants
+				  are aided in learning proper teaching methods by means of supervision of
+				  their work by the faculty, handling of discussions, assistance in the preparation
+				  and grading of exams and other written exercises, and student relations. <strong class="italic">Prerequisites:</strong> graduate
+			    standing.		</p>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

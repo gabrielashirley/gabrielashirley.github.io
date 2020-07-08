@@ -1,0 +1,210 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Religion, Study of&#8212;Courses</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopMargin">Religion, Study of</h1>
+<p><span class="courseFacLink">[ <a href="../curric/RELI.html">program</a> | <a href="../faculty/RELI.html">faculty</a> ]</span></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/Course Name and Disclaimer.lbi" -->
+<h2>Courses</h2>
+<p class="course-disclaimer"><em>For course descriptions not found in the </em>UC
+  San Diego General Catalog 2019&#8211;20<em>, please contact the department
+  for more information.</em></p><!-- #EndLibraryItem --><p class="anchor-parent"><a class="anchor" id="reli1"></a></p><p class="course-name">RELI 1. Introduction to Religion (4)</p>
+		<p>An introduction to key topics in the study of religion through the analysis of religious texts, artifacts, and/or practices. The intent is to develop basic strategies of interpretation for undertaking a critical, disciplined study of religion.</p>
+		<p class="anchor-parent"><a class="anchor" id="reli2" name="reli2"></a></p><p class="course-name">RELI 2. Comparative World Religions (4)</p>
+		<p class="course-descriptions">An introduction to the comparative study of religion, focusing on religious traditions of global significance. Although historical aspects of these traditions will be studied, emphasis will be placed on religious beliefs and practices as manifested in the contemporary world.</p>
+		<p class="anchor-parent"><a class="anchor" id="reli3" name="reli3"></a></p><p class="course-name">RELI 3. Technoscience and Religion (4)</p>
+		<p class="course-descriptions">The aim of this course is to introduce students to the complex relationship between &ldquo;technoscience,&rdquo; as a broad field of inquiry into the global human practices of technology combined with scientific methods, ranging from biology to computer sciences and robotics, with religion in its complex social manifestations.</p>
+<p class="anchor-parent"><a class="anchor" id="reli87" name="reli87"></a></p><p class="course-name">RELI 87. Freshman Seminar in Religion (1)</p>
+		<p class="course-descriptions">The Freshman Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic related to the study of religion with a faculty member in a small seminar setting. Freshman seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering freshmen.</p>
+		<p class="anchor-parent"><a class="anchor" id="reli101" name="reli101"></a></p><p class="course-name">RELI 101. Tools and Methods in the Study of Religion (4)</p>
+		<p class="course-descriptions">This course provides an advanced introduction to assumptions and norms that shape the study of religion as an academic field; to significant debates within the field; and to tools and methods used for professional research within the field.</p>
+		<p class="anchor-parent"><a class="anchor" id="reli131" name="reli131"></a></p>
+		<p class="course-name">RELI 131. Topics in Religion and Sexuality (4)</p>
+		<p class="course-descriptions">How does religiosity as a significant cultural component help mold gender and sexuality identities? The class offers topical investigations into this question. <strong><em>Prerequisites:</em></strong> upper-division standing or consent of instructor.</p>
+		<p class="anchor-parent"><a class="anchor" id="reli132" name="reli132"></a></p><p class="course-name">RELI 132. Topics in Orthodoxy and Heterodoxy (4)</p>
+		<p class="course-descriptions">Religious dogmas often develop in dialogue with alternative viewpoints that ultimately are rejected by heterodox by the dominant group. This class presents case studies in the interpretation of such ideological and sociological pairings using scriptural, literary, and analytic sources. <strong><em>Prerequisites:</em></strong> upper-division standing or consent of instructor.</p>
+<p class="anchor-parent"><a class="anchor" id="reli134"  name="reli134"></a></p><p class="course-name">RELI 134. Topics in American Religion (4)</p>
+				<p class="course-descriptions">Topical studies in the history of religion in American society, ranging from the Puritans to the New Age. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="reli141" name="reli141"></a></p><p class="course-name">RELI 141. Public Sphere and Religion (4)</p>
+				<p class="course-descriptions">This interdisciplinary course will explore the historical and theoretical relationship between public sphere and religion, particularly focusing on the manifestation of religious power, public ritual, and sacred theatricality in everyday spaces of life. <span class="italic"><strong>Prerequisites:</strong> </span>upper-division standing or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="reli142" name="reli142"></a></p><p class="course-name">RELI 142. Secularization and Religion (4)</p>
+				<p class="course-descriptions">Surveys the relationship between religion and modernity, in particular the problematic of the secularization theory; covers cases such as Catholic liberation theology and Islamic fundamentalism, with particular focus on the &ldquo;deprivatization of modern religion.&rdquo; <strong><em>Prerequisites:</em></strong> upper-division standing or consent of instructor.</p>
+<p class="anchor-parent"><a class="anchor" id="reli143" name="reli143"></a></p><p class="course-name">RELI 143. Topics in Performing Religion (4)</p>
+				<p class="course-descriptions">This course explores religion as a system of bodily practices, rather than one of tenets or beliefs. How do day-to-day activities as well as significant rituals express and inform people&#8217;s religious lives? Why is doctrine an insufficient basis for understanding religion? May be taken up to three times as topics vary. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="reli144" name="reli144"></a></p><p class="course-name">RELI 144. Devils and Demons in Christianity (4)</p>
+				<p class="course-descriptions">Christianity frequently finds definition in contradistinction to an &ldquo;Other&rdquo; characterized as immoral, irrational, and malevolent. This class investigates how devils and demons as constructions of the &ldquo;Other&rdquo; have contributed to Christianity&rsquo;s growth and identity formation throughout history. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="reli145" name="reli145"></a></p><p class="course-name">RELI 145. Communication, Technology, and Religion (4)</p>
+				<p class="course-descriptions">This course will look at the relationship between information communication technologies (ICTs) and religion and how they have intersected or diverged in the course of history. We will look at both older and newer media, such as telegraph, radio, television, cassette tapes, internet, and satellite, and how they have been used by groups like Evangelical, Catholic, or Islamist movements in proliferation and transformation of ideas, rituals, ideologies, values, and diverse forms of sociability. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="reli146" name="reli146"></a></p><p class="course-name">RELI 146. Topics in the Religions of Antiquity (4)</p>
+				<p class="course-descriptions">Topical studies in the religious beliefs, practices, and institutions of pre-Christian Europe and near East. May be repeated for credit up to three times when topics vary. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+				<p class="anchor-parent"><a class="anchor" id="reli147" name="reli147"></a></p><p class="course-name">RELI 147. Pagan Europe and Its Christian Aftermath (4)</p>
+		<p class="course-descriptions">This course explores the history of how western Europe was converted from its indigenous pagan religions to the imported religion we know as Christianity. We will discuss conversion by choice and by force, partial or blended conversions, and the relationships between belief and culture. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+		<p class="anchor-parent"><a class="anchor" id="reli148" name="reli148"></a></p><p class="course-name">RELI 148. Religion and Women&rsquo;s Activisms (4)</p>
+		<p class="course-descriptions">The course surveys women&rsquo;s formal and informal roles and activities in a number of faiths, examining how women&rsquo;s agency and activism may be constrained or fostered by religious ideologies and norms in various historical and political contexts. Examples are drawn from a range of male-centered religions (Islam, Judaism, Christianity, Buddhism), woman-centered religions (Sande, Afro-Brazilian, Z-ar Cult), and newly formed theologies (Womanist, Native American, and Mujerista; New Age feminist spiritualities).<strong class="italic"> Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+		<p class="anchor-parent"><a class="anchor" id="reli149" name="reli149"></a></p><p class="course-name">RELI 149. Islam in America (4)</p>
+		<p class="course-descriptions">This course introduces the students to historical and social developments of Islam in the United States. Tracing Islam back to the African slaves, the course examines various Muslim communities in the United States, with a focus on African American Muslims, especially Malcolm X. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+<p class="anchor-parent"><a class="anchor" id="reli150" name="reli150"></a></p><p class="course-name">RELI 150. Religion and Cinema (4)</p>
+		<p class="course-descriptions">The course is an introductory study of cinema and religion. It explores how cinema depicts religion and spiritual experience. A number of films will be studied to understand how cinematic and religious narratives and practices overlap and, at times, diverge in complex ways. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+		<p class="anchor-parent"><a class="anchor" id="reli151" name="reli151"></a></p><p class="course-name">RELI 151. Deep Ecology: Knowing Place (4)</p>
+		<p class="course-descriptions">This course explores intersections between religious discourse and ecological discourse by considering texts from both that treat the human world as irreducibly interconnected with more-than-human worlds of nature and “spirit.” Themes include the ambivalence of wildness; the critique of anthropocentrism (human-centeredness); and the question of how religious emphasis on “knowing (one’s) place” can create a sense of either human exceptionality, above nature, or embeddedness, within nature. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+		<p class="anchor-parent"><a class="anchor" id="reli153" name="reli153"></a></p>
+		<p class="course-name">RELI 153. Hispanic American Religions (4)</p>
+		<p class="course-descriptions">This course introduces students to historical and social developments of religion among Hispanic Americans. The course examines changing religious traditions and ritual practices among Hispanic Americans with a focus on Catholicism and (evangelical) Protestantism. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+		<p class="anchor-parent"><a class="anchor" id="reli154" name="reli154"></a></p>
+		<p class="course-name">RELI 154. Asian American Religions (4)</p>
+		<p class="course-descriptions">This course introduces students to historical and social developments of religion among Asian Americans. Tracing back to the mid-nineteenth century, the course examines changing religious traditions and ritual practices among Asian American communities. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+		<p class="anchor-parent"><a class="anchor" id="reli155" name="reli155"></a></p>
+		<p class="course-name">RELI 155. African American Religions (4)</p>
+		<p class="course-descriptions">This course introduces students to historical and social developments of religion among African Americans. The course examines changing religious traditions and ritual practices among African Americans since slavery to the present era. <strong class="italic">Prerequisites:</strong> upper-division standing or consent of instructor.</p>
+		<p class="anchor-parent"><a class="anchor" id="reli156" name="reli156"></a></p>
+		<p class="course-name">RELI 156. Posthuman Spirituality (4)</p>
+		<p class="course-descriptions">This course will survey questions surrounding the &ldquo;coevolution&rdquo; of human and technics and ways such processes are making new worlds of which we often feel a sense of perpetual disruption. We investigate posthuman not only in terms of new technological practices but spiritual  experiences that bring about new understandings of being human in the world. <strong><em>Prerequisites:</em></strong> upper-division standing.</p>
+        
+<p class="anchor-parent"><a class="anchor" id="reli157gs" name="reli157gs"></a></p><p class="course-name">RELI 157GS. Religion in Japan (4)</p>
+		<p class="course-descriptions">This course examines Japanese religions by studying various traditions including Buddhism, Christianity, and Shintoism and their influence on Japanese culture such as anime and cinema. Students must apply and be accepted into the Global Seminar Program.</p>
+		<p class="anchor-parent"><a class="anchor" id="reli158gs" name="reli158gs"></a></p><p class="course-name">RELI 158GS. Japanese Literature and Spirituality (4)</p>
+		<p class="course-descriptions">This course looks at the relationship between literature and spirituality in Japan. The course explores this relationship in the works of Shusaku Endo, Hiromi Ito, Yasunari Kawabata, Haruki Murakami, and others. Students must apply and be accepted into the Global Seminar Program.</p>
+		<p class="anchor-parent"><a class="anchor" id="reli159gs" name="reli159gs"></a></p><p class="course-name">RELI 159GS. Native Religions (4)</p>
+		<p class="course-descriptions">This course explores Native American ways of life and religions; it also examines the impact of European invasion and colonization.<strong><em> Prerequisites:</em></strong> Students must apply and be accepted into the Global Seminar Program. Program or material fee may apply.</p>
+		<p class="anchor-parent"><a class="anchor" id="reli160gs" name="reli160gs"></a></p><p class="course-name">RELI 160GS. Religion and Politics (4)</p>
+		<p class="course-descriptions">Explores the complex relationship between religion and politics in a variety of historical and social contexts. The course examines a range of texts and case studies with a focus on the intersection of religion with politics. <strong><em>Prerequisites:</em></strong> Students must apply and be accepted into the Global Seminar Program. Program or material fee may apply.</p>
+<p class="anchor-parent"><a class="anchor" id="reli188" name="reli188"></a></p><p class="course-name">RELI 188. Special Topics in Religion (4)</p>
+				<p class="course-descriptions">Students in this lecture will investigate important problems in the study of religion or the history of particular religions. May be repeated for credit up to three times when topics vary. <strong class="italic">Prerequisites:</strong> upper-division standing. </p>
+		<p class="anchor-parent"><a class="anchor" id="reli189" name="reli189"></a></p><p class="course-name">RELI 189. Seminar in Religion (4)</p>
+				<p class="course-descriptions">This seminar requires the intensive analysis of critical problems in the study of religion or the history of particular religions. May be repeated for credit up to three times when topics vary. <strong class="italic">Prerequisites:</strong> upper-division standing; RELI 101 or consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="reli192" name="reli192"></a></p><p class="course-name">RELI 192. Senior Seminar in Religion (1)</p>
+				<p class="course-descriptions">The senior seminar is designed to allow senior undergraduates to meet with faculty members in a small group setting to explore an intellectual topic in religion at the upper-division level. Topics will vary from quarter to quarter. Senior seminars may be taken for credit up to four times, with a change in topic and permission of the department. Enrollment is limited to twenty students, with preference given to seniors.</p>
+				<p class="anchor-parent"><a class="anchor" id="reli196ah" name="reli196ah"></a></p><p class="course-name">RELI 196AH. Honors Thesis in Religion (4)</p>
+				<p class="course-descriptions">First quarter of a two-quarter sequence of individualized, directed-research courses for majors in which students learn firsthand the processes and practices of scholarly research in the study of religion, culminating in the completion of a thesis and an oral presentation. Students may not receive credit for both RELI 196H and RELI 196AH. <strong class="italic">Prerequisites:</strong> RELI 101 (may be completed concurrently with the honors sequence). Department approval required for entry into the Honors Program. </p>
+				<p class="anchor-parent"><a class="anchor" id="reli196bh" name="reli196bh"></a></p><p class="course-name">RELI 196BH. Honors Thesis in Religion (4)</p>
+        <p class="course-descriptions">Second quarter of a two-quarter sequence of individualized, directed-research courses for majors in which students learn firsthand the processes and practices of scholarly research in the study of religion, culminating in the completion of a thesis and an oral presentation. Students may not receive credit for both RELI 196H and RELI 196BH. <strong class="italic">Prerequisites:</strong> RELI 196A. Department approval required for continuing participation in the Honors Program.
+        </p>
+        <p class="anchor-parent"><a class="anchor" id="reli197" name="reli197"></a></p><p class="course-name">RELI 197. Directed Advanced Readings (4)</p>
+				<p class="course-descriptions">A faculty member will direct a student in advanced readings on a topic not generally included in the Program for the Study of Religion&#8217;s curriculum. Students must make arrangements with the program and individual faculty. May be repeated for credit up to three times for credit. <strong class="italic">Prerequisites:</strong> upper-division standing; RELI 110A or 110B; overall GPA of 2.5. </p>
+				<p class="anchor-parent"><a class="anchor" id="reli199" name="reli199"></a></p><p class="course-name">RELI 199. Independent
+				  Research Study for Undergraduates (2–4)</p>
+				<p class="course-descriptions">Independent research in religion under the supervision of a faculty member affiliated with the Program for the Study of Religion. This course may be repeated three times with program approval. (P/NP grades only.) <strong class="italic">Prerequisites:</strong> upper-division standing, with 2.5 GPA (overall); program stamp. </p>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

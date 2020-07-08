@@ -1,0 +1,331 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Biomedical Sciences Faculty</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopMargin">Biomedical Sciences </h1>
+<p class="courseFacLink">[ <a href="../curric/BIOM.html">program</a> | <a href="../courses/BIOM.html">courses</a> ]</p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h4 class="faculty-staff-subhead">Professors </h4>
+				<p class="faculty-staff-listing">Ruben Abagyan, PhD, <em>Skaggs School of Pharmacy and Pharmaceutical Sciences</em></p>
+<p class="faculty-staff-listing">Joseph Adams, PhD, <em>Pharmacology</em></p>
+<p class="faculty-staff-listing">Kim E. Barrett, PhD, <em>Medicine</em></p>
+				<p class="faculty-staff-listing">Timothy D. Bigby, MD, <em>Clinical Medicine</em></p>
+				<p class="faculty-staff-listing">Roland C. Blantz, MD, <em>Medicine (Emeritus)</em></p>
+				<p class="faculty-staff-listing">Rolf Bodmer, PhD, <em>Pediatrics (Adjunct)</em></p>
+				<p class="faculty-staff-listing">Gerry R. Boss, MD, <em>Medicine</em></p>
+				<p class="faculty-staff-listing">Joan Heller Brown, PhD, <em>Pharmacology (Chair)</em></p>
+				<p class="faculty-staff-listing">Laurence L. Brunton, PhD, <em>Pharmacology/Medicine (Emeritus)</em></p>
+				<p class="faculty-staff-listing">Nigel Calcutt, PhD, <em>Pathology</em></p>
+				<p class="faculty-staff-listing">Dennis A. Carson, MD, <em>Medicine (Emeritus)</em></p>
+				<p class="faculty-staff-listing">Webster K. Cavenee, PhD, <em>Medicine</em></p>
+				<p class="faculty-staff-listing">Geoffrey Chang, PhD,<em> Skaggs School of Pharmacy and Pharmaceutical Sciences</em></p>
+				<p class="faculty-staff-listing">Ju Chen, PhD, <em>Medicine (In Residence)</em></p>
+				<p class="faculty-staff-listing">David Cheresh, PhD, <em>Pathology</em></p>
+				<p class="faculty-staff-listing">Shu Chien, MD, PhD, <em>Bioengineering/Medicine</em></p>
+				<p class="faculty-staff-listing">Mario Chojkier, MD, <em>Medicine (In Residence) </em></p>
+				<p class="faculty-staff-listing">Jerold J. M. Chun, PhD, <em>Pharmacology (Adjunct)</em></p>
+				<p class="faculty-staff-listing">Don W. Cleveland, PhD, <em>Medicine/Cellular and Molecular Medicine (Chair)</em></p>
+				<p class="faculty-staff-listing">Sara Courtneidge, PhD, <em>Pharmacology (Adjunct)</em></p>
+				<p class="faculty-staff-listing">Antonio De Maio, PhD,<em> Surgery</em></p>
+		<p class="faculty-staff-listing">Edward Dennis, PhD, <em>Pharmacology/Chemistry and Biochemistry</em></p>
+				<p class="faculty-staff-listing">Arshad Desai, PhD, <em>Cellular and Molecular Medicine </em></p>
+<p class="faculty-staff-listing">Jack E. Dixon, PhD, <em>Pharmacology/Cellular and Molecular Medicine/Chemistry and Biochemistry (Dean, Scientific Affairs)</em></p>
+				<p class="faculty-staff-listing">Daniel Donoghue, PhD, <em>Chemistry and Biochemistry </em></p>
+				<p class="faculty-staff-listing">Steven F. Dowdy, PhD, <em>Cellular and Molecular Medicine</em></p>
+				<p class="faculty-staff-listing">Mark H. Ellisman, PhD, <em>Neurosciences</em></p>
+				<p class="faculty-staff-listing">Peter Ernst, DVM, PhD,<em> Pathology</em></p>
+		<p class="faculty-staff-listing">Jeffrey Esko, PhD, <em>Cellular and Molecular Medicine</em></p>
+				<p class="faculty-staff-listing">Ronald M. Evans, PhD, <em>Biology (Adjunct)</em> </p>
+				<p class="faculty-staff-listing">Sylvia Evans, PhD, <em>Pharmacy/Pharmacology</em></p>
+				<p class="faculty-staff-listing">Marilyn G. Farquhar, PhD, <em>Cellular and Molecular Medicine</em></p>
+				<p class="faculty-staff-listing">Gen-Sheng Feng, PhD, <em>Pathology </em></p>
+				<p class="faculty-staff-listing">James R. Feramisco, PhD,<em> Medicine/Pharmacology (Emeritus)</em></p>
+				<p class="faculty-staff-listing">Susan Ferro-Novick, PhD, <em>Cellular and Molecular Medicine</em></p>
+				<p class="faculty-staff-listing">Kelly Frazer, PhD, <em>Pediatrics</em></p>
+				<p class="faculty-staff-listing">Hudson Freeze, PhD, <em>Medicine (Adjunct)</em></p>
+<p class="faculty-staff-listing">Theodore Friedmann, MD, <em>Pediatrics</em></p>
+				<p class="faculty-staff-listing">Xiang-Dong Fu, PhD, <em>Cellular and Molecular Medicine</em></p>
+				<p class="faculty-staff-listing">Minoru Fukuda, PhD, <em>Pathology (Adjunct)</em></p>
+				<p class="faculty-staff-listing">Frank Funari, PhD, <em>Pathology</em></p>
+				<p class="faculty-staff-listing">Richard Gallo, MD, PhD, <em>Medicine</em></p>
+				<p class="faculty-staff-listing">William Gerwick, PhD,<em> Oceanography/Skaggs School of Pharmacy and Pharmaceutical Sciences</em></p>
+				<p class="faculty-staff-listing">Gordon Gill, MD, <em>Medicine (Emeritus)</em></p>
+				<p class="faculty-staff-listing">Frances Gillin, PhD, <em>Pathology (Emeritus)</em></p>
+				<p class="faculty-staff-listing">Michael Gilson, MD, PhD,<em> Skaggs School of Pharmacy and Pharmaceutical Sciences</em></p>
+				<p class="faculty-staff-listing">Mark Ginsberg, MD, <em>Medicine</em></p>
+				<p class="faculty-staff-listing">Christopher K. Glass, MD, PhD, <em>Cellular and Molecular Medicine/Medicine </em></p>
+				<p class="faculty-staff-listing">Joseph G. Gleeson, MD, <em>Neurosciences</em></p>
+<p class="faculty-staff-listing">Lawrence S. B. Goldstein, PhD, <em>Cellular and Molecular Medicine </em></p>
+				<p class="faculty-staff-listing">Steven Gonias, MD, PhD, <em>Pathology (Chair)</em></p>
+				<p class="faculty-staff-listing">Kun-Liang Guan, PhD, <em>Pharmacology</em></p>
+				<p class="faculty-staff-listing">John C. Guatelli, PhD, <em>Medicine</em></p>
+				<p class="faculty-staff-listing">Gabriel Haddad, MD, <em>Pediatrics (Chair)/Neurosciences</em></p>
+				<p class="faculty-staff-listing">Bruce Hamilton, PhD, <em>Medicine</em></p>
+        <p class="faculty-staff-listing">Tracy Handel, PhD, <em>Skaggs School of</em> <em>Pharmacy and Pharmaceutical Sciences</em></p>
+        <p class="faculty-staff-listing">Dorit Hanein, PhD, <em>Pathology (Adjunct)</em></p>
+        <p class="faculty-staff-listing">Alan Hargens, PhD, <em>Orthopaedic Surgery</em></p>
+        <p class="faculty-staff-listing">Stephen Hedrick, PhD, <em>Cellular and Molecular Medicine </em></p>
+        <p class="faculty-staff-listing">Michael C. Hogan, PhD, <em>Medicine (Adjunct) </em></p>
+        <p class="faculty-staff-listing">Vivian Hook, PhD, <em>Skaggs School of</em> <em>Pharmacy and Pharmaceutical Sciences</em> </p>
+        <p class="faculty-staff-listing">Stephen B. Howell, MD, <em>Medicine</em></p>
+				<p class="faculty-staff-listing">Paul A. Insel, MD, <em>Pharmacology/Medicine</em></p>
+<p class="faculty-staff-listing">Yishi Jin, PhD,<em> Cellular and Molecular Medicine/Biological Sciences</em></p>
+				<p class="faculty-staff-listing">Martin F. Kagnoff, MD, <em>Medicine</em></p>
+				<p class="faculty-staff-listing">Mark Kamps, PhD, <em>Pathology</em></p>
+				<p class="faculty-staff-listing">Michael Karin, PhD, <em>Pharmacology</em>				</p>
+				<p class="faculty-staff-listing">John Kelsoe, MD, <em>Psychiatry</em></p>
+				<p class="faculty-staff-listing">Thomas J. Kipps, MD, PhD, <em>Medicine</em></p>
+				<p class="faculty-staff-listing">Richard Klemke, PhD,<em> Pathology</em></p>
+				<p class="faculty-staff-listing">Richard Kolodner, PhD, <em>Medicine</em></p>
+				<p class="faculty-staff-listing">Elizabeth A. Komives, PhD, <em>Chemistry and Biochemistry</em></p>
+				<p class="faculty-staff-listing">Albert La Spada, MD, PhD, <em>Cellular and Molecular Medicine</em></p>
+        <p class="faculty-staff-listing">Hyam L. Leffert, MD, <em>Pharmacology</em></p>
+        <p class="faculty-staff-listing">Greg Lemke, PhD,<em> Neurosciences (Adjunct)</em></p>
+        <p class="faculty-staff-listing">Fred Levine, MD, PhD, <em>Pediatrics (Emeritus)</em></p>
+        <p class="faculty-staff-listing">Willis Li, PhD,<em> Medicine</em></p>
+        <p class="faculty-staff-listing">Richard Lieber, PhD, <em>Orthopaedics and Bioengineering</em></p>
+        <p class="faculty-staff-listing">Stuart Lipton, MD, PhD, <em>Neurosciences (Adjunct)</em></p>
+        <p class="faculty-staff-listing">Marianne Manchester, PhD, <em>Skaggs School of <em>Pharmacy and Pharmaceutical Sciences</em></em></p>
+<p class="faculty-staff-listing">Martin Marsala, MD, <em>Anesthesiology</em> </p>
+<p class="faculty-staff-listing">James Andrew McCammon, PhD, <em>Chemistry and Biochemistry/Pharmacology </em></p>
+				<p class="faculty-staff-listing">Pamela L. Mellon, PhD,<em> Reproductive Medicine/Neurosciences</em></p>
+				<p class="faculty-staff-listing">Mark Mercola, PhD, <em>Bioengineering </em></p>
+				<p class="faculty-staff-listing">Yury Miller, MD, PhD, <em>Medicine</em></p>
+				<p class="faculty-staff-listing">Paul Mischel, MD, <em>Pathology</em></p>
+				<p class="faculty-staff-listing">Andrew Mizisin, PhD,<em> Pathology</em></p>
+<p class="faculty-staff-listing">Marc Montminy, MD, PhD, <em>Biological Sciences (Adjunct) </em></p>
+				<p class="faculty-staff-listing">Alexandra Newton, PhD, <em>Pharmacology </em></p>
+				<p class="faculty-staff-listing">Sanjay Nigam, MD, <em>Cellular and Molecular Medicine/Pediatrics </em></p>
+				<p class="faculty-staff-listing">Victor Nizet, MD, <em>Pediatrics and Skaggs School of Pharmacy and Pharmaceutical Sciences</em></p>
+				<p class="faculty-staff-listing">Peter Novick, PhD, <em>Cellular and Molecular Medicine</em></p>
+				<p class="faculty-staff-listing">Daniel T. O&rsquo;Connor, MD, <em>Medicine </em></p>
+				<p class="faculty-staff-listing">Karen Oegema, PhD, <em>Cellular and Molecular Medicine</em></p>
+				<p class="faculty-staff-listing">Jerrold M. Olefsky, MD, <em>Medicine</em></p>
+				<p class="faculty-staff-listing">Robert Oshima, PhD, <em>Pathology (Adjunct)</em></p>
+				<p class="faculty-staff-listing">Ana Pajor, PhD, <em>Skaggs School of <em>Pharmacy and Pharmaceutical Sciences</em></em></p>
+<p class="faculty-staff-listing">Elena Pasquale, PhD, <em>Pathology (Adjunct)</em></p>
+<p class="faculty-staff-listing">Maurizio Pellecchia, PhD, <em>Pathology (Adjunct)</em></p>
+				<p class="faculty-staff-listing">Renate B. Pilz, MD, <em>Medicine (In Residence)</em></p>
+				<p class="faculty-staff-listing">Frank L. Powell Jr., PhD, <em>Medicine</em></p>
+				<p class="faculty-staff-listing">Morton P. Printz, PhD, <em>Pharmacology (Emeritus)</em></p>
+				<p class="faculty-staff-listing">Oswald Quehenberger, PhD, <em>Medicine</em></p>
+				<p class="faculty-staff-listing">James Quigley, PhD, <em>Pathology (Adjunct)</em></p>
+				<p class="faculty-staff-listing">Tariq Rana, PhD, <em>Pediatrics (Adjunct)</em></p>
+        <p class="faculty-staff-listing">Anjana Rao, PhD, <em>Pharmacology (Adjunct)</em></p>
+<p class="faculty-staff-listing">Eyal Raz, MD,<em> Medicine (In Residence)</em></p>
+				<p class="faculty-staff-listing">Bing Ren, PhD, <em>Cellular and Molecular Medicine</em></p>
+        <p class="faculty-staff-listing">Tannishtha Reya, PhD,<em> Pharmacology</em></p>
+<p class="faculty-staff-listing">Douglas D. Richman, MD,<em> Pathology/Medicine (In Residence)</em></p>
+				<p class="faculty-staff-listing">Robert Rickert, PhD, <em>Pathology (Adjunct)</em></p>
+<p class="faculty-staff-listing">Ze&#8217;ev Ronai, PhD, <em>Pathology (Adjunct)</em></p>
+<p class="faculty-staff-listing">Michael G. Rosenfeld, MD, <em>Medicine</em></p>
+				<p class="faculty-staff-listing">Robert Ross, MD, <em>Medicine (In Residence)</em></p>
+				<p class="faculty-staff-listing">Guy Salvesen, PhD, <em>Pathology (Adjunct)</em></p>
+				<p class="faculty-staff-listing">Maike Sander, MD,<em> Pediatrics/Cellular and Molecular Medicine</em></p>
+				<p class="faculty-staff-listing">David Schlaepfer, PhD, <em>Reproductive Medicine</em> </p>
+				<p class="faculty-staff-listing">Geert Schmid-Schoenbein, PhD,<em> Bioengineering</em></p>
+				<p class="faculty-staff-listing">Nicholas Schork, PhD, <em>Psychiatry and Biostatistics</em></p>
+				<p class="faculty-staff-listing">Sanford Shattil, MD,<em> Medicine</em></p>
+				<p class="faculty-staff-listing">Shunichi Shimasaki, PhD, <em>Reproductive Medicine </em></p>
+				<p class="faculty-staff-listing">Aleem Siddiqui, PhD, <em>Medicine</em></p>
+				<p class="faculty-staff-listing">Evan Snyder, MD, PhD, <em>Pediatrics (Associate Physician)</em></p>
+		<p class="faculty-staff-listing">Deborah Spector, PhD, <em>Cellular and Molecular Medicine </em></p>
+				<p class="faculty-staff-listing">Stephen A. Spector, MD, <em>Pediatrics</em></p>
+				<p class="faculty-staff-listing">Charles F. Stevens, MD, PhD, <em>Pharmacology (Adjunct) </em></p>
+				<p class="faculty-staff-listing">Palmer W. Taylor, PhD,<em> Skaggs School of Pharmacy and Pharmaceutical Sciences (Dean)</em></p>
+				<p class="faculty-staff-listing">Susan S. Taylor, PhD, <em>Chemistry and Biochemistry </em></p>
+				<p class="faculty-staff-listing">David Traver, PhD<em>, Cellular and Molecular Medicine</em></p>
+				<p class="faculty-staff-listing">JoAnn Trejo, PhD, <em>Pharmacology</em></p>
+				<p class="faculty-staff-listing">Roger Y. Tsien, PhD,<em> Pharmacology/Chemistry and Biochemistry </em></p>
+<p class="faculty-staff-listing">Robert H. Tukey, PhD, <em>Pharmacology/Chemistry and Biochemistry </em> </p>
+				<p class="faculty-staff-listing">Ajit P. Varki, MD, <em>Medicine</em></p>
+<p class="faculty-staff-listing">Judith A. Varner, PhD, <em>Pathology</em></p>
+				<p class="faculty-staff-listing">Francisco Villarreal, MD, PhD, <em>Medicine (Adjunct)</em></p>
+				<p class="faculty-staff-listing">Joseph Vinetz, MD, <em>Medicine</em></p>
+				<p class="faculty-staff-listing">Peter D. Wagner, MD, <em>Medicine</em></p>
+				<p class="faculty-staff-listing">Jean Wang, PhD, <em>Medicine </em></p>
+				<p class="faculty-staff-listing">Nicholas J. G. Webster, PhD, <em>Medicine (In Residence)</em></p>
+				<p class="faculty-staff-listing">Robert Wechsler-Reya, PhD, <em>Pediatrics (In Residence)</em></p>
+				<p class="faculty-staff-listing">John B. West, MD, PhD, <em>Medicine (Emeritus)</em></p>
+				<p class="faculty-staff-listing">Miles Wilkinson, PhD, <em>Reproductive Medicine</em></p>
+				<p class="faculty-staff-listing">Elizabeth Winzeler, PhD, <em>Pediatrics</em></p>
+				<p class="faculty-staff-listing">Joseph L. Witzum, MD, <em>Medicine</em></p>
+				<p class="faculty-staff-listing">Tony L. Yaksh, PhD, <em>Anesthesiology/Pharmacology </em></p>
+				<p class="faculty-staff-listing">Gene Yeo, PhD, <em>Cellular and Molecular Medicine</em></p>
+				<p class="faculty-staff-listing">Maurizio Zanetti, MD, <em>Medicine (Emeritus)</em></p>
+		<p class="faculty-staff-listing">Dong-Er Zhang, PhD, <em>Pathology/Biological Sciences</em></p>
+				<p class="faculty-staff-listing">Kang Zhang, MD, PhD, <em>Ophthalmology</em></p>
+				<h4 class="faculty-staff-subhead">Associate Professors </h4>
+				<p class="faculty-staff-listing">Adah Almutairi, PhD, <em>Pharmacy/Pharmaceutical Sciences</em></p>
+				<p class="faculty-staff-listing">Radha Ayyagari, PhD,<em> Radiology/Ophthalmology</em></p>
+				<p class="faculty-staff-listing">Lars Bode, PhD, <em>Pediatrics</em></p>
+				<p class="faculty-staff-listing">Martina Buck, PhD, <em>Medicine (Adjunct)</em></p>
+				<p class="faculty-staff-listing">Jack Bui, MD, PhD, <em>Pathology</em></p>
+				<p class="faculty-staff-listing">Shane Crotty, PhD, <em>Medicine (Adjunct)</em></p>
+				<p class="faculty-staff-listing">Nazneen Dewji, PhD, <em>Medicine (Adjunct) </em></p>
+				<p class="faculty-staff-listing">Pieter Dorrestein, PhD, <em>Pharmacy/Chemistry and Biochemistry</em></p>
+				<p class="faculty-staff-listing">Seth Field, MD, PhD, <em>Medicine</em></p>
+				<p class="faculty-staff-listing">Pascal Gagneux, PhD,<em> Cellular and Molecular Medicine (Adjunct)</em></p>
+				<p class="faculty-staff-listing">Pradipta Ghosh, MD, <em>Medicine</em></p>
+				<p class="faculty-staff-listing">Asa Gustafsson, PhD, <em>Skaggs School of<em> Pharmacy and Pharmaceutical Sciences</em></em></p>
+				<p class="faculty-staff-listing">Catriona Jamieson, MD, PhD,<em> Medicine</em></p>
+				<p class="faculty-staff-listing">Mark Lawson, PhD, <em>Reproductive Medicine </em></p>
+				<p class="faculty-staff-listing">Anne Murphy, PhD,&nbsp;<em>Pharmacology (Adjunct)</em></p>
+				<p class="faculty-staff-listing">Hemal Patel, PhD,&nbsp;<em>Anesthesiology</em></p>
+				<p class="faculty-staff-listing">Jonathan Sebat, PhD, <em>Psychiatry/Cellular and Molecular Medicine</em></p>
+				<p class="faculty-staff-listing">Marion Sewer, PhD, <em>Skaggs School of<em> Pharmacy and Pharmaceutical Sciences</em></em></p>
+				<p class="faculty-staff-listing">Jianhua Shao, MD, PhD, <em>Pediatrics</em></p>
+				<p class="faculty-staff-listing">Christina Sigurdson, DVM, PhD, <em>Pathology</em></p>
+				<p class="faculty-staff-listing">Dwayne Stupack, PhD,<em> Reproductive Medicine</em></p>
+				<p class="faculty-staff-listing">Bruce Torbett, PhD, <em>Pathology (Adjunct)</em></p>
+				<p class="faculty-staff-listing">Jing Yang, PhD, <em>Pharmacology/Pediatrics</em></p>
+				<p class="faculty-staff-listing">Kun Zhang, PhD, <em>Bioengineering</em></p>
+				<p class="faculty-staff-listing">Binhai Zheng, PhD,<em> Neurosciences</em></p>
+				<p class="faculty-staff-listing">Huilin Zhou, PhD, <em>Cellular and Molecular Medicine </em></p>
+		<h4 class="faculty-staff-subhead">Assistant Professors </h4>
+				<p class="faculty-staff-listing">Nuno Bandeira, <em>Skaggs School of<em> Pharmacy and Pharmaceutical Sciences</em></em></p>
+				<p class="faculty-staff-listing">Rafael Bejar, MD, PhD, <em>Internal Medicine</em></p>
+				<p class="faculty-staff-listing">John Chang, MD, <em>Medicine </em></p>
+				<p class="faculty-staff-listing">Stephanie Cherqui, PhD, <em>Pediatrics (In Residence</em>)</p>
+				<p class="faculty-staff-listing">Neil Chi, MD, PhD, <em>Medicine</em></p>
+				<p class="faculty-staff-listing">Kevin Corbett, PhD, <em>Cellular and Molecular Medicine</em></p>
+				<p class="faculty-staff-listing">Adam Engler, PhD, <em>Bioengineering/UC San Diego Stem Cell Institute</em></p>
+				<p class="faculty-staff-listing">Wenxian Fu, PhD, <em>Pediatrics</em></p>
+				<p class="faculty-staff-listing">Thomas Hnasko, PhD, <em>Neurosciences</em></p>
+				<p class="faculty-staff-listing">Mohit Hain, MD, PhD, <em>Medicine and Pharmacology</em></p>
+				<p class="faculty-staff-listing">William Joiner, PhD, <em>Pharmacology</em></p>
+				<p class="faculty-staff-listing">Alexander Kauffman, PhD, <em>Reproductive Medicine</em></p>
+				<p class="faculty-staff-listing">Jonathan Lin, MD, PhD, <em>Pathology</em></p>
+				<p class="faculty-staff-listing">Gerald P. Morris, MD, PhD, <em>Pathology</em></p>
+				<p class="faculty-staff-listing">Alysson Muotri, PhD, <em>Pediatrics/Cellular and Molecular Medicine</em></p>
+				<p class="faculty-staff-listing">Mana Parast, MD, PhD, <em>Pathology</em></p>
+				<p class="faculty-staff-listing">Ekihiro Seki, MD, PhD, <em>Medicine (Adjunct)</em></p>
+				<p class="faculty-staff-listing">George Sen, PhD, <em>Medicine/Cellular and Molecular Medicine</em></p>
+				<p class="faculty-staff-listing">Farah Sheikh, PhD, <em>Medicine (Adjunct)</em></p>
+				<p class="faculty-staff-listing">Alexey Terskikh, PhD, <em>Pediatrics (Adjunct)</em></p>
+				<p class="faculty-staff-listing">Dong Wang, PhD, <em>Skaggs School of</em> <em>Pharmacy and Pharmaceutical Sciences</em></p>
+				<p class="faculty-staff-listing">Karl Willert, PhD, <em>Cellular and Molecular Medicine</em></p>
+				<p class="faculty-staff-listing">Benjamin Yu, MD, PhD, <em>Medicine (In Residence)</em></p>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

@@ -1,0 +1,189 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Materials Science and Engineering Program Courses</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" --> 
+            <h1 class="noTopMargin">Materials Science
+                and Engineering Program</h1>
+            <p><span class="courseFacLink">[ <a href="../curric/MATS.html">program</a> | <a href="../courses/MATS.html"> </a><a href="../faculty/MATS.html">faculty</a> ]</span></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/Course Name and Disclaimer.lbi" -->
+<h2>Courses</h2>
+<p class="course-disclaimer"><em>For course descriptions not found in the </em>UC
+  San Diego General Catalog 2019&#8211;20<em>, please contact the department
+  for more information.</em></p><!-- #EndLibraryItem --><h2 class="course-subhead-1">Graduate</h2>
+				<p class="anchor-parent"><a class="anchor" id="mats200" name="mats200" /></a></p><p class="course-name">MATS 200. Graduate Seminar (0)</p>
+				<p class="course-descriptions">Each graduate student in the Materials Science and Engineering Program is expected to attend a weekly seminar in materials science or related areas. MS students must enroll for three quarters, PhD students for six quarters, as of fall 1995. (S/U grades only.) (F,W,S)</p>
+				<p class="anchor-parent"><a class="anchor" id="mats201a" name="mats201a" /></a></p><p class="course-name">MATS 201A. Thermodynamics of Solids (4)</p>
+				<p class="course-descriptions">The thermodynamics and statistical mechanics of solids. Basic concepts; equilibrium properties of alloy systems; thermodynamic information from phase diagrams, surfaces, and interfaces; crystalline defects. <strong class="italic">Prerequisites:</strong> consent of instructor. (Cross-listed with ECE 238A, MAE 271A, NANO 265.)</p>
+				<p class="anchor-parent"><a class="anchor" id="mats201b" name="mats201b" /></a></p><p class="course-name">MATS 201B. Solid State Diffusion and Reaction Kinetics (4)</p>
+				<p class="course-descriptions">Thermally activated processes, Boltzmann factor, homogeneous and heterogeneous reactions, solid state diffusion, Fick&#8217;s laws, diffusion mechanisms, Kirkendall effect, Boltzman-Matano analysis, high diffusivity paths. <strong class="italic">Prerequisites:</strong> consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="mats201c" name="mats201c" /></a></p><p class="course-name">MATS 201C. Phase Transformations (4)</p>
+				<p class="course-descriptions">Classification of phase transformations: displacive and reconstructive transformations: classical and nonclassical theories of nucleation: Becker-Doering, Volmer-Weber, lattice instabilities, spinodal decomposition. Growth theories: interface migration, stress effects, terrace-ledge mechanisms, epitaxial growth, kinetics, and mechanics. Precipitation. Order-disorder transformations. Solidification. Amorphization. <strong class="italic">Prerequisites:</strong> consent of instructor. (Cross-listed with MAE 271C.)</p>
+				<p class="anchor-parent"><a class="anchor" id="mats205a" name="mats205a" /></a></p><p class="course-name">MATS 205A. Imperfections in Solids (4)</p>
+				<p class="course-descriptions">Point, line, and planar defects in crystalline solids, including vacancies, self-interstitials, solute atoms, dislocations, stacking faults, and grain boundaries; effects of imperfections on mechanical properties; interactions of dislocations with point defects; strain hardening by micro-obstacles, precipitation, and alloying elements. <strong class="italic">Prerequisites:</strong> consent of instructor.		</p>
+<p class="anchor-parent"><a class="anchor" id="mats213a" name="mats213a" /></a></p><p class="course-name">MATS 213A. Dynamic Behavior of Materials I (4)</p>
+				<p class="course-descriptions">Elastic waves in continuum; longitudinal and shear waves. Surface waves. Plastic waves; shock waves; Rankine-Hugoniot relations. Method of characteristics, differential and difference form of conservation equations; dynamic plasticity and dynamic fracture. Shock wave reflection and interaction. <strong class="italic">Prerequisites:</strong> consent of instructor. (Cross-listed with MAE 273A.) (F)</p>
+				<p class="anchor-parent"><a class="anchor" id="mats227" name="mats227" /></a></p><p class="course-name">MATS 227. Structure and Analysis of Solids (4)</p>
+				<p class="course-descriptions">Key concepts in the atomic structure and bonding of solids such as metals, ceramics, and semiconductors. Symmetry operations, point groups, lattice types, space groups, simple and complex inorganic compounds, structure/property comparisons, structure determination with X-ray diffraction. Ionic, covalent, metallic bonding compared with physical properties. Atomic and molecular orbitals, bands verses bonds, free electron theory. <strong class="italic">Prerequisites:</strong> graduate student or consent of instructor. (Cross-listed with CHEM 222, MAE 251, NANO 227.)</p>
+				<p class="anchor-parent"><a class="anchor" id="mats231" name="mats231" /></a></p><p class="course-name">MATS 231. Mechanics of Soft Materials (4)</p>
+				<p class="course-descriptions">Main focus is the large deformations and instabilities in soft materials, such as elastomers, gels, and biomaterials. Some contents in thermodynamics and finite deformation theory are reviewed and summarized. Fundamental theories are applied to study the mechanics of gels, electroactive polymers, and biomaterials. This course intends to use soft material as an example to illustrate how to study the interaction between mechanics and other fields in materials (e.g., electric field, chemical field). Students may not receive credit for both MAE 276 and MATS 231.<span class="italic"> <strong>Prerequisites:</strong> </span>graduate standing. (Cross-listed with MAE 276.)</p>
+<p class="anchor-parent"><a class="anchor" id="mats236" name="mats236" /></a></p><p class="course-name">MATS 236. Advanced Ceramic (4)</p>
+				<p class="course-descriptions">Topics include phase equilibria and crystallography, defects and thermodynamics (Kröger-Vink Notation), glass science, electrical and ionic transport behavior, Brouwer diagrams, powder synthesis and compaction, sintering theory and gain growth, mechanical, optical, magnetic, electrical properties, fuel cells. <strong class="italic">Prerequisites:</strong> graduate standing or consent of instructor. (Cross-listed with MAE 253.)</p>
+				<p class="anchor-parent"><a class="anchor" id="mats243" name="mats243" /></a></p><p class="course-name">MATS 243. Modern Materials Analysis (4)</p>
+				<p class="course-descriptions">Analysis of the near surface of materials via ion, electron, and X-ray spectroscopes. Topics to be covered include particle solid interactions. Rutherford Backscattering, secondary ion mass spectroscopy, electron energy loss spectroscopy, particle induced X-ray emission, Auger electron spectroscopy, extended X-ray absorption fine structure and channeling. <strong class="italic">Prerequisites:</strong> consent of instructor. (Cross-listed with ECE 237.)</p>
+				<p class="anchor-parent"><a class="anchor" id="mats251a" name="mats251a" /></a></p><p class="course-name">MATS 251A. Electronic
+		  and Photonic Properties of Materials (4)</p>
+				<p class="course-descriptions">The electronic and optical properties of metals, semiconductors, and insulators. The concept of the band structure. Electronic and lattice conductivity. Type I and Type II superconductivity. Optical engineering using photonic band gap crystals in one-, two-, and three-dimensions. Current research frontiers. <strong class="italic">Prerequisites:</strong> consent of the instructor. (Cross-listed with MAE 265A.)</p>
+				<p class="anchor-parent"><a class="anchor" id="mats251b" name="mats251b" /></a></p><p class="course-name">MATS 251B. Magnetic
+		  Materials: Principles and Applications (4)</p>
+				<p class="course-descriptions">The basis of magnetism: classical and quantum mechanical points of view. Different kinds of magnetic materials. Magnetic phenomena including anisotropy, magnetostriction, domains, and magnetization dynamics. Current frontiers of nanomagnetic research including thin films and particles. Optical, data storage, and biomedical engineering applications of soft and hard magnetic materials. <strong class="italic">Prerequisites:</strong> consent of instructor. (Cross-listed with ECE 221, MAE 265B, NANO 251A.)</p>
+				<p class="anchor-parent"><a class="anchor" id="mats252" name="mats252" /></a></p><p class="course-name">MATS 252. Biomaterials and Medical Devices  (4)</p>
+				<p class="course-descriptions">This class will cover biomaterials and biomimetic materials. Metal, ceramic, and polymer biomaterials will be discussed. Emphasis will be on the structure-property relationships, biocompatibility/degradation issues and tissue/material interactions. Synthesis and mechanical testing of biomimetic materials will also be discussed. <strong class="italic">Prerequisites:</strong> consent of instructor. (Cross-listed with MAE 266.)</p>
+				<p class="anchor-parent"><a class="anchor" id="mats253" name="mats253" /></a></p><p class="course-name">MATS 253. Nanomaterials and Properties (4)</p>
+				<p class="course-descriptions">This course discusses synthesis techniques, processing, microstructural control, and unique physical properties of materials in nanodimensions. Topics include nanowires, quantum dots, thin films, electrical transport, electron emission properties, optical behavior, mechanical behavior, and technical applications of nanomaterials. <strong class="italic">Prerequisites:</strong> consent of instructor. (Cross-listed with MAE 267.)</p>
+				<p class="anchor-parent"><a class="anchor" id="mats254" name="mats254" /></a></p>
+				<p class="course-name">MATS 254. Frontier Micro-Electro-Mechanical Systems (MEMS) Materials and Devices (4)</p>
+		<p class="course-descriptions">Fabrication of Micro-Electro-Mechanical Systems (MEMS) by bulk and surface micromachining of single crystal, polycrystal, and amorphous silicon and other materials. Performance issues including electrostatic, magnetic, piezoelectric actuations, residual stresses, deformation. Novel device applications, future trends in smart materials and nano-electro-mechanical (NEMS) systems. <strong class="italic">Prerequisites:</strong> consent of instructor. (Cross-listed with MAE 268.)</p>
+		<p class="anchor-parent"><a class="anchor" id="mats255" name="mats255" /></a></p><p class="course-name">MATS 255. Biomaterials and Biomimetics (4)</p>
+		<p class="course-descriptions">Fundamentals of materials science as applied to bioengineering design. Hierarchical structures. Cells and tissues. Natural and synthetic polymeric materials. Biomineralized materials. Biological composites. Cellular materials (foams). Functional biological materials. Biomaterials and implants. Bioinspired design and materials. Students may not receive credit for CENG 256 and NANO 252 and MATS 255. (Cross-listed with NANO 252 and CENG 256.)</p>
+		<p class="anchor-parent"><a class="anchor" id="mats256" name="mats256" /></a></p><p class="course-name">MATS 256. Energy Materials and Applications (4)</p>
+				<p class="course-descriptions">This class will cover the fundamentals/engineering aspects of various energy materials based on metallic, ceramic, semiconductor; and chemical structures and their applications related to solar cells, fuel cells, batteries, fusion energy, and hydrogen storage will be discussed. Students may not receive credit for MATS 256 and MAE 254. <strong class="italic"> Prerequisites:</strong> graduate standing or consent of instructor. (Cross-listed with MAE 254.)</p>
+				<p class="anchor-parent"><a class="anchor" id="mats257" name="mats257" /></a></p><p class="course-name">MATS 257. Polymer Science and Engineering (4)</p>
+				<p class="course-descriptions">Quantitative basic understanding of different branches of polymer science varying from polymer chemistry, characterization, thermodynamics, rheological properties, smart materials, self-assembly in biopolymers (natural) and synthetic polymers, and applications of polymers ranging from medicine to structure. <strong class="italic">Prerequisites:</strong> graduate standing. (Cross-listed with BENG 242 and NANO 257.)</p>
+				<p class="anchor-parent"><a class="anchor" id="mats258" name="mats258" /></a></p>
+				<p class="course-name">MATS 259. Frontiers in Therapeutic and Diagnostic Delivery (1)				</p>
+		<p class="course-descriptions">Nanotechnology has made a tremendous impact on drug and diagnostic delivery technology. This seminar series will expose PharmD students to the most cutting-edge research on using nanotechnology for the delivery of agents to detect, treat, and prevent disease.<strong class="italic"> Prerequisites:</strong> graduate standing or consent of instructor.  </p>
+				<p class="anchor-parent"><a class="anchor" id="mats261a" name="mats261a" /></a></p><p class="course-name">MATS 261A. Processing of Polymers and Composites (4)</p>
+				<p class="course-descriptions">Introduction to processing and fabrication methods of polymers and composite materials. Processing techniques; facilities and equipment, material-processing-microstructure interaction, materials selection, form and quality control. Extrusion, injection molding, blow molding, compression molding, thermoforming, casting, foaming. Wet layup; sprayup; autoclave cure, SMC; RTM; resin infusion; winding and fiber placement; pultrusion. Process induced defects and environmental considerations. <strong class="italic">Prerequisites:</strong> graduate standing. (Cross-listed with SE 251A.) </p>
+				<p class="anchor-parent"><a class="anchor" id="mats261b" name="mats261b" /></a></p><p class="course-name">MATS 261B. Mechanical Behavior of Polymers and Composites (4)</p>
+				<p class="course-descriptions">Material-science oriented course on polymers and composites. Mechanical properties of polymers; micromechanisms of elastic and plastic deformations, fracture, and fatigue of polymers and composites. <strong class="italic">Prerequisites:</strong> graduate standing. (Cross-listed with SE 251B.)</p>
+<p class="anchor-parent"><a class="anchor" id="mats295" name="mats295" /></a></p><p class="course-name">MATS 295. Research Conference (2)</p>
+				<p class="course-descriptions">Group discussion of research activities and progress of group members. <strong class="italic">Prerequisites:</strong> consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="mats296" name="mats296" /></a></p><p class="course-name">MATS 296. Independent Study (4)</p>
+				<p class="course-descriptions"><strong class="italic">Prerequisites:</strong> consent of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="mats299" name="mats299" /></a></p>
+				<p class="course-name">MATS 299. Graduate Research (1–12)</p>
+				<p class="course-note">Subject to the approval of a faculty adviser, students may choose courses offered by departments participating in the Materials Science and Engineering Program. Please see the graduate coordinator for more information.		<span class="course-descriptions">(S/U grades only.)</span></p>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

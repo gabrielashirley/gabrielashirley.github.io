@@ -1,0 +1,442 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Latin American Studies Courses</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopMargin">Latin American Studies</h1>
+<p class="courseFacLink">[ <a href="../curric/LATI-ug.html">undergraduate
+      program</a> | <a href="../curric/LATI-gr.html">graduate program</a> | <a href="../courses/LATI.html"> </a><a href="../faculty/LATI.html">faculty</a> ]</p>
+<p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+  <p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+  <!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/Course Name and Disclaimer.lbi" -->
+<h2>Courses</h2>
+<p class="course-disclaimer"><em>For course descriptions not found in the </em>UC
+  San Diego General Catalog 2019&#8211;20<em>, please contact the department
+  for more information.</em></p><!-- #EndLibraryItem --></p>
+<p class="anchor-parent"><a class="anchor" id="lati10" name="lati10" /></a></p><p class="course-name">LATI 10. Reading North by South: Latin American Studies and the US Liberation Movements (4)</p>
+<p class="course-descriptions">The purpose of this class is to study the multilayered relations between Latin American studies and the US liberation movements, particularly Third World movements, the Chicano movement, the black liberation movement, the indigenous movement, human rights activism, and trans-border activism. Students may not receive credit for LATI 100 and LATI 10.</p>
+<p class="anchor-parent"><a class="anchor" id="lati50" name="lati50" /></a></p>
+<p class="course-name">LATI 50. Introduction to Latin America (4)</p>
+				<p class="course-descriptions">Interdisciplinary overview of society and culture in Latin America—including Mexico, the Caribbean, and South America: legacies of conquest, patterns of economic development, changing roles of women, expressions of popular culture, cycles of political change, and US-Latin American relations. </p>
+				<p class="anchor-parent"><a class="anchor" id="lati87" name="lati87" /></a></p><p class="course-name">LATI 87. Freshman Seminar (1)</p>
+				<p class="course-descriptions">The Freshman Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman Seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering freshmen. </p>
+				<p class="anchor-parent"><a class="anchor" id="lati122a" name="lati122a" /></a></p><p class="course-name">LATI 122A. Field Research Methods for Migration Studies: Seminar (4)</p>
+		<p class="course-descriptions">Introductory survey of methods used by social and health scientists to gather primary research data on international migrant and refugee populations, including sample surveys, unstructured interviewing, and ethnographic observation. Basic fieldwork practices, ethics, and problem-solving techniques will also be covered. Students may not receive credit for both SOCI 122A and LATI 122A. Recommended: advanced competency in conversational Spanish.<strong class="italic"> Prerequisites:</strong> permission of instructor (department authorization required).</p>
+				<p class="anchor-parent"><a class="anchor" id="lati122b" name="lati122b" /></a></p><p class="course-name">LATI 122B. Field Research Methods for Migration Studies: Practicum (12)</p>
+				<p class="course-descriptions">Students will collect survey and qualitative data among Mexican migrants to the United States and potential migrants, participate in team research, organize data collected for analysis, and submit a detailed outline of an article to be based on field data. Students may not receive credit for both SOCI 122B and LATI 122B. Recommended: advanced competency in conversational Spanish. <strong class="italic">Prerequisites:</strong> LATI 122A; permission of instructor (department authorization required).</p>
+				<p class="anchor-parent"><a class="anchor" id="lati122c" name="lati122c" /></a></p><p class="course-name">LATI 122C. Field Research Methods for Migration Studies: Data Analysis (4)</p>
+				<p class="course-descriptions">Continuation of SOCI 122B. Students analyze primary data they have collected in field research sites and coauthor an article for publication. Methods for organizing and processing field data, techniques of quantitative data analysis, and report preparation conventions will be covered. Students may not receive credit for both SOCI 122C and LATI 122C. <strong class="italic">Prerequisites:</strong> LATI 122B; permission of instructor (department authorization required).</p>
+				<p class="anchor-parent"><a class="anchor" id="lati180" name="lati180" /></a></p><p class="course-name">LATI 180. Special Topics in Latin American Studies (4)</p>
+		<p class="course-descriptions">Readings and discussion of substantive issues and research in Latin American studies. Topics may include the study of a specific society or a particular issue in comparative cross-national perspective. Topics will vary from year to year.<strong class="italic"> Prerequisites: </strong>LATI 50 or permission of instructor, upper-division standing.</p>
+				<p class="anchor-parent"><a class="anchor" id="lati190" name="lati190" /></a></p><p class="course-name">LATI 190. Senior Seminar (4)</p>
+				<p class="course-descriptions">Research seminar on selected topics in the study of Latin America; all students will be required to prepare and present independent research papers. (Honors students will present drafts of senior research theses, of no less than fifty pages in length; nonhonors students will present final versions of analytical papers of approximately twenty-five to forty pages in length.) <strong class="italic">Prerequisites:</strong> satisfactory completion of LATI 50 and a working knowledge of Spanish. </p>
+				<p class="anchor-parent"><a class="anchor" id="lati191" name="lati191" /></a></p><p class="course-name">LATI 191. Honors Seminar (4)</p>
+				<p class="course-descriptions">Independent reading and research under direction of a member of the faculty group in Latin American Studies; goal is to provide honors students with an opportunity to complete senior research thesis (to be defended before three-person interdisciplinary faculty committee). <strong class="italic">Prerequisites:</strong> successful completion of LATI 50, working knowledge of Spanish; minimum GPA of 3.5 in the major. </p>
+				<p class="anchor-parent"><a class="anchor" id="lati199" name="lati199" /></a></p><p class="course-name">LATI 199. Individual Study (4)</p>
+				<p class="course-descriptions">Guided and supervised reading of the literature on Latin America in the interdisciplinary areas of anthropology, communications, economics, history, literature, political science, and sociology. For students majoring in Latin American Studies, reading will focus around potential topics for senior papers; for honors students in Latin American Studies, reading will culminate in formulation of a prospectus for the research thesis. <strong class="italic">Prerequisites:</strong> LATI 50 and working knowledge of Spanish. </p>
+				<p class="anchor-parent"><a class="anchor" id="lati200" name="lati200" /></a></p><p class="course-name">LATI 200. Core Seminar on Interdisciplinary Research and Methodology in Latin American Studies (4)</p>
+				<p class="course-descriptions">A team-taught course wherein members of the faculty group in Latin American Studies present diverse disciplinary and thematic approaches to the region. Topics vary from year to year. Grades are based on discussions and on a series of analytical papers. <strong class="italic">Prerequisites:</strong> enrollment in the master&#8217;s degree program in Latin American Studies or permission of instructor. </p>
+				<p class="anchor-parent"><a class="anchor" id="lati222a" name="lati222a" /></a></p><p class="course-name">LATI 222A. Field Research Methods for Migration Studies: Seminar (4)</p>
+				<p class="course-descriptions">Survey of methods used by social and health scientists to gather primary data on international migrant and refugee populations, including sample surveys, unstructured interviewing, and ethnographic observation. Students serve as team leaders, design questionnaires, and conduct literature reviews. <strong class="italic">Prerequisites:</strong> permission of instructor, advanced competence in conversational Spanish (department authorization required).</p>
+				<p class="anchor-parent"><a class="anchor" id="lati222b" name="lati222b" /></a></p><p class="course-name">LATI 222B. Field Research Methods for Migration Studies: Practicum (12)</p>
+				<p class="course-descriptions">Students collect survey and qualitative data in Mexican migrants’ communities of origin and destination, serve as team leaders, organize field data collection within specific subpopulations, and prepare a detailed outline of a proposed journal article to be based on field data. <strong class="italic">Prerequisites:</strong> LATI 222A, permission of instructor, advanced competence in conversational Spanish (department authorization required).</p>
+				<p class="anchor-parent"><a class="anchor" id="lati222c" name="lati222c" /></a></p><p class="course-name">LATI 222C. Field Research Methods for Migration Studies: Data Analysis (4)</p>
+		<p class="course-descriptions">Serving as team leaders, students design and execute analysis of data they have collected in Mexican and US field research sites, and coauthor a publishable article. Methods for organizing field data, advanced techniques of quantitative and qualitative data analysis, and report preparation conventions are covered. <strong class="italic">Prerequisites:</strong> LATI 222B, permission of instructor (department authorization required).</p>
+		<p class="anchor-parent"><a class="anchor" id="lati298" name="lati298" /></a></p><p class="course-name">LATI 298. Directed Reading (1–12)</p>
+				<p class="course-descriptions">Guided and supervised reading of the literature of the several areas included in the interdisciplinary fields of anthropology, communications, economics, history, literature, political science, and sociology. <strong class="italic">Prerequisites:</strong> graduate standing in Latin American Studies. </p>
+				<p class="anchor-parent"><a class="anchor" id="lati299" name="lati299" /></a></p><p class="course-name">LATI 299. Independent Research (1–12)</p>
+				<p class="course-descriptions">Independent work by graduate students engaged in thesis research and writing under the direct supervision of a faculty adviser. </p>
+				<p class="anchor-parent"><a class="anchor" id="lati500" name="lati500" /></a></p>
+				<p class="course-name">LATI 500. Teaching Apprenticeship (1–4)</p>
+				<p class="course-descriptions">The course is designed for teaching assistants to learn effective teaching methods through supervision and mentorship by the faculty. Student will learn handling of discussions; preparation and grading of examinations and other written exercises; and student relations. </p>
+				<h3 class="course-subhead-2">Courses that Satisfy Undergraduate Degree Elective Requirements in Latin American Studies </h3>
+				<p>Approved Interdisciplinary Courses: The following is a list of courses available in UC San Diego departments that are approved to satisfy the elective requirements of the major and minor in Latin American studies. Master’s students in the program may also take up to three of these courses, with the exception of the methods courses. Please note that these courses may not be offered every quarter or year and new courses may be added. Check the current schedule of classes or the Latin American studies website (<a href="http://las.ucsd.edu" target="_blank">http://las.ucsd.edu</a>) for updated information. </p>
+<p class="course-note">The Departments of Linguistics and Literature and the School of Global Policy and Strategy offer language courses in Spanish and Portuguese. Language courses do not count toward the course requirements for Latin American studies degrees. </p>
+				<h4 class="course-subhead-2">Anthropology</h4>
+				<p class="course-list-courses">ANAR 100<strong class="italic">. </strong>Special Topics in Anthropological Archaeology (when Latin American content)</p>
+				<p class="course-list-courses">ANAR 153<strong class="italic">. </strong>The Mysterious Maya </p>
+				<p class="course-list-courses">ANAR 154<strong class="italic">. </strong>Aztecs and Their Ancestors </p>
+				<p class="course-list-courses">ANAR 155<strong class="italic">. </strong>Study Abroad: Ancient Mesoamerica</p>
+				<p class="course-list-courses">ANAR 156<strong class="italic">. </strong>The Archaeology of South America</p>
+				<p class="course-list-courses">ANAR 156-XL<strong class="italic">. </strong>The Archaeology of South America (FLD) </p>
+				<p class="course-list-courses">ANAR 157<strong class="italic">. </strong>Early Empires of the Andes: The Middle Horizon</p>
+				<p class="course-list-courses">ANAR 157S. Early Empires of the Andes: The Middle Horizon</p>
+				<p class="course-list-courses">ANAR 157-XL<strong>. </strong>The Andean Middle Horizon (FLD) </p>
+				<p class="course-list-courses">ANAR 158<strong>. </strong>The Inca: Empire of the Andes </p>
+				<p class="course-list-courses">ANSC 100<strong>. </strong>Special Topics in Socio-Cultural Anthropology </p>
+				<p class="course-list-courses">ANSC 104. The US-Mexico Border&nbsp; </p>
+				<p class="course-list-courses">ANSC 110. Societies and Cultures of the Caribbean</p>
+				<p class="course-list-courses">ANSC 116. Languages of the Americans: Mayan</p>
+				<p class="course-list-courses">ANSC 125. Gender, Sexuality, and Society </p>
+				<p class="course-list-courses">ANSC 135<strong>. </strong>Indigenous Peoples of Latin America</p>
+				<p class="course-list-courses">ANSC 142. Anthropology of Latin America</p>
+				<p class="course-list-courses">ANSC 151. US-Mexico Border Ethnographies </p>
+				<h4 class="course-subhead-2">Critical Gender Studies                </h4>
+				<p class="course-list-courses">CGS 137. Latina Issues and Cultural Production</p>
+                <div>
+                  <div> </div>
+        </div>
+                <h4 class="course-subhead-2">Communication</h4>
+				<p class="course-list-courses">COMM 104G. Comparative Media Systems: Latin America and the Caribbean</p>
+				<p class="course-list-courses">COMM 140<strong>. </strong>Cinema in Latin America				</p>
+				<p class="course-list-courses">COMM 155. Latino Space, Place, and Culture</p>
+				<p class="course-list-courses">COMM 168<strong>. </strong>Bilingual Communication</p>
+				<h4 class="course-subhead-2">Education Studies</h4>
+        <p class="course-list-courses">EDS 113. Chicanas/os and Latinos in Education: Policy, Practice, and Challenges to Equity</p>
+                <h4 class="course-subhead-2">Economics				</h4>
+                <p class="course-list-courses">ECON 162<strong class="italic">. </strong>Economics of Mexico</p>
+				<h4 class="course-subhead-2">Ethnic Studies</h4>
+				<p class="course-list-courses">ETHN 116<strong class="italic">. </strong>The United States-Mexico Border in Comparative Perspective</p>
+				<p class="course-list-courses">ETHN 117<strong class="italic">. </strong>Organic Social Movements</p>
+				<p class="course-list-courses">ETHN 118<strong class="italic">. </strong>Contemporary Immigration Issues</p>
+				<p class="course-list-courses">ETHN 119<strong class="italic">. </strong>Race in the Americas</p>
+				<p class="course-list-courses">ETHN 129<strong class="italic">. </strong>Asian and Latina Immigrant Workers in the Global Economy</p>
+				<p class="course-list-courses">ETHN 130<strong class="italic">. </strong>Social and Economic History of the Southwest I</p>
+				<p class="course-list-courses">ETHN 131<strong class="italic">. </strong>Social and Economic History of the Southwest II</p>
+				<p class="course-list-courses">ETHN 132<strong class="italic">. </strong>Chicano Dramatic Literature</p>
+				<p class="course-list-courses">ETHN 133<strong class="italic">. </strong>Hispanic American Dramatic Literature</p>
+				<p class="course-list-courses">ETHN 135A<strong class="italic">. </strong>Early Latino/a-Chicano/a Cultural Production, 1848–1960</p>
+				<p class="course-list-courses">ETHN 135B<strong class="italic">. </strong>Early Latino/a-Chicano/a Cultural Production, 1960–Present</p>
+				<p class="course-list-courses">ETHN 136<strong class="italic">. </strong>Topics in Chicano/a-Latino/a Cultures</p>
+				<p class="course-list-courses">ETHN 137. Special Topics: Latina Issues and Cultural Production</p>
+				<p class="course-list-courses">ETHN 143. Chicano Film and Media Studies</p>
+				<p class="course-list-courses">ETHN 180<strong class="italic">. </strong>Special Topics in Mexican American History</p>
+				<p class="course-list-courses">ETHN 187. Latina/o Sexualities </p>
+<p class="course-list-courses">ETHN 189<strong class="italic">. </strong>Special Topics in Ethnic Studies</p>
+				<h4 class="course-subhead-2">History</h4>
+				<p class="course-list-courses">HILA 100<strong class="italic">. </strong>Latin American Colonial Transformation</p>
+				<p class="course-list-courses">HILA 101<strong class="italic">. </strong>Latin American Independence 1810–1898</p>
+				<p class="course-list-courses">HILA 103<strong class="italic">. </strong>Revolution in Modern Latin America</p>
+<p class="course-list-courses">HILA 104<strong class="italic">. </strong>Modern US-Latin America Relations</p>
+				<p class="course-list-courses">HILA 112<strong class="italic">. </strong>Economic and Social History of the Andean Region</p>
+				<p class="course-list-courses">HILA 113<strong class="italic">. </strong>Lord and Peasant in Latin America</p>
+				<p class="course-list-courses">HILA 114<strong class="italic">. </strong>Dictatorship in Latin America</p>
+				<p class="course-list-courses">HILA 115<strong>. </strong>Latin American City, A History</p>
+				<p class="course-list-courses">HILA 118. Subverting Sovereignty: US Aggression in Latin America, 1898–Present </p>
+				<p class="course-list-courses">HILA 120<strong>. </strong>History of Argentina</p>
+				<p class="course-list-courses">HILA 121<strong>. </strong>History of Brazil</p>
+				<p class="course-list-courses">HILA 121A. History of Brazil: 1808 to 1904</p>
+				<p class="course-list-courses">HILA 121B. History of Brazil, 1889 to Present </p>
+				<p class="course-list-courses">HILA 122<strong>. </strong>Cuba: From Colony to Socialist Republic</p>
+				<p class="course-list-courses">HILA 123. The Incas and Their Ancestors </p>
+				<p class="course-list-courses">HILA 124A. History of Women and Gender in Latin America</p>
+				<p class="course-list-courses">HILA 126<strong>. </strong>From Columbus to Castro: Caribbean Culture and Society</p>
+				<p class="course-list-courses">HILA 131<strong>. </strong>History of Mexico</p>
+        <p class="course-list-courses">HILA 132. History of Contemporary Mexico		</p>
+        <p class="course-list-courses">HILA 144. Topics in Latin American History</p>
+<p class="course-list-courses">HILA 161<strong>. </strong>History of Women in Latin America</p>
+				<p class="course-list-courses">HILA 162<strong>. </strong>Special Topics in Latin American History</p>
+				<p class="course-list-courses">HILA 163<strong>. </strong>History of Chile 1880–Present</p>
+				<p class="course-list-courses">HILA 164<strong>. </strong>Women’s Work and Family Life in Latin America</p>
+				<p class="course-list-courses">HILA 167. Historical Scholarship on Latin American History</p>
+				<p class="course-list-courses">HILA 168<strong>. </strong>Historical Scholarship on Latin American History</p>
+				<p class="course-list-courses">HILA 169<strong>. </strong>Historical Scholarship on Latin American History</p>
+				<p class="course-list-courses">HIUS 117<strong>. </strong>History of Los Angeles</p>
+				<p class="course-list-courses">HIUS 158<strong>. </strong>Social and Economic History of the Southwest I</p>
+				<p class="course-list-courses">HIUS 159<strong>. </strong>Social and Economic History of the Southwest II</p>
+				<p class="course-list-courses">HIUS 167. Topics in Mexican American History</p>
+        <h4 class="course-subhead-2">Latin American Studies</h4>
+				<p class="course-list-courses">LATI 10. Reading North by South: Latin American Studies and the US Liberation Movements </p>
+<p class="course-list-courses">LATI 50. Introduction to Latin America</p>
+				<p class="course-list-courses">LATI 87. Freshman Seminar</p>
+				<p class="course-list-courses">LATI 120. Special Topics in Latin America</p>
+		<p class="course-list-courses">LATI 122A. Field Research Methods for Migration Studies: Seminar</strong></p>
+				<p class="course-list-courses">LATI 122B. Field Research Methods for Migration Studies: Practicum</p>
+				<p class="course-list-courses">LATI 122C. Field Research Methods for Migration Studies: Data Analysis</p>
+<p class="course-list-courses">LATI 190. Senior Seminar</p>
+				<p class="course-list-courses">LATI 191. Honors Thesis Seminar</p>
+				<p class="course-list-courses">LATI 199. Independent Study</p>
+        <h4 class="course-subhead-2">Literature</h4>
+				<p class="course-list-courses">LTAM 100<strong class="italic">. </strong>Latino/a Cultures in the United States</p>
+				<p class="course-list-courses">LTAM 101<strong class="italic">. </strong>Early Latino/a-Chicano/a Cultures: 1848–1960</p>
+				<p class="course-list-courses">LTAM 105<strong class="italic">. </strong>Gender and Sexuality in Latino/a Cultural Production</p>
+<p class="course-list-courses">LTAM 106<strong class="italic">. </strong>Modern Chicana and Mexican Women Writings</p>
+				<p class="course-list-courses">LTAM 107<strong class="italic">. </strong>Comparative Latino/a and US Ethnic Cultures</p>
+				<p class="course-list-courses">LTAM 108<strong class="italic">. </strong>Chicano/a and Latino/a Cultures: Intellectual and Political Traditions</p>
+				<p class="course-list-courses">LTAM 109<strong class="italic">. </strong>Cultural Production of the Latino/a Diasporas</p>
+				<p class="course-list-courses">LTAM 110<strong class="italic">. </strong>Latin American Literature in Translation</p>
+				<p class="course-list-courses">LTAM 111<strong class="italic">. </strong>Contemporary Caribbean Discourse</p>
+				<p class="course-list-courses">LTAM 130<strong class="italic">. </strong>Reading North by South</p>
+<p class="course-list-courses">LTEN 169. Topics in Latino/a Literature </p>
+				<p class="course-list-courses">LTEN 171. Comparative Issues in Latino/a Immigration in US Literature </p>
+<p class="course-list-courses">LTEN 180<strong class="italic">. </strong>Chicano Literature in English</p>
+				<p class="course-list-courses">LTEN 188<strong class="italic">. </strong>Contemporary Caribbean Literature</p>
+				<p class="course-list-courses">LTSP 119ABC<strong class="italic">. </strong>Cervantes</p>
+				<p class="course-list-courses">LTSP 123. Topics in Modern Spanish Culture</p>
+				<p class="course-list-courses">LTSP 130B<strong class="italic">. </strong>Development of Latin American Literature</p>
+				<p class="course-list-courses">LTSP 133. Contemporary Latin American Literature </p>
+<p class="course-list-courses">LTSP 134<strong class="italic">. </strong>Literature of the Southern Cone</p>
+<p class="course-list-courses">LTSP 135A<strong class="italic">. </strong>Mexican Literature Before 1910</p>
+				<p class="course-list-courses">LTSP 135B<strong class="italic">. </strong>Modern Mexican Literature</p>
+				<p class="course-list-courses">LTSP 136<strong class="italic">. </strong>Andean Literature</p>
+				<p class="course-list-courses">LTSP 137<strong class="italic">. </strong>Caribbean Literature</p>
+				<p class="course-list-courses">LTSP 138. Central American Literature</p>
+				<p class="course-list-courses">LTSP 140. Latin American Novel</p>
+				<p class="course-list-courses">LTSP 141. Latin American Poetry</p>
+				<p class="course-list-courses">LTSP 142. Latin American Short Story</p>
+				<p class="course-list-courses">LTSP 150A. Early Latino/a-Chicano/a Cultural Production: 1848 to 1960 </p>
+				<p class="course-list-courses">LTSP 150B. Early Latino/a-Chicano/a Cultural Production, 1960–Present</p>
+				<p class="course-list-courses">LTSP 151. Topics in Chicano/a-Latino/a Cultures</p>
+				<p class="course-list-courses">LTSP 154. Latino/a and Chicano/a Literature</p>
+				<p class="course-list-courses">LTSP 162. Spanish Language in the United States</p>
+				<p class="course-list-courses">LTSP 170. Contemporary Theories of Cultural Production</p>
+				<p class="course-list-courses">LTSP 171. Studies in Peninsular and/or Latin American Literature and Society</p>
+				<p class="course-list-courses">LTSP 172. Indigenista Themes in Spanish American Literature</p>
+				<p class="course-list-courses">LTSP 174. Topics in Culture and Politics</p>
+				<p class="course-list-courses">LTSP 175. Gender, Sexuality, and Culture</p>
+				<p class="course-list-courses">LTSP 176. Literature and Nation (when Latin American content)</p>
+				<p class="course-list-courses">LTSP 177. Literary and Historical Migrations				</p>
+				<h4 class="course-subhead-2">Music</h4>
+				<p class="course-list-courses">MUS 111<strong class="italic">. </strong>Topics/World Music Traditions (when Latin American content)</p>
+				<h4 class="course-subhead-2">Philosophy</h4>
+				<p class="course-list-courses">PHIL 155. Mexican Philosophy</p>
+				<p class="course-list-courses">PHIL 156. Latinx Philosophy</p>
+<h4 class="course-subhead-2">Political Science</h4>
+				<p class="course-list-courses">POLI 105A<strong class="italic">. </strong>Latino Politics in the U.S. </p>
+				<p class="course-list-courses">POLI 134AA<strong class="italic">. </strong>Comparative Politics of Latin America</p>
+				<p class="course-list-courses">POLI 134B<strong class="italic">. </strong>Politics in Mexico</p>
+				<p class="course-list-courses">POLI 134D<strong class="italic">. </strong>Selected Topics in Latin American Politics</p>
+				<p class="course-list-courses">POLI 134I. Politics in the Southern Cone of Latin America</p>
+<p class="course-list-courses">POLI 145A<strong class="italic">. </strong>International Politics and Drugs</p>
+				<p class="course-list-courses">POLI 150A<strong class="italic">. </strong>Politics of Immigration</p>
+<p class="course-list-courses">POLI 154<strong class="italic">. </strong>Special Topics in International Relations (when Latin American content)</p>
+		<h4 class="course-subhead-2">Sociology</h4>
+		<p class="course-list-courses">SOCI 109M Research Reporting </p>
+		<p class="course-list-courses">SOCI 125. Sociology of Immigration </p>
+		<p class="course-list-courses">SOCI 127. Immigration, Race, and Ethnicity </p>
+		<p class="course-list-courses">SOCI 133. Immigration in Comparative Perspective&nbsp;</p>
+		<p class="course-list-courses">SOCI 163<strong>. </strong>Migration and the Law (when Latin American content) </p>
+				<p class="course-list-courses">SOCI 175. Nationality and Citizenship</p>
+				<p class="course-list-courses">SOCI 182<strong>. </strong>Ethnicity and Indigenous Peoples in Latin America</p>
+				<p class="course-list-courses">SOCI 185<strong>. </strong>Globalization and Social Development</p>
+				<p class="course-list-courses">SOCI 188M. Social Movements in Latin America</p>
+        <h4 class="course-subhead-2">Theatre and Dance</h4>
+				<p class="course-list-courses">TDMV 140<strong class="italic">. </strong>Beginning Dances of the World</p>
+				<p class="course-list-courses">TDMV 141<strong class="italic">. </strong>Advanced Dances of the World</p>
+				<p class="course-list-courses">TDMV 142<strong class="italic">. </strong>Latin Dance of the World</p>
+				<p class="course-list-courses">TDHT 108<strong class="italic">. </strong>Luis Valdez</p>
+				<p class="course-list-courses">TDHT 110<strong class="italic">. </strong>Chicano Dramatic Literature</p>
+				<p class="course-list-courses">TDHT 111<strong class="italic">. </strong>Hispanic American Dramatic Literature				</p>
+				<h4 class="course-subhead-2">Urban Studies and Planning</h4>
+				<p class="course-list-courses">USP 135<strong class="italic">. </strong>Asian and Latina Immigrant Workers in the Global Economy</p>
+				<h4 class="course-subhead-2">Visual Arts</h4>
+				<p class="course-list-courses">VIS 102. Cross-Border Urbanization</p>
+<p class="course-list-courses">VIS 126AN<strong>. </strong>Pre-Columbian Art of Ancient Mexico and Central America</p>
+				<p class="course-list-courses">VIS 126BN<strong>. </strong>Art and Civilization/Ancient Maya</p>
+				<p class="course-list-courses">VIS 126C. Problems in Meso-American Art History</p>
+				<p class="course-list-courses">VIS 126D. Problems in Ancient Maya Iconography and Inscriptions</p>
+				<p class="course-list-courses">VIS 126E. Indigenisms I: The Making of the Modern, Nineteenth Century to Mid-Twentieth Century</p>
+				<p class="course-list-courses">VIS 126F. Indigenisms II: Contemporary Disseminations, Neo-Avantgarde to the Present </p>
+<p class="course-list-courses">VIS 126P<strong>. </strong>Latin American Art: Modern to Postmodern 1890–1950 </p>
+				<p class="course-list-courses">VIS 126Q<strong>. </strong>Latin American Art: Modern to Postmodern 1950–Present</p>
+				<p class="course-list-courses">VIS 128D. Topics in Art History of the Americas</p>
+				<p class="course-list-courses">VIS 152<strong>. </strong>Film in the Social Context (when Latin American content)</p>
+				<p class="course-list-courses">VIS 156. Latino American Cinema </p>
+<h3>Methods courses </h3>
+        <p>Undergraduate majors should take one of the following methods courses:</p>
+                <p class="course-list-courses">ANSC 169. Culture and Environment: Research Seminar and Practicum</p>
+                <p class="course-list-courses">ANSC 171. Multimodal Methods in Ethnography</p>
+                <p class="course-list-courses">CGS 100B. Conceptualizing Gender: Methods and Methodologies </p>
+                <p class="course-list-courses">COMM 101E. Media Production Lab: Ethnographic Methods for Media Production</p>
+                <p class="course-list-courses">ETHN 107. Fieldwork in Racial and Ethnic Communities </p>
+                <p class="course-list-courses">ETHN 190. Research Methods: Studying Racial and Ethnic Communities</p>
+                <p class="course-list-courses">LTCS 100. Theories and Methods in Cultural Studies </p>
+                <p class="course-list-courses">LTCS 102. Practicing Cultural Studies</p>
+                <p class="course-list-courses">LTSP 159. Methodological Approaches to the Study of History and Culture in Latin America and the Caribbean </p>
+<p class="course-list-courses">POLI 170A. Introductory Statistics for Political Science and Public Policy</p>
+                <p class="course-list-courses">SOCI 104. Field Research: Methods of Participant Observation</p>
+                <p class="course-list-courses">SOCI 104Q. Qualitative Interviewing</p>
+                <p class="course-list-courses">SOCI 105. Ethnographic Film: Media Methods</p>
+                <p class="course-list-courses">SOCI 106. Comparative and Historical Methods</p>
+                <p class="course-list-courses">SOCI 108. Survey Research Design</p>
+                <p class="course-list-courses">SOCI 188. Field Research in Migrant Communities </p>
+                <p class="course-list-courses">VIS 135. Design Research Methods </p>
+<h3>Courses that Satisfy Graduate Degree Requirements in Latin American Studies </h3>
+        <p>The following is a list of courses available in UC San Diego departments that are approved to satisfy the requirements of the master&rsquo;s degree in Latin American studies. <strong>Master&rsquo;s students may also take up to three of the undergraduate level courses listed above.</strong> They may not take one of the undergraduate methods classes. Please note that these courses may not be offered every quarter or year and new courses may be added. Check the current <a href="https://act.ucsd.edu/cgi-bin/blink.pl/1/faculty/schedule_of_classes.pl" target="_blank">Schedule of Classes</a> or the Latin American studies website (<a href="http://las.ucsd.edu" target="_blank">http://las.ucsd.edu</a>) for updated information. </p>
+<h4>Anthropology</h4>
+                <p class="course-list-courses">ANTH 205. Third World Cities</p>
+                <p class="course-list-courses">ANTH 225. Andean Prehistory</p>
+                <p class="course-list-courses">ANTH 228. Inca Empire: Society and Statecraft</p>
+                <p class="course-list-courses">ANTH 242. Anthropology of Latin America</p>
+                <p class="course-list-courses">ANTH 244. Andean Prehistory</p>
+                <p class="course-list-courses">ANTH 246. The Inca and the Late Horizon</p>
+                <p class="course-list-courses">ANTH 269<strong>. </strong>Current Readings in Latin America</p>
+                <p class="course-list-courses">ANTH 291. Archaeology of Highland Mexico</p>
+                <h4>Ethnic Studies</h4>
+                <p class="course-list-courses">ETHN 260. Transnationalism and Borderlands</p>
+                <h4>School of Global Policy and Strategy</h4>
+                <p class="course-list-courses">GPEC 409<strong>. </strong>Economic Policy in Latin America</p>
+                <p class="course-list-courses">GPPS 454<strong>. </strong>Current Issue/US-Latin American Relations</p>
+                <p class="course-list-courses">GPPS 479<strong>. </strong>Politics and Institutions in Latin America</p>
+        <p class="course-list-courses">GPEC 480. Comparative Development of the Latin American Economies</p>
+                <div>
+                  <div> </div>
+        </div>
+<p class="course-list-courses">GPGN 490<strong>. </strong>Special Topics (with Latin American content)</p>
+                <h4>History</h4>
+                <p class="course-list-courses">HILA 261<strong>. </strong>History of Women in Latin America</p>
+                <p class="course-list-courses">HILA 262<strong>. </strong>Special Topics in Latin American History</p>
+                <p class="course-list-courses">HILA 263<strong>. </strong>History of Chile 1880–Present</p>
+                <p class="course-list-courses">HILA 264<strong>. </strong>Women’s Work and Family Life in Latin America</p>
+                <p class="course-list-courses">HILA 267<strong>. </strong>Historical Scholarship on Latin American History</p>
+                <p class="course-list-courses">HILA 268<strong>. </strong>Historical Scholarship on Latin American History</p>
+                <p class="course-list-courses">HILA 269<strong>. </strong>Historical Scholarship on Latin American History</p>
+                <p class="course-list-courses">HIGR 245ABC. Historical Scholarship on Latin America</p>
+                <p class="course-list-courses">HIGR 247AB<strong>. </strong>Readings and Seminar on Colonial Latin America</p>
+                <p class="course-list-courses">HIGR 248AB<strong>. </strong>Readings and Seminar on Latin America, National Period</p>
+                <p class="course-list-courses">HIGR 252<strong>. </strong>History, Social Evolution, and Intellectuals in the Andes</p>
+                <h4>Latin American Studies</h4>
+                <p class="course-list-courses">LATI 200<strong>. </strong>Core Seminar in Latin American Studies</p>
+                <p class="course-list-courses">LATI 220<strong>. </strong>Special Topics in Latin America</p>
+                <p class="course-list-courses">LATI 222A. Field Research Methods for Migration Studies: Seminar</p>
+                <p class="course-list-courses">LATI 222B. Field Research Methods for Migration Studies: Practicum</p>
+                <p class="course-list-courses">LATI 222C. Field Research Methods for Migration Studies: Data Analysis</p>
+                <p class="course-list-courses">LATI 298<strong>. </strong>Directed Reading</p>
+                <p class="course-list-courses">LATI 299<strong>. </strong>Independent Research</p>
+                <p class="course-list-courses">LATI 500<strong>. </strong>Teaching Apprenticeship</p>
+                <h4>Literature</h4>
+                <p class="course-list-courses">LTSP 224<strong>. </strong>Golden Age Studies</p>
+                <p class="course-list-courses">LTSP 252<strong>. </strong>Studies in Modern Hispanic Literature and Culture</p>
+                <p class="course-list-courses">LTSP 258<strong>. </strong>Spanish American Prose</p>
+                <p class="course-list-courses">LTSP 272<strong>. </strong>Literature and Society Studies</p>
+                <p class="course-list-courses">LTSP 275<strong>. </strong>Latin American Literature/Literary and Cultural Theory since the 60s</p>
+                <h4>Political Science</h4>
+                <p class="course-list-courses">POLI 213. Culture and Political Theory </p>
+<p class="course-list-courses">POLI 229<strong>. </strong>Special Topics: Comparative Politics (when Latin American content)</p>
+                <p class="course-list-courses">POLI 236<strong>. </strong>Immigration Policy and Politics</p>
+                <p class="course-list-courses">POLI 248<strong>. </strong>Special Topic/International Relations: Latin American Foreign Policy</p>
+                <h4>Sociology</h4>
+                <p class="course-list-courses">SOCG 203. Field Methods</p>
+        <p class="course-list-courses">SOCG 244. Sociology of Race and Ethnicity </p>
+<p class="course-list-courses">SOCG 258<strong>. </strong>Institutional Change in the Contemporary World: Latin American Societies in a Comparative Perspective</p>
+                <p class="course-list-courses">SOCG 264. Economic Sociology (if Latin American content)</p>
+                <p class="course-list-courses">SOCG 278. Immigration, Assimilation, and Identity&nbsp; </p>
+<p class="course-list-courses">SOCG 282. Immigration and Citizen</p>
+                <h4>Visual Arts</h4>
+                <p class="course-list-courses">VIS 257. Seminar in Meso-American Art</p>
+                <p class="course-list-courses">VIS 259. Seminar in Latin American Art</p>
+                <div>
+                  <div> </div>
+        </div>
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

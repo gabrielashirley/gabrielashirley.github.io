@@ -1,0 +1,188 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Human Development Program Courses</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopMargin">Human Developmental Sciences Program</h1>
+<p><span class="courseFacLink">[ <a href="../curric/HDS.html">program</a> | <a href="../faculty/HDS.html">faculty</a> ]</span></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --> <!-- #BeginLibraryItem "/Library/Course Name and Disclaimer.lbi" -->
+<h2>Courses</h2>
+<p class="course-disclaimer"><em>For course descriptions not found in the </em>UC
+  San Diego General Catalog 2019&#8211;20<em>, please contact the department
+  for more information.</em></p><!-- #EndLibraryItem --><h2 class="course-subhead-1">Lower Division </h2>
+  <p class="anchor-parent"><a class="anchor" id="hds1" name="hds1" /></a></p>
+  <p class="course-name">HDS  1. Introduction to Human Developmental Sciences (4) </p>
+				<p class="course-descriptions">This course introduces students to the central issues in the basic areas in human development. The course will explain relationships between biological, cognitive, social, and cultural aspects of development across the life span. Renumbered from HDP 1. Students may not receive credit for HDP 1 and HDS 1. </p>
+				<p class="anchor-parent"><a class="anchor" id="hds98" name="hds98" /></a></p>
+		<p class="course-name">HDS 98. Directed Group Study (1–2) </p>
+				<p class="course-descriptions">Directed group study, on a topic or in a field not included in the department curriculum, by arrangement with a faculty member. Pass/No Pass grades only. Cannot be used toward HDS major credit. Renumbered from HDP 98. HDS 98 and/or HDP 98 may be taken for credit for a combined total of three times. <strong class="italic">Prerequisites: </strong>completion of thirty units and a minimum UC San Diego GPA of 3.0. Students may enroll for no more than a total of two units in one quarter. Department authorization required.</p>
+				<p class="anchor-parent"><a class="anchor" id="hds99" name="hds99" /></a></p>
+				<p class="course-name">HDS 99. Independent Study in Human Developmental Sciences (2–4) </p>
+<p class="course-descriptions">Independent study and research under the direction of an affiliated human developmental sciences faculty member. Pass/No Pass only. Cannot be used toward HDS major credit. Renumbered from HDP 99. HDS 99 and/or HDP 99 may be taken for credit for a combined total of three times. <strong class="italic">Prerequisites:</strong> completion of thirty units and a minimum UC San Diego GPA of 3.0. Department authorization required.</p>
+				<h2 class="course-subhead-1">Upper Division </h2>
+				<p class="anchor-parent"><a class="anchor" id="hds110" name="hds110" /></a></p><p class="course-name">HDS 110. Brain and Behavioral Development (4) </p>
+				<p class="course-descriptions">The purpose of this course is to familiarize students with basic mechanisms of brain and behavioral development from embryology through aging. Multiple levels of analysis will be discussed, including the effects of hormones on behavior, developmental events at the level of cells, structures, and neural systems, and the neural basis of cognition, social, perceptual, and language development. Renumbered from HDP 110. Students may not receive credit for HDP 110 and HDS 110. <strong class="italic">Prerequisites:</strong> HDP 1 or HDS 1 or PSYC 101. </p>
+				<p class="anchor-parent"><a class="anchor" id="hds111" name="hds111" /></a></p><p class="course-name">HDS 111. Evolutionary Principles in Human Development (4) </p>
+				<p class="course-descriptions">The course will examine the human evolutionary past to inform our understanding of the biological, cognitive, and socio-cultural aspects of growth and change across the life span. Lectures and readings will draw from diverse fields to situate our understanding of human development within its broader evolutionary context. Areas of focus will include but are not limited to human longevity, biology of growth, theory of mind, and social and biological development in cross-species comparison. Renumbered from HDP 111. Students may not receive credit for HDP 111 and HDS 111. <strong><em>Prerequisites:</em></strong> HDP 1 or HDS 1 or ANTH 2 or BILD 3.</p>
+
+<p class="anchor-parent"><a class="anchor" id="hds120" name="hds120" /></a></p><p class="course-name">HDS 120. Language Development (4) </p>
+				<p class="course-descriptions">Examination of children&#8217;s acquisition of language from babbling to the formation of sentences. Topics covered include prelinguistic gestures, relationships between babbling and sound systems, speech perception, linking words with objects, rule overgeneralization, bilingualism, nature vs. nurture, individual differences, and cultural differences. Renumbered from HDP 120. Students may not receive credit for HDP 120 and HDS 120.  <strong class="italic">Prerequisites: </strong>HDP 1 or HDS 1 or LIGN 4. </p>
+				<p class="anchor-parent"><a class="anchor" id="hds121" name="hds121" /></a></p><p class="course-name">HDS 121. The Developing Mind (4) </p>
+				<p class="course-descriptions">(Same as COGS 110.) This course examines changes in thinking and perceiving the physical and social world from birth through childhood. Evidence of significant changes in encoding information, forming mental representations, and solving problems is culled from psychological research, cross-cultural studies, and cognitive science. Cross-listed course HDS 121 has been renumbered from HDP 121. Students may receive credit for one of the following: COGS 110, HDS 121, or HDS 121. <strong><em>Prerequisites:</em></strong> HDP 1 or HDS 1 or COGS 1. </p>
+				<p class="anchor-parent"><a class="anchor" id="hds122" name="hds122" /></a></p><p class="course-name">HDS 122. Development of Social Cognition  (4) </p>
+				<p class="course-descriptions">This course covers topics in development of social cognition across the life span. Grounded in current research and theoretical models, content addresses general principles such as the mutual influences of caregivers and children upon each other and the interplay of person and context. Discussion areas include attachment, aggression, identity development, social cognition, social components of achievement motivation, and development of conscience. Renumbered from HDP 122. Students may not receive credit for HDP 122 and HDS 122. <strong><em>Prerequisites:</em></strong> HDP 1 or HDS 1. </p>
+				<p class="anchor-parent"><a class="anchor" id="hds133" name="hds133" /></a></p>
+				<p class="course-name">HDS 133. Cross-Cultural Perspectives on Developmental Science  (4) </p>
+<p class="course-descriptions">This course examines how human development varies cross-culturally across the life span. It explores human developmental science as a bio-social-cultural process, in which development is not simply a product of biology and genetics, but shaped by the particular cultural traditions and patterns of social interactions into which an individual is born. Renumbered from HDP 133. Students may not receive credit for HDP 133 and HDS 133. <strong><em>Prerequisites:</em></strong> HDP 1 or HDS 1 or PSYC 1. </p>
+<p class="anchor-parent"><a class="anchor" id="hds150" name="hds150" /></a></p><p class="course-name">HDS 150. Senior Seminar (4) </p>
+				<p class="course-descriptions">Seminar for graduating HDS seniors. Readings and discussion of special topics in human developmental sciences. Provides advanced-level study on subfields of human development. Topics vary quarterly. Renumbered from HDP 150. HDS 150 and/or HDP 150 may be repeated for a combined total of two times when topics vary. <strong><em>Prerequisites:</em></strong> senior standing, HDP 181 or HDS 181. Department approval required. (F,W,S) </p>
+				<p class="anchor-parent"><a class="anchor" id="hds160" name="hds160" /></a></p>
+				<p class="course-name">HDS 160. Special
+				  Topics Seminar in Human Developmental Sciences (4) </p>
+<p class="course-descriptions">Special topics in human developmental sciences are discussed. Renumbered from HDP 160. HDS 160 and/or HDP 160 may be taken for credit for a combined total of three times when topics vary. <strong><em>Prerequisites:</em></strong> upper-division standing, department approval required. </p>
+<p class="anchor-parent"><a class="anchor" id="hds171" name="hds171" /></a></p><p class="course-name">HDS 171. Diversity in Human Development: A Cultural Competency Approach  (4)</p>
+<p class="course-descriptions">This course provides an introduction to the scholarship and practice of cultural competency, with a goal of enhancing the ability of students to be effective researchers and community service partners. Through relevant readings, associated assignments, and community guest speakers, students will acquire the necessary skills for doing substantive and responsive research in diverse cultural contexts. Renumbered from HDP 171. Students may not receive credit for HDP 171 and HDS 171. <strong class="italic">Prerequisites:</strong> upper-division standing.</p>
+<p class="anchor-parent"><a class="anchor" id="hds175" name="hds175" /></a></p><p class="course-name">HDS 175. Power, Wealth, and Inequality in Human Development (4)</p>
+<p class="course-descriptions">Inequality affects social mobility and opportunities for diverse communities in the United States, having long-term implications for life span development. A multidisciplinary approach examines the differential effects on development fostered by disparities in socio-economic, educational, and cultural factors. Renumbered from HDP 175. Students may not receive credit for HDP 175 and HDS 175. <strong><em>Prerequisites:</em></strong> upper-division standing.</p>
+<p class="anchor-parent"><a class="anchor" id="hds181" name="hds181" /></a></p><p class="course-name">HDS 181. Experimental
+				  Projects in Human Development Research (6) </p>
+<p class="course-descriptions">This laboratory course in human developmental sciences is designed around a variety of intensive experimental projects. With lectures providing background information on research methods and life span development, each assignment will include data collection and/or analysis, and a written laboratory report. Renumbered from HDP 181. Students may not receive credit for HDP 181 and HDS 181. <strong><em>Prerequisites:</em></strong> HDS 1 and BIEB 100 or COGS 14B or ECON 120A or MATH 11 or POLI 30 or POLI 30D or PSYC 60. Department approval required. A minimum of three upper-division HDS major courses, at least one in each domain, is needed for enrollment approval. Must be a declared HDS major. (F,W,S) </p>
+				<p class="anchor-parent"><a class="anchor" id="hds191" name="hds191" /></a></p><p class="course-name">HDS 191. Field Research in Human Development (6) </p>
+				<p class="faculty-staff-listing">This course is designed around students&rsquo; applied qualitative Field Research experience. With weekly lectures introducing the basic methodology of human development research, HDS majors are provided the necessary tools to create their own empirical Field Research project, conducted (four hours/week) at a pre-approved study site. Students must submit the pre-enrollment questionnaire one academic year prior to enrollment. See the <a href="http://hdp.ucsd.edu/" target="_blank">HDS website</a></p> for details. Renumbered from HDP 191. Students may not receive credit for HDP 191 and HDS 191. <strong><em>Prerequisites:</em></strong> HDS 1 and HDS 181. Department approval required. (F,W,S) </p>
+				<p class="anchor-parent"><a class="anchor" id="hds193" name="hds193" /></a></p>
+				<p class="course-name">HDS 193. Advanced
+				  Research in Human Developmental Sciences (4) </p>
+<p class="course-descriptions">Specialized research project under the direction of a human developmental sciences affiliated faculty member. Renumbered from HDP 193. Students may not receive more than a combined total of eight units of credit for HDP 193 and HDS 193. <strong><em>Prerequisites:</em></strong> upper-division standing; department approval required. Overall GPA of 2.8, one lab course, and three HDS core courses completed.   </p>
+				<p class="anchor-parent"><a class="anchor" id="hds194a" name="hds194a" /></a></p><p class="anchor-parent"><a class="anchor" id="hds194b" name="hds194b" /></a></p><p class="anchor-parent"><a class="anchor" id="hds194c" name="hds194c" /></a></p>
+				<p class="course-name">HDS 194A-B-C. Honors Thesis in Human Developmental Sciences (4-4-4) </p>
+				<p class="course-descriptions">Students carry out a three-quarter research project, under the guidance of a faculty member, that will form the basis for their senior honors thesis in the human developmental sciences major. Renumbered from HDP 194A-B-C. Students may not receive credit for HDP 194A-B-C and HDS 194A-B-C. <strong><em>Prerequisites:</em></strong> overall GPA of 3.2, and a 3.5 GPA for courses taken in the HDS major; an advanced course in statistics or experimental design, department approval, and consent of instructor required. </p>
+				<p class="anchor-parent"><a class="anchor" id="hds195" name="hds195" /></a></p><p class="course-name">HDS 195. Instructional
+				  Apprentice in Human Developmental Sciences  (4) </p>
+<p class="course-descriptions">Introduction to teaching within human developmental sciences. Under the direction of the instructor, students attend lectures, lead discussion sections, review course readings, and meet regularly to prepare course materials and to evaluate examinations and papers. Course not counted toward HDS major or minor. Pass/No Pass only. Renumbered from HDP 195. Students may not receive more than a combined total of eight units of credit for HDP 195 and HDS 195. <strong><em>Prerequisites:</em></strong> overall GPA of 3.0, 90 units completed, department approval, and consent of instructor required.  </p>
+				<p class="anchor-parent"><a class="anchor" id="hds199" name="hds199" /></a></p>
+				<p class="course-name">HDS 199. Independent
+				  Study in Human Developmental Sciences (4) </p>
+<p class="course-descriptions">Independent study and research under the direction of an affiliated human developmental sciences faculty member. Pass/No Pass only. Renumbered from HDP 199. HDP 199 and/or HDS 199 may be taken for credit for a combined total of three times. Cannot be used toward HDS major credit. <strong><em>Prerequisites:</em></strong> department approval and consent of the instructor required; completion of at least ninety undergraduate units with a minimum of 2.5 GPA, and a completed and approved Special Studies form. </p>
+<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

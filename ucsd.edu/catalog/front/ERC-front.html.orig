@@ -1,0 +1,291 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" --> 
+<title>Eleanor Roosevelt College</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" --> 
+				<h1 class="front-section-title"><a href="http://roosevelt.ucsd.edu" target="_blank">Eleanor Roosevelt College</a></h1>
+		<p><a href="http://roosevelt.ucsd.edu" target="_blank">Eleanor Roosevelt College</a> (ERC) was established in 1988 and is currently home to almost 3,500 men and women. In 1994, the college was named after Eleanor Roosevelt, affirming the connection between the college&rsquo;s educational program and Mrs. Roosevelt&rsquo;s legacy as one of the most influential figures of the twentieth century. During the Great Depression and World War II, Mrs. Roosevelt traveled widely in the United States and abroad to understand and propose solutions to social problems and political conflicts. Throughout her life, she was an active champion for civil and social rights in the U.S. She carried that experience into her role as the leading architect of the United Nations Universal Declaration of Human Rights, adopted by the United Nations in 1948. She earned worldwide respect and became known as the &ldquo;First Lady of the World.&rdquo;</p>
+				<p>Roosevelt College proudly embraces Mrs. Roosevelt&rsquo;s legacy and has as its primary goal the education of students with a global vision. Consistent with the college&rsquo;s motto of &ldquo;<em>Developing World Citizens through Scholarship, Leadership, and Service,</em><em>&rdquo;</em> the general-education program is designed to prepare students to be effective contributors to their professions and citizens of a rapidly changing world. The core curriculum of the college exposes students to a variety of academic disciplines, providing a foundation in critical thinking, writing, and analysis that is suitable for all career aspirations. The program develops students&rsquo; intellectual capacities, expands general knowledge, and strengthens foundational skills. Students have many choices within the program&rsquo;s structured framework. </p>
+				<p>Roosevelt College serves students interested in pursuing academic excellence in any of the more than 150 majors offered at UC San Diego. The general-education program, in tandem with majors in all academic divisions (engineering, social sciences, physical and biological sciences, the arts and humanities), prepares students to work effectively in any professional environment. Students planning postgraduate study in fields as diverse as medicine, business, law, public policy, and traditional doctoral programs will be well prepared by the combination of strong training in the major and the broad curriculum of the college. </p>
+				<p>Roosevelt College combines an academic program with student life programs that help students engage in thoughtful leadership and meaningful service. In the college&rsquo;s supportive community, students are valued and respected. They are challenged and helped to succeed as they make the transitions to college and the world beyond. An example of the intertwining of academic, leadership, and service is the ERC Global Service and Research program that includes an <em>elective</em> two-course sequence comprised of ERC 192A-B that combines academic course work with experiential service learning abroad. See &ldquo;<a href="../curric/ERC.html">Eleanor Roosevelt College</a>&rdquo; in the department listings.</p>
+                <h3><a name="gened"></a>General Education</h3>
+                <p>The general-education requirements at Roosevelt College are designed to provide all students with a broad intellectual foundation. The curriculum offers undergraduates opportunities to learn about the various fields that may be open to them, thus assuring that their choices in selecting a major, pursuing graduate study, or seeking employment will be based on mutual understanding about the nature of the work and their own interests and talents. </p>
+                <h4>Advanced Placement Credits </h4>
+                <p>University credit may be granted for College Board Advanced Placement Tests on which a student earns a score of 3 or higher. The credit may be applied toward general-education requirements (approximately half of which can be met by advanced placement credit), elective units for graduation, as subject credit for use in a minor, or as a prerequisite to a major. For further details, see the <a href="../pdf/APC-chart.pdf">Advanced Placement chart</a> in &ldquo;<a href="UgrdAdm.html">Undergraduate Admissions</a>.&rdquo; </p>
+                <p>Roosevelt College academic counselors provide information about advanced placement or courses that meet the general-education requirements of the college. Students should take advantage of the counseling available in the <a href="http://roosevelt.ucsd.edu/academics/academicadvising/index.html" target="_blank">academic advising office</a> to help them effectively incorporate the college general-education requirements into their academic program. </p>
+<h3>Roosevelt College General-Education Requirements for Students Entering as Freshmen</h3>
+                <h4>The Making of the Modern World (five quarters) </h4>
+                <p>This interdisciplinary sequence of five courses incorporates humanities (literature, history, and philosophy) and social sciences as well as writing. The courses examine Western and non-Western societies, cultures, and state systems both historically and comparatively. The Making of the Modern World (MMW) is taught by faculty from many disciplines, including anthropology, history, literature, political science, and sociology. Two of the five courses meet the university level writing requirement.</p>
+                <h4>Natural Sciences (two quarters) </h4>
+                <p>Two courses are to be chosen from selected offerings in biology, chemistry, physics, and/or earth sciences.  </p>
+                <p>For students majoring in scientific fields, these courses are preparation for major study; for students who will continue their studies outside the sciences, they provide a basic understanding and appreciation of methods and developments in the fields. Many of the selected courses are designed for nonscience majors. </p>
+<h4>Quantitative Methods (two quarters) </h4>
+                <p>Two courses are to be chosen from selected offerings in precalculus, calculus, statistics, symbolic logic, or computer programming. </p>
+                <p>For students majoring in scientific fields, these courses are preparation for major study; for students who will continue their studies outside the sciences, they provide a basic understanding and appreciation of methods and developments in the fields. Many of the selected courses are designed for nonscience majors. </p>
+                <h4>Foreign Language (zero to four quarters) </h4>
+                <p>Roosevelt College students are required to demonstrate basic conversational and reading proficiency in a modern foreign language, or advanced reading proficiency in a classical language, by completing the fourth quarter of foreign language instruction (or equivalent) with a passing grade. </p>
+<p>Students may also complete this requirement by demonstrating advanced language ability on a special proficiency exam. Students considering this option should consult with a Roosevelt College academic counselor during their first year at UC San Diego. </p>
+                <p>Advanced placement scores in language or literature, and IB scores in language, may exempt students from all or part of the Roosevelt College language requirement. </p>
+                <p>College-level language study is a prerequisite for study abroad in most non-English speaking countries and enhances understanding of those societies. Students wishing to study abroad in non-English speaking countries may need to take additional language classes and will need to take all language courses for letter grades. </p>
+                <h4>Fine Arts (one quarter) </h4>
+                <p>One four-unit course is required, choosing from course offerings in music, theatre and dance, or visual arts.  </p>
+<h4>Regional Specialization (three quarters) </h4>
+                <p>Each Roosevelt College student selects three courses dealing with a single geographic region of the world. The college has defined regions broadly enough to assure course availability and narrowly enough to ensure coherence of subject matter. These courses may be chosen from offerings in humanities, social sciences, and fine arts. At least two of the three must be taken at the upper-division level. See &ldquo;<a href="#ercminors">Minors</a>&rdquo; below about application of this course work to an optional Roosevelt College minor. </p>
+                <h4>Upper-Division Writing Requirement </h4>
+                <p>To demonstrate competency in written English at the upper-division level, students submit to the academic advising office a paper or papers of specified lengths that were written for one or more upper-division courses and graded C- or higher.</p>
+                <h3>Sample Program for Freshman Students</h3>
+                <p>A program like the sample one shown here would lead to completion of most general-education requirements during the first two years of college. Some variation will occur depending upon a student&rsquo;s academic preparation, choice of major, and individual interests and priorities. For example, students planning to major in science, math, or engineering will be taking many prerequisite courses for their major; those courses typically also fulfill the general-education requirements in natural sciences and/or quantitative methods. </p>
+                <div>
+                  <div> </div>
+                </div>
+<table class="sample-program" border="0" cellpadding="0" cellspacing="0">
+	  <tr>
+		<th class="quarter" width="170"><h5>FALL</h5>
+		  </th>
+		<th class="quarter" width="170"><h5>WINTER</h5>
+		  </th>
+		<th class="quarter" width="170"><h5>SPRING</h5>
+		  </th>
+	  </tr>
+	  <tr5>
+	  <th colspan="3" class="year"><h5>FRESHMAN YEAR</h5></th>
+		</tr>
+	  <tr>
+		<td>MMW 11</td>
+		<td>MMW 12 </td>
+		<td>MMW 13</td>
+	  </tr>
+	  <tr>
+		<td>foreign language</td>
+		<td>foreign language</td>
+		<td>foreign language</td>
+	  </tr>
+	  <tr>
+		<td>fine art </td>
+		<td>quantitative methods </td>
+		<td>quantitative methods </td>
+	  </tr>
+	  <tr>
+		<td>Entry Level Writing requirement, major, or elective</td>
+		<td>fine art</td>
+		<td>major or elective</td>
+	  </tr>
+	  <tr>
+		<th colspan="3" class="year"><h5>SOPHOMORE YEAR</h5></th>
+	  </tr>
+	  <tr>
+		<td>MMW 14/elective</td>
+		<td>MMW 14/elective</td>
+		<td>MMW 15</td>
+	  </tr>
+	  <tr>
+		<td>natural science</td>
+		<td>natural science</td>
+		<td>major or elective</td>
+	  </tr>
+	  <tr>
+		<td>major or elective</td>
+		<td>major or elective</td>
+		<td>major or elective</td>
+	  </tr>
+	  <tr>
+		<td>major or elective</td>
+		<td>major or elective</td>
+		<td>regional specialization</td>
+	  </tr>
+	  <tr>
+		<th colspan="3" class="year"><h5>JUNIOR AND SENIOR YEARS</h5></th>
+	  </tr>
+	  <tr>
+		<td colspan="3">regional specialization (2)</td>
+	  </tr>
+	  <tr>
+		<td colspan="3">major course work </td>
+	  </tr>
+	  <tr>
+		<td colspan="3">electives</td>
+	  </tr>
+	  </table>
+			<h3>Transfer Students </h3>
+				      <p>Transfer students who can certify that they have completed the   lower-division general-education requirements at an accredited four-year college,   and students who have completed a systemwide or campuswide core curriculum in   a California community college prior to entering UC San Diego (i.e., IGETC),   must take two quarters of the Making of the Modern World—MMW 121 and 122, an upper-division sequence designed specifically for transfer students.</p>
+				      <p>All other transfer students must   complete two quarters of the Making of the Modern World and satisfy the other   general-education requirements applied to freshman students. Transfer   students who have not met the freshman writing requirement elsewhere must   complete it by taking MMW 12 and/or 13 as part of the two-course requirement. </p>
+				      <h3>Graduation Requirements</h3>
+				      <p>To graduate with a baccalaureate degree from UC San Diego, a Roosevelt   College student must: </p>
+				      <ol start="1" type="1">
+				        <li>Satisfy        two UC requirements: the Entry Level Writing Requirement in English        composition and the American History and Institutions requirement. (See        &ldquo;<a href="UgrdDegReq.html#gradreq">University-wide Graduation Requirements</a>”).</li>
+				        <li>Satisfy the Diversity, Equity, and Inclusion        requirement: A knowledge of diversity, equity, and inclusion is required        of all candidates for a bachelor’s degree who begin their studies at UC        San Diego in lower-division standing in fall 2011 or thereafter, or in        upper-division standing in fall 2013 or thereafter (See “<a href="UgrdDegReq.html#gradreq">University-wide Graduation Requirements</a>”).</li>
+				        <li>Fulfill        the Roosevelt College general-education requirements as described.</li>
+				        <li>Complete        an approved departmental or interdepartmental major, meeting all        requirements as specified by the major department or program.</li>
+			            <li>Satisfy      the senior residency requirement that thirty-six of the final forty-four units      must be completed as a registered UC San Diego student. Students studying      abroad in their senior year may petition to have this requirement waived.</li>
+				     
+                   
+                        <li>Complete        and pass a minimum of 180 units for the bachelor of arts or bachelor of        science degree. At least sixty of those (fifteen courses) must be at the        upper-division level. The BS is awarded in biology, physics, cognitive        science, chemistry, earth sciences, management science, and designated        engineering and psychology programs; the BA is awarded in all other        majors.</li>
+                        <li>Earn        a cumulative GPA of 2.0 or higher.</li>
+                      </ol>
+				      <h3>Pass/Not   Pass Grading Options</h3>
+				      <ol start="1" type="1">
+				        <li>Courses        that meet the following Roosevelt College general-education requirements        may be taken Pass/Not Pass: fine arts, foreign language, natural        sciences, quantitative methods, and one regional specialization course.        All other general-education courses must be taken for letter grades        (including MMW).</li>
+			            <li>With      the exception of units earned in independent study courses (numbered 199),      no more than 25 percent of total UC San Diego units counted in      satisfaction of degree requirements may be taken on a Pass/Not Pass basis.</li>
+			       
+                        <li>Electives        may be taken on a Pass/Not Pass basis except if they are to be applied        to majors or minors. Check with the appropriate department or college        for rules applying to specific majors or minors.</li>
+                      </ol>
+        <h3>Majors</h3>
+                <p>A Roosevelt College student may pursue any of the approximately 150 undergraduate majors offered at UC San Diego. Students may complete more than one major, provided they comply with all Academic Senate regulations concerning double majors. </p>
+                <p>Most majors require the completion of specified &ldquo;premajor&rdquo; or prerequisite courses at the lower-division level before enrollment in upper-division major courses. For some majors, admission to upper-division course work is contingent upon a satisfactory GPA in certain premajor courses. Students are strongly encouraged to work closely with department advisers as well as college academic counselors to assure adequate and timely preparation for their majors. </p>
+                <p>Completion of certain majors may take more than four years or the minimum 180 units required for graduation. Time-to-graduation in other instances may be affected by a student&rsquo;s level of preparation for upper-division work in the major or by a decision to change major. See &ldquo;The Undergraduate Program(s)&rdquo; in respective department listings. </p>
+                <h3>Roosevelt College Individual Studies Major</h3>
+                <p>The Individual Studies major offers to meet the needs of students who have defined academic interests for which suitable majors are not offered at UC San Diego. Students who find themselves in this situation should consult a college academic counselor at the first opportunity. </p>
+                <p>This major includes regular course work, and often, independent study, representing a minimum of twelve upper-division four-unit courses. A regular member of the faculty serves as adviser to the student. Students admitted to the Individual Studies major may enroll in ERC 199, an independent study course supervised by a faculty member, who tailors the content to fit the major. </p>
+                <p>Qualifying seniors pursuing an Individual Studies major may undertake an honors thesis research project (ERC 196) under the tutelage of their faculty mentor. See &ldquo;Eleanor Roosevelt College&rdquo; in the department listings. </p>
+                <p>Further information about an Individual Studies major may be obtained from the <a href="http://roosevelt.ucsd.edu/academics/academicadvising/index.html" target="_blank">Roosevelt College academic advising office</a>. </p>
+<h3><a name="ercminors"></a>Minors </h3>
+        <p>Minors are not required at Roosevelt College. However, completion of a minor can be an educational or preprofessional asset. All students have the option of completing any approved departmental or interdepartmental minor. </p>
+                <h4>Roosevelt College Special Minors</h4>
+                <p>Alternatively, students may wish to combine foreign language course work with an associated regional specialization to earn a Roosevelt College special minor in, for example, Asian Studies or Middle Eastern Studies. Such minors must conform to Academic Senate policies: For students entering the university before January 1998, this means completion of at least six courses (twenty-four units), of which at least three (twelve units) must be at the upper-division level. Students entering in January 1998 or later must complete at least seven courses (twenty-eight units), of which at least four (sixteen units) must be at the upper-division level. Upper-division courses applied toward a minor may not be used to meet the requirements of the major.</p>
+                <h3>College-Sponsored Programs</h3>
+                <h4>International Migration Studies Minor </h4>
+                <p>Roosevelt College and the Center for Comparative Immigration Studies jointly host the only International Migration Studies minor in the country. It focuses on one of the most significant social, economic, and political influences in the modern world—the voluntary and forced flow of people across international borders and the dispersal of cultural communities around the world. The minor, open to students from all UC San Diego colleges, enables students to understand how migration has historically shaped different societies and economies as well as the policies governments have adopted to control population movements. Requirements include seven courses from a list of approved courses, at least five of which must be upper division. Students may pursue one of three tracks for the minor: course work (seven courses from a list approved for the minor); a combination of courses and an approved, related internship; or field research (participation in the Mexican Migration Field Research Program or courses and an independent research project). The research track affords students an excellent opportunity to work closely with faculty, learning the craft of research and writing a report. Students in the Mexican Migration Field Research Program coauthor a published book on each year&rsquo;s project. For details on the minor, see &ldquo;<a href="../curric/IMSM.html">International Migration Studies</a>.&rdquo;</p>
+                <h4>Human Rights Minor</h4>
+                <p>The purpose of the Human Rights minor is to encourage students to treat human rights as an intellectual and practical question. Students will engage openly with the history and the implementation of human rights, explore its origins and trajectory, the passions it arouses, and the range of its influences and effects. The development and multiple meanings of human rights, its institutional advocates and adversaries, and the attendant moral dilemmas are all recognized today as topics of profound interest and objects of study. Many of the courses in the minor have a clear international content, but a good portion has a US or comparative approach. This program helps to prepare students for a career in research and teaching and working in NGOs that advocate for and monitor human rights compliance, government agencies, or law. </p>
+        <p>To receive a minor in human rights, a student must complete seven four-unit courses (twenty-eight units)—including two required courses (HMNR 100 and HMNR 101)—and five courses from the list of approved courses, at least two of which should be from the list of core courses. Since the Human Rights minor is an interdisciplinary program, students are allowed to take no more than three courses in any one department. The Human Rights minor is administered by Roosevelt College in cooperation with the Institute for International, Comparative, and Area Studies (IICAS).        </p>
+        <h3>Leadership and Community</h3>
+                <p>Roosevelt College students are recognized for their strong sense of community. These bonds are created in part by common classroom experiences in MMW. They also grow from shared explorations in a variety of college programs in which students take active roles: college and campuswide student government, service to the campus and the larger community, the acquisition of leadership skills, and sports and social activities. </p>
+                <p>The college is home to UC San Diego&rsquo;s International House, which offers informative and dynamic discussions for the campus community at its weekly International Affairs Group meetings. ERC also hosts (with the Study Abroad UC San Diego Office) a retreat each fall to welcome back study abroad returnees from all six colleges and assist with their re-integration into the UC San Diego community. </p>
+                <h3>Honors</h3>
+        <h3>Roosevelt College Honors Program</h3>
+                <p>The Freshman and Sophomore Honors programs have been established to provide exceptionally motivated and capable students with enhanced educational experiences in association with faculty and other honors students. </p>
+                <p>Selected new students are invited to enroll in the ERC 20, Freshman Honors Seminar, for one unit of credit each quarter. See &ldquo;Eleanor Roosevelt College&rdquo; in the department listings.</p>
+                <p>During fall quarter, students meet with a variety of faculty members to learn more about their research and about academic enrichment opportunities at UC San Diego. Seminar members also participate in other enriching academic and cultural events. The Freshman Honors Seminar continues during winter and spring quarters with faculty speakers who focus on international themes. Sophomores who have earned cumulative grade point averages of 3.5 or higher have opportunities to pursue independent study with individual faculty for credit (ERC 92). See &ldquo;<a href="../curric/ERC.html">Eleanor Roosevelt College</a>&rdquo; in the department listings. </p>
+                <p>At the upper-division level, students may qualify to enroll in honors programs offered by their major departments. These programs usually include research under the direction of a faculty mentor and the writing and presentation of an honors thesis.</p>
+<h3>Honors Recognition</h3>
+                <p>Students who earn a GPA of 3.5 or higher during one quarter are notified of having achieved Provost&rsquo;s Honors. This honor is designated on their official UC San Diego transcript. </p>
+                <p>Every spring, Roosevelt College holds an academic honors and leadership recognition event, and graduating seniors are encouraged to invite individual faculty as their guests. </p>
+<p>Also, each spring, UC San Diego&rsquo;s chapter of the Phi Beta Kappa Society invites to membership seniors who have demonstrated outstanding academic achievement (3.65 GPA), breadth in their academic programs (including humanities, language, and quantitative methods), and good character, among other criteria. See also &ldquo;<a href="http://pbk.ucsd.edu/" target="_blank">Phi Beta Kappa</a>.&rdquo; </p>
+                <p>At commencement, graduates with extraordinarily outstanding overall academic records are named Provost&rsquo;s Scholars. Graduates with final cumulative GPAs equivalent to approximately the top 14 percent of UC San Diego graduates become eligible for University Honors and receive their degrees cum laude (with honors), magna cum laude (with high honors), or summa cum laude (with highest honors). </p>
+                <h3><a name="partners"></a><a name="majorprograms"></a><a name="gradreqs"></a>Enhancing Your Education </h3>
+                <p>Students whose interests extend beyond our borders are encouraged and assisted in finding opportunities to spend part of their college career in another country. There are many options, including short-term or yearlong academic programs, work opportunities, and career-related internships. </p>
+                <p>At one time or another, men and women from Roosevelt College have studied in more than forty different countries in Europe, Africa, Latin America, the Middle East, and Asia. </p>
+                <p>Students on university financial aid who participate in the UC Education Abroad Program pay UC San Diego fees and retain their financial aid packages, which are budgeted to include study abroad expenses. In addition, there are a number of sources for scholarship aid designated for study abroad. The Making of the Modern World usually offers Global Seminars taught over the summer in a foreign country. In addition, students can participate in the Roosevelt College Global Service and Research program as a short-term option to going abroad.</p>
+                <h3>Internships</h3>
+          <p>Internships, whether for credit, pay, or experience, can be a useful part of a student&rsquo;s undergraduate experience. They offer an opportunity to apply classroom learning, develop preprofessional experience and networks, and test out possible career paths. Students can find internship placements through the Academic Internship Program (AIP), which offers credit-bearing opportunities in San Diego, Washington, DC, and many other locations. Alternatively, the UCDC and UC Sacramento programs combine course work and internships in those two capital cities. Finally, through Career Services, students can identify paid and service internships. Some internships require upper-division standing. For details on each program, see separate listings in the catalog. </p><!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

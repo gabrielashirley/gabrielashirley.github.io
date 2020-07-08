@@ -1,0 +1,665 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Scripps Institution of Oceanography</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Scripps Institution of Oceanography (Scripps Department)</h1>
+<p class="sectionNav"><span class="courseFacLink">[ <a href="../curric/SIO-ug.html">undergraduate
+  program </a>| <a href="../courses/SIO.html">courses</a> | <a href="../faculty/SIO.html">faculty</a> ]</span></p>
+<p class="program-contact-info">GRADUATE EDUCATION<br />
+  Eckart Building, Second Floor<br />
+ <a href="https://scripps.ucsd.edu/education" target="_blank">https://scripps.ucsd.edu/education</a></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+		<!-- #EndLibraryItem --><p class="anchor-parent"><a class="anchor" id="contig"></a></p><h3>Contiguous Bachelor’s/Master’s Degree Program</h3>
+<p>The program leading to a bachelor of science and a master of science is offered to undergraduate students who are enrolled in majors within the Scripps Department or related fields. It is open only to UC San Diego undergraduates, and entails participation in research in an area to be determined jointly by the student and a committee of faculty members from Scripps Department. </p>
+<p>Available program areas:</p>
+<ul>
+  <li>Earth Sciences–open to current UC San Diego undergraduates in the earth sciences major and to qualified students who are completing a specialization or minor in earth sciences.</li>
+  <li>Marine Biology–open to current UC San Diego undergraduates in any of the following biology-related majors or minors (1) marine biology major, (2) any one of the eight biology majors in the Division of Biological Sciences, (3) environmental systems major in the ecology/behavior/evolution track, or (4) biology minor.</li>
+</ul>
+<p>Applications will only be accepted during the final quarter of the applicant&rsquo;s junior year, or the first or second quarter of the senior year. A minimum undergraduate GPA of 3.0 overall and 3.3 in upper-division major courses is required for admission. Applications must include a written statement of purpose, a summary of the research proposal, and endorsement from the prospective research adviser and two additional faculty members. Students must complete requirements for the BS before they are enrolled in the MS program, and are expected to meet the requirements for the MS within three consecutive academic quarters after obtaining the BS. Please contact the Scripps Department&rsquo;s undergraduate office if you are interested in applying.</p>
+<p>Requirements for completing the MS degree:</p>
+<ul type="disc">
+  <li>At least twenty-four units of course work</li>
+
+  <ol>
+    <li>twelve units graduate-level course work in the major field (for <strong>letter grade</strong> only).</li>
+    <li>six units of SIOG 228 for <strong>letter grade</strong> only (two units per quarter—SIOG 228 is a special research seminar for MS students).</li>
+    <li>At least six units of additional course work (graduate or upper-division courses)</li>
+  </ol>
+
+  <li>twelve units of research units (SIO 299)      leading to a master&rsquo;s thesis.</li>
+  <li>Completion of a thesis, with an oral      presentation to, and approval of, a three-member thesis committee. The thesis committee must contain at least two members from the Scripps Department. Eligibility requirements can be found on the Graduate Division&rsquo;s <a href="http://grad.ucsd.edu" target="_blank">website</a>.</li>
+</ul>
+<p>Students may be dropped from the program if breaks in enrollment occur. The Department of Scripps Institution of Oceanography does not have financial aid available for students enrolled in the contiguous BS/MS program. Please contact the undergraduate education program office in Galbraith Hall, room 368, for information. </p>
+<p><strong>Note: </strong>The BS/MS program is an option for UC San Diego undergraduates that both want to pursue a thesis-based master's at the Scripps Department and meet the specific application qualifications. UC San Diego students are also eligible to apply to a stand-alone MS degree at the Scripps Department through the standard application process. In the stand-alone MS program, students can choose the <em>Plan I—Thesis</em> or the <em>Plan II—Comprehensive Examination</em> option. See both the general admission requirements and the master of science requirements sections below.</p>
+<div>
+  <div> </div>
+</div>
+<h3>Graduate Programs Leading to the Master of Science and Doctoral (PhD) Degrees</h3>
+<p>The Scripps Department offers instruction leading to MS and PhDs in oceanography, marine biology, and earth sciences. Student can only apply for admission to either the MS or PhD program, not both. Both programs offer admission once a year. The PhD program is strongly research oriented and is for students whose final degree objective is the PhD. The MS program is intended to be a terminal degree; however, students enrolled in the PhD program may obtain the MS on the way to completing the PhD program. MS and PhD education in the Scripps Department is split up into three distinct programs: </p>
+<ul>
+  <li><span dir="LTR"> </span>Climate-Ocean-Atmosphere Program (COAP)</li>
+  <li><span dir="LTR"> </span>Geosciences of the Earth, Oceans, and Planets (GEOP)</li>
+  <li><span dir="LTR"> </span>Ocean Biosciences Program (OBP)</li>
+</ul>
+<p>Within each program, there are two to three separate curricular groups. The programs, their curricular groups, and degrees offered are enumerated below. </p>
+<h4 class="program-overview-subhead-2">Climate-Ocean-Atmosphere Program (COAP)</h4>
+<h5>Curricular Groups within COAP:</h5>
+<p class="course-list-courses">Applied Ocean Science (AOS)</p>
+<p class="course-list-courses">Climate Sciences (CS)</p>
+<p class="course-list-courses">Physical Oceanography (PO)</p>
+<h5>Degrees typically offered for students enrolled in COAP:*</h5>
+<p class="course-list-courses">MS in Oceanography</p>
+<p class="course-list-courses">PhD in Oceanography</p>
+<p class="course-list-courses">PhD in Oceanography with a specialization in Interdisciplinary Environmental Research (PIER)</p>
+<p>*Students can petition for the degree title based on approval of their Guidance Committee chair and the department chair.</p>
+<h4>Geosciences of the Earth, Oceans, and Planets Program (GEOP)</h4>
+<h5>Curricular Groups within GEOP:</h5>
+<p class="course-list-courses">Geophysics (GP)</p>
+<p class="course-list-courses">Geosciences (GS)</p>
+<p class="course-list-courses">Marine Chemistry and Geochemistry (MCG)</p>
+<h5>Degrees typically offered for students enrolled in GEOP:*</h5>
+<p class="course-list-courses">MS in Earth Sciences</p>
+<p class="course-list-courses">MS in Oceanography</p>
+<p class="course-list-courses">PhD in Earth Sciences</p>
+<p class="course-list-courses">PhD in Oceanography</p>
+<p class="course-list-courses">PhD in Oceanography with a specialization in Interdisciplinary Environmental Research (PIER)</p>
+<p class="course-list-courses">PhD in Earth Sciences with a specialization in Interdisciplinary Environmental Research (PIER)</p>
+<p>*Students can petition for the degree title based on approval of their Guidance Committee chair and the department chair.</p>
+<h4 class="program-overview-subhead-2">Ocean Biosciences Program (OBP)</h4>
+<h5>Curricular Groups within OBP:</h5>
+<p class="course-list-courses">Biological Oceanography (BO)</p>
+<p class="course-list-courses">Marine Biology (MB)</p>
+<h5>Degrees typically offered for students enrolled in OBP:*</h5>
+<p class="course-list-courses">MS in Marine Biology</p>
+<p class="course-list-courses">MS in Oceanography</p>
+<p class="course-list-courses">PhD in Marine Biology</p>
+<p class="course-list-courses">PhD in Oceanography</p>
+<p class="course-list-courses">PhD in Oceanography with a specialization in Interdisciplinary Environmental Research (PIER)</p>
+<p class="course-list-courses">PhD in Earth Sciences with a specialization in Interdisciplinary Environmental Research (PIER)</p>
+<p>*Students can petition for the degree title based on approval of their Guidance Committee chair and the department chair.</p>
+<h4 class="program-overview-subhead-2">Overview of the Academic Programs and their Curricular Groups</h4>
+<p>Students choose a program when applying. Upon admission, students are assigned an adviser, who is the chair of the three-person guidance committee. Students are assigned to a curricular group based on their interests. Although students may change curricular groups in the fall quarter, they must commit to a curricular group early on because this determines their course work and departmental exam.</p>
+<p>The academic programs are umbrellas for curricular groups as follows:</p>
+<h4 class="program-overview-subhead-2">Climate-Ocean-Atmosphere Program (COAP)</h4>
+<p><strong class="myriad-pro-semibold">Applied Ocean Science (AOS)</strong> is a multidisciplinary
+ program focused on the application of advanced technology to ocean exploration
+ and observation. AOS students perform research in marine acoustics, optics,
+ electromagnetics, geophysics, ecology, sediment transport, coastal processes,
+ physical oceanography, and air-sea interaction. The emphasis is on the resolution
+ of key scientific issues through novel technological development. The science focus of the Scripps AOS Program is complemented by parallel applied ocean science programs in the Department of Mechanical and Aerospace Engineering (MAE) and the Department of Electrical and Computer Engineering (ECE). Students have access to professors, courses, and research facilities across all three departments.  </p>
+<p><strong>Climate Sciences (CS)</strong> concerns the study of the climate system
+ of the Earth with emphasis on the physical, dynamical, and chemical interactions
+ of the atmosphere, ocean, land, ice, and the terrestrial and marine biospheres.
+ The program encompasses changes on seasonal to interannual time scales and
+ those induced by human activities, as well as paleoclimatic changes on time
+ scales from centuries to millions of years. Examples of current research activities
+ include interannual climate variability; physics and dynamics of El Niño;
+ studies of present and future changes in the chemical composition of the atmosphere
+ in relation to global warming and ozone depletion; effects of cloud and cloud
+ feedbacks in the climate system; paleoclimate reconstructions from ice cores,
+ banded corals, tree-rings, and deep-sea sediments; the origin of ice ages;
+ air-sea interactions; climate theory; and terrestrial and marine ecosystem response
+ to global change. </p>
+<p><strong>Physical Oceanography (PO) </strong>is the field of study that deals with mechanisms of energy, momentum, heat, and other transfer through the ocean and across its boundaries, and with the physical interactions of the ocean with its surroundings, especially including the influence of the oceans on the climate of the atmosphere. Research activities within this curricular group can be observational, modeling-based, or theoretical and occur over a range of length and time scales. Study topics include study of the general circulation of the oceans (including the relations of ocean currents to driving forces and constraints of the ocean basins); fluctuations of currents and the transport of properties; the mechanisms of transport of energy, momentum, and physical substances within the oceans and across its boundaries; properties of wind waves, internal waves, tsunami, and planetary waves; ocean mixing at a range of scales, the thermodynamic description of the oceans as a system not in equilibrium; optical and acoustic properties of the oceans; and the influence of surf on near-shore currents and the transport of sediments. </p>
+<h4 class="program-overview-subhead-2">Geosciences of the Earth, Oceans, and Planets Program (GEOP)</h4>
+<p><strong>Geophysics (GP)</strong> emphasizes the application of general principles
+ of mathematics and experimental physics to fundamental problems of the oceans,
+ the atmosphere, the oceanic and continental lithosphere, the cryosphere, and the crust and
+ deep interior of the Earth. Research interests of the group include: observational
+ and theoretical studies of electric and magnetic fields in the oceans and on
+ the land; paleomagnetism; theoretical seismology with special emphasis on the
+ structure of the Earth from free-oscillation and body wave studies; broadband
+ observational seismology, including ocean bottom and multichannel seismology;
+ earthquake source mechanisms; the measurements of slow crustal deformations
+ using satellite and observatory methods on continents and in the oceans; marine
+ geodynamics and tectonophysics; gravity measurements; geophysical inverse theory;
+ observations of the ice sheets; magnetohydrodynamics of the core of the Earth;
+ geophysical instrumentation for oceanic and continental geophysical measurements;
+ acoustic source mechanisms and propagation in the oceans and the atmosphere.</p>
+<div>
+  <div> </div>
+ <div> </div>
+</div>
+<p><strong>Geosciences (GS)</strong> emphasizes the application of general principles of geology, geochemistry, geophysics, and archaeology to problems in the marine and terrestrial environments of the Earth. Graduate students routinely participate in expeditions at sea and on land and many doctoral theses evolve from these experiences. Research areas in the geosciences include the origin and evolution of the ocean-atmosphere system, global climate, and biosphere; geology, geochemistry, and geophysics of oceanic crustal rocks and near-shore environments; magmatic, tectonic, and structural evolution of the oceans, plate margins, and back-arc basins; the role of fluids in the crust; chemistry of rare gases in active volcanoes; the use of natural nuclear processes for understanding physical and chemical processes in the Earth; paleomagnetic applications in geology, geophysics; and paleontology, paleoenvironments, and paleoenvironmental/archaeological records of human and anthropogenic environmental impacts.</p>
+<p><strong>Marine Chemistry and Geochemistry (MCG)</strong> concerns chemical and geochemical processes operating in a broad range of study areas: the oceans, the solid earth, the atmosphere, marine organisms, polar ice sheets, lakes, meteorites, and the solar system. Areas of advanced study and research include the physical and inorganic chemistry of seawater; ocean circulation and mixing based on chemical and isotopic tracers; marine organic chemistry; marine bioinorganic chemistry; geochemical interactions of sediments with seawater and interstitial waters; geochemistries of volcanic and geothermal phenomena; chemical exchanges between the ocean and the atmosphere; geochemical cycles of carbon, oxygen, sulfur, nitrogen, and other elements; chemical tracers of biological production; isotopic geochemistry of the solid earth and meteorites; atmospheric trace gas chemistry; paleoatmospheric composition recorded in polar ice cores, corals and sediments; and chemistry of lakes and other freshwater systems. Studies are typically interdisciplinary and involve integration of chemical concepts with information about the physical, biological, or geological processes that influence natural systems. Students in the marine chemistry and geochemistry curricular group are encouraged to explore these links. </p>
+<h4 class="program-overview-subhead-2">Ocean Biosciences Program (OBP)</h4>
+<p><strong>Biological Oceanography (BO) </strong>is the interdisciplinary study of ocean ecology: how populations of marine organisms interact with one another and with their physical and chemical environment and how marine communities respond to natural and human impacts on the ocean environment. Using a variety of field, laboratory, and modeling techniques, specific research projects seek to understand the processes and mechanisms that drive the dynamics of pelagic and benthic organisms and ecosystems. Active areas of interest range from coastal wetlands, kelp forests, and coral reefs to the open ocean, from the surface ocean to the deep sea, and from tropical to polar habitats.</p>
+<p>Research topics include microbial ecology, primary and secondary productivity, population dynamics, and connectivity, food-web interactions, carbon and nutrient cycling, fishery biology and management, conservation biology, systematics and biogeography, population genetics and evolution, behavior as it affects organism distributions, life history strategies and predator-prey relationships, and the impacts of climate change. Development and testing of new tools (molecular, optical, acoustic), design of sampling programs, and statistical/mathematical analyses of data also are significant activities.</p>
+<p><strong>Marine Biology (MB)</strong> is the study of marine organisms. It is concerned
+  with evolutionary, organismic, genetic, genomic, physiological, and biochemical
+  processes in these organisms, and the relationship between them and their biotic
+  and physical environment. Marine biology encompasses several major areas of
+  modern biology, and is interpreted by understanding the physical and chemical
+  dynamics of the oceans. Faculty research focuses on microbiology, photobiology, invertebrate
+  biology, vertebrate biology, paleobiology, high-pressure biology, deep-sea biology, developmental
+  biology, genetics, comparative biochemistry, ecotoxicology, physiology, behavior,
+  ecology, biogeography, taxonomy, and evolution. Processes ranging from coral
+  larvae recruitment to the role of bacteria in marine food web dynamics are
+  under study in over twenty independent research laboratories. </p>
+<p>Within MB is the<strong> Marine Chemical Biology (MCB)</strong> track. MCB is an interfacial discipline combining the fields of chemistry and biology to study and manipulate biological systems with the use of chemical, biochemical and genetic techniques and tools. Currently most of the investigations in the MCB track are focused on the discovery and application of marine microbial natural products and the study of biochemical processes utilized to create these unique molecules. Marine natural products are amongst some of the most structurally novel in the natural world, and their chemical description is critical to developing their full biomedical and biotechnological value as well as exploring their functional roles in our natural world. Understanding the biosynthesis of these marine natural products by a combination of organic chemistry and recombinant biology approaches lays the foundation for the discovery and application of novel biosynthetic enzymes and the rational metabolic engineering of designer molecules. Some of these metabolites may have utility as biological reagents, pharmaceuticals, agrochemicals, biofuels, or other commodity chemicals. Innovative analytical methods are also being utilized to probe the sites of natural products&rsquo; biosynthesis in complex associations of marine species, including those involved in symbiotic relationships.</p>
+<h3>Admission Requirements for Graduate Programs</h3>
+<h4>General Admission Requirements for Master of Science (MS) and Doctoral (PhD) Degrees</h4>
+<p>Candidates for admission to the MS or PhD programs should have a bachelor&rsquo;s degree in one of the physical, biological, or earth sciences. Some curricular groups accept students with bachelor&rsquo;s degrees in mathematics or engineering science (see below). A minimum scholastic average of B or 3.0 GPA (or its equivalent, if the letter grade system is not used) is generally required. The student&rsquo;s preparation should include </p>
+<ol>
+	  <li> mathematics through differential and integral calculus </li>
+	  <li> physics, one year with laboratory (the course should stress the
+				 fundamentals of mechanics, electricity, magnetism, optics,
+	  and thermodynamics, and should use calculus in its exposition) </li>
+	  <li> chemistry, one year with laboratory </li>
+	  <li> an additional year of physics, chemistry, or mathematics </li>
+	  <li>  All applicants are required to submit scores from the general test
+				  of the Graduate Record Examinations (GRE) given by the Educational
+				  Testing Service of Princeton, New Jersey. Applicants to the Ocean Biosciences
+				  Program, additionally, should take one GRE subject test of their own
+	  choice.</li>
+	  </ol>
+<p>All international applicants whose native language is not
+     English and whose undergraduate education was conducted in
+     a language other than English must take the TOEFL and submit
+     their test scores to the UC San Diego Office of Graduate Admissions. </p>
+    <h4>Additional Admission Requirements for Curricular Programs</h4>
+    <p>Each curricular group requires additional preparation for admission to its MS or PhD programs. The specific additional requirements for each curricular group are below. Special consideration occasionally can be given to candidates with outstanding records who do not meet all required preadmission criteria.    </p>
+    <h4>Climate-Ocean-Atmosphere Program (COAP) </h4>
+    <h5>Applied Ocean Science</h5>
+<ul type="disc">
+  <li>Students are admissible with a      strong background in physical science, engineering science, or      mathematics.</li>
+  <li>Three years of physics or      applicable engineering are required.</li>
+  <li>Three      years of mathematics at the college level are expected.</li>
+</ul>
+<div>
+  <div> </div>
+</div>
+<h5>Climate Sciences</h5>
+<ul type="disc">
+  <li>Students      are admissible if they satisfy the admission requirements specified for the      physical oceanography, geophysics, or marine chemistry and geochemistry curricular      groups.<strong></strong></li>
+  <li>Biology and geology majors may also be      admissible if the Scripps Department faculty feel that a student has a      sufficiently strong background in mathematics and physical science.</li></ul>
+<h5>Physical Oceanography</h5>
+<ul type="disc">
+  <li>An      undergraduate major in a physical science field is required.<strong></strong></li>
+  <li>Three years of physics and mathematics are required.</li>
+</ul>
+<h4>Geosciences of the Earth, Oceans, and Planets (GEO)</h4>
+    <h5>Geophysics</h5>
+    <ul type="disc">
+      <li>An      undergraduate major in physics, mathematics, earth sciences, or equivalent      training is required.</li>
+    </ul>
+    <h5>Geosciences</h5>
+<ul type="disc">
+  <li>An undergraduate major in one of      the earth sciences or archaeological sciences is recommended. </li>
+  <li>Preparation      beyond the minimum requirements in mathematics, physics, and chemistry is      strongly recommended.</li>
+</ul>
+<h5>Marine Chemistry and Geochemistry</h5>
+<ul type="disc">
+  <li>An      undergraduate major in chemistry, geology, biochemistry, or related field      is required.  </li>
+</ul>
+<h4>Ocean Biosciences Program (OBP)</h4>
+<h5>Biological Oceanography</h5>
+<ul type="disc">
+  <li>Two years of chemistry, including      general and organic chemistry, and a year of general biology are required.</li>
+  <li>Physical chemistry requiring      calculus may be substituted for physics requiring calculus where a more      elementary physics course was taken. </li>
+  <li>Zoology or botany may be      substituted for general biology. Preparation should also include a course      in general geology and at least one course in each of the following      categories: systematics (e.g., invertebrate zoology), population biology      (e.g., ecology), functional biology (e.g., physiology). </li>
+  <li>In      special cases, other advanced courses in mathematics or natural sciences      may be substituted for certain required courses.</li>
+</ul>
+<h5>Marine Biology</h5>
+<p><strong>Marine Biology        </strong></p>
+<ul type="disc">
+  <li>An undergraduate major in one of      the biological sciences (or equivalent), with basic course work in botany,      microbiology, or zoology. </li>
+  <li>Two years of chemistry, including      organic chemistry, is required. </li>
+  <li>Training      in one or more of the following areas is strongly recommended: cellular      biology, molecular biology, comparative physiology, genetics,      developmental biology, ecology, evolutionary biology, vertebrate and      invertebrate zoology, microbiology, and/or botany. Biochemistry and      physical chemistry will be expected of students in experimental biology,      although the student may, if necessary, enroll in these courses at UC San      Diego after admission. </li>
+  </ul>
+    <p><strong>Marine Chemical Biology Track</strong></p>
+    <ul>
+      <li>An undergraduate major in chemistry, biochemistry, biology, marine biology or allied fields is required.</li>
+      <li>All applicants should have taken undergraduate organic chemistry and biochemistry course series (preferably the “majors” yearlong course series)</li>
+      <li>The GRE Subject Exam in Chemistry or Biology is optional.</li>
+    </ul>
+    <h3>The Master of Science</h3>
+<p>The Scripps Department offers instruction leading to master of science (MS) in oceanography, marine biology, and earth sciences. The curricular requirements for each academic program are the same for students admitted to the MS program and students obtaining an MS on the way to the PhD. The students in applied ocean science and physical oceanography curricular groups are typically awarded an MS in oceanography. The students in climate science, geophysics, geosciences, and marine chemistry and geochemistry curricular groups are typically awarded an MS in earth sciences or oceanography. The students in biological oceanography and marine biology curricular groups are typically awarded an MS in marine biology or oceanography. Students can petition the appropriate degree title based on approval of their guidance committee chair and the department chair.</p>
+<h4>Curricular Requirements</h4>
+<h5>Plan I—Thesis</h5>
+<p>This course of study involves both course work and research; culminating in the preparation of a thesis. A total of thirty-six units of credit is required: twenty-four units must be in course work, including all required course work within the appropriate curriculum and additional units in recommended electives; and twelve units must be in research work (SIO 299) leading to the thesis. Students interested in completing Plan I should seek approval from their guidance committee prior to enrollment.</p>
+<h5>Plan II—Comprehensive Exam</h5>
+<p>This course of study involves course work and requires students to pass a comprehensive final examination, also referred to as the departmental examination. A total of thirty-six units of credit is required: twenty-four units in graduate course work, including at least fourteen units in graduate-level courses in the major field; and twelve additional units in graduate or upper-division courses.</p>
+<p>All Plan II MS candidates normally will be required to take a departmental examination at the end of spring quarter of the first year. The examination will be oral and/or written depending on the curricular group.</p>
+<h3 class="program-overview-subhead-2">Programs of Study </h3>
+				<p>Programs of study vary widely among the curricular groups, and admitted master’s students and PhD students who would like to obtain the MS are expected to enroll in required courses as specified below. Students are assigned a guidance committee consisting of three faculty members. The guidance committee is charged with advising the student on necessary course work degree requirements. The guidance committee also provides individualized guidance to students about courses of study that may reach beyond a single curricular area.</p>
+<h4>Climate-Ocean-Atmosphere Program (COAP)</h4>
+<p>The curricular group programs of study are as follows:</p>
+<h5>Applied Ocean Science Master of Science (MS) Curriculum </h5>
+<p>The applied ocean science academic program is designed to provide both a broad background and a core technical base to support the diverse interests and activities of the students. </p>
+<h6>Required course work:</h6>
+<ul type="disc">
+  <li>SIOC 202A and SIOC 202B. Fundamentals      of Wave Physics (two-quarter sequence; four units each)</li></ul>
+
+    <p>Any two of the following SIO introductory courses: </p>
+  <ul>
+  <li>SIOC 210. Physical Oceanography (four      units)</li>
+  <li>SIOG 240. Marine Geology (four units)</li>
+  <li>SIOG 260. Marine Chemistry (four units)</li>
+  <li>SIOB 280. Biological Oceanography (four      units)</li>
+  </ul>
+<h6>Elective course work:</h6>
+<p>MS students may fulfill the remaining units of required course work through elective course offerings selected in consultation with the students&rsquo; guidance committee. In addition, enrollment in SIOC 208 (Seminar in Applied Ocean Sciences, one unit per quarter) is expected during the student&rsquo;s entire period of study. SIOC 208 serves as a communications bridge across the program.</p>
+<h6>Comprehensive examination (MS Plan II students only):</h6>
+<p>The applied ocean science comprehensive examination is based on the core technical courses SIOC 202A and 202B, and two of the four introductory courses (SIOC 210, SIOG 240, SIOG 260, SIOB 280), chosen by the student. The exam has both oral and written components.</p>
+<h5>Climate Sciences Master of Science (MS) Curriculum </h5>
+<p>The emphasis of climate sciences is on education through interdisciplinary research. Though the group stresses interactions across disciplines, students will specialize in a particular subdiscipline or track that will be chosen by the student following discussions with their guidance committee soon after arrival. Examples of current tracks include: (1) atmospheric/ocean/climate dynamics and physics; (2) atmospheric chemistry (emphasizing climatic interactions); and (3) paleoclimate studies. Additional course requirements for these tracks will be tailored to the needs of the individual student.</p>
+<h6>Required course work:</h6>
+<ul type="disc">
+  <li>SIOC 210. Physical Oceanography (four      units)</li>
+  <li>SIOC 217A, SIOC 217B, and SIOC 217C.      Atmospheric and Climate Sciences I-III (four units each) </li>
+  <li>SIOG      260. Marine Chemistry (four units)</li>
+</ul>
+<h6>Elective course work:</h6>
+<p>Students may fulfill the remaining units of required course work through elective course offerings selected in consultation with the students&rsquo; guidance committee. For most climate sciences students this includes at least one additional quarter of fluid dynamics. </p>
+<h6>Comprehensive examination (MS Plan II students only):</h6>
+<p>The climate sciences departmental exam consists of a written portion and an oral portion.</p>
+<h5>Physical Oceanography Curriculum</h5>
+<p>The physical oceanography curriculum combines a comprehensive program of course work with individually tailored specialization to meet student needs. </p>
+<h6>Required course work (twenty units selected from the following designated courses):</h6>
+<ul type="disc">
+  <li>SIOC 203A and SIOC 203B. Introduction      to Applied Mathematics I-II (four units each)</li>
+    <li>SIOC      210. Physical Oceanography (four units)</li>
+    <li>SIOC      211A. Ocean Waves (four units)</li>
+
+  <li>SIOC 212A and SIOC 212B. Geophysical Fluid Dynamics I-II (four units each)</li>
+  <li>SIOC      214A. Introduction to Fluid Mechanics (four units)</li>
+  <li>SIOC 221A      and SIOC 221B. Analysis of Physical Oceanographic Data A-B (four units each)</li>
+  
+</ul>
+<h6>Elective course work:</h6>
+<p>Students may fulfill the remaining units of required course work through elective course offerings selected in consultation with the students&rsquo; guidance committee. These might come from the Scripps Department’s core courses in other oceanographic disciplines (SIOG 240, Marine Geology; SIOG 260, Marine Chemistry; SIOB 280, Biological Oceanography) or from related graduate-level courses taught at UC San Diego.</p>
+<h6>Comprehensive examination (MS Plan II students only):</h6>
+<p>The physical oceanography MS comprehensive examination covers the material in the nine courses chosen by the student.</p>
+<h4>Geosciences of the Earth, Oceans, and Planets Program (GEO)</h4>
+<h5>Geophysics Master of Science (MS) Curriculum </h5>
+<p>The geophysics master&rsquo;s degree provides a solid grounding in the fundamentals of geophysics for students intending to pursue professional positions in government, industry, or nonprofit organizations or to apply to PhD programs. Two different degree options are available:</p>
+<p><strong>Plan I—Thesis. </strong>This involves both course work and research, culminating in the preparation of a thesis. A total of thirty-six units of credit is required: twenty-four units must be from the list of approved courses (see below) and twelve units in research work leading to the thesis. </p>
+<p><strong>Plan II</strong>—<strong>Comprehensive Exam (MS Plan II students only)</strong>. This course of study is intended to be completed in a single year and requires a minimum of thirty-six credit units. At least twenty-four units must be from Category A and will be selected in consultation with the geophysics curricular group coordinator. The remaining twelve units are electives chosen from either Category A or B, or other courses taken with permission of the geophysics curricular group coordinator. Students must pass a comprehensive final examination at the end of the spring quarter of the first year, which will cover material in the Category A course work.</p>
+<div>
+  <div> </div>
+</div>
+<h6>Category A courses  (twenty-four units):</h6>
+<ul type="disc">
+  <li>SIOG      223A Geophysical Data Analysis I (four units)</li>
+  <li>SIOG      223B. Geophysical Data Analysis II (four units)</li>
+  <li>SIOG      225. Physics of Earth Materials (four units)</li>
+  <li>SIOG      227A. Introduction to Seismology (four units)</li>
+  <li>SIOG      229. Gravity and Geomagnetism (four units)</li>
+  <li>SIOG      230. Introduction to Inverse Theory (four units)</li>
+  <li>SIOG 231.      Introduction to EM Methods in Geophysics (four units)</li>
+  <li>SIOG      234. Geodynamics (four units)</li>
+  <li>SIOG      236. Satellite Remote Sensing (four units)</li>
+  <li>SIOG      239. Special Topics in Geophysics—Numerical Methods (four units)</li>
+</ul>
+
+<h6>Category B courses  (twenty-four units):</h6>
+<ul type="disc">
+  <li>SIO      105. Sedimentology and Stratigraphy (four units)</li>
+  <li>SIO      110. Introduction to GIS and GPS for Scientists (four units)</li>
+  <li>SIO      113. Introduction to Computational Earth Science (four units)</li>
+  <li>SIO      160. Introduction to Tectonics (four units)</li>
+  <li>SIO      162. Structural Geology (four units)</li>
+  <li>SIO      182A. Environmental and Exploration Geophysics (four units) </li>
+  <li>SIO      182B. Environmental and Exploration Geophysics (four units)</li>
+  <li>SIOG      224. Internal Constitution of the Earth (four units)</li>
+  <li>SIOG      226. Introduction to Marine Geophysics (four units)</li>
+  <li>SIOG      227B. Advanced Seismology I (four units)</li>
+  <li>SIOG      227C. Advanced Seismology II (four units)</li>
+  <li>SIOG      233. Introduction to Computing (four units)</li>
+  <li>SIOG      239. Special Topics in Geophysics (four units)</li>
+  <li>SIOG      247. Rock Magnetism and Paleomagnetism (four units)</li>
+</ul>
+<p>Students are encouraged to participate in SIOG 239, Special Topics in Geophysics, where students have a chance to practice their speaking skills before their peers.</p>
+<h5>Geosciences Master of Science (MS) Curriculum </h5>
+<p>The geosciences curriculum consists of a series of core courses and a series of research focus courses. </p>
+<h6>Required course work:</h6>
+<ul>
+  <li>SIOG 240. Marine Geology (four units) </li>
+  <li>One geophysics course, from the following: <br>
+    SIO 103. Introduction to Geophysics (four units)<br>
+    SIOG 234. Geodynamics (four units)<br>
+  SIOG 247.      Rock Magnetism and Paleomagnetism (four units)</li>
+
+  <li>One geochemistry course, from the following: <br>
+    SIOG 245. Marine Sediments-Paleo Proxies (four units)<br>
+    SIOG 251. Whole Earth Geochemistry (four units)<br>
+    SIOG 252A. Introduction to Isotope Geochemistry (four units)</li>
+  <li>One geology course, from the following: <br>
+    SIO 105. Stratigraphy and Sedimentology (four units)<br>
+    SIO 160. Introduction to Tectonics (four units)    <br>
+    SIO 170. Introduction to Volcanology (four units)<br>
+    SIOC 201. Geological Record of Climate Change (four units)<br>
+  </li>
+</ul>
+
+<h6>Elective course work:<br>
+</h6>
+<p>Students may fulfill the remaining units of MS required course work through elective course offerings selected in consultation with the students&rsquo; guidance committee. Recommended course electives are below:</p>
+<ul>
+  <li>SIO      113. Introduction to Computational Earth Sciences (four units)</li>
+  <li>SIO      166. Environmental Archaeology (four units)</li>
+  <li>SIO 167.      Geoarchaeology in Theory and Practice (four units) </li>
+  <li>SIOG      221B. Analysis for Physical Oceanographic Data (four units)</li>
+  <li>SIOC      210. Physical Oceanography (four units)</li>
+  <li>SIOG      260. Marine Chemistry (four units)</li>
+  <li>SIOG      261. Introduction to Reology of Solid Earth (four units)</li>
+  <li>SIOG 270 Archaeology      of Climate Change (four units)</li>
+  <li>SIOB      280. Biological Oceanography (four units)</li>
+</ul>
+
+<h6>Comprehensive examination (MS Plan II students only): </h6>
+<p>The geosciences comprehensive exam consists of a written portion and an oral portion based on student selection of a set of &ldquo;Learning Outcomes&rdquo;—topic areas in which the student is expected to become a subject expert over their first year of study through both course work and outside reading and research.</p>
+<h5>Marine Chemistry and Geochemistry Master of Science (MS) Curriculum </h5>
+<h6>Required course work:</h6>
+<ul type="disc">
+  <li>SIOC 210. Physical Oceanography (four units)</li>
+  <li>SIOG 260. Marine Chemistry (four units)</li>
+  <li>Select one of the following:<br>
+    SIOG 240. Marine Geology (four units)<br>
+  SIOB 280. Biological Oceanography (four units)</li>
+</ul>
+<h6>Elective course work:</h6>
+<p>Students may fulfill the remaining units of required course work through elective course offerings selected in consultation with the students&rsquo; guidance committee.  </p>
+<h6>Comprehensive examination (MS Plan II students only):</h6>
+<p>The marine chemistry and geochemistry comprehensive exam will be an oral examination based on content of their required course work.</p>
+<h4>Ocean Biosciences Program</h4>
+<h5>Biological Oceanography Master of Science (MS) Curriculum</h5>
+<h6>Required course work:</h6>
+<ul type="disc">
+  <li>SIOC 210. Physical Oceanography (four units)</li>
+  <li>SIOG 260. Marine Chemistry (four units)</li>
+  <li>SIOB 280. Biological Oceanography (four units)</li>
+  <li>One of the following:<br>
+    SIOG 240. Marine Geology (four units)<br>
+      SIOG 255. Paleobiology and History of Life (six units) </li>
+  <li>One of the following:<br>
+    SIOB 270. Pelagic Ecology (four units)<br>
+    SIOB 270A. Fisheries Oceanography (four units)<br>
+    SIOB 275A. Benthic Ecology (four units)<br>
+  SIOB 277. Deep-Sea Biology (four units)</li>
+  <li>One of the      following:<br>
+    SIOB 271. Marine Zooplankton (five units)<br>
+  SIOB 282. Phytoplankton Diversity (four units)<br>
+  SIOB 283. Phycology: Marine Plant Biology (five units)<br>
+SIOB 284. Marine Invertebrates (six units)<br>
+SIOB 294. Biology of Fishes (five units)<br>
+SIOB 296. Marine Tetrapods (four units)
+  </li>
+</ul>
+<h6>Elective course work:</h6>
+<p>Other course work required for the Plan II masters will be recommended by the student&rsquo;s guidance committee, usually including one quarter of SIOB 278, Seminar in Ocean Biosciences (or equivalent participatory seminar), each quarter; a course in introductory parametric statistics; and at least one advanced-level course in physical, chemical, or geological oceanography. </p>
+<h6>Comprehensive examination (MS Plan II students only):</h6>
+<p>The biological oceanography oral comprehensive departmental examination covers the material in the required courses.</p>
+<h5>Marine Biology Curriculum</h5>
+<h6>Required course work:</h6>
+<ul type="disc">
+  <li>SIOC 210.      Physical Oceanography (four units)</li>
+  <li>SIOG 260.      Marine Chemistry (four units)</li>
+  <li>SIOB 280. Biological Oceanography (four units)</li>
+</ul>
+<h6>Elective course work:</h6>
+<p>Students may fulfill the remaining units of required course work through elective course offerings that may be recommended by the guidance committee. This typically includes SIOB 290, Marine Biology.</p>
+<h6>Comprehensive examination:</h6>
+<p>For MB&rsquo;s oral comprehensive examination, students will be expected to demonstrate competence in the material covered in the required course work as well as any other course work recommended by the guidance committee.</p>
+<h5>Marine Chemical Biology Track</h5>
+<h6>Required course work:</h6>
+<ul type="disc">
+  <li>SIOC 210.      Physical Oceanography (four units)</li>
+  <li>SIOG 260.      Marine Chemistry (four units)</li>
+  <li>SIOB 280. Biological Oceanography (four units)</li>
+</ul>
+<h6>Elective course work:</h6>
+<p>Students may fulfill the remaining units of required course work through elective course offerings selected in consultation with the students&rsquo; guidance committee. Typical recommended electives are below:</p>
+<ul type="disc">
+  <li>Chem 257. Bioorganic and Natural Products Chemistry (four units)</li>
+  <li>SIOG 232. Ethical and Professional Science (two units) or equivalent</li>
+  <li>SIOB 242 A-B. Marine Biotechnology I and II (eight units)</li>
+  <li>SIOB 264. Special Topics in Marine Natural Products Chemistry (three units)</li>
+  <li>Select at least one of the following:<br>
+    Chem 254. Mechanisms of Organic Reactions (four units) and/or <br>
+    Chem 258. Applied Spectroscopy (four units)  </li>
+</ul>
+<h6>Comprehensive examination (MS Plan II students only):</h6>
+<p>The MCB track comprehensive examination consists of an oral exam based on course work.</p>
+<h3>Scholarship Requirement</h3>
+<p>All course work used to complete the course unit requirements must be taken for a letter grade (A–F), except for seminars for which only S/U grades are allowed. Students must maintain a GPA of 3.0 overall.</p>
+<h3>Language Requirements </h3>
+				<p>The department has no formal language requirements. All students must be proficient in English. </p>
+        <h3>Special Financial Assistance and Fellowships</h3>
+				<p>Students may obtain teaching assistantships, and graduate student researcher positions, fellowships, and other awards available on a campuswide competitive basis.</p>
+				<h2>The Doctoral Program</h2>
+        <h3>Programs of Study </h3>
+                <p>Programs of study vary widely among the curricular groups, but generally 				 first-year students are expected to enroll in core courses that cover physical, 				 geological, chemical, and biological oceanography. Each first-year student 				 is assigned a guidance committee consisting of three faculty members. The 				 guidance committee is charged with advising the student during the first 				 year, leading to the departmental exam. The intention is to provide individualized 				 guidance to students particularly including advice about courses of study 			 that may reach beyond a single curricular group. </p>
+                <p>By the end of the first year, students usually select a particular      area of focus and choose an adviser. As students advance beyond      the first year, they begin to function effectively as research      assistants or, in some cases, as teaching assistants. During      their third to fifth year they are working toward writing their      dissertations. </p>
+                <p>Programs of study for the first year vary among the three      programs.</p>
+                <h4>Climate-Ocean-Atmosphere Program</h4>
+                <p>Doctoral students admitted  to Climate-Ocean-Atmosphere Program (COAP) choose a curricular group by the end of the fall quarter. This choice is aided by the student&rsquo;s guidance committee, which includes a chair or curricular group adviser from one of the COAP curricular groups. The guidance committee will help to arrange an individually tailored set of first-year courses for the student, and to ensure that the student has taken all necessary courses to prepare for the departmental exam. During the year, students may be supported in a variety of ways, but by the end of the spring quarter students must choose a research adviser. After the first year the guidance committee is dissolved,  and the research adviser and dissertation committee provide guidance.</p>
+                <p><strong>Applied Ocean Science</strong>—The Applied Ocean Science (AOS) academic program is designed to provide both a broad background and a core technical base to support the diverse interests and activities of the students. Early participation in an ongoing research project is encouraged. However, specialization and focus on a specific thesis topic is not required until the second or third year of the program. Required courses include the two-quarter Wave Physics sequence, SIOC 202A-B. Two of the four SIO introductory courses (SIOC 210, SIOG 240, SIOG 260, SIOB 280), must be completed during the first year, with the remaining two required prior to passing the doctoral qualifying exam at the end of the third year. In addition, the applied math sequence SIOC 203 A-B or MAE 294 A-B is taken in either the first or second year of study. The AOS Seminar, SIOC 208 serves as a communications bridge across the program; enrollment in this seminar is required during the student&rsquo;s entire period of study. Beyond these core classes, the majority of each student&rsquo;s academic program is tailored to individual interests. The AOS departmental examination, held at the end of the first year, is based on the core technical courses SIOC 214A, SIOC 202A-B, and two of the four introductory courses (chosen by the student). The exam has both oral and written components. </p>
+                <div>
+                  <div> </div>
+                </div>
+<p><strong>Climate Sciences</strong>—The emphasis of this curricular group is on education through interdisciplinary research. All students are responsible for the fundamental material in the following core courses: SIOC 210, SIOC 217A-B-C, and SIOG 260. Students are also expected to supplement their backgrounds with five to seven additional courses, including, for most climate sciences students, at least one additional quarter of fluid dynamics (SIOC 214A). These additional course(s) will be chosen in consultation with the students&rsquo; advisers. It is recommended that students participate actively in at least two quarters of seminar courses designed to complement and stimulate individual research. Though the group stresses interactions across disciplines, students will specialize in a particular subdiscipline or track that will be chosen by the student following discussions with a three-person guidance committee soon after arrival. Examples of current tracks include: (1) atmospheric/ocean/climate dynamics and physics; (2) atmospheric chemistry (emphasizing climatic interactions); and (3) paleoclimate studies. Additional course requirements for these tracks will be tailored to the needs of the individual student. </p>
+                <p><strong>Physical Oceanography</strong>—The physical oceanography curriculum combines a comprehensive program of course work with individually tailored specialization to meet student needs. At the start of each quarter during the first year, the guidance committee meets with students to help them select course work appropriate for their individual research interests. For example, students might choose to focus on observational physical oceanography, theoretical physical oceanography, or atmosphere/ocean interactions. Students in all areas of physical oceanography are required to take SIOC 203A-B, SIOC 214A, and SIOC 212A. Twelve additional four-unit graduate courses are required to meet the PhD requirement. Students normally take a total of twelve four-unit graduate courses in the first year, and at least four additional four-unit courses after the first year. For PhD students who apply to receive an MS, a total of nine four-unit courses are required. As part of the overall requirement, course work should include a breadth component of two or more four-unit courses in other scientific disciplines. These might come from the Scripps Department core courses in other oceanographic disciplines (SIOC 240, SIOG 260, SIOB 280) or from related graduate-level courses taught at UC San Diego. </p>
+<p>Any exception to the policy above requires written approval by the department chair in consultation with the guidance committee chair.</p>
+                <p>Physical oceanography students are required to take the departmental examination after completing one year of graduate work at UC San Diego. The examination covers the material in the four required courses and in eight additional first-year graduate courses chosen by the student in consultation with the guidance committee chair.</p>
+                <p>The Scripps Department  offers regular seminars in several areas of current interest. After the departmental exam, students in residence are strongly encouraged to enroll for credit in at least one one-unit seminar each quarter. </p>
+                <h4>Geosciences of the Earth, Oceans, and Planets</h4>
+                <p>Students admitted to Geosciences of the Earth, Oceans, and Planets (GEO) are assigned an adviser, who is the chair of the three-person guidance committee. Based on the student&rsquo;s interests and the major affiliation of the adviser, students are assigned to a curricular group on admission. Students must choose which curricular groups and which departmental exam they will take by the end of fall quarter of the first year. Departmental exams have similar structures among the curricular groups within GEOP but different content. Exams include both a written and oral component and are given during the summer following a students&rsquo; first year course work. The material covered is quite different between curricular groups so students must begin preparing for the particular exam from the start. Student support for the first year comes from a variety of sources including departmental fellowships and research grants. Students are encouraged to begin a research project from the beginning and typically do not hold teaching assistant positions during their first year. Students may change advisers during their first year, and they must find an adviser by the end of the first year. </p>
+<p><strong>Geophysics</strong>—There is no single course of study appropriate to the geophysics curriculum; instead, the individual interests of the student will permit, in consultation with the first-year guidance committee, a choice of course work in seismology,  geomagnetism, etc. The content of six core courses taken during the first year (SIOG 223B, SIOG 224, SIOG 225, SIOG 227A, SIOG 229, SIOG 234)  forms the basis for the written departmental examination. Those lacking adequate preparation in probability and statistics are encouraged to take SIOC 221B, or a comparable course, before enrolling in SIOG 223B.  Students should also consider taking SIOG 233 if they have little experience in programming. Finally, students are also encouraged to participate in the Special Topics seminars (SIOG 239) where students have a chance to practice their speaking skills before their peers. </p>
+                <div>
+                  <div> </div>
+                </div>
+                <p><strong>Geosciences</strong>—The geosciences curriculum consists of a series of core courses and a series of research focus courses. Students are expected to take at least nine classes and at least four units of research per quarter during their first year for a total of at least forty-eight units. </p>
+        <p>All students are responsible for material in Marine Geology (SIOG 240). </p>
+                <p>Additionally, students must take at least one geophysics, one geochemistry, and one geology class from the following groups of core classes. </p>
+                <p>Geophysics core classes include Introduction to Geophysics (SIO 103), Geodynamics (SIOG 234), Rock Magnetism and Paleomagnetism (SIOG 247), and Introduction to Marine Geophysics (SIOG 226). Geochemistry core classes include Marine Sediments-Paleo Proxies (SIOG 245),&nbsp;Whole Earth Geochemistry (SIOG 251), and Introduction to Isotope Geochemistry (SIOG 252A). Geology core classes include Stratigraphy and Sedimentology (SIO 105), Introduction to Volcanology (SIO 170), and Geological Record of Climate Change (SIOC 201). </p>
+                <p>Students are also encouraged to take Introduction to Computational Earth Science (SIO 113) Environmental Archaeology (SIO 166), Geoarchaeology in Theory and Practice (SIO 167), Analysis for Physical Oceanographic Data (SIOC 221B), Physical Oceanography (SIOC 210), Marine Chemistry (SIOG 260), Introduction to Rheology of Earth (SIOG 261), Archaeology of Climate Change (SIOG270), and Biological Oceanography (SIOB 280), but these may not be used to substitute for the geology, geophysics and geochemistry core requirements. </p>
+                <div>
+                  <div> </div>
+        </div>
+<p><strong>Marine Chemistry and Geochemistry</strong>—In their first year, doctoral students in this curricular group are required to take SIOC 210, SIOG 260, and either SIOB 280 or SIOG 240, as well as three additional elective courses. In their second year, students are required to take a further three elective courses. Although the exact choice of such courses will depend on the student&rsquo;s research interests, these required electives must be four-unit courses that are offered at the graduate level. Students should consult with their guidance committee when selecting courses. </p>
+                <h4>Ocean Biosciences Program</h4>
+                <p>Doctoral students admitted to Ocean Bioscience Program (OBP) are assigned an adviser, who is a chair of the three-person guidance committee. Students are assigned to a curricular group based on their interests. Although students may change curricular groups near the beginning of the year, they must commit to a curricular group early on because this determines which departmental exam they will take. The biological oceanography departmental exam is an oral exam based on first-year course work. The Marine Biology exam is a written report and an oral presentation based on first-year research. The Marine Chemical Biology track departmental exam is a written report and seminar presentation based on first-year research, followed by an oral exam. The exams are administered after or near the end of spring quarter. During the year, students may be supported in a variety of ways. After the first year, the guidance committee is dissolved and the research adviser, and eventually the dissertation committee, provide guidance. </p>
+<p><strong>Biological Oceanography</strong>—Doctoral students will be expected to be familiar with the material presented in the following courses: SIOC 210, SIOG 260, SIOB 270 or SIOB 270A, SIOB 275A or SIOB 277, SIOB 280, at least one of SIOB 271, SIOB 282, SIOB 283, SIOB 284 or SIOB 294, and a graduate level course in statistics/quantitative analysis. Other course work will be recommended by the student&rsquo;s guidance committee.</p>
+<p>In addition, SIOB 278 (or equivalent participatory seminar) one quarter of each year, beginning in each student&rsquo;s first year. Participation in an oceanographic cruise (minimum of two weeks&rsquo; duration) and service as a teaching assistant (one quarter) are required.</p>
+<div>
+  <div> </div>
+</div>
+<p><strong>Marine Biology</strong></p>
+                <p><strong>Marine Biology (MB)</strong>—Marine biology doctoral students are expected to gain research experience in one or more laboratories during their first year. In the spring term of their first year at Scripps, students will take a departmental exam consisting of a presentation of their first-year research in the form of a paper and short talk to the curricular group, followed by a meeting with their first-year advisory committee. In this exam they also will be expected to demonstrate competence in the material covered in the following courses: SIOC 210, SIOG 260, and SIOB 280, as well as any other course work recommended by the advisory committee. MB doctoral students also must take at least two graduate-level marine organismal courses or labs. After their first year, students are expected to enroll and actively participate in at least one seminar course (SIOB 278, SIOB 296, or equivalent) per year that will provide in-depth knowledge and reading in selected areas, as well as practice presenting scientific material. In addition to the seminar requirement discussed above, second-year students will present their research in a special marine biology mini-symposium, held in spring quarter; students in the second through fourth years are expected to participate in the research presentation class (SIOB 291) each year.  </p>
+                <p><strong>Marine Chemical Biology (MCB)</strong>—Marine chemical biology students are required to complete SIO core courses including SIOC 210, Physical Oceanography; SIOG 260, Marine Chemistry; and SIOB 280, Biological Oceanography. In the spring term of their first year at SIO, students will take a departmental exam consisting of a presentation of their first-year research in the form of a paper and short talk to the curricular group, followed by a meeting with their first-year guidance committee. In this exam they also will be expected to demonstrate competence in the material covered in the following courses: SIOC 210, SIOG 260, and SIOB 280 as well as any other course work recommended by the guidance committee. Marine chemical biology graduate students are expected to gain research experience in one or more laboratories during their first year. Additional courses that are recommended as electives in this track, the exact composition of which will be decided by discussion between the student and the student&rsquo;s first-year guidance committee, include Chem 257, Bioorganic and Natural Products Chemistry; SIOB 242A-B, Marine Biotechnology I and II; SIO 264, Special Topics in Marine Natural Products Chemistry; and at least one of the following two courses: Chem 254, Mechanisms of Organic Reactions, and/or Chem 258, Applied Spectroscopy. These are typically taken over the first two years of study. Additional electives, seminar courses, and special topics courses in graduate science and oceanography are available. Second-year students will present their research along with students in the marine biology mini-symposium that is held in spring quarter.</p>
+                <h3>General Requirements for the Doctoral (PhD) Program</h3>
+        <h4>Ethics Requirement </h4>
+                <p>All PhD students are required to complete one of the approved UC San Diego Responsible Conduct of Research&nbsp;courses before taking their qualifying exam, effective July 2011. Students who previously advanced to candidacy&nbsp;and who will receive National Science Foundation or National Institutes of Health support prior to the completion of their PhD are also required to complete the ethics requirement to remain eligible for their grant support. Students could complete the ethics requirement by taking SIOG 232, Ethical and Professional Science, SIOB 273, Professional Ethics in Science, or one of the ethics courses listed, <a href="http://ethics.ucsd.edu/courses/index.html" target="_new"><u>http://ethics.ucsd.edu/courses/index.html</u></a>.</p>
+                <div>
+                  <div> </div>
+        </div>
+        <h4>Language Requirements </h4>
+                <p>The department has no formal language requirements. All students must be proficient in English.</p>
+        <h3>Qualifying Examinations </h3>
+				<p>When the student has passed the departmental examination (described above
+				 under each academic program) and has completed an appropriate period of
+				 additional study, the department will recommend appointment of a doctoral
+				 committee that will supervise the student’s performance and reporting of
+				 his or her research. The doctoral committee must be formed before the student
+			 may proceed to the qualifying examination.</p>
+				<p>The doctoral committee will determine the student&#8217;s qualifications for independent research by means of a qualifying examination, which will be administered no later than the end of the third year. The nature of the qualifying examination varies between curricular groups. In biological oceanography, marine biology, geosciences, physical oceanography, applied ocean science, and climate sciences the student will be expected to describe his or her proposed thesis research and satisfy the committee, in an oral examination, as to mastery of this and related topics. In marine chemistry and geochemistry the student, in an oral examination, is required to present and defend a single research proposition in his or her specialized area. The student also is required to provide a written summary of the research proposition, with references, prior to the examination. In geophysics, the student presents an original research problem, in the form of a written proposition, to the doctoral committee. The student&#8217;s oral presentation and defense of this proposition completes the examination. </p>
+				<h3>Dissertation </h3>
+				<p>A requirement for the PhD is the submission of a dissertation
+				 and a final examination in which the dissertation is publicly defended. Students
+				 are encouraged to publish appropriate parts of their theses in the scientific
+				 literature. Individual chapters may be published as research articles prior
+			 to completion of the dissertation. </p>
+<h3>Departmental PhD Time Limit Policies </h3>
+				<p>Students must complete a qualifying examination by the end of three years, and must be advanced to candidacy for the PhD by the end of four years. Total university support may not exceed seven years and total registered time at UC San Diego may not exceed eight years. </p>
+				<h3>Special Financial Assistance and Fellowships </h3>
+				<p>In addition to teaching assistantships, and graduate student researcher positions, fellowships, traineeships, and other awards available on a campuswide competitive basis, the department has available a certain number of fellowships and graduate student researcher positions supported from research grants and contracts, or from industrial contributions. </p>
+        <h3>PhD in Earth Sciences, Marine Biology, or Oceanography with a Specialization in Interdisciplinary Environmental Research </h3>
+<p>A graduate specialization in Interdisciplinary Environmental Research (PIER) is available for select doctoral students. PIER students seek solutions to today's environmental challenges. <strong> </strong></p>
+				<p>The PhD specialization is designed to allow students to obtain standard training in their chosen field and an opportunity to interact with peers in different disciplines throughout the duration of their doctoral projects. Such communication across disciplines is key to fostering a capacity for interdisciplinary &ldquo;language&rdquo; skills and conceptual flexibility.</p>
+				  <h4 class="program-overview-subhead-2">
+	    Specialization Requirements </h4>
+                <ul type="disc">
+                  <li>Complete      all course work, dissertation, and other requirements of<strong> </strong>earth science, oceanography, or marine      biology PhD<strong>  </strong></li>
+                  <li>Sixteen-unit      interdisciplinary boot camp (summer, SIO 295S-295LS)</li>
+                    <li>Eight      units from a secondary field (outside the home department) </li>
+                    <li>Six      units (three quarters) Interdisciplinary Environmental Research Forum (SIO      296)</li>
+                    <li>At      least one chapter of the dissertation will be broadly related to      environmental research and will be interdisciplinary in nature. </li>
+        </ul>
+                
+                </ul>
+                <h4>
+                Application Requirements</h4>
+                <p><em>We advise students to begin PIER in their first year. Candidate to SIO must submit a one-page essay as part of application. The essay must state the candidate's specific interests in interdisciplinary environmental research and intended career goals. <br>
+                      Students who apply in their second year must submit the following items as a single PDF </em>to cmbc@ucsd.edu.<strong></strong></p>
+                <ul type="disc">
+                  <li>Student's      CV</li>
+                  <li>Half-page      abstract of proposed thesis work </li>
+                  <li>Up to one-page      statement of student's interest in interdisciplinary environmental      research including career goals. </li>
+                  <li>Nomination      letter from adviser acknowledging student's academic ability and      interdisciplinary environmental interest.  <br>
+                  </li>
+        </ul>
+        <h4>Admission to the Specialization </h4>
+        <p>Students are admitted into the earth science, oceanography, or marine biology doctoral program. Admission to PIER is a competitive process with six to eight students granted admission each year from across ten participating UC San Diego departments. Selected applicants will have the opportunity to enroll in the specialization. </p>
+                  <h4>
+        PIER Fellowships</h4>
+        <p>When funding is available, all applicants will be considered for one year of PIER Fellowship support.</p>
+                <div>
+                  <div> </div>
+        </div>
+                <h3>Earthquake Science and Applied Geophysics Joint Doctoral Program with SDSU</h3>
+                <p>A joint graduate group from the geophysics program of Scripps Institution of Oceanography at the University of California San Diego (UC San Diego) and the Department of Geological Sciences at San Diego State University (SDSU) established a joint doctoral program in geophysics in 2010.&nbsp;The complementary specialties and ongoing, vigorous collaborations between the two groups result in two focus areas: earthquake science, and applied geophysics. Integrating geophysics at UC San Diego and SDSU provides outstanding opportunities for students to develop the skills needed to address important local, regional, and global societal problems where geophysics can contribute to the solutions. Strong capabilities are in</p>
+        <ol start="1" type="1">
+                  <li>earthquake-hazard      investigations (incorporating tools such as observational and      computational seismology, airborne and satellite-based geodesy and remote      sensing, and earthquake geology), and</li>
+                  <li>energy,      resource, and environmental exploration methods (mainly land and marine      seismology and electromagnetics).</li>
+        </ol>
+                <p>Graduates of the program will be prepared to begin rewarding geophysics careers and assume leadership roles as university faculty, government scientists, and industry researchers. Joint UC San Diego and SDSU committees administer and monitor the admission, advising, evaluation, graduation, and all other academic processes related to the joint doctoral program. Students will spend at least one academic year of residency at each campus. A doctor of philosophy (PhD) in geophysics will be awarded upon completion of the program in the names of The Regents of the University of California on behalf of UC San Diego and The Trustees of the California State University on behalf of SDSU. Prospective applicants should apply through SDSU. More information can be found at the San Diego State University website, <a href="http://www.geology.sdsu.edu/jdp/" target="_new">http://www.geology.sdsu.edu/jdp/. </a>				</p>
+                <h3 class="program-overview-subhead-2">Concurrent PhD/MBA Program</h3>
+  <p>The Scripps Department offers a concurrent degree program allowing interested PhD students to complete an MBA at the Rady School of Management. Students who are admitted to the Scripps Department may, with the consent of their academic adviser, apply to Rady, through the usual admissions process, to begin the MBA program no earlier than after the completion of their departmental exam, and no later than the fall quarter following their advancement to candidacy, in line with specific plans developed with their Scripps faculty advisers. An extensive independent study, jointly supervised by Scripps and Rady faculty, enables the student to develop linkages between Scripps and Rady studies. Interested students are encouraged to consult early with Rady MBA Admissions and with their Scripps academic advisers.</p>
+<p>For the <a href="../curric/MBC.html">Marine Biodiversity and Conservation MAS program</a>, refer to the separate <em>UC San Diego General Catalog</em> listing. </p>
+  <p>For the <a href="CSP.html">Climate Science and Policy MAS program</a>, refer to the separate <em>UC San Diego General Catalog</em> listing. </p>
+<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

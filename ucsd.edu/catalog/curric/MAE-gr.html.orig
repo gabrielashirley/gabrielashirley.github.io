@@ -1,0 +1,562 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Mechanical and Aerospace Engineering (MAE)</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+	<style type="text/css">
+<!--
+p.program-contact-info {}
+-->
+    </style>
+	<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Mechanical and Aerospace Engineering (MAE) </h1>
+<p class="sectionNav"><span class="courseFacLink">[ <a href="../curric/MAE-ug.html">undergraduate
+      program</a> | <a href="../courses/MAE.html">courses</a> | <a href="../faculty/MAE.html">faculty</a> ]</span></p>
+<p class="program-contact-info">STUDENT AFFAIRS: <br>
+  180 Engineering Building II<br>
+    Warren College <br />
+  <a href="http://maeweb.ucsd.edu" target="_blank">http://maeweb.ucsd.edu </a></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><p class="anchor-parent"><a class="anchor" id="grad"></a></p><h2 class="program-overview-subhead-1">The Graduate Program </h2>
+<p>The Department of Mechanical and Aerospace Engineering (MAE) at UC San Diego offers
+  graduate instruction leading to the <strong>MS and PhD in engineering
+  sciences </strong>with a designated specialization in each of the following
+  areas: aerospace engineering, applied mechanics, applied ocean sciences, engineering
+  physics, and mechanical engineering. </p>
+<p>In fall 2007, a new PhD specialization was introduced: computational science.
+  Computational science seeks to gain understanding principally through the analysis
+  of mathematical models on high performance computers.&nbsp;It is a blend of
+  applications, computations, and mathematics. It is a mode of scientific investigation
+  that supplements the traditional lab and theoretical models of acquiring knowledge.
+  This is done by formulating mathematical models whose solutions are approximated
+  by computer simulations.</p>
+<p>The computational science specialization leverages the strength of the existing mathematics, science, and engineering departments. PhD students must demonstrate advanced undergraduate-level proficiency in numerical analysis and in computer algorithms and data structures.</p>
+<p>For more information, please contact the MAE Graduate Affairs Office at <a href="mailto:mae-gradadm-l@ucsd.edu">mae-gradadm-l@ucsd.edu</a>.</p>
+<p>Admission to the graduate program is in accordance with the general requirements
+  of the graduate division, which requires a BS and/or MS in some
+  branch of engineering, the physical sciences, or mathematics; an overall GPA
+  of 3.0; and three letters of recommendation from individuals who can attest
+  to the applicant’s academic or professional competence and to the depth of
+  their interest in pursuing graduate study. In addition, all applicants are
+  required to submit GRE General Test scores. </p>
+<p>A minimum score of 550 on the paper based (80 on the IBT or 7 on the IELTS) Test of English as a Foreign Language (TOEFL)
+  is required of all international applicants whose native language is not English
+  and whose undergraduate education was conducted in a language other than English.
+  Students who score below 600 on the TOEFL examination are strongly encouraged
+  to enroll in an English as a second language program before beginning graduate
+  work. (UC San Diego Extension offers an excellent English language program
+  during the summer as well as the academic year.) </p>
+<p>Applicants are judged competitively. Based on the candidate&rsquo;s background, qualifications, and goals, admission to the program is in one of two categories: MS or PhD. The MS designation is reserved for students currently interested in obtaining an MS but who at a later time may wish to continue in the doctoral program. Admission to the PhD program is reserved for qualified students whose final aim is a doctoral degree. An MS can be obtained during the PhD program. Policies for possible changes in status
+  are given under “<a href="#masters">Master’s Degree Program</a>” below. </p>
+<p>For more information on admission to our graduate program, please go to <a href="http://maeweb.ucsd.edu/grad/admissions" target="_blank">http://maeweb.ucsd.edu/grad/admissions</a>.</p>
+<p>Nonmatriculated students are welcome to seek enrollment in MAE courses via
+  UC San Diego’s Extension’s Concurrent Enrollment program but an extension student’s
+  enrollment in an MAE graduate course must be approved by the instructor. </p>
+		<p class="anchor-parent"><a class="anchor" id="masters"></a></p><h2 class="program-overview-subhead-1">Master&#8217;s Degree Program</h2>
+				<p>The MS program is intended to extend and broaden an undergraduate background
+				  and/or equip practicing engineers with fundamental knowledge
+				  in their particular fields. The degree may be terminal or obtained on
+				  the way to the PhD. The degree is offered under both the Thesis Plan I
+				  and the Comprehensive Examination Plan II (see “<a href="../front/GradAdmission.html#master">Graduate
+				  Admission: Master’s Degrees</a>”). A strong effort is made to schedule MS
+				  level course offerings so that students may obtain their MS in one year of full-time study or two years of part-time study. </p>
+                <p><strong>MS Time Limit Policy: </strong>Full-time MS students
+                  are permitted seven quarters in which to complete all requirements.
+                  While there are no written time limits for part-time students,
+                  the department has the right to intervene and set individual
+                  deadlines if it becomes necessary. </p>
+        <h3 class="program-overview-subhead-2">Master&#8217;s Plan I—Thesis Defense</h3>
+				<p>This plan of study involves both course work and research, culminating
+				  in the preparation of a thesis. A total of thirty-six units
+				  of credit is required: twenty-four units (six courses)
+				  must be in course work, and twelve units must be in research (MAE 299).
+				  The student’s program is arranged, with prior approval of the
+				  faculty adviser, according to the following policies:</p>
+<ol>
+      <li>Course work must include at least sixteen units (four courses) of MAE
+	      200-level courses. </li>
+        <li>Units obtained in MAE 205 or 299 may not be applied toward the course
+          work requirement. </li>
+        <li>No more than a total of eight units of MAE 296 and 298 may be applied
+          toward the course work requirement. </li>
+        <li>No more than twelve units of upper-division 100-level courses (engineering-based
+          or technically serious) may be applied toward the course work requirement. </li>
+        <li>Only four units from the ENG series may be applied to the degree.</li>
+        <li>Twelve units of MAE 299 must be taken to fulfill the research requirement.</li>
+</ol>
+<p>The thirty-six units are arranged into three areas of specialization, organized
+  as follows:</p>
+<ul>
+  <li>Specialization 1: Three courses (four units each course)
+    </p>
+  </li>
+  <li>Specialization 2: Three courses (four units each course)</li>
+  <li>Specialization 3: Twelve units of MAE 299</li>
+</ul>
+<p>The two areas of specialization must be chosen from the
+  list below of MAE research areas. The third specialization can be one of the
+  listed MAE areas or a math/science area.</p>
+<h4>Current MAE Research Areas</h4>
+<ul>
+  <li>Applied and Solid Mechanics</li>
+  <li>Material Sciences</li>
+  <li>Fluid Mechanics</li>
+  <li>Thermal Sciences</li>
+  <li>Engineering Physics</li>
+  <li>Dynamics Systems and Controls</li>
+  <li>Environmental Engineering</li>
+  <li>Biomechanics</li>
+  <li>Design</li>
+</ul>
+<p>Students should reference the <a href="http://mae.ucsd.edu/sites/mae.ucsd.edu/files/Graduate%20Course%20Structure%20REV%202015.pdf" target="_blank">MAE Graduate Course Structure</a> to see which courses
+  fall into which of the research areas.</p>
+<p>Students must maintain at least a B average (3.00 GPA) in the courses taken to fulfill the degree requirements. All required courses for a degree must be taken for a letter grade, with the exception of MAE 299 research units, which may be taken as S/U only. A thesis based on the research is written and subsequently reviewed by the thesis adviser and two other faculty members appointed by the dean of Graduate Studies. The review is normally an oral defense of the thesis. </p>
+<h3 class="program-overview-subhead-2">Comprehensive Examination—Plan II </h3>
+				<p>This plan of study involves course work only and culminates in a comprehensive written examination. A total of&nbsp;thirty-six units of credit (nine courses) are required. The student&rsquo;s program is arranged, with prior approval of the faculty adviser, according to the following policies:</p>
+<ol>
+  <li>At      least twenty units (five courses)  of MAE 200-level courses. </li>
+  <li>Units      obtained in MAE 205 or 299 may not be applied toward the course work      requirements. </li>
+  <li>No      more than a total of eight units of MAE 296 and 298 may be applied toward      the degree requirements. </li>
+  <li>No      more than twelve units of upper-division 100-level courses      (engineering-based or technically serious) may be applied toward the degree      requirements. </li>
+  <li>Only      four units from the ENG series may be applied to the degree.</li>
+  
+</ol>
+
+                <p>These&nbsp;thirty-six units should be arranged into three areas of requirements,  organized as follows:</p>
+                <ul>
+                  <li>Required      Course: One course (4 units):</li>
+                    <ul type="circle">
+                      <li>MAE       208. Mathematics for Engineers</li>
+                    </ul>
+                    <li>Emphasis      Courses: Four courses (4 units each) from the following list:</li>
+                    <ul type="circle">
+                      <li>MAE       200. Controls</li>
+                      <li>MAE       201. Mechanics of Fluids</li>
+                      <li>MAE       202. Thermal Processes</li>
+                      <li>MAE       203. Solid Mechanics and Materials</li>
+                      <li>MAE       204. Robotics</li>
+                      <li>MAE       206. Energy Systems</li>
+                      <li>MAE       209. Continuum Mechanics Applied to Medicine/Biology</li>
+                    </ul>
+                    <li>Permitted      Electives: Four courses (4 units each) from the <a href="http://mae.ucsd.edu/sites/mae.ucsd.edu/files/Graduate%20Course%20Structure%20REV%202015.pdf" target="_blank">MAE      Graduate Student Course Structure</a></li>
+                </ul>
+        <p>The <strong>Comprehensive Examination </strong>is a formal, written exam. It will include two to three questions from each of the required emphasis courses. The exam will be offered once in mid- to late spring quarter, and a make-up exam will be offered again in summer. If the exam is not completed with a passing grade, the student will be allowed to retake the exam one time within a twelve-month period. If the student fails a second time, he or she will not be awarded the MS degree. </p>
+<p>Students must maintain at least a B average (3.00 GPA) in the courses taken to fulfill the degree requirements. All required courses for a degree must be taken for a letter grade, with the exception of MAE 299 research units, which may be taken as S/U only.</p>
+<div>
+      <div> </div>
+      <div> </div>
+      <div> </div>
+      </div>
+<p><strong>Change of Degree</strong>. Upon completion of the
+                  requirements for the MS, students admitted as MS
+                  only or MS candidates are not automatically eligible for
+                  admission to the PhD program. MS only candidates who subsequently
+                  wish to pursue a doctorate must submit an application for a
+                  change in status to their examining committee. If the recommendation
+                  is positive and the request approved, the student must submit
+                  a general petition for graduate students to effect the change
+                  of status. In addition, the examining committee may recommend
+                  that the examination satisfy one of the three topics required
+                  in the departmental qualifying examination for the doctorate.                </p>
+                <p>MS candidates who subsequently wish to pursue a doctorate must also submit an application for a change in status to their examining committee. In this case, a special examination is not required. The application, however, must be approved and signed by an MAE faculty member who expects to serve as the student&rsquo;s PhD adviser. When the request is approved, the student must submit a general petition for graduate students to effect the change of status. If the student elects the comprehensive examination plan for the MS, this examination may be used not only to fulfill the requirement for the MS, but also to satisfy one of the three topics required in the departmental qualifying examination for the doctorate. In fact, the MS examination may be part of the doctoral examination.</p>
+        <div>
+          <div> </div>
+                </div>
+        <h3 class="program-overview-subhead-2">MS Program </h3>
+				<p>To complete an MS with specialization in aerospace engineering, engineering physics, mechanical engineering, applied mechanics, or applied ocean sciences, students must complete a sequence of courses unique to their area. Students should consult with their faculty adviser, as well as the MAE Graduate Student Affairs Office, when choosing their courses. </p>
+				<h3 class="program-overview-subhead-2">Master of Advanced Studies in Medical Device Engineering (MAS) </h3>
+                <p>The Department of Mechanical and Aerospace Engineering (MAE) offers a master’s degree program in medical device engineering. This program targets working professionals in the fields of medical devices, instrumentation, and related areas. This program is for part-time students with an adequate background in engineering. All requirements for the degree can be completed in two years.</p>
+                <h4>Admissions</h4>
+                <p>Admissions requirements are equivalent to a master’s of science degree in MAE except that work experience may be substituted for GRE test scores. Requirements are as follows:</p>
+                <ul>
+                  <li>bachelor’s degree in engineering, mathematics, or physics</li>
+                  <li>undergraduate GPA of at least 3.0</li>
+                  <li>GRE OR two years prior work experience or currently employed in a medical device company or related industry</li>
+                  <li>three letters of recommendation, one of which is recommended to be from the applicant’s current employer</li>
+                  <li>TOEFL or TSE (international applicants only)</li>
+                </ul>
+                <h4>Final Project Capstone Requirement, No Thesis</h4>
+                <p>The MAS in medical device engineering will require a four-unit capstone course sequence (three courses). This is a project-based course sequence where students work individually or in small teams. The object is to design a medical device and develop an engineering strategy to carry the project from prototype to implementation.</p>
+<h4>Courses</h4>
+                <p>There are five required basic science and engineering courses (sixteen units) that deliver the core disciplinary knowledge in biology, mechanics, materials and physiology, and two required courses in business (four units). These courses are taught specifically to the students in the MAS program.</p>
+<h5>Seven required courses</h5>
+        <p class="course-list-overview"></p>
+        <ul type="disc">
+          <li>MDE 209. Mechanics and      Transport Phenomena for Biomedical Device Design</li>
+            <li>MDE 266. Biomaterials: Nano      to Macroscale</li>
+            <li>MDE      225A. BioBusiness: Small to Large I</li>
+              <li>MDE      225B. BioBusiness: Small to Large II</li>
+       
+          <li>MDE 230. Life Sciences and      Technologies</li>
+          <li>MDE 231A. Fundamentals of      Physiology and Anatomy I</li>
+          <li>MDE 231B. Fundamentals of      Physiology and Anatomy II</li>
+        </ul>
+<h5>Three required elective courses</h5>
+<ul type="disc">
+  <li>MDE 210. Medical Devices:      Clinical Perspectives</li>
+  <li>MDE 240. Embedded System      Design</li>
+  <li>MDE 292. Computer-Aided      Design of Medical Devices</li>
+</ul>
+<h5>Capstone course</h5>
+<ul>
+  <li>MDE 260 A, B, C. Design and Implementation of Medical Device Technology I, II, III (Capstone Design Project)</li>
+</ul>
+<p>The capstone course sequence (four units) is offered exclusively to MAS students.</p>
+<p>For more information on the MAS program, please visit <a href="http://maseng.ucsd.edu" target="_blank">maseng.ucsd.edu</a>.</p>
+<div>
+  <div> </div>
+  <div> </div>
+</div>
+<h2 class="program-overview-subhead-1">Doctoral Degree Program </h2>
+				<p>The MAE PhD program is intended to prepare students for a variety of
+				  careers in research and teaching. Therefore, depending on the
+				  student’s background and ability, research is initiated as soon as possible.
+				  In general, there are no formal course requirements for the PhD. All students,
+				  in consultation with their advisers, develop course programs that will
+				  prepare them for the MAE Departmental Qualifying Examination and for their
+				  dissertation research. However, these programs of study and research must
+				  be planned to meet the time limits established to advance to candidacy
+				  and to complete the requirements for the degree. Doctoral students who
+				  have passed the Departmental Examination may take any course for an S/U
+				  grade, with the exception of any course that the student’s Departmental
+				  or PhD Qualifying Examination Committee stipulates must be taken in order
+				  to remove a deficiency. It is strongly recommended that all MAE graduate
+				  students take a minimum of two courses (other than research) per academic
+				  year after passing the Departmental Qualifying Examination. Specific details
+				  in this regard can be obtained from the MAE Student Affairs Office. </p>
+                <p><strong>Doctoral Examinations: </strong>An MAE PhD student
+                is required to pass three examinations. The first is a <strong>Departmental
+                Qualifying Examination (DQE)</strong> that is intended to determine
+                the candidate’s ability to successfully pursue a research project
+                level appropriate for the doctorate. This first exam must be
+                taken within the first six quarters of registration as a graduate
+                student. The DQE is an oral examination by a committee of four
+                persons (two of which must be in the MAE department) and is based
+                on material taught over thirty-six units in three areas of study: a major
+                area (four courses), a minor area (two introductory courses),
+                and a study in mathematics or basic science (three courses).
+                Students must submit a plan of study, approved by their adviser,
+                to the Graduate Affairs Committee for final approval by the end
+                of their second quarter of graduate study.
+				</p>
+                <p>Students should reference the MAE <a href="http://mae.ucsd.edu/sites/mae.ucsd.edu/files/Graduate%20Course%20Structure%20REV%202015.pdf" target="_blank">Graduate Course Structure</a> for a plan of study and to see which courses fall into which of the research areas.</p>
+                <div>
+                  <div> </div>
+                </div>
+<p><strong>Teaching Experience</strong> is required of all MAE
+                  PhD students prior to taking the PhD Qualifying Exam. The
+                  teaching experience is defined as lecturing one hour per week
+                  in either a problem-solving section or regular lecture for
+                  one quarter in a course designated by the department. The requirement
+                  can be fulfilled by teaching assistant service or taken as
+                  a course for academic credit (MAE 501). Students must contact
+                the Student Affairs Office to plan for completion of this requirement. </p>
+                <p>The <strong>PhD Qualifying Examination</strong> is the second
+                  examination required of MAE PhD students. In preparation for
+                  the PhD Qualifying Examination, students must have completed
+                  the Departmental Qualifying Examination and the Departmental
+                  Teaching Experience requirement, obtained a faculty research
+                  adviser, and have identified a topic for their dissertation
+                  research and have made initial progress. At the time of application
+                  for advancement to candidacy, a doctoral committee responsible
+                  for the remainder of the student’s graduate program is appointed
+                  by the Graduate Council. The committee conducts the PhD Qualifying
+                  Examination, during which students must demonstrate the ability
+                  to engage in dissertation research. This involves the presentation
+                  of a plan for the dissertation research project. The committee
+                  may ask questions directly or indirectly related to the project
+                  and general questions that it determines to be relevant. Upon
+                  successful completion of this examination, students are advanced
+                  to candidacy and are awarded the candidate in philosophy degree
+                  (see “<a href="../front/GradAdmission.html">Graduate Admission</a>”
+                  section in this catalog). The <strong>Dissertation Defense</strong> is
+                  the final PhD examination. Upon completion of the dissertation
+                  research project, the student writes a dissertation that must
+                  be successfully defended in an oral examination and public
+                  presentation conducted by the doctoral committee. A complete
+                  copy of the student’s dissertation must be submitted to each
+                  member of the doctoral committee approximately four weeks before
+                  the defense. It is understood that the copy of the dissertation
+                  given to committee members will not be the final copy, and
+                  that the committee members may suggest changes in the text
+                  at the time of the defense. This examination may not be conducted
+                  earlier than three quarters after the date of advancement to
+                  doctoral candidacy. Acceptance of the dissertation by the Office
+                  of Graduate Studies and the university librarian represents
+                  the final step in completion of all requirements for the PhD. </p>
+                <p>There is no formal foreign language requirement for doctoral
+                  candidates. Students are expected to master whatever language
+                  is needed for the pursuit of their own research. </p>
+                <p><strong>PhD Time Limit Policy.</strong> Precandidacy status
+                  is limited to four years. Doctoral students are eligible for
+                  university support for six years (engineering physics, seven
+                  years). The defense and submission of the doctoral dissertation
+          must be within seven years (engineering physics, eight years).</p>
+                <p><strong>Evaluations.</strong> In the spring of each year,
+                  faculty advisers evaluate each doctoral student’s overall performance
+                  in course work, research during the past academic year, and
+                  prospects for financial support for the next year. A written
+                  assessment is given to the student. If a student’s work is
+                  found to be inadequate, the faculty adviser may determine that
+                  the student cannot continue in the doctoral program and will
+                  recommend dismissal to the dean of Graduate Studies. </p>
+                <div>
+                  <div> </div>
+                </div>
+<h3 class="program-overview-subhead-2">Joint Doctoral Program with San Diego
+	    State University </h3>
+				<p>The Department of Mechanical and Aerospace Engineering at UC San Diego participates
+				  in a joint doctoral program with the Graduate Group in Applied
+				  Mechanics at SDSU. The program leads to the degree of doctor of philosophy
+				  in engineering sciences (applied mechanics). Participants in the program
+				  are required to spend one year enrolled at UC San Diego; their dissertation research
+				  is carried out under the supervision of an SDSU faculty member. Information
+				  regarding admission may be obtained from the departmental Student Affairs
+			    Office.  </p>
+		<h3 class="program-overview-subhead-2">PhD in Mechanical and Aerospace Engineering with Specialization in
+				  Multiscale Biology</h3>
+                <p>As of fall 2010, the UC San Diego campus is offering a new PhD specialization
+                  in multiscale biology that will be available to doctoral candidates
+                  in participating programs that span four divisions: Biological
+                  Sciences, Physical Sciences, Jacobs School of Engineering,
+          and Health Sciences at UC San Diego.</p>
+                <p>The PhD specialization is designed to allow students to
+                  obtain standard basic training in their chosen field within
+                  the biological sciences, physical sciences, engineering, and
+                  health sciences with training in integrative and quantitative
+                  analysis across multiple scales of biological organization
+                  from molecule to organism in health and disease into their
+                  graduate studies. It trains a new cadre of PhD scientists
+                  and provides a unique interdisciplinary education at the interfaces
+                  between the biological, medical, physical and engineering sciences.                </p>
+                <p>The specific objectives of this program are</p>
+                <ol>
+                  <li><strong>Focused collaboration</strong> across nine graduate
+                    degree programs at UC San Diego to train a new generation of cross-disciplinary
+                    scientists </li>
+                  <li><strong>State-of-the-art interdisciplinary training</strong> through
+                    a new technology-centered hands-on graduate laboratory course
+                    curriculum </li>
+                  <li><strong>Novel emphasis on research</strong> aimed at
+                    integrative and quantitative analysis across multiple scales
+                    of biological organization from molecule to organism in health
+                    and disease</li>
+                </ol>
+                <p>Students in the specialization are required to take at minimum
+                  three laboratory courses and serve as a TA one course. Courses
+                  offered are as follows:</p>
+        <table border="0" cellpadding="0" cellspacing="0" class="sample-program">
+                  <tr>
+                    <td width="2%" valign="top"><p><strong>Lab</strong></p></td>
+                    <td width="9%" valign="top"><p><strong>Course Numbers</strong></p></td>
+                    <td width="22%" valign="top"><p><strong>Title</strong></p></td>
+                    <td width="24%" valign="top"><p><strong>Contributing Programs or Departments</strong></p></td>
+                    <td width="38%" valign="top"><p><strong>Instructors</strong></p></td>
+                    <td width="5%" valign="top"><p><strong>Quarter</strong></p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><p>1</p></td>
+                    <td valign="top"><p>BENG 283<br />
+                    Chem 28/<br />
+                    BIOM 283</p></td>
+                    <td valign="top"><p>Supramolecular Complex Characterization</p></td>
+                    <td valign="top"><p>Chemistry and Biochemistry, Bioinformatics</p></td>
+                    <td valign="top"><p>Komives (Chemistry and Biochemistry),
+                        Bafna (Computer Science and Engineering) </p></td>
+                    <td valign="top"><p>Spring</p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><p>2</p></td>
+                    <td valign="top"><p>BENG 276<br />
+                      Chem 276<br />
+                    Math 276<br />
+                    PHARM 276</p></td>
+                    <td valign="top"><p>Numerical Analysis for Multi-Scale Biology</p></td>
+                    <td valign="top"><p>Chemistry and Biochemistry, Mathematics,
+                        Bioengineering</p></td>
+                    <td valign="top"><p>McCammon (Chemistry and Biochemistry),
+                        Holst (Mathematics), Sejnowski (Biological Sciences)
+                        McCulloch (Bioengineering) </p></td>
+                    <td valign="top"><p>Spring</p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><p>3</p></td>
+                    <td valign="top"><p>NEU 260<br />
+                      Chem 260</p></td>
+                    <td valign="top"><p>Light and Electron Microscopy of Cells
+                        and Tissues</p></td>
+                    <td valign="top"><p>Neuroscience, Chemistry and Biochem­istry,
+                        Molecular Pathology, Biology</p></td>
+                    <td valign="top"><p>Martone, Sosinsky, Ellisman (Neurosciences),
+                        Baker (Chemistry and Biochemistry), Hanein (Pathology) </p></td>
+                    <td valign="top"><p>Spring</p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><p>4</p></td>
+                    <td valign="top"><p>BENG 278<br />
+                      RAD 278</p></td>
+                    <td valign="top"><p>Magnetic Resonance Imaging</p></td>
+                    <td valign="top"><p>Radiology, Bioengineering</p></td>
+                    <td valign="top"><p>Wong, Buxton, Frank, Liu (Radiology),
+                        Dale (Neurosciences) </p></td>
+                    <td valign="top"><p>Winter</p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><p>5</p></td>
+                    <td valign="top"><p>PHYS 245 BGGN 265</p></td>
+                    <td valign="top"><p>Optical Imaging of Structure and Function
+                        in Excitable Systems</p></td>
+                    <td valign="top"><p>Physics, Neurosciences, Radiology, Bioengineering,
+                        Medicine, Biology</p></td>
+                    <td valign="top"><p>Kleinfeld (Physics), Wang (Biological
+                        Sciences), Berns (Bioengineering) </p></td>
+                    <td valign="top"><p>Spring</p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><p>6</p></td>
+                    <td valign="top"><p>BENG 277 BIOM 287</p></td>
+                    <td valign="top"><p>Tissue Engineering</p></td>
+                    <td valign="top"><p>Bioengineering, Biomedical Science, Pediatrics,
+                        Pharmacology</p></td>
+                    <td valign="top"><p>Sah, Christman, Varghese (Bioengineering),
+                        Nigam (Pediatrics), Evans (Pharmacology) </p></td>
+                    <td valign="top"><p>TBA</p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><p>7</p></td>
+                    <td valign="top"><p>BENG 260 BGGN 260</p></td>
+                    <td valign="top"><p>Neurodynamics</p></td>
+                    <td valign="top"><p>Bioengineering, Biology</p></td>
+                    <td valign="top"><p>Cauwenberghs (Bioengineering)</p></td>
+                    <td valign="top"><p>Winter</p></td>
+                  </tr>
+                </table>
+       <p>Prospective students must apply and be admitted into the PhD
+                  program in mechanical and aerospace engineering described previously.
+                  (For more information, see the Mechanical and Aerospace Engineering
+                  Graduate program and/or the Interfaces Graduate Training Program
+                  administered within the Department of Chemistry and Biochemistry,
+          4010 York Hall, Revelle College.)
+</p>
+               
+		<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

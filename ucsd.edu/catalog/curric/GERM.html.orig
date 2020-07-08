@@ -1,0 +1,226 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>German Studies</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">German Studies </h1>
+<p class="sectionNav"><span class="courseFacLink">[ <a href="../faculty/GERM.html">faculty</a> | </span><a href="#CoreCou">core
+    courses</a> ]</p>
+<p class="program-contact-info">CAESAR Programs Advising<br />
+  Institute of Arts and Humanities <br>
+  Humanities and Social Sciences Building, 1105<br>
+  (858) 534-4551<br>
+  <a href="mailto:caesar@ucsd.edu" target="_blank">caesar@ucsd.edu<br>
+  </a><a href="http://caesar.ucsd.edu/german/index.html" target="_blank">http://caesar.ucsd.edu/german/index.html</a></p>
+<!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h3 class="program-overview-subhead-2">Program Description </h3>
+				<p>German Studies is an interdisciplinary program that offers both a major and a minor for students with broad academic interests in the German-speaking world. </p>
+				<p>In consultation with a faculty adviser in the program, students design individual plans of study from the many core courses offered in the Departments of History, Literature, Music, Philosophy, Political Science, Sociology, and Theatre and Dance. Further courses, including some offered by other departments, may be incorporated into the student&#8217;s program if  they bear directly on German studies. Students considering a major or minor should consult a member of the German Studies faculty as early as possible. </p>
+				<p>Students need to attain competence in German (two years of university-level language courses or the equivalent) before they can take certain required upper-division courses. It is recommended that students attain this level of competence early in the program. </p>
+				<h3 class="program-overview-subhead-2">Study Abroad </h3>
+				<p>All German Studies students are strongly encouraged to make overseas study an integral part of their program. The UC Education Abroad Program (EAP) conducts formal programs of study in Berlin and Potsdam ranging from one-quarter, intensive beginning language programs to a full year of study at a German university. Students may petition to use up to five courses completed while studying abroad in their major, and three in their minor. </p>
+				<h3 class="program-overview-subhead-2">Senior Honors Thesis </h3>
+				<p>At the beginning of his or her senior year, a student major in German Studies may elect to write a Senior Honor&#8217;s Thesis. To be eligible, the student must have a GPA of 3.5 in the German Studies major at the beginning of the senior year. </p>
+				<p>To begin work, the student forms a committee of three appropriate faculty members, including a committee chair, who is chosen from among the German Studies Core Faculty. The chair supervises the student in a two-quarter program of independent study to research and write an Honor&#8217;s Thesis of approximately thirty to fifty pages (GMST 196A/B; the two courses count among the required twelve for the major). The student defends the thesis in a one-hour oral exam with the full committee, which is charged with recommending the degree of honors that will appear on the student&#8217;s transcript and diploma. </p>
+				<h3 class="program-overview-subhead-2">The Major </h3>
+				<p>The major in German Studies requires twelve upper-division courses chosen from the core course list, and includes </p>
+				<p class="course-list-overview">German Studies I and II (LTGM 100 and 101)</p>
+				<p class="course-list-overview">Three courses in German literature</p>
+				<p class="course-list-overview">Two courses in history</p>
+				<p class="course-list-overview">Five additional core courses, taken in at least two different departments. At least two of these courses must be taken outside the literature department. </p>
+				<p class="basic-offset-top-only">Students plan their major in consultation with their German Studies faculty adviser and submit it to the program director for approval. </p>
+				<h3 class="program-overview-subhead-2">The Minor </h3>
+				<p>The minor in German Studies consists of seven courses, at least five of which must be upper division, including</p>
+				<p class="course-list-overview">German Studies I or II (LTGM 100 or 101)</p>
+				<p class="course-list-overview">At least six additional core courses, taken in at least two departments. </p>
+				<p class="basic-offset-top-only">Students plan their minor in consultation with their German Studies faculty adviser and submit it to the program director for approval. </p>
+				<p class="anchor-parent"><a class="anchor" id="CoreCou"></a></p><h3 class="program-overview-subhead-2">Core Courses </h3>
+				<p>Courses marked with an asterisk (*) frequently cover topics bearing on German Studies. Students should check the departments&#8217; quarterly course descriptions and yearly course spreads for their applicability to the program and discuss them in advance with their German Studies adviser. </p>
+				<h4>German Studies</h4>
+				<p class="course-list-courses">GMST 196A/B. Honors Thesis </p>
+				<h4>History </h4>
+				<p class="course-list-courses">HIEU 125. Reformation Europe</p>
+                <p class="course-list-courses">HIEU 132. Germany from Luther to Bismarck</p>
+                <p class="course-list-courses">HIEU 142. European Intellectual History: 1780–1870</p>
+                <p class="course-list-courses">HIEU 143. European Intellectual History: 1870–1945</p>
+                <p class="course-list-courses">HIEU 145. The Holocaust as Public History</p>
+                <p class="course-list-courses">HIEU 146. Fascism, Communism, and the Crisis of Liberal Democracy:
+                  Europe 1919–1945</p>
+                <p class="course-list-courses">HIEU 154. Modern German History: From Bismarck to Hitler</p>
+                <p class="course-list-courses">HIEU 177. Special Topics in Modern German Thought </p>
+        <div>
+                  <div> </div>
+                  <div> </div>
+          <div> </div>
+                </div>
+                <h4>Literature</h4>
+				<p class="course-list-courses">LTGM 2A. Intermediate German I</p>
+                <p class="course-list-courses">LTGM 2B. Intermediate German II</p>
+                <p class="course-list-courses">LTGM 2C. Intermediate German III</p>
+                <p class="course-list-courses">LTGM 100. German Studies I: Aesthetic Cultures</p>
+                <p class="course-list-courses">LTGM 101. German Studies II: National Identities</p>
+                <p class="course-list-courses">LTGM 130. German Literary Prose</p>
+                <p class="course-list-courses">LTGM 131. German Dramatic Literature</p>
+                <p class="course-list-courses">LTGM 132. German Poetry</p>
+                <p class="course-list-courses">LTGM 190. Seminars in German Culture</p>
+                <p class="course-list-courses">*LTEU 110. European Romanticism</p>
+                <p class="course-list-courses">*LTEU 111. European Realism</p>
+                <p class="course-list-courses">LTEU 125. Faust in European Literature</p>
+<p class="course-list-courses">LTEU 130. German Literature in Translation</p>
+                <p class="course-list-courses">LTEU 139. Marx, Nietzsche, Freud </p>
+                <p class="course-list-courses">*LTWL 4B. Fiction and Film in Twentieth-Century Societies</p>
+                <p class="course-list-courses">*LTWL 160. Women and Literature</p>
+                <p class="course-list-courses">*LTWL 172. Special Topics in Literature</p>
+                <p class="course-list-courses">LTWL 176. Literature and Ideas*</p>
+        <p class="course-list-courses">*LTWL 180. Film Studies and Literature: Film History</p>
+                <p class="course-list-courses">*LTWL 183. Film Studies and Literature: Director’s Work				</p>
+                <h4>Music </h4>
+				<p class="course-list-courses">*MUS 113. Topics in Classic, Romantic, and
+				  Modern Music </p>
+				<h4>Philosophy </h4>
+				<p class="course-list-courses">PHIL 106. Kant</p>
+                <p class="course-list-courses">PHIL 107. Hegel</p>
+                <p class="course-list-courses">*PHIL 108. Nineteenth-Century Philosophy</p>
+                <p class="course-list-courses">PHIL 180. Phenomenology</p>
+                <p class="course-list-courses">PHIL 181. Existentialism</p>
+                <p class="course-list-courses">*PHIL 183. Topics in Continental Philosophy</p>
+                <h4>Political Science</h4>
+                <p class="course-list-courses">POLI 110C. Revolution and Reaction: Political Thought from
+                  Kant to Nietzsche</p>
+                <p class="course-list-courses">POLI 114B. Marxist Political Thought</p>
+                <p class="course-list-courses">POLI 120B. The German Political System</p>
+                <p class="course-list-courses">POLI 120D. Germany: Before, During, and After Division</p>
+        <p class="course-list-courses">*POLI 120H. European Integration</p>
+                <h4>Sociology</h4>
+                <p class="course-list-courses">SOCI 178. The Holocaust </p>
+                <h4>Theatre and Dance</h4>
+                <p class="course-list-courses">*TDHT 101. Topics in Dramatic Literature and Theatre History</p>
+                <p class="course-list-courses">*TDHT 102. Masters of Theatre</p>
+                <div>
+                  <div> </div>
+                </div>
+                <title></title>
+  </p>
+<!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

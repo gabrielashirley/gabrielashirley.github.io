@@ -1,0 +1,243 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Mathematics and Science Education</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+	<style type="text/css">
+<!--
+p.program-contact-info {}
+-->
+    </style>
+	<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Mathematics and Science Education </h1>
+<p class="sectionNav"><span class="courseFacLink">[ <a href="../curric/MSED.html"> </a><a href="../courses/MSED.html">courses</a> | <a href="../faculty/MSED.html">faculty</a> ]</span></p>
+		<p class="program-contact-info"><a href="http://sci.sdsu.edu/CRMSE/msed/" target="_blank">http://sci.sdsu.edu/CRMSE/msed/</a></p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h2 class="program-overview-subhead-1">The Joint Doctoral Program </h2>
+				<p>UC San Diego and San Diego State University (SDSU) have created this innovative program for students who already have a master&rsquo;s degree in biology, chemistry, mathematics, or physics. In this program, students will complement their discipline knowledge with studies of how people learn mathematics and science. The UC San Diego Joint Doctoral Group in Mathematics and Science Education (MSED) currently consists of faculty from the Division of Biological Sciences and the Departments of Chemistry and Biochemistry, Cognitive Science, Communication, Education Studies, Mathematics, Philosophy, Psychology, and Sociology. The SDSU Program faculty is drawn from the Departments of Biology, Mathematical Sciences, Natural Sciences, Physics, Psychology, and the School of Education. </p>
+<p>The program includes research, practical applications, and formal course work. Students must commit at least four years to the program, and most students will complete the program in four to five years. An individualized course of study will be designed for each student, depending on the student&#8217;s background and interests. </p>
+				<p>The graduates of this program will be able to contribute to the developing body of knowledge about human cognitive processes in mathematics and science. They will be expected to maintain a strong connection to educational practice through teaching and application of research results on learning to instructional situations. </p>
+				<p>Information regarding admission is found in the current edition of the <a href="http://arweb.sdsu.edu/es/catalog/bulletin/" target="_blank"><em>Bulletin of the Graduate Division of San Diego State University.</em></a></p>
+				<h2 class="program-overview-subhead-1">PhD Time Limit Policies </h2>
+				<p>All time limits for this program start when a student first registers in this program. Students must be advanced to candidacy by the end of four years. Total university support to students in this program cannot exceed five years. Total registered time in this program cannot exceed six years. The normative time in this program is five years. </p>
+				<h2>Requirements for the Doctor of Philosophy Degree</h2>
+                <p><strong>Residency Requirements.</strong> After formal admission to the doctoral program, the student must complete a thirty-six-unit residency at the UC San Diego, of which a maximum of twelve units can be upper-division undergraduate courses (100 level). Lower-division undergraduate courses do not count toward residency. Students must also complete an eighteen-unit residency at San Diego State University. The residency requirements cannot be replaced by course work taken elsewhere. </p>
+                <p><strong>Language Requirement.</strong> There is no formal language requirement for the program. </p>
+                <p><strong>Course Requirements.</strong> All students admitted into the doctoral program will fulfill the following requirements. Any alternative method of fulfilling these requirements must be approved by the graduate advisers. Course descriptions can be found in the UC San Diego <em>General Catalog </em>(UC San Diego courses) and the SDSU <em>Graduate Bulletin </em>(SDSU courses). </p>
+
+                <ol class="upper-alpha"><li>Three research apprenticeship experiences <br>
+
+        <ul><li>SDSU: MSE 801<em> and</em></li>
+                <li>SDSU: MSE 802 <em>and </em>UC San Diego: MSED 295 (three units total, including one from each campus)<em>, and</em></li>
+                <li>SDSU: MSE 820 <em>or</em> UC San Diego: MSED 298.</p>
+                </li>
+        </ul></li><li>Core courses in mathematics or science education (five courses for science education and six courses for mathematics education)<br>
+         
+        <ul>
+                <li>UC San Diego: MSED 296A, 296B, 296C <em>and</em></li>
+                <li>SDSU: MTHED 603. </li>
+                <li>Science education students must also take SDSU: TE610C.</li>
+                <li>Mathematics education students must select two of the following additional courses: SDSU: MTHED 600, 601, 604, 605, 606, and 607.</p></li>
+        </ul></li><li>
+Three courses on quantitative and qualitative research methods<br>
+               
+                <ul><li>SDSU: MSE 810 <em>or </em>MTHED 810 <em>and </em>one of the following sequences:</li>
+       
+          <li>UC San Diego: PSYC 201A, 201B <em>or</em> </li>
+                <li>UC San Diego: MATH 282A, 282B <em>or</em></li>
+				  
+					    <li>UC       San Diego: EDS 254, 255.</li>
+			    
+                </ul>
+                
+                </p>
+                </li><li>Two courses in cognitive science at UC San Diego selected from
+                  <br>
+        <ul>
+          <li>COGS 102A; COGS 102B, 152/252, 155, 200, 203, 220, 260; <em>or one </em>of COGS 101A, 101B, 101C.</li>
+					</ul></p>
+                 
+                
+                 </li><li>One teaching practicum
+                   <br>
+                 <ul>
+                   <li>SDSU: MSE 805, 806, <em>or</em> 807 <em>or</em> </li>
+                   <li>UC San Diego: EDS 294, <em>or</em> Discipline 500.</li>
+					 </ul></p>
+
+        </li><li>Two courses from any of the following categories are selected with advisers according to the student&rsquo;s needs and background<br>
+                
+                  <ul type="circle">
+                    <li>Philosophy       and History. UC San Diego: PHIL 145, 146, 147, 209A; HISC 106, 107, 108,       109, 110, 160/260, 163/263, or 165.</li>
+                    <li>Sociology.       UC San Diego: SOCG 270, SOCI 117/EDS 117, or EDS 136/139, or SOCI 126/EDS       126.</li>
+                    <li>Equity       and Diversity. UC San Diego: EDS 113, 125, 250, 252, or 278.</li>
+                  
+           
+                  <li>Mathematics and Science. Graduate level courses in biology, chemistry, mathematics, or physics.</li>
+                  <li>Teaching Experience. An option for students who have not yet had teaching experiences at both the K–12 and collegiate levels is to take a second teaching practicum.</li>
+                  <li>Other. Other types of courses (at the graduate or upper-division undergraduate level) can be approved by the advisers if they contribute to a coherent program.</li>
+                </ul>
+            </p>
+                </li><li>Two doctoral research courses
+                  <br>
+        <ul>
+                  <li>SDSU: MSE 830 <em>or</em> MTHED 830, <em>and either </em>SDSU: MSE 899 <em>or</em> UC San Diego: MSED 299.        </li></p>
+        </ul></li></ol>
+        <p>Beyond these requirements, no specified number of courses is required for the doctoral degree. It is expected, however, that all the doctoral students will supplement the requirements with electives that contribute to individual career objectives. </p>
+        <p><strong>Additional Requirements for Students Entering with a Master&rsquo;s Degree in Mathematics Education.</strong> Students who are admitted into the doctoral program with a master&rsquo;s degree in mathematics education will increase the breadth and depth of their mathematical knowledge by fulfilling the requirements specified for Option A <em>or </em>Option B: </p>
+        <h6>Option A <br>
+        </h6>
+        <ul>
+          <li>UC San Diego: MATH 240A, 240B, 240C <em>and</em> <br>
+          </li>
+          <li>Pass the UC San Diego comprehensive examination on analysis at the master&rsquo;s level <em>and </em><br>
+          </li>
+          <li>One graduate algebra course. UC San Diego: MATH 200A or SDSU: MATH 620 or 623. MATH 623 can only be selected if the student has already taken a graduate level abstract algebra course. </li>
+        </ul>
+        <h6>Option B <br>
+        </h6>
+        <ul>
+          <li>Select two of SDSU: MATH 620, 621, 623,<em> and</em><br>
+          </li>
+          <li>Pass the SDSU comprehensive examination on algebra at the master&rsquo;s level <em>and </em><br>
+          </li>
+          <li>UC San Diego: MATH 240A</li>
+        </ul>
+        <p>Whether the student selects Option A or Option B, the yearlong sequence in algebra or analysis must be taken in Year 1 of the doctoral program. All of the requirements for Option A or Option B must be completed prior to the second year examination; however, students are strongly encouraged to fulfill all of the requirements in Year 1. A grade of B or better must be earned in each course. </p>
+        <p><strong>Examinations.</strong> Students in the doctoral program will be evaluated at the following levels: </p>
+        <ol>
+          <li><em>First Year Evaluation.</em> The student&rsquo;s ability to master graduate level course material may be assessed after completion of no more than twenty-four semester units of course work. This evaluation may take place not later than the third semester of the student&rsquo;s enrollment in the program. The evaluation will be based on the student&rsquo;s performance in course work and on indicated research competence, and it will be undertaken by the student&rsquo;s advisory committee together with instructors from the student&rsquo;s first-year courses. </li>
+          <li><em>Comprehensive Examinations.</em> At the end of the second year, the student will take a written comprehensive examination in general cognition and an oral examination on issues of learning pertinent to the student&rsquo;s area of specialization. </li>
+          <li><em>Oral Examination.</em> During the third year in the program, the student will make an oral presentation to the dissertation committee to accompany a written proposal for the doctoral thesis. The student will be questioned on both the topic of the investigation and on the proposed research methodology. Upon successful completion of this presentation, the student will be recommended for advancement to candidacy for the doctoral degree. </li>
+          <li><em>Dissertation Defense.</em> After completion of the dissertation, the candidate will present a public defense of the doctoral dissertation. A copy of the dissertation must be made available to the doctoral faculty at both institutions four weeks prior to the defense. Copies of the abstract of the dissertation, along with the announcement of the defense, must be publicly available four weeks before the defense. The student&rsquo;s dissertation committee will make a recommendation to the graduate deans to pass or fail the student. </li>
+        </ol>
+        <p><strong>Faculty Advisers.</strong> Upon admission to the doctoral program, the program directors will assign each student a faculty adviser at both universities. The faculty advisers will serve as advisers until the student&rsquo;s dissertation committee is appointed. </p>
+        <p><strong>Dissertation Committee.</strong> The dissertation committee will be composed of five members with at least two faculty members from each campus and at least one from a specialty other than that of the committee chair. The fifth faculty member must be tenured at either campus, must be from a specialty other than that of the committee chair, and may be from within or outside the MSED faculty. The student will select members of the dissertation committee in consultation with program faculty and the graduate advisers. </p>
+        <p><strong>Dissertation. </strong>Following the successful completion of all prescribed course work and qualifying examinations, the major remaining requirement for the PhD will be the satisfactory completion of a dissertation consisting of original research carried out under the guidance of the major professor. Approval of the completed dissertation attests that an organized investigation that expands the frontiers of knowledge and understanding in mathematics and science education has been carried out. </p>
+        <p><strong>Award of the Degree.</strong> The doctor of philosophy degree in mathematics and science education will be awarded jointly by the Regents of the University of California and the Trustees of the California State University in the names of both cooperating institutions. </p>
+        <h2>Financial Support</h2>
+                <p>San Diego State University and UC San Diego have a number of research and teaching associateships available to support students admitted to the joint doctoral program. All students applying to the program will be considered for financial support.</p>
+                <div>
+                  <div> </div>
+                </div>
+        <!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 

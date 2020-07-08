@@ -1,0 +1,636 @@
+<!doctype html>  
+<html lang="en"><!-- #BeginTemplate "/Templates/current template.dwt" --><!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Cognitive Science</title>
+<!-- #EndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--UNCOMMENT THIS LINE FOR WORKING VERSION, COMMENT THIS LINE FOR POSTING TIME --> <!--  <meta name="robots" content="noindex"> --> <!-- END OF COMMENT/UNCOMMENT LINE -->
+
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Structure styles -->
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- #BeginEditable "head" -->
+<!-- #EndEditable -->
+</head>
+<body>
+	<div class="navbar-fixed-top">
+		<header class="layout-header">
+			<a class="sr-only" href="#main-content">Skip to main content</a>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-sm-push-8"> 
+						<a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/ucsd-logo-blue-gold.png, 
+									../images/ucsd-logo-blue-gold-2x.png 2x" src="../images/ucsd-logo-blue-gold.png" alt="UC San Diego logo" class="img-responsive title-logo"></a> 
+					</div>
+
+					<div class="col-sm-8 col-sm-pull-4">
+						<p>
+							<a href="../index.html" class="title-header">General Catalog 2019&ndash;20 &nbsp;&nbsp;&nbsp;
+							February&nbsp;5,&nbsp;2020&nbsp;Interim&nbsp;UPDATE</a>
+							<!--COMMENT THIS LINE FOR LIVE VERSION/UNCOMMENT FOR WORKING VERSION--> <!-- &nbsp;<img class="review-site" src="../images/review-site.png" alt="" / --> <!--END OF GRAPHIC TO UNCOMMENT/COMMENT -->
+						</p>    
+					</div>
+				</div> <!-- end of .row -->
+			</div> <!-- end of .container -->
+		</header>
+
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<!--<li id="nav-contents"><a href="../front/content.html">Contents</a></li>-->
+					<li><a href="../front/courses.html">Courses/Curricula/Faculty</a></li> 
+
+				</ul>
+
+				<form class="navbar-form navbar-right" method="get" action="http://www-act.ucsd.edu/cwp/tools/search" target="_blank">
+					<div class="form-group">
+					  <input type="text" name="q" class="form-control" placeholder="Search">
+					  <input type="hidden" name="site" value="catalog">
+					</div>
+					<button type="submit" class="btn btn-default">Go</button>
+				</form>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container -->
+		</nav>
+	</div> <!-- end of .navbar-fixed-top -->
+
+	<div class="container">
+		<!-- #BeginEditable "main text" -->
+<h1 class="noTopBottomMargin">Cognitive Science </h1>
+<p class="sectionNav"><span class="courseFacLink">[ <a href="../curric/COGS-gr.html">graduate
+      program</a> | <a href="../courses/COGS.html">courses</a> | <a href="../faculty/COGS.html">faculty</a> ]</span></p>
+<p class="program-contact-info">140 Cognitive Science Building<br />
+<a href="http://www.cogsci.ucsd.edu" target="_blank">http://www.cogsci.ucsd.edu</a> </p><!-- #BeginLibraryItem "/Library/Curriculum Listing.lbi" -->
+<p><em>All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice. </em></p>
+<!-- #EndLibraryItem --><h2 class="program-overview-subhead-1">Introduction </h2>
+				<p>Cognitive science is a diverse field that is unified and motivated by a single basic inquiry: What is cognition? How do people, animals, or computers “think,” act, and learn? In order to understand the mind/brain, cognitive science brings together methods and discoveries from neuroscience, psychology, linguistics, philosophy, and computer science. UC San Diego has been at the forefront of this exciting field and the Department of Cognitive Science was the first of its kind in the world. It is part of an exceptional scientific community and remains a dominant influence in the field it helped create. </p>
+				<p>In addition to preparing undergraduates for careers in a variety of sciences, the major also provides an excellent background for many professional fields, including medicine, clinical psychology, and information technology. </p>
+				<p>The concerns of cognitive science fall into three broad categories: the brain—the neurological anatomy and processes underlying cognitive phenomena; behavior—the cognitive activity of individuals and their interaction with each other and their sociocultural environment, including the use of language, information, and media; and computation—the capacity of mathematical and computer systems to model cognitive and neural phenomena and represent information, and the role of computers as cognitive tools. </p>
+				<p>The department collaborates closely with other academic departments and research communities, including the Center for Research in Language, the Center for Human Development, the Salk Institute for Biological Studies, the UC San Diego Medical Center, the San Diego Supercomputer Center, the Center for Functional Magnetic Resonance Imaging Center, and the new Kavli Institute for Brain and Mind, providing many outstanding resources and opportunities. </p>
+				<p>Students are encouraged to participate actively in the department by sharing their ideas about curriculum, research, and other topics with faculty and staff. Undergraduate students should join the Cognitive Science Student Association, which provides opportunities for undergraduates to meet students and faculty from UC San Diego and other institutes, visit research laboratories, and make job contacts. Graduate students take an especially active role in shaping the department, both academically and administratively, while they gain experience in research, teaching, and managing both labs and department affairs. </p>
+				<p class="anchor-parent"><a class="anchor" id="undergrad"></a></p><h2 class="program-overview-subhead-1">The Undergraduate Programs </h2>
+				<p>The department offers both a BA and a BS degree in Cognitive Science (Major Code: CG25). The BS requires completion of more rigorous lower-division course work and additional upper-division level computation course. The BS degree may be taken optionally with a specified area of specialization. Additionally the department offers a BS degree in Cognitive and Behavioral Neuroscience (CBN). There is also an honors program for exceptional students.</p>
+				<p>Degrees offered include:</p>
+                <ul type="disc">
+                  <li>Cognitive Science Bachelor of Arts</li>
+                  <li>Cognitive Science Bachelor of Science</li>
+                  <li>Cognitive Science Bachelor of Science with a Specialization in      Clinical Aspects of Cognition</li>
+                  <li>Cognitive Science Bachelor of Science with a Specialization in      Design and Interaction</li>
+                  <li>Cognitive Science Bachelor of Science with a Specialization in      Machine Learning and Neural Computation</li>
+                  <li>Cognitive Science Bachelor of Science with a Specialization in      Neuroscience</li>
+                  <li>Cognitive Science Bachelor of Science with a Specialization in      Language and Culture</li>
+                  <li>Cognitive and Behavioral Neuroscience Bachelor of Science</li>
+                </ul>
+        <h3>Areas of Specialization </h3>
+                <p>A major may elect to receive a BS in cognitive science with an area of specialization. The areas of specialization are intended to provide majors with guidance in choosing elective courses and to make the specific interests and training of a major clear to prospective employers and graduate schools. Specifying an area of specialization is optional; however, students should take into consideration when planning for their specialization that approved courses are not necessarily offered every year. </p>
+                <p>To major in cognitive science with an area of specialization, the student must fulfill the requirements for the BS degree and must choose four of the required six elective courses from a list of approved electives for that area of specialization. (The lists of approved electives for each area of specialization are available in the department office and on our website.) <br>
+                  The following areas of specialization are currently offered by the department: </p>
+                <h4>Specialization in Clinical Aspects of Cognition </h4>
+                <p>This area of specialization is intended for majors interested in cognitive neuropsychology, psychiatry, cognitive disorders, and the effects of drugs and brain damage on cognitive functions. Allowed electives include courses in those topics, as well as organic chemistry, biochemistry, and physiology. Major code: CG31.</p>
+                <h4>Specialization in Design and Interaction </h4>
+                <p>This area of specialization is intended for majors interested in human computer interaction, web design, visualization, and applications of cognitive science in design and engineering. Allowed electives currently include advanced courses in cognitive science, computer science, computer engineering, and visual arts. Major code: CG33.</p>
+<h4>Specialization in Language and Culture </h4>
+
+                <p>This area of specialization is intended for majors whose primary interests include human psychology and applications of cognitive science in design and engineering. Allowed electives include courses in cognitive development, language, laboratory research of cognition, anthropology, and sociology. Major code: CG34. </p>
+                <h4>Specialization in Machine Learning and Neural Computation </h4>
+                <p>This area of specialization is intended for majors interested in computational and mathematical approaches to modeling cognition or building cognitive systems, theoretical neuroscience, as well as software engineering and data science. Allowed electives include advanced courses in neural networks, artificial intelligence, and computer science. Major code: CG35. </p>
+<h4>Specialization in Neuroscience </h4>
+        <p>This area of specialization is intended for majors interested in neuroscience research or medicine. Allowed electives include courses in cognitive neuroscience, organic chemistry, biochemistry, and physiology. Major code: CG29.</p>
+        <div></div>
+<h3 class="program-overview-subhead-2">Grade Requirements for the Major </h3>
+				<p>A minimum grade point average of 2.0 is required for admittance to and graduation from the BA or BS degree program. Students must receive a grade of C– or better in any course to be counted toward fulfillment of the major requirements. All courses must be taken for a letter grade, with the exception of Cognitive Science 195, 198, and 199, which are taken Pass/Not Pass. </p>
+				<h4>Course Requirements for the Bachelor of Arts</h4>
+        <p>Complete most of your core courses during your junior year, if possible. At least four of the seven electives taken must be cognitive science courses; others can be chosen from the list of approved electives or petitioned through the department. Students are advised to complete the core courses in their junior year, especially if they intend to apply to the honors program. Students intending to take Cognitive Science 118A and/or 118B are advised to take Math 20-A-B-C-E and Math 18 and 180A before their junior year.</p>
+                <h5>Lower Division (9 courses, 36 units)</h5>
+                <h6><strong>Math </strong>(chosen from the following): </h6>
+                <p>Math 10A-B-C or<br>
+                Math 20A-B, 18</p>
+        <h6>Cognitive Science:</h6>
+        <p><em>Introduction:</em> COGS 1<br>
+          <em>Design: </em>COGS 10 or DSGN 1<br>
+          <em>Methods:</em> COGS 13, 14A<br>
+        <em>Neuroscience:</em> COGS 17<br>
+        <em>Programming: </em>COGS 18 or CSE (7 or 8A or 11) <br>
+        </p>
+        <h5>Upper Division (12 courses, 48 units)</h5>
+        <h6>Core (choose any 6): </h6>
+        <p><em>Distributed Cognition: </em>COGS 100<br>
+          <em>Fundamental Cognitive Phenomena:</em> COGS 101A-B-C<br>
+          <em>Cognitive Neuroscience: </em>COGS 107A-B-C<br>
+          <em>Computation:</em> COGS 108 <br>
+        </p>
+        <h6>Electives (6 courses):</h6>
+        <ul>
+          <li>A total of six electives are required, where three of the six electives must be taken within the cognitive science department. </li>
+          <li>Courses in the Cognitive Science 19X series (190A-B-C, 195, 198, 199) may NOT be used as an elective to satisfy the major requirements for the bachelor&rsquo;s degree.  </li>
+          <li>COGS 160 may only be used once for elective.</li>
+          <li>A course taken outside the department must meet the following criteria: </li>
+        
+        <ol start="1" type="1">
+          <li>The course must deal with topics and issues that      are clearly part of cognitive science. </li>
+          <li>The material must not be available in a course      offered inside the department. </li>
+          </ol></ul>
+                <p>Majors must obtain departmental approval for electives taken outside of the department. This policy permits students and their advisers to be responsive to changes in course offerings.</p>
+                <h4>Course Requirements for the Bachelor of Science</h4>
+                <p>Complete most of your core courses during your junior year, if possible. At least three of the six electives taken must be cognitive science courses; others can be chosen from the list of approved electives or petitioned through the department. Students are advised to complete these core courses in their junior year, especially if they intend to apply to the honors program. Students intending to take Cognitive Science 118A and/or 118B are advised to take Math 20-A-B-C-E and Math 18 and 180A before their junior year. <br></p>
+                <h5>Lower Division (11 courses, 44 units or 10 courses, 40 units)</h5>
+                <h6><strong>Math </strong>(chosen from the following): </h6>
+                <p>Math 10A-B-C, 18 or<br>
+                  Math 20A-B, 18</p>
+                <h6>Cognitive Science:</h6>
+                <p><em>Introduction:</em> COGS 1<br>
+                  <em>Design: </em>COGS 10 or DSGN 1<br>
+                  <em>Methods:</em> COGS 13, 14A-B<br>
+                  <em>Neuroscience:</em> COGS 17<br>
+                  <em>Programming:</em> COGS 18 or CSE (7 or 8A or 11) <br>
+                </p>
+                <h5>Upper Division (12 courses, 48 units)</h5>
+                <h6>Core (6 courses):</h6>
+                <p><em>Distributed Cognition: </em>COGS 100<br>
+                  <em>Fundamental Cognitive Phenomena </em>(choose any two): COGS 101A-B-C<br>
+                  <em>Cognitive Neuroscience </em>(choose any two): COGS 107A-B-C<br>
+                  <em>Computation:</em> COGS 108 <br>
+                </p>
+                <h6>Electives (6 courses):</h6>
+                <ul>
+                  <li>A total of six electives are required, where three of the six electives must be taken within the cognitive science department. And if specialization, then four of the six electives must be taken from the approved specialization elective list.  </li>
+                  <li>For students that specialize in machine learning and neural computation, choose two from this group: COGS 118A-B-C-D. </li>
+                  <li>COGS 160 may only be used once for elective.</li>
+                  <li>One course in the Cognitive Science 19X series may be used as an elective to satisfy the requirements for the BS degree, but only with the approval of both the instructor who supervised the course and the undergraduate adviser. </li>
+                  <li>A course taken outside the department must meet the following criteria: </li>
+                  <ol start="1" type="1">
+                    <li>The course must deal with topics and issues that      are clearly part of cognitive science. </li>
+                    <li>The material must not be available in a course      offered inside the department. </li>
+                  </ol>
+                </ul>
+                <p>Majors must obtain departmental approval for electives taken outside of the department. This policy permits students and their advisers to be responsive to changes in course offerings.</p>
+                <h3>Suggested Four-Year Plan of Study </h3>
+                <p>The four-year plan of study below assures that all prerequisites and requirements for the cognitive science major are completed. The department does enforce course prerequisites and several courses are offered only once a year, so careful planning is important. It is recommended that lower-division courses be taken in the first two years, core courses in the third year, and electives in the final year. Check with a departmental adviser about which quarter cognitive science courses will be offered each academic year. Check with a college adviser about course planning to meet college requirements. </p>
+        <h4><span class="program-overview-subhead-3">Quarter by Quarter Plan for BA Degree</span>                </h4>
+               <table border="0" cellpadding="0" cellspacing="0" class="sample-program">
+<tr>
+<td valign="top" class="Normal"><p><strong>FALL</strong></p></td>
+<td valign="top" class="Normal"><p><strong>WINTER</strong></p></td>
+<td valign="top" class="Normal"><p><strong>SPRING</strong></p></td>
+</tr>
+
+<tr>
+<td valign="top" class="Normal"><p><strong>Freshman Year</strong></p></td>
+<td valign="top" class="Normal">&nbsp;</td>
+<td valign="top" class="Normal">&nbsp;</td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>Math 10A or 20A</p></td>
+<td valign="top" class="Normal"><p>Math 10B or 20B</p></td>
+<td valign="top" class="Normal"><p>Math 10C or 18</p></td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>COGS 10 or DSGN 1</p></td>
+<td valign="top" class="Normal"><p>COGS 1</p></td>
+<td valign="top" class="Normal"><p>COGS 13</p></td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>Requirements for your college</p></td>
+<td valign="top" class="Normal"><p>Requirements for your college</p></td>
+<td valign="top" class="Normal"><p>Requirements for your college</p></td>
+</tr>
+
+<tr>
+  <td colspan="2" valign="top" class="Normal"><p><strong>Sophomore Year</strong></p></td>
+  <td valign="top" class="Normal">&nbsp;</td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>COGS 17</p></td>
+<td valign="top" class="Normal"><p>COGS 14A</p></td>
+<td valign="top" class="Normal"><p>1 Computer Programming</p></td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>Requirements for your college</p></td>
+<td valign="top" class="Normal"><p>Requirements for your college</p></td>
+<td valign="top" class="Normal"><p>Requirements for your college</p></td>
+</tr>
+
+<tr>
+  <td valign="top" class="Normal"><p><strong>Junior Year</strong></p></td>
+  <td valign="top" class="Normal">&nbsp;</td>
+  <td valign="top" class="Normal">&nbsp;</td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>Core</p></td>
+<td valign="top" class="Normal"><p>Core</p></td>
+<td valign="top" class="Normal"><p>Core</p></td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>Core</p></td>
+<td valign="top" class="Normal"><p>Core</p></td>
+<td valign="top" class="Normal"><p>Core</p></td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>Requirements for your college</p></td>
+<td valign="top" class="Normal"><p>Requirements for your college</p></td>
+<td valign="top" class="Normal"><p>Requirements for your college</p></td>
+</tr>
+
+<tr>
+  <td valign="top" class="Normal"><p><strong>Senior Year</strong></p></td>
+  <td valign="top" class="Normal">&nbsp;</td>
+  <td valign="top" class="Normal">&nbsp;</td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>COGS UD Elective</p></td>
+<td valign="top" class="Normal"><p>COGS UD Elective</p></td>
+<td valign="top" class="Normal"><p>COGS UD Elective</p></td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>UD Elective</p></td>
+<td valign="top" class="Normal"><p>UD Elective</p></td>
+<td valign="top" class="Normal"><p>UD Elective</p></td>
+</tr>
+<tr>
+<td valign="top" class="Normal"><p>Requirements for your college</p></td>
+<td valign="top" class="Normal"><p>Requirements for your college</p></td>
+<td valign="top" class="Normal"><p>Requirements for your college</p></td>
+</tr>
+
+</table>
+        <tr>
+      
+                   <h4><span class="program-overview-subhead-3">Quarter by Quarter Plan for BS Degree</span></h4>
+        <table border="0" cellpadding="0" cellspacing="0" class="sample-program">
+                     <tr>
+                       <td valign="top" class="Normal"><p><strong>FALL</strong></p></td>
+                       <td valign="top" class="Normal"><p><strong>WINTER</strong></p></td>
+                       <td valign="top" class="Normal"><p><strong>SPRING</strong></p></td>
+                     </tr>
+                     <tr>
+                       <td valign="top" class="Normal"><p><strong>Freshman Year</strong></p></td>
+                       <td valign="top" class="Normal">&nbsp;</td>
+                       <td valign="top" class="Normal">&nbsp;</td>
+                     </tr>
+                     <tr>
+                       <td valign="top" class="Normal"><p>Math 10A or 20A</p></td>
+                       <td valign="top" class="Normal"><p>Math 10B or 20B</p></td>
+                       <td valign="top" class="Normal"><p>If Math 10 series then Math 10C</p></td>
+                     </tr>
+                     <tr>
+                       <td valign="top" class="Normal"><p>COGS 10 or DSGN 1</p></td>
+                       <td valign="top" class="Normal"><p>COGS 1</p></td>
+                       <td valign="top" class="Normal"><p>COGS 13</p></td>
+                     </tr>
+                     <tr>
+                       <td valign="top" class="Normal"><p>Requirements for your college</p></td>
+                       <td valign="top" class="Normal"><p>Requirements for your college</p></td>
+                       <td valign="top" class="Normal"><p>Requirements for your college</p></td>
+                     </tr>
+                     <tr>
+                       <td colspan="2" valign="top" class="Normal"><p><strong>Sophomore Year</strong></p></td>
+                       <td valign="top" class="Normal">&nbsp;</td>
+                     </tr>
+                     <tr>
+                       <td valign="top" class="Normal"><p>COGS 17</p></td>
+                       <td valign="top" class="Normal"><p>COGS 14A</p></td>
+                       <td valign="top" class="Normal"><p>1 Computer Programming</p></td>
+                     </tr>
+                     <tr>
+                       <td valign="top" class="Normal"><p>Math 18</p></td>
+                       <td valign="top" class="Normal"><p>Requirements for your college</p></td>
+                       <td valign="top" class="Normal"><p>COGS 14B</p></td>
+                     </tr>
+                       <tr>
+                       <td valign="top" class="Normal"><p>Requirements for your college</p></td>
+                       <td valign="top" class="Normal">&nbsp;</td>
+                       <td valign="top" class="Normal"><p>Requirements for your college</p></td>
+                     </tr>
+              <tr>
+                       <td valign="top" class="Normal"><p><strong>Junior Year</strong></p></td>
+                       <td valign="top" class="Normal">&nbsp;</td>
+                       <td valign="top" class="Normal">&nbsp;</td>
+          </tr>
+                     <tr>
+                       <td valign="top" class="Normal"><p>Fund Cog Phenomena</p></td>
+                       <td valign="top" class="Normal"><p>Fund Cog Phenomena</p></td>
+                       <td valign="top" class="Normal"><p>COGS 100</p></td>
+                     </tr>
+                     <tr>
+                       <td valign="top" class="Normal"><p>Cog Neuroscience</p></td>
+                       <td valign="top" class="Normal"><p>Cog Neuroscience</p></td>
+                       <td valign="top" class="Normal"><p>COGS 108</p></td>
+                     </tr>
+                     <tr>
+                       <td valign="top" class="Normal"><p>Requirements for your college</p></td>
+                       <td valign="top" class="Normal"><p>Requirements for your college</p></td>
+                       <td valign="top" class="Normal"><p>Requirements for your college</p></td>
+                     </tr>
+                     <tr>
+                       <td valign="top" class="Normal"><p><strong>Senior Year</strong></p></td>
+                       <td valign="top" class="Normal">&nbsp;</td>
+                       <td valign="top" class="Normal">&nbsp;</td>
+                     </tr>
+                     <tr>
+                       <td valign="top" class="Normal"><p>COGS UD Elective</p></td>
+                       <td valign="top" class="Normal"><p>COGS UD Elective</p></td>
+                       <td valign="top" class="Normal"><p>COGS UD Elective</p></td>
+                     </tr>
+                     <tr>
+                       <td valign="top" class="Normal"><p>UD Elective</p></td>
+                       <td valign="top" class="Normal"><p>UD Elective</p></td>
+                       <td valign="top" class="Normal"><p>UD Elective</p></td>
+                     </tr>
+                     <tr>
+                       <td valign="top" class="Normal"><p>Requirements for your college</p></td>
+                       <td valign="top" class="Normal"><p>Requirements for your college</p></td>
+                       <td valign="top" class="Normal"><p>Requirements for your college</p></td>
+                     </tr>
+        </table>
+        <tr>
+          <h3>BS in Cognitive and Behavioral Neuroscience (CBN)</h3>
+                     <p>The BS in cognitive and behavioral neuroscience (CBN) is a major jointly administered by the Departments of&nbsp;Cognitive Science and Psychology. Cognitive and behavioral neuroscience seeks to determine, understand, and examine the links between neural activity and perception (e.g., color vision, attention), basic behaviors (e.g., appetitive drives such as hunger and sleep), and higher-level cognitive function (e.g., working memory and executive function) using multiple tools ranging from single-unit physiology to functional magnetic resonance imaging (fMRI) and electroencephalography (EEG).</p>
+          <h5>Lower-Division Requirements (9 courses, 36 units)</h5>
+          <h6>Three Natural Science Courses</h6>
+                     <ul type="disc">
+                       <li>COGS 17</li>
+          </ul>
+                     <p>Plus choose two of the following: </p>
+                     <ul type="disc">
+                       <li>BILD 1, 2, 3, 10, 20, 24, 26 (BILD 12 and 22 are      NOT accepted)</li>
+                       <li>CHEM 4*, 6A-B-C, 11*, 12, 13</li>
+         
+            <li>PHYS 1A-B-C, 2A-B-C, 10, 11</li>
+          </ul>
+        <p class="note">*Only one of CHEM 4 or 11 can be taken for credit.</p>
+                       
+                          <h6>Four Formal Skills Courses</h6>
+                          <ul type="disc">
+                            <li>Math 10A or 20A*</li>
+                            <li>Math 10B or 20B*</li>
+                            <li>Math 10C or 20C*</li>
+                            <li>COGS 14A or PSYC 70</li>
+                          </ul>
+          <p><span class="note">*Preferred calculus courses critical for the success of students who plan to pursue mathematically intensive areas of CBN.</span></p>
+                            <h6>One Computer Programming Course (choose one)
+                            </h6>
+                            </strong></strong>
+                          <ul type="disc">
+                            <li>COGS 18*</li>
+                            <li>CSE 7*, 8A-B, 11, 12</li>
+          </ul>
+                          <p>By petition, one of the following may be accepted for the major: ECE 15 or MAE 8.</p>
+                            <p><span class="note">*Preferred computer programming courses critical for the success of students who plan to pursue research careers in cognitive science or psychology. </span></p>
+                            <h6>
+                           One Statistics Course (choose one)</h6>
+                          <ul type="disc">
+                            <li>COGS 14B or PSYC 60</li>
+                          </ul>
+                          <p>By petition, Math 11 will be accepted for the major.<br>
+                            <br>
+                            <span class="note">Note: Statistics must be taken for a letter grade.&nbsp;All lower-division courses must be passed with a minimum grade of C– or P.</span></p>
+                            <h5>
+                            Upper-Division Requirements (14 courses, 56 units)</h5>
+                          <h6>Four CBN Core Courses</h6>
+                          <ul type="disc">
+                            <li>COGS 107A</li>
+                            <li>COGS 101A or PSYC 102 </li>
+                            <li>COGS 107B or PSYC 106</li>
+                            <li>COGS 107C or PSYC 108</li>
+                          </ul>
+                          <h6>
+                         Two Research Experience Courses</h6>
+                          <ul type="disc">
+                            <li>COGS 102B-C, 118B, 119, 120, 121, 153, 160 (must      pre-approve), 189, 199</li>
+                            <li>PSYC 114, 115A-B, 116, 117, 121, 140, 199</li>
+                          </ul>
+                          <p>By petition, one of the following will be accepted for the major: BIPN 105, CHEM 143A-B-C.<br>
+          </p>
+                          <p>If the two research courses are 199s, at least one of them must culminate in a research paper approved by the faculty adviser and submitted to the corresponding department’s Student Affairs Office prior to graduation.&nbsp;Please see the corresponding department for more information. </p>
+                            <h6>
+                            Six Upper-Division Courses in CBN (choose six of the following)</h6>
+                          <ul type="disc">
+                            <li>COGS 115, 119, 154, 163, 164, 169, 171, 172, 174,      175, 176, 177, 178, 179, 180, 184</li>
+                            <li>PSYC 116, 122, 123, 125, 132, 133, 144, 150, 159,      169, 170, 171, 179, 181, 189</li>
+                            <li>HDP 110</li>
+                          </ul>
+                          <h6>
+                            Two Additional Upper-Division Elective Courses (choose two of the following)</h6>
+                          <ul type="disc">
+                            <li>COGS 101B-C, 102A-B-C, 109-189</li>
+                            <li>PSYC 100, 101, 104, 105, 110-193</li>
+                          </ul>
+                          <h6>Upper-Division Major Regulations:</h6>
+                          <ul type="disc">
+                            <li>All upper-division courses numbered 100-193 must      be taken for a letter grade and a minimum grade of C- is required for the      course to count toward the major. </li>
+                            <li>Courses taken Pass/Not Pass cannot count toward      the upper-division CBN major requirement. </li>
+                            <li>Excluded from credit toward the major are      graduate seminars (2XX). </li>
+                            <li>A minimum of nine upper-division courses toward      the CBN major must be taken at UC San Diego. </li>
+                            <li>A grade-point average of at      least 2.0 in the upper-division major courses is required for graduation. </li>
+                          </ul>
+                          <h3>Suggested Four-Year Plan of Study </h3>
+        <h4><span class="program-overview-subhead-3">Quarter by Quarter Plan for CBN Degree</span></h4>
+                          <table border="0" cellpadding="0" cellspacing="0" class="sample-program">
+                            <tr>
+                              <td valign="top" class="Normal"><p><strong>FALL</strong></p></td>
+                              <td valign="top" class="Normal"><p><strong>WINTER</strong></p></td>
+                              <td valign="top" class="Normal"><p><strong>SPRING</strong></p></td>
+                            </tr>
+                            <tr>
+                              <td valign="top" class="Normal"><p><strong>Freshman Year</strong></p></td>
+                              <td valign="top" class="Normal">&nbsp;</td>
+                              <td valign="top" class="Normal">&nbsp;</td>
+                            </tr>
+                            <tr>
+                              <td valign="top" class="Normal"><p>Math 10A or 20A</p></td>
+                              <td valign="top" class="Normal"><p>Math 10B or 20B</p></td>
+                              <td valign="top" class="Normal"><p>Math 10A or 20C</p></td>
+                            </tr>
+                            <tr>
+                              <td valign="top" class="Normal"><p>COGS 17</p></td>
+                              <td valign="top" class="Normal"><p>1 Natural Science</p></td>
+                              <td valign="top" class="Normal"><p>1 Ntural Science</p></td>
+                            </tr>
+                            <tr>
+                              <td valign="top" class="Normal"><p>Requirements for your college</p></td>
+                              <td valign="top" class="Normal"><p>Requirements for your college</p></td>
+                              <td valign="top" class="Normal"><p>Requirements for your college</p></td>
+                            </tr>
+                            <tr>
+                              <td colspan="2" valign="top" class="Normal"><p><strong>Sophomore Year</strong></p></td>
+                              <td valign="top" class="Normal">&nbsp;</td>
+                            </tr>
+                            <tr>
+                              <td valign="top" class="Normal"><p>COGS 14A or Psyc 70</p></td>
+                              <td valign="top" class="Normal"><p>COGS 14B or Psyc 60</p></td>
+                              <td valign="top" class="Normal"><p>1 Computer Programming</p></td>
+                            </tr>
+                            <tr>
+                              <td valign="top" class="Normal"><p>Requirements for your college</p></td>
+                              <td valign="top" class="Normal"><p>Requirements for your college</p></td>
+                              <td valign="top" class="Normal"><p>Requirements for your college</p></td>
+                            </tr>
+                            <tr>
+                              <td valign="top" class="Normal"><p><strong>Junior Year</strong></p></td>
+                              <td valign="top" class="Normal">&nbsp;</td>
+                              <td valign="top" class="Normal">&nbsp;</td>
+                            </tr>
+                            <tr>
+                              <td valign="top" class="Normal"><p>COGS 107A</p></td>
+                              <td valign="top" class="Normal"><p>1 CBN Core</p></td>
+                              <td valign="top" class="Normal"><p>1 CBN Core</p></td>
+                            </tr>
+                            <tr>
+                              <td valign="top" class="Normal"><p>1 CBN Core</p></td>
+                              <td valign="top" class="Normal"><p>1 CBN Elective</p></td>
+                              <td valign="top" class="Normal"><p>1 CBN Research</p></td>
+                            </tr>
+                            <tr>
+                              <td valign="top" class="Normal"><p>Requirements for your college</p></td>
+                              <td valign="top" class="Normal"><p>Requirements for your college</p></td>
+                              <td valign="top" class="Normal"><p>1 CBN Research</p></td>
+                            </tr>
+                            <tr>
+                              <td valign="top" class="Normal"><p>&nbsp;</p></td>
+                              <td valign="top" class="Normal"><p>&nbsp;</p></td>
+                              <td valign="top" class="Normal"><p>Requirements for your college</p></td>
+                            </tr>
+                            <tr>
+                              <td valign="top" class="Normal"><p><strong>Senior Year</strong></p></td>
+                              <td valign="top" class="Normal">&nbsp;</td>
+                              <td valign="top" class="Normal">&nbsp;</td>
+                            </tr>
+                            <tr>
+                              <td valign="top" class="Normal"><p>1 CBN Elective</p></td>
+                              <td valign="top" class="Normal"><p>1 CBN Elective</p></td>
+                              <td valign="top" class="Normal"><p>1 CBN Elective</p></td>
+                            </tr>
+                            <tr>
+                              <td valign="top" class="Normal"><p>1 CBN Elective</p></td>
+                              <td valign="top" class="Normal"><p>1 Additional Elective</p></td>
+                              <td valign="top" class="Normal"><p>1 Additional Elective</p></td>
+                            </tr>
+                            <tr>
+                              <td valign="top" class="Normal"><p>1 CBN Research</p></td>
+                              <td valign="top" class="Normal"><p>Requirements for your college</p></td>
+                              <td valign="top" class="Normal"><p>Requirements for your college</p></td>
+                            </tr>
+                                                     <tr>
+                              <td valign="top" class="Normal"><p>Requirements for your college</p></td>
+                              <td valign="top" class="Normal"><p>&nbsp;</p></td>
+                              <td valign="top" class="Normal"><p>&nbsp;</p></td>
+                            </tr>
+ </table>
+                          <tr>
+                            <p class="anchor-parent"><a class="anchor" id="honors"></a></p><h3 class="program-overview-subhead-2">Cognitive Science Honors Program </h3>
+                            <p>The Department of Cognitive Science offers an honors program for a limited number of majors who have demonstrated excellence, talent, and high motivation. </p>
+                            <h4 class="program-overview-subhead-3">Eligibility Requirements </h4>
+                            <p>Students are eligible for admission to the program when they</p>
+                            <ol>
+                              <li>Complete all core courses </li>
+                              <li>Have at least junior level standing </li>
+                              <li>Have at least a 3.5 GPA in upper-division major courses and at least
+                                a 3.0 overall GPA </li>
+                            </ol>
+                            <p>Eligible students will enroll in four units of 190A (Pre-Honors Project in Cognitive Science) under a faculty member who has agreed to advise them on a potential honors project. Students may apply the COGS 190A course as an elective toward major requirements whether or not they enter the Honors Program. At the end of the 190A course, students will submit to their faculty mentor a written project proposal. The proposal will define the question to be investigated, survey existing literature, describe the approach and methods that will be used, explain how data will be collected if it is an empirical study, detail how human subjects requirements will be met if necessary, discuss expected results, and provide a timeline for project completion. </p>
+                            <h4 class="program-overview-subhead-3">Acceptance in Honors Program </h4>
+                            <p>To formally enter the Honors Program, students must meet the eligibility requirements above, receive a grade of A– or better in COGS 190A, establish an honors committee of at least two faculty and one graduate student to review the proposal and advise them during the process of completing the honors project, and have their project proposal approved by their honors committee. </p>
+                            <p>The honors committee must be kept informed of any deviations from the original approved project proposal and timeline. Students who fail to make satisfactory progress may be asked to withdraw from the program at any point the adviser or the department chair deems necessary. </p>
+                            <p>Successful completion of the Honors Program requires</p>
+                            <ol>
+                              <li>Maintenance of a 3.5 GPA in upper-division major courses, and a
+                                3.0 overall GPA </li>
+                              <li>Completion of one cognitive science (or related) graduate level
+                                course (may be taken P/NP). Students may use the required
+                                graduate course as one of their electives for the major whether
+                                or not they complete the honors project </li>
+                              <li>Completion of COGS 190B and 190C with letter grades of      A–      or better, and 198 </li>
+                              
+                              
+                              <li>Completion of COGS 190D (Preparation for Thesis Presentation), a
+                                one-unit seminar given each spring (P/NP) </li>
+                              <li>Completion of a written honors thesis describing the project </li>
+                              <li>Approval of the thesis by the honors committee and the department
+                                chair </li>
+                              <li>Satisfactory presentation of the honors thesis to the cognitive
+                                science community at the Honors Thesis Presentation Conference,
+                                spring quarter </li>
+                              </ol>
+                            <p>Students who successfully complete all of the requirements for the Honors Program will graduate with Distinction in Cognitive Science recorded on their transcripts. </p>
+                            <h3 class="program-overview-subhead-2">Minors and Programs of Concentration </h3>
+                            <p>Each college has specific requirements, and students should consult with an academic adviser in their provost&#8217;s office as well as a cognitive science adviser to be sure they fulfill requirements of the college and of the department. </p>
+                            <p>To receive a minor from the Department of Cognitive Science, a student must complete a total of seven (four unit) courses; five of which must be upper division. Lower-division requirements are normally fulfilled by completing (one of) COGS 1, 3, 10, 11, 13, or 14A and (one of) COGS 9, 12, 14B, 17, or COGS 18. </p>
+                            <p>Upper-division requirements are normally fulfilled by completing two cognitive science electives (COGS 100–189) and three of the following core courses: </p>
+<p><em>Distributed Cognition:</em> COGS 100<br>
+  <em>Fundamental Cognitive Phenomena:</em> COGS 101A-B-C<br>
+  <em>Cognitive Neuroscience:</em> COGS 107A-B-C<br>
+  <em>Computation: </em>COGS 108 </p>
+<p>All courses must be taken for a letter grade. No grade below C– is acceptable. </p>
+                            <h3 class="program-overview-subhead-2">Transfer Credit </h3>
+                            <p>Students who wish to transfer from another institution to UC San Diego as cognitive science majors should work closely with university advisers to ensure that all lower-division requirements have been completed and are equivalent to those offered at UC San Diego. It is extremely important for students to have completed lower-division requirements by the end of their sophomore year so they are prepared for core courses in their junior year. Advanced UC San Diego students who wish to transfer to the department should consult with the departmental advisers about credit for courses already completed. </p>
+                            <h4 class="program-overview-subhead-3">Education Abroad </h4>
+                            <p>Students majoring in cognitive science are encouraged to participate in the Education Abroad Programs (EAP), and to investigate other options of foreign study through the Opportunities Abroad Program (OAP). By petition, credits earned through EAP/OAP can fulfill UC San Diego degree and major requirements. Please visit the website at<a href="http://studyabroad.ucsd.edu" target="_blank"> http://studyabroad.ucsd.edu</a> for further details. Financial aid is applicable and special study abroad scholarships are readily available. </p>
+          <!-- #EndEditable -->
+	</div> <!-- end of .container -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-push-8">
+			        <a href="http://www.ucsd.edu" target="_blank"><img srcset="../images/uc-san-diego-logo-white.png, 
+			        			../images/uc-san-diego-logo-white-2x.png 2x" src="../images/uc-san-diego-logo-white.png" alt="UC San Diego logo" class="img-responsive footer-logo"></a>
+			    </div>
+			    
+			    <div class="col-sm-8 col-sm-pull-4">
+		            <p>
+			            <span>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</span>
+						<br>
+			            <span>
+			                Copyright © <span class="footer-copyright-year">2020</span> 
+			                Regents of the University of California. All&nbsp;rights&nbsp;reserved.
+			            </span>
+			        </p>    
+		            <ul class="footer-links">
+			            <li><a href="https://www.ucsd.edu/_about/legal/index.html" target="_blank">Terms &amp; Conditions</a></li>
+			            <li><a href="https://act.ucsd.edu/cwp/feedback/tool/cwo" target="_blank">Feedback</a></li>
+			        </ul>
+		        </div>
+			</div>
+		</div>
+	</footer> <!-- End .footer -->
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins test) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script> 
+	<script src="../js/custom.js"></script> 
+    
+<!-- COMMENT THIS LINE FOR WORKING VERSION, UNCOMMENT THIS LINE FOR LIVE VERSION -->  <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));</script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-3409104-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>  <!-- LAST OF SCRIPT TO COMMENT/UNCOMMENT DEPENDING ON VERSION-->
+</body>
+<!-- #EndTemplate --></html> 
