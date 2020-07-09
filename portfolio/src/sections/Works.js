@@ -52,8 +52,16 @@ const EllipsisHeading = styled(Heading)`
   text-overflow: ellipsis;
   display: -webkit-inline-box;
   -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
+  -webkit-box-orient: horizontal;
   border-bottom: ${(props) => props.theme.colors.primary} 5px solid;
+  font-size: 20px;
+  font-weight: 1000;
+`;
+
+const Title = styled(Text)`
+  font-size: 14px;
+  font-weight: 1000;
+  font-style: italic;
 `;
 
 const Work = ({
@@ -75,6 +83,9 @@ const Work = ({
       <EllipsisHeading m={3} p={1} color="text">
         {company}
       </EllipsisHeading>
+      <Title m={3} color="text">
+        {title}
+      </Title>
       <CoverImage src={logo.image.src} height="200px" alt={logo.title} />
       <Text m={3} color="text">
         {description}
@@ -103,7 +114,7 @@ Work.propTypes = {
 
 const Works = () => (
   <Section.Container id="work" Background={Background}>
-    <Section.Header name="Where I've worked" icon="≧◠ᴥ◠≦✊" label="work" />
+    <Section.Header name="Where I've worked" icon="≧◠ᴥ◠≦" label="work" />
     <StaticQuery
       query={graphql`
         query WorkQuery {
@@ -118,7 +129,7 @@ const Works = () => (
               endDate(formatString: "MM/YY")
               logo {
                 title
-                image: resize(width: 100, quality: 100) {
+                image: resize(quality: 100) {
                   src
                 }
               }

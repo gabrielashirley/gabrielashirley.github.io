@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "deploy:github": "npm run build && node ./scripts/deploy-github",
-    "deploy": "gatsby build && gh-pages -d public -b master",
     "pre-build": "node scripts/get-about",
     "build": "yarn pre-build && gatsby build",
     "develop": "yarn pre-build && gatsby develop",
@@ -29,7 +28,7 @@
     "PWA",
     "portfolio"
   ],
-  "author": "Ema Suriano",
+  "author": "Gabriela Shirley",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/EmaSuriano/gatsby-starter-mate/issues"

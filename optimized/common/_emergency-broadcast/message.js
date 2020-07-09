@@ -1,1 +1,0 @@
-document.URL.indexOf("tritON/profile/SAML2/Redirect/SSO"),function(e){e(document).ready(function(){e.ajax({url:"https://www.ucsd.edu/common/_emergency-broadcast/js-message.jsonp?callback=?",dataType:"jsonp",jsonpCallback:"showEmergencyMessage"})})}(jQuery);

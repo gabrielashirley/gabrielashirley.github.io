@@ -22,8 +22,8 @@ const BORDER_RADIUS_MAP = {
 const ImageSubtitle = styled(Box)`
   position: absolute;
   display: inline;
-  padding: 10px;
-  font-size: 14px;
+  padding: 8px;
+  font-size: 13px;
   font-weight: 600;
   text-transform: uppercase;
 
