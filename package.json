@@ -4,6 +4,7 @@
   "description": "Gatsby v2 starter to create a top notch portfolio!",
   "main": "index.js",
   "scripts": {
+    "deploy:github": "npm run build && node ./scripts/deploy-github",
     "deploy": "gatsby build && gh-pages -d public -b master",
     "pre-build": "node scripts/get-about",
     "build": "yarn pre-build && gatsby build",
