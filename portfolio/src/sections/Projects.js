@@ -37,7 +37,7 @@ const Background = () => (
   </div>
 );
 
-const CARD_HEIGHT = '235px';
+const CARD_HEIGHT = '240px';
 
 const MEDIA_QUERY_SMALL = '@media (max-width: 400px)';
 
