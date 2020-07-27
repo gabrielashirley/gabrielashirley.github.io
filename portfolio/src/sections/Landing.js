@@ -82,16 +82,16 @@ const LandingPage = () => (
             <Heading
               as="h2"
               color="primary"
-              fontSize={[5, 6]}
+              fontSize={[4, 5]}
               mb={[3, 5]}
               textAlign="center"
               style={centerHorizontally}
             >
-              <TextLoop interval={5000}>
+              <TextLoop interval={3500}>
                 {roles
                   .sort(() => deterministicBehaviour || Math.random() - 0.5)
                   .map((text) => (
-                    <Text width={[300, 500]} key={text}>
+                    <Text width={[300, 500]} key={text} flexWrap="wrap">
                       {text}
                     </Text>
                   ))}
@@ -100,7 +100,7 @@ const LandingPage = () => (
 
             <Flex alignItems="center" justifyContent="center" flexWrap="wrap">
               {socialLinks.map(({ id, ...rest }) => (
-                <Box mx={3} fontSize={[5, 6, 6]} key={id}>
+                <Box mx={2} fontSize={[5, 6, 6]} key={id}>
                   <SocialLink {...rest} />
                 </Box>
               ))}

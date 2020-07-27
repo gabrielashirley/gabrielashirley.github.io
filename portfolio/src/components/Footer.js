@@ -58,10 +58,10 @@ const Footer = () => (
         <Box p={[2, 3]} backgroundColor="primaryDark" id="footer">
           <FooterContainer>
             <Fade left>
-              <TextFooter fontSize={[2, 3]}>
-                <span>{`${name} Portfolio - Powered by `}</span>
+              <TextFooter fontSize={[1, 2]}>
+                <span>{`${name} • Powered by `}</span>
                 <Link href="https://www.gatsbyjs.org/">Gatsby</Link>
-                <span> , </span>
+                <span>, </span>
                 <Link href="https://www.contentful.com/">
                   Contentful
                 </Link>
@@ -74,7 +74,7 @@ const Footer = () => (
                 </span>
               </TextFooter>
             </Fade>
-            <Flex>
+            <Flex alignItems="center" justifyContent="center" flexWrap="wrap">
               <Fade right>
                 {socialLinks.map(({ id, ...rest }) => (
                   <Box mx={[2, 3]} fontSize={[4, 5]} key={id}>
