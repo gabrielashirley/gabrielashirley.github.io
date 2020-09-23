@@ -1,0 +1,20 @@
+<div id="schedule" class="grid-x grid-padding-x align-center align-middle">
+  <div class="cell medium-6 large-8">
+    <h1>Schedule</h1>
+    <div class="grid-x">
+      {{#each schedule}}
+        <div class="schedule-cell cell large-6">
+          <h3 class="dates">{{ date }}</h3>
+          {{#each times}}
+            <div class="time-slot">
+              <span class="time"><b>{{ time }}</b></span>
+              <div class="vertical-divider"></div>
+              {{ what }}
+            </div>
+            <!-- <div class="divider"></div> -->
+          {{/each}}
+        </div>
+      {{/each}}
+    </div>
+  </div>
+</div>

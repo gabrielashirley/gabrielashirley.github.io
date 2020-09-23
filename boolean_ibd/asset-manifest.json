@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a934dfc.chunk.css",
+    "main.js": "/static/js/main.de19e6b7.chunk.js",
+    "main.js.map": "/static/js/main.de19e6b7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.98a2b520.js",
+    "runtime-main.js.map": "/static/js/runtime-main.98a2b520.js.map",
+    "static/js/2.97307543.chunk.js": "/static/js/2.97307543.chunk.js",
+    "static/js/2.97307543.chunk.js.map": "/static/js/2.97307543.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6ec8dc7102e4daa74bb089640cbc2fef.js": "/precache-manifest.6ec8dc7102e4daa74bb089640cbc2fef.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6a934dfc.chunk.css.map": "/static/css/main.6a934dfc.chunk.css.map",
+    "static/js/2.97307543.chunk.js.LICENSE.txt": "/static/js/2.97307543.chunk.js.LICENSE.txt",
+    "static/media/angela-wang.jpg": "/static/media/angela-wang.f7b1aed5.jpg",
+    "static/media/anh-pahm.jpg": "/static/media/anh-pahm.cb12d1c1.jpg",
+    "static/media/boolean-logo.png": "/static/media/boolean-logo.57f1a9e1.png",
+    "static/media/cd-network.svg": "/static/media/cd-network.30b03f36.svg",
+    "static/media/colon-tissue.svg": "/static/media/colon-tissue.9298c911.svg",
+    "static/media/debashis-sahoo.jpg": "/static/media/debashis-sahoo.d769eedf.jpg",
+    "static/media/emthealing.png": "/static/media/emthealing.09ba5bfc.png",
+    "static/media/gabriela-shirley.jpg": "/static/media/gabriela-shirley.e0cf7fbb.jpg",
+    "static/media/genderbias.png": "/static/media/genderbias.8220e71e.png",
+    "static/media/hero_background.webp": "/static/media/hero_background.c3130b4d.webp",
+    "static/media/ibd-network.svg": "/static/media/ibd-network.9f7776e1.svg",
+    "static/media/ibdoutcome.png": "/static/media/ibdoutcome.9c9f5eaa.png",
+    "static/media/mousemodel.png": "/static/media/mousemodel.b82d02cf.png",
+    "static/media/ti.png": "/static/media/ti.674d68fd.png",
+    "static/media/uc-network.svg": "/static/media/uc-network.80425b7a.svg",
+    "static/media/upgrade-icon.svg": "/static/media/upgrade-icon.fd77e55e.svg",
+    "static/media/user-avatar.svg": "/static/media/user-avatar.b22016ec.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98a2b520.js",
+    "static/js/2.97307543.chunk.js",
+    "static/css/main.6a934dfc.chunk.css",
+    "static/js/main.de19e6b7.chunk.js"
+  ]
+}

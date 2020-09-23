@@ -1,0 +1,80 @@
+[
+  {
+    "date": "April 27",
+    "times": [
+      {
+        "time": "09:00",
+        "what": "Check In"
+      },
+      {
+        "time": "10:00",
+        "what": "Opening Ceremony"
+      },
+      {
+        "time": "11:00",
+        "what": "Lunch & Snacks"
+      },
+      {
+        "time": "12:00",
+        "what": "Team Formation"
+      },
+      {
+        "time": "12:00",
+        "what": "Hacking Begins"
+      },
+      {
+        "time": "13:00",
+        "what": "Workshop 1: Intro to Git & Github"
+      },
+      {
+        "time": "14:00",
+        "what": "Workshop 2: Intro to Web Development by Google"
+      },
+      {
+        "time": "15:00",
+        "what": "Snack"
+      },
+      {
+        "time": "16:00",
+        "what": "Workshop 3: Intro to APIs"
+      },
+      {
+        "time": "17:00",
+        "what": "Workshop 4: Cloud Computing with AWS"
+      },
+      {
+        "time": "18:00",
+        "what": "Fun Activity: Cup Stacking"
+      },
+      {
+        "time": "19:00",
+        "what": "Dinner"
+      },
+      {
+        "time": "20:00",
+        "what": "Venue Closing"
+      }
+    ]
+  },
+  {
+    "date": "April 28",
+    "times": [
+      {
+        "time": "09:00",
+        "what": "Check In, Hacking Continues"
+      },
+      {
+        "time": "11:00",
+        "what": "Lunch"
+      },
+      {
+        "time": "12:00",
+        "what": "Hacking Ends, Judging Begins"
+      },
+      {
+        "time": "13:30",
+        "what": "Awards & Closing Ceremony"
+      }
+    ]
+  }
+]
