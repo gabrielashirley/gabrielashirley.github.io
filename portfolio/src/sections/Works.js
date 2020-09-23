@@ -91,7 +91,8 @@ const Work = ({
         {description}
       </Text>
       <ImageSubtitle bg="primary" color="white" x="right" y="bottom" round>
-        {`${startDate} - ${endDate}`}
+        {startDate}
+        {endDate ? ` - ${endDate}` : ' - PRESENT'}
       </ImageSubtitle>
     </Card>
   </a>
@@ -108,8 +109,7 @@ Work.propTypes = {
     title: PropTypes.string,
   }).isRequired,
   url: PropTypes.string.isRequired,
-  startDate: PropTypes.string.isRequired,
-  endDate: PropTypes.number.isRequired,
+  startDate: PropTypes.string.isRequired
 };
 
 const Works = () => (
