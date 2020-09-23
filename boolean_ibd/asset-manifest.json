@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/boolean_ibd/static/css/main.6a934dfc.chunk.css",
-    "main.js": "/boolean_ibd/static/js/main.0cd2accd.chunk.js",
-    "main.js.map": "/boolean_ibd/static/js/main.0cd2accd.chunk.js.map",
+    "main.js": "/boolean_ibd/static/js/main.b00476de.chunk.js",
+    "main.js.map": "/boolean_ibd/static/js/main.b00476de.chunk.js.map",
     "runtime-main.js": "/boolean_ibd/static/js/runtime-main.8be828d4.js",
     "runtime-main.js.map": "/boolean_ibd/static/js/runtime-main.8be828d4.js.map",
     "static/js/2.97307543.chunk.js": "/boolean_ibd/static/js/2.97307543.chunk.js",
     "static/js/2.97307543.chunk.js.map": "/boolean_ibd/static/js/2.97307543.chunk.js.map",
     "index.html": "/boolean_ibd/index.html",
-    "precache-manifest.c18442fac31775c4a8be7198d31cfbc9.js": "/boolean_ibd/precache-manifest.c18442fac31775c4a8be7198d31cfbc9.js",
+    "precache-manifest.6150beff3baa259069d5c9afc1cdf67f.js": "/boolean_ibd/precache-manifest.6150beff3baa259069d5c9afc1cdf67f.js",
     "service-worker.js": "/boolean_ibd/service-worker.js",
     "static/css/main.6a934dfc.chunk.css.map": "/boolean_ibd/static/css/main.6a934dfc.chunk.css.map",
     "static/js/2.97307543.chunk.js.LICENSE.txt": "/boolean_ibd/static/js/2.97307543.chunk.js.LICENSE.txt",
@@ -34,6 +34,6 @@
     "static/js/runtime-main.8be828d4.js",
     "static/js/2.97307543.chunk.js",
     "static/css/main.6a934dfc.chunk.css",
-    "static/js/main.0cd2accd.chunk.js"
+    "static/js/main.b00476de.chunk.js"
   ]
 }
