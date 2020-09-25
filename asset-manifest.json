@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/boolean_ibd/static/css/main.6a934dfc.chunk.css",
+    "main.js": "/boolean_ibd/static/js/main.b00476de.chunk.js",
+    "main.js.map": "/boolean_ibd/static/js/main.b00476de.chunk.js.map",
+    "runtime-main.js": "/boolean_ibd/static/js/runtime-main.8be828d4.js",
+    "runtime-main.js.map": "/boolean_ibd/static/js/runtime-main.8be828d4.js.map",
+    "static/js/2.97307543.chunk.js": "/boolean_ibd/static/js/2.97307543.chunk.js",
+    "static/js/2.97307543.chunk.js.map": "/boolean_ibd/static/js/2.97307543.chunk.js.map",
+    "index.html": "/boolean_ibd/index.html",
+    "precache-manifest.6150beff3baa259069d5c9afc1cdf67f.js": "/boolean_ibd/precache-manifest.6150beff3baa259069d5c9afc1cdf67f.js",
+    "service-worker.js": "/boolean_ibd/service-worker.js",
+    "static/css/main.6a934dfc.chunk.css.map": "/boolean_ibd/static/css/main.6a934dfc.chunk.css.map",
+    "static/js/2.97307543.chunk.js.LICENSE.txt": "/boolean_ibd/static/js/2.97307543.chunk.js.LICENSE.txt",
+    "static/media/angela-wang.jpg": "/boolean_ibd/static/media/angela-wang.f7b1aed5.jpg",
+    "static/media/anh-pahm.jpg": "/boolean_ibd/static/media/anh-pahm.cb12d1c1.jpg",
+    "static/media/boolean-logo.png": "/boolean_ibd/static/media/boolean-logo.57f1a9e1.png",
+    "static/media/cd-network.svg": "/boolean_ibd/static/media/cd-network.30b03f36.svg",
+    "static/media/colon-tissue.svg": "/boolean_ibd/static/media/colon-tissue.9298c911.svg",
+    "static/media/debashis-sahoo.jpg": "/boolean_ibd/static/media/debashis-sahoo.d769eedf.jpg",
+    "static/media/emthealing.png": "/boolean_ibd/static/media/emthealing.09ba5bfc.png",
+    "static/media/gabriela-shirley.jpg": "/boolean_ibd/static/media/gabriela-shirley.e0cf7fbb.jpg",
+    "static/media/genderbias.png": "/boolean_ibd/static/media/genderbias.8220e71e.png",
+    "static/media/hero_background.webp": "/boolean_ibd/static/media/hero_background.c3130b4d.webp",
+    "static/media/ibd-network.svg": "/boolean_ibd/static/media/ibd-network.9f7776e1.svg",
+    "static/media/ibdoutcome.png": "/boolean_ibd/static/media/ibdoutcome.9c9f5eaa.png",
+    "static/media/mousemodel.png": "/boolean_ibd/static/media/mousemodel.b82d02cf.png",
+    "static/media/ti.png": "/boolean_ibd/static/media/ti.674d68fd.png",
+    "static/media/uc-network.svg": "/boolean_ibd/static/media/uc-network.80425b7a.svg",
+    "static/media/upgrade-icon.svg": "/boolean_ibd/static/media/upgrade-icon.fd77e55e.svg",
+    "static/media/user-avatar.svg": "/boolean_ibd/static/media/user-avatar.b22016ec.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8be828d4.js",
+    "static/js/2.97307543.chunk.js",
+    "static/css/main.6a934dfc.chunk.css",
+    "static/js/main.b00476de.chunk.js"
+  ]
+}
